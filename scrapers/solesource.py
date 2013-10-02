@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #Sole Source Scraper
 from pyquery import PyQuery as pq
 
