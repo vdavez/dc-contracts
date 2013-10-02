@@ -17,6 +17,8 @@ But, it is not a permanent site, so once the contract is awarded, the info goes 
 
 This scraper will hopefully solve that problem by making a permanent JSON record of the notice of intent to award a sole-source contract.
 
+And, there's another part too. The PDFs contain information about the estimated reasonable price, which is not accessible in the table. But, the PDF is text-searchable and follows a standard format, so it should be doable to extract that information and include it in the JSON.
+
 ## Contract Solicitations
 ### OCP
 ### Rest of DC Government
