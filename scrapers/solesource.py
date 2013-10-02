@@ -3,9 +3,6 @@ from pyquery import PyQuery as pq
 
 d = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
 
-# print "This is the title of the scraped website:"
-# print d("title").text()
-
 ## Here's how this is going to work
 # The content is in a table in the div class "contentContainer".
 content = d('div').filter('.contentContainer')
