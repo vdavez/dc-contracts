@@ -1,5 +1,9 @@
+#!/usr/bin/env python
+
 #Sole Source Scraper
+
 from pyquery import PyQuery as pq
+import json
 
 d = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
 
@@ -9,16 +13,29 @@ content = d('div').filter('.contentContainer')
 
 # The table has a first row with headers. The second row and all subsequent rows are the contents.
 
-out = ""
+data = []
 
 # Loop through the rows
-for i in content.items('TR'):
-  for c in i.items('TD'):
-    out = out + '"' + c.text() + '",'
-  out = out + '\n'
+for row in content.find('tr'):
+  cells = row.cssselect('td')
 
-#This will spit out a poorly formed CSV. The last character the line is a comma...
-print out
+  # skip header row
+  if cells[0].text_content() == "Notice Date":
+    continue
+
+  # append a dict of sole source data to the main data array,
+  # with keys named after each cell
+  data.append({
+    "notice_date": cells[0].text_content(),
+    "response_due_date": cells[1].text_content(),
+    "description": cells[2].text_content(),
+    "vendor": cells[3].text_content(),
+    "agency": cells[4].text_content(),
+    "contact": cells[5].text_content()
+  })
+
+# This will spit out prettily formatted JSON (indent of 2 spaces).
+print json.dumps(data, indent=2)
 
 
-# Within the fourth column, there is a link. That's the D&F PDF.
+# TODO: Extract the link from the fourth column. That's the D&F PDF.
