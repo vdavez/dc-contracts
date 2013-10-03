@@ -23,6 +23,9 @@ for row in content.find('tr'):
   if cells[0].text_content() == "Notice Date":
     continue
 
+  # get the link to the Determinations and Findings
+  df = row.cssselect('a')
+
   # append a dict of sole source data to the main data array,
   # with keys named after each cell
   data.append({
@@ -30,6 +33,7 @@ for row in content.find('tr'):
     "response_due_date": cells[1].text_content(),
     "description": cells[2].text_content(),
     "vendor": cells[3].text_content(),
+    "determinations_and_findings_link": df[0].get('href'),
     "agency": cells[4].text_content(),
     "contact": cells[5].text_content()
   })
@@ -38,4 +42,3 @@ for row in content.find('tr'):
 print json.dumps(data, indent=2)
 
 
-# TODO: Extract the link from the fourth column. That's the D&F PDF.
