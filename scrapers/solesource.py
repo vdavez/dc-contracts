@@ -40,5 +40,3 @@ for row in content.find('tr'):
 
 # This will spit out prettily formatted JSON (indent of 2 spaces).
 print json.dumps(data, indent=2)
-
-
