@@ -1,32 +1,38 @@
 [
   {
-    "contact": "patricia.lewis-miller@dc.gov", 
+    "vendor": "The CNA Corporation  Determination & Findings ", 
+    "description": "The Office of Contracting and Procurement, on behalf of the DC Homeland Security and Emergency Management Agency (HSEMA) is awarding a sole source contract to acquire the services of a Contractor to design, develop, conduct and evaluate the District\u0092s Comprehensive Exercise and Corrective Action Program.  The purpose of these exercises is to establish a clear mutual understanding of the expectations for future District operations in order to promote a cohesive and well-coordinated response to disastrous events.The period of performance is expected to be from November 1, 2013 through December 31, 2013.", 
+    "agency": "DC Homeland Security and Emergency Management Agency (HSEMA", 
+    "notice_date": " 10/4/2013", 
+    "contact": "crystal.farmer-linder@dc.gov    NIAS.info@dc.gov", 
+    "response_due_date": "10/14/2013", 
+    "determinations_and_findings_link": ".\\D_F\\DF_DCBN-2007-C-7014.pdf"
+  }, 
+  {
     "vendor": "Carmella Anne Mazzotta  Determination & Findings ", 
-    "solesource_id": "\\D_F\\DF_DCRL-2014-R-0026", 
-    "response_due_date": "10/12/2013", 
+    "description": "Consulting Services to the CFSA for Organizational Capacity Development for the Collaboratives.", 
     "agency": "Child and Family Services Agency ", 
     "notice_date": " 10/2/2013", 
-    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2014-R-0026.pdf", 
-    "description": "Consulting Services to the CFSA for Organizational Capacity Development for the Collaboratives."
+    "contact": "patricia.lewis-miller@dc.gov", 
+    "response_due_date": "10/12/2013", 
+    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2014-R-0026.pdf"
   }, 
   {
-    "contact": "aaron.holland2@dc.gov    NIAS.info@dc.gov", 
     "vendor": "Multi-Health Systems, Inc. (MHS)  Determination & Findings ", 
-    "solesource_id": "\\D_F\\DF_CAFASsolesourceMHSI", 
-    "response_due_date": "10/6/2013", 
+    "description": "The Government of the District of Columbia, Child and Family Services Agency (CFSA), has an immediate need to integrate the Child and Adolescent Functional Assessment Scale (CAFAS) and the Pre-school and Early Childhood Functional Assessment Scale (PECFAS), into everyday case practice for all children in District care and custody, ages 0-21 years.  The CAFAS/PECFAS are proprietary clinical web-application tools used in child welfare systems (and greater Systems of Care) throughout the country, and they have been proven valid, reliable, and effective as case management tools, measures of child function, and system evaluation tools.", 
     "agency": "Child and Family Services Agency", 
     "notice_date": " 9/26/2013", 
-    "determinations_and_findings_link": ".\\D_F\\DF_CAFASsolesourceMHSI.pdf", 
-    "description": "The Government of the District of Columbia, Child and Family Services Agency (CFSA), has an immediate need to integrate the Child and Adolescent Functional Assessment Scale (CAFAS) and the Pre-school and Early Childhood Functional Assessment Scale (PECFAS), into everyday case practice for all children in District care and custody, ages 0-21 years.  The CAFAS/PECFAS are proprietary clinical web-application tools used in child welfare systems (and greater Systems of Care) throughout the country, and they have been proven valid, reliable, and effective as case management tools, measures of child function, and system evaluation tools."
+    "contact": "aaron.holland2@dc.gov    NIAS.info@dc.gov", 
+    "response_due_date": "10/6/2013", 
+    "determinations_and_findings_link": ".\\D_F\\DF_CAFASsolesourceMHSI.pdf"
   }, 
   {
-    "contact": "patricia.lewis-miller@dc.gov     NIAS.info@dc.gov", 
     "vendor": "KVC Behavioral Healthcare Nebraska, Inc.  Determination & Findings ", 
-    "solesource_id": "\\D_F\\DF_DCRL-2013-R-0098R", 
-    "response_due_date": "10/4/2013", 
+    "description": "Consultant services to address the lineages between foster parents, Structural Decision Making (SDM), the Frame Work, and the Red Team Process (Review, Evaluate, Direct)", 
     "agency": "Child and Family Services Agency ", 
     "notice_date": " 9/24/2013", 
-    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2013-R-0098R.pdf", 
-    "description": "Consultant services to address the lineages between foster parents, Structural Decision Making (SDM), the Frame Work, and the Red Team Process (Review, Evaluate, Direct)"
+    "contact": "patricia.lewis-miller@dc.gov     NIAS.info@dc.gov", 
+    "response_due_date": "10/4/2013", 
+    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2013-R-0098R.pdf"
   }
 ]

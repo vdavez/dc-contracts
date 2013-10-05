@@ -15,7 +15,7 @@ content = ss('div').filter('.contentContainer')
 # The table has a first row with headers. The second row and all subsequent rows are the contents.
 
 data = []
-json_data = open('solesource.json')
+json_data = open('solesource.json','r+')
 d0 = json.load(json_data)
 
 # Loop through the rows
@@ -30,7 +30,6 @@ for row in content.find('tr'):
   df = row.cssselect('a')
   
 # Now, we look through the existing json_data to see whether there is already the id in the file
-# THIS IS WHERE I NEED HELP!!!
 
   # First, there's the list, with n items... so json_data[0] is the first dict, json_data[1] is the second dict
   for i in d0:
@@ -52,12 +51,14 @@ for row in content.find('tr'):
   })
 
 # This will spit out prettily formatted JSON (indent of 2 spaces).
-print json.dumps(data, indent=2)
+output = json.dumps(data, indent=2)
 
+# And this will replace the existing JSON file with the modified one
+json_data.seek(0,0)
+json_data.write(output)
 json_data.close()
 
 # This will now push directly to github
-
 from subprocess import call
 call('git commit -a -m "auto-update"', shell=True)
 call('git push', shell=True)
