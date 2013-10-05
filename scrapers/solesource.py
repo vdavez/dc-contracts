@@ -60,4 +60,4 @@ json_data.close()
 
 from subprocess import call
 call('git commit -a -m "auto-update"', shell=True)
-call('git push')
+call('git push', shell=True)
