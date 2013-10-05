@@ -5,15 +5,17 @@
 from pyquery import PyQuery as pq
 import json
 
-d = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
+ss = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
 
 ## Here's how this is going to work
 # The content is in a table in the div class "contentContainer".
-content = d('div').filter('.contentContainer')
+content = ss('div').filter('.contentContainer')
 
 # The table has a first row with headers. The second row and all subsequent rows are the contents.
 
 data = []
+json_data = open('solesource.json')
+d0 = json.load(json_data)
 
 # Loop through the rows
 for row in content.find('tr'):
@@ -25,10 +27,14 @@ for row in content.find('tr'):
 
   # get the link to the Determinations and Findings
   df = row.cssselect('a')
+  
+# Now, we look through the existing json_data to see whether there is already the id in the file
+# THIS IS WHERE I NEED HELP!!!
 
   # append a dict of sole source data to the main data array,
   # with keys named after each cell
   data.append({
+#    "solesource_id":df_id, 
     "notice_date": cells[0].text_content(),
     "response_due_date": cells[1].text_content(),
     "description": cells[2].text_content(),
@@ -39,4 +45,6 @@ for row in content.find('tr'):
   })
 
 # This will spit out prettily formatted JSON (indent of 2 spaces).
-print json.dumps(data, indent=2)
+# print json.dumps(data, indent=2)
+
+json_data.close()

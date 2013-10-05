@@ -1,29 +1,32 @@
 [
   {
+    "contact": "patricia.lewis-miller@dc.gov", 
     "vendor": "Carmella Anne Mazzotta  Determination & Findings ", 
-    "description": "Consulting Services to the CFSA for Organizational Capacity Development for the Collaboratives.", 
+    "solesource_id": "\\D_F\\DF_DCRL-2014-R-0026", 
+    "response_due_date": "10/12/2013", 
     "agency": "Child and Family Services Agency ", 
     "notice_date": " 10/2/2013", 
-    "contact": "patricia.lewis-miller@dc.gov", 
-    "response_due_date": "10/12/2013", 
-    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2014-R-0026.pdf"
+    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2014-R-0026.pdf", 
+    "description": "Consulting Services to the CFSA for Organizational Capacity Development for the Collaboratives."
   }, 
   {
+    "contact": "aaron.holland2@dc.gov    NIAS.info@dc.gov", 
     "vendor": "Multi-Health Systems, Inc. (MHS)  Determination & Findings ", 
-    "description": "The Government of the District of Columbia, Child and Family Services Agency (CFSA), has an immediate need to integrate the Child and Adolescent Functional Assessment Scale (CAFAS) and the Pre-school and Early Childhood Functional Assessment Scale (PECFAS), into everyday case practice for all children in District care and custody, ages 0-21 years.  The CAFAS/PECFAS are proprietary clinical web-application tools used in child welfare systems (and greater Systems of Care) throughout the country, and they have been proven valid, reliable, and effective as case management tools, measures of child function, and system evaluation tools.", 
+    "solesource_id": "\\D_F\\DF_CAFASsolesourceMHSI", 
+    "response_due_date": "10/6/2013", 
     "agency": "Child and Family Services Agency", 
     "notice_date": " 9/26/2013", 
-    "contact": "aaron.holland2@dc.gov    NIAS.info@dc.gov", 
-    "response_due_date": "10/6/2013", 
-    "determinations_and_findings_link": ".\\D_F\\DF_CAFASsolesourceMHSI.pdf"
+    "determinations_and_findings_link": ".\\D_F\\DF_CAFASsolesourceMHSI.pdf", 
+    "description": "The Government of the District of Columbia, Child and Family Services Agency (CFSA), has an immediate need to integrate the Child and Adolescent Functional Assessment Scale (CAFAS) and the Pre-school and Early Childhood Functional Assessment Scale (PECFAS), into everyday case practice for all children in District care and custody, ages 0-21 years.  The CAFAS/PECFAS are proprietary clinical web-application tools used in child welfare systems (and greater Systems of Care) throughout the country, and they have been proven valid, reliable, and effective as case management tools, measures of child function, and system evaluation tools."
   }, 
   {
+    "contact": "patricia.lewis-miller@dc.gov     NIAS.info@dc.gov", 
     "vendor": "KVC Behavioral Healthcare Nebraska, Inc.  Determination & Findings ", 
-    "description": "Consultant services to address the lineages between foster parents, Structural Decision Making (SDM), the Frame Work, and the Red Team Process (Review, Evaluate, Direct)", 
+    "solesource_id": "\\D_F\\DF_DCRL-2013-R-0098R", 
+    "response_due_date": "10/4/2013", 
     "agency": "Child and Family Services Agency ", 
     "notice_date": " 9/24/2013", 
-    "contact": "patricia.lewis-miller@dc.gov     NIAS.info@dc.gov", 
-    "response_due_date": "10/4/2013", 
-    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2013-R-0098R.pdf"
+    "determinations_and_findings_link": ".\\D_F\\DF_DCRL-2013-R-0098R.pdf", 
+    "description": "Consultant services to address the lineages between foster parents, Structural Decision Making (SDM), the Frame Work, and the Red Team Process (Review, Evaluate, Direct)"
   }
 ]
