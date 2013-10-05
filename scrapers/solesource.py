@@ -4,6 +4,7 @@
 
 from pyquery import PyQuery as pq
 import json
+import os
 
 ss = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
 
@@ -54,3 +55,9 @@ for row in content.find('tr'):
 print json.dumps(data, indent=2)
 
 json_data.close()
+
+# This will now push directly to github
+
+from subprocess import call
+call('git commit -a -m "auto-update"', shell=True)
+call('git push')

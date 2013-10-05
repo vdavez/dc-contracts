@@ -19,6 +19,9 @@ This scraper will hopefully solve that problem by making a permanent JSON record
 
 And, there's another part too. The PDFs contain information about the estimated reasonable price, which is not accessible in the table. But, the PDF is text-searchable and follows a standard format, so it should be doable to extract that information and include it in the JSON.
 
+To set it up, this is the crontab 
+'crontab -e'; '0 * * * * full_path' runs 'full_path' on the hour every day
+
 ## Contract Solicitations
 ### OCP
 ### Rest of DC Government
