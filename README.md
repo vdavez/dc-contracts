@@ -15,14 +15,20 @@ The following information is available on the site:
 
 But, it is not a permanent site, so once the contract is awarded, the info goes away... =(
 
-This scraper will hopefully solve that problem by making a permanent JSON record of the notice of intent to award a sole-source contract.
+This scraper solves that problem by making a permanent JSON record of the notice of intent to award a sole-source contract (in 'scrapers/solesource.json').
 
 And, there's another part too. The PDFs contain information about the estimated reasonable price, which is not accessible in the table. But, the PDF is text-searchable and follows a standard format, so it should be doable to extract that information and include it in the JSON.
 
-To set it up, this is the crontab 
-'crontab -e'; '0 * * * * full_path' runs 'full_path' on the hour every day
+The scraper is in the 'scrapers' directory.
+
+To set it up, this is the crontab:
+
+> 'crontab -e'; '0 * * * * full_path' runs 'full_path' on the hour every day
 
 ## Contract Solicitations
+
 ### OCP
+OCP has two different types of solicitation formats: (1) electronic and (2) non-electronic. This repo now has a scraper for non-electronic contracts (which solves some of the same problems of sole-source contracts and suffers from some of the same limitations). The electronic solicitation looks much more complicated, with a whole system built for it. 
+  
 ### Rest of DC Government
 
