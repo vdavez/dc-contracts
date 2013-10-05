@@ -31,10 +31,16 @@ for row in content.find('tr'):
 # Now, we look through the existing json_data to see whether there is already the id in the file
 # THIS IS WHERE I NEED HELP!!!
 
-  # append a dict of sole source data to the main data array,
+  # First, there's the list, with n items... so json_data[0] is the first dict, json_data[1] is the second dict
+  for i in d0:
+  # Then you have the D&F value in the dict = the D&F value of the cell, run away, 
+    ex = i.get('determinations_and_findings_link')
+    if ex == df[0].get('href'):
+      continue
+  
+  # otherwise, append a dict of sole source data to the main data array,
   # with keys named after each cell
   data.append({
-#    "solesource_id":df_id, 
     "notice_date": cells[0].text_content(),
     "response_due_date": cells[1].text_content(),
     "description": cells[2].text_content(),
@@ -45,6 +51,6 @@ for row in content.find('tr'):
   })
 
 # This will spit out prettily formatted JSON (indent of 2 spaces).
-# print json.dumps(data, indent=2)
+print json.dumps(data, indent=2)
 
 json_data.close()
