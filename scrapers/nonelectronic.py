@@ -11,6 +11,7 @@ ss = pq(url="http://app.ocp.dc.gov/RUI/information/scf/SolNumRespond.asp")
 
 ## Here's how this is going to work
 # The content is in a table in the div class "contentContainer".
+# But the table is actually a table within the table, so now it looks for the second table
 content = ss('div').filter('.contentContainer').find('table').eq(1)
 
 # The table has a first row with headers. The second row and all subsequent rows are the contents.
