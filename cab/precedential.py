@@ -8,15 +8,9 @@ import os
 
 # Initialize the JSON file
 data = []
+f0 = open('glob.html','r')
+print f0.readline()
+print f0.readline()
+blob = pq(f0)
 
-# Going to have to go through the site to pull down all of the results in 15 document increments.
-
-i = 0
-base_url = 'http://app.cab.dc.gov/Worksite/DisplayResults.asp?minlevel='
-
-while i <= 520:
-  current_url = base_url + str(i)
-  i = i + 15
-
-pq(url="http://app.cab.dc.gov/Worksite/DisplayResults.asp?minlevel=0&displaytype=")
-output = p('tr').hasClass('text')
+print blob('tr').eq(1)
