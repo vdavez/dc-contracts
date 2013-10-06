@@ -38,6 +38,6 @@ They have a decent database of all filings, and it's searchable. But, there's no
 
 To appreciate the irony of all of this, consider the following footnote from a recent opinion: "Advantage Energy, LLC is currently pending publication in the D.C. Register and in commercial databases. In the interim, we have cited to the Board’s website, which is an acceptable alternative citation". Appeal of Adsystech, Inc., CAB No. D-1210, at 22 n.32 (Aug. 15, 2013) The problem is that **the cite to the Board's website** does not work because there are no permalinks to the actual decision! And that as-yet unpublished, but precedential decision was issued THREE years before the Adsystech opinion.
 
-To solve this, I've created a glob file of all of the pages, using the requests libray. So, now it's running it through pyquery and making the JSON file.
+To solve this, I've created a glob file of all of the pages, using the requests library. So, now it's running it through pyquery and making the JSON file.
 
 Then, there's the problem of actually extracting the URL for the underlying document.
