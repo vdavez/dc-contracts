@@ -40,8 +40,11 @@ To appreciate the irony of all of this, consider the following footnote from a r
 
 So, to get the underlying precedential opinions, you need to run the following shell command
 
-> wget --post-data='from_date=&to_date=&search_type=fulltext&parmCount=2&parm1=49&parm2=83' http://app.cab.dc.gov/WorkSite/SearchDocs.asp?minLevel=0&OriginalURL=Published_Board_Decisions
+> wget -O temp.html --follow-tags=a -A "Display*" --post-data='from_date=&to_date=&search_type=fulltext&parmCount=2&parm1=49&parm2=83' http://app.cab.dc.gov/WorkSite/SearchDocs.asp?minLevel=0&OriginalURL=Published_Board_Decisions
 
-To get the NEXT set of 15, you need to change to "minLevel=15" and so forth.
+wget -r -O temp.html -A "Display*" -R "*510","*=0" --post-data='from_date=&to_date=&search_type=fulltext&parmCount=2&parm1=49&parm2=83' http://app.cab.dc.gov/WorkSite/SearchDocs.asp?minLevel=0&OriginalURL=Published_Board_Decisions
+
+
+To get the NEXT set of 15, you need to get recursive...
 
 Then, there's the problem of actually extracting the URL for the underlying document.
