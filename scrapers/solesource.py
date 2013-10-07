@@ -14,7 +14,7 @@ content = ss('div').filter('.contentContainer')
 
 # The table has a first row with headers. The second row and all subsequent rows are the contents.
 
-data = []
+data =[]
 json_data = open('solesource.json','r+')
 d0 = json.load(json_data)
 
@@ -36,26 +36,28 @@ for row in content.find('tr'):
   # Then you have the D&F value in the dict = the D&F value of the cell, run away, 
     ex = i.get('determinations_and_findings_link')
     if ex == df[0].get('href'):
-      continue
-  
-  # otherwise, append a dict of sole source data to the main data array,
-  # with keys named after each cell
-  data.append({
-    "notice_date": cells[0].text_content(),
-    "response_due_date": cells[1].text_content(),
-    "description": cells[2].text_content(),
-    "vendor": cells[3].text_content(),
-    "determinations_and_findings_link": df[0].get('href'),
-    "agency": cells[4].text_content(),
-    "contact": cells[5].text_content()
-  })
-
+      break 
+    # otherwise, append a dict of sole source data to the main data array,
+    # with keys named after each cell
+  else:
+    data.append({
+      "notice_date": cells[0].text_content(),
+      "response_due_date": cells[1].text_content(),
+      "description": cells[2].text_content(),
+      "vendor": cells[3].text_content(),
+      "determinations_and_findings_link": df[0].get('href'),
+      "agency": cells[4].text_content(),
+      "contact": cells[5].text_content()
+    })
+  continue
 # This will spit out prettily formatted JSON (indent of 2 spaces).
-output = json.dumps(data, json_data, indent=2)
+
+output = data + d0
+out = json.dumps(output, indent=2)
 
 # And this will replace the existing JSON file with the modified one
 json_data.seek(0,0)
-json_data.write(output)
+json_data.write(out)
 json_data.close()
 
 # This will now push directly to github
