@@ -51,7 +51,7 @@ for row in content.find('tr'):
   })
 
 # This will spit out prettily formatted JSON (indent of 2 spaces).
-output = json.dumps(data, indent=2)
+output = json.dumps(data, json_data, indent=2)
 
 # And this will replace the existing JSON file with the modified one
 json_data.seek(0,0)
