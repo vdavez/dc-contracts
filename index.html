@@ -1,0 +1,36 @@
+<html>
+<style type="text/css">
+	.PENDING a {color:green}
+	.PAST a {color:red}
+</style>
+<head>
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script>
+  $.getJSON('scrapers/solesource.json', function (d) {
+    var out = "<ul>";
+    var j = 1;
+    var date = new Date();
+
+    for (var i in d) {
+      var rdatestring = d[i].response_due_date;
+      var rdate = new Date(rdatestring);
+	var vendor = d[i].vendor.replace("Determination & Findings ", "");
+        if (rdate > date) {
+          out += '<li><div class\="pending"><b>' + vendor + '-- </b><a href="http://app.ocp.dc.gov/intent_award/' + d[i].determinations_and_findings_link + '">' + d[i].description + '</a></div></li><p>';
+      } else {
+         out += '<li><div class\="past"><b>' + vendor + '-- </b><a href="http://app.ocp.dc.gov/intent_award/' + d[i].determinations_and_findings_link + '">' + d[i].description + '</a></div></li><p>';
+      }
+    }
+    out += '<ul>';
+    document.getElementById("solesourcebox").innerHTML=out;
+})
+</script>
+</head>
+<body>
+<h1>Sole Source Awards</h1>
+<p>Pending awards = Green; Past awards = Red</p>
+<div id="solesourcebox">
+</div>
+
+</body>
+</html>
