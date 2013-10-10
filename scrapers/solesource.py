@@ -4,6 +4,7 @@
 
 from pyquery import PyQuery as pq
 import json
+import re
 import os
 
 ss = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
