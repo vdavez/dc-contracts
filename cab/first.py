@@ -33,7 +33,7 @@ for row in d('table').eq(0).find('tr').filter('.text'):
 #    "file_type":cells[4].cssselect('img')[0].get('alt')
   })
   i = i + 1
-
+'''
 # Do it for the follow-on pages
 j = 15
 new_url = 'http://app.cab.dc.gov/Worksite/DisplayResults.asp?minlevel='
@@ -54,6 +54,6 @@ while j <= 520:
 		})
 		i = i +1
 	j = j + 15
-
+'''
 print json.dumps(data,indent=2)
 out.close()
