@@ -1,0 +1,140 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+C&D TREE SERVICE, INC.                                 )
+                                                       )             CAB No. P-0780
+Under Contract No. DCKA-2007-B-0159                    )
+
+
+       For the Protester, C&D Tree Service, Inc: Richard L. Moorhouse, Esq., Sean M. Connolly,
+Esq., David T. Hickey, Esq., Greenberg Traurig, LLC. For the District of Columbia Government:
+Howard Schwartz, Esq., Senior Assistant Attorney General, and Alton E. Woods, Esq., Assistant
+Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                            OPINION
+                                          Filing ID 21771414
+
+       C&D Tree Service protests the District’s awards of indefinite delivery, indefinite quantity
+(“IDIQ”) contracts on February 21 and March 3, 2008, to four other bidders on a solicitation issued
+for emergency tree and debris removal services. C&D claims that although those contracts called
+for only emergency tree and debris removal services, the District of Columbia Department of
+Transportation (“DDOT”) Urban Forestry Administration improperly has been issuing work orders
+for routine tree removal services during the performance of the IDIQ contracts. C&D is the
+incumbent contractor under an existing requirements contract to perform all routine tree removal
+services. As a losing bidder in the recent solicitation for emergency tree and debris removal
+services, C&D asserts that it has been competitively prejudiced by alleged “material changes in the
+scope of work now being directed or allowed by the District in the performance of the IDIQ
+contracts.” We dismiss the protest because the alleged constructive changes in the scope of work are
+contract performance issues rather than award challenges subject to protest.
+
+                                        BACKGROUND
+
+      On October 19, 2007, the District’s Department of Transportation (“DDOT”) issued in the
+open market Invitation No. DCKA-2007-B-0159 (“IFB”) to provide emergency tree and debris
+removal services. (Protest, Attachment A). Section C.2 states that:
+
+       The District has a recurring need to provide emergency tree removal service during a
+       storm event or emergency situation, which will require the use of a crane or log truck
+       to complete the work. It includes trees that fall into public space or from public
+       space to private space and trees that have been identified as “standing hazardous
+       trees” that need to be removed to prevent a public safety issue. . . .
+
+The IFB contemplated award of four IDIQ fixed unit price contracts. (Id., IFB Section B). Bids
+were opened on November 21, 2007. (Motion to Dismiss, at 2).
+                                                   -2-           C&D Tree Service, Inc., CAB No. P-0780
+
+
+       After evaluation, DDOT awarded contracts for emergency tree and debris removal services
+under the IFB to: Heavy Equipment Training Academy, LLC, on February 21, 2008, Excel Tree
+Expert Company on February 21, 2008, Community Bridge, Inc., on March 3, 2008, and Adirondack
+Tree Experts on March 3, 2008. (Id.). By letter dated March 4, 2008, the contracting officer
+informed C&D that it had awarded to other bidders the four contracts for emergency tree and debris
+removal services. (Id.).
+
+        C&D states that it is a long-standing contractor providing tree removal services to the
+District under POKA-2003-B00076-JBY, a requirements contract DDOT awarded to C&D on
+November 19, 2003. (Protest, Attachment B). According to C&D, under the terms of its
+requirements contract, the District agreed to purchase its requirements for the removal of all standing
+dead, dangerous, and diseased trees from C&D. (Protest, at 2). DDOT exercised several options to
+extend C&D's period of performance through November 18, 2008. (Protest, Attachment C). Despite
+the C&D requirements contract, C&D asserts that the District’s arborists have provided information
+regarding numerous delivery orders issued by DDOT under the four 2008 IDIQ contracts where the
+work relates to routine, non-emergency tree removal services covered by C&D’s 2003 requirements
+contract. (Protest, at 3-5, and Attachment D). We observe that C&D’s work order data shows work
+orders presumably being assigned to C&D between August 2006 through 2008 under its
+requirements contract but later reassigned to one of the new IDIQ contractors in 2008. The record
+does not provide information regarding the dates of reassignment or the reasons for reassignment.
+There may well be some overlap between the requirements contract’s specification for the removal
+of standing “dangerous” trees and the IDIQ contracts’ specification for the removal of “standing
+hazardous trees” but C&D did not file a protest of the IDIQ solicitation so we need not address that
+here.
+
+        On July 10, 2008, C&D filed its protest, contending that C&D was competitively prejudiced
+since DDOT improperly issued delivery orders under the four IDIQ contracts for routine tree
+removal services and thus modifying or relaxing the contract specifications of the IDIQ contracts.
+C&D urges that DDOT should terminate the four IDIQ contracts for convenience and recompete the
+District’s emergency tree removal needs under a “legally sufficient solicitation.”
+
+                                           DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+       The District has moved to dismiss the protest on the ground that C&D is alleging essentially
+a contract dispute under its requirements contract, rather than a protest of the new awards. Both
+C&D and the District recognize the general rule that a protester’s argument that an agency
+improperly relaxed specification requirements after award is based on contract performance and is
+thus not a proper ground for protest. Shane Meats Co., CAB Nos. P-0339 et al., Jan. 8, 1993, 40
+D.C. Reg. 4885, 4899. The parties also recognize an exception to this rule where the agency
+modifies or relaxes the specifications in the awarded contract so that a bidder is competitively
+prejudiced because a competition for the contract as modified could have been materially different
+from the competition originally obtained. M&M Welding and Fabricators, Inc., CAB No. P-0542,
+Mar. 15, 1999, 46 D.C. Reg. 8576, 8579-80. Under the circumstances of this case, we agree with the
+                                                   -3-           C&D Tree Service, Inc., CAB No. P-0780
+
+District that the protest should be dismissed under the general rule that the matter involves contract
+performance issues properly addressed under our disputes jurisdiction.
+
+         M&M Welding and GAO precedent create a limited exception to the general rule where the
+modification or relaxation of a material term of the solicitation happens at the time of contract award
+or so close to award that it demonstrates the agency’s intention to change or relax the contract term
+at the time of the award. In the present case, it is clear that the IDIQ contracts as awarded did not
+modify the solicitation’s emergency tree removal services specification. There is no evidence that
+DDOT intended such a change at the time of award. Indeed, there has not been any change to the
+tree removal services through contract modification. Rather, C&D claims that DDOT has
+effectively modified the IDIQ contracts during performance by issuing delivery orders that cover
+routine tree removal work, not just emergency removal work. Even the record on this point is
+ambiguous. Work that may have been identified initially as routine when assigned to C&D under its
+requirements contract could later become emergency removal work after the passage of time or due
+to other causes. C&D says it did not learn of the alleged changes or relaxation until long after the
+awards and the beginning of performance. If some of the work assigned to C&D in 2007 was
+emergency tree removal services (the IDIQ emergency removal contracts were not awarded until
+February and March 2008), C&D could not complain that such work was reassigned to the four
+IDIQ contractors after the awards. Finally, as noted above, there may be some overlap between the
+requirements contract’s specification for the removal of standing “dangerous” trees and the IDIQ
+contracts’ specification for the removal of “standing hazardous trees.” In any event, these issues are
+performance issues properly resolved under our dispute jurisdiction, not under our protest
+jurisdiction.
+
+      Because C&D raises issues that are properly contract administration issues rather than protest
+grounds, we dismiss the protest.
+
+       SO ORDERED.
+
+DATED: September 30, 2008                              /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

@@ -1,0 +1,138 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+AMERICAN CONSULTANTS & MANAGEMENT                              )
+ENTERPRISES, INC.                                              )
+                                                               )     CAB No. D-1258
+Under Contract Nos. JA/93584, POHC-2000-C0036                  )
+
+      For the Appellant: Dr. Ernest Middleton, pro se. For the District of Columbia Government:
+Kimberly M. Johnson, Esq., Section Chief, General Litigation Section I, Office of the Attorney
+General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+
+                                            OPINION
+                                          Filing ID 30054064
+
+
+        American Consultants & Management Enterprises, Inc. (“ACME”) participated in a joint
+venture with Capitalcare, Inc. (“CCI”), which contracted with the District to provide comprehensive
+outpatient substance abuse treatment services. ACME appeals the contracting officer’s final decision
+denying its claim for District funds paid to CCI and for payment resulting from an unjustified sole
+source contract award to CCI. The District has moved to dismiss the appeal, arguing that the
+complaint fails to state a claim for which relief can be granted, and that the appeal was untimely
+filed. ACME did not respond to the District’s motion. We conclude that the appeal was untimely
+filed pursuant to D.C. Code § 2-309.04(a). Accordingly, we dismiss the appeal.
+
+                                        BACKGROUND
+
+        On July 17, 1995, CCI/ACME Joint Venture executed contract number JA/93584 with the
+District’s Department of Human Services (“DHS”) to provide comprehensive outpatient substance
+abuse treatment services for 360 alcohol or chemically dependent adults. The term of the contract
+was from July 25, 1995, to July 23, 1996, with four one year options. (Appeal File (“AF”) Ex. 3,
+Attachment A). All options were exercised by DHS, so that CCI/ACME provided services through
+July 24, 2000. (AF Ex. 3, at 2).
+
+     The CCI/ACME joint venturers, Capitalcare and ACME, executed a letter of dissolution on
+December 23, 1998, stating in part:
+
+             [I]t is mutually agreed upon that effective 12/25/98, Capitalcare Inc. will take
+       complete responsibility of execution and administration of the DHS Contract #
+       JA93584. ACME Inc. and all its corporate officers . . . relinquish all rights to
+       CCI/ACME JOINT VENTURE DHS contract # JQA93584. It is further agreed upon
+                                                -2-                        ACME, Inc., CAB No. D-1258
+
+
+
+       that for the remaining length of the contract CCI will pay to ACME $4,341.00 per
+       month.
+
+              Starting Dec. 25th, 1998’s invoice, [e]ach month, when the monies are
+       received from DC Government for the services rendered, CCI will pay to ACME
+       $4,341.00 to ACME.
+
+(AF Ex. 3, Attachment B). There is no evidence in the record that the contract was modified to
+reflect a novation. (AF Ex. 3, at 3).
+
+        The contract expired on July 24, 2000. According to a 2003 report of the District’s Inspector
+General, between July 25 and September 25, 2000, CCI continued to provide outpatient substance
+abuse treatment services without a written contract to do so. (AF Ex. 3, at 3). CCI received two
+payments for services provided during this period. (Id.). On September 26, 2000, CCI and District
+entered into a one year sole source contract, POHC-2000-C0036, to provide continuing substance
+abuse services. (Id.).
+
+       On February 22, 2004, ACME, by letter to Mr. Jacques Abadie, III, the District’s Chief
+Procurement Officer, asserted claims related to the original ACME/CCI contract and the CCI sole
+source contract. The contracting officer, Ms. Esther Scarborough, responded with a final decision
+dated June 4, 2004, sent certified mail, return receipt requested, denying ACME’s claim for relief
+sought against the District for payments made to CCI under the above referenced contracts, stating in
+pertinent part:
+
+               Issue #1. You have requested $15,513 in compensation out of $89,342.36
+       paid to [CCI/ACME] for outpatient substance abuse treatment services performed
+       between July 25, 2000 and September 25, 2000. Despite the fact that the Inspector
+       General found the District paid CCI/ACME for these services beyond the period of
+       the written contract, No. JA/93584, CCI/ACME was the actual entity performing the
+       services and full payment was rendered to it. Therefore, any amount that may be
+       owed to you out of that payment is a matter between you and CCI/ACME.
+
+               Issue #2. You have claimed $52,504 on account of a sole source contract,
+       No. POHC -2000-C-0036 that was awarded to CCI on September 25, 2000 for the
+       same services. Because the Inspector General concluded . . . that the procurement as
+       a sole source contract was unjustified, you assert that your company, ACME, should
+       have been entitled to a share of the amount due under that contract. In no way does
+       the determination that the sole source contract was not justified give rise to an
+       entitlement of payment to you in lieu of payment under that contract. To approve
+       payment to you without a contract would be tantamount to the District’s authorizing
+       an oral contract, which is the same violation for which the Inspector General cited the
+       Office of Contracting and Procurement as to Issue Number 1. . . .
+                                                  -3-                          ACME, Inc., CAB No. D-1258
+
+
+
+                ....
+
+                This is the final decision of the Contracting Officer. In accordance with D.C.
+        Official Code § 2-309.04, you may appeal this decision within 90 days from the date
+        of receipt to the Contract Appeals Board . . . .
+
+(AF” Ex.1). ACME does not contend that it received the June 4, 2004 final decision in an untimely
+manner. (Notice of Appeal, at 2). On February 22, 2005, ACME filed its notice of appeal, dated
+February 17, 2005, with the Board, and amended its factual statement on March 1, 2005. Although
+the appeal lacks clarity, it is without question an appeal of the contracting officer’s June 4, 2004 final
+decision. On April 1, 2005, the District filed a motion to dismiss. ACME did not respond to the
+District’s motion to dismiss.
+
+                                            DISCUSSION
+
+        We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(2).
+
+        The contracting officer’s final decision was issued on June 4, 2004. ACME’s notice of
+appeal of the final decision was received by the Board 261 days later on February 22, 2005. The
+Procurement Practices Act, in D.C. Code § 2-309.04 (“Contractor’s right of appeal to Board”), sets
+forth a time limit for appealing to the Board a contracting officer’s final decision:
+
+    (a) Except as provided in § 2-308.05, within 90 days from the date of receipt of a
+        decision of the contracting officer, the contractor may appeal the decision to the
+        Board.
+
+As the appeal was filed long after the appeal period mandated by the statute, we must dismiss the
+appeal as untimely. Accordingly, we dismiss ACME’s appeal with prejudice.
+
+        SO ORDERED.
+
+DATED: March 15, 2010                                    /s/ Jonathan D. Zischkau
+                                                         JONATHAN D. ZISCHKAU
+                                                         Chief Administrative Judge
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

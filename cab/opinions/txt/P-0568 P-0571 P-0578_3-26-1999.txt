@@ -1,0 +1,222 @@
+                                                                                                      [7705]
+
+
+
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+        GRANTURK EQUIPMENT CO., INC., et al.                       )
+                                                                   )       CAB Nos. P-568, P-571, P-578
+        Under IFB No. 98-0043-AA-OMS-GH                            )            (Consolidated)
+
+
+
+       For the Protester, GranTurkEquipment Co., Inc.: FrederickD. Cooke, 1r., Esq., Rubin, Winston,
+Diercks, Harris & Cooke, LLP. For the Protester, B&B Equipment Co., Inc.: Mr. 1im Baikauskas,pro
+se. For the Protester, Mid-Atlantic Waste Systems: Mr. Rich Hood, pro se. For the Government:
+Howard Schwartz, Esq., and H. Christopher Malone, Esq.; Assistants Corporation Counsel.
+
+      Opinion by Administrative Judge JonathanD. Zischkau, with Chief Administrative Judge Lorilyn E.
+Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+                                                OPINION
+
+         The Departinent of Public Works ("DPW") determined that the bid of GranTurk Equipment
+Company, In~., for refuse trucks was nonresponsive because its proposed truck did not meet certain
+specification requirements. GranTurk protested, claiming that its proposed truck complied with the
+specifications. The District moved to dismiss this protest ground as untimely filed. GranTurk also
+challenges a post-award bilateral modification ofthe contract awarded 10 Maryland Industrial Trucks, Inc.
+We agree with the District that GranTurk's protest was untimely filed with regard to the nonresponsiveness
+issue and that the challenge to the contract modification is without meri 1. Accordingly, GranT urk' s protest
+is dismissed in part and denied in part. B&B Equipment Company and Mid-Atlantic Waste Systems also
+filed protests challenging the modification ofthe awardee's contract. We dismiss B&B' s protest because
+B&B lacks standing. We dismiss Mid-Atlantic's protest because it was untimely filed.
+
+                                            BACKGROUND
+
+         On February 10, 1998, the Department of Public Works iss~led IFB No. 98-0043-AA-OMS-GU
+for the acquisition of celiain vehicles, including dmnp trucks, refuse trucks, wagons, vans, and sport utility
+vehicles. (District's Motion to Dismiss, Ex. 1). Bid Items 5 and6 solicited bids for refuse trucks that
+consisted oftwo general parts, a low entry forward cab truck and a rear loading body. Sections 5.4.1,
+5.22,6.4.1, and 6.22 of the specifications required seats for three persons, consisting of a vinyl bucket seat
+for the driver and a vinyl bench seat for two persons for Items 5 and 6. (Jd.). Section 5.38 of the
+specifications provided that the maximum length was 308 inches from bumper to tailgate. Section 17 of
+the Special Conditions required bidders to submit descriptive literature ofthe bid items being proposed.
+(Id., Ex. 1, at 113). DPW issued Amendment Nos. 1-8 which amended certain portions of the
+specifications not pertinent here and extended the bid opening date to June 22, 1998. (Id., Ex. 2).
+                                                                       ,
+                                                                                                        [7706]
+
+
+
+                                                    _ 2 - GranTlIrk Equip., et aI., CAB Nos. P-568, P-571, P-578
+
+         On June 22, 1998, DPW opened the bids. Three bidders, GranTurk, Maryland Industrial Trucks,
+ Inc. ("MIT"), and Mid-Atlantic Waste Systems, submitted bids for Items 5 and 6. GranTurk was the
+ apparent low bidder on Items 5 and 6. (fd., Ex. 3). GranTurk offered a low entry forward cab truck
+ manufactured by Fontaine Modification Company and a rear loading body manufactured by Leach.
+ (GranTurkProtest ~ 5; District Ex. 5). GranTurk also submitted a bid as a subcontractor to provide the
+ Leach rear loading bodies for the refuse trucks offered by MIT in its bid for Items 5 and 6. (Protest'15).
+
+         In a memorandwn dated June 23, 1998, Mr. Wayne Thomas 0 f DP W' s Division 0 fFI eet Services
+ found that the bid of GranTurk was nonresponsive for Item 5 because the cab ofthe renlse truck proposed
+ by GranTurk had only two seats, not the required three seats, and the overall length of the truck was more
+ than 308 inches. (fd., Ex. 4). Mr. Thomas also determined that GranTurk's bid on Item 6 was
+ nonresponsive because the cab of the refuse truck proposed by GranTurk had only two seats. The
+ descriptive literature submitted by GranTurk with its bid described a Fontaine cab having only two seats
+ and a total length of the truck (cab plus rear loading body) exceeding 308 inches.
+
+          Also on June 23, 1998, B&B Equipment Company filed a protest alleging that the specifications
+  for renlse truck cabs were unduly restrictive because they could be supplied by only one source, Crane
+  CatTier Truck Manufacturing of Oklahoma. We ultimately dismissed that protest because it was not timely
+  filed. B&B Equipment Co., CAB No. P-549, Aug. 26,1998,45 D.C. Reg. 8823. DPW's Division of
+  Fleet Services was asked to respond to the protest allegation. In a June 24, 1998 memorandum, Mr.
+, Thomas stated that a representative from the cab's manufacturer, Fontaine, had indicated that its cab could
+  meet the three-person seating requirement if some engineering modifications were made to the cab. (Id.,
+  Ex. 6).
+
+         On June 25, 1998, DPW' s contracting officer signed a determination for awarding Items 5 and 6
+ to MIT, the second low bidder, on the basis that Gran Turk 's proposed vehicles did not meet the
+ specifications. (District Ex. 8).
+
+          GranTmkstates that itdid not receive acopyofMr. Thomas' June 23 memonmdull1 regmdingthe
+ nonresponsiveness of GranTurk' s bid on Items 5 and 6. GranTurk representatives assert in affidavits that
+ the first time they learned from the District that GranTurk' s bid for Items 5 and 6 had been determined
+ nomesponsive was on December 29, 1998, in a conversation between the contracting officer and
+ GranTurk's Senior Vice President. (GranTurkReply, filed Februmy 16,1999 (Chernin Arf. ~7; Ritchie
+ Aff. '110). We find otherwise. On July 10, 1998, GranTurk sent a IeHer to DPW's contracting officer,
+ which stated:
+
+         We have been informed that ... our bid has been considered non-responsive for the
+         following reason: "In connection with item #5; (1) Descriptive literature did not show three
+         man cab." This reason reflects an apparent [misreading] of our bid. If we were not
+         supplying a three man cab we would certainly have taken an exception. or comse, we did
+         not. ... "In connection with item #5; (2) Descriptive literature does not show 308" overall
+         length." The descriptive literature shows a ... bumper to back of cab dimension ... of
+                                                                                                                 [7707]
+
+
+                                                   _ 3 - Gran Turk Equip.,   el aI.,   CAB Nos. P-568, P-571, P-578
+
+
+        102". The body length is 205" .... The resulting overall length of)06" is better than the
+        maximum of308" in the bid specs .... With regard to item #6; '"Descriptive literature
+        didn't support three man cab seating." Our response is the same as item #5. We ARE
+        supplying three man seating .... We wish to reiterate in the strongest possible terms that
+        our bid meets your bid specifications. There is absolutely no reason to reject our bid as
+        non-conforming ....
+
+(District Ex. 9). GranTurk now states that its infonnation was based on "rumor." In a July 17, 1998 letter,
+DPW's contracting officer replied as follows:
+
+         My office has received your letter of July 10, 1998, which provides information clarifying
+         the refuse trucks bid by your company in response to the subject solicitation. I have
+         forwarded this information to the Fleet Services Division (FSD) and requested that the
+       . technical evaluation for the refuse trucks bid by your company be reexamined taking into
+         consideration tlns additional information. I anticipate having a response from FSD within
+         the coming week and will inform you ofihe agency's conclusions.
+
+        However, ifyou wish to file a protest, it should be filed.with the Contract Appeals Board
+
+
+
+(District Ex. 10). GranTurk argues that DPW' s July 17 letter does not definitively state that GranTurk had
+previously been found nonresponsive by the DPW. Reading GranTurk' s July 10 letter together with the
+contracting officer's July 17 reply, we find that GranTurk was on reasonable notice that its bid on Items
+5 and 6 had been determined nonresponsive but that DPW was going to reexamine the matter based on
+the new information provided by GranTurk. Although the contracting officer did not expressly state that
+GranTurk had been determined nonresponsive in the July 17 reply, that was not necessary because
+GranTurk itself stated in the July 10 letter that it had been so "informed." Thus, the contracting officer's
+indication to "reexamine" the matter logically presupposes and affirms the prior nonresponsiveness
+determination of which GranTurk had been informed.
+
+         GranTurk received a further notice ofthe contracting officer's June 25, 1998 determination of
+nonresponsiveness when it received the District's August 3, 1998 filing in B&B' s solicitation protest in
+CAB No. P-549, which contained the following statement: "On June 25,1998, the Contracting Officer
+for DPW executed a determination and findings that found MIT responsible for Items 5 and 6, since it
+fOlmd GranTurknonresponsive for Items 5 and 6." (Motion ofthe District ofColtunbia to Dismiss Protest
+or, in the Alternative Agency Report, filed August 3, 1998, at 5-6):
+
+
+
+
+1 There are a number of other disputed events which the District claims provided GranTurk notice ofthe
+
+nonresponsiveness determination. GranTurk's representatives deny receiving notice. None ofthe disputed
+events alter our finding that GranTurk received notice oHhe nonresponsiveness detennination long before
+December 29, 1998, as alleged in its January 8, 1999 protest.
+                                                                                                              [7708]
+
+                                                                       ,
+                                                     _4 -   Gran Turk Eq1lip,   ~t aI, CAB Nos. P-568, P-571, P-578
+
+       On November 5,1998, DPW awarded the contract to MIT for Items 5, 6, and 7. (AREx. 20).
+ On December 22, 1998, the contracting officer and MIT executed a bilateral modification substituting a
+ Dempster body for the Leach body under Hem 5.
+
+         GranTurk's senior vice president states that on December 29,1998, she spoke with DPW's
+ contracting officer and that the contracting officer advised her "that he w~s going to recommend an award
+ of a contract for items 5 and 6 to MIT because the GranTurk bid was non responsive and that the MIT
+ bid had been amended to delete GranT m'k as the subcontractor to provide the Leach truck bodies because
+ he had allowed MIT to substitute another subcontractor to provide the refuse truck bodies.'j (Protest ~
+ 13; cf GranTurk Reply filed February 16, 1999 (Ritchie AiT't~~ 8-9»).
+
+         On February 5,1999, B&B:EquipmeI11 filed a new protest, docketed as CAB No. P-571,
+ challenging the bilateral modi ucation to MIT's contract by which the Leach body was replaced with the
+ Dempster body. On March 1, 1999, the District moved to dismiss this protest on the ground that B&B
+ lacks standing because it was neither an actual or prospective bidder having l~liled to submit a bid on Item
+ 5. B&B has not responded to the motion.
+
+         On March 9, 1999, Mid-Atlantic Waste Systems filed a protest, docketed as CAB No. P-578,
+  also challenging the bilateral modification to Mrr'~ contract. In a March 26, 1999 conference,
+  Mid-Atlantic and the District agreed that this contract modification issue was raised in the related protests
+  of GranTurk and B&B and that additional filings were unnecessary because the protest issue has been
+. adequately briefed.
+
+                                               DISCUSSION
+
+          Protests, other than those based upon alleged improprieties in a solicitation, must be filed not later
+ than 10 business days after the basis of protest is known or should have been kllmvn, whichever is earlier.
+ D.C. Code § 1-1189.8(b) (Supp. 1998). GranTurk knew the basis for its protest challenging the
+ nonresponsiveness determination by July 1998 but did not file ,a protest until January 8, 1999. The
+ contracting officer's tmdertaking to reexamine the nonresponsiveness determination did not toll the deadline
+ for filing its protest. CUP Temporaries, Inc., CAB No. P-263, Aug. 31, 1993,41 D.C. Reg. 3615,
+ 3616; Tandy Construction, Inc., B-238619, Feb. 22,1990,90-1 CPD '1206.
+
+         Regarding GranTmk's challenge onhe modification of"l'v11T' s bid," that argument mllst fail because
+ the December 22, 1998 bilateral modification was made to the contract awarded to MIT on November 5,
+ 1998. The post-award modification had no effect on bidders or the underlying competition because l'v11T's
+ bid was responsive notwithstanding the post-award substitution of one truck body for another. This
+ disposition resolves the issues raised by B&B and Mid-Atlantic in their protests. The protests ofB&B and
+ Mid-Atlantic must be dismissed, however, because the record shows that: (1) B&B lacks standing to
+ protestawardltem 5 since it did not submit a bid; and (2) Mid-Atlantic' s protest is lmtimely because Mid-
+ Atlantic received notice ofthe basis for its protest when it received a copy onhe District's February 1,
+ 1999 motion to dismiss (filed in GranTurk's protest), but did not file until March 9, 1999.
+                                                                                                           [7709]
+
+
+                                                _5 -   Gran Turk Equip., et aI., CAB Nos. P-568, P-571, P-578
+
+
+
+      Accordingly, GranTurk's protest is dismissed in part and denied in patio The protests ofB&B atld
+Mid-Atlantic are dismissed.
+
+
+
+DATED: March 26,1999                                       ~f)~~
+                                                       ~ATHAND. ZISCKAU
+                                                       Administrative Judge
+
+. CONCURRING:
+
+
+
+
+LORIL      E. SIMKINS
+; Chief Administrative Judge
+

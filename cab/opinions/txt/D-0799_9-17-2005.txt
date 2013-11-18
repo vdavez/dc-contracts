@@ -1,0 +1,670 @@
+                            GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                  CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+              PERDOMO AND ASSOCIATES, INC.                                 )
+                                                                           )        CAB No. D-0799
+              Under Contract Nos. 0007-AA-04-0-5-CC,                       )
+               0040-AA-04-0-5-CC, 0041-AA-04-0-5-CC                        )
+
+
+       For the Appellant: Darrell Thomas, Esquire. For the Government: Michael L. Alston,
+Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan Zischkau, with Administrative Judges Zoe Bush
+and Terry Hart Lee concurring. 1/
+
+                                                       OPINION
+
+        By this appeal, the contractor, Perdomo and Associates, Inc. ("Perdomo"), seeks to
+overturn a decision by the District of Columbia' s Director of the Department of Administrative
+Services which denied Perdomo' s claim to recover liquidated damages and costs of punchlist
+completion assessed against it. We sustain Perdomo' s appeal for the most part, holding that: (1)
+the District' s assessment of liquidated damages was improper, and (2) the District failed to support
+its withholding of completion costs for punchlist items with the exception that the District is
+entitled to a credit for one portion of uncompleted contract work.
+
+                                                FINDINGS OF FACT
+
+I.            General Background
+
+        1.     On January 4, 1985, the District of Columbia awarded Perdomo three contracts for
+the replacement of fuel oil burners at 19 of the District' s public schools: Contract Numbers 0007-
+AA-0-5-CC (6 schools), 0040-AA-04-0-5-CC (7 schools), and 0041-AA-04-0-5-CC (6 schools).
+(Appeal File ("AF") 2a-2c). 2/ Under these fixed-price contracts totaling $782,000.00, Perdomo
+
+
+     1/
+          Administrative Judge Benjamin Terner, who conducted the hearing of this appeal, has retired.
+
+     2/
+    The District compiled a separate appeal file for each contract (0007: Exhibits 1a through 3nn; 0040 and 0041:
+Exhibits 1a through 3mm). Perdomo supplemented the appeal file with Exhibits 4 through 28 covering all three
+contracts. The documents constituting Exhibits 3a through 3mm of the 0040 and 0041 appeal files are nearly identical.
+The 0007 appeal file has substantially the same contents, except that it includes an additional document (3j) not found
+in 0040 and 0041, with the result that Exhibits 3k through 3nn of the 0007 appeal file correspond to Exhibits 3j
+                                                                                              (continued...)
+                                                       -2-              CAB No. D-799, Perdomo and Associates, Inc.
+
+
+was required to replace the existing fuel oil burners at the school buildings with new combination
+gas/oil burners. (AF 2a, § 15.15).
+
+        2.     The technical specifications in the contracts contained general technical
+requirements applicable to all 19 schools (AF 2a, §§ 15.15.1 - 15.15.9), and specific requirements
+related to each individual school (AF 2a, §§ 15.15.10 - 15.15.16).
+
+       3.      Perdomo received notice to proceed from the District on May 15, 1985, and the
+contracts provided that Perdomo was to complete the work on each of the contracts within 90
+days, i.e., on or before August 13, 1985. (AF 2a, § 1.4.D). The project schedule for the
+contract work was approved by the contracting officer on May 17, 1985. (District Ex. 1; 3/ Tr.
+289-90).
+
+        4.       The parties agree that Perdomo substantially completed performance under the
+contracts on November 12, 1985 (AF 1a, 3z; Tr. 285, 511), about 3 months after the contract
+completion deadline. Perdomo worked on punchlist items from December 1985 until April 2,
+1986, when the contracting officer barred Perdomo from returning to the school job sites. The
+District initially assessed against Perdomo 92 days of liquidated damages for each contract. Later,
+the contracting officer reduced the assessment of liquidated damages against Perdomo to 30 days
+of delay and granted Perdomo a time extension of 62 days. The contracting officer also deducted
+$24,832.99 from Perdomo' s contract prices for costs the District claimed it had incurred in
+completing punchlist items.
+
+II.     Contract Performance Delays
+
+        Perdomo contends that it is not responsible for the delays in contract completion. It states
+that the District delayed contract completion by: (1) failing to facilitate Perdomo' s disposal of old
+fuel oil from tanks located at the schools; (2) increasing the scope of Perdomo' s disposal effort
+when the District mistakenly added to the school tanks an additional 120,000 gallons of the wrong
+fuel oil; and (3) failing to have the Washington Gas Company timely (i) supply to Perdomo data
+concerning the location of new gas meters, and (ii) install the gas meters at the schools.
+
+       The District asserts that Perdomo is responsible for 30 days of delay for the following
+reasons: (1) the work sites were consistently undermanned and progress was slow; (2) even
+though there was some delay in the removal of the old fuel oil, Perdomo could have substantially
+completed performance by firing the new burners on the old oil in lieu of the new oil; and (3)
+
+
+(...continued)
+through 3mm of the 0040 and 0041 appeal files. In accordance with the citation procedure adopted during the hearing,
+references in this opinion will be according to the numbering scheme used in the 0040 and 0041 appeal files.
+
+  3/
+    During the hearing, the District had five exhibits (District Exs. 1-5) admitted into the record and Perdomo had
+three exhibits (Appellant Exs. 1-3) admitted.
+                                                       -3-              CAB No. D-799, Perdomo and Associates, Inc.
+
+
+even though there was some delay by Washington Gas in specifying the final location of some of
+the gas meters, that did not hold up Perdomo because Perdomo was not ready in any event to
+complete installation and fire the burners.
+
+        The Fuel Oil Delays
+
+        5.     The specifications required that the new burners be capable of burning various
+grades of fuel oil (Nos. 2 through 6) as well as natural gas. (AF 2a, § 15.15.4.A(15)). The
+District intended to use natural gas as the primary fuel source for the school heating, but it
+intended to use No. 2 oil as the secondary source. (Tr. 533). With regard to fuel oil burning,
+the specifications required that the burners be adjusted to burn No. 2 fuel oil (AF 2a, §
+15.15.4.A(15)), and the District wanted the burners to be fired on No. 2 oil (Tr. 233-34).
+Although the schools generally had No. 6 fuel oil in their tanks (Tr. 30), there was a District
+mandate to replace the burners, switching from burning No. 6 oil to No. 2 oil. (Tr. 530). 4/
+
+         6.     The technical provisions generally required Perdomo to remove all existing fuel oil
+from the underground fuel oil storage tanks located at the schools and dispose of it at another
+District facility as identified by the contracting officer. (AF 2a, § 15.15.10.G; Tr. 530-31).
+After removal of the No. 6 oil, Perdomo was required by the specifications to remove sludge and
+thoroughly clean existing fuel oil tanks, and to thoroughly flush out all fuel oil lines. (AF 2a, §
+15.15.10.G; Tr. 530-31). Removing the No. 6 oil and cleaning the tanks were critical path
+activities. (Tr. 529-30). After these activities were completed, the District was responsible for
+having No. 2 fuel oil supplied for the clean oil tanks at each school. (AF 15.15.6.E; Tr. 30, 530-
+31).
+
+         7.     The contract specifications, as well as the testimonial evidence adduced at the
+hearing, show that it was the intention of the parties that a new burner would be fired on No. 2
+fuel oil, and that firing would commence only after the No. 6 oil had been removed, the tank and
+fuel lines had been cleaned, and No. 2 oil had been placed in the tank. (AF 2a, §§ 15.15.6,
+15.15.10; Tr. 30, 233-34, 340-41, 344, 530-31, 627-28).
+
+        8.      A burner adjusted to burn No. 2 oil could not burn No. 6 oil without damaging the
+burner. (Tr. 628). The District never directed Perdomo to adjust the new burners to burn No.
+6 oil nor did the District direct Perdomo to fire any of the burners on No. 6 oil. (Id.).
+
+        9.      The District was unable to timely identify a District disposal facility for the No.
+6 fuel oil. In a letter of July 3, 1985, Perdomo notified the District that the District' s failure to
+provide the necessary information for removing the approximate 100,000 gallons of existing fuel
+oil was a critical problem and might preclude Perdomo from completing its work on time. (AF
+
+
+  4/
+    No. 2 fuel oil burns more cleanly than No. 6 oil, and, therefore, No. 2 was preferred for environmental reasons.
+(Tr. 510. )
+                                                         -4-              CAB No. D-799, Perdomo and Associates, Inc.
+
+
+3b). By letters of July 15, 1985 (one for each contract), Perdomo advised the District that despite
+its best efforts, it had been unable to obtain instructions from the District on where to transfer the
+No. 6 oil currently in the oil tanks, which was holding up cleaning of the tanks and firing of the
+burners. (AF 10-12). In a response dated August 9, 1985 (AF 3i) -- i.e., 4 days before the
+contracts were originally scheduled to be completed -- the District told Perdomo:
+
+           [O]n July 9, 1985 and July 15, 1985, we requested D.C. Public Schools' authority
+           to render their assistance and inform our office where the fuel oil #6 is to be
+           delivered to. We are in contact on a daily basis with . . . [D.C. Public Schools]
+           and require [its] cooperation. You will be promptly informed as soon as we obtain
+           the required information.
+
+In a September 24, 1985 letter, Perdomo again informed the District of the significant delays it
+was encountering due to the District' s failure to identify sites for the transfer of the No. 6 fuel oil.
+(AF 3j). In a series of charts furnished to the District, Perdomo summarized the dates that the
+District identified a transfer facility for the No. 6 fuel oil: August 4, 1985 (1 school), September
+13 (3 schools), September 18 (1 school), September 24 (1 school), October 8 (4 schools), October
+15 (2 schools), and October 22 (7 schools). (AF 15a-15c). Thus, for 18 of the 19 schools, the
+District failed to provide timely information until well after the date the contract work was to be
+completed.
+
+        10.     The District constructively changed the amount of work needed to transfer the
+existing oil from the tanks at the schools to the storage facility. At the start of the work, the
+schools had a total of approximately 100,000 gallons of No. 6 oil. (AF 3b; Tr. 79-80, 96-98).
+Due to a mistake by the District, an additional amount -- approximately 120,000 gallons -- of No.
+6 oil was added to the tanks at some of the schools after Perdomo commenced work but before
+the existing oil had been removed and the tanks cleaned. (AF 3j, 3p; Tr. 22-23, 79-80, 96-98).
+The intent was that the District would purchase No. 2 oil and have this oil placed into the schools'
+tanks after the tanks had the existing No. 6 oil removed and after Perdomo had cleaned the tanks.
+Unfortunately, the District filled tanks at some of the schools with new No. 6 (rather than No. 2)
+oil before Perdomo had removed the existing No. 6 oil and cleaned the tanks. This meant that
+Perdomo had to remove at least twice the amount of oil as originally planned, with resulting
+impacts on Perdomo' s schedule and cost. (Tr. 98-99). 5/
+
+         11.   The record discloses that the effort in transferring the existing oil to a storage
+facility was made more time-consuming due to District misdirections, the District' s late direction
+that Perdomo use a private entity rather than a District facility, and additional inefficiencies
+arising because other contractors during the same time period were using the same facility for oil
+disposal. (Tr. 40-41; AF 3j).
+
+
+
+  5/
+       Apparently, Perdomo did not file any claims for equitable adjustment under these contracts. (Tr. 99-100. )
+                                                -5-            CAB No. D-799, Perdomo and Associates, Inc.
+
+
+        12.     The significant delays in the removal of the existing No. 6 oil made the removal
+step a constraining activity that impacted other crucial activities. (Tr. 40). The District' s failure
+to timely identify a storage facility delayed: Perdomo' s draining and cleaning of the oil tanks at
+the schools; the District' s furnishing of No. 2 oil to the schools' oil tanks; and Perdomo' s firing
+of the new oil burners. (Tr. 30, 534-35; AF 3b, 10-12).
+
+        13.    The record discloses that the District was still completing deliveries of No. 2 oil
+even as late as January 1986. For one school, oil was not delivered during Perdomo' s
+performance period apparently because of a perforated oil tank. (AF 21a-21c, 15a-15c). These
+delays in delivery further delayed the firing of those schools' burners. (AF 3w, 3dd, 3kk).
+
+        14.     We find that Perdomo' s performance and contract completion were delayed, at least
+through November 12, 1985, by the District' s (1) untimely notification of a suitable location for
+transfer of the existing No. 6 fuel oil, (2) mistake in filling school tanks with more No. 6 fuel oil,
+and (3) late delivery of No. 2 fuel oil. We also find that these causes for delay were beyond
+Perdomo' s control and without its fault.
+
+       The Gas Meter Delays
+
+        15.    The new combination gas/oil burners were to be capable of burning natural gas
+supplied by Washington Gas Company. (AF 2a, § 15.15.4.A.(15)). Washington Gas was
+responsible for installing gas meters at school sites which were connected to Washington Gas'
+main gas supply lines. (Tr. 443-44). For schools that required installation of new gas meters or
+relocation of existing meters, the meters were to be placed on concrete pads which were to be
+constructed by Perdomo. Before Perdomo could construct a pad, it needed to have information
+from Washington Gas concerning the intended location of the gas meters. (Tr. 444, 523-24; AF
+3b). After gas meters were installed, Perdomo was responsible for installing gas piping to connect
+the new burners to the gas meters. (Tr. 143, 322-23, 450-51). Perdomo could not fire the
+burners on natural gas until these preliminary tasks were completed. (Tr. 50, 523-25; District Ex.
+1).
+
+       16.   Perdomo was required under the contract provisions to coordinate with Washington
+Gas. (AF 3h). The District, however, was responsible for any delays in Washington Gas'
+performance not attributable to a failure by Perdomo to properly coordinate with Washington Gas.
+
+        17.     The approved project schedule (District Ex. 1) makes clear that Perdomo' s
+performance was dependent on timely completion of tasks by Washington Gas. Under the
+schedule activity labeled "Gas Piping Installed", a note states: "Will be completed by 8-4-85, but,
+actual schedule is dependent on Wash. Gas relocation of the meter." Under the "Gas Meter
+Installed" activity, a note states: "Actual schedule dependent on Washington Gas Company."
+
+        18.    Perdomo notified the District by letters of July 3 and July 15, 1985, that it had only
+recently received information from Washington Gas on meter locations for just less than half of
+                                               -6-            CAB No. D-799, Perdomo and Associates, Inc.
+
+
+the 19 schools, had received no information for the remaining schools, and that this problem
+would delay completion of the contracts. (AF 3b, 10-12). Some of the meter locations initially
+provided by Washington Gas had to be changed later. (AF 3j). Some existing meters, initially
+thought by Washington Gas to be adequate for the new burners, had to be replaced because the
+meters could not support the burners. (Tr. 302-04; AF 3kk). The District' s July 17 and August
+9, 1985 replies to Perdomo merely noted that it was Perdomo' s "responsibility to do all
+coordination with the Washington Gas Company" (AF 3e) and that the District on June 6, August
+7, and August 9, had requested Washington Gas "to proceed with the required gas installation
+modifications." (AF 3i).
+
+        19.   The record shows that Perdomo regularly contacted Washington Gas, using
+appropriate means, in an effort to obtain expeditiously all necessary information on meter
+locations. Perdomo also fulfilled its coordination responsibilities by timely notifying the District
+on the status of the effort and the delays that were being encountered. (AF 3b, 3d, 3j).
+Accordingly, we find that Perdomo fulfilled its obligation of coordinating with Washington Gas.
+
+         20.   The record reveals that the providing of meter location information and the
+installing of meters were not being completed by Washington Gas in a timeframe that would have
+allowed Perdomo to complete work by either the initial completion date (August 13, 1985) or the
+substantial completion date (November 12, 1985). For many schools, these activities were not
+completed until October 1985 through January 1986. (AF 15a-15c, 21, 21a-21c; Tr. 43-44, 46,
+48, 51, 67-68). The delays in these activities delayed completion of the gas-related activities.
+(District Ex. 1; AF 21).
+
+        21.    Washington Gas informed Perdomo that the delays in specifying gas meter locations
+resulted from the District' s failure to give prompt notification of the work requirements, heavy
+workload on Washington Gas in supporting not only Perdomo' s burner installation projects but
+also other contractors' burner installation projects, and other factors beyond Perdomo' s control.
+(Tr. 242-43; AF 3p, 3kk).
+
+        22.     We find that Perdomo' s performance and contract completion were delayed, at least
+through November 12, 1985, by untimely (1) notification of gas meter locations, and (2) gas meter
+installation, and that these causes for delay were beyond Perdomo' s control and without its fault.
+(Tr. 241-44; AF 3dd, 3kk).
+
+       Manpower
+
+        23.     While there is correspondence from the District citing Perdomo for lack of
+sufficient manpower (AF 3a, 3g, 3l), Perdomo contemporaneously responded to the District' s
+complaints (AF 3b, 3h), and, we believe, reasonably justified its manpower levels, especially
+considering the disruptions to work flow caused by the fuel oil delays and gas meter
+location/installation delays. There was no evidence offered by the District showing how particular
+manpower commitments by Perdomo delayed the critical path to completion of the contract work.
+                                                      -7-              CAB No. D-799, Perdomo and Associates, Inc.
+
+
+The District also failed to show that Perdomo committed insufficient manpower to the work. That
+Perdomo did not have workers at a particular school site on a day a District inspector visited that
+site does not demonstrate lack of manpower. First, all of Perdomo' s workforce did not have to
+be deployed at a school site everyday. (Tr. 395). Second, no District witness was able to testify
+as to how many of Perdomo' s workers were at all sites on any given day. (Tr. 520).
+
+III.    The Liquidated Damages Assessment
+
+        24.    By letter dated January 30, 1986 (AF 3z), the District notified Perdomo that the
+District was assessing liquidated damages at the contract rate of $500.00 per day, for 92 days6/
+of delay beyond the scheduled completion date, for each of the three contracts, for a total of
+$138,000.00. Perdomo submitted correspondence explaining that the delays were beyond its
+control, and requested that the monies being withheld from progress payments be paid. (AF 3p,
+3dd, 3kk).
+
+         25.     In a final decision dated September 4, 1986 (AF 1a), the contracting officer granted
+Perdomo a time extension of 62 calendar days for delays "beyond the control and without the
+fault" of Perdomo, and assessed liquidated damages for the remaining 30 days7/ of delay, which,
+at the rate of $500.00 per day, totaled $15,000.00 for each contract, and $45,000.00 for the three
+contracts.
+
+        26.    The record does not disclose any reasoned support for either the 30-day delay
+charged against Perdomo or the 62-day time extension granted to Perdomo. At the hearing, the
+District was unable to explain its methodology for calculating Perdomo' s responsibility for any
+portion of the 30 days of claimed delay (Tr. 253-59, 543), and the record is devoid of any
+documentation specifying how the District made its delay determination (Tr. 257-58). An official
+from the Department of Public Work' s Facility Operations Maintenance Administration, testifying
+that he believed Perdomo should have been charged liquidated damages for the full 92 days of
+delay, explained the basis for the 62-day time extension this way: "Arbitrarily, we took 62
+calendar days off. I made the recommendation to the Contracting Officer. That' s it." (Tr. 543).
+
+IV.     Completion of Punchlist Items
+
+        Perdomo challenges the District' s withholding of $24,832.99 for the costs the District
+claims it incurred in completing punchlist items after April 2, 1986, the date the District
+effectively barred Perdomo from completing performance on the contracts. The District states
+this amount constitutes the District' s actual costs in correcting deficiencies in Perdomo' s work on
+
+
+  6/
+   Although the parties have assumed the correctness of the 92-day figure, our calculations indicate that the delay
+amounts to 91, not 92, days. For purposes of our decision, the difference is immaterial.
+
+  7/
+    Based on our observation in note 6 supra, and the D istrict' s grant of a 62-day time extension, Perdomo should
+have been charged for 29, not 30, days of liquidated damages according to the District' s rationale.
+                                                           -8-              CAB No. D-799, Perdomo and Associates, Inc.
+
+
+the contracts.
+
+        27.     By cover letter of December 6, 1985, the District furnished Perdomo a multi-page
+package of forms entitled "Construction Deficiencies" covering the work at the 19 schools. (AF
+3m). 8/ The cover letter directed Perdomo to correct the listed deficiencies within 15 days and
+warned that failure to "comply and complete the work within the said time frame will cause the
+District to terminate your right to further proceed with the work. In such event, the work will
+be prosecuted by others and all cost incurred will be deducted from your contract price." (Id.).
+The punchlist pages in Appeal File 3m are in a matrix format, each row identifying separate
+punchlist items, and the columns identifying completion status at various inspection dates. The
+punchlist in Appeal File 3m contains annotations recording completion status for the period
+December 1985 through February 1986.
+
+        28.     On January 9, 1986, District and Perdomo representatives met to discuss the
+punchlist items. Perdomo reported that all punchlist items had been completed except: (1)
+installation of a heat exchanger at Thomas School; (2) painting of gas frame connections; and (3)
+fire up on gas at three schools. Items (1) and (3) required some action by the District prior to
+completion. The results of the meeting were memorialized in a Perdomo letter of the same date.
+(AF 3s). The record indicates that corrective work needed prior to firing the gas burners at the
+three schools was caused by a conflict between the District' s specifications and District code
+requirements. (AF 3t).
+
+        29.     In a letter of January 17, 1986 (AF 3w), Perdomo reported on the status and
+resolution of 5 outstanding items from the punchlist for two schools. In a January 30, 1986 letter
+(AF 3y), the District advised Perdomo that it had not obtained inspection and tagging of gas
+piping from the District' s Department of Consumer and Regulatory Affairs, as noted on the
+December 1985 punchlist, for 11 of the 19 schools. The District renewed its complaint by letter
+of February 20, 1986. (AF 3cc).
+
+        30.     By letter of March 26, 1986 (AF 3ee), the District enclosed a second punchlist for
+work under the three contracts; however, the appeal file exhibit does not contain the punchlist
+enclosures. The letter advises Perdomo that it has five working days to correct all cited
+deficiencies or face termination, have the incomplete work finished by others, and have the costs
+of completion charged against Perdomo.
+
+       31.      Perdomo responded to the March 26 punchlist by letter of April 2, 1986. (AF
+3gg). In its letter, Perdomo states that 42 of the 66 deficiencies were newly cited by the District,
+and that "all noted deficiencies have been corrected as reflected on the attached check list." The
+appeal file exhibit, however, does not contain the referenced check list. The letter also identifies
+four categories of deficiencies, two of which Perdomo argues are not deficiencies because they
+
+
+  8/
+       Exhibit 3m in each contract' s appeal file contains punchlists for the schools covered by that contract.
+                                                 -9-            CAB No. D-799, Perdomo and Associates, Inc.
+
+
+are not required by the contracts, and, for the other two, Perdomo assures prompt completion
+once it receives shipment of needed materials.
+
+       32.     By letter also dated April 2, 1986 (AF 3ff), the District' s contracting officer
+informed Perdomo that an inspection conducted that day by a member of the contracting officer' s
+staff "revealed that you have failed to comply with our directive and the deficiencies remain
+incomplete." Stating that the District had granted Perdomo ample time to complete the work, the
+contracting officer advised Perdomo that the District would have the balance of the deficiencies
+done by others and would deduct the costs from Perdomo' s contracts. In the letter, the
+contracting officer effectively barred Perdomo from returning to the school sites to complete any
+remaining punchlist items. The District did not, however, terminate Perdomo' s contracts. (Tr.
+577-78).
+
+       33.   The District claims that during the period May 9, 1986 through July 11, 1986, its
+personnel completed punchlist items left unfinished by Perdomo. (District Ex. 3).
+
+V.     Assessment of Completion Costs
+
+       34.    In his final decisions of September 4, 1986, the contracting officer deducted a total
+of $24,832.99 from the contracts to cover the costs of completing punchlist items. (AF 1a).
+
+      35.     By letter of December 12, 1986 (AF 28), Perdomo requested a breakdown of the
+work and costs which the District claimed to have incurred. Nowhere in the appeal files is there
+documentation itemizing the District' s completion costs.
+
+      36.     At the hearing, the District introduced Exhibits 3 and 5 in support of its claim for
+completion costs.
+
+         37.     District Exhibit 3 records all punchlist items identified during District inspections
+conducted March 17-20, 1986, asserted by the District to be outstanding (Tr. 584-85), with the
+exception of pages 2 and 3 of Exhibit 3, which we conclude are not properly part of the punchlist.
+It is the last comprehensive punchlist for the contracts that is found in the record and it supersedes
+the annotated December 1985 punchlist.
+
+        38.    For the vast majority of items listed in Exhibit 3, the District has failed to establish
+that these items were valid punchlist items, i.e., the items were deficiencies as measured against
+the contract specifications and the items were not previously completed by Perdomo. For
+example, Exhibit 3 lists numerous items as "deficient" that were noted as being previously
+completed by Perdomo on the annotated December 1985 punchlist. While the District suggests
+that the Exhibit 3 punchlist items had been outstanding for many months (Tr. 555, 587-88), a
+comparison of Exhibit 3 and the annotated December 1985 punchlist reveals that many of the
+Exhibit 3 punchlist items were identified as punchlist items for the first time in late March 1986.
+                                               - 10 -         CAB No. D-799, Perdomo and Associates, Inc.
+
+
+        39.    District Exhibit 5, untitled and undated, was introduced by the District to support
+its assessment of completion costs. Pages 1 through 4 of Exhibit 5 are in matrix format,
+containing six columns, the first identifying the name of a school, and the other five providing the
+following categories of information associated with the school listed in the first column:
+"Description of Work", "Date Work Performed", "Cost", "Man Hours/Rate", and "Materials
+Used."
+
+       40.     The "Description of Work" column purports to identify by school the specific
+punchlist items completed by District personnel. In reality, the vast majority of work descriptions
+in Exhibit 5 bear little or no resemblance to the punchlist descriptions found in Exhibit 3. Like
+Exhibit 3, most of the Exhibit 5 work descriptions do not describe valid punchlist items.
+Punchlist items improperly claimed by the District include items previously noted as completed
+by the District, items that never appeared on the punchlists (i.e., AF 3m, District Ex. 3), and
+items not contractually required.
+
+       41.     The entry for every school under the "Date Work Performed" column reads
+"5/9/86-7/11/86." The "Man Hours" column contains a labor hour total by school. Nowhere in
+the exhibit are labor hours broken out by punchlist item. Thus, the "Man Hours" totals, which
+aggregate labor claimed for all items -- whether valid or not -- improperly include hours that
+cannot be charged to Perdomo. Total manhours claimed by the District for all schools exceeds
+1000 hours, and the District applied a uniform hourly rate of $19.20 for the alleged corrective
+work.
+
+        42.    The cost totals found in the "Cost" column represent the sum of labor and material
+costs by school. These costs totals, of course, aggregate completion cost for both valid and
+invalid punchlist items.
+
+       43.     Page 5 of Exhibit 5, which purports to summarize pages 1 through 4 of the exhibit,
+contains labor totals and cost totals significantly different from the figures shown on pages 1
+through 4. The District was unable to explain these discrepancies.
+
+       44.     Neither Exhibit 5 nor any other document in the record contains an itemization of
+labor and material costs by punchlist item. No District witness was able to testify to actual costs
+by individual punchlist item. (Tr. 596-598). For the few punchlist items not completed by
+Perdomo that can be traced from Exhibit 5 to Exhibit 3, there is no evidence in the record to
+support a contract price adjustment, with one exception.
+
+       45.    For Thomas Elementary School, the record shows that Perdomo had not installed
+a new steam to hot water heat exchanger (which had been delivered to the site). (Tr. 595, 599).
+Perdomo' s own correspondence provides sufficient evidence that the cost to install the heat
+exchanger was $735.20. (AF 3n).
+                                                      - 11 -            CAB No. D-799, Perdomo and Associates, Inc.
+
+
+VI.       Administrative Review
+
+        46.    Perdomo appealed the contracting officer' s decisions of September 4, 1986 to the
+Director of the Department of Administrative Services ("DAS"), and DAS denied the appeal in
+a decision dated December 1, 1987. 9/
+
+       47.    Perdomo filed a notice of appeal from the DAS decision and its complaint with the
+Board on December 21, 1987, and March 1, 1989, respectively. The District filed its answer on
+October 22, 1990, and a hearing on the merits was conducted October 27-29, 1992.
+
+                                                DISCUSSION
+
+       The Board has de novo jurisdiction over this dispute pursuant to section 903 of the D.C.
+Procurement Practices Act of 1985 ("PPA"), D.C. Code § 1-1189.3 (1992).
+
+I.        Liquidated Damages
+
+        Perdomo claims that the District erred in assessing $45,000 in liquidated damages because
+(1) the District was responsible for all 92 days that contract completion was delayed, including
+the 30 days charged against Perdomo, and (2) as a matter of law, the District may not recover
+liquidated damages because it has admitted that it was responsible for at least some of the delay
+period. The District claims that it properly assessed 30 days of delay against Perdomo.
+
+        The party assessing liquidated damages, here the District, bears the burden of proving that
+liquidated damages are due and owing. This involves showing that the contract performance
+requirements were not substantially completed by the contract completion date, and that the period
+for which the assessment was made was proper. See, e.g., Sauter Construction Co., ASBCA No.
+27050, 84-2 BCA ¶ 17,288 at 86,081; Central Ohio Building Co., PSBCA No. 2742, 92-1 BCA
+¶ 24,399 at 121,824; Wickham Contracting Co., IBCA No. 1301-8-79, 86-2 BCA ¶ 18,887 at
+95,284. Where the party assessing liquidated damages for contract delay has contributed to that
+delay, it may not recover liquidated damages, United States v. United Engineering & Contracting
+Co., 234 U.S. 236, 242 (1914), unless there is, in the proof, a clear apportionment of the delay
+attributable to each party. William F. Klingensmith, Inc. v. United States, 731 F.2d 805, 809
+(Fed. Cir. 1984); Blinderman Construction Co., 695 F.2d 552, 559 (Fed. Cir. 1982); Fortec
+Constructors v. United States, 8 Cl.Ct. 490, 508 (1985); Titan Pacific Construction Corp.,
+ASBCA No. 24148, 87-1 BCA ¶ 19,626 at 99,353; Callison Construction Co., AGBCA No. 88-
+309-1, 92-3 BCA ¶ 25,071 at 124,952.
+
+
+
+
+     9/
+    There is no evidence in the record indicating when Perdomo filed its appeal with DAS, and our record does not
+contain copies of Perdomo' s DAS appeal submission and DAS' s decision. As discussed later in our opinion, this will
+affect computation of interest pursuant to D. C. Code § 1-1188. 6 (1992).
+                                                - 12 -         CAB No. D-799, Perdomo and Associates, Inc.
+
+
+        The contractor may defend against an assessment of liquidated damages by showing that
+it should not be held responsible for some or all of the delay period on the ground that the delay
+resulted from causes beyond its control and without its fault or negligence. Elias Pamfilis
+Painting Co., ASBCA No. 30839, 87-3 BCA ¶ 20,189 at 102,179; Mit-Con, Inc., ASBCA No.
+42884, 92-1 BCA ¶ 24,634 at 122,924. Thus, Perdomo bears the burden of proving the defense
+of excusable delay.
+
+        Applying these principles to the facts, we conclude that the District' s assessment of
+liquidated damages cannot stand. Not only did the District contribute to the delay that was
+charged against Perdomo, which in itself would preclude charging of liquidated damages, we have
+found that the District was responsible for the entire period of delay on account of the problems
+relating to the transfer of the existing fuel oil and the locating and installing of gas meters. (F.F.
+14, 22, 23). There is no evidence -- let alone clear evidence -- for the District' s determination
+that Perdomo was responsible for 30 of the 92 days that contract completion was delayed, and the
+record certainly suggests that the determination of 30 days delay for the liquidated damages
+assessment was arbitrary. (F.F. 26).
+
+        The District' s proof that Perdomo was responsible for delay based on lack of manpower
+came up well short of the mark. After a careful review of the record, we have been unable to find
+specific evidence showing that Perdomo had manpower shortages or that particular commitments
+of manpower delayed project completion. We did not find persuasive the few District documents
+which generally complained that Perdomo did not have any personnel at a particular school site
+on a selected day. No District witness was able to testify as to the total size of Perdomo' s
+workforce working at the various school sites at any given time. (F.F. 23).
+
+        The District' s attempts to minimize the significance of the fuel oil and gas meter problems
+are also unpersuasive. The District, not Perdomo, was responsible for the significant delays
+associated with the removal of the No. 6 fuel oil, the cleaning of the fuel tanks, and the refueling
+of the tanks with No. 2 oil. Contrary to the District' s after-the-fact position that Perdomo could
+have fired the burners on the existing No. 6 oil, the contract language shows -- consistent with
+the parties' intent -- that Perdomo was to fire the burners on No. 2 oil, not No. 6 oil. (F.F. 7).
+The District cites no authority for placing the burden on Perdomo to ignore the contract
+requirements and accept the risks for firing the new burners on the wrong fuel. If the contracting
+officer wanted Perdomo to fire the burners on No. 6 oil, he could have done so through a directed
+change. As for the gas meter issue, the evidence shows that the delays Perdomo encountered in
+receiving meter location information and in obtaining meter installation had a direct impact on
+Perdomo' s ability to fire the gas burners. (F.F. 20).
+
+       Based on this same evidence, it is clear that Perdomo satisfied its burden of showing that
+the causes for delay were beyond its control and without its fault. (F.F. 14, 22).
+
+      For the reasons discussed above, we conclude that the District' s assessment of liquidated
+damages was improper.
+                                                     - 13 -           CAB No. D-799, Perdomo and Associates, Inc.
+
+
+
+VII.    Costs to Complete Punchlist Items
+
+        Perdomo claims that it should recover the full amount withheld by the District as costs to
+complete punchlist items. Perdomo asserts: (1) the District has assessed completion costs for
+work previously completed by Perdomo or beyond the contract requirements, (2) the District
+failed to give Perdomo a reasonable opportunity to correct some newly-cited punchlist items, and
+(3) the District' s actual costs to complete are grossly inflated. The District responds that: (1) it
+charged Perdomo for the actual costs incurred by District employees to correct work deficiencies,
+(2) the District' s costs are reasonable, and (3) Perdomo had months to correct the deficiencies but
+failed to do so.
+
+        The Government bears the burden of proving its entitlement to, and the amount of, any
+credit, setoff, or contract price reduction for completion of contract work or correction of
+defective work. Lisbon Contractors, Inc. v. United States, 828 F.2d 759, 769 (Fed. Cir. 1987);
+Hart' s Food Service, Inc., ASBCA No. 30756, 89-2 BCA ¶ 21,789 at 109,643; Beach Building
+Corp., ASBCA No. 33051, 88-1 BCA ¶ 20,508 at 103,678.
+
+        After a careful review of the record, we conclude that there is insufficient evidence to
+support the District' s assessment of completion costs. First, the District failed to itemize costs.
+District Exhibit 5, the only evidence of District costs in the entire record, merely presents
+aggregate completion cost totals for each school. (F.F. 41, 44). Because we have found that most
+of the punchlist or corrective work items described for each school in Exhibit 5 cannot properly
+be charged to Perdomo, 10/ there is no way to identify the costs for items which the District might
+have validly charged to Perdomo. Where the evidence does not allow the Board to distinguish
+between properly claimed costs for corrective work and improperly claimed costs, no price
+reduction or credit will be made. Hart' s Food Service, Inc., 89-2 BCA at 109,643.
+
+        Even if the District had substantiated the value of contract price reductions for open
+punchlist items, there remains another impediment to the District' s recovering completion costs.
+The government may not recover completion costs where it has not provided the contractor a
+reasonable opportunity to cure the work deficiencies. See, e.g., Richardson Construction, Inc.,
+GSBCA No. 11161, 93-1 BCA ¶ 25,239 at 125,710. Here, the District has charged completion
+costs for punchlist items, the vast majority of which were first identified by the District during
+the March 1986 inspections, less than two weeks before the District barred Perdomo from
+returning to the school sites. The District cover letter transmitting the punchlist, which recorded
+the results of the March 1986 inspections, advised Perdomo that it had five days to complete the
+punchlist or face termination. In the circumstances, the five-day cure period was not a reasonable
+period of time. This finding is supported by the fact that the District logged in excess of 1000
+
+
+  10/
+    For example, we previously found that Exhibit 5 attempted to charge Perdomo for punchlist items that had been
+previously completed, did not appear on the punchlists, or were not contractually required. See F. F. 40.
+                                                          - 14 -             CAB No. D-799, Perdomo and Associates, Inc.
+
+
+hours during a period of over two months to complete what it claims was Perdomo' s deficient
+work.
+
+        The one exception to our conclusion that the District is not entitled to costs for open
+punchlist items concerns the task of installing the heat exchanger at Thomas Elementary School.
+This item had been identified in the original December 1985 punchlist and again in the March
+1986 punchlist. Contrary to Perdomo' s assertion that the District, in its March 26, 1986 letter,
+"directed" Perdomo not to install the heat exchanger, that letter merely exempted this installation
+work from the 5-day deadline and directed Perdomo to install the unit "at the earliest time
+possible." Because the District effectively barred Perdomo from doing any further work after
+April 2, 1986, we do not believe the District is entitled to assess its completion costs for this item.
+However, because the record in this one instance provides Perdomo' s own estimate to complete
+the installation, we conclude that the District is entitled to a contract price reduction (for the 0040
+contract) in the amount of $735.20 (F.F. 45) for work Perdomo never performed.
+
+VIII. Interest
+
+       Perdomo claims it is entitled to 4 percent interest, pursuant to section 806 of the PPA,
+D.C. Code § 1-1188.6, 11/ on the amounts improperly withheld by the District, commencing on
+December 16, 1986, the date Perdomo says it filed its claim with DAS. We have reviewed the
+record and have been unable to find any evidence as to when Perdomo filed its claim with DAS. 12/
+Accordingly, interest will run from December 1, 1987, the date that DAS issued its decision
+denying Perdomo' s claim.
+
+                                                   CONCLUSION
+
+        For the foregoing reasons, we sustain Perdomo' s appeal, reversing the District' s
+assessment of liquidated damages and completion costs, with the exception that the District is
+entitled to a price reduction in the amount of $735.20 for the 0040 contract. Accordingly, the
+District shall pay Perdomo $69,097.79, with interest at 4 percent from December 1, 1987.
+
+
+DATE: September 17, 1993                                            /s/ Jonathan D. Zischkau
+                                                                   JONATHAN D. ZISCHKAU
+                                                                   Administrative Judge
+
+
+  11/
+        D. C. § 1-1188. 6 provides:
+
+           Interest on amounts found due to a contractor on claims shall be payable at a rate set in [D. C. Code]
+           § 28-3302(b) applicable to judgments against the District government from the date the Director
+           receives the claim until payment of the claim.
+
+  12/
+        See note 9 supra.
+                             - 15 -   CAB No. D-799, Perdomo and Associates, Inc.
+
+
+CONCUR:
+
+/s/ Zoe Bush
+ZOE BUSH
+Chief Administrative Judge
+
+/s/ Terry Hart Lee
+TERRY HART LEE
+Administrative Judge
+

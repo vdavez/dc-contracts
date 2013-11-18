@@ -1,0 +1,277 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+WORLD ENERGY SOLUTIONS, INC.                            )
+                                                        ) CAB No. P-0759
+Under RFP No. POAM-2006-D-0005                          )
+
+        For the Protester, World Energy Solutions, Inc.: Barry J. Hurewitz, Esq., and Timothy R.
+Schnabel, Esq., Wilmer Cutler Pickering Hale and Dorr LLP. For the Intervenor, Co-exprise, Inc.:
+Jessica C. Abrahams, Esq., McKenna Long & Aldridge, LLP. For the District of Columbia
+Government: Howard Schwartz, Esq., Senior Assistant Attorney General, and Talia S. Cohen, Esq.,
+Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                              OPINION DISMISSING PROTEST
+                                           Filing ID 16488415
+
+
+        World Energy Solutions filed a protest challenging the District’s issuance of an invitation for
+bids in May 2007 for natural gas suppliers to participate in a June 4, 2007 online reverse auction for
+the District’s natural gas supply requirements. The reverse auction was conducted by Co-exprise,
+Inc., pursuant to a March 12, 2007 task order issued under an August 2006 contract it received from
+the District. World Energy had also been awarded an essentially identical contract in August 2006
+to carry out such reverse online auctions but its contract was terminated for convenience by the
+District in February 2007. World Energy claims that the District’s contracting officer dealt in bad
+faith with World Energy from August 2006 until the February 2007 termination. We conclude that
+the most of the issues raised in this protest are properly contract administration claims which have
+been raised, and will be addressed, in a separate appeal filed with the Board under CAB No. D-1308.
+To the extent that the protest allegations challenge the August 18, 2006 award to Co-exprise, those
+allegations are clearly untimely. Accordingly, we dismiss the protest.
+
+                                             BACKGROUND
+
+        According to the protest, beginning in May 2006, Jonathan Harvey, Vice President of
+Business Development for World Energy, was having discussions with John Soderberg, a
+contracting officer for the District’s Office of Contracting and Procurement (“OCP”), regarding an
+anticipated request for proposals to address the District’s energy supply needs. (Protest ¶ 11).
+World Energy alleges that beginning at a meeting on May 18, 2006, regarding the RFP to be issued,
+Soderberg personally solicited World Energy to participate in a private brokering transaction
+involving foreign oil. Soderberg allegedly invited World Energy’s participation on subsequent
+occasions but World Energy states that “it repeatedly declined to participate in the transaction.”
+(Protest ¶ 12).
+
+       On June 26, 2006, OCP issued RFP No. POAM-2006-R-0005 for the “performance of real-
+                                                 -2-       World Energy Solutions, Inc., CAB No. P-0759
+
+
+time, online reverse energy auctions, energy acquisition services and energy consultant services.”
+(District’s June 11, 2007 Motion to Dismiss/Agency Report (“AR”), Ex. 1). Soderberg was the
+procurement contracting officer and the RFP stated that Soderberg would execute any award
+pursuant to the RFP. The RFP contemplated that the successful offeror would conduct reverse
+auctions in order to identify the lowest-cost supplier of natural gas or electricity to meet the
+District’s energy supply requirements. The RFP also contained a “Metropolitan Washington
+Council of Governments Rider Clause” which allowed over governments with the Council of
+Governments (“COG”) to purchase services under the contract. (AR Ex. 1, Section K.8; Protest ¶
+13).
+
+         On July 10, 2006, OCP issued Amendment No. 1, which provided answers to various
+questions about the RFP. (AR Ex. 2). Proposals were due on July 26, and World Energy and Co-
+exprise were the only offerors to submit proposals. OCP conducted discussions with the offerors
+and received best and final offers on August 15 (Co-exprise) and August 16 (World Energy). (AR
+Ex. 3). On August 16, 2006, OCP issued RFP Amendment No. 2, which reserved to the District the
+right to make multiple awards. (AR Ex. 2). World Energy states that Amendment No. 2 was issued
+to the offerors only minutes before the closing time for BAFOs and after it had already submitted its
+BAFO. World Energy and Co-exprise acknowledged the amendments. (AR Ex. 2). After the RFP
+closed and after negotiations and evaluations, the contracting officer determined that World Energy
+and Co-exprise were both technically equal and that their prices for the reverse auctions were fair
+and reasonable. (AR Ex. 3). World Energy offered a lower price for the natural gas services while
+Co-exprise offered a lower price for the electricity services. As recorded in his Business Clearance
+Memorandum dated August 18, 2007, the contracting officer decided to award contracts to both
+World Energy and Co-exprise. (AR Ex. 3). On August 18, 2006, the contracting officer awarded
+Contract No. POAM-2006-D-0005-A (AR Ex. 4) to Co-exprise and Contract No. POAM-2006-D-
+0005-B to World Energy (AR Ex. 5). Soderberg told Havey on August 18 that both World Energy
+and Co-exprise would receive contracts for energy acquisition services, that World Energy would
+receive a task order to conduct the first natural gas auction but that no decision had yet been made as
+to which company would conduct an expected auction for electricity. (Protest ¶ 15).
+
+      By an undated letter from World Energy to Soderberg, faxed to OCP on August 23, 2006,
+World Energy stated in pertinent part:
+
+       [W]e are concerned about the impact of the District’s unexpected decision to modify
+       Section B.2 of the solicitation and award multiple contracts for this requirement after
+       World Energy had submitted their Best and Final Offer . . . . Inasmuch as World
+       Energy’s BAFO reflected a pricing model based upon a single-award contract, the
+       possibility of receiving only a partial (i.e., natural gas only) award may seriously
+       undermine the basis of the World Energy proposal. . . . World Energy respectfully
+       requests a debriefing to address any deficiencies in its proposal that may have led
+       your office to solicit an alternative awardee.
+
+(AR Ex. 6). On August 31, 2006, Soderberg issued a notice to proceed to World Energy, directing it
+to conduct the first natural gas reverse auction. (AR Ex. 7).
+                                                  -3-       World Energy Solutions, Inc., CAB No. P-0759
+
+
+        On September 7, 2006, Soderberg conducted a debriefing as requested by World Energy on
+August 23. Soderberg informed World Energy of Co-exprise’s offered prices and that Co-exprise
+would be selected to conduct the electricity reverse auction. (Protest ¶ 16). World Energy never
+timely filed a protest challenging either the solicitation amendment permitting multiple awards nor
+of the award made to Co-exprise.
+
+        By email of September 20, 2006, World Energy’s John Harvey requested that Soderberg
+clarify with the other members of the Council of Governments (“COG”) that they could acquire both
+electricity and natural gas reverse auction services from World Energy under its contract, POAM-
+2006-D-0005-B. By reply email the same day, Soderberg confirmed that the COG members may
+use either the District’s contract with World Energy or the District’s contract with Co-exprise to
+satisfy their energy auction needs. (AR Ex. 8). Soderberg added that the District had tasked Co-
+exprise to conduct the first electricity auction and World Energy to conduct the first natural gas
+auction.
+
+        By internal OCP email dated September 22, 2006, the contracting officer decided to “lock
+in” the prices of natural gas that were quoted by Washington Gas Energy Services, Inc, under the
+third option year of a cooperative purchase agreement which the District had previously entered into
+with Prince William County Public Schools, a solicitation agent for the COG. (AR Ex. 9). By letter
+to World Energy dated September 22, 2006, the contracting officer notified World Energy that the
+District had decided to rescind the August 31 notice to proceed with the natural gas action since it
+was in the best interest of the District to exercise the option on the current supply contract rather
+than conduct the reverse auction. (AR Ex. 9).
+
+        By letter dated October 13, 2006, World Energy filed with the contracting officer a dispute
+pursuant to the disputes clause of its contract. (AR Ex. 10). World Energy raised a number of issues
+with respect to contract administration: (a) rescission of the notice to proceed with the natural gas
+auction was inconsistent with the District’s obligation to World Energy under the contract, and
+revealed a “bait-and-switch” by the District with respect to the allocation of work under the contract;
+(b) the contract is a requirements contract mandating that the District’s energy supply acquisition
+requirements be filled by World Energy; (c) the contract entitles World Energy to conduct online
+reverse auctions to whatever extent that the District has requirements for natural gas and/or electrical
+power; (d) the District’s rescission notice constitutes a breach of the contract and is not a permissible
+termination for convenience unless the District has a valid reason for the termination; (e) at the time
+of award of contract, the District acted in bad faith since the District did not intend to honor its
+commitment to utilize World Energy’s services for its natural gas and electrical power supply
+acquisition requirements; and (f) the contracting officer’s administration of the contract was tainted
+by a conflict of interest since World Energy refused to participate in an unrelated prospective
+transaction in which World Energy understood the contracting officer to have a significant and direct
+personal financial interest and that any resulting personal disappointment or frustration with World
+Energy regarding that matter irretrievably compromised the contracting officer’s objectivity for
+administering the contract. (AR Ex. 10).
+
+        On October 26, 2006, Harvey from World Energy initiated a meeting with Soderberg in an
+effort to resolve the October 13 claims. We learn from an undated letter from World Energy
+                                                 -4-       World Energy Solutions, Inc., CAB No. P-0759
+
+
+received by the contracting officer on November 3, 2006, that at this meeting the parties agreed to
+“defer formal dispute procedures” while they attempted to resolve the dispute by the contracting
+officer proposing “contract modifications that would specify standards for issuing task orders for all
+requirements within the scope of work.” (AR Ex. 12; CAB D-1308 Complaint ¶ 33). Soderberg had
+a draft response denying each of the claims of World Energy, however the draft letter was never
+delivered to World Energy and was left as a memorandum to the file containing the contracting
+officer’s rationale for rejecting World Energy’s October 13 claims. (AR Ex. 11; District’s June 26,
+2007 Reply). In the memorandum, the contracting officer indicates that (1) World Energy
+acknowledged Amendment 2 to the RFP and agreed, without objection, to multiple awards; (2)
+future natural gas reverse auctions may be required by the District and participating parties but the
+District is not required to procure its energy requirements only through reverse auctions; and (3)
+logistics, timing, price, and the slow progress of World Energy to move the auction forward were
+factors in his determination to rescind the notice to proceed and instead exercise an option on
+another existing contract. (AR Ex. 11).
+
+        By letter dated November 8, 2006, Soderberg responded to World Energy setting forth the
+procedures by which he would evaluate World Energy and Co-exprise to determine the awardee of
+future task orders for natural gas and electricity. In addition, the contracting officer notified World
+Energy that the District may decide to fill the need for energy by direct purchases from suppliers,
+without using reverse auction services. (AR Ex. 12). In a December 8, 2006 letter, World Energy
+responded to the contracting officer and requested further clarification of the procedures for
+awarding future task orders and requesting appropriate contract modifications to clarify that the
+contract would not be administered as a “full requirements” contract. (AR Ex. 12). By letter dated
+December 26, 2006, the contracting officer responded to the December 8, 2006 letter of World
+Energy, declining to revise the procedures set forth in his letter dated November 8, 2006, and
+concluding the letter by stating: “If World Energy does not believe that it can meet the terms
+required by these task order evaluation criteria please let me know and we can discuss the possibility
+of releasing World Energy from the above referenced contract or formally amending the terms
+thereof.” (AR Ex. 12).
+
+         On February 8, 2007, Ms. Patti Lovelady, an energy consultant working on behalf of OCP,
+called Harvey to ask if World Energy would be interested in canceling the contract and participating
+in a re-competition. Harvey stated that World Energy was fully committed to providing services to
+meet the District’s full energy supply procurement requirements, and that it would not agree to
+cancel its contract. By letter of February 15, 2007, Harvey reiterated World Energy’s objection to
+the suggestion that it agree to cancel the contract. (World Energy 06-19-2007 Response, Ex. 17).
+He explained that a re-competition of the contract would be problematic, as World Energy’s pricing
+for the natural gas auction had become public as a result of the prior award, and that a re-competition
+would allow competitors to undercut World Energy’s pricing.
+
+      On February 27, 2007, Soderberg issued a notice terminating World Energy’s contract for the
+convenience of the District, effective March 1, 2007. (AR Ex. 13).
+
+       By Amendment M0001 to Co-exprise’s contract signed by Soderberg on March 8, 2007, Co-
+exprise agreed to reduce its price for the reverse auction for natural gas from $0.07/dth to
+                                                 -5-       World Energy Solutions, Inc., CAB No. P-0759
+
+
+$0.0495/dth as a flat fee for all natural gas volumes acquired through the reverse auction. (AR Ex.
+2). Co-exprise’s revised price thus was exactly $0.005 less than the BAFO price ($0.05/dth) offered
+by World Energy in August 2006.
+
+       On March 12, 2007, Soderberg issued a notice to proceed to Co-exprise to perform the
+reverse auction for natural gas. (AR Ex. 14). By email string dated April 9, 2007 and April 10,
+2007, between World Energy and the District, the contracting officer notified World Energy that Co-
+exprise was going to conduct the reverse energy auction for natural gas. (AR Ex. 15).
+
+        On May 4, 2007, the District issued an invitation for bids to identify natural gas supply
+providers to participate in the online reverse auction to supply natural gas to be conducted by Co-
+exprise pursuant to its August 2006 contract and the March 12, 2007 task order. World Energy
+states that it learned of the invitation for bids on May 16, 2007.
+
+        World Energy filed its protest on May 18, 2007, protesting the District’s “designation of Co-
+exprise to conduct this natural gas supply auction.” (Protest, at 2). World Energy argues that it, not
+Co-exprise, should have been the one to conduct the online reverse auction. World Energy
+simultaneously filed a notice of appeal with our Board, docketed as CAB No. D-1308, stating in
+pertinent part:
+
+       [World Energy] hereby files this notice of appeal based on actions taken by the
+       Office of Contracting and Procurement (“OCP”) regarding contract number POAM-
+       2006-D-0005-B (“the Contract”). World Energy notices this appeal to contest OCP’s
+       termination of the Contract and the contracting officer’s failure to recuse himself in
+       light of a conflict of interest. This appeal is timely, as it is being filed less than 90
+       days after the termination was issued on February 27, 2007, as well as “within a
+       reasonable time” after the Contracting Officer’s failure to render a final decision on
+       World Energy’s request for his recusal, which was submitted on October 13, 2006.
+
+(CAB No. D-1308, Notice of Appeal, at 1).
+
+        By Determination and Finding to Proceed with Contract Performance While a Protest is
+Pending (“D&F”) dated May 29, 2007, the District decided to continue with the reverse auction for
+natural gas, which was scheduled for June 4, 2007. On May 30, 2007, World Energy challenged the
+District’s D&F, but the Board sustained the D&F in an order dated June 1, 2007. Co-exprise
+conducted the online reverse auction on June 4, 2007, as scheduled.
+
+                                           DISCUSSION
+
+        World Energy frames its protest as challenging the May 2007 invitation for bids issued to the
+natural gas suppliers to participate in the online reverse auction that was to be conducted by Co-
+exprise on June 4, 2007. Thus, World Energy asserts that (1) the District made an improper sole
+source “selection” of Co-exprise to conduct the reverse auction; (2) World Energy was improperly
+excluded from revising its BAFO pricing but Co-exprise was permitted to reduce its pricing slightly
+below World Energy’s prices; (3) Co-exprise was a nonresponsible contractor; (4) the contracting
+                                                 -6-       World Energy Solutions, Inc., CAB No. P-0759
+
+
+officer failed to follow task order award procedures spelled out in his November 8, 2006 letter; (5)
+the District failed to award the reverse auction to a required source, namely World Energy; and (6)
+the contracting officer was subject to a conflict of interest that compelled his recusal from selecting
+the contractor to conduct the reverse auction for natural gas supplies.
+
+        The facts demonstrate that World Energy’s true complaint is that Soderberg, the contracting
+officer, improperly dealt with it after contract award in August 2006, including the rescission of its
+August 31, 2006 task order to conduct the natural gas reverse auction, the series of transactions
+relating to its October 13, 2006 contract claims, and culminating in the February 27, 2007
+convenience termination of its contract. World Energy’s allegations are properly seen as contract
+administration disputes that are properly within our dispute jurisdiction and will be addressed in
+World Energy’s appeal, CAB No. D-1308. To the extent that the protest allegations challenge the
+August 18, 2006 award to Co-exprise, those allegations are clearly untimely. World Energy
+received a debriefing on September 7, 2006, and never filed a protest challenging the dual award to
+Co-exprise nor the amendment permitting multiple awards.
+
+       For these reasons, we dismiss World Energy’s protest.
+
+       SO ORDERED.
+
+
+DATED: September 28, 2007                              /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

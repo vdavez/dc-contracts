@@ -1,0 +1,413 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+CLW/CDM JOINT VENTURE                                  )
+                                                       ) CAB Nos. P-0696, P-0697, P-0698, P-0701
+Under Solicitation No. DCAE-2004-R-0014                )            (Consolidated)
+
+      For the Protester, CLW/CDM Joint Venture: Laura E. Jordan, Esq. For the District of Columbia
+Government: Howard Schwartz, Esq. and Talia S. Cohen, Esq., Assistant Attorneys General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Matthew S. Watson, concurring.
+
+                                               OPINION
+                                       LexisNexis Filing ID 5086815
+
+        CLW/CDM Joint Venture (“CLW”) has filed four protests regarding the District’s Request for
+Proposals (“RFP”) for third party claims administration for the District government Worker’s
+Compensation Program. In summary, CLW argues that (1) the RFP violates numerous provisions of
+procurement law and violates a court order entered in Elizabeth Lightfoot, et al. v. District of Columbia,
+et al, Civil Action No. 01-1484(CKK) (D.D.C.); (2) the District’s decision not to exercise an option
+with CLW to continue its performance under a prior contract for third party claims administration, and
+the District’s issuance of a flawed RFP evinces a pattern of bad faith dealings with CLW; (3) statements
+made by the Acting Director of the Office of Risk Management during a hearing before the City
+Council concerning an interim procurement solution show that the procurement process violates the
+law; and (4) the District violated law and regulation by disclosing CLW’s confidential proposal
+information in a Superior Court pleading. We conclude that the District has mooted the challenges to
+the terms of the RFP through two subsequently issued RFP amendments, and that the record falls well
+short of showing bad faith by the District. Further, CLW has not demonstrated that the District violated
+law or prejudiced CLW in disclosing certain past performance questionnaires which were part of
+CLW’s proposal. Accordingly, we deny in part and dismiss in part the protest grounds raised in CLW’s
+consolidated protests.
+
+                                           BACKGROUND
+
+        On August 30, 2004, the District of Columbia’s Office of Contracting and Procurement
+(“OCP”), on behalf of the Office of Risk Management, issued RFP No. DCAE-2004-R-0014 for third
+party claims administration and related services for the District government’s Self-Insured Worker’s
+Compensation Program, which covers approximately 33,378 District employees. (Agency Report
+(“AR”), Ex. 1).
+
+        On September 13, 2004 CLW filed with the Board its first protest (CAB No. P-0696)
+challenging the issuance and contents of the RFP. On September 24, 2004, OCP issued Amendment
+No. 2, which made extensive changes to the RFP in response to the issues raised by CLW in protest P-
+0696. (AR, Ex. 2). Amendment No. 2 extended the closing date of the RFP until October 7, 2004.
+                                                    -2-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+
+
+        On September 27, 2004 CLW filed with the Board a second protest (CAB No. P-0697), alleging
+that Mr. James J. Jacobs, Acting Director, Office of Risk Management (“ORM”), during testimony
+presented to the City Council, spoke of an “interim solution” for the disability program procurement but
+refused to provide details or to state whether CLW was included or excluded from the solution.
+According to CLW, Jacobs’ testimony showed that the District was not conducting a transparent and
+fair procurement process for awarding the worker’s compensation program contract.
+
+          On October 5, 2004, CLW filed a third protest (CAB No. P-0698), alleging that the RFP had to
+be further amended or cancelled in light of a September 24, 2004 order entered in Elizabeth Lightfoot,
+et al. v. District of Columbia, et al. In that order, the court ruled that the District had violated the D.C.
+Administrative Procedures Act and due process when it terminated, suspended, or modified claimants’
+disability compensation without having in place published rules governing the process and providing
+notice to the claimants. According to CLW, the court order renders it nearly impossible for offerors to
+construct a realistic pricing structure or legally to comply with RFP sections that are predicated on the
+District’s ability to terminate, suspend, or modify benefits.
+
+        On October 6, 2004, the District notified the Board and the CLW that on October 4, 2004, the
+Interim Chief Procurement Officer signed a Determination and Findings to Proceed with Award while a
+Protest is Pending (“D&F”). By letter dated October 7, 2004, the contracting officer notified CLW that
+the District did not intend to exercise an option to renew the contract with CLW for disability
+compensation services. Also, on October 7, OCP issued RFP Amendment No. 3 to address the quantity
+of claims and related price issues raised by CLW in CAB No. P-0698. Amendment No. 3 provides:
+
+        Offerors shall identify the assumptions used regarding the quantity of claims per year
+        used in determining its proposed fixed annual price. In addition, offerors shall state
+        what effect on the price an increase or decrease in the amount of claims per year would
+        have on the proposed price per year.
+
+In addition, Amendment No. 3 extended the closing date to October 12, 2004. (AR, Ex. 2).
+
+        On October 8, 2004, OCP awarded Aon Risk Services, Inc., a sole source contract, DCRK-
+2005-C-0003, to provide on-site claims adjudication for disability compensation services on an interim
+basis to allow for evaluation and award under the protested RFP, with performance to begin on October
+21, 2004, and end on February 28, 2005. On October 12, 2004, OCP issued RFP Amendment No. 4,
+which extended the closing time for proposal to October 12, 2004, at 2:00 p.m. (AR, Ex. 2). The
+District received a number of offers.
+
+        On October 14, 2004, the protester filed a motion challenging the October 4, 2004 D&F to
+proceed. The Board denied the motion. Also, on October 14, CLW filed a complaint and emergency
+petition for a temporary restraining order in D.C. Superior Court to enjoin the District from allowing
+performance under the interim contract with Aon. (P-0701 AR, Ex. 1).
+
+        On October 15, 2004, the District filed in Superior Court a memorandum opposing CLW’s
+petition for a TRO. (P-0701 AR, Ex. 2). On October 18, 2004, the District filed in Superior Court a
+praecipe containing an affidavit of Ms. Phyllis Dailey, in support of its opposition to CLW’s TRO
+                                                   -3-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+petition. On October 19, 2004, the Superior Court issued a TRO, with October 29, 2004, as the date of
+the hearing on the preliminary injunction. (P-0701 AR, Ex. 3). On October 29, 2004, the Superior
+Court dismissed CLW’s request for a permanent injunction because CLW failed to file a bond.
+
+        On October 25, 2004, the District filed its Agency Report for the pending three protests. On
+November 2, 2004, the protester filed a fourth protest which was docketed as CAB No. P-0701. This
+protest alleges that the District illegally disclosed, in Exhibit 11 of the October 18 praecipe filed in
+Superior Court, confidential information from CLW’s RFP proposal. Exhibit 11 consisted of CLW’s
+proposal cover sheet, the technical proposal’s table of contents, and two past performance
+questionnaires and addenda prepared by federal agencies evaluating CLW’s performance under various
+federal contracts. CLW requests that the Board restore the status quo by canceling the RFP, terminating
+the interim award to Aon, restoring the recently expired contract with CLW, and awarding CLW its
+protest costs. Alternately CLW requests that, if the RFP is reissued, CLW be awarded all possible
+points in categories relating to the disclosed information. The Board consolidated this protest with the
+other three.
+
+       On November 10, 2004, CLW filed the following comments to Agency Report:
+
+              Protester CLW/CDM Joint Venture (“CLW/CDM”) hereby submits its
+       response to the Agency Report in Protest Nos. P-0696, P-0697, and P-0698 (“protests”)
+       to RFP No. DCAE-2004-R-0014 (“RFP”), as amended. CLW/CDM notes that the
+       Agency Report does not overcome the arguments of the protests. Accordingly, in light
+       of the facts set forth in the protests, pursuant to Board Rule 307.3, CLW/CDM
+       respectfully requests that the protests be decided on the existing record.
+
+      The District, on November 26, 2004, filed a motion to dismiss and Agency Report for CAB No.
+P-0701. On December 7, 2004, CLW filed its opposition.
+
+
+                                                 DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+       CAB No. P-0696
+
+       In CAB No. P-0696, the parties have agreed that grounds I-III of the protest are no longer at
+issue. We address the remaining issues seriatim.
+
+        In ground IV of P-0696, CLW contends that RFP section H.7.3 creates a conflict of interest in
+the event that the contractor became involved in “outside” litigation, that is, litigation not related to a
+disability claim. CLW also argues that the section violates D.C. Code § 2-301.01(b)(7), which sets
+forth one of the statutory purposes of the PPA, namely, “to insure the fair and equitable treatment of all
+persons who deal with the procurement system of the District government.” We agree with the District
+that the RFP cannot be read to create a potential conflict with “outside” litigation. Accordingly, we see
+no violation of law or regulation based on a conflict of interest. Concerning the ground alleging a
+violation of the PPA’s policy of fair and equitable treatment, CLW has failed to demonstrate how
+                                                   -4-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+section H.7.3 violates D.C. Code § 2-301.01(b)(7). In sum, we deny protest ground IV.
+
+        In ground V of P-0696, CLW contends that the Incentive - Disincentive scheme set forth in RFP
+section B.3 violates D.C. Code § 2-304.01(4) in that it does not provide an “unambiguous statement of
+the technical requirements and evaluation criteria necessary” to respond to the RFP. With regard to the
+various alleged deficiencies in the solicitation, including ambiguities with the composite audit score
+used for the incentive-disincentive scheme, the District has responded in the Agency Report that
+portions of Amendment 2, including sections G, VV, and Attachment 2, and RFP Attachment J.10,
+address the deficiencies raised by CLW. In its comments to the Agency Report, CLW has not rebutted
+any of the facts provided by the District as to the effect of Amendment 2 mooting the challenges, and
+thus those facts from the Agency Report are deemed conceded. See Board Rule 307.4. CLW further
+contends that ORM lacks the staff, resources, and competence to audit the performance of the
+contractor. Contract administration issues are not valid grounds for protest. CLW next contends that
+the measure of performance standards in the contract is improperly subjective and discretionary on the
+part of District officials. Having reviewed the standards, and the unrebutted facts set forth in the
+Agency Report, we do not agree with CLW that the amended solicitation violates law or regulation.
+Finally, CLW raises a number of challenges to various other specification sections. The District has
+responded to these grounds in its Agency Report, with references to the changes made by Amendment
+2. Those facts stand unrebutted. In sum, we deny in part and dismiss in part protest ground V.
+
+         In grounds VI and VII of P-0696, CLW contends that the District issued the RFP and conducted
+the procurement in bad faith, violating its duties of good faith required by D.C. Code § 2-301.03. First,
+CLW points to OCP issuing the RFP after CLW had received a notice of intent to exercise an option on
+its then existing contract with the District for the same services. CLW correctly observes that a notice
+of intent to exercise an option does not bind the District to do so, but CLW argues that against the
+backdrop of its satisfactory performance, the District’s issuance of the RFP “strongly implicates” D.C.
+Code § 2-301.03. As the District correctly observes, the issuance of an RFP after transmitting to the
+incumbent contractor a notice of intent to exercise an option, falls far short of evidence of bad faith
+dealings. Next, CLW argues that “the RFP includes many attempts to cloak an effort to circumvent
+D.C. Code § 2-325.01.” That section provides:
+
+               The Mayor shall not enter into any new contract for goods or services the cost of
+       which exceeds the cost of an existing contract for the same goods or services, when the
+       current contractor is willing to continue to provide the goods or services at the price of
+       the existing contract, as long as the contractor is providing satisfactory service; nor shall
+       the Mayor extend any existing contract for any amount over the price agreed to in the
+       existing contract. Nothing contained in this section shall prohibit the Mayor from
+       putting a contract out for bid for a lower price.
+
+CLW alleges that the District structured the RFP to hide the true (presumably, higher) costs of
+performance under a new contract pursuant to the RFP to avoid having to extend the then existing
+contract with CLW. CLW identifies aspects of performance required by the RFP that make
+performance more expensive than that provided under CLW’s existing contract. Since the services
+under CLW’s existing contract and the services provided under the RFP are different in a number of
+significant ways, we do not see how section 2-325.01 applies here. Even if we were to find the section
+applicable, CLW has not convinced us from the record that the District engaged in any form of bad faith
+                                                  -5-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+conduct.
+
+        CLW further contends that all of the protest issues taken together “strongly suggest bad faith in
+the procurement process.” As discussed above, none of the issues raised by CLW evince bad faith on
+the part of District contracting officials. We also conclude that when considering all of the issues
+together, still there is no evidence of bad faith.
+
+       Accordingly, we deny in part and dismiss in part the protest allegations raised in grounds IV
+through VII of P-0696.
+
+       CAB No. P-0697
+
+       In CAB No. P-0697, CLW states the following:
+
+               Protestor . . . CLW/CDM attended and testified at a September 17, 2004 hearing
+       of the Government Operations Committee of the District of Columbia Council to
+       determine whether Acting Director James J. Jacobs should be confirmed as director of
+       the Office of Risk Management (“ORM”). During his testimony, Mr. Jacobs made
+       certain statements that provide the basis for this Protest.
+
+               Specifically, during his confirmation testimony, Committee Chairman Council
+       Member Vincent Orange inquired of Mr. Jacobs regarding his plans for keeping the
+       Disability Compensation Program (“DCP”) operational during the pendancy of the RFP.
+       Mr. Jacobs had earlier testified about an “interim solution” which he sought to
+       implement. Mr. Orange asked Mr. Jacobs of what his interim solution consisted. Mr.
+       Jacobs declined to provide specifics. Mr. Orange then asked Mr. Jacobs whether his
+       “interim solution” involved CLW/CDM. Mr. Jacobs persisted in his failure to respond,
+       saying that, because CLW/CDM had protested the RFP, he did not want to provide
+       further information about the interim solution.
+
+              The matters revealed by Mr. Jacobs’ sworn testimony violate D.C. Code §§ 2-
+       301.01(b) and 2-304.01(4). . . .
+
+        CLW argues that Mr. Jacobs’ testimony shows that the procurement process is neither
+transparent nor open as required by D.C. Code § 2-301.01(b). We conclude that CLW has not
+articulated a valid protest ground. Jacobs’ failure to elaborate on the agency’s procurement plans at a
+Council hearing does not rise to the level of a violation of the PPA. The record does not reveal any
+violation of law or regulation in the manner that the RFP was issued to prospective offerors or in the
+on-going evaluation of offers.
+
+        CLW’s other argument, that Mr. Jacob’s testimony “reveals that there are technical
+requirements and evaluation criteria being used in the evaluation of the RFP that are not being made
+public,” which it says violates D.C. Code § 2-304.01(4), similarly is not well taken. Section M of the
+RFP identifies the evaluation criteria being used in this procurement. CLW has presented no evidence
+that the contracting officer has failed to follow those evaluation criteria in evaluating the offers
+submitted pursuant to the RFP. The merits of the emergency interim award to one of the other offerors,
+                                                  -6-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+Aon Risk Services, is not at issue because CLW has never protested that award action.
+
+       Accordingly, we dismiss the protest grounds raised in P-0697.
+
+       CAB No. P-0698
+
+        In CAB P-0698, CLW alleges that the Lightfoot order of the United States District Court, dated
+September 24, 2004, requires the District to further amend or cancel the RFP. In the order, the court
+held inter alia that the District violated the DCAPA and due process when it terminated, suspended, or
+modified claimants’ disability compensation without having in place published rules governing the
+process and providing notice to the claimants. CLW states that this court order significantly affects a
+number of provisions of the RFP, and requires that the RFP be revised to meet the program
+requirements imposed by the court order. CLW also argues that the District must cancel the RFP and
+continue the contract with CLW until the District corrects the deficiencies in the disability
+compensation program. The District responds that the District always has the ability to address any
+effects of the Lightfoot order by issuing addenda to the RFP or a change order during contract
+administration.
+
+        CLW claims that the Lightfoot order prohibiting the District from terminating, suspending, or
+modifying any disability benefits, until valid regulations are promulgated, renders it practically
+impossible for offerors to construct a realistic pricing structure or legally to comply with RFP sections
+that are predicated on the District’s ability to terminate suspend or modify benefits. CLW identifies
+numerous sections. It claims that the problem permeates the entire RFP.
+
+        The District responds that RFP Addendum No. 3, section B, addresses the issue of pricing the
+fixed price contract based on variations in the number of claims, by requiring that the offerors identify
+the pricing assumptions and the effect on price if claims are decreased or increased during the year.
+Amendment No. 3, section B, states:
+
+       Section L.4.4 is added as follows:
+
+       Offerors shall identify the assumptions used regarding the quantity of claims per year
+       used in determining its proposed fixed annual price. In addition, offerors shall state
+       what effect on the price an increase or decrease in the amount of claims per year would
+       have on the proposed price per year.
+
+       The District argues that Amendment No. 3 provides a reasonable and fair method of pricing the
+contract in view of the Lightfoot order and addresses any other variance in the number of claims. In
+addition, regarding the ability of a contractor to perform the contract requirements consistent with the
+requirements of the Lightfoot order, the District responds that if the order prohibits the District or the
+contractor from performing a particular requirement, then the requirement will not be performed or
+enforced until such time as the District obtains a revised court order, a reversal of the court order, or
+promulgates regulations resolving the court’s objections. Finally, the District notes that the RFP
+provisions state the District’s reasonable minimum needs, subject to the dictates of the Lightfoot order.
+
+       CLW has not rebutted the facts articulated by the District in the Agency Report with regard to
+                                                  -7-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+the effect of Amendment No. 3 on the ability of offerors to formulate a valid offer to the amended RFP.
+We are not convinced from the record that the Lightfoot order renders it impossible for an offeror to
+submit a meaningful offer in response to the RFP. With regard to the provisions in the RFP which
+CLW claims would be impossible or illegal to perform, it is not the Board’s role to enforce
+programmatic requirements specified in a court order.
+
+        CLW also repeats in P-0698 its earlier allegation that the District has violated the standards of
+good faith and fair dealings as well as the fundamental policies set out in D.C. Code 2-301.01(b). For
+the reasons discussed earlier, we deny these protest grounds.
+
+       CAB No. P-0701
+
+       CLW alleges that the District violated the law when it filed in D.C. Superior Court an affidavit
+with exhibits containing confidential information from CLW’s proposal as part of the District’s
+opposition to CLW’s TRO petition in that court. The pleading at issue, styled “Praecipe Noting Filing
+Declaration of Phyllis Dailey in Support of the District of Columbia’s Opposition to Plaintiff’s
+Temporary Restraining Order”, was filed in Superior Court on October 18, 2004. Ms. Dailey states in
+paragraph 8 of her affidavit:
+
+               I further note that CLW/CDM says it will have to close its doors and that,
+       according to Paragraph 32 of Mr. Weaver’s declaration it will not be able to absorb the
+       “hit.” My review of his proposal for the new RFP issued August 30, 2004, and recently
+       received by this office indicates, however, that there are at least two existing contracts
+       in the millions of dollars with the Federal Transit Administration and the U.S.
+       Department of Transportation, National Highway Safety Administration. See Exhibit
+       11, CLW/CDM On Site Technical Proposal, Solicitation 6FG-03-RAB-0002 Addendum
+       to Past Performance Evaluation.
+
+        The referenced Exhibit 11 consists of a cover sheet entitled “A Proposal in Response to
+Solicitation # DCAE-2004-R-0014 for Third Party Claims Administration Services for the District’s
+Self-Insured Worker’s Compensation Program by CLW/CDM, JV”, followed by a 2-page table of
+contents for the technical proposal, followed by two past performance questionnaires and addenda
+prepared by the Federal Transit Administration and the U.S. Department of Transportation’s National
+Highway Transit Safety Administration evaluating CLW’s performance under certain federal contracts.
+ The questionnaires are marked at the top of each page “Source Selection Sensitive Information” and
+show the contract number, dollar value, period of performance, and a brief description of the type of
+contract work. The questionnaires also identify numerical ratings for quality of product or service,
+timeliness of performance, business relations, compliance with price estimates, customer satisfaction,
+and overall performance.
+
+       CLW claims that the District violated 27 DCMR § 1610.1 which provides:
+
+       After receipt of proposals, the information contained in them and the number or identity
+       of offerors shall not be made available to the public or to anyone in the District not
+       required to have access to the information in the performance of his or her duties.
+                                                   -8-                   CLW/CDM, CAB Nos. P-0696, et al.
+
+
+CLW argues that by not filing the pleading under seal or pursuant to a protective order, the information
+was “made available to the public.” Further, according to CLW, the filing violated section 1610.3
+which prohibits releasing information to a prospective contractor that might “give the prospective
+contractor an advantage over others.” Section 1610.3 provides:
+
+       No District employee or agent shall furnish information to a prospective contractor if,
+       alone or together with other information, it might give the prospective contractor an
+       advantage over others. However, general information that is not prejudicial to others
+       may be furnished upon request.
+
+        The District argues the protest is untimely because CLW filed it on November 2, 2004, 11 days
+after the October 18 date the pleading was filed in Superior Court. CLW counters that its counsel did
+not receive the pleading until the TRO hearing on October 19. The District has not rebutted CLW’s
+sworn statement that its counsel received the pleading on October 19, which would make the protest
+timely. Accordingly, we decline to dismiss the protest on timeliness.
+
+        The District argues on the merits that disclosure of the past performance questionnaires did not
+violate law or regulation because none of the information was proprietary and CLW never attached a
+protective legend to its proposal identifying the information as proprietary. In addition, the District
+states that CLW waived any claim of confidentiality by failing to seek a protective order either in
+Superior Court or before the Board. Finally, says the District, disclosure of the past performance data
+(ratings were either outstanding or excellent in all categories) did not competitively harm CLW. CLW
+responds that the information is confidential because it is not readily ascertainable by proper means and
+confers economic value from its disclosure or use.
+
+       D.C. Code § 2-303.17(d) states:
+
+       The District Government Procurement Regulations shall provide that information which
+       has been designated as confidential or proprietary by a business, and which has been
+       submitted by that business as a part of its response to an invitation for bids, a request for
+       proposals, or competitive sealed proposals, is to be treated by the Director, an employee
+       of that office, or any other employee of the District in a confidential manner, and is to
+       be disclosed only to District employees for use in the procurement process and is not to
+       be disclosed to other persons or parties without the prior written consent of that
+       business.
+
+         We do not need to reach the question of whether the District disclosed proprietary information
+because it is clear that the disclosure cannot prejudice CLW in this RFP competition. There is nothing
+in the table of contents or past performance questionnaires that could provide an advantage to another
+offeror or a disadvantage to CLW. In other words, the disclosure will have no effect on the District’s
+evaluation and selection pursuant to the RFP. CLW also challenges the disclosure as a violation of the
+District’s obligation of good faith and other policies specified in D.C. Code § 2-301.01. For the same
+reasons discussed above, we deny these additional protest grounds.
+
+                                            CONCLUSION
+                                               -9-                  CLW/CDM, CAB Nos. P-0696, et al.
+
+
+      Based on our review of the consolidated protest record in P-0696, P-0697, P-0698, and P-0701,
+we deny in part and dismiss in part the protest grounds raised by CLW.
+
+       SO ORDERED.
+
+
+DATED: February 4, 2005                              /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

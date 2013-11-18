@@ -1,0 +1,2313 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+       A.A. BEIRO CONSTRUCTION CO., and                         )
+       FIDELITY AND DEPOSIT COMPANY                             )
+         OF MARYLAND                                            )      CAB No. D-0822
+                                                                )
+       Under Contract No. 0342-AA-02-1-2-CC                     )
+
+       For the Appellants A.A. Beiro Construction Co. and Fidelity and Deposit Company of
+Maryland: Robert G. Watt, Esq., Richard G. Mann, Esq., Keith C. Phillips, Esq., Watt, Tieder &
+Hoffar. For the District of Columbia: Mark D. Back, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Matthew S. Watson, concurring.
+
+                                             OPINION
+                                       CourtLink Filing ID 470475
+
+        Appellants A.A. Beiro Construction Company and Fidelity and Deposit Company of
+Maryland seek termination for convenience costs arising from the District’s converted termination
+for default of Appellant Beiro’s contract to construct a prevocational/vocational school building.
+We find Appellants and their subcontractors entitled to unpaid costs of performance of $1,682,337,
+settlement costs of $131,004, and interest on those amounts pursuant to former section 806 of D.C.
+Law 6-85 (formerly D.C. Code § 1-1188.6, recodified at § 2-308.06).
+
+                                             FINDINGS
+
+        This case arises out of a 1984 contract for the construction of the former Prevocational
+Vocational/Education Facility for the Handicapped at First Street, N.W. The District issued its
+notice to proceed for the project on July 9, 1984, and work was to be complete by June 9, 1986, a
+700-day performance period. There is no dispute that there were significant design defects and
+dimensional errors in the District’s plans and specifications which had been prepared for the District
+under a separate contract by an architect-engineering firm. In February 1985, an elevated concrete
+slab evidenced deflection and cracking. Certain concrete columns also contained cracking. The
+District issued a stop work order on all construction in February 1986, alleging that Beiro had not
+complied with concrete strength requirements. (DEX 227). Beiro took the position that “the
+deflection and ultimate cracking of the beams and slabs clearly is a design problem, not a material
+installation problem.” On April 23, 1986, the District converted the stop work into a suspension of
+work, noting that the architect took the position that the design was adequate and that the problems
+were caused by faulty construction, and that an independent consultant blamed the problems on both
+construction and design deficiencies. (DEX 228). The suspension notice stated that the District
+would have to “re-evaluate the entire situation,” that “in view of the scope of the problems and the
+complexity of the liability issues involved, we estimate that a complete evaluation will take about six
+                                                 -2-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+months,” and that Beiro should mitigate costs for the duration of the suspension (Id.).
+
+        In February 1987, Beiro and DPW began discussing resumption of work on the project and
+negotiating costs of outstanding Beiro proposed change orders (“PCOs”), which numbered well over
+100 at the time. For reasons including a change in the District’s need for such an educational facility
+as well as the economic infeasibility of taking corrective action in order to complete construction,
+the District decided to end the project without completing construction and eventually demolished
+the incomplete structure. (AEX 133; AEX 429, at 9). The District terminated Beiro’s contract for
+default on July 31, 1987, alleging defective concrete placement, and filed a separate claim against
+the architect. The District and the architect ultimately settled that claim. See Fry & Welch
+Associates, CAB No. D-821, July 31, 1997, 44 D.C. Reg. 6859, 6860-61; Board Order, CAB No. D-
+821, dated February 27, 1998. Appellants filed an administrative appeal with the then-Director of
+the Department of Administrative Services who denied Beiro’s appeal on June 15, 1989. Beiro then
+appealed the default termination to the Board on July 14, 1989. In a March 30, 1992 decision, the
+Board defaulted the District on the issue of the propriety of the District=s termination action as a
+sanction for failing to proceed to hearing. After converting the default to a convenience termination,
+the Board conducted a hearing on Beiro=s termination costs in April 1992 and thereafter issued a
+decision awarding Appellants their termination costs. In a June 27, 1996 decision, the District of
+Columbia Court of Appeals reversed the Board=s order holding the District in default and remanded
+the case to the Board for a hearing on the merits.
+
+        Following remand to the Board, the District determined that it no longer wished to defend the
+propriety of the default termination, and on May 1, 1997, it issued a notice to Beiro converting the
+default termination to one for the convenience of the District. The Board directed the parties after
+remand to begin negotiating a convenience termination settlement and supplemental auditing as
+necessary.1 Appellants advised that the owner of Beiro had disposed of the trailer containing most
+of the bankrupt company’s original records at some point during the pendency of the court appeal,
+probably in 1995.2 Ultimately, the parties were unsuccessful in negotiating a termination settlement.
+In 1998, the Board held a hearing on quantum to supplement the hearing that had been held in 1992.
+
+1
+  The District moved to remand the quantum determination to the contracting officer but the Board
+decided to retain jurisdiction while encouraging the District to make such a determination. In its
+posthearing brief, the District again challenges the Board’s jurisdiction but we reject its arguments
+for the reasons expressed in our prior decisions on these matters. (E.g., Board Order, dated May 5,
+1997; Board Order, dated September 5, 1997).
+2
+  Based on the loss of these records, the District argues that it did not have meaningful access to
+Beiro’s financial records. We find that the District had ample opportunity to review, audit, and
+discover Beiro’s financial records from the time of termination through the February 1992 discovery
+cutoff for the original hearing in 1992. The District chose to wait to the end of the discovery period
+to review and copy Beiro records. At no time did the Board prohibit the District from exercising its
+audit rights. Thus, the request for a blanket sanction against Appellants must be rejected. As
+described in our determinations on each element of Appellants’ termination costs, infra, the Board
+has carefully reviewed the entire record and has sustained costs only where adequate support exists.
+                                                 -3-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+       Appellants’ Termination Claims
+
+        Appellants initially engaged Ernst & Young in 1990 to prepare their termination settlement
+proposal. (Tr. 28-29). Ernst & Young analyzed Beiro’s accounting records and prepared a report in
+1991-1992 setting forth the termination for convenience costs for the Prevocational Facility project.
+(Tr. 28-30; AEX 236). Just prior to the 1992 quantum hearing, Ernst & Young issued an update of
+the original cost report. (AEX 362). In May 1998, prior to the supplemental 1998 quantum hearing,
+Ernst & Young issued a new report that updated and adjusted the earlier cost report. (Tr. 32-33;
+AEX 458). Ernst & Young used Beiro’s October 8, 1987 detailed job cost report as the starting
+point for the cost analysis because it was the latest available detailed job cost report. (Tr. 310; AEX
+236, at 3). Vendor and subcontractor payments were copied from Beiro’s detailed job cost report
+into Ernst & Young databases to facilitate the analysis and presentation of the information. (Tr. 51-
+52; AEX 236, at 20-45, 49-53). Using invoices, check carbons, ledgers, transaction reports, and
+other supporting documents, Ernst & Young confirmed the vast majority of the vendor and
+subcontractor costs reported in Beiro’s detailed job cost report and found no basis for questioning
+the accuracy of Beiro's cost report. (Tr. 310-312, 50-54, 56, 59-63, 498). Beiro’s cost accounting
+system was instituted with the assistance of a certified public accounting firm. (Tr. 211). During the
+contract period, Arthur Young and then Ernst & Whinney served as outside accountants for Beiro.
+(Tr. 201). Based on the documentary record and the testimony, we find that Beiro’s cost accounting
+system properly tracked and recorded job costs and expenditures. (Tr. 176-81).
+
+A.     Unpaid Costs of Performance
+
+       As adjusted through the supplemental quantum hearing and briefing, Appellants seek
+$7,323,439 in termination costs as follows:
+
+                       Labor                                           $ 790,285
+                       Labor Burden                                    $ 238,020
+                       Materials & Rental Equipment                    $1,014,767
+                       Subcontractors                                  $4,082,213
+                              Subtotal                                 $6,125,285
+
+                       Subcontractor Claims                            $1,488,560
+                             Subtotal Direct Costs                     $7,613,845
+
+                       Overhead (10.62%)                               $ 808,590
+                       Extended Overhead                               $ 377,760
+                             Subtotal                                  $8,800,195
+
+                       Profit (10%)                                   $ 880,020
+                       Owned Equipment                                $ 558,561
+                               Subtotal                              $10,238,776
+
+                       Less: Payments to Date                         ($5,280,934)
+                                               -4-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+                       Claimed Unpaid Costs
+                       of Performance                                $4,957,842
+
+                       Plus:
+                       Settlement Costs                              $ 131,004
+                       Interest                                            $2,234,593
+
+                       Total Revised Termination Claim               $7,323,439
+
+               1. Labor Costs
+
+        Ernst & Young compiled a database of direct labor costs from Beiro’s weekly job time
+reports and payroll data sheets. (Tr. 40-41). This database, the “Labor Supplement” to Ernst &
+Young’s 1992 termination claim report (AEX 236) lists for the entire job every Beiro worker who
+charged labor to the job, by week, wage rate, and total wages paid. (Tr. 41, 305-06). Using this
+data, Ernst & Young determined that Beiro’s direct labor costs on the project were $790,285. (AEX
+458, at 14; AEX 236, at 4-5, 17, Labor Supplement; AEX 449; AEX 208).
+
+        Ernst & Young determined that Beiro incurred $238,020 for labor burden, comprising
+indirect labor costs for FICA, FUTA, SUTA, workmen’s compensation insurance, and a cost item
+called “Union Burden” for additional fringe benefits required by the Davis Bacon Act, 40 U.S.C. §
+276a. The labor burden costs were determined by calculating the ratio of direct labor costs to labor
+burden from Beiro’s October 8,1987 job cost report, which yielded a burden rate of 30.12 percent,
+and multiplying that rate by the supported labor costs of $790,285. (Tr. 42-43). Ernst & Young
+believe that the labor burden rate of 30.12 percent was reasonable. (Tr. 43; Tr. 1410).
+
+        The District claims that Ernst & Young did not use generally accepted accounting standards
+to verify labor costs and labor burden. The District also points to a discrepancy of approximately
+$80,000 between Beiro’s direct labor costs as reported on its job time reports, amounting to
+$790,285, and its direct labor costs identified on the job cost report, dated October 8, 1987,
+amounting to $870,497. Beiro explains that an amount of $60,400 of “Union Burden” was included
+in the job cost report’s labor account but was not included in the payroll records supporting the
+$790,285 in labor costs. (Tr. 42-43, 217; AEX 458, at 14; AEX 464; AEX 408). Beiro states that
+the remaining differences are attributable to minor additional labor costs and end of the year
+accounting adjustments related to the taxes and workmen’s compensation accounts. (AEX 408;
+AEX 458).
+
+        We find adequate support in the record for direct labor costs of $790,285, the labor burden
+rate of 30.12, and labor burden costs of $238,020.
+
+
+
+               2. Materials, Equipment Rental & Direct General Costs
+
+       Appellants originally claimed costs of $1,062,332 for materials, equipment rental, and direct
+                                                 -5-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+general costs. (AEX 236, at 4, 6-7, 19). In its revised report, it excluded an amount of $41,642 for
+an F&D bond premium, yielding claimed costs of $1,020,690. (AEX 458, at 6, 16). During the
+hearing, Appellants withdrew an additional $5,922.50 paid to Sadur & Pelland, thus reducing its
+claim for materials, equipment rental, and direct general costs to $1,014,767. (Tr. 13-14). The cost
+amounts were obtained directly from Beiro’s detailed job cost report, dated October 8, 1987, and
+from F&D’s bond payment records (arising from F&D’s takeover of the job). (Tr. 44-45). To
+support the materials, equipment rental, and direct general costs, Ernst & Young also used the
+“Prevocational” invoices and check carbons, the “General” invoices and check carbons, and the
+F&D Approval Sheets. (Tr. 44; AEX 465). A summary job cost report dated January 13, 1988,
+shows total costs of $1,086,103. (AEX 408; Tr. 54-55). Although the original detailed job cost
+report no longer exists, Ernst & Young prepared a database which is found in Schedule 3 of Ernst &
+Young’s original cost report (AEX 236, at 20-45) replicating the data from the Beiro detailed job
+cost report. The database captures the detail of the cost report to the invoice level and contains over
+1,150 invoices identified by cost type, cost code, date of invoice, vender name, invoice amount, and
+description. After preparing the database, Ernst & Young reviewed actual invoices totaling
+$824,741 against the invoice information in the database, determined whether the type of costs were
+appropriate for the job, and examined check carbons to verify that Beiro paid the amounts. (AEX
+236, at 6, 19; Tr. 48-55, 308-311). Ernst & Young did not discover any invoice amounts that were
+improperly coded to the Prevocational Facility job. (Tr. 50-51, 311). Based on its testing
+procedures, Ernst & Young believes that the $1,014,767 amount accurately reflects the actual costs
+for materials, equipment rental, and direct general costs. (Tr. 50-54).
+
+        The District argues first that there is a discrepancy of approximately $100,000 between the
+material and rental equipment costs developed from the October 8, 1987 detailed job cost report
+($1,020,541.55) and the costs reported on the January 16, 1988 job cost report, which, according to
+the District, identifies only $853,699.15 in material and equipment rental costs and $45,067.62 for
+small tools and equipment. However, the District has neglected to consider the 1988 job cost report
+amounts for other direct general costs under cost codes 151-152 and 155-161 which total an
+additional $165,145.10. (AEX 408; Tr. 54-55).
+
+        The District also argues that Ernst and Young did not properly verify that the listed amounts
+were actually paid to vendors because Beiro had a practice of holding checks after they were signed
+and after an invoice was marked “paid.” The record shows that although Beiro sometimes held a
+written check for a subcontractor or supplier until Beiro received funds from the project owner, it
+happened infrequently on the Prevocational job. The practice was ended by Beiro’s outside
+accounting firm, Ernst & Whinney, in approximately October 1986, F&D advanced Beiro money to
+pay subcontractors and suppliers, and by November 30, 1986, there were no withheld checks relating
+to the Prevocational job. (Tr. 219-223, 249-250, 839-843, 847; AEX 418). The District has not
+identified any instance in the record where Beiro’s cost records indicate that a payment was made to
+a subcontractor or supplier but the subcontractor or supplier was in fact never paid.
+
+         Next the District argues that certain costs for tools and rental equipment are duplicated in
+Appellants’ owned equipment cost schedule. (District Br. 103). One piece of rental equipment at
+issue is a Kohler generator listed in Schedule 3 at a cost of $1,157.56 and a payment date of October
+                                                -6-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+31, 1984. On Schedule 5 of Ernst & Young’s original cost report (AEX 236, at 54, 60), equipment
+item G49 described as a “Generator – Lowcycle” is listed with an arrival date of August 1984.
+Beiro’s equipment listing by location report (AEX 447, at 401445) shows that this generator was
+purchased on August 28, 1984. Based on a comparison of the record documentation, we find it
+unlikely that the entries in Schedule 3 and Schedule 5 refer to the same piece of equipment. The
+District also claims that a “transit, tripod” acquired from Thorpe-SMI at a cost of $1,768 (Schedule
+3, at 41) duplicates the transit listed at equipment item T286 in Appellants’ owned equipment listing
+(Schedule 5, at 64). We have removed item T286 from Appellants’ owned equipment Schedule 5.
+The District appears to challenge three entries totaling $5,230 in Schedule 3 (at 32) for equipment
+rental from Lago Limit, a Beiro-related equipment company, for the months of February, April, and
+July 1985. We are unable to find corresponding entries in Schedule 5 for owned equipment and the
+District does not point us to any. We see no basis for excluding the $5,230 in Schedule 3. Finally,
+we do not find support in the record for the District’s assertion that Ernst & Young did not
+adequately determine whether Beiro’s material and rental equipment costs were reasonable and
+appropriate. The example of the telephone charges raised by the District is not persuasive.
+
+        The District also claims that costs in Schedule 3 for material, equipment rental, and direct
+general costs include costs for equipment repair parts, equipment repair services, and maintenance
+services which are duplicated in Beiro’s general and administrative expenses summarized in
+Schedule 7. The District notes that in a Beiro financial statement called “Summary of Other
+Contracts Costs” for 1984 and 1985, there is a category of indirect costs for “Repairs, maintenance
+and operations of automotive and construction equipment, including indirect labor.” Because we
+have removed those costs from the G&A costs in Schedule 7 (see infra), the Schedule 3 costs for
+repair and maintenance will not be duplicated in Schedule 7.
+
+       In sum, we find adequate support in the record for material, equipment rental, and direct
+general costs totaling $1,014,767.
+
+               3. Subcontractor Costs
+
+        Appellants originally claimed subcontractor costs of $3,925,685, consisting of $3,314,972
+paid by Beiro and $610,713 paid by F&D. (AEX 236, at 4, 7, 48). In its revised report, Ernst &
+Young included an additional amount of $170,000, representing a payment by F&D to R.R.A. in
+settlement of a subcontractor claim, yielding total subcontractor costs of $4,095,685. (AEX 458, at
+4, 6, 18). During the hearing, Appellants withdrew claims in the amount of $13,472, thereby
+reducing subcontractor costs to $4,082,213. (Tr. 811-812). The cost amounts were obtained from
+Beiro’s October 1987 detailed job cost report, the supporting subcontractor invoices, cancelled
+checks, and F&D claim and payment records. (Tr. 58-64, 311-312, 849-854). The database captures
+the detail of the cost report to the invoice level and contains data for approximately 205 invoices
+identified by cost type, cost code, date of invoice, vender name, invoice amount, and description.
+Ernst & Young found invoices and check carbons for all but approximately $5,700 detailed in
+Beiro’s cost report as subcontractor costs. (Tr. 58-59). A number of Beiro’s subcontractors
+submitted backup for their post-termination certified claims that independently admitted payments of
+$2,316,628. (Tr. 790-805; AEX 450; AEX 470; AEX 471). The payments admitted by these
+                                                 -7-                   A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+subcontractors matched the amounts recorded in the cost database and claimed by Appellants to
+have been paid as subcontract payments. (AEX 470; AEX 471). We find that this corroboration
+between payments admitted by subcontractors and payments identified in the Ernst & Young
+database lends significant credibility to Ernst & Young’s cost databases and the underlying Beiro
+cost records. (Cf. Tr. 1385). The record separately supports F&D’s payments to subcontractors.
+(Tr. 849-854; AEX 450).
+
+        The District argues that $15,216 in payments to American Steel, G.M. Ketcham, Hope’s
+Architectural, and Montgomery Elevator were part of Beiro’s payment requisitions 18 and 19, and
+because the District never paid those requisitions, Beiro must not have actually paid these amounts.
+We are not persuaded by the District’s argument. American Steel and G.M. Ketcham filed no claims
+against Beiro, Hope’s Architectural confirmed all Beiro payments, and Montgomery Elevator made
+a claim for only $434. (AEX 408, at 52; AEX 450; AEX 471). The subcontractor confirmations of
+payment lead us to find that Ernst & Young’s database schedules derived from the October 1987
+detailed job cost report accurately reflect actual costs incurred by Beiro. Accordingly, we find that it
+is more likely than not that these challenged payments were indeed made.
+
+       The District also argues that of 29 invoices from Maurice Electrical Supply Company, only 7
+were stamped “paid” and only 15 were marked with the initials of the Beiro project manager. (AEX
+443). The District further claims that 3 amounts on the database listing are not supported by
+invoices. Having reviewed the invoices in AEX 443 and those attached to the original requisitions
+submitted by Beiro to the District, as well as the cost schedule, and the testimony, we find that the
+record adequately supports Beiro direct payments to Maurice Electrical amounting to $187,469.
+
+       The District also challenges the support for payments made by Beiro to LeBow and to
+Hallmark Iron Works. We find that the payments are adequately supported by the record. (AEX
+442; Beiro’s original payment requisitions; AEX 236, at 50; AEX 440; AEX 450; AEX 471).
+
+        Finally, the District argues that F&D’s payments to subcontractors BPI, Beautyguard, Able
+Equipment, Colorado Security Agency, and RRA, in settlement of claims, was done without the
+approval of the contracting officer as required by contract. We find that the District has not shown
+that the payments were in excess of a reasonable amount for the subcontracted services provided to
+Beiro on the project. (Tr. 849-54; AEX 236, at 35; AEX 450). The District suffered no prejudice
+from these settlements.
+
+       We find that the record adequately supports subcontractor costs paid by Beiro of $4,082,213.
+
+               4. Subcontractor Claims
+
+       Appellants seek subcontractor claims totaling $1,488,560. (AEX 458, at.35; AEX 450; Tr.
+141). The subcontractors variously claim unpaid progress payments, unpaid change order work,
+withheld retention, and indirect costs as part of their termination for convenience claims. (Tr. 760-
+61; AEX 450; DEX 270). As described in more detail below, we find entitlement for these
+subcontractor claims in the total amount of $168,954, plus interest as described in Section C. infra.
+                                               -8-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+               A.G. Mauro Company
+
+        Appellants presented a proof of claim form and a Beiro audit sheet in support of a $3,700
+claim by A.G. Mauro Company apparently for unpaid invoices for furnishing builders’ hardware.
+(Tr. 763; AEX 450 (A.G. Mauro tab)). Because the record documentation is inadequate to support
+the claim, we deny the claim.
+
+               Beautyguard Exterior Systems, Inc.
+
+        Beautyguard filed a claim for $32,025 (excluding interest), for furnishing and installing
+exterior metal siding as part of its subcontract with Beiro. (Tr. 264-286). F&D paid Beautyguard
+$5,000 pursuant to a pass-through agreement, leaving the unpaid claim amount at $27,025. (Tr. 277-
+78; AEX 458, at 35; AEX 450 (Beautyguard tab)). The $32,025 claim was composed of $14,979 for
+unpaid contract work, $1,581 for extra engineering work, and $15,465 for extended overhead costs.
+(Tr. 269-78; AEX 450). Based on our review of the testimony from Mr. Speiden, president of
+Beautyguard, we find entitlement to the $14,979 for unpaid contract work and $250 for extra
+redesign and engineering work, a total of $15,229. Beautyguard did not demonstrate that the District
+was responsible for critical path delays to its performance. Moreover, the schedule information did
+not clearly identify Beautyguard’s planned performance period and we are not convinced that any
+alleged delays prevented Beautyguard from taking on other work. Therefore, we deny
+Beautyguard’s claim for extended overhead costs. Because F&D previously paid Beautyguard
+$5,000 on its claim, we sustain the claim in the amount $10,229 plus interest on that amount as
+indicated in Section C. infra.
+
+               Beta Construction Company
+
+        Beta Construction submitted a termination for convenience claim in the amount of $9,061 for
+its basement waterproofing work on the project. (Tr. 764; AEX 450 (Beta Construction tab)). The
+claim amount consists of $699 for unpaid labor and materials and $8,362 for home office overhead.
+The overhead claim is unsupported. We sustain Beta Construction’s claim in the amount of $699
+plus interest on that amount as indicated in Section C. infra.
+
+               BPI Mechanical, Inc.
+
+        BPI performed all the mechanical work for Beiro and obtained a court judgment against
+Appellants for its termination for convenience claim in the amount of $644,793. (Tr. 765-66; AEX
+450 (BPI Mechanical tab)). During an appeal of that judgment, the Appellants and BPI settled their
+dispute, with F&D paying $540,000 directly to BPI under a pass-through agreement by which the
+parties agreed to submit the entire claim to the District. (Tr. 849-50; AEX 450). The F&D payment
+reduced the unpaid claim amount to $104,793. (AEX 458, at 35). Having reviewed the record,
+including the documentation submitted by BPI and its subcontractors, we are unable to find adequate
+support entitling BPI to recover any amounts beyond the $540,000 previously paid.
+                                                -9-                  A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+               Fairfax Glass Company, Inc.
+
+       Fairfax Glass submitted a claim of $6,940 for supplying insulating glass for the project on
+February 17, 1986. We sustain the claimed cost of materials in the amount of $5,164 plus interest on
+that amount as described in Section C. infra, but find the remaining claimed amounts for labor,
+overhead, and legal fees to be unsupported. (Tr. 766; AEX 450 (Fairfax Glass tab)).
+
+               Fib-Con Corporation
+
+        Fib-Con submitted a claim of $108 for drafting submittals for custom fiberglass planters. We
+sustain the claim plus interest on that amount as indicated in Section C. infra. (Tr. 766-67; AEX 450
+(Fib-Con tab)).
+
+               Flowers School Equipment Company, Inc.
+
+       Flowers School Equipment submitted a claim by its gymnasium equipment supplier, Aalco
+Manufacturing Company, in the amount of $735 for Aalco’s shop drawings and freight expenses.
+We sustain the claim plus interest on that amount as indicated in Section C. infra. (Tr. 767-68; AEX
+450 (Flowers School Equip. tab)).
+
+               Louis J. Grasmick Lumber Company, Inc.
+
+        Grasmick Lumber submitted a claim in the amount of $41,455, before interest, for half inch
+and five-eighth inch plywood furnished to the project. (Tr. 768; AEX 450 (Grasmick Lumber tab)).
+The statement of claim seeks $40,694 for the plywood, hauling and labor charges of $761, and
+interest amounts. However, Mr. Grant Grasmick’s statement of claim indicates that the plywood
+was shipped to the jobsite on February 24 and 26, 1986, and March 6, 1986, thus several days before
+and after the District’s February 28, 1986 stop work order. The statement of claim also indicates
+that Grasmick removed all of the plywood from the jobsite at the request of Beiro. Indeed, $450 of
+the $761 is for “Hauling charge for removing and returning material from Washington to
+Baltimore.” (AEX 450 (Grasmick tab, at 2)). Accordingly, we deny the material portion of the
+claim amounting to $40,694, but sustain the hauling and labor charges of $761 plus interest on that
+amount as indicated in Section C. infra.
+
+               Greensteel Division, Adience Company, L.P.
+
+        Greensteel submitted a termination for convenience claim pertaining to its school equipment
+contract in the amount of $6,927. (AEX 450 (Greensteel tab)). It does not appear that Greensteel
+furnished any equipment to the job. Although part of the claim appears to be for shop drawing
+preparation, the record does not adequately support what those costs amounted to and how they were
+calculated. Because the remaining claimed costs are not adequately supported, we deny the entire
+claim. (Tr. 768-69; AEX 450).
+
+               Greenwald Industrial Products Company, Inc.
+                                                - 10 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+         Greenwald submitted a termination for convenience claim for its bathroom partition contract,
+in the total amount of $8,449, composed of $5,633 for “engineering and administrative expenses” of
+Greenwald’s sub-supplier, Penco Products, Greenwald’s own administrative costs of $2,516, and
+$300 for claim preparation. (Tr. 769-70; AEX 450 (Greenwald Industrial tab)). We deny the claim
+because the amounts are not adequately supported.
+
+               Hallmark Iron Works, Inc.
+
+        Hallmark Iron was the miscellaneous metals subcontractor for the project which included
+furnishing and installing iron frames, pipe rails, steel stairways. (Tr. 549, 770). Hallmark submitted
+a termination for convenience claim in the amount of $174,913. (Tr. 550; AEX 450 (Hallmark Iron
+Works tab)). Hallmark’s own claimed costs consist of $90,492 for materials, shop labor of $22,159,
+tools and supplies of $2,715, supervision costs of $665, delivery costs of $752, field labor costs of
+$38,960, and shop drawings of $4,304. Hallmark also seeks $36,976 for wire mesh supplied by the
+G-S Company, and subcontracted field labor of $21,100, composed of $8,100 for Wright Erection
+and $13,000 for Metro Steel & Stone. (AEX 450). Mr. Ralph Barnes, Hallmark’s senior project
+manager, testified in support of Hallmark’s claim and explained the supporting documentation. (Tr.
+552-69).
+
+        We were able to locate in the record a number of invoices of Hallmark for the period from
+October 1984 through June 1985. In addition, the subcontractor costs database in Schedule 4 of
+Beiro’s original claim submission (AEX 236) shows that Hallmark received subcontract payments
+through September 30, 1985. Based on our review of the Hallmark invoices found in AEX 440,
+Schedule 4 subcontract costs data of payments to Hallmark, and Hallmark’s certified claim, we find
+that the invoices and the Schedule 4 payments provide a more reliable record of Hallmark’s costs
+than the statement of costs listed in Hallmark’s certified claim. Several of the Hallmark invoices can
+be tied into the subcontractor costs for Hallmark found in Schedule 4 of Appellants’ original claim
+submission and may be compared to the costs claimed by Hallmark in its March 1988 certified
+claim. (AEX 236, at 50). For example, Schedule 4 shows a payment by Beiro on January 28, 1985,
+in the amount of $12,754, and described as “Req. 4 – Prevocational.” That can be tied to Hallmark
+Requisition No. 4211-03-12 (1984), dated December 20, 1984, in the net amount of $12,754.
+Although the requisition has typed matter indicating that the period of the requisition is from
+November 20 to December 20, 1984, the supporting invoices are dated October 20, November 20,
+and December 20, 1984. (AEX 440, at Bates 602571-602568). The October 20, 1984 invoice bills
+for fabricated Items 8E/D, 9E/D, and 10E/D in the total amount of $372. In contrast, Hallmark’s
+certified claim asserts that its materials only cost for Items 8E, 9E, 10D, and 10E amount to $1,778.
+(AEX 450 (Hallmark tab, at 7-8)). In addition, Hallmark seeks in its certified claim a portion of its
+claimed $22,159 in shop labor for fabrication of these items as well as erection costs of $1,400 for
+Items 8E and 9E. (Id. at 3, 5). We find it more likely than not that Hallmark’s invoice billed for all
+associated costs, including material, shop labor, and field labor.
+
+      Hallmark’s January 20, 1985 invoice bills for Items 30E/D, 10D, 27E/D, and 27D, in the
+amount of $3,704, which reduces to $3,333 after deducting a 10 percent retention. That amount ties
+                                                - 11 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+to the $3,333 payment found in Schedule 4. In contrast, the certified claim identifies an amount of
+$987 for Item 30D and $10,096 for Item 30E. In sum, it is impossible from the meager information
+in the certified claim to adopt the cost figures set out on the material worksheet. The large amounts
+in the certified claim for shop labor and field labor are similarly without adequate documentation to
+support them. As stated above, we believe it is more likely than not that Hallmark’s invoices which
+were paid by Beiro included all associated job costs, including material, shop labor, and field labor.
+Because the record shows that Hallmark received its last payment from Beiro on approximately
+September 30, 1985, and there is no indication that Hallmark had failed to invoice Beiro or receive
+payment from Beiro for any of its work performed prior to that date, we find that Hallmark received
+appropriate compensation for its performance through approximately August 1985.
+
+       We find Hallmark’s certified claim for $21,100 for its subcontracted field labor by Wright
+Erection and Metro Steel & Stone to be included in the subcontract costs that Beiro previously paid
+to Hallmark. The dates for those subcontracted erection items suggest performance prior to August
+1985. Hallmark did not include invoices or payment records showing that such work was not
+included in the payments Beiro made to Hallmark during 1985. Therefore, it must bear
+responsibility for any failure in the evidence.
+
+        Some of Hallmark’s material items appear to have been manufactured and perhaps installed
+at the job site after August 1985. These amounts would not have been included in the payments
+made by Beiro to Hallmark. Having reviewed Hallmark’s material worksheet for material items
+which have building material dates after August 1985, we find Hallmark entitled to recover costs
+amounting to $22,755. Because Hallmark did not introduce evidence of any allocable shop or field
+labor on these items, we are unable to award such costs. Adding 10 percent overhead and 10 percent
+profit, we find Hallmark entitled to recover $27,534. Thus, Hallmark’s claims for shop labor, tools
+and supplies, supervision, delivery, field labor, and shop drawings are denied for lack of adequate
+support.
+
+        The final issue to be dealt with on Hallmark’s certified claim is the claim component labeled
+“supplier material” submitted on behalf of the G-S Company, consisting of $26,144 for materials,
+$1,960 for labor, and $8,872 for delay costs. (AEX 450 (Hallmark tab)). We deny G-S Company’s
+material cost portion because the stainless steel mesh was never delivered to the site. The mesh was
+not simply scrap, and thus had some value. (Tr. 558-59). In addition, G-S may have been able to
+use the wire mesh on another job or return it to the manufacturer without sustaining any loss.
+Because G-S does not indicate the disposition of the mesh, we are unable to find entitlement. G-S
+claims 56 labor hours for drafting/engineering time and field measuring time. Because there is no
+indication as to what efforts were accomplished, we are unable to find entitlement to labor costs.
+We deny the delay costs of $8,872 because G-S has not shown either a critical path delay in its
+performance caused by the District or that any such delay prevented it from taking on other work
+during the delay period. In sum, G-S Company’s claim is denied.
+
+      Accordingly, Hallmark’s claim is supported in the amount of $27,534, plus interest on that
+amount as indicated in Section C. infra.
+                                               - 12 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+               Herndon Lumber & Millwork
+
+       Herndon Lumber & Millwork was the millwork subcontractor responsible for fabricating
+millwork, cabinets and countertops. (Tr. 770-71). Herndon Lumber submitted a termination for
+convenience claim for shop drawings, estimates and administrative costs in the amount of $3,220.
+(AEX 450 (Herndon Lumber tab)). We find adequate support in the record for the claimed costs for
+shop drawings in the amount of $902, plus interest on that amount as indicated in Section C. infra.
+
+               Hope’s Architectural Products, Inc.
+
+        Hope’s Architectural Products, Inc., was a subcontractor for steel window frames and
+submitted a claim in the amount of $11,300, before interest, for unpaid retention ($3,499), and extra
+work under PCO 185 ($5,297), PCO 197 ($1,795), PCO 26 ($479), and PCO 151 ($230). (Tr. 771;
+AEX 450 (Hope’s Architectural Products tab)). We sustain the claim for unpaid retention in the
+amount of $3,499. The claim for acceleration identified as PCO 185 is denied for lack of adequate
+support. We deny the claim based on PCO 197 (insulated porcelain panels) because neither Hope
+nor Beiro has shown that the need for custom design and fabrication of the insulated panels was the
+result of a post-award change to the specifications and drawings. We sustain the $479 claimed by
+Hope for PCO 26 which the District does not dispute. (DEX 231). Finally, we sustain the $230
+claimed by Hope for extra work involved in trimming sash to fit a revised masonry. Accordingly,
+Hope is entitled to $4,208 plus interest as indicated in Section C. infra.
+
+               Industrial Machinery Equipment Corporation
+
+         Industrial Machinery submitted a claim for freight, return freight, and restocking of an
+emergency generator in the amount of $4,695. (Tr. 771-73; AEX 450 (Industrial Machinery tab)).
+We find that the 25 percent restocking charge is excessive under the circumstances and we reduce
+that portion of the claim from $4,000 to $1,600 reflecting a 10 percent charge. Thus, we sustain the
+total claim in the amount of $2,290 plus interest as indicated in Section C. infra.
+
+               J.A. Nearing Company, Inc.
+
+        J.A. Nearing Company was the greenhouse subcontractor. (Tr. 773). It submitted a revised
+termination for convenience claim in the amount of $6,859 for shop drawings and packing list labor
+($1,594), 1,400 square feet of 1/4 inch clear wire glass ($3,850), and storage costs ($792). (AEX
+450 (J.A. Nearing tab)). We sustain the labor amount of $1,594 but deny the material cost because
+J.A. Nearing made no showing that it was unable to recover its costs for the material by resale or
+return to the supplier. Similarly, we deny the storage costs because the claim that material was
+stored for 34 months is unsupported by the record. Thus, J.A. Nearing is entitled to $1,594 plus
+interest as indicated in Section C. infra.
+
+               John H. Hampshire, Inc.
+
+       The spray-applied fireproofing subcontractor, John H. Hampshire, Inc., submitted a claim in
+                                                - 13 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+the amount of $14,583 for the balance due on its work and minor changes. (Tr. 774; AEX 450 (John
+Hampshire tab)). The documentation submitted by Hampshire is inadequate to demonstrate that it
+completed its base contract work as well as change order work. Accordingly, we deny its claim.
+
+               Long Fence Company, Inc.
+
+        Long Fence submitted a certified termination for convenience claim in the amount of $733
+for work performed on its exterior play equipment subcontract. (Tr. 774-75; AEX 450 (Long Fence
+tab)). Long Fence’s documentation adequately supports $120 for shop drawing labor, plus interest
+as indicated in Section C. infra.
+
+               Lynn Fabricators, Inc.
+
+        Lynn Fabricators was the structural steel subcontractor. Lynn submitted a cost proposal on
+December 8, 1987, asserting claimed costs of $316,992, consisting of steel price escalation ($8,725),
+extra material costs arising from changes ($19,612), extra costs by Lynn’s detailer arising from
+changes ($48,500), extra costs incurred by Lynn’s joist and deck supplier due to changes ($16,296),
+extra erector costs incurred by the erector due to changes ($52,016), Lynn’s extended overhead due
+to delays ($103,168), settlement costs ($23,250), unpaid contract balance ($16,607), and overhead
+and profit ($28,818). Although we do not doubt that Lynn and its supplier and subcontractors
+incurred some additional costs as a result of one or more of the changes outlined in the 15-page
+narrative of Lynn’s claim summary document, there is simply insufficient evidence in the record to
+support the magnitude of the claimed costs. The claim summary in AEX 450 lacks all of its
+referenced exhibits. Lynn supplied no costs records other than the one-page letter of December 8,
+1987, listing the categories of costs, and a one-page “Cost Analysis Summary” dated January 27,
+1986, which like the December 8, 1987 letter, provides only a top-level summary of costs. The only
+supporting testimony, short and superficial, was offered by Beiro’s Mr. Murray. (Tr. 775-76).
+Accordingly, we deny the claim of Lynn Fabricators.
+
+               Mid-Atlantic Steel Contractors, Inc.
+
+        Mid-Atlantic Steel was the rebar subcontractor. (Tr. 779). It submitted a termination for
+convenience claim in the amount of $25,285, consisting of claims for overhead and profit on direct
+labor as well as labor inefficiency ($9,126) and extended overhead ($8,141). (AEX 450 (Mid-
+Atlantic tab)). We sustain Mid-Atlantic’s claim for overhead and profit on its supported burdened
+labor costs of $32,303, in the amounts of $3,230 (10 percent overhead) and $3,553 (10 percent
+profit). Mid-Atlantic’s labor inefficiency claim has merit and we find that it is entitled to
+compensation of an additional $2,563 based on the difference between the planned rate of 1.05 tons
+of rebar installed per man-day and its actual average rate of 0.9 tons per man-day. In calculating the
+inefficiency amount (189 hours), we used the labor hour totals and costs set forth in Mid-Atlantic’s
+final labor statement. We deny Mid-Atlantic’s extended overhead claim for lack of adequate
+support. Accordingly, Mid-Atlantic is entitled to recover $9,346 plus interest as indicated in Section
+C. infra.
+                                               - 14 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+               Montgomery Elevator Company
+
+       Montgomery Elevator submitted a claim in the amount of $434 for its unpaid contract
+balance. (Tr. 779; AEX 450 Montgomery Elevator tab)). Based on our review of the invoices and
+payments made to Montgomery Elevator, we sustain the claim for $434 plus interest as indicated in
+Section C. infra. (AEX 236, at 51).
+
+               Overhead Door Company of North Washington
+
+        Overhead Door submitted a termination for convenience claim in the amount of $1,995 for
+shop drawings and administrative costs. (Tr. 779-80; AEX 450 (Overhead Door tab)). The shop
+drawing costs are supported by an invoice but the administrative costs are not adequately supported
+by the record. Accordingly, we find Overhead Door entitled to $91 plus interest as indicated in
+Section C. infra.
+
+               R. Bratti Associates, Inc.
+
+        R. Bratti Associates was the masonry subcontractor. Its subcontract with Beiro was in the
+amount of $696,000. Change orders increased the price by $66,536 for a adjusted contract price of
+$762,536. The record contains a July 17, 1986 requisition of R. Bratti valuing its completed work in
+the amount of $598,361, or approximately 78 percent completion. That requisition shows Beiro
+payments of $518,751, with an amount due of $79,610 plus an additional $3,620 for six items of
+extra work billed on a time and materials basis. (AEX 450 (R. Bratti tab)). The value of
+performance, change order amounts, and time and materials costs are supported by documentation
+submitted by R. Bratti. In a March 9, 1988 certified claim, R. Bratti sought total performance costs
+of $606,830, $51,691 for office overhead and administrative costs, and 15 percent profit of $98,778,
+for a total of $757,299. After deducting payments received from Beiro of $518,751, R. Bratti
+arrived at a balance due of $238,548. Mr. Ronald Bratti testified at the hearing in support of the
+claim. (Tr. 520-547). The masonry work was substantially impacted by the changes to the structural
+drawings, which were not coordinated by the District with the architectural drawings controlling the
+exterior masonry. (Tr. 522-23). R. Bratti Associates submitted a certified termination for
+convenience claim in the amount of $238,548. (Tr. 535; AEX 450 (R. Bratti tab); Tr. 78). Having
+reviewed the record, we find that the July 17, 1986 requisition is a more reliable statement of R.
+Bratti’s costs of performance than the March 9, 1988 claim. The March 1988 claim is supported
+only by a one-page recap cost sheet which lacks the kind of supporting labor, material, and overhead
+cost documentation we would expect for a claim of this size. Moreover, we believe that July 1986
+requisition costs incorporated applicable overhead and profit. Accordingly, R. Bratti Associates is
+entitled to $83,230 plus interest as indicated in Section C. infra.
+
+
+
+               Ratrie, Robbins & Schweizer. Inc.
+
+       Ratrie, Robbins & Schweizer (“RRS”) was Beiro’s paving subcontractor. (Tr. 782). On
+                                                - 15 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+October 22, 1987, RRS submitted a termination for convenience claim in the amount of $7,204.
+RRS states that it originally was to commence performance in Fall 1985 but its start date was
+ultimately rescheduled to Fall 1986/Spring 1987. RRS did not actually perform any paving work on
+the project because RRS’ revised start date was well after the February 28, 1986 contract suspension
+date. On November 10, 1987, RRS supplemented its claim, stating that it was unable to absorb the
+$7,204 of overhead costs arising from the extensive delays to its beginning work. (AEX 450 (RRS
+tab)). We are not persuaded by the meager record that RRS was unable to replace this anticipated
+job with other work. Nor has RRS provided adequate evidence of any direct costs of its preliminary
+efforts such as for material submittals and field work preparation. Accordingly, we find that RRS
+has not shown that it is entitled to recover for either direct or indirect costs.
+
+               Southeastern Floor Company, Inc.
+
+        Southeastern Floor submitted a termination for convenience claim in the amount of $1,080
+for the costs of purchasing and storing special order flooring. (Tr. 782; AEX 450 (Southeastern
+Floor tab)). However, Southeastern Floor did not submit any invoice or receipt evidencing its
+payment for the flooring. We deny the claim for lack of adequate support.
+
+               Stevens Tile & Marble Company, Inc.
+
+        Stevens Tile & Marble was the ceramic tile subcontractor. (Tr. 783). It submitted a claim in
+the amount of $2,751, before interest, for the unpaid costs of purchased materials delivered to the
+project. (AEX 450 (Stevens Tile tab)). The claim is adequately supported by invoice
+documentation. Stevens Tile is entitled to $2,751 plus interest as indicated in Section C. infra.
+
+               Superior Electric Company, Inc.
+
+         Superior Electric performed work on the Prevocational Facility, which included installing the
+initial power hookup, placing conduit for concrete slabs, and placing conduit in masonry and drywall
+until the District suspended work in February 1986. (Tr. 784-85). The permanent wiring, electrical
+fixtures, panels, and an emergency generator had not been installed by the time of the work
+suspension. (Tr. 785-88). Superior Electric was a small company for which the Prevocational
+Facility may have been its sole job at the time. (Tr. 788). On November 9, 1987, it submitted a
+certified claim totaling $443,301 for administrative and overhead costs, “opportunity costs lost due
+to restriction on bonding”, and taxes. (AEX 450 (Superior Electric tab)). We find that none of the
+claimed costs are supported and none are recoverable. Beiro’s Mr. Murray testified that Superior
+Electric also was owed money for unpaid progress payments, unpaid retention, and unpaid changes.
+(Tr. 1476-81). However, Superior Electric made no claim for such amounts and there are no
+supporting requisitions or invoices. Accordingly, we deny Superior Electric’s claim and Beiro’s
+claim on behalf of Superior Electric.
+
+               Triangle Sign & Service
+
+       Triangle Sign & Service fabricated, customized aluminum and plexiglass letters for the
+                                                - 16 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+exterior of the Prevocational Facility. (Tr. 788-89; AEX 450 (Triangle tab)). It submitted a claim
+for unpaid invoices in the amount of $17,978. (AEX 450; AEX 458, at 35). We find the claim to be
+adequately supported by invoices and cost records. Accordingly, we sustain the claim in the amount
+of $17,978 plus interest as indicated in Section C. infra.
+
+               Wilcox Caulking Corporation
+
+        Wilcox Caulking was the exterior joint sealant subcontractor. (Tr. 789). It submitted a
+certified claim for work performed and contract administration costs in the amount of $7,500,
+consisting of $5,000 for labor and materials and $2,500 for “administrative and estimating costs and
+expenses.” (AEX 450 (Wilcox Caulking tab)). Payroll records submitted by Wilcox only support
+labor costs of $780 for the payroll periods December 19 - 25, 1985, and December 26, 1985 -
+January 1, 1986. There is no support for its material costs or its administrative and estimating costs.
+Accordingly, we find Wilcox entitled to recover $780 plus interest as indicated in Section C. infra.
+
+               5. Owned Equipment
+
+       Ernst & Young prepared a schedule of costs incurred by Beiro for using its own equipment
+on the project. (AEX 458, Schedule 5). Schedule 5 is divided into two categories of owned
+equipment costs: pre-suspension equipment costs, covering the period from May 1984 through
+April 1986 (approximately two months beyond the February 1986 stop work order), amounting to
+$386,465, and post-suspension equipment costs of $175,074, for a claim total of $561,539. (AEX
+458, Schedule 5; Tr. 73, 76).
+
+        To determine owned equipment costs, Ernst & Young used Beiro’s equipment listing by
+location reports (AEX 447) and the project’s daily job reports (AEX 208). (Tr. 65, 312; AEX 458,
+at 7). The equipment list location reports were used to determine what equipment was on the project
+site. (Tr. 65-67, 69, 499-501; AEX 447; AEX 458, at 7). The daily job reports then were consulted
+to ascertain whether the heavy equipment was active or idle each day. (Tr. 67, 502-03; AEX 458, at
+7). Ernst & Young determined that the heavy equipment was active 12.26 percent of the total job
+time. (Tr. 71-72). Because the smaller equipment was not listed on the daily job reports, Ernst &
+Young estimated its active time using the 12.26 percent usage factor for the heavy equipment. (Tr.
+71-73).
+
+        Ernst & Young used the relevant equipment rates whenever possible from the Associated
+Equipment Distributors (“AED”) rental cost guide, which the District agrees is the proper rental cost
+guide. (Tr. 65-66, 69-70; Tr. 754-55). Other equipment rate guides were used only to obtain rates
+for equipment not identified in the AED guide. (Tr. 69-70). For calculating the cost for the
+equipment, Ernst & Young multiplied the full AED rate by the number of days each piece of
+equipment was actively used and multiplied 50 percent of the AED rate by the number of days that
+each piece of equipment was idle. (Tr. 65-66, 73; AEX 458, at 7). For the post-suspension period,
+all equipment was deemed idle. (Tr. 74-76).
+
+       The District’s auditor admitted that he had no disagreement with the method used to
+                                               - 17 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+calculate the owned equipment costs. (Tr. 1415). His concerns focused on whether the equipment
+was actually at the job site and whether the equipment was necessary for the project. (Tr. 1415-16).
+ Although the auditor had access to the underlying documentation for the equipment costs (Schedule
+5, the Beiro equipment reports, and the daily project reports) he apparently did not substantively
+analyze them or interview DPW personnel concerning what equipment was appropriate for the
+project. (Tr. 1415-20).
+
+        We have reviewed the documentation and the testimony and find the pre-suspension owned
+heavy equipment costs to be supported with two exceptions. In our earlier discussion concerning
+material and rental costs we found that equipment item T286 (“Transit”) was erroneously included
+on Schedule 5 and thus the amount of $1,232 should be removed. (AEX 236, Schedule 5, at 58). In
+their posthearing brief, Appellants also agree that the dates of service of the CAT 955L Loader (item
+L2 of Schedule 5, at 58) should be reduced by 28 idle days representing a $2,978 reduction in cost
+because the equipment did not arrive at the site until September 21, 1984. (Appellants’ Reply, at 12-
+13; AEX 208, at 507758, 507782, 507835, 502214). These deductions total $4,210, which reduces
+the pre-suspension heavy owned equipment costs to $261,916. We have carefully reviewed the
+District’s arguments concerning heavy equipment on Schedule 5 listed as never being in active use.
+However, a review of the daily project reports show that the equipment, such as tampers and rollers,
+were often in use. Moreover, we find that some of this equipment (such as compressors and heaters)
+would not likely be mentioned on the daily reports since they operate in the “background.” Ernst &
+Young properly took a conservative approach in treating these items as always idle even though they
+were undoubtedly in active use during at least some periods of the work.
+
+        For the pre-suspension smaller equipment, we cannot agree with the method for computing
+the owned equipment costs. Applying daily rates over extended periods of time on the job produced
+what we consider to be excessive costs that in many cases far exceeded the purchase price of the
+tools. Of the $120,339 sought by Appellants, we find $40,000 to be a reasonable owned equipment
+cost which is approximately 5 percent of Beiro’s direct labor cost. Thus, Appellants’ pre-suspension
+equipment costs equal $301,916, consisting of $261,916 for heavy equipment and $40,000 for the
+smaller equipment.
+
+        For the post-suspension costs, covering the period May 1986 through August 1987, we
+generally find the costs to be unallowable. Although Beiro reasonably might have maintained some
+of the equipment on the job site after the stop work in February 1986, by the time the stop work was
+converted to a suspension on April 23, 1986, a reasonable contractor would have removed
+construction equipment from the job site for use on other jobs as needed. The fact that Beiro left so
+much construction equipment on the site for so long indicates, we believe, that there simply was no
+other Beiro job requiring the equipment, especially since Beiro had lost its bonding capacity and was
+winding down. (Tr. 75). The District should not be expected to reimburse Beiro for storing
+unneeded equipment at the job site. One exception to our disallowance is the cost associated with
+maintaining Beiro’s office trailers ($10,996), storage trailers ($23,758), and some limited pieces of
+equipment for loading and moving operations ($2,000) until the default termination. It was
+reasonable for Beiro to maintain these items at the site for conducting post-suspension project
+meetings and negotiations and in support of securing the site. Accordingly, we allow $36,754 for
+                                               - 18 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+such costs but disallow the remainder of the post-suspension costs in the amount of $138,320.
+
+       In sum, we find Appellants are entitled to $338,670 in owned equipment costs.
+
+               6. Unabsorbed General and Administrative Costs
+
+        Appellants claim $377,760 for unabsorbed overhead costs during the 518-day District-
+imposed suspension of work from February 28, 1986 to July 31, 1987. (AEX 458, at 37). Appellants
+argue that they are entitled to unabsorbed overhead costs for this period because the District-
+imposed suspension of work resulted in a suspension of Beiro’s bonding capacity. (Tr. 833-34; Tr.
+665). According to Appellants, F&D, as surety, was particularly concerned about the Prevocational
+Facility contract as evidenced by the segregation of information about the Prevocational Facility
+contract from the information about all Beiro’s other contracts in the financial and contract
+information sheets prepared for F&D in 1986 and 1987. (Tr. 836-37; AEX 415, 418; DEX 221).
+During this period, the District also was withholding over 2 million dollars in payments due Beiro on
+the Benning Terrace and Air Rights Tunnel projects. (Tr. 886-91; Tr. 1493-95; DEX 225, at 935,
+939-40).
+
+        In 1981, Beiro had approximately $20 million in assets, $35 million in contract earnings,
+gross profit from contracts of $5 million, and net income of $1.72 million. In 1982, Beiro had
+approximately $15 million in assets, $21 million in contract earnings, gross profit from contracts of
+$2.28 million, and a net loss of $543,000. In 1983, Beiro had approximately $11 million in assets,
+$10 million in contract earnings, gross profit from contracts of $1 million, and net income of
+$862,000. Beiro had losses from its investments in oil producing equipment and real estate of $1.3
+million and $1.6 million for 1982 and 1983 respectively. (AEX 402). In 1984, Beiro had
+approximately $16 million in assets, $31 million in contract earnings, gross profit from contracts of
+$2.4 million, and a net loss of $155,000. (AEX 403-404). In 1985, Beiro had approximately $12
+million in assets, $44.7 million in contract earnings, gross profit from contracts of $777,000, and a
+net loss of $4.6 million. (AEX 404). Working capital increased by $1.3 million in 1981, was
+unchanged in 1982, increased by $1.6 million in 1983, decreased by $430,000 in 1984, and
+decreased by $5 million in 1985.
+
+        Up until 1984, Beiro had a bonding capacity of approximately $100 million. (Tr. 833-34;
+AEX 401-402). In 1984, or perhaps in early 1985, Beiro’s bonding capacity dropped to $20 million.
+ (Tr. 833-34). F&D’s counsel testified that F&D suspended Beiro’s bonding capacity entirely in
+“late ’85 or early ’86.” (Tr. 833-34). We find it more likely than not that F&D suspended Beiro’s
+bonding capacity in 1985. F&D noticed a significant increase in Beiro claims on a wide array of its
+bonded projects. (Tr. 830-31). In early 1985, F&D hired a construction consultant, an accounting
+firm, and a law firm to investigate Beiro’s contract performance and financial and legal situation.
+The investigation revealed that Beiro’s financial position had eroded substantially in the space of
+approximately a year and a half to two years. (Tr. 831-32). F&D’s counsel testified that the reasons
+for the eroded financial position were slow pay by owners on construction projects, Beiro’s
+prosecuting many claims (with the attendant costs) but not getting paid on claims or change orders,
+and a loss of working capital on account business losses including significant loans made to a
+                                                - 19 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+struggling affiliated company, Beiro Concrete. (Tr. 832; AEX 402-404). A review of financial
+statements covering 1984 and 1985 shows that Beiro’s working capital reserves were being depleted
+even before 1985 through significant losses not only on contracts but also on real estate and oil
+investments, a large dividend, and interest expenses. (AEX 403). Thus, the weakening financial
+position of Beiro left it unable to absorb the severe revenue declines in 1985. In a February 21, 1986
+draft financial statement for 1985, a note reads:
+
+       The Company has been informed by their Surety of their decision not to provide
+       performance bonds on future construction contracts. Their decision was based on the
+       financial condition of the Company as evaluated by the Surety. The inability to post
+       performance bonds has therefore restrained the Company from bidding on future
+       construction contracts with bonding requirements.
+
+(AEX 404, Note 1 to Financial Statements). By the time the District stopped paying Beiro’s
+requisitions beginning with Requisition No. 18 submitted by Beiro on January 31, 1986 (AEX 60),
+and rejected by District letter of March 10, 1986 (AEX 71, 72, 87), and issued the stop work order
+on February 28, 1986, Beiro had already lost its bonding capacity. Thus, the District’s suspension of
+work on the Prevocational job was not the proximate cause of Beiro’s inability to obtain other
+bonded work during the delay period but rather a further impediment to financial recovery. On these
+facts, we do not find the District liable for Beiro’s unabsorbed overhead during the suspension
+period.
+
+               7. Overhead Mark-Up
+
+       Ernst & Young determined Beiro’s overhead mark-up to be 10.62 percent on direct costs of
+$7,613,845. (Tr. 80-81; AEX 458, at 37). As we stated in our discussion of Beiro’s claim for
+material, equipment rental, and direct general costs supra, we exclude from Beiro’s G&A rate the
+category of indirect costs labeled on the financial statements as “Repairs, maintenance and
+operations of automotive and contracting equipment, including indirect labor” so as to avoid any
+potential duplication of costs. Appellant’s overhead mark-up was a composite of its overhead rates
+for 1984-1987. The problem with Ernst & Young’s calculations is that the 1987 rate is nearly 50
+percent and does not represent a proper component for the calculations since most of the direct costs
+were incurred in 1984 and 1985. By 1987, Beiro had essentially ceased its construction business.
+We find a G&A rate of 10 percent to be a reasonable rate. Accordingly, Appellants are entitled to
+overhead costs in the amount of $629,424 on direct costs totaling $6,294,239.
+
+               8. Profit
+
+       Ernst & Young included a ten percent profit factor. (Tr. 6; AEX 458, at 4; Tr. 1426). We
+agree that a 10 percent profit factor is reasonable. The District has made no showing that there
+would have been a loss on the contract. The fact that certain change orders and subcontractor costs
+have not been sustained by us for lack of adequate quantum documentation does not change on profit
+on this project. Applying a 10 percent rate to the $6,923,663 sum of Beiro’s direct costs of
+$6,294,239 and overhead costs of $629,424, yields profit of $692,366.
+                                              - 20 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+       Total Unpaid Costs of Performance
+
+        We find total unpaid costs of performance of $2,673,765 which is the difference between
+total costs of performance of $7,954,699 and District payments to Beiro of $5,280,934. We
+summarize the calculations as follows:
+
+                      Labor                                         $ 790,285
+                      Labor Burden                                  $ 238,020
+                      Materials & Rental Equipment                  $1,014,767
+                      Subcontractors                                $4,082,213
+                             Subtotal                               $6,125,285
+
+                      Subcontractor Claims                          $ 168,954
+                            Subtotal Direct Costs                   $6,294,239
+
+                      Overhead mark-up (10%)                        $ 629,424
+                      Extended Overhead                             $        0
+                            Subtotal                                $6,923,663
+
+                      Profit (10%)                                  $ 692,366
+                      Owned Equipment                               $ 338,670
+                              Subtotal                             $ 7,954,699
+
+                      Less: Payments to Date                       ($5,280,934)
+
+                      Unpaid Costs of Performance                   $2,673,765
+
+       B. Settlement and Claim Preparation Costs
+
+        Ernst & Young initially calculated Appellants’ settlement and claim preparation costs at
+$115,721. (AEX 236, at 74; AEX 458, at 39). This calculation inadvertently omitted an invoice
+from Ernst & Young for claim preparation in the amount of $15,283 submitted after the settlement
+proposal was finalized. (Tr. 86-87; AEX 431 (invoice dated November 27, 1991)). Appellants seek
+settlement and claim preparation costs of $131,004, consisting of $72,798 paid by F&D to Ernst &
+Young to prepare the settlement proposal (Tr. 84-88; Tr. 855), $6,506 paid by F&D to the law firm
+of Watt, Tieder, Killian & Hoffar in connection with the preparation of the settlement proposal,
+$47,595 paid in connection with the defense and settlement of the post-termination claim of BPI
+Mechanical (Tr. 82-83; Tr. 855-57, 859-60; AEX 434), and $4,105 paid by F&D to the law firm of
+Whiteford, Taylor & Preston in connection with the defense and settlement of claims by Able
+Equipment and another subcontractor (Tr. 857-60; AEX 458, at 39; AEX 450 (Able Equipment
+tab)). The District does not challenge the reasonableness of the fees. We sustain Appellants’ claim
+for claim preparation costs amounting to $131,004.
+
+       C. Interest
+                                               - 21 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+        Appellants seek two types of interest: interest on funds advanced by F&D to Beiro in
+support of the Prevocational project at the rate set by their loan agreement, and interest on unpaid
+change orders from the date of the PCO proposal or settlement with the District. (AEX 458, at 41-
+47). Alternatively, Appellants seek statutory interest, pursuant to former section 806 of D.C. Law 6-
+85 (formerly D.C. Code § 1-1188.6, amended and recodified as § 2-308.06), at a rate of 4 percent on
+performance-related costs measured from the date that Appellants submitted their claim to the
+Director of the Department of Administrative Services on August 28, 1987. For nonperformance-
+related costs, such as claim preparation costs, Appellants seek interest from the date of their being
+incurred.
+
+        We believe the statutory rate provided by the Procurement Practices Act governs here.
+Accordingly, Appellants are entitled to interest on their unpaid performance costs (limited to the
+adjusted contract price cap) at 4 percent per annum from August 28, 1987, the date that the Director
+received Appellants’ claim challenging the default termination action, until paid by the District.
+MCI Constructors, Inc., CAB No. D-924, June 4, 1996, 44 D.C. Reg. 6444, 6471-72; Kora &
+Williams, CAB No. D-839, Sept. 30, 1996, 44 D.C. Reg. 6511, 6545. Appellants are entitled to
+interest on the settlement expenses at 4 percent per annum from December 23, 1991, the date of the
+last payment for such expenses.
+
+       D. Adjusted Contract Price/Contract Cap Calculation
+
+        The original contract price for the Prevocational School project was $8,098,000.00. (AEX
+4). During the course of the project, the District issued 34 Basic Change Directives (“BCDs”)
+directing changes to work under Article 3 of the contract. (Tr. 456). The District also issued 13
+Field Work Authorizations (“FWAs”) directing more minor changes to the work. In addition, Beiro
+was also directed to perform extra work through verbal direction from District representatives,
+correspondence from the District and/or its architect/engineer, or District responses to Beiro Notice
+and Request forms. (Tr. 456). When verbal direction was given by District representatives, Beiro
+would follow-up with a Notice and Request form confirming the direction. (Tr. 394-95).
+Throughout the course of the project, Beiro submitted 120 Proposed Change Orders (“PCOs”) to the
+District requesting equitable adjustments to the contract for extra work and delays. (AEX 238-357).
+
+        In the Spring of 1987, when the District was contemplating re-start of the suspended project,
+negotiations concerning Beiro's PCOs were conducted between Beiro and District representatives.
+(Tr. 401-02, 458, 477; Tr. 5-8). Although only two formal change orders were executed, 48 PCOs
+were settled by the parties. (Tr. 9-45). Mr. Kandikere Krishnamurthy, the District's expert witness
+who reviewed the Beiro PCOs and testified by videotape, acknowledged entitlement for the PCOs
+settled by the District representatives and quantum for the majority of the settled PCOs. (DEX 231).
+Mr. Krishnamurthy recognized entitlement for 76 of the 120 Beiro PCOs. (DEX 231). Certain PCO
+work was partially completed at the time of work suspension. Beiro has estimated the percentage of
+work completed and applied the percentage in its contract cap calculation. (AEX 237; Tr. 458-59;
+Tr. 47-49). The District did not rebut that evidence. According to Appellants, the PCO costs
+incurred only by Beiro, including mark-ups on those costs, are $2,099,544.33. Appellants also claim
+profit and bond markups on the subcontractor PCO costs of $70,380.93. Appellants presented
+                                               - 22 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+subcontractor termination for convenience claims totaling $1,488,560.00 (we have previously
+determined entitlement amounting to $168,954). Appellants’ calculated adjusted contract cap is as
+follows:
+
+               Subcontractor T for C Claims:                         $ 1,488,560.00
+               Plus: Beiro Overhead (10.62%):                        $   158,085.07
+                       Subtotal:                                     $ 1,646,645.07
+               Plus: Beiro Profit (10%):                             $   164,664.51
+                       Subtotal:                                     $ 1,811,309.58
+               Beiro PCO Costs:                                      $ 2,099,544.33
+               Beiro Markup on Subcontractor PCO Costs:              $     70,380.93
+               Less: Deductive Change Order No. 1:                   $   (13,295.00)
+               Net Increase in Contract Cap:                         $ 3,967,939.84
+               Original Contract Value:                              $ 8,098,000.00
+                       Adjusted Contract Cap:                        $12,065,939.84
+
+       Of Appellants’ claim for $2,099,544 in PCO costs, we find support for PCO costs totaling
+$1,346,472, which includes the PCOs settled by the parties. The following is a discussion of each
+PCO and our findings on entitlement and quantum.
+
+       PCO 2
+
+        The District's architect added reinforcing steel and concrete during its review of Beiro's
+Transmittal No. 2 “Rebar Foundation” shop drawings. Beiro submitted its PCO 2 in the amount of
+$1,483 for the additional work. After removing a 14.25 percent mark-up for FICA-FUTA (on top of
+a labor burden rate of 27.41 percent), we sustain the claim in the amount of $1,427. (AEX 238,
+AEX 456 (Murray Tr. 56-57)).
+
+       PCO 3
+
+        The District issued BCD No. 1 on August 7, 1984, making changes to the door schedule for
+the project. Beiro submitted PCO 3, requesting compensation for this and other door revisions in the
+amount of $14,435. As a result of the late changes to the doors, Beiro was forced to engage a
+different hollow metal door supplier, at an additional cost of $8,246. The new supplier's products
+also required additional field assembly and additional changes were required in the field to modify
+door frames. (AEX 239; AEX 456 (Murray Tr. 60-62)). We find quantum to be $12,747.
+
+
+       PCO 5
+
+       The District’s architect made changes to the rebar layout for the first floor slab during the
+                                               - 23 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+shop drawing phase. Beiro submitted its PCO 5 in the amount of $1,716 for the additional work.
+The record does not support quantum. (AEX 240; AEX 456 (Murray Tr. 62-63)).
+
+       PCO 6B
+
+       The District issued BCD 2 on or about August 3, 1984, making a number of dimensional
+changes to the architectural drawings. Beiro submitted its PCO 6B in the amount of $1,833 for the
+extra work. Beiro and the District settled the PCO for the full amount, which we sustain. (AEX 241;
+AEX 457 (McConnell Tr. 10-11); AEX 456 (Murray Tr. 63-65, 476-78)).
+
+       PCO 7
+
+       As a result of the District’s delay in establishing the layout/control points for the building
+from July 9, 1984 until October 5, 1984, Beiro incurred additional direct costs for layout and
+submitted PCO 7 in the amount of $17,229.00. We sustain the claim in the amount of $8,566.
+(AEX 236, at 20; AEX 242, 245; Tr. 364-65).
+
+       PCO 8
+
+       Appellants withdrew PCO 8, in the amount of $32,149.00.
+
+       PCO 9
+
+        The District issued BCD No. 7 on or about November 2, 1984, making revisions to the water
+meter vault for the Project. Beiro submitted a change order proposal in the amount of $1,728.00 for
+the extra work. This change was subsequently settled with District representatives for $1,547.
+(AEX 244; AEX 456 (Murray Tr. 11, 72-74)). We sustain the claim for that amount.
+
+       PCO 10A and 10B (Beiro pre-suspension delay claims)
+
+        Beginning before the July 9, 1984 Notice to Proceed, Beiro had identified dimensional
+discrepancies between the structural and architectural drawings. (Tr. 363-66, 370; AEX 10, 19, 33).
+ Design and dimensional problems caused by the District’s architect delayed major portions of the
+work. (Tr. 368-70). The District issued numerous changes to the structural steel design to correct
+the design errors. (E.g., AEX 241 (BCD No. 2); AEX 245 (BCD No. 4); AEX 246 (BCD No. 5);
+AEX 75 (indicating that 69 percent of the structural steel members on the Project were changed)).
+While Beiro waited inordinate lengths of time for the District to issue design resolutions, Beiro
+reasonably slowed down its work on non-critical path activities so as to avoid a shutdown of work
+on the site. (Tr. 379-80; 381-82; AEX 33). Beiro performed an analysis of the project delays and
+determined that, as of the end of 1985, the project had been delayed 346 calendar days due to the
+structural steel deficiencies. Mr. McConnell explained the delay analysis, using the baseline CPM
+of November 1984 and the December 25, 1985 update, the last update in the record. (DEX 205, 206;
+Tr. 383-85). Beiro submitted its PCOs for the pre-suspension delays under PCO 10A and 10B. (Tr.
+385). In PCO 10A, Beiro attributed the first 90 days of delay to the architectural drawing changes
+                                                  - 24 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+and the late provision of control points for the project, which prevented Beiro from performing the
+initial critical layout and excavation/foundation work. (Tr. 363-65, 368-70, 385-86). Beiro
+attributed the remaining 256 days of delay to the structural steel delays in PCO 10B. (Tr. 385-86;
+AEX 246). With regard to the late provision of control points and architectural drawing changes, the
+District agrees that CPM activity 895-900 (concrete column footings for sections 8 and 10) was
+delayed by 56 days. (DEX 239, at 4). The District’s argument that Beiro made up the time on future
+concrete pours is not persuasive. Based on our review of the schedules, updates, delay
+correspondence, and testimony, we find that the late provision of control points for the project
+critically delayed the project approximately 60 days. Based on our review of the record, we find that
+Beiro was delayed approximately 210 days on account of the substantial structural steel redesign of
+the project. Although the District’s expert proposed a total of 140 days of pre-suspension delay
+(DEX 239, at 13), we believe the record supports at least 210 days of total critical path delay. Beiro
+contends, and we agree, that the delays relating to the control points ran concurrently with the delays
+caused by the redesign of the structural steel. (Tr. 386). In addition, we find that Beiro was not
+responsible for critical path delays to the project. In particular, the District’s position that Beiro was
+responsible for the concrete cracking and deflections, is unsupported by the record. We credit
+Appellants’ concrete experts who testified that Beiro followed the contract and industry standards
+for concrete placement at the Prevocational project. We find that the concrete problems were caused
+by the structural steel design deficiencies for which the District and its contracted architect are
+responsible.
+
+        PCO 10A
+
+       PCO 10A was submitted by Beiro on March 12, 1987 in the amount of $637,367.00. (AEX
+245). The claimed costs were:
+
+Direct costs of BCD No. 4:                      $ 22,103.00
+Subcontractor impact & extension costs:         $ 65,320.00
+Winter concrete impact costs:                   $ 53,774.00
+Extended performance (90 days):                 $496,170.00
+Total:                                          $637,367.00
+
+       We sustain the direct costs of $22,103, consisting of additional Beiro engineering ($1,264),
+subcontractor costs (Mid-Atlantic Steel ($4,095), CECO ($14,520) and A&L Painters ($18.00)), and
+Beiro mark-up. (AEX 245, at 401702; Tr. 461-62).
+
+        Beiro claims the following subcontractor impact and extension costs: CECO ($41,789),
+Mid-Atlantic Steel ($17,267), and Beiro mark-up. (AEX 245, at 401300). Appellants agree that the
+CECO costs should be removed because they are included in other PCOs. (AEX 245, at 401306).
+In the subcontractor claim section supra, we partially sustained Mid-Atlantic Steel’s impact claim in
+the amount of $2,563. With Beiro mark-ups, this portion is sustained in the amount of $2,833.
+
+       As a result of early project delays, Beiro was forced to perform a substantial amount of
+concrete work in the January-February 1985. (Tr. 462). These costs include additional charges for
+                                                 - 25 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+concrete additives, inefficiencies, and winter protection/heating of concrete. (AEX 24, at 401316-
+324; Tr. 462). We sustain labor costs of $17,424, equipment costs of $1,266, and heating costs of
+$12,830. The total of these costs with Beiro’s mark-up is $33,445.
+
+        In their posthearing brief, Appellants revised their claim for extended performance costs
+from $496,170 (based on a 90-day extension at a daily rate of $5,513) to $177,842 (90 days at a
+daily rate of $1,976), removing certain subcontractor claim amounts. As detailed below, we find a
+composite daily rate of $1,900 supported by the record, consisting of daily rates of $1,168 for project
+office expenses, $18 for material escalation, and $714 for home office G&A expenses.
+
+        Project office expenses included Beiro’s field office labor (supervisory, layout, mobilization,
+cleanup, pump and bail footings, Government trailer support, safety, and security costs), field office
+general expenses (engineering and tests, utilities, small tools, fencing, safety, signs and photos, site
+security, insurance, and CPM consultant), and field office equipment and construction equipment.
+Beiro pooled these costs and added appropriate mark-ups, yielding total project office expenses of
+$815,463 from Notice to Proceed (July 9, 1984) through cessation of work on March 7, 1986.
+(AEX 245, at 401355; Tr. 462-64, 467-68). We have revised Appellants’ calculation of project
+office expenses recovered on other PCOs from $112,140 to $106,561, which is then deducted from
+the total project office expense of $815,463, to yield $708,902. Dividing this total by the
+performance period of 607 calendar days yields a daily project office expense of $1,168. (AEX 245,
+at 401355; Appellants’ Posthearing Brief, Appendix B; Tr. 467-68).
+
+        Beiro computed its costs for material and wage escalation as a result of the delays in the
+amount of $36,044.00. (AEX 245, at 401351). Based on the status of Project completion at the time
+of termination, Appellants concede that the escalation for topsoil ($600), sod ($109), seeding ($235)
+and wood paneling labor ($1,000), were likely not incurred. We also remove plywood paneling
+($3,500), drywall materials ($10,000) and drywall labor ($5,000). Adjusting this component, with
+appropriate markups, yields a revised amount of $10,899, which yields a daily rate of $18.
+
+        As the final element of its extended performance costs, Beiro included home office G&A
+expenses calculated using the Eichleay formula yielding a daily G&A rate of $605. (AEX 245, at
+401326; Tr. 466-67). Appellants have replaced that G&A rate with the $729 daily rate calculated by
+Ernst & Young. (AEX 458, at 37). Ernst & Young calculated its rate using a “performance period”
+of July 1984 through July 1987. We believe that the suspension period from approximately March
+1986 through termination in July 1987 does not provide reasonable G&A allocations with Beiro total
+direct costs because during that period the business was winding down and the record does not
+contain the 1986 and 1987 financial records for us to review and evaluate G&A costs. We will
+confine the performance period to the pre-suspension period and use the financial information
+provided for 1984 and 1985 to provide a more accurate measure of home office overhead. Thus,
+prorating for the period of July 1984 through December 1985, we find total Beiro direct costs of
+$58,333,162. (AEX 403-404). After deducting unallowable or unsupported G&A costs (the
+“Repairs, maintenance and operations” under “Indirect costs”, travel and entertainment,
+contributions, and $350,000 from the excessive 1984 “Management fees”), and prorating for the July
+1984 through December 1985 period, we find total Beiro allowable G&A costs of $4,018,182
+                                                - 26 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+($1,017,999 for 1984, $3,000,183 for 1985). Beiro’s direct costs on the Prevocational project are
+$6,294,239. Multiplying total prorated G&A of $4,435,306 by the ratio of Prevocational project
+costs to total Beiro direct costs yields $433,568 in G&A allocable to the contract, and divided by the
+performance period of 607 days provides a daily rate of $714. With the adjustments discussed
+above, the extended performance costs per day is $1,900. Accordingly, extended performance costs
+for the 60-day delay period total $114,000.
+
+      We sustain PCO 10A costs in the amount of $172,381 (consisting of $22,103, $2,833,
+$33,445, plus $114,000).
+
+       PCO 10B
+
+         We previously found that the substantial changes to the structural steel caused 150 days of
+critical path delay. Using the daily rate of $1,900 calculated in connection with PCO 10A, we find
+home office costs of $285,000. Lynn Fabricators' cost proposal in the amount of $301,209 for the
+structural steel changes and delays, included by Beiro in its PCO 10B, was previously denied as a
+subcontractor claim for lack of support in the record. We sustain Beiro’s additional engineering
+costs of $1,015. (AEX 246; Tr. 464). PCO 10B costs therefore total $286,015.
+
+       PCO 10C
+
+        The District issued BCD No. 8 on November 20, 1984, making a number of changes to the
+structural steel for the project. Beiro’s PCO 10C includes only those direct costs for additional
+fireproofing work in the amount of $505.00. This claim was settled with District representatives for
+$306, which we sustain. (AEX 231, 247; Tr. 80-81, 12).
+
+       PCO 10E
+
+       In response to Beiro’s Notice and Request No. 26 (AEX 200), the District issued a sketch
+(SK-9), relating to concrete beam #1. Beiro submitted PCO 10E in the amount of $1,003 for the
+extra work associated with the change. There appears to be duplication of costs in this claim and
+PCO 35. We deny the claim for lack of adequate support in the record.
+
+       PCO 10G
+
+       In response to Beiro’s Notice and Request 212 (AEX 209), the District directed removal and
+replacement of a masonry wall at the north side of the gymnasium. Beiro submitted a change order
+proposal in the amount of $1,354. We are not persuaded that the work was a compensable change to
+the contract because Beiro or its subcontractors appear to have initially misread the applicable
+drawings. (AEX 249; AEX 456 (Murray Tr. 83-84)). Accordingly, we deny the claim.
+
+       PCO 10I
+
+       Due to changes to the structural steel, Beiro was forced to pour the concrete loading dock out
+                                                 - 27 -                 A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+of sequence. Beiro had to protect the concrete by means of plywood. Beiro submitted its PCO 10I
+in the amount of $1,747.00 for the plywood protection. We sustain the claim in the amount of
+$1,747. (AEX 456 (Murray Tr. 84-85).
+
+        PCO 13
+
+        The District issued BCD No. 3 on August 3, 1984, directing major revisions to the site water
+mains and storm drains. The District also issued BCD No. 16 on April 1, 1985, which, among other
+things, changed the site sewer lines. BCD No. 22, dated June 22, 1985, also made changes to the
+storm and sanitary lines. Beiro included each of the site utility changes into its PCO 13 in the
+amount of $268,704. District representatives settled this PCO with Beiro for $211,360. (AEX 251,
+at 402149; AEX 456 (Murray Tr. 85-87); AEX 454 (McConnell Tr. 480-82); AEX 457 (McConnell
+Tr. 13)). Beiro estimated that 50 percent of this work was completed before termination, for a PCO
+value of $105,680.00. (AEX 454 (McConnell Tr. 482); AEX 456 (Murray Tr. 86); AEX 237). The
+District agrees with entitlement and quantum. (DEX 231). Accordingly, we sustain the claim in the
+amount of $105,680.
+
+        PCO 14
+
+       Due to the unsuitability of the soil at the elevations prescribed by the District for the building
+footings, Beiro was forced to over-excavate the footings and provide additional fill. Beiro submitted
+PCO 14 to the District in the amount of $257,636. Except for an amount of $5,979, we find the
+claim adequately supported by the record and therefore sustain it in a total amount of $251,657.
+(AEX 251A; AEX 456 (Murray Tr. 87-88); AEX 454 (McConnell Tr. 483-86)).
+
+        PCO 15
+
+        As documented in Beiro’s Notice and Requests Nos. 3 and 10 dated August 23, 1984, the
+District directed Beiro to install a wall in the gymnasium area with a curved radius as opposed to an
+angle. (AEX 252). Beiro submitted its PCO 15 in the amount of $452. We sustain the claim in the
+amount of $414. (AEX 456 (Murray Tr. 88-89)).
+
+        PCO 16
+
+        The contract permitted Beiro to use existing site material as backfill. (AEX 3, ¶ 2.01). The
+District rejected the backfill material and required Beiro to haul away the existing material and
+purchase and haul new backfill to the site. Beiro submitted its PCO 16 in the amount of $33,629.00.
+The record adequately supports costs of $25,600, which is the amount we sustain. (AEX 253; Tr.
+732-36; AEX 456 (Murray Tr. 89-90)).
+
+
+        PCO 17
+
+        On September 26, 1984, the District’s Acting Chief, Bureau of Building Construction
+                                               - 28 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+Services, issued a clarification letter to Beiro which made 16 changes to various structural and
+architectural drawings. Beiro submitted its PCO 17 in the amount of $1,251 for the additional
+column forming and rebar work. We sustain the claim in the amount of $1,230. (AEX 254; AEX
+256 (Murray Tr. 91-92)).
+
+       PCO 18
+
+        The District’s architect issued a sketch making changes to the details for windows 18 and 19
+of the building. Beiro submitted its PCO 18 in the amount of $946, which was settled with District
+representatives for $780. We sustain the claim in that amount. (DEX 231; AEX 255).
+
+       PCO 19
+
+        The District, by letter and sketch dated October 15, 1994, provided Beiro with changed work
+relating to the tie-in of the 4" planter drains. Beiro submitted its PCO 19 in the amount of
+$15,350.00 for the extra work. We find the claimed costs excessive. The record supports costs of
+$4,000, which we sustain. (AEX 256; AEX 256 (Murray Tr. 93-94)).
+
+       PCO 21
+
+        In response to Beiro’s Notice and Request No. 31, dated October 5, 1984, the District’s
+architect issued a sketch revising certain dimensions on Stair 5. Beiro submitted its PCO 21 in the
+amount of $5,777.00 for the additional excavation, framework, fill and layout of the stair. We
+believe that some of the costs cover the original contract work and have not been properly credited
+in Beiro’s cost proposal. We allow $764 in burdened labor, $600 in materials, $140 for equipment,
+and subcontractor costs of $227, and with mark-ups, for a total of $1,984. (AEX 257; AEX 256
+(Murray Tr. 95)).
+
+       PCO 23
+
+         The District issued BCD No. 13 on March 7, 1985, directing, among other work, changes to
+the first floor slab cantilever and reinforcing. Beiro submitted its PCO 23 in the amount of $710 for
+this work. (AEX 258). This change was settled with District representatives for $688. (AEX 256
+(Murray Tr. 96-98); AEX 257 (McConnell Tr. 14)). The District agrees with entitlement and
+quantum. (DEX 231). We sustain the claim in the amount of $688.
+
+       PCO 25
+
+        In response to Beiro’s Notice and Request No. 25, the architect issued a sketch moving a rain
+leader trap from below a footing to the side of the footing. Beiro submitted its PCO 25 in the
+amount of $1,642 consisting of a BPI proposal of $1,492 for the changed work along with Beiro
+mark-ups making a total claim of $1,642. We are not persuaded that the work as changed increased
+the cost of performance. We deny the claim. (AEX 259; AEX 256 (Murray Tr. 98-99)).
+                                                - 29 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+       PCO 26
+
+        The District issued BCD No. 8 on November 26, 1984, modifying the roof framing in the
+lobby area, among other things. Beiro submitted its PCO 26 in the amount of $1,203 for this work.
+(AEX 260). This PCO was settled with District representatives for $1,194. (AEX 256 (Murray Tr.
+99-101)). The District does not dispute entitlement or quantum. (DEX 231). We sustain PCO 26 for
+the agreed amount.
+
+       PCO 27
+
+        By letter dated November 8, 1984, the District, among other things, changed the location of
+freezer condensers from the electrical room to the roof as a result of the electrical room having
+insufficient space to meet the clearance requirements of the National Electrical Code. (AEX 261).
+Beiro submitted its PCO 27 for the changed work in the amount of $18,305. Beiro estimates that 50
+percent of this extra work ($9,152.50) was performed prior to termination. (AEX 256 (Murray Tr.
+102)). Based on our review of the record, we find support for Beiro costs of $2,682 and Bratti
+Associates costs of $286, for a total amount sustained of $2,968. We are not persuaded by the
+record that the other subcontractor costs totaling $13,422 were actually incurred and paid.
+
+       PCO 28
+
+        The District refused to permit Beiro to use on-site material for backfill of interior pipe
+excavations which were under the building’s ground slab. Paragraph 3.04B of the specifications
+indicates the use of type M-1 backfill material for interior areas where “fills are required to provide
+proper levels for slabs or gravel fill under slabs on ground.” The District argues that because the
+pipe trenches are interior spaces under the ground slab, Paragraph 3.04 requires M-1 material. Beiro
+claims that M-1 fill is only required to provide proper levels for slabs, not pipe excavations. We
+believe the District’s interpretation is the more reasonable. Accordingly, we deny Beiro’s PCO 28
+claim for $66,083. (AEX 262).
+
+       PCO 30
+
+       The District issued FWA 2 on November 1, 1984, directing revisions to light fixtures which
+would not have fit properly as originally designed. Beiro submitted its PCO 30 in the amount of
+$3,323.00 for the light fixtures revisions and associated changes in the reinforcing steel. We are not
+persuaded from the record that the costs were actually incurred, with the exception of the claim for
+$116 by Mid-Atlantic Steel. (AEX 263). With mark-up, we sustain the claim in the amount of
+$128.
+
+       PCO 32
+
+        In response to Beiro’s Notice and Request No. 34, the District issued a sketch clarifying
+certain details of the electrical room wall/foundation and adding a galvanized steel plate. Beiro
+submitted its PCO 32 in the amount of $417 for the additional work. (AEX 264; AEX 256 (Murray
+                                               - 30 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+Tr. 105-06)). The District does not dispute entitlement or quantum. (DEX 231). We sustain the
+claim of $417.
+
+       PCO 34
+
+       The District requested that Beiro change the grating in the kitchen area from cast iron to
+aluminum. Beiro submitted its PCO 34 for the change in the amount of $266. The change request
+was settled with District representatives and the record contains Change Order No. 2, dated
+September 23, 1985, in the amount of $263, although it appears that the contract price was never
+adjusted to reflect the change. (AEX 265, at 413990). The District does not dispute entitlement.
+(DEX 231). Beiro estimates 75 percent, or $197, of the work was completed prior to termination.
+(AEX 237). We sustain the claim for that amount.
+
+       PCO 35
+
+       The District issued BCD No. 10 on December 21, 1984, directing the installation of
+additional reinforcing steel in the automotive shop. Beiro submitted its PCO 35 in the amount of
+$1,084 for the extra work. The change was settled with District representatives for the full amount
+of $1,084. (AEX 266, at 4040071). The District does not dispute entitlement or quantum. (DEX
+231). We sustain the claim for the agreed amount.
+
+       PCO 35A
+
+        The District issued BCD No. 12 on February 26, 1985, directing the relocation and addition
+of drains in the automotive shop. Beiro submitted its PCO 35A in the amount of $2,440 for the extra
+work. The change was settled with District representatives for $2,274. (AEX 267, at 404135). The
+District does not dispute entitlement or quantum. (DEX 231). We sustain the claim for the agreed
+amount of $2,274.
+
+       PCO 37
+
+        The District directed Beiro by letter dated November 5, 1984, to provide additional flashing
+at the masonry walls. (AEX 268, at 404253). Beiro submitted its PCO 37 in the amount of $560 for
+this extra work. We sustain the claim in the amount of $406. (AEX 256 (Murray Tr. 111-12)).
+
+       PCO 41
+
+        The District issued BCD No. 8 on November 20, 1984, directing certain structural changes to
+the building. Beiro submitted its PCO 41 in the amount of $2,134 for the revisions. This portion of
+BCD No. 8 was settled with District representatives for $1,523. (AEX 256 (Murray Tr. 112-14)).
+The District recognizes entitlement for this PCO. (DEX 231). We sustain the claim for the agreed
+amount.
+
+       PCO 42
+                                               - 31 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+        The District issued BCD No. 30 on October 23, 1985, directing the relocation of a masonry
+wall. Beiro submitted its PCO 42 in the amount of $879 for the work. The change was settled with
+District representatives for $799. (AEX 457 (McConnell Tr. 22); AEX 270, at 404346; AEX 456
+(Murray Tr. 114-15)). The District does not dispute entitlement or quantum. (DEX 231). We
+sustain the claim for the agreed amount of $799.
+
+       PCO 43
+
+       The District issued BCD No. 9 on November 20, 1984, making significant changes to the
+keying for the building. Beiro submitted its PCO 43 in the amount of $1,484.00 for the change. The
+change was settled with District representatives and Change Order No. 2 was issued in the amount of
+$1,468, which we sustain. (AEX 271, at 413940; DEX 231).
+
+       PCO 44
+
+        The District issued BCD No. 10 on December 21, 1984, directing the installation of three
+additional light fixtures in a storage room. Beiro submitted its PCO 44 in the amount of $593.
+(AEX 456 (Murray Tr. 117)). This change was settled with District representatives for $593. (AEX
+272, at 404383; AEX 457 (McConnell Tr. 23)). Beiro estimates that 75 percent, or $445, of the
+work was completed prior to termination. (AEX 237; AEX 456 (Murray Tr. 118)). The District
+recognizes entitlement for this PCO. (DEX 231). We sustain the claim in the amount of $445.
+
+       PCO 45
+
+        The District issued FWA No. 6 on March 6, 1985, making changes to the mop basin
+strainers. Beiro submitted its PCO 45 in the amount of $1,104 for this extra work. The change was
+settled with District representatives for $821. (AEX 273, at 404415; AEX 457 (McConnell Tr. 23);
+AEX 456 (Murray Tr. 118-19)). The District recognizes entitlement for this PCO. (DEX 231). We
+sustain the claim in the amount of $821.
+
+       PCO 48
+
+         The District issued BCD No. 48 on December 21, 1984, directing the addition of reinforcing
+steel in the first floor slab, Area No. 1. Beiro submitted its PCO 48 in the amount of $2,284 for the
+extra work. The change was settled with District representatives for the full amount of $2,284.
+(AEX 274, at 404456). The District does not dispute entitlement or quantum. (DEX 231). We
+sustain the claim in the amount of $2,284.
+
+       PCO 50A
+
+        The District issued BCD No. 12 on February 26, 1985, directing changes to thirteen catch
+basins and the addition of gas traps. Beiro submitted its PCO 50A in the amount of $5,315for the
+extra work. The change was settled with District representatives for the full amount of $5,315.
+                                               - 32 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+(AEX 275, at 404613). The District does not dispute entitlement or quantum. (DEX 231). We
+sustain the claim in the amount of $5,315.
+
+       PCO 50B
+
+        The District issued BCD No. 15 on April 1, 1985, raising the tops of catch basins by adding
+two courses of concrete masonry units. Beiro submitted its PCO 50B in the amount of $6,253 for
+the extra work. This change was settled with the District for $5,440. (AEX 276, at 404629). The
+District does not dispute entitlement or quantum. (DEX 231). We sustain the claim in the amount of
+$5,440.
+
+       PCO 51
+
+        In response to Beiro Notice and Request No. 56, the District provided a sketch indicating
+brass cleanouts as opposed to cast iron indicated in the contract documents. Beiro submitted its PCO
+51 in the amount of $1,630 for the changed work. (AEX 456 (Murray Tr. 123)). Beiro estimates
+that 90 percent of this work was completed prior to termination. (Id.; AEX 237). The District
+recognizes entitlement for this PCO. (DEX 231). We sustain the claim in the amount of $1,270.
+
+       PCO 54
+
+        By sketch dated December 27, 1984, the District added a 12" x 12" concrete post for the
+support of stair No. 3. Beiro submitted its PCO 54, as revised, in the amount of $1,646. (AEX 277;
+AEX 456 (Murray Tr. 127)). The District recognizes entitlement for this PCO. (DEX 231).
+Prorating a portion of Ceco’s materials to this work, we sustain the claim in the amount of $1,246.
+
+       PCO 55 A&B
+
+        The District issued BCD No. 10 on December 21, 1984, directing changes to the electrical,
+mechanical, and architectural details to accommodate above-ceiling space constraints. Beiro
+submitted its PCO 55 A&B in the amount of $6,324 for the changes. The changes were settled with
+District representatives for $3,122. (AEX 278, at 404807, 404800; AEX 457 (McConnell Tr. 25-26);
+AEX 456 (Murray Tr. 124-26)). Beiro estimates that 50 percent of this work was completed prior to
+termination. (AEX 456 (Murray Tr. 125); AEX 237). The District does not dispute entitlement or
+quantum. (DEX 231). We sustain the claim in the amount of $1,561.
+
+       PCO 56
+
+        In response to Beiro’s Notice and Request No. 52 regarding conflicts between ductwork and
+lighting on the ground floor, the District directed the installation of beam pockets (sleeves) to
+alleviate the conflict. Beiro submitted its PCO 56 in the amount of $309 for the additional work.
+Entitlement and quantum are established by the record. (AEX 280; AEX 456 (Murray Tr. 126)).
+We sustain the claim in the amount of $309.
+                                                  - 33 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+        PCO 63
+
+        The District issued BCD No. 12 on February 26, 1985, directing the installation of an
+additional concrete column to support the first floor slab above the main entrance area. Beiro
+submitted its PCO 63 in the amount of $6,378 for the extra work. The change was settled with
+District representatives for $6,250. (AEX 281, at 405149; AEX 454 (McConnell Tr. 489-91); AEX
+457 (McConnell Tr. 26-27); AEX 456 (Murray Tr. 127-28)). The District does not dispute
+entitlement or quantum. (DEX 231). We sustain the claim in the amount of $6,250.
+
+        PCO 63A
+
+        In a series of meetings with District representatives in December 1984 and January 1985,
+revisions were made in the reinforcing steel design of certain areas of the first floor slab. Beiro
+confirmed the results of the meetings by Notice and Request No. 65. (AEX 282, at 405269-70).
+Beiro submitted its PCO 63A in the amount of $369 for the additional work. We sustain the claim in
+the amount of $369. (AEX 282; AEX 456 (Murray Tr. 128-29)).
+
+        PCO 64
+
+        In response to Beiro’s Notice and Request No. 66, the District directed revisions to the stub-
+ups for the electrical receptacles in the Driver’s Education room. Beiro submitted its PCO 64 in the
+amount of $2,773 for the additional work. The District recognizes entitlement for this PCO but not
+the quantum. (DEX 231). We sustain the claim in the amount of $1,000. (AEX 283; AEX 456
+(Murray Tr. 129-130)).
+
+        PCO 65
+
+        In response to Beiro’s Notice and Request No. 67, which noted a conflict with the roof
+elevation at Stair No. 3, the District directed that the roof elevation be raised and a pocket for a joist
+be installed. (AEX 284, at. 405313, 405305). Beiro submitted its PCO 65 in the amount of $1,883
+for the extra work. The District recognizes entitlement for this PCO. (DEX 231). Except for the
+allowance item for Bratti Associates, the record supports Beiro’s quantum. (AEX 284; AEX 456
+(Murray Tr. 130-31)). We sustain the claim in the amount of $1,245.
+
+        PCO 68
+
+        The District issued FWA No. 4 on February 26, 1985, correcting the omission from the
+contract documents of trench drains at the loading dock and north entrance. By FWA No. 7, dated
+April 19, 1985, the District added another drain at the service platform. Beiro submitted its PCO 68
+in the amount of $2,227 for the additional work. Beiro estimates that 50 percent of this work was
+completed prior to termination. (AEX 237; AEX 456 (Murray Tr. 131-32)). The District recognizes
+entitlement for this PCO. (DEX 231). We sustain the claim in the amount of $900.
+
+        PCO 70
+                                               - 34 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+       The District issued BCD No. 13 on March 7, 1985, directing Beiro to install and revise
+various ductwork chases. Beiro submitted its PCO 70 in the amount of $3,825 for the extra work.
+The change was settled with District representatives for $3,175. (AEX 286, at 405420; AEX 457
+(McConnell Tr. 27); AEX 456 (Murray Tr. 133)). The District recognizes entitlement and the
+majority of the quantum for this PCO. (DEX 231). We sustain the claim in the amount of $3,175.
+
+       PCO 72
+
+        By letter dated January 16, 1985, the District provided Beiro with Sketch No. 16, adding
+reinforcing steel to the 8" x 21" concrete beam at the first floor mall area. Beiro submitted its PCO
+72 in the revised amount of $278 for the additional work. The District recognizes entitlement for
+this PCO. (DEX 231). We sustain the claim in the amount of $278. (AEX 287).
+
+       PCO 73
+
+       By FWA No. 5 dated January 10, 1985, the District directed Beiro to change the construction
+sign on the Project site. Beiro submitted its PCO 73 in the amount of $126. The change was
+apparently settled with the District and Change Order No. 1 issued with a price adjustment in the
+amount of $117. (AEX 288, at 413919; AEX 457 (McConnell Tr. 27-28)). The District does not
+dispute entitlement or quantum. (DEX 231). We sustain the adjustment in the amount of $117.
+
+       PCO 75
+
+       The District’s architect made a number of changes to the reinforcing steel shop drawing
+(Beiro Transmittal 132) for the first floor. Beiro submitted its PCO 75 in the amount of $9,925 for
+the modified and additional work. We sustain the claim in the amount of $8,374. (AEX 289; AEX
+456 (Murray Tr. 136)).
+
+       PCO 76A
+
+        The District issued BCD No. 17 on April 24, 1985, directing the addition of an upturned
+concrete beam as support for the under-designed south spandrel beam. Beiro submitted its PCO 76A
+in the amount of $46,570 for the additional work. The change was settled with District
+representatives for $33,500.00. (AEX 290, at 405839, 405840; AEX 454 (McConnell Tr. 491-92,
+496); AEX 457 (McConnell Tr. 28); AEX 456 (Murray Tr. 137-38)). The District recognizes
+entitlement for this PCO, although it states that BPI Mechanical had not installed the Finn Tube
+radiators. (DEX 231). We sustain the claim in the amount of $30,000.
+
+       PCO 76B
+
+       The District issued BCD No. 26 on August 29, 1985, directing architectural changes to the
+underside of the south spandrel beam resulting from the addition of the upturned beam. (See PCO
+76A). Beiro submitted its PCO 76B in amount of $11,577 for the additional work. The change was
+                                               - 35 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+settled with District representatives for $12,580. (AEX 291, at 406064; AEX 455 (Murray Tr. 738-
+40); AEX 457 (McConnell Tr. 28-29); AEX 456 (Murray Tr. 139-40)). The District recognizes
+entitlement for this PCO. (DEX 231). We sustain the claim in the amount of $12,580.
+
+       PCO 77
+
+        The District provided Beiro verbal direction, subsequently confirmed by Beiro’s Notice and
+Request No. 78, dated January 28, 1985, concerning revisions to the concrete at Stair No. 1. (AEX
+292, at 406106). Beiro submitted its PCO 77 in the amount of $980 for the revised work. We
+sustain the claim in the amount of $908. (AEX 292; AEX 456 (Murray Tr. 140-41)).
+
+       PCO 78
+
+        The District provided Beiro with verbal direction to modify doors 112 and 113 to avoid
+conflicts with the concrete structure. Beiro confirmed this direction by Notice and Request No. 81B
+on February 5, 1985. (AEX 293, at 406129). Beiro submitted its PCO 78 in the amount of $848 for
+the changed work. Beiro estimates that 50 percent of the work was completed prior to termination.
+(AEX 293; AEX 456 (Murray Tr. 141-42)). We sustain the claim in the amount of $393.
+
+       PCO 79
+
+       By verbal directive, later confirmed by Beiro’s Notice and Request No. 81B, the District
+modified the head at door No. 68. (AEX 294, at 406156-57). Beiro submitted its PCO 79 in the
+amount of $304 for the changed work. We sustain the claim in the amount of $279. (AEX 294; AEX
+456 (Murray Tr. 142-43)).
+
+       PCO 83
+
+       The District issued BCD No. 28 on September 24, 1985, directing changes to the mechanical
+and electrical layout throughout the ground floor of the building. Beiro submitted its PCO 83 in the
+amount of $16,499 for the changed work. The change was settled with District representations for
+$16,222. (AEX 295, at 406219, 406217; AEX 457 (McConnell Tr. 30-31); AEX 456 (Murray Tr.
+143-44)). Beiro estimates that 85 percent, or $13,789, of the work was completed prior to
+termination. (AEX 456 (Murray Tr. 144); AEX 237). The District does not dispute entitlement for
+this PCO. (DEX 231). We sustain the claim in the amount of $13,789.
+
+       PCO 83A
+
+       Appellants have withdrawn this PCO, in the amount of $324.
+
+
+
+       PCO 84A
+                                              - 36 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+        The District issued BCD No. 17 on April 24, 1985, directing that Beiro provide additional
+posts and footings below the concrete ramp. Beiro submitted its PCO 84A in the amount of $41,956
+for the additional work. This change was settled with District representatives for $35,783. (AEX
+297, at 406399-406400, 406398; AEX 457 (McConnell Tr. 31-32); AEX 456 (Murray Tr. 145-46)).
+Beiro estimates that 90 percent of this work was completed prior to termination. The District
+recognizes entitlement for this PCO. (DEX 231). We sustain the claim in the amount of $30,920.
+
+       PCO 84B
+
+        The District issued BCD No. 20 on June 5, 1985, directing Beiro to install additional
+reinforcing steel in the concrete ramp. Beiro submitted its PCO 84B in the amount of $4,018 for the
+extra work. This change was settled with District representatives for $673. (AEX 298, at 406716-
+406717). The District does not dispute entitlement or quantum. (DEX 231). We sustain the claim
+in the amount of $673.
+
+       PCO 84C
+
+        The District gave Beiro verbal direction, later confirmed by Beiro’s Notice and Request No.
+90, to modify the masonry at Door No. 77. (AEX 299, at 406742). Beiro submitted its PCO 84C for
+the extra work in the amount of $376. (AEX 299). The District does not dispute entitlement or
+quantum. (DEX 231). We sustain the claim in the amount of $376.
+
+       PCO 85
+
+       The District issued BCD No. 31 on October 23, 1985, directing that Beiro modify a wall
+opening and provide a plywood pipe chase. Beiro submitted its PCO 85 in the amount of $3,858 for
+the additional work. The District does not dispute entitlement. (DEX 231). We sustain the claim in
+the amount of $3,297. (AEX 300).
+
+       PCO 89
+
+        The District issued BCD No. 17 on April 24, 1985, directing that Beiro install additional
+reinforcing steel in the concrete curbs over the cambered steel beam in the gymnasium. Beiro
+submitted its PCO 89 in the amount of $14,044 for the extra work. The change was settled with
+District representatives for $13,137. (AEX 301, at 406861, 406862-63; AEX 457 (McConnell Tr.
+32); AEX 456 (Murray Tr. 150-51)). Beiro estimates 93 percent of this work was completed prior to
+termination. (AEX 456 (Murray Tr. 150)). The District does not dispute entitlement or quantum.
+(DEX 231). We sustain the claim in the amount of $12,217.
+
+       PCO 90
+
+       As a result of the concerns regarding deflections of the elevated concrete slab, Beiro
+expended labor and equipment costs to measure the deflections and modify building elements. Beiro
+submitted its PCO 90 on March 20, 1987, in the amount of $19,216. (AEX 302; AEX 456 (Murray
+                                               - 37 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+Tr. 151-52)). Beiro estimates that two-thirds of this work was completed prior to termination.
+(AEX 456 (Murray Tr. 151-52); AEX 237). We sustain the claim in the amount of $11,740.
+
+       PCO 92
+
+       In response to Beiro’s Notice and Request No. 104, the District provided information
+concerning electrical and mechanical hookups to greenhouse equipment which were not depicted on
+the contract drawings. Beiro submitted its PCO 92 in the revised amount of $1,097. We are not
+persuaded from the record presented that the extra work was actually performed. (AEX 303). We
+deny the claim.
+
+       PCO 93
+
+        The District issued BCD No. 25 on July 31, 1985, directing changes in utility and telephone
+service to the building. Beiro submitted its PCO 93 in the amount of $63,895 for the extra work.
+The change was settled with District representatives for $49,235. (AEX 304, at 408091-92). Beiro
+estimates 25 percent of the work was performed prior to termination. (AEX 456 (Murray Tr. 154);
+AEX 237). The District does not dispute entitlement or quantum. (DEX 231). We sustain the
+claim in the amount of $11,894. (AEX 304, at 408051).
+
+       PCO 95
+
+        The District verbally directed Beiro to install a solid concrete masonry unit wall under the
+kitchen area beam. Beiro confirmed the directive by Notice and Request No. 130 on June 3, 1985.
+(AEX 305, at 408246). Beiro submitted its PCO 95 in the amount of $1,061 for the additional work.
+ The District does not dispute entitlement. (DEX 231; AEX 305; AEX 456 (Murray Tr. 155)). We
+sustain the claim in the amount of $1,043.
+
+       PCO 96
+
+         The District issued BCD No. 16 on April 1, 1985, directing that Beiro provide an additional
+riser to the top landing on Stair No. 2. Beiro submitted its PCO 96 in the amount of $294 for the
+additional work. This change was settled with District representatives for the full amount. (AEX
+306; AEX 457 (McConnell Tr. 33)). We sustain the claim in the amount of $294.
+
+       PCO 99
+
+        The District issued BCD No. 14 on March 19, 1985, directing that Beiro relocate roof drain
+piping as depicted on Change Order drawings 24 and 25. Beiro submitted its PCO 99 in the amount
+of $1,427 for the changed work. The change was settled with District representatives for $1,384.
+(AEX 307, at 408331; AEX 457 (McConnell Tr. 34); AEX 456 (Murray Tr. 157-58)). District does
+not dispute entitlement or quantum. (DEX 231). We sustain the claim in the amount of $1,384.
+
+       PCO 102
+                                               - 38 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+        The District issued BCD No. 17 on April 24, 1985, directing changes to light fixtures due to
+interference with ductwork in the graphics area of the building. Beiro submitted its PCO 102 in the
+amount of $404 for the changes. These changes were settled with District representatives for $251.
+(AEX 308, at 408424, 408427; AEX 457 (McConnell Tr. 34-35)). Beiro estimates that 75 percent of
+this work was completed prior to termination. (AEX 456 (Murray Tr. 159); AEX 237). The District
+does not dispute entitlement. (DEX 231). We sustain the claim in the amount of $188.
+
+       PCO 103A
+
+        The District issued BCD No. 20 on June 5, 1985, directing the placement of additional
+reinforcing steel and modifications to the beams for the greenhouse slab. Beiro submitted its PCO
+103A in the amount of $25,997 for the additional work. The change was settled with District
+representatives for $23,500. (AEX 309, at 408581). The District does not dispute entitlement or
+quantum. (DEX 231). We sustain the claim in the amount of $23,500.
+
+       PCO 103B
+
+       In response to Beiro’s Notice and Request No. 154, the District added steel plates to the
+greenhouse slab. (AEX 310, at 408696). Beiro submitted its PCO 103B in the amount of $2,799 for
+the extra work. The change was settled with District representatives for $2,200. (AEX 457
+(McConnell Tr. 36); AEX 310, at 408557, 408684). The District does not dispute entitlement or
+quantum. (DEX 231). We sustain the claim in the amount of $2,200.
+
+       PCO 104
+
+        The District issued BCD No. 18 on May 7, 1985, directing modification of the masonry work
+at the south side exterior doors. Beiro submitted its PCO 104 in the amount of $1,965 for the
+additional work required. The change was settled with District representatives for the full amount.
+(AEX 311, at 408705, 408703-04). The District does not dispute entitlement or quantum. (DEX
+231). We sustain the claim in the amount of $1,965.
+
+       PCO 107A
+
+        The District issued BCD No. 21 on June 13, 1985, directing changes to the electrical
+emergency system. Beiro submitted its PCO 107A in the amount of $17,588 for the additional work.
+ This change was settled with District representatives for $12,990 (AEX 457 (McConnell Tr. 37);
+AEX 237). Beiro estimates that 30 percent of the work was completed before termination. (AEX
+456 (Murray Tr. 164); AEX 237). The District does not dispute entitlement or quantum. (DEX
+231). We sustain the claim in the amount of $3,897.
+
+
+       PCO 107B
+                                              - 39 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+        The District issued BCD No. 28 on September 24, 1985, directing changes to the water
+service room. Beiro submitted its PCO 107B in the amount of $7,580 for the extra work. The
+change was settled with District representatives for $7,071. (AEX 457 (McConnell Tr. 38); AEX
+313, at 408852). Beiro estimates that 25 percent of the PCO 107B work was performed prior to
+termination. (AEX 456 (Murray Tr. 165); AEX 237). The District does not dispute entitlement or
+quantum. (DEX 231). We sustain the claim in the amount of $1,768.
+
+       PCO 115
+
+       At the progress review meeting on May 16, 1985, District representatives directed Beiro to
+provide an angle brick hanger at Stair No. 2. Beiro submitted its PCO 115 in the revised amount of
+$299 for the extra work. (AEX 314; AEX 456 (Murray Tr. 166)). We sustain the claim in the
+amount of $178.
+
+       PCO 116
+
+        At the progress review meeting on May 16, 1985, District representatives directed Beiro to
+re-route certain water piping above the ceilings. Beiro submitted its PCO 116 in the amount of
+$1,055 for the changed work. (AEX 315; AEX 456 (Murray Tr. 166-67)). The District does not
+dispute entitlement or quantum. (DEX 231). We sustain the claim in the amount of $1,055.
+
+       PCO 118B
+
+        The District issued BCD No. 30 on October 23, 1985, directing the relocation of a storm
+drain line. Beiro submitted its PCO 118B in the amount of $1,319 for the changed work. The
+change was settled with District representatives for $1,606. (AEX 457 (McConnell Tr. 38-39); AEX
+316, at 409225). The District does not dispute entitlement or quantum. (DEX 231). We sustain the
+claim in the amount of $1,606.
+
+       PCO 121
+
+       As confirmed in Beiro’s Notice and Request No. 128, the District directed that the Beiro
+close certain wall openings over kitchen equipment. (AEX 317, at 409369). Beiro submitted its
+PCO 121 in the amount of $781 for the extra work. We sustain the claim in the amount of $781.
+(AEX 317; AEX 456 (Murray Tr. 168-69); DEX 231).
+
+       PCO 122
+
+       In response to Beiro’s Notice and Request No. 133, the District directed Beiro to relocate
+Door No. 140 to avoid conflicts with structural beams. (AEX 318, at 409392). Beiro submitted its
+PCO 122 in the amount of $636. The record establishes entitlement and quantum. (AEX 318; AEX
+456 (Murray Tr. 169-70)). Beiro estimates that 50 percent of this work was completed prior to
+termination. (Id., Tr. 170). We sustain the claim in the amount of $193.
+                                                 - 40 -                 A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+        PCO 125
+
+        The District issued BCD No. 33 on October 23, 1985, directing Beiro to provide gas piping
+and connections for the dryers as shown on change order drawings. Beiro submitted its PCO 125 in
+the amount of $2,004 for the extra work. The change was settled with District representatives for
+$1,991. (AEX 319, at 409504; AEX 457 (McConnell Tr. 39)). The District does not dispute
+entitlement. (DEX 231). We sustain the claim in the amount of $1,881.
+
+        PCO 126
+
+       As a result of the substantial delays to the structural steel for the project, Beiro incurred
+additional costs for storing and double-handling of material and equipment. Beiro submitted its
+PCO 126 on February 28, 1986, in the amount of $16,537 for these extra costs. Entitlement and
+quantum are established by the record. (AEX 320; AEX 456 (Murray Tr. 171-72)). The District
+does not dispute entitlement. (DEX 231). We sustain the claim in the amount of $16,537.
+
+        PCO 127
+
+        As confirmed by Beiro's Notice and Request No. 157, the District verbally ordered Beiro to
+cut off hanging brackets which conflicted with the masonry construction. (AEX 321, at 409600).
+Beiro submitted its PCO 127 in the amount of $305 for this extra work. We sustain the claim in the
+amount of $305. (AEX 321; AEX 456 (Murray Tr. 172-73)).
+
+        PCO 130
+
+       In accordance with verbal direction from District representatives, as confirmed by Beiro's
+Notice and Request Nos. 160 and 174, Beiro left the shoring for the greenhouse deck in place for an
+extended period of time and investigated the District's allegation of cracking in the greenhouse slab.
+ (AEX 322, at 409677, 409672). Beiro submitted its PCO 130 in the amount of $1,842 for the extra
+work. We sustain the claim in the amount of $934. (AEX 322).
+
+        PCO 132
+
+        The District issued BCD No. 23 on July 26, 1985, directing Beiro to install temporary
+shoring for the elevated slab. BCD No. 23 contained the following note: “An independent structural
+analysis is underway to determine the cause of the cracking and recommended countermeasures. If
+the determination indicates that the cracks are due to construction deficiency or a liability on the part
+of the contractor, cost of the foregoing work and any delay resulting therefrom will be considered
+your (Beiro's) responsibility.” Appellants seek $116,618 for PCO 132. We are unable to sustain the
+claim for lack of adequate support in the record. (AEX 323; AEX 454 (McConnell Tr. 496-97);
+AEX 456 (Murray Tr. 175)).
+
+        PCO 135
+
+        The District issued BCD No. 22 on July 26, 1985, directing changes to structural steel in the
+                                                - 41 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+mechanical room. Beiro submitted its PCO 135 in the amount of $553 for the extra work. The
+change was settled with District representatives for $553. (AEX 457 (McConnell Tr. 40); AEX 324,
+at 409737). The District does not dispute entitlement but notes that Hampshire’s March 4, 1986
+proposal states costs of only $146. (DEX 231; AEX 324, at 409738). We sustain the claim in the
+amount of $160.
+
+       PCO 136
+
+       The District issued BCD No. 24 on July 31, 1985, directing that Beiro provide continuous
+channels with clip angles on top of the first floor drywall partitions. Beiro submitted its PCO 136 in
+the amount of $20,244. This change was settled with District representatives in the amount of
+$20,229. (AEX 457 (McConnell Tr. 40-41); AEX 325, at 409790, 409787). Beiro estimates 61
+percent, or $12,340, of this work was performed prior to termination. (AEX 457 (Murray Tr. 177)).
+The District does not dispute entitlement or quantum. (DEX 231). We sustain the claim in the
+amount of $12,340.
+
+       PCO 137
+
+       In response to Beiro's Notice and Request No. 169, the District directed Beiro to use different
+channels on the glazed partitions. Beiro submitted its PCO 137 in the amount of $700 for the
+changed work. We sustain the claim in the amount of $680. (AEX 326).
+
+       PCO 138
+
+       In response to Beiro's Notice and Request No. 201, the District directed the installation of
+concrete curbs at duct penetrations. (AEX 326, at 409875). Beiro submitted its PCO 138 in the
+amount of $292 for the additional work. We sustain the claim in the amount of $282. (AEX 327).
+
+       PCO 139A
+
+        The District issued BCD No. 32 on October 23, 1985, directing that Beiro provide additional
+supports for the roof top air handling units. Beiro submitted its PCO 139A in the amount of $14,202
+for the additional work. Because the record does not demonstrate that Beiro paid Lynn and A&L
+Painting on their claims, we remove those costs and sustain the claim in the amount of $6,190.
+(AEX 328; AEX 456 (Murray Tr. 180-81)).
+
+       PCO 139B
+
+        In accordance with two sketches provided by the District's architect, Beiro was directed to
+provide additional supports for the roof fans. Beiro submitted its PCO 139B in the amount of $3,680
+for the additional work. We sustain the claim in the amount of $2,051. (AEX 329; AEX 456
+(Murray Tr. 181-82)).
+
+       PCO 142
+                                               - 42 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+       In response to Beiro's Notice and Request No. 176, the District directed Beiro to install
+additional deck supports. (AEX 330, at 410266). Beiro submitted its PCO 142 in the amount of
+$154 for the additional work. We sustain the claim in the amount of $154. (AEX 330; AEX 456
+(Murray Tr. 182)).
+
+       PCO 144
+
+        The District issued BCD No. 27 on August 29, 1985, directing that Beiro provide steel cover
+plates at various roof beams. Beiro submitted its PCO 144 in the amount of $6,712 for the extra
+work. The change was settled with District representatives in the amount of $6,712. (AEX 457
+(McConnell Tr. 41); AEX 331, at 410293, 410286). Because the record does not show that Beiro
+paid Lynn and A&L Painting their claimed costs, we remove those amounts and sustain the claim in
+the amount of $692.
+
+       PCO 145
+
+        In response to Beiro's Notice and Request No. 188, the District directed that Beiro cut and
+weld the Door 89 frame to fit under a beam. (AEX 332, at 410430; AEX 456 (Murray Tr. 184-85)).
+ Beiro submitted its PCO 145 in the amount of $688 for the extra work. This change was settled
+with District representatives for the amount of $500. (AEX 457 (McConnell Tr. 42); AEX 332, at
+410422, 410424). The District does not dispute entitlement or quantum. (DEX 231). We sustain
+the claim in the amount of $500.
+
+       PCO 146
+
+        District representatives directed Beiro to install metal bridging for attachment of the metal
+siding, as confirmed by Beiro's Notice and Request No. 163. (AEX 333, at 410438). Beiro
+submitted its PCO 146 in the amount of $318 for this work. We sustain the claim in the amount of
+$300. (AEX 333; AEX 456 (Murray Tr. 185-86)).
+
+       PCO 149
+
+       The District's architect directed changes to the column covers, requiring the furnishing of J-
+channel closures. Beiro submitted its PCO 149 in the amount of $4,410 for the additional work.
+Beiro estimates that 10 percent of the change work was completed prior to termination. (AEX 456
+(Murray Tr. 186)). We deny the claim for lack of adequate support in the record. (AEX 334).
+
+       PCO 150
+
+       The District directed the installation of a steel beam not depicted on the contract documents
+by responses to Beiro's Notice and Request Nos. 173 and 199. (AEX 335, at 410535, 410551).
+Beiro submitted its PCO 150 in the amount of $2,486 for the additional beam. We deny the claim
+because the record does not show that Beiro paid Lynn its claimed costs. (AEX 335; AEX 456
+Murray Tr. 187)).
+                                                - 43 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+       PCO 151
+
+        In response to Beiro's Notice and Request No. 189, the District directed Beiro to perform
+modifications to the frame of Window No. 17. (AEX 336, at 410585). Beiro submitted its PCO 151
+in the amount of $601 for the changed work. This change was settled with District representatives
+for the full amount of $601. We sustain the claim in the amount of $601. (AEX 457 (McConnell
+Tr. 42-43); AEX 336, at 410564).
+
+       PCO 152
+
+        As confirmed by Beiro's Notice and Request No. 196, District representatives verbally
+directed Beiro to perform corrective work to steel beams in the mechanical room. (AEX 337, at
+410595). Beiro submitted its PCO 152 in the amount of $433 for this extra work. We sustain the
+claim in the amount of $200. (AEX 337; AEX 456 (Murray Tr. 189)).
+
+       PCO 154
+
+       Appellants have withdrawn this PCO, in the amount of $1,185.
+
+       PCO 155
+
+        In response to Beiro's Notice and Request No. 203, the District provided Beiro with details of
+the concrete stair at the mechanical room requiring extra work by Beiro. (AEX 339, at 410703).
+Beiro submitted its PCO 155 in the amount of $3,383 for the additional work. We sustain the claim
+in the amount of $2,000. (AEX 339; AEX 456 (Murray Tr. 190-91)).
+
+       PCO 157
+
+        Beiro was directed by the District's architect to install 2-inch thick acoustical insulation on
+the interior of all ductwork exposed to weather. (AEX 340, at 410727-28). Beiro submitted its PCO
+157 in the amount of $9,567 for the additional work. (AEX 340; AEX 456 (Murray Tr. 191-92)).
+Beiro estimates that 20 percent of this work, or $1,913.40, was performed prior to termination. (Id.,
+Tr. 192). We sustain the claim in the amount of $1,913.
+
+       PCO 159
+
+        In response to Beiro's Notice and Request No. 182, the architect directed a number of
+changes to the masonry work for the project. (AEX 341, at 410751, 754-55). Beiro submitted its
+PCO 159 in the amount of $1,138 for this changed work. (AEX 341; AEX 456 (Murray Tr. 192-
+93)). Beiro estimates that 75 percent of this work was performed. (Id., Tr. 193; AEX 237). We
+sustain the claim in the amount of $854.
+
+       PCO 160
+
+       When excess deflections of the concrete beams were observed after installation of the
+                                              - 44 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+masonry walls, the District directed Beiro, by responses to Notice and Request Nos. 216 and 244
+(AEX 342, at 410809, 410801), to demolish and reconstruct the masonry walls. Beiro submitted its
+PCO 160 in the amount of $24,035 for the additional work. Because certain work was not
+completed, Beiro revised its claim to $22,374. (AEX 342, at 410763). Further, the record does not
+show that Beiro paid Superior, Lynn, A&L Painting, and BPI their claimed costs. Thus, we sustain
+the claim in the amount of $16,700.
+
+       PCO 165
+
+       As confirmed by Beiro's Notice and Request No. 208, Beiro was directed to increase the
+thickness and modify the construction of masonry walls in the gymnasium. (AEX 343, at 410847).
+Beiro submitted its PCO 165 in the amount of $6,533 for the extra work. (AEX 343; AEX 456
+(Murray Tr. 194-95)). Beiro estimates that 90 percent of this work was completed prior to
+termination. (Id., Tr. 195; AEX 237). Removing most of Beiro’s labor, we sustain the claim in the
+amount of $5,325.
+
+       PCO 169
+
+        The District issued FWA No. 9 on November 15, 1985, directing Beiro to modify two
+manhole covers previously installed by Beiro. (AEX 344, at 410917). Beiro submitted its PCO 169
+in the amount of $157 for the additional work. The change was settled with District representatives
+for $166. (AEX 457 (McConnell Tr. 43); AEX 344, at 410915). The District does not dispute
+entitlement or quantum. (DEX 231). We sustain the claim in the amount of $166.
+
+       PCO 170A
+
+        The District requested that Beiro provide a proposal to perform the work depicted in the
+change order drawings from the District's consultant, Carson K.C. Mok, in order to remedy the
+deflections of the elevated concrete slab. Beiro performed additional engineering, estimating, and
+administrative work relating to the extensive changes. The Mok change order work was never
+performed. (AEX 454 (McConnell Tr. 416)). Beiro submitted its PCO 170A for the proposal
+preparation and related costs. (AEX 345; AEX 456 (Murray 196-197)). Removing the unsupported
+subcontractor portions of the claim as well as some excessive mark-ups, we sustain the claim in the
+amount of $8,133.
+
+       PCO 175
+
+        The District issued FWA No. 12 on December 12, 1985, directing Beiro to install additional
+gas lines for a low and high pressure gas system. (AEX 346, at 411368). Beiro submitted its PCO
+175 in the amount of $1,132 for the additional work. The change was settled with District
+representatives for $1,141. (AEX 457 (McConnell Tr. 43-44); AEX 456 (Murray Tr. 197-98); AEX
+346, at 411360). The District does not dispute entitlement or quantum. (DEX 231). We sustain the
+claim in the amount of $1,141.
+
+       PCO 181
+                                               - 45 -                A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+       In response to Beiro's Notice and Request No. 222, the District directed Beiro to install an
+additional 4-inch drain line in the West lobby area. (AEX 347, at 411489-90). Beiro submitted its
+PCO 181 in the amount of $2,762 for the extra work. (AEX 347). Removing BPI’s unsupported
+“job cost” and related mark-ups, we sustain the claim in the amount of $2,266.
+
+       PCO 184
+
+       By letter dated October 1, 1985, the District's architect provided revisions to the structural
+support for the chiller units on the roof of the building. (AEX 348, at 411636). Beiro submitted its
+PCO 184 in the amount of $7,672 for the additional work. Because the record does not show that
+Beiro paid Lynn its claimed costs, we remove those costs and sustain the claim in the amount of
+$1,156. (AEX 348).
+
+       PCO 184A
+
+        In response to Beiro's Notice and Request No. 225 and Sketch No. 47 from the architect, the
+District directed the relocation of the chiller. (AEX 349, at 411579). Beiro submitted its PCO 184A
+in the amount of $9,272 for the extra work. (AEX 349). Appellants deduct a total of $392 from the
+claim because some of the work had not been performed. In addition, because the record does not
+show that Beiro paid BPI and Hampshire their claimed costs, we remove $8,240 from the claim
+amount and sustain the claim in the amount of $640.
+
+       PCO 186
+
+        The District issued BCD No. 34 on December 26, 1985, directing Beiro to relocate certain
+piping and ductwork and provide an additional pipe chase due to conflicts in mechanical and
+electrical systems under the mechanical room. Beiro submitted its PCO 186 in the amount of
+$50,739 for the extra work. (AEX 350). Beiro estimates that 30 percent of the changed work was
+completed prior to termination. The District does not dispute entitlement or quantum. (DEX 231).
+We sustain the claim in the amount of $15,222.
+
+       PCO 187
+
+        In response to Beiro's Notice and Request No. 231 concerning conflicts with ductwork,
+piping and electrical above the ceilings, the District directed Beiro to drop certain ceiling heights
+and re-route certain piping. (AEX 351, at 411829). Beiro submitted its PCO 187 in the amount of
+$15,009 for the changed work. Applying Beiro’s estimate of 75 percent completion to the costs
+shown by the record to have been paid, we sustain the claim in the amount of $9,983. (AEX 351).
+
+       PCO 195
+
+      In order to prepare a proposal for the changed work depicted on the Mok change order
+drawings, Beiro engaged a subcontractor, Construction Engineering Services, Inc., to conduct field
+measurements and prepare shop drawings. Beiro submitted its PCO 195 in the amount of $3,016 for
+                                               - 46 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+the extra work. (AEX 352). We sustain the claim in the amount of $3,016.
+
+       PCO 196
+
+        The District issued an FWA on January 17, 1986, directing Beiro to take field measurements
+of the clerestory window openings and report the measurements to the architect. The measurements
+were necessary because the opening size for the window openings varied. Beiro submitted its PCO
+196 in the amount of $973 for the additional work. The change was settled with District
+representatives for $931. (AEX 353, at. 412407, 402399). The District does not dispute entitlement
+or quantum. (DEX 231). We sustain the claim in the amount of $931.
+
+       PCO 197
+
+       Appellants have withdrawn this PCO, in the amount of $1,985.00.
+
+       PCO 198
+
+        In response to Beiro's Notice and Request No. 153, the District resolved certain dimensional
+conflicts between the architectural and structural drawings for the ceiling of Room 192. (AEX 355,
+at 412441). Beiro submitted its PCO 198 in the amount of $206 for the extra layout work involved.
+The change was settled with District representatives for the full amount of $206. (AEX 457
+(McConnell Tr. 44-45); AEX 355, at 412433, 412439). The District does not dispute entitlement or
+quantum. (DEX 231). We sustain the claim in the amount of $206.
+
+       PCO 199
+
+         In response to Beiro's Notice and Request No. 223, concerning conflicts in the ceiling of
+Room 192, the District directed the installation of a drop ceiling and CMU chase wall. (AEX 356, at
+412446, 412458). Beiro submitted its PCO 199 in the amount of $2,596 for the extra work. (AEX
+356; AEX 456 (Murray Tr. 209-10)). Beiro estimates 50 percent of this work was performed prior
+to termination. (Id., Tr. 210). We are not persuaded that BPI actually performed the work identified
+in its proposal. R. Bratti’s claim is not adequately supported. Applying a completion factor of 50
+percent to Beiro’s costs yields $614, which is the amount we sustain for the claim.
+
+
+
+       PCO 211
+
+        Beiro submitted PCO 211 to the District on March 10, 1987, for the costs incurred by Beiro
+during the suspension of work period. (AEX 122; AEX 455 (Murray Tr. 740); AEX 456 (Murray
+Tr. 210-11)). Beiro's submission of PCO 211 was made with an understanding that the work was to
+be restarted within 60 days. (AEX 122). PCO 211 was revised by Beiro's Mr. Murray prior to the
+1992 hearing to reflect the fact that the project had been terminated. (AEX 456 (Murray Tr. 210-
+211)). In PCO 211, as revised, Beiro seeks costs during the 552-day suspension of work period in
+the amount of $725,006. (AEX 357). Appellants made one additional revision, which was to use
+                                               - 47 -               A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+Ernst & Young’s daily G&A rate in their calculation of extended G&A costs, thereby reducing the
+price for PCO 211 to $679,982.
+
+         Appellants seek direct labor of $87,841, consisting of extended project maintenance of
+$84,498, storage and material handling of $1,950, and demobilization of $1,393. Beiro’s claimed
+project maintenance consists of labor costs for one project manager 3 days per week for 39 weeks
+($13,455), another project manager 5 days per week for 37 weeks ($21,275), a superintendent 5 days
+per week for 16 weeks ($12,000), another superintendent half a day per week for 60 weeks ($4,500),
+and a project engineer 1 day per week for 8 weeks ($880). We find the amount of “project
+management supervision during the suspension” to be excessive for the level of activity at the job
+site for the period March 1986 through the July 31, 1987 termination. We allow $15,000 for project
+management and supervision. The other labor component of project maintenance is project site
+security for the period from March 1986 through July 31, 1987, in the amount of $32,388. We allow
+the entire amount. Thus, we sustain project maintenance labor of $47,388. We also sustain the
+storage and material handling labor of $1,950 and the demobilization labor of $1,393. Total
+allowable labor is $50,731.
+
+        Appellants also seek “materials, equipment, and services” costs of $99,730, consisting of
+extended project maintenance of $98,046, storage and material handling of $504, and demobilization
+of $1,180. The project maintenance material costs claimed for project management ($8,892) is
+reduced to $2,000. The material costs for project site security of $34,759 are sustained. Other
+material costs we sustain are: extended risk insurance coverage ($7,894), field office trailers
+($10,996), 8 material storage trailers ($23,758), and project utilities ($11,747). Thus, we sustain
+project maintenance materials, equipment, and services amounting to $79,407. We also sustain
+material and equipment costs for additional storage and material handling of $504 and $1,180 for
+project demobilization. Total allowable materials, equipment, and services costs equal $81,091.
+
+        Finally, Appellants seek extended G&A overhead totaling $679,982 during the 552-day
+suspension period using a $727 daily G&A rate calculated by Ernst & Young. For the reasons
+discussed earlier in connection with Appellants’ claim for $377,760 in unabsorbed overhead costs
+during the suspension period, we find the District’s suspension of work on the Prevocational job was
+not the proximate cause of Beiro’s inability to obtain other bonded work during the delay period but
+rather a further impediment to financial recovery. We do not find the District liable for Beiro’s
+unabsorbed overhead during the suspension period.
+
+
+       In sum, for PCO 211, we sustain Appellants’ suspension claim in the total amount of
+$131,822.
+
+       Adjusted Contract Price/Contract Cap Summaries
+
+       We have previously found PCO costs totaling $1,346,472. The amount of uncompleted
+contract work must be deducted, along with payments received from the District, from the adjusted
+contract price. We find uncompleted contract work to be 33 percent of the original contract amount
+based on a 67 percent contract amount completed figure set forth in Payment Requisition 19 which
+                                               - 48 -                 A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+covered performance through February 25, 1986, three days before the stop work order. We
+summarize our findings on the adjusted contract cap is as follows:
+
+               Original Contract Value:                               $ 8,098,000
+               Less:
+               Deductive Change Order No. 1:                          $    (13,295)
+                       Contract Subtotal:                             $ 8,084,705
+               Plus:
+               Subcontractor T for C Claims:            $   168,954
+               Beiro Overhead (10%):                    $    16,895
+                       Subtotal:                        $   185,849
+               Beiro Profit (10%):                      $    18,585
+                       Subtotal:                                      $    204,434
+               PCO Costs:                                             $ 1,346,472
+
+
+               Adjusted Contract Price                                $ 9,635,611
+
+
+
+               Less:
+               Uncompleted contract work (33%)                        $ 2,672,340
+               Payments Received                                      $ 5,280,934
+
+
+               Adjusted Contract Price Cap:                           $ 1,682,337
+
+        Because Beiro’s adjusted contract price cap is less than total unpaid performance costs
+($2,673,765), Appellants’ recovery is limited to the amount of the adjusted contract price cap of
+$1,682,337. Appellants other termination costs are not affected by the adjusted contract price cap.
+In summary, Appellants are entitled to unpaid contract costs (limited to contract cap) of $1,682,337
+and settlement expenses of $131,004, plus interest on those amounts as specified in Section C.
+
+       SO ORDERED.
+
+DATED: January 3, 2002                                  /s/ Jonathan D. Zischkau
+                                                        JONATHAN D. ZISCHKAU
+                                                        Administrative Judge
+
+
+CONCURRING:
+                             - 49 -   A.A. Beiro Constr. Co., CAB No. D-822
+
+
+
+
+/s/ Lorilyn E. Simkins
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

@@ -1,0 +1,684 @@
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+C&D TREE SERVICE, INC.                                    )
+                                                          )             CAB No. D-1347
+                                                          )
+Under Contract No. 02-0014-AA-2-0-KA                      )
+
+       For the Appellant, C&D Tree Service, Inc.: Richard L. Morehouse, Esq., Greenberg
+Traurig, LLP. For the District of Columbia: Darnell E. Ingram, Esq., Office of the Attorney
+General.
+
+      Opinion by Administrative Judge Monica C. Parchment with Chief Administrative Judge
+Marc D. Loud, Sr. concurring.
+
+                                                    OPINION
+                                                 Filing ID #53566428
+
+
+        This appeal arises from the Appellant’s request for an equitable adjustment under its
+contract for tree trimming services with the District of Columbia. During the course of contract
+performance, the District changed the way that it ordered tree trimming services from block-by-
+block orders to tree-by-tree orders, which the Appellant contends was a constructive change to
+the contract entitling it to an equitable adjustment in the contract price. For the reasons stated
+herein, the Board holds that the Appellant is not entitled to an equitable adjustment for a
+constructive change, and the appeal is denied.
+
+                                            FINDINGS OF FACT
+
+1.     The Appellant, C&D Tree Service, Inc. (“C&D”), and the District of Columbia
+Department of Public Works entered into Contract No. 02-0014-AA-2-0-KA on May 15, 2002.
+(Appeal File (“AF”) Ex. A.) The contract was for tree trimming services at various sites
+throughout the District of Columbia. (AF Ex. A ¶ B).
+
+2.      The original solicitation sought up to four separate contracts to trim trees of all sizes in
+four award groups: District Wards 1 and 2 constituted the first award group; Wards 3 and 4, the
+second; Wards 5 and 6, the third; and Wards 7 and 8, the fourth. (Id. ¶ I.9; Undisputed Material
+Facts1 (“UMF”) ¶ 3.) Appellant’s bid prices were the lowest on all four award groups, resulting
+in the award to Appellant of a single contract for all four segments. (UMF ¶ 4.)
+
+3.      The contract was an indefinite delivery/indefinite quantity (“IDIQ”) contract for tree
+trimming services, with fixed unit prices based on the size of the trees trimmed. (AF Ex. A ¶¶
+B.1.1, F.1; UMF ¶ 2.) The contractor was required to furnish the specified trimming services to
+the District, “when and if ordered,” and the District would order a minimum of $10,000.00 worth
+of services.2 (AF Ex. A ¶ B.1.2.)
+
+
+1
+ See section D of the Joint Pretrial Statement, pages 5-7.
+2
+  Based on the solicitation’s expectation that multiple contracts would be awarded based on four Ward groups, the
+Appellant interpreted the contract to require the District to order a minimum of $40,000.00 in tree trimming
+services. (Hr’g Tr. vol. 2, 167:7-14, 213:4-214:7, May 30, 2012.) In either case, the parties have stipulated that the
+contract’s minimum order was $40,000.00. (See, e.g., Joint Pretrial Statement 1; UMF ¶ 14.)
+                                                                                             C&D Tree Service, Inc.
+                                                                                                 CAB No. D-1347
+
+4.      The contract’s period of performance was one year from the date of award. (AF Ex. A ¶
+F.2.1.) The contract also allowed the District to extend the term of this contract by exercising up
+to four one-year option periods with the total contract duration not to exceed five years. (AF Ex.
+A ¶ F.2.) Thus, the last option year terminated on May 15, 2007. (Hr’g Tr. vol. 1, 97:17-19,
+May 29, 2012.)
+
+5.     The parties agree that the contract did not “dictate the manner in which the District was
+required to assign tree trimming work to Appellant.” (UMF ¶ 6.) Under paragraph B.1.2 of the
+contract, delivery or performance was to be made “only as authorized by orders issued in
+accordance with the Ordering Clause.”3 (AF Ex. A ¶ B.1.2.)
+
+6.     Further, as it relates to the Appellant’s contract performance, paragraph B.1.3 of the
+contract states, “[t]here is no limit on the number of orders that may be issued. The District
+Government may issue orders requiring tree trimming services to multiple destinations or
+performance at multiple locations.” (AF Ex. A ¶ B.1.3.) Paragraph C.1.1 further states that the
+“contractor shall furnish all labor, material, and equipment necessary to trim street line trees
+located at various sites in the District. The location of the trees will be issued when the contract
+is awarded.” (Id. ¶ C.1.1.)
+
+7.      Addendum No. 3 to the solicitation, incorporated into the contract, consists of responses
+to the questions raised by the bidders during the procurement process. (AF Ex. A, Addendum
+#3.) In its responses to Questions Nos. 5 and 6, the District reserved the right to issue, on rare
+occasion, emergency work orders that would require that tree trimming services be performed by
+the contractor within 48 hours. (Id.) It also specified that the Appellant must provide at least two
+tree trimming crews on a daily basis. (Id.)
+
+        C&D’s Predecessor Contract Before November 2006
+
+8.      The Appellant claims that, in compiling its bid for the disputed contract, it relied upon the
+District’s prior ordering practices under C&D’s earlier tree trimming contracts, where the
+District used a block-by-block ordering process. (Hr’g Tr. vol. 1, 67:10-19.) In this regard, the
+Appellant testified that it relied upon the historical labor, equipment, and overhead costs under
+the District’s prior ordering method in calculating its cost per tree when it bid for the current
+contract. (Hr’g Tr. vol. 1, 67:15-19.)
+
+9.     The Appellant contends that the District had ordered tree trimming services from the
+Appellant on a block-by-block basis since at least 1989.4 (Hr’g Tr. vol. 1, 53:20-54:8, 67:13-
+69:3.) To support this contention, the Appellant introduced its 19975 tree trimming contract with
+the District (Contract No. OMS-5160-AA-DB, dated March 4, 1997).6 (See Appellant’s Hr’g
+Ex. 1B.) Although, the 1997 contract was a requirements contract, rather than an IDIQ (id. at
+
+
+3
+  The Board finds, however, that although paragraph B.1.2 references an ordering clause, the contract does not
+appear to contain a per se “Ordering Clause.”
+4
+  The Appellant had filled tree-trimming orders under the District’s predecessor contracts as both a prime contractor
+and a subcontractor. (Hr’g Tr. vol. 1, 53:20-54:3.)
+5
+  The 1997 contract was solicited on December 18, 1996, and is consequently referred to as the “1996 contract” in
+the record. (See Appellant’s Hr’g Ex. 1B at 1.)
+6
+  Only pages 1, 7, and 13 of the 1997 contract were admitted into evidence. (Hr’g Tr. vol. 2, 192:7-8, 326:18-19)
+                                                       -2-
+                                                                                               C&D Tree Service, Inc.
+                                                                                                   CAB No. D-1347
+
+13), it included a clause identical to paragraph C.1.1 of the current contract (id. at 7).7 The
+Appellant’s CEO, Scott F. Nelson, testified that prior to the disputed contract, the District had
+never ordered the Appellant to trim trees on a tree-by-tree basis as its standard practice. (Hr’g
+Tr. vol. 1, 69:9-71:10.) He also testified that individual tree ordering was “very rare” prior to
+November 2006. (Hr’g Tr. vol. 1, 69:18-72:16.)
+
+10.     Under the 1997 contract, the District’s standard way of issuing work orders was the
+“block-by-block” method, under which it assigned tree trimming work by identifying city blocks
+where multiple trees required trimming. (UMF ¶ 7.) The Appellant’s CEO testified that after a
+District employee identified streets that required tree trimming, the District would then issue
+work orders to C&D to trim all the trees on a designated block. (Hr’g Tr. vol. 1, 58:6-59:4.)
+Nelson also testified that C&D’s own arborists would sometimes “identify subject streets that
+were in need of tree care.” (Hr’g Tr. vol. 1, 58:6-9.)
+
+11.     The Contracting Officer’s Technical Representative (“COTR”) for the disputed contract,
+John P. Thomas, testified that under the block-by-block ordering method District employees
+would “comb the city” to identify trees that needed trimming. (Hr’g Tr. vol. 3, 576:4-578:18,
+May 31, 2012.) When the District’s field inspectors identified trees that required trimming, they
+took the information down on hand-written lists, which would later be transferred to Excel
+spreadsheets back at their offices. (Hr’g Tr. vol. 3, 582:14-20.) The District would identify trees
+according to its old MISTRE electronic inventory system, which assigned a unique 16-digit
+identifier to each tree, helping to identify its location within the District. (Hr’g Tr. vol. 1, 60:11-
+61:10; Hr’g Tr. vol. 3, 578:19-579:19.)
+
+12.     After the District determined which block(s) contained trees that required trimming, the
+Appellant would post “no parking” signs on the block designated for tree trimming work
+approximately 72 hours prior to working on that block. (Hr’g Tr. vol. 1, 58:12-16.) Using teams
+that consisted of a six person crew, two aerial lifts, and a chipper truck, the Appellant would
+perform tree trimming work up one side of the designated block and then back down the other
+side of the same block. (Hr’g Tr. vol. 1, 58:16-59:4.)
+
+         The District’s Work Ordering Method After November 2006
+
+13.    During the last option year of the contract which is the subject of this appeal, around
+November of 2006, the District changed the way in which it ordered tree trimming work from
+C&D.8 (UMF ¶ 7.) Instead of directing the Appellant to trim all (or most) trees on a city block,
+the District started directing the Appellant to trim specific, individual trees throughout the city.
+(UMF ¶ 7.)
+
+
+
+7
+  See supra Finding 6.
+8
+  Previously, around November 2005, the disputed contract ran out of funding and the District made the decision to
+competitively solicit a new contract for these same tree trimming requirements that had been performed by the
+Appellant. (Hr’g Tr. vol. 1, 72:17-75:1.) The Appellant subsequently protested this solicitation and corrective
+action was taken by the District to reinstate the second half of the 4th contract option year and the 5th option year of
+the Appellant’s 2002 contract. (Hr’g Tr. vol. 1, 75:3-9.) During the course of these events, the Appellant provided
+no tree trimming services to the District until the District began ordering from the Appellant under the contract again
+in November 2006. (Hr’g Tr. vol. 1, 72:11-16.)
+                                                         -3-
+                                                                                           C&D Tree Service, Inc.
+                                                                                               CAB No. D-1347
+
+14.    This change in the way the District ordered tree trimming services from the Appellant
+coincided with the city’s implementation of the “City Works” program. (Hr’g Tr. vol. 3, 581:18-
+582:10.) The COTR, however, testified that, while the City Works program was not fully
+implemented until November 2006, this software had actually been procured by the District a
+few years earlier. (Hr’g Tr. vol. 3, 582:1-8.)
+
+15.    The City Works program allowed the District to manage its workload and tree inventory
+more efficiently by allowing the District to input various data into a searchable format and create
+work orders from these data sets. (Hr’g Tr. vol. 1, 77:2-8; Hr’g Tr. vol. 3, 582:13-583:21.)
+Because the City Works program was connected to the Mayor’s call center,9 citizen complaints
+began to drive more of C&D’s assignments to prune certain trees in the District. (Hr’g Tr. vol. 3,
+582:21-583:6, 588:20-589:4.) However, the COTR testified that, even after the City Works
+implementation, the District did not solely rely on citizen complaints to determine which trees to
+trim. Field inspectors from the District, who were now equipped with tablet computers running
+City Works, continued to independently select trees for trimming services by the Appellant
+including, for example, varying species of trees that were required to be trimmed at certain
+seasonal timeframes across the city. (Hr’g Tr. vol. 3, 585:7-588:18, 604:7-609:4; see also id. at
+575:15-578:18.)
+
+16.    The written record in this case also reflects that after the District began to order tree
+trimming services on an individual tree basis under City Works, the District would still
+periodically order tree trimming services for multiple trees on a city block. (See Dist. Hr’g Ex. 7
+at 1762-67, 1776-78, 1783-84; see also Hr’g Tr. vol. 2, 267:10-12, 282:3-20, May 30, 2012.)
+
+17.       The Appellant testified that the cost of performance when orders were made on a tree-
+by-tree basis was significantly greater than it had been under the block-by-block ordering
+system. (Hr’g Tr. vol. 1, 66:8-16.) According to the Appellant, productivity decreased because
+workers had to move far more often, and the condition of trees assigned to the Appellant for
+individual trimming were “the worst of the worst.” (Hr’g Tr. vol. 1, 66:21-67:9, 116:2-117:1,
+136:15-20.) The Appellant claims that it suffered increased labor and fuel costs, higher dumping
+fees, and increased costs of performance due to the poor condition of the assigned trees. (Hr’g
+Tr. vol. 1, 113:16-117:4.)
+
+18.     Both Nelson and the COTR testified, however, that while the District would periodically
+prioritize certain tree assignments as requiring the most immediate attention, the Appellant
+largely had discretion to prioritize the manner and order in which it completed its tree trimming
+tasks. (Hr’g Tr. vol. 2, 293:4-17; Hr’g Tr. vol. 3, 592:4-20.) This, in turn, allowed the Appellant
+to coordinate trimming any number of trees within the same part of the city to improve its
+efficiency. (Hr’g Tr. vol. 2, 293:22-294:3.)
+
+19.      The parties do not dispute that in the course of the contract the District issued orders for
+at least $40,000.00 worth of tree trimming work from Appellant, and thus ordered the minimum
+quantity expressly required under the contract. (UMF ¶ 14; Hr’g Tr. vol. 2, 214:1-9.)
+
+
+
+9
+  The Mayor’s call center allows District residents to directly contact the city government to request that varying
+services be performed by District agencies. (Hr’g Tr. vol. 3, 582:21-583:3, 601:18-602:3.)
+                                                       -4-
+                                                                                             C&D Tree Service, Inc.
+                                                                                                 CAB No. D-1347
+
+        Contract Extension and Proposed Price Adjustment
+
+20.      On May 7, 2007, the Contracting Officer’s assistant, Kathy Hatcher, emailed the
+Appellant to schedule a meeting to discuss a possible 6 month extension to the contract, as well
+as issues related to a separate tree removal contract that was also being performed by the
+Appellant. (Appellant’s Hr’g Ex. 1 at 19.) The disputed contract was set to expire in May 2007
+at the time the parties were arranging to conduct this meeting. (Hr’g Tr. vol. 2, 227:11-228:18.)
+
+21.     On or about May 11, 2007, the Appellant met with District contracting officials,
+including Contracting Officer (“CO”) Jerry Carter, COTR Thomas, and Hatcher. (Hr’g Tr. vol.
+1, 93:18-19; Hr’g Tr. vol. 3, 547:2-6, 592:21–593:6; UMF ¶ 8.) At the meeting, in addition to
+discussing its separate tree removal contract, the Appellant’s CEO hand-delivered a letter to the
+CO dated May 9, 2007, which claimed that the Appellant had suffered damages associated with
+the District’s shift from block-by-block orders to tree-by-tree orders under its tree trimming
+contract. (Appellant’s Hr’g Ex. 1 at 23-25; Hr’g Tr. vol. 1, 93:12-19.) The letter stated that
+more work was required to trim trees under the individual tree ordering approach due to the poor
+condition of the trees selected for individual trimming and complained of the decrease in the
+amount of the trees trimmed. (Appellant’s Hr’g Ex. 1 at 25.) The letter therefore requested a
+return to the block-by-block approach by the District or an equitable price adjustment under the
+contract. (Id.)
+
+22.    At the meeting the CO agreed to extend the disputed contract by a period of 6 months
+beyond its original expiration date of May 2007. (Hr’g Tr. vol. 1, 98:1-9.) The CO also agreed
+to consider an adjustment to the pricing under the contract. (Hr’g Tr. vol. 3, 434:13-435:13;
+552:8-15.) The CO and the COTR, however, testified that the District did not agree at the May
+11, 2007, meeting that the District would definitively alter the contract pricing for the 6 month
+extension period or grant an equitable adjustment to the contract. (Hr’g Tr. vol. 3, 437:2-14,
+594:2-22.) Following this meeting, the CO directed the COTR to undertake the necessary
+administrative work to prepare for the funding of the Appellant’s contract for an additional 6
+month period. (Hr’g Tr. vol. 3, 595:4-17.)
+
+23.    Following the foregoing meeting,10 the CO issued a unilateral modification to the
+contract that extended the term by six months, through November 14, 2007, expressly at no
+additional cost.11 (Appellant’s Hr’g Ex. 1 at 27.) Hatcher admitted that she independently
+assumed that the District would negotiate new prices with the Appellant in connection with the 6
+month extension period and informed the Appellant that the District would issue a bilateral
+modification in the future reflecting negotiated pricing for this extension period.12 (See id. at 26;
+Hr’g Tr. vol. 3, 552:19-22.) No evidence was presented at the hearing which established that the
+
+
+10
+   While the modification itself is dated May 10, 2007, it was forwarded to C&D on May 11, 2007. (See Appellant’s
+Hr’g Ex. 1 at 26.)
+11
+    Although the modification extending the contract term was unilaterally executed by the District, the Appellant
+still signed and returned the modification document to the District on May 14, 2007. (Id. at 28; Hr’g Tr. vol. 1,
+99:19-100:2.)
+12
+   CO Carter testified that he had not seen Hatcher’s email prior to testifying. (Hr’g Tr. vol. 3, 427:16-428:7.) His
+testimony further reveals that Hatcher took the lead in administering the contract and could subsequently make
+recommendations to him on contract pricing matters. (See, e.g., Hr’g Tr. vol. 3, 439:4-21; 447:19-449:9; 488:2-
+489:4.)
+                                                       -5-
+                                                                                              C&D Tree Service, Inc.
+                                                                                                  CAB No. D-1347
+
+CO directed Hatcher to engage in these price discussions, or knew that these discussions were
+taking place.
+
+24.      Following the District’s issuance of the 6 month contract extension, on September 4,
+2007, the Appellant submitted new proposed unit prices to Hatcher to be applied in this
+extension period.13 (Appellant’s Hr’g Ex. 1 at 31-32.) The Appellant’s new proposed unit
+pricing for the extension period included an additional $150.00 fee per tree. (Hr’g Tr. vol. 1,
+105:14-17.) The District, however, never formally responded to, or accepted, this proposed
+pricing. (Hr’g Tr. vol. 1, 118:12-15.) On December 27, 2007, the Appellant sent an additional
+letter to CO Carter requesting a response to its proposed price adjustment to the contract during
+the extension period to which the CO never replied.14 (Appellant’s Hr’g Ex. 1 at 35-36; Hr’g Tr.
+vol. 1, 120:3-19.)
+
+         The Appellant’s Request for Equitable Adjustment
+
+25.    The Appellant subsequently submitted a Request for Equitable Adjustment (“REA”) to
+CO Carter in the amount $613,500.00 as damages for an alleged constructive change resulting
+from the District’s shift from ordering tree trimming service on a block-by-block basis to an
+individual tree-by-tree system on April 29, 2008. (Appellant’s Hr’g Ex. 1 at 6–14; UMF ¶ 11.)
+
+26.    In calculating its damages in the REA, the Appellant began by determining the monthly
+average revenue generated under the previous block-by-block ordering method. (Appellant’s
+Hr’g Ex. 1 at 10.) After making various adjustments in this calculation,15 the Appellant
+determined that there was a “net underage of payment” in the amount of $444,538.33 for the
+extension period.16 (Id.) The Appellant then added a 30% mark-up for costs unrelated to the
+change to individual tree ordering, which included increased fuel and labor costs and increased
+dump fees. (Id.; Hr’g Tr. vol. 1, 133:16-134:15.) The Appellant then added another 10% mark-
+up to reflect the poor condition of the trees. (Appellant’s Hr’g Ex. 1 at 10.) Altogether, the
+Appellant determined that it was entitled to an additional $635,688.82 in additional
+compensation. (Id.) The Appellant, however, only requested an equitable adjustment in the
+amount of $613,500.00 consistent with the $150.00 per tree price increase in its September 4,
+2007, request to the District for an increase in unit pricing under the contract. (Id.; Hr’g Tr. vol.
+1, 137:8-138:21.)
+
+27.    CO Carter denied the Appellant’s REA in a May 8, 2008, Contracting Officer’s Final
+Decision. (AF Ex. D.1; UMF ¶ 12.) The CO determined that no constructive change had
+occurred because the contract specifications did not dictate the manner in which the District
+13
+   The Appellant testified at the hearing that it was its understanding that the District was planning to renegotiate
+unit prices with the Appellant for this extension period. (Hr’g Tr. vol. 1, 98:1-9.)
+14
+   The District did not respond to this and subsequent inquiries regarding the price adjustment requested by the
+Appellant. (Hr’g Tr. vol. 1, 120:20-123:22.)
+15
+   The Appellant made adjustments to reflect the increased size of the trees and a 30 percent decrease in costs related
+to a change in C&D’s operations. (Hr’g Tr. vol. 1, 129:3-132:15.)
+16
+   In calculating the REA, the Appellant used 10 months as the extension period. (Hr’g Tr. vol. 2, 245:12-17;
+Appellant’s Hr’g Ex. 1 at 10.) In its complaint, the Appellant states that the amount claimed in the REA is based on
+work that was performed “during the six-month extension period.” (Compl. ¶ 22.) Similarly, the parties stipulated
+that the period in dispute is “the six-month extension period.” (UMF ¶ 9.) (Appellant’s Post Hr’g Br. 27.)
+Addressing this discrepancy, Nelson testified that he used 10 months because the District continued to order work
+under the contract though no formal extension was issued. (Hr’g Tr. vol. 1, 127:4-11.)
+                                                        -6-
+                                                                                             C&D Tree Service, Inc.
+                                                                                                 CAB No. D-1347
+
+would order tree trimming work to be performed on either an individual tree basis or a block-by-
+block basis. (AF Ex. D.1 at 4.) The CO further determined that the Appellant had failed to
+adequately support its claim with cost and price data. (Id. at 4-5.)
+
+28.    The Appellant filed its Notice of Appeal with the Board on July 16, 2008, which
+appealed the CO’s May 8, 2008, final decision denying its REA. The Board conducted a four-
+day hearing on the merits in this matter from May 29, 2012 through May 31, 2012, and on June
+22, 2012.
+
+        Contentions of the Parties
+
+29.     The Appellant claims entitlement to an equitable adjustment because the District
+allegedly constructively changed the contract when it shifted from ordering on a block-by-block
+basis to a tree-by-tree basis based upon the manner in which the District historically ordered tree
+trimming services from the Appellant. (Appellant’s Post Hr’g Br. 15-18.)
+
+30.     The Appellant, therefore, asserts that it is entitled to recover an equitable adjustment in
+the amount of $613,500.00 because of the District’s alleged constructive change to the contract
+when it switched from ordering tree trimming services on a block-by-block basis to a tree-by-tree
+basis. (Appellant’s Post Hr’g Br. 21-23.) Alternatively, the Appellant claims $387,548.00 based
+on the report of its expert, Ernest Agresto.17 (Id. at 23-26.) In arriving at his damages figure,
+Agresto first determined the Appellant’s lost revenue during the extension period by essentially
+comparing the monthly average revenue before the change in ordering methodology and then
+separately during the extension period.18 (Hr’g Tr. vol. 4, 664:19-668:18, June 22, 2013;
+Appellant’s Hr’g Ex. 3 at 9.) Agresto’s analysis also incorporated an assessment of additional
+labor and other fixed costs allocable to the contract based upon revenue amounts in ultimately
+determining that the Appellant was owed an additional $352,316.00. (Appellant’s Hr’g Ex. 3 at
+6-11; Hr’g Tr. vol. 4, 667:3-687:13.) Lastly, Agresto added a 10% mark-up for profit to arrive at
+the $387,548.00 figure. (Appellant’s Hr’g Ex. 3 at 6.)
+
+31.    The District denies the Appellant’s right to any additional compensation under the
+contract. The District maintains that its obligation under this IDIQ contract, which it satisfied,
+was to order the contract minimum of $40,000.00 in services from the Appellant. (Dist. Post
+Hr’g Br. 17-18.)
+
+32.     Further, the District also argues that its shift in the manner in which it ordered tree
+trimming services—from block-by-block to tree-by-tree—did not constitute a constructive
+change to the contract because the contract is silent as to the manner in which the District would
+order tree trimming services. (Id. at 19-20.) The District further contends that the contract itself
+prohibits constructive changes because changes were required to be in writing and signed by the
+
+
+
+17
+   Agresto testified that his calculations were limited to considering C&D’s accounting data and that he did not
+consider technical issues that would be outside his accounting expertise. (Hr’g Tr. vol. 4, 652:4-16, June 22, 2013.)
+Agresto also testified that this limitation on accounting data led to differences from the REA’s damages calculation
+because Nelson was able to use his technical expertise and rely on more contract specific data. (Hr’g Tr. vol. 4,
+696:19-698:17.)
+18
+   Agresto also used a 10 month extension period in his calculations. (Appellant’s Hr’g Ex. 3 at 9.)
+                                                       -7-
+                                                                                              C&D Tree Service, Inc.
+                                                                                                  CAB No. D-1347
+
+CO. (Id. at 20.) The District also maintains that the Appellant has provided no data to support
+its claimed damages.19 (Dist. Post Hr’g Br. 22-24, 28-30.)
+
+                                                 DISCUSSION
+
+       We exercise jurisdiction over this matter pursuant to D.C. Code § 2-360.03(a)(2)
+(2011).20
+
+        The central issue in this case is whether the District constructively changed the contract
+when it began ordering tree trimming on a tree-by-tree basis thereby entitling the Appellant to an
+equitable adjustment under the contract. Equitable adjustments are corrective measures to make
+a contractor whole when the government modifies a contract. Int’l Data Prods. Corp. v. United
+States, 492 F.3d 1317, 1325 (Fed. Cir. 2007) (citing Ets-Hokin Corp. v. United States, 420 F.2d
+716, 720 (Ct. Cl. 1970)). An equitable adjustment is due under both formal changes and
+constructive changes. District of Columbia v. Org. for Envtl. Growth, Inc., 700 A.2d 185, 203
+(D.C. 1997), on remand, CAB No. D-850, 49 D.C. Reg. 3353 (Apr. 13, 2001), rev’d on other
+grounds sub nom. Abadie v. Org. for Envtl. Growth, Inc., 806 A.2d 1225 (D.C. 2002); see also
+Aydin Corp. v. Widnall, 61 F.3d 1571, 1577 (Fed. Cir. 1995) (“Where [the Government] requires
+a constructive change in a contract, the Government must fairly compensate the contractor for
+the costs of the change.”).
+
+        “A constructive change occurs where a contractor performs work beyond the contract
+requirements without a formal order, either by an informal change order or due to the fault of the
+government.” Weigel Hochdrucktechnik GmbH & Co. KG, ASBCA No. 57207, 12-1 BCA ¶
+34,975 at *4 (Mar. 15, 2012); Advanced Eng’g & Planning Corp., ASBCA Nos. 53366, 54044,
+05-1 BCA ¶ 32,806 at *23 (Nov. 19, 2004); see also Org. for Envtl. Growth, 700 A.2d at 203
+(defining constructive changes as those “informally ordered by the government or required by
+government fault despite the absence of a formal change order.”).
+
+        To prove entitlement under a constructive change theory, a contractor must show a bona
+fide “change” and the issuance of an “order” under the relevant contract. Org. for Envtl. Growth,
+700 A.2d at 203. To meet the “change” component, the contractor must have performed work in
+addition to, or different from, that required under the contract. Id.; LB&B Assocs., Inc. v. United
+States, 91 Fed. Cl. 142, 154 (2010).
+
+       Additionally, to establish the “order” component under a constructive change theory, the
+added work must not have been volunteered by the contractor, but rather directed by a
+government official with the requisite authority. See LB&B Assocs., 91 Fed. Cl. at 154;
+Northrop Grumman Sys. Corp. Space Sys. Div., ASBCA No. 54774, 10-2 BCA ¶ 34,517 at *73
+(July 22, 2010); Intercontinental Mfg. Co., ASBCA No. 48506, 03-1 BCA ¶ 32,131 at *50 (Jan.
+3, 2003). The contractor must also demonstrate that the constructive change increased its costs
+
+
+19
+   Along these lines, the District also faults the Appellant’s damage calculations for using a 10 month period instead
+of the stipulated 6 months. (Dist. Post Hr’g Br. 26-27.)
+20
+   Prior to April 8, 2011, the Board exercised jurisdiction pursuant to D.C. Code § 2-309.03(a)(2) (2001). The
+Procurement Practices Reform Act of 2010 repealed and replaced the District’s procurement statutes, including the
+Board’s previous jurisdictional statute. D.C. Law No. 18-371, 58 D.C. Reg. 1185 (Feb. 11, 2011). This appeal was
+filed on July 16, 2008, under our previous jurisdictional statute. (See Notice of Appeal.)
+                                                        -8-
+                                                                                              C&D Tree Service, Inc.
+                                                                                                  CAB No. D-1347
+
+of performance. See Intercontinental Mfg. Co., ASBCA No. 48506, 03-1 BCA ¶ 32,131 at *50;
+Blood, AGBCA Nos. 2000-102-1 et al., 02-1 BCA ¶ 31,726 at *13 (Dec. 21, 2001).
+
+A.       Appellant Has Failed to Establish a Prior Course of Dealing that Required the District
+         to Order Tree Trimming Services on a Block-by-Block Basis Under the Disputed
+         Contract.
+
+        The parties agree that the contract was silent as to any particular methodology that would
+be used by the District to order services under the contract. (Finding 5.) Nevertheless, the
+Appellant argues that its prior course of dealing with the District—under its earlier 1997 tree
+trimming contract—established that the District would continue to order tree trimming on a
+block-by-block basis under the instant (2002) contract. (Appellant’s Post Hr’g Br. 17-19.) As
+such, the Appellant essentially argues that the District’s block-by-block ordering methodology
+under its prior contract(s) effectively became a term of the present contract. (Id. at 17-18.)
+Accordingly, the Appellant contends that the District constructively changed the instant contract
+when it switched from ordering tree trimming services from the Appellant on a block-by-block
+basis to a tree-by-tree basis. (Id. at 16.)
+
+        A prior course of dealing is defined as “a sequence of previous conduct between the
+parties to an agreement which is fairly to be regarded as establishing a common basis of
+understanding for interpreting their expressions and other conduct.”21 DeLeon Indus., LLC v.
+Dep’t of Veterans Affairs, CBCA No. 986, 12-1 BCA ¶ 34,904 at *11 (July 12, 2011) (citations
+omitted); C.R. Pittman Constr. Co., ASBCA No. 54901, 08-1 BCA ¶ 33,777 at *11 (Jan. 22,
+2008) (quoting RESTATEMENT (SECOND) OF CONTRACTS § 223(1) (1981)). A prior course of
+dealing may “establish the intent of the parties with respect to the proper interpretation of
+contract language.” Prods. Eng’g Corp. v. Gen. Servs. Admin., GSBCA Nos. 12503, 13051, 98-
+2 BCA ¶ 29,851 (June 30, 1988). However, to establish an enforceable term of a contract, the
+conduct establishing the course of dealings must reflect the joint or common understanding of
+the parties. Sperry Flight Sys. v. United States, 548 F.2d 915, 922 (Ct. Cl. 1977). If the prior
+course of dealing cannot “reasonably be construed as indicative of the parties’ intentions,” then
+that course of dealings will not establish an enforceable contract term. Id. Accordingly, the
+proponent of a prior course of dealing argument must demonstrate “actual knowledge by both
+parties of the prior course of dealings and its significance to the contract.” Anchor/Darling
+Valve Co., ASBCA No. 46109, 95-1 BCA ¶ 27,595 at *5 (Mar. 20, 1995) (emphasis added);
+Yamin, ASBCA No. 35373, 90-2 BCA ¶ 22,657 at *10 (Jan. 31, 1990).
+
+       Thus, under this foregoing jurisprudence, federal courts and boards of contract appeals
+have extensively considered the evidence which is required to establish that there was a prior
+
+21
+   The Board has addressed a prior course of dealing legal theory only once before in Jet Blast, Inc., CAB No. D-
+1039, 52 D.C. Reg. 4217 (Aug. 3, 2004). However, in that case, we summarily rejected the appellant’s argument,
+holding that a prior course of dealing consistent with the express terms of the contract could not modify the contract.
+Id. at 4222. Because the Board has not extensively dealt with this legal theory in prior decisions, we look to the
+jurisprudence of the federal courts and boards of contract appeals for guidance, as we have traditionally done. See,
+e.g., Keystone Plus Constr. Corp., CAB No. D-1358, 2012 WL 554443 at *7-*8 (Jan. 27, 2012) (citing multiple
+federal cases); K.B. Hom & Assocs., CAB No. P-154, 38 D.C. Reg. 3237, 3239 (Mar. 5, 1991) (stating that the
+Board looks to federal case law for guidance); see also Abadie v. D.C. Contract Appeals Bd., 916 A.2d 913, 919
+(D.C. 2007) (“Because District contracting practice parallels federal government contract law, we also look to the
+relevant decisions of federal tribunals with particular expertise in this area.” (internal quotation marks omitted)).
+                                                        -9-
+                                                                               C&D Tree Service, Inc.
+                                                                                   CAB No. D-1347
+
+course of dealing between contractual parties which altered or defined the contract terms. For
+instance, in Products Engineering Corp., the contractor argued that the government’s previous
+approval of its quality control system and methods of testing for compliance with specifications
+barred the government’s use of a different method during the contract. GSBCA Nos. 12,503,
+13,051, 98-2 BCA ¶ 29,851. In this regard, much like the Appellant in the present case, the
+contractor argued that there was an established prior course of dealing under previous contracts
+with the government, lasting several years, whereby the government had repeatedly accepted the
+contractor’s same equipment and quality control procedures. Id. For these reasons, the
+contractor argued that the government was later precluded from imposing its own independent
+quality control measures which found the contractor’s parts to be nonconforming. Id.
+Ultimately, the General Services Board of Contract Appeals found that the circumstances did not
+warrant extending the prior course of dealing doctrine to bar the government from using different
+test instruments from those used by the contractor without notification so long as the
+government’s standards were not contrary to the contract provisions. Id. Moreover, in
+effectively underscoring the requirement that both parties have knowledge of the significance of
+a prior course of dealing, the board found that there was insignificant evidence in that case to
+establish that the government knowingly accepted nonconforming equipment or indicated its
+willingness to waive the equipment specification requirements. Id.
+
+       Similarly, in DCX-CHOL Enterprises, the Armed Service Board of Contract Appeals
+considered a contractor’s claim that it had a prior course of dealing with the government
+whereby the contractor was permitted to supply its shipments without the complete traceability
+documentation required under the contract. ASBCA No. 54,707, 08-2 BCA ¶ 33,889 at *11
+(June 18, 2008). However, the board rejected this argument finding that the missing element in
+the contractor’s claim of prior course of dealing was “mutuality” which requires evidence of
+“actual knowledge by both parties of the prior course of dealing and its significance to the
+contract.” Id.
+
+        Additionally, in Sperry Flight Systems, the United States Court of Federal Claims dealt
+with a situation somewhat analogous to the present case where the contractor argued that, by
+virtue of its prior course of dealing with the agency where its higher catalogue prices had been
+accepted by the government without requiring cost and pricing data, a practice was established
+between the parties that the government would continue to accept these same catalogue prices in
+the future. 548 F.2d 915, 922-23 (Ct. Cl. 1977). Specifically, in that case, while the government
+had previously paid the contractor for certain parts based upon its catalogue prices and without
+requiring cost and pricing data, it was later required to submit cost and pricing data to the
+contracting officer to substantiate its catalogue prices before they would be accepted by the
+government. Id. at 917. Ultimately, the government determined that the contractor’s catalog
+prices for the parts at issue were not substantiated and reduced the amount that it would agree to
+pay for them below the contractor’s catalogue prices. Id. at 917-18. In ultimately rejecting the
+contractor’s argument of a prior course of dealing with the government in accepting its higher
+catalogue prices, the court stated that the factual record did not “even allow an inference that the
+Government, by having accepted plaintiff's catalog prices on past occasions, thereby intended to
+commit itself to continue such a practice into the future.” Id. at 923. Rather, the contractor’s
+argument amounted to “only a statement of its own unilateral assumptions concerning the Navy's
+expected future conduct” in accepting a higher priced product. Id.
+
+
+                                               - 10 -
+                                                                               C&D Tree Service, Inc.
+                                                                                   CAB No. D-1347
+
+        In the instant case, the Appellant alleges that a prior course of dealing was established
+between the parties by virtue of the fact that, under earlier contracts between these same parties,
+the District always ordered block-by-block tree trimming services from the Appellant and thus
+was essentially required to continue to do so under the disputed contract. Only one prior 1997
+tree trimming contract between the parties was introduced by the Appellant at trial but,
+nonetheless, the Appellant seemingly argues that this one contract established an understanding
+between the parties that future tree trimming contracts would implicitly include a requirement
+that the District order tree trimming services from the Appellant on a block-by-block basis.
+
+        The facts elicited at trial, however, evidence that the District’s methodology for ordering
+tree trimming service from the Appellant under the 1997 contract, as well as the disputed 2002
+contract, was primarily based upon the internal ordering technology that was available to the
+District. Initially, under the 1997 contract relied upon by the Appellant, the District’s somewhat
+basic mechanism for identifying trees in need of service was to simply have its inspectors drive
+around the city and visually inspect blocks where multiple trees were in need of service, take
+hand written notes on the trees needing service, and then enter those notes into an Excel
+spreadsheet. (Finding 11). The District would identify trees in need of service according to its
+prior MISTRE electronic inventory system, which assigned a unique 16-digit identifier to each
+tree, helping to identify its location within the District. (Id.) In turn, the District would notify
+the Appellant of trees in need of service on specific city blocks leading to block-by-block tree
+trimming orders being issued by the District. (Finding 10.)
+
+         However, there was no evidence introduced at the hearing which showed that the parties
+both mutually acknowledged, or understood, that the District intended to always order tree
+trimming service on a block-by-block basis in this manner. In fact, the evidence seems to
+suggest, to the contrary, that the District had intended for some time to improve the efficiency of
+its tree ordering process by virtue of the fact that it had procured the City Works software a few
+years in advance of its actual implementation in Year 2006. (See Finding 14.)
+
+         Moreover, while the Appellant argues that the change in the ordering methodology was,
+in fact, a “change” admitted by the District to have occurred, the facts establish that this change
+was essentially a byproduct of the City Works software implementation by the District that
+allowed the city to overall more efficiently manage its workload and tree inventory. (Findings
+14-15.) There is simply no evidence that the District understood, or even implicitly agreed, that
+it would not seek to improve upon the efficiency of its tree inventory management process by
+making no alterations in its ordering methodology with the Appellant for tree trimming services
+after the 1997 contract was performed. The fact that block-by-block ordering may have allowed
+the Appellant to presumably perform its services in a more efficient manner did not commit the
+District to always utilize this ordering process on future contracts.
+
+        Thus, the Board finds that the facts underlying this case do not show that there was
+“mutuality” between the parties to agree to bind themselves to a block-by-block ordering
+requirement over the entire term of the disputed contract based upon a prior course of dealing
+under an earlier contract. In short, similar to facts in Sperry Flight Systems, supra, the
+Appellant’s reliance on a prior course of dealing theory in the instant case is based upon its
+“unilateral assumption” that the District would continue to order services using a block-by-block
+ordering process as it had before. Accordingly, the Appellant has also failed to establish that the
+District’s shift in ordering methodology constructively changed the contract’s terms.
+                                              - 11 -
+                                                                                               C&D Tree Service, Inc.
+                                                                                                   CAB No. D-1347
+
+B.       The District Met Its Ordering Obligations Under the Contract.
+
+        Having found that the Appellant is not entitled to damages arising from an alleged
+constructive change to the contract ordering process as discussed above, the Board must also
+consider whether the District otherwise met, or altered, its overall ordering requirements under
+the disputed contract, as this issue was raised by the District. In this regard, the parties agree that
+the contract was an IDIQ contract with a minimum purchase obligation of either $10,000.00 (the
+plain language of the contract) or $40,000.00 (the parties’ stipulation). (Finding 3.) The parties
+also agree that the District ordered at least $40,000.00 in services under the contract. (Finding
+19.)
+
+       An IDIQ contract only requires that the government order a stated minimum quantity of
+supplies or services. Travel Ctr. v. Barram, 236 F.3d 1316, 1319 (Fed Cir. 2001); see also
+DynCorp, ASBCA No. 38862, 91-2 BCA ¶ 24,044 at *4 (May 1, 1991) (“Under an indefinite
+quantity contract, the Government is only obligated to order the minimum quantity stated.”).
+Once the government purchases the minimum stated in the contract its purchasing obligation
+under the contract is satisfied. Travel Ctr., 236 F.3d at 1319.
+
+        The Appellant’s measure of its alleged monetary damages in this case appears to be based
+upon its contention that it received less revenue after the District switched to individual tree
+ordering. For example, the Appellant argues that the switch to individual tree ordering “resulted
+in a severe 87% decrease in the amount of tree locations serviced by C&D.” (Appellant’s Post
+Hr’g Br. 18-19.) Similarly, both the Appellant’s REA and the Appellant’s expert report begin
+their damage calculations by determining the Appellant’s lost revenue during the extension
+period. (Findings 26, 30.)
+
+        Appellant’s lost revenue claim, however, is without basis as the District was not
+obligated to procure services from the Appellant “beyond the minimum contract price.” See
+Travel Ctr., 236 F.3d at 1319. Indeed, even if the Appellant anticipated that ultimately the
+District would order a greater amount of work under the contract, that did not alter the fact that
+the District was only obligated to purchase the specified contract dollar minimum. Varilease
+Tech. Grp., Inc. v. United States, 289 F.3d 795, 799 (Fed. Cir. 2003). As stated above, it is not
+disputed that the District ordered more than the required minimum $40,000.00 in tree trimming
+services under the contract. (Finding 19.) Because the District satisfied its purchasing
+obligations under the contract, the Appellant is not entitled to any relief from the Board beyond
+the requirements previously ordered and paid for by the District.22 See Travel Ctr., 236 F.3d at
+1319.
+
+                                                 CONCLUSION
+
+
+22
+   By way of analogy, the Armed Services Board of Contract Appeals addressed a similar constructive change
+argument under a requirements contract for mowing services. See Maggie’s Landscaping, Inc., ASBCA Nos.
+52462, 52463, 04-2 BCA ¶ 32,647 (June 2, 2004). In Maggie’s Landscaping, the government ordered less mowing
+than its monthly estimates due to dry and wet conditions that affected the growth and health of the grass. Id. at *5-6.
+The board held that even if the variance in ordering from the estimated amounts was significant, such variance did
+not constitute a constructive change because “a change in operations by a contracting entity made independent of the
+contract that results in a reduction in requirements will not constitute a breach or a constructive change.” Id. at *16.
+
+                                                        - 12 -
+                                                                            C&D Tree Service, Inc.
+                                                                                CAB No. D-1347
+
+        Based upon the matters discussed herein, the Board finds that Appellant has not
+established that the District constructively changed the disputed contract by modifying its
+ordering methodology for tree trimming services and, therefore, Appellant is not entitled to an
+equitable adjustment to the contract. Further, the Board finds that the District met the minimum
+ordering requirements under the contract as it relates to the service amounts which it procured
+from the Appellant. The appeal is denied.
+
+SO ORDERED.
+
+
+DATED: August 8, 2013                                      /s/ Monica C. Parchment
+                                                           MONICA C. PARCHMENT
+                                                           Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+
+
+
+                                             - 13 -
+

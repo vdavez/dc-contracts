@@ -1,0 +1,197 @@
+              DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+AAA TERMITE & PEST CONTROL                            )
+                                                      )       CAB No. P-0828
+Solicitation No: DCAM-2009-B-0055                     )
+
+        For the Protester: Mr. Michael Wanamaker, pro se, AAA Termite & Pest Control. For the
+District of Columbia Government: Alton E. Woods, Esq., Assistant Attorney General, Office of
+the Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 28406256
+
+
+        AAA Termite & Pest Control has protested the determination that its bid was
+nonresponsive for failing to acknowledge two solicitation amendments. AAA Termite had
+downloaded the solicitation from the Office of Contracting and Procurement (“OCP”) website
+but failed to check the website prior to submitting its bid for any amendments. The contracting
+officer states that bidders who picked up a printed copy of the solicitation from OCP were mailed
+the amendments but firms that downloaded the solicitation were not known to OCP. Thus, OCP
+could not mail amendments to firms which had downloaded the solicitation from the website and
+were not on the bidders list. We conclude that the contracting officer did not violate law,
+regulation, or the terms of the solicitation by determining AAA Termite’s bid to be
+nonresponsive. Having chosen to obtain the solicitation from the OCP website, it was AAA
+Termite’s responsibility to check the same OCP website for any amendments to the solicitation.
+Accordingly, we deny the protest.
+
+                                       BACKGROUND
+
+        On August 28, 2009, the District’s Department of Real Estate Services (“DRES”) issued
+Invitation for Bids (“IFB”) No. DCAM-2009-B-0055 for pest control services for various
+District Government properties. (Agency Report (“AR”), at 2; AR Ex. 2). This IFB was posted
+on OCP’s website on August 28, 2009. The IFB could either be picked up from DRES’s bid
+room or downloaded from OCP’s website. AAA Termite most likely downloaded an electronic
+copy of the solicitation from the OCP website between August 28, 2009, and September 21,
+2009, that is, at some point before the first amendment was posted at the website on September
+22, 2009. Bidders that picked up a printed copy of the solicitation from the DRES bid room
+were added to the bidders list. Firms that downloaded the solicitation from the OCP website
+were not added to the bidders list though presumably a firm could have asked to be added to the
+bidders list so that it could receive amendments by mail from the contracting agency.
+
+       The solicitation provides inter alia in section L.2 (entitled “Pre-Bid Conference”):
+                                                -2-                     AAA Termite & Pest Control
+                                                                                  CAB No. P-0828
+
+
+       All oral questions must be submitted in writing following the close of the pre-bid
+       conference but no later than five working days after the pre-bid conference in
+       order to generate an official answer. Official answers will be provided in writing
+       to all prospective bidders who are listed on the official bidder’s list as having
+       received a copy of the solicitation. Answers will also be posted on the OCP
+       website at www.ocp.dc.gov.
+
+(AR Ex. 2). Section L.12 provides that any responses to bidders’ questions would be provided in
+an amendment. Bidders were notified of the need to acknowledge IFB amendments in IFB
+section L.16 (entitled “Acknowledgment of Amendments”):
+
+       The Bidder shall acknowledge receipt of any amendment to this solicitation by (a)
+       signing and returning the amendment; (b) by identifying the amendment number
+       and date in the space provided for this purpose in item 20 of page 1 (Solicitation,
+       Offer, Award Form) of the solicitation; or (c) by letter or telegram, including
+       mailgrams. The District must receive the acknowledgment by the date and time
+       specified for receipt of bids. Bidder’s failure to acknowledge an amendment may
+       result in rejection of the bid.
+
+(AR Ex. 2) (emphasis in original). AAA Termite attended the pre-bid conference on September
+8, 2009 (see District’s Determination to Proceed with Contract Performance, filed Nov. 10,
+2009), but never had itself added to the bidders list. Amendment No. 1, posted on OCP’s
+website on September 22, 2009, addressed questions posed by the bidders, added buildings to
+each of the two groups of facilities, and revised the pricing schedule. (AR Ex. 4). Amendment
+No. 2, posted on OCP’s website on September 24, 2009, answered additional questions and again
+revised the pricing schedule. (AR Ex. 5). In addition to posting the amendments on the OCP
+website, the two amendments were mailed by OCP’s staff to the vendors listed on the official
+bidders list. Because AAA Termite had downloaded the IFB from the OCP website, it did not
+appear on the bidders list. AAA Termite failed to check the OCP website during the period
+leading up to the bid opening date of September 30, 2009, and thus it states that it was not aware
+of the two amendments. On September 30, 2009, five bids were publicly opened with AAA
+Termite the apparent low bidder. (AR Ex. 1). Because AAA Termite failed to acknowledge the
+two amendments as set forth in IFB section L.16, and in 27 DCMR § 1517.1 (see AR Ex. 8), the
+contracting officer determined its bid to be nonresponsive in a letter dated October 1, 2009:
+
+       It is the responsibility of the bidders to check the OCP website through the
+       duration of the advertised period and to be aware of amendments made to the
+       solicitation. As your bid did not acknowledge the above mentioned amendments
+       to the subject solicitation, the District finds the bid submitted by AAA Termite
+       and Pest Control non-responsive to the District requirements; and therefore, will
+       not be considered for a contract award.
+
+(AR Ex. 3). On October 1, 2009, the contracting officer issued letters of intent to award
+contracts to the next two low bidders, Configuration, Inc., and Dixon Termite & Pest
+Management, Inc. (AR Ex. 9). On October 6, 2009, DRES’s deputy director received a call
+from a representative of AAA Termite asserting that its bid was responsive and that it had not
+                                                 -3-                     AAA Termite & Pest Control
+                                                                                   CAB No. P-0828
+
+
+been notified of the two amendments. (Id.). The contracting officer issued a notice the same day
+cancelling the solicitation. (AR Ex. 6). After a review of the matter and consultation with the
+Office of the Attorney General, the contracting officer determined that she could proceed with
+award to bidders other than AAA Termite on the basis that AAA Termite was responsible for
+checking the OCP website for amendments. (AR at 3; AR Ex. 9). On October 14, 2009, the
+contracting officer notified all bidders that she was rescinding the October 6 cancellation and that
+the contract award would proceed. (AR Ex. 7). On October 15, 2009, AAA Termite filed its
+protest.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1).
+
+       AAA Termite argues that the contracting officer’s determination finding it nonresponsive
+was legally erroneous because the solicitation failed to notify bidders that they should check the
+OCP website for postings of IFB amendments. AAA Termite also argues that the procurement
+was flawed in that some bidders were mailed the amendments while others (including AAA
+Termite) were not. The District responds that it was AAA Termite’s responsibility to check the
+OCP website for possible amendments to the IFB because it had downloaded the IFB from the
+same OCP website. Because the contracting officer only had a bidders list of firms that had
+obtained a printed copy of the IFB from the DRES bid room, the District points out that the
+contracting officer could not know the bidders who had downloaded the IFB from the OCP
+website.
+
+        The Procurement Practices Act requires effective competition and fair and equitable
+treatment of all persons involved in District procurements. D.C. Code § 2-301.01. In order to
+further these goals, a contracting agency has an affirmative obligation to use reasonable methods
+for the dissemination of solicitation documents, including amendments, to prospective
+contractors. Southern Maryland Restoration, Inc., CAB No. P-0459, Sept. 20, 1996, 44 D.C.
+Reg. 6503, 6506; U.S. Pollution Control, Inc., B-248910, Oct. 8, 1992, 92-2 CPD ¶ 231;
+Electromagnetix Corp., B-249623, Oct. 29, 1992, 92-2 CPD ¶ 295. Prospective bidders have a
+duty to avail themselves of every reasonable opportunity to obtain solicitation documents.
+Southern Maryland Restoration, Inc., 44 D.C. Reg. at 6506; Optelec U.S., Inc., B-400349, Oct.
+16, 2008, 2008 U.S. Comp. Gen. LEXIS 178 (GAO held that Optelec “alone was responsible for
+monitoring the website for the posting of the solicitation”); Republic Floors, Inc., 70 Comp. Gen.
+567, 91-1 CPD ¶ 579. Normally, a prospective contractor bears the risk of not receiving a
+solicitation amendment, unless it is shown that the contracting agency made a deliberate effort to
+prevent the firm from competing, or even if not deliberate, there is evidence that the agency
+failed to provide the amendment after the firm availed itself of every reasonable opportunity to
+obtain it. Crown Management Services, Inc., B-232431.4, Apr. 20, 1989, 89-1 CPD ¶ 393. A
+prospective bidder's nonreceipt of a solicitation amendment, and subsequent elimination from the
+competition, will not justify disrupting a procurement, unless evidence exists that the agency
+failed to comply with the applicable regulations governing the distribution of amendments.
+Irwin-Jurkewiecz Corp., B-249037, Oct. 20, 1992, 92-2 CPD ¶ 257.
+                                                 -4-                     AAA Termite & Pest Control
+                                                                                   CAB No. P-0828
+
+
+         In the present protest, AAA Termite does not argue that it was unreasonable for DRES to
+post the original IFB at OCP’s website for prospective contractors to download. Nor does AAA
+Termite deny that the OCP website warns prospective contractors to check the OCP website
+daily for any amendments to the posted solicitations. Having opted to download the IFB from
+the website, and knowing that the downloading function is structured so that the downloading
+entity remains anonymous to the contracting agency, AAA Termite should have realized that the
+only way for the contracting agency to communicate an amendment to it would be by posting the
+amendments at the same OCP website containing the original IFB. Alternatively, if AAA
+Termite wanted to assure itself of receiving a written notice specifically directed to it, then it
+should have contacted DRES and had its name added to the official bidders list. The record
+demonstrates that AAA Termite did not take this measure. Although it would have been
+reasonable for DRES contracting officials to add to the official bidders list both AAA Termite
+and the other firm which attended the September 8 pre-bid conference, that was not done.
+Nevertheless, the agency did not violate procurement law by failing to add these contractors to
+the bidders list. It was AAA Termite’s responsibility to have itself added to the bidders list if it
+wanted amendments to be mailed to it. In sum, by failing to check the OCP website for IFB
+amendments and by failing to have its name added to the bidders list, AAA Termite did not avail
+itself of every reasonable opportunity to obtain the amendments.
+
+       AAA Termite failed to respond to the agency report so we deem it to concede that the
+amendments made material changes to the scope of work and price schedule. The amendments
+added additional buildings to the statement of work requirements and revised the price schedule.
+These were material changes such that the failure of AAA Termite to acknowledge the
+amendments could not be considered a minor informality which could be waived by the
+contracting officer. By not acknowledging the two amendments, AAA Termite was not legally
+bound to the IFB requirements as amended, thus rendering its bid nonresponsive. Northern
+Sealcoting & Paving, Inc., B-299393, Mar. 30, 2007, 2007 CPD ¶ 67.
+
+                                         CONCLUSION
+
+        For the reasons discussed above, we deny the protest of AAA Termite of the contracting
+officer’s determination that its bid was nonresponsive for failing to acknowledge the IFB
+amendments.
+
+       SO ORDERED.
+
+DATED: December 8, 2009                                /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

@@ -1,0 +1,694 @@
+                                      DISTRICT OF COLUMBIA
+                                     CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+                                                                         )
+Martha’s Table, Inc.                                                     )         CAB No: P-0896
+                                                                         )
+Solicitation No. DCCF-2011-R-3962-SDA 1                                  )
+
+
+
+For the protester: Stuart Turner and Avi Baldinger, Arnold & Porter. For the District of Columbia
+Government: Talia Sassoon Cohen, Assistant Attorney General, Office of the Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud,
+Sr., and Administrative Judge Monica C. Parchment concurring.
+
+                                                     OPINION
+                                                Filing ID  44187484 
+
+        Martha’s Table, Inc. (“Martha’s Table” or “protester”) has filed a protest challenging its removal
+from the competitive range under a solicitation seeking a contractor to design and implement an in-school
+youth workforce development program to support between 250-500 at-risk youths. (AR at Ex.1a, §B.1.)
+The protester’s challenges generally concern (a) the District’s failure to evaluate the proposals in
+accordance with the law and the terms of the solicitation, and (b) the District’s failure to conduct
+meaningful discussions. (Protest 12-21, Sept. 26, 2011.) On October 17, 2011, the District filed a motion
+to dismiss the protest as either untimely or for lack of standing.
+
+         We find the protest timely and that the protester has standing. Further, the Board finds that the
+District’s Office of Contracting and Procurement (“OCP”) violated procurement law by failing to follow
+proper procedures in evaluating the proposals. This violation resulted in a materially flawed procurement
+process warranting termination of the current contract effective no later than the close of the current
+school year in June 2012. To the extent that the District seeks to procure these services for the summer
+school session of 2012 and beyond, the District shall issue a request to the eleven offerors for revised
+technical and cost proposals for the remainder of the base year and the option years. The District shall
+evaluate the revised proposals in accordance with the law and the terms of the RFP. This protest is
+sustained.
+
+                                                 BACKGROUND
+
+               On April 1, 2011, OCP issued a Request for Proposals for Solicitation No. DCCF-2011-R-3962-
+SDA 1 (“RFP”) for a contractor to design and implement a quality, year-round educational program to
+support between 250-500 at-risk youths.1 (AR at Ex. 1a.) Per the RFP, the District intended to issue a
+contract consisting of a base year with four additional option years. (AR at Ex 1a, §§ F.1-F.2.4.) The RFP
+was revised six times prior to the deadline for receipt of proposals on June 8, 2011. The revisions are as
+follows: (i) on April 14, 2011, the due date was changed from April 22, 2011, to May 4, 2011; (ii) on
+                                                            
+1
+ This solicitation follows an earlier solicitation issued in September 2010 for the same services. (See, e.g., Protest ¶
+1, Sept. 26, 2011.)
+                                                                                       Martha’s Table, Inc.
+                                                                                          CAB No. P-0896
+
+April 26, 2011, (Amendment 0001), the due date was extended to May 13, 2011; (iii) on May 9, 2011
+(Amendment 0002), the due date was extended to May 27, 2011; (iv) on May 18, 2011 (Amendment
+0003), the RFP was replaced in its entirety and the due date was extended to May 31, 2011; (v) on May
+26, 2011 (Amendment 0004), technical amendments were made to certain sections of the RFP and the due
+date was extended to June 6, 2011; and (vi) the due date was extended for the final time, via E-Sourcing
+message board, to June 8, 2011. (AR at Ex. 2.)
+
+Terms of the Solicitation
+
+      Under the Revised RFP, the District of Columbia was divided into two Service Delivery Areas
+(“SDAs”):
+             SDA 1: Wards 1, 2, 3, and 4
+             SDA 2: Wards 5, 6, 7, and 8
+
+                 (AR at Ex. 1b, § B.3.1.)
+
+        The RFP stated: “It is the intent of the District to award at least one contract for each of the
+SDAs. The District will award additional contracts based upon program needs and availability of funds.”
+(Id.) Potential offerors were to submit proposals to design and implement a year-round in-school youth
+program to provide services promoting academic achievement, successful graduation, awareness of and
+readiness for post-secondary education, career preparation, and connections to employment. (AR at Ex.
+1b, § C.1.)
+
+        The RFP further stated that the District would award a contract to the responsible offeror(s)
+whose offer(s) is most advantageous to the District (AR at Ex. 1c, § M.1.1) based upon the following
+technical evaluation criteria: (1) Price Criterion, 10 points; (2) Technical Approach, 50 points, (3)
+Technical Expertise, 30 points, (4) Past Performance, 10 points. (AR at Ex. 1c, §§ M.3.3.1 – M.3.3.4.)
+The evaluation criteria also allowed an additional 10 technical bonus points for in kind/cash match
+resources and 12 points for CBE preference, providing for a maximum 122 total points. (AR at Ex. 1c, §§
+M.3.4.1, M.3.4.2, M.5.)
+
+Ratings were to be assigned for each factor according to the scale below:
+
+Numeric Rating     Adjective         Description
+
+       0           Unacceptable      Fails to meet minimum requirements; e.g., no demonstrated capacity,
+                                     major deficiencies which are not correctable; offeror did not address
+                                     the factor.
+
+       1           Poor              Marginally meets minimum requirements; major deficiencies which
+                                     may be correctable.
+
+       2           Minimally         Marginally meets minimum requirements; minor deficiencies which
+                   Acceptable        may be correctable.
+
+       3           Acceptable        Meets requirement; no deficiencies.
+
+       4           Good              Meets requirements and exceeds some requirements; no deficiencies.
+
+
+
+
+                                                    2
+                                                                                         Martha’s Table, Inc.
+                                                                                            CAB No. P-0896
+
+       5            Excellent        Exceeds most, if not all requirements; no deficiencies.
+
+
+(AR at Ex. 1c, § M.2.)
+
+        According to the Procurement Chronology prepared by Contract Specialist, Crystal Farmer-
+Linder, the minimum solicitation requirements were contained in Sections B.3 (B.3.1, B.3.2, B.3.3),
+C.5.2, and C.5.2.1. (AR at Ex. 2.) These sections provided:
+
+        § B.3            SERVICE DELIVERY AREAS
+
+        § B.3.1          For the purpose of this RFP and the ensuing contracts the
+                         District will be divided into two Service Delivery Areas (SDAs);
+
+                         SDA District 1: Wards 1, 2, 3, and 4.
+                         SDA District 2: Wards 5, 6, 7, and 8.
+
+                         It is the intent of the District to award at least one contract for
+                         each of the SDAs. The District will award additional contracts
+                         based upon program needs and availability of funds.
+
+        § B.3.2          In order for an Offeror to be awarded a contract, the Offeror
+                         must serve the entire SDA and the Offeror must operate
+                         programming at a location within the SDA. The Offeror is not
+                         limited to serving only youth who reside within that SDA and
+                         the District reserves the right to refer eligible youth to any
+                         Offeror awarded a contract who has capacity at the time.
+
+        § B.3.3          If an Offeror submits proposals for both SDAs, and, if the
+                         Offeror is awarded a contract for each SDA, each contract shall
+                         stand alone. The awarded Offeror shall not co-mingle funds,
+                         personnel, required activities, services or any other contract
+                         requirement between the two contracts.
+
+        § C.5.2          YOUTH POPULATION
+                         The following youth population shall be targeted:
+
+        § C.5.2.1        The Offeror shall provide services to youth who are most likely
+                         to become disconnected. This represents youth who are low-
+                         income individuals, between the ages of 14 and 21, and who are
+                         currently in school (See Section C.3.12 for a definition of the
+                         term “In-School Youth”)
+
+                         (AR at Ex. 1b.)
+
+        The District has also noted that other sections of the RFP required offerors to provide services to
+students in the age range 14 to 21. (See Mot. to Dismiss 4-5, Oct. 17, 2011.) Those requirements are
+contained in Sections C.1 and C.5.2.2. (Id. at 5.) They provide:
+
+
+
+
+                                                     3
+                                                                                     Martha’s Table, Inc.
+                                                                                        CAB No. P-0896
+
+       § C.1                                    * * *
+
+                       The program must focus on drop-out prevention and intervention
+                       strategies for youth at-risk of not completing high school for a
+                       maximum of fifty (50) youths ages 14 through 21, for a
+                       minimum of ten (10) and a maximum of fifteen (15) hours per
+                       week.
+
+                                               * * *
+
+       § C.5.2.2       The population that requires services and will be eligible to
+                       participate includes youth who are:
+                       1. Age 14 to 21 years on the program start date;
+                       2. A resident of the District of Columbia
+                       3. Low income . . . , according to federal WIA eligibility
+                           guidelines;
+                       4. Demonstrate one or more of the following characteristics:
+                           a. Deficient in basic skills (8th grade level or below grade
+                               in reading or math;
+                           b. School dropout;
+                           c. A homeless, runaway, or foster child;
+                           d. Pregnant or parenting;
+                           e. An offender or youth involved in the juvenile or criminal
+                               justice system;
+                           f. A youth with disability; and
+                           g. A youth requiring additional assistance to complete an
+                               educational program to secure and hold employment.
+
+                       (AR at Ex. 1b.)
+
+The Evaluation of Proposals Chronology
+
+         Eleven offerors submitted proposals in response to the RFP by the June 8 deadline. (AR at Ex.
+2.) Between June 13 and June 17, 2011, the Technical Evaluation Panel (“Panel”), consisting of three
+members of the Department of Employment Services (“DOES”), performed independent reviews of the
+initial proposals and created a consensus panel report. (AR at Ex. 2.) According to the Procurement
+Chronology, each proposal was redacted so that the Panel could perform a blind evaluation. (AR at Ex.
+2.)
+
+        Simultaneously, the Contracting Officer (“CO”) conducted his own review and scoring of each
+proposal. (AR at Ex. 2.) The three independent scores of the panelists, the Panel’s consensus scores and
+the CO’s scores were consolidated onto a Score Sheet along with comments by the Panel and the CO.
+(AR at Ex. 2.)
+
+       During the initial evaluation of proposals, the Panel and the CO each noted the strengths and
+weaknesses of the Martha’s Table proposal. In the comments for subfactor M.3.3.2.f, the Panel stated:
+
+               The Offeror proposed a [sic] year-round activities for 35 to 40 youth
+               from Ward One ages 14-18 years old. This submission is too limited in
+               scope by not providing services to the entire SDA and not providing
+               services to 14-21 years old as required by the RFP.
+
+                                                   4
+                                                                                                   Martha’s Table, Inc.
+                                                                                                      CAB No. P-0896
+
+
+                             (AR at Ex. 2.)
+
+      The Panel awarded the protester 2 out of a possible total of 5 points for subfactor M.3.3.2.f. (AR at
+Ex. 2.) It did not discuss the age range as a factor for scoring any other subfactor of the solicitation. (See
+AR at Ex. 2.) The Panel’s comments for other subfactors were, in fact, generally more indicative of the
+following: “The Offeror has presented and addressed the basic requirement(s) within this subsection as
+prescribed by the solicitation.” (AR at Ex. 2.) The Panel awarded the protester 30 out of 50 points for
+Technical Approach. (AR at Ex. 2.)
+
+              In reviewing the same proposal, the CO noted:
+
+                             Not clear if program targets only youth in Wards 1 and 4 or if major
+                             focus is on these wards with recruitment activities planned for 2 and 3.
+                             Does not meet minimum requirement for age; excludes 19 to 21.
+
+                             (AR at Ex. 2.)
+
+This comment appeared next to every evaluation subfactor for Technical Approach. (AR at Ex. 2.) Thus,
+the CO repeatedly penalized the offeror because of the deficiency in subfactor M.3.3.2.f. and assigned a
+rating of 2 for every subfactor under Technical Approach.2 (See AR at Ex. 2.) The CO awarded the
+protester 20 out of 50 points for Technical Approach. (AR at Ex. 2.)
+
+         According to the District, proposals that “clearly demonstrated an inability to meet one or all of
+the requirements [stated in Sections B.3, C.5.2, and C.5.2.1]” were immediately removed from the
+competitive range by OCP. (AR at Ex. 2.) OCP determined that five offerors were outside the
+competitive range for failing to meet the minimum requirements set forth in Sections B.3.2, C.5.2.1, or
+B.3.3: (i) Citywide Computer Training, (ii) Job’s for America’s Graduates-DC, Inc., (iii) Ethiopian
+Community Service and Development Council, (iv) Howard University (The Learning Center), and (v)
+Priority Professional Development. (AR at Ex. 2.)
+
+        First Round Best and Final Offers (“1st BAFO”) were conducted in writing with the remaining six
+offerors, beginning July 12th and closing July 15th. (AR at Ex. 2.) The remaining “Offerors were provided
+questions regarding noted deficiencies in their original proposal submissions.” (AR at Ex. 2.) Martha’s
+Table was asked to:
+
+                             [S]pecifically address the deficiencies/weaknesses listed below:
+
+                             Technical
+                             1. Please clarify the age range of the target population for the proposed
+                                program. What methods will be utilized to target and recruit youth
+                                residing in Wards 2 and 3?
+                                (M.3.3.2.a)
+
+                                                            
+2
+  The CO and Panel each used similar approaches in evaluating proposals that were ultimately determined to be
+outside of the competitive range. They often noted flaws relating to Sections B.3.2, C.5.2.1, and B.3.3. (See AR at
+Ex. 2.) However, in the Panel’s assessment, the deficiency in subfactor M.3.3.2.f. was confined to that one
+subfactor and the deficiency did not impact scoring in other subfactors. (See AR at Ex. 2.) On the other hand, the
+CO consistently discussed the subfactor M.3.3.2.f deficiency in his analysis of multiple subfactors and, due to the
+deficiency in subfactor M.3.3.2.f., he uniformly downgraded protester’s proposal across almost all subfactors. (See
+AR at Ex. 2.)
+
+                                                                 5
+                                                                                                Martha’s Table, Inc.
+                                                                                                   CAB No. P-0896
+
+
+                             (Protest Ex. A.)
+
+        All six remaining offerors, including Martha’s Table, submitted responses to the 1st BAFO.3 (AR
+at Ex. 2.) Citing an inability to reconvene the Panel to review the BAFO proposals in time to meet the
+award deadline, the CO scored the BAFO submissions without the assistance of the Panel. (AR at Ex. 2.)
+At this time, the CO then determined that Latin American Youth Center should be excluded from the
+competitive range as “the Offeror’s proposal did not provide service to the full age range of the targeted
+youth population.” (AR at Ex. 2.)
+
+         Alluding to budgetary concerns in light of the proposed cost of services under the 1st BAFOs, the
+District decided to hold a Second Round BAFO (“2nd BAFO”) with all five remaining offerors, including
+Martha’s Table. The 2nd BAFO related to pricing only. (AR at Ex. 2.) The 2nd BAFO instructions were
+that the “District sought a per participant cost range between $2,500.00 and $4,500.00.” (AR at Ex. 2.)
+The request for 2nd BAFOs was issued July 28, 2011. (AR at Ex. 2.) During the 2nd BAFO review, OCP
+conducted further analysis and “determined that Martha’s Table should have also been excluded from the
+competitive range [for failure to provide service to the full range of the targeted youth population].” (AR
+at Ex. 2.)
+
+        At the conclusion of both BAFO rounds only four of the eleven offerors remained in the
+competitive range. (AR at Ex. 2.) On August 15, 2011, the District awarded the contract to the highest
+ranking remaining offeror, Dance Institute of Washington (“DIW”). (Mot. to Dismiss 4.)
+
+The Protest
+
+        Protester did not initially receive notice of award from the District. (Protest ¶ 39.) However, on
+August 30, 2011, protester learned that an offeror to the solicitation had filed a protest of award. (Protest
+¶ 33.) Protester requested a debriefing and, accordingly, was debriefed on September 12, 2011. (Protest
+¶¶ 33-34.) The District created a notice of award after the debriefing and sent it to protester. (Protest ¶
+39.) Following the debriefing, Martha’s Table filed its protest with this Board ten business days later on
+September 26, 2011. It asserted five grounds for protest alleging: (i) the District’s failure to conduct
+meaningful discussions or treat offerors equally during discussion; (ii) the District’s misapplication of
+evaluation criteria; (iii) unreasonable evaluation of DIW and Martha’s Table with respect to the Past
+Performance score; (iv) miscalculation of the Price Evaluation score; and (v) a fundamentally flawed
+DOES procurement process. (Protest 12-21.)
+
+                                                               DISCUSSION
+
+
+I.     BOARD JURISDICTION
+
+                                                            
+3
+  The Procurement Chronology states that seventeen of the twenty offerors responded to the request for BAFOs.
+(See AR at Ex. 2.) However, a total of only eleven offerors were ever involved in this solicitation. Notwithstanding
+this typographical error, the Board can deduce that all six remaining offerors responded to the 1st BAFO because
+other parts of the Procurement Chronology detail the determination by OCP that two offerors were not in the
+competitive range and that four offerors were included in the competitive range and ranked according to their scores.
+(See AR at Ex. 2.)
+
+
+                                                                   6
+                                                                                          Martha’s Table, Inc.
+                                                                                             CAB No. P-0896
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1) (2011).
+
+        A. Standing
+
+        The District has argued that the protester is without standing because it did not have a reasonable
+chance of award. (Mot. to Dismiss 6.) More specifically, the District argues that the protester was
+properly eliminated from the competitive range because it did not agree to provide services to youth ages
+14 through 21, a purportedly clear requirement of the contract. (See Mot. to Dismiss 5-7.)
+
+          Martha’s Table protests its removal from the competitive range and challenges the evaluation
+methodology. (See Martha’s Table Resp. to Mot. to Dismiss 4-6, Oct. 26, 2011.) Specifically, it alleges
+that its score was improperly reduced by 30 points where at best only 5 points should have been deducted.
+(Protest ¶ 15-16.) The four offerors determined to be within the competitive range did not receive similar
+deductions because they were deemed to meet the requirements of the solicitation with respect to Section
+C.5.2.1. (See AR at Ex. 2.) In fact, the awardee received a total score of 68 for its 1st BAFO; protester
+received a score of 56. (See AR at Ex.2.) Therefore, but for the CO’s deduction across multiple
+subfactors due to the deficiency in subfactor M.3.3.2.f, protester would arguably have been next in line
+for award. Indeed, by the District’s own admission, it is uncertain where protester would have ranked but
+for the CO’s evaluation methodology that resulted in 10 points less being assigned to protester than had
+been assigned by the Panel.
+
+        In addition, protester alleges that the awardee, DIW, and itself each received a score of 7 for past
+performance and past experience. However, the past performance score consisted of two subfactors
+worth 5 points each based on: (i) experience with DOES or another funder, and (ii) general past
+performance. (AR at Ex. 1c, § M.3.3.4.) Protester argues that it has significant experience working with
+DOES while the awardee does not; therefore, they should not have received similar scores for this factor.
+(Protest ¶ 58.) Again, protester challenges the integrity of the evaluation based on the number of points
+assigned to the awardee and itself for this factor. The scoring discrepancy for subfactor M.3.3.2.f along
+with the scoring discrepancy for past performance and past experience, taken together, result in the
+protester not only being next in line for award, but potentially prevailing ahead of the awardee.
+
+        This Board has long held that in order to have standing a bidder must be next in line for award in
+order to show that it has suffered, or will suffer, direct economic injury as a result of the adverse agency
+action. Scientific Games, Inc., CAB No. P-0294, 41 D.C. Reg. 3666, 3670 (Sept. 24, 1993). However,
+this Board’s protest jurisdiction turns on whether the protester has suffered, or will suffer, direct
+economic injury as a result of the adverse agency action. See M.C. Dean, Inc., CAB No. P-0528, 45 D.C.
+Reg. 8746, 8749-50 (Apr. 16, 1998). Accordingly, the Board has also held that protesters have standing
+when challenging the integrity of the manner in which offeror proposals are scored even if they are not
+next in line for award. In CUP Temporaries, Inc., CAB No. P-0474, 44 D.C. Reg. 6841, 6844 (July 3,
+1997), the Board held that “[b]ased on the final rankings of the evaluators, it is clear that the Protester is
+ranked third among the offerors on the RFP. Nevertheless, since the Protester challenges the integrity of
+the manner in which the agency officials scored all the offerors the Protester meets the standing
+requirements.”
+
+
+
+
+                                                      7
+                                                                                          Martha’s Table, Inc.
+                                                                                             CAB No. P-0896
+
+         In ACS State and Local Solutions, Inc., P-0691, 52 D.C. Reg. 4227 (Aug. 31, 2004), this Board
+considered the standing of a protester challenging an award on the basis of improper evaluation of the
+protester’s and awardee’s proposals. In that instance, the District argued that ACS lacked standing
+because it had been determined to be non-responsive during the solicitation and, therefore, could not be
+next in line for award. See id. at 4227-28. This Board held that ACS did have standing to protest because
+“its proposal was not clearly non responsive and was not treated as non-responsive by the contracting
+officer.” See id. at 4228 (holding that the protester had standing under the clearly non responsive standard
+but ultimately denying the protest on the merits). In this case, the District itself did not treat protester’s
+proposal as clearly non responsive in that it requested 1st BAFO and 2nd BAFO proposals and the protester
+was not removed from the competitive range until after the District’s receipt of the 2nd BAFO proposal.
+
+         The Board’s holding in CUP Temporaries, Inc. and ACS State and Local Solutions, Inc. is readily
+distinguishable from those instances where a protester was found to not have standing. For example, in
+St. John’s Cmty. Serv., CAB No. P-0555, 46 D.C. Reg. 8594 (Mar. 23, 1999), the protester was third in
+line for the contract. St. John’s argued that it not only challenged the awardee, but also “the entire
+procurement process as inconsistent with federal and local law.” Id. at 8596. The Board, however, found
+that “this generality cannot recast the evaluation and award challenges” of St. John’s and dismissed the
+protest. Id. Similarly, in Thomas, CAB No. P-0579, 46 D.C. 8618, 8620 (May 11, 1999), the Board found
+that where the protester challenged the integrity of the manner in which the agency officials scored all
+offerors, “[t]his general argument cannot substitute for showing how the six higher-ranked offerors were
+improperly evaluated such that Thomas would be in line for award if his protest were sustained. . . .
+Thomas has not shown any reasonable possibility of being in line for award even if his evaluation
+challenges were sustained.”
+
+        In the instant case, the protester has specifically challenged the scoring methodology due to the
+CO’s across the board application of a deficiency that is based on the requirement of a single factor.
+Protester has also challenged the past performance and past experience scores for both itself and the
+awardee. Meanwhile, the District has allegedly indicated that it does not know where protester would
+have ranked but for the CO’s evaluation methodology. In other words, the protester may have had a
+reasonable chance of award. Based on the foregoing, we find that protester’s claims are sufficient to
+show its status as an interested party with a direct economic injury as a result of the adverse agency
+action. Accordingly, protester has standing to bring this protest.
+
+        B. Timeliness
+
+        The District has argued in the alternative that this Board lacks jurisdiction because the protest is
+untimely. The District asserts that if the protester was not properly eliminated from the competitive range
+then the RFP is ambiguous with respect to the age requirement contained in Section C.5.2.1 of the RFP.
+And, therefore, under CAB Rule 302.2(a) and “pursuant to D.C. Official Code § 2-360.08(b)(1), this
+protest is untimely.” (District Reply to Matha’s Table’s Resp. to Mot. to Dismiss 4, Nov. 3, 2011
+[hereinafter District Reply].)
+
+        Under CAB Rule 302.2(a), “[a] protest based upon alleged improprieties in a solicitation which
+are apparent prior to bid opening or the time set for receipt of initial proposals shall be filed with the
+Board prior to bid opening or the time set for receipt of initial proposals.” (emphasis added.) The Board
+has held that “[a] bidder who fails to seek clarification of an ambiguity on the face of a solicitation prior
+
+                                                      8
+                                                                                              Martha’s Table, Inc.
+                                                                                                 CAB No. P-0896
+
+to bid opening risks a contrary interpretation of the allegedly ambiguous provision and is precluded from
+raising such issues to the Board after opening.” Md. Constr., Inc., CAB No. P-0650, 50 D.C. Reg. 7398,
+7399 (Jan. 17, 2002).
+
+         In its proposal, protester offered to provide services to students in the age range of 14-18,4 that is,
+students between the ages of 14 and 21, consistent with the terms of the RFP. The District, however,
+treated and understood this requirement to be wholly inclusive of the entire age range. The debriefing
+slides presented to Martha’s Table amended the express language of the requirement by stating that “the
+age range for the youth population is 14-21. Offeror’s proposal will only target youth ages 14-18, thus
+excluding youth ages 19-21.” (Protest Ex. C, at 13 (emphasis added).) For its part, protester has argued
+that the District’s “exchanges with offerors did not express the District’s current position that any
+proposal that did not explicitly propose to serve the population of active high school students ages 19-21
+would be eliminated.” (Martha’s Table’s Resp. to District’s Mot. to Dismiss 7.) Therefore, at issue is
+whether this ambiguity was “apparent” prior to bid opening.
+
+         As previously stated, an ambiguity that is apparent shall be filed with the Board prior to bid
+opening or the time set for receipt of initial proposals. CAB Rule 302.2(a). However, a contractor “is not
+normally required (absent a clear warning in the contract) to seek clarification of any and all ambiguities,
+doubts or possible differences in interpretation.” Fry Comm., Inc. v. United States, 22 Cl. Ct. 497, 509
+(1991). Thus, this Board is not time barred from reviewing “latent ambiguities in the requirements” of
+solicitations. See THL Assocs., CAB No. P-0643, 49 D.C. Reg. 3371, 3373 (Aug. 3, 2001).
+
+        It is commonly accepted that the determination of whether an ambiguity is latent is a question of
+law, the determination of which is made on a case-by-case basis. Grumman Data Sys. Corp. v. Dalton,
+88 F.3d 990, 997 (Fed. Cir. 1996) (citing Interstate Gen. Gov’t Contractors, Inc. v. Stone, 980 F.2d 1433,
+1435 (Fed. Cir. 1992)). However, we have some “guidance in making this determination.” Grumman
+Data Sys. Corp., 88 F.3d at 997. A latent ambiguity exists where “the ambiguity is ‘neither glaring nor
+substantial nor patently obvious.’” Id. (quoting Cmty. Heating & Plumbing Co. v. Kelso, 987 F.2d 1575,
+1579 (Fed. Cir. 1993)).
+
+         In Capitol Paving of D.C., Inc., CAB No. P-0736, 54 D.C. Reg. 2036, 2039 (Oct. 12, 2006), this
+Board noted that the alleged ambiguity was apparent where the heading of the solicitation cover page read
+“Page 1 through 131 Includes Sec. B thru M and attachments” while a block of the cover page referenced
+only section B through L. Accordingly, the Board held that Capitol Paving had an obligation to inquire as
+to whether there was a Section M and whether offerors were required to comply with the requirements of
+the section. See id.
+
+              Section C.5.2.1 states:
+
+                             The Offeror shall provide services to youth who are most likely to
+                             become disconnected. This represents youth who are low-income
+                             individuals, between the ages of 14 and 21, and who are currently in
+                             school.
+
+
+                                                            
+4
+ Martha’s Table has asserted that its “proposal did not exclude 19-21 year olds, but instead simply emphasized the
+age group that is typically in high school, namely 14-18 year olds.” (Protest ¶ 52.)
+
+                                                               9
+                                                                                                Martha’s Table, Inc.
+                                                                                                   CAB No. P-0896
+
+                             (AR at Ex. 1b (emphasis added).)
+
+         The District has taken the position that if the protester was not properly eliminated from the
+competitive range, then Section C.5.2.1 is ambiguous, and, as a result, this protest is untimely pursuant to
+D.C. Code § 2-360.08(b)(1). However, the Board finds that the ambiguity is at best a latent ambiguity
+that was not apparent prior to bid opening, and, therefore Section 2-360(b)(1) does not bar this protest. It
+was not clear to the protester until the time of debriefing that the District viewed Section C.5.2.1 as a
+totally inclusive requirement. The use of the word “between” in connection with an in-school youth
+program is reasonably read to detail the outer bounds of eligibility for the program. Most high school
+students are between the ages 14-18, though some may exceed that age range. The District interpreted the
+requirement to mean that proposals must indicate that services would be provided to in-school youth
+across the entire age range. We find that in the present protest, prior to bid opening, there was no patently
+obvious disagreement regarding the terms of the solicitation as in the case of Capitol Paving of D.C., Inc.
+
+          The targeted age range requirement was later clarified by the District through the rewording, “the
+age range for the youth population is 14-21.” (Protest Ex. C, at 13 (emphasis added).) However, this
+clarification was not made until debriefing, after contract award. Since the ambiguity did not become
+apparent until after the close of the solicitation, the use of the word “between” resulted in a latent
+ambiguity, not a patently obvious ambiguity in the RFP’s requirements, and thus this protest is not subject
+to D.C. Mun. Regs. tit. 27, § 302.2(a) (2002). Accordingly, the protest is timely under CAB Rule
+302.2(b).5
+
+II. EVALUATION PROCESS
+
+         The Board’s standard of review for proposal evaluations and the related selection decision is
+whether the District’s actions were reasonable, in accord with the evaluation and selection criteria
+identified in the solicitation and whether there were violations of procurement laws or regulations. See,
+Trifax Corp., CAB No. P-0539, 45 D.C. Reg. 8842, 8847 (Sept. 25, 1998); see also Health Right, Inc.,
+D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C.
+Reg. 8612, 8630 (Oct. 15, 1997). In applying this standard of review, we find that the District’s actions
+were not consistent with the evaluation and selection criteria contained in the RFP resulting in a material
+violation such that the selection decision cannot be supported based on the evidence submitted for review.
+
+        According to the Procurement Chronology, the protester was excluded from the competitive
+range because its proposal did not provide services to the full age range of targeted youth. (AR at Ex. 2.)
+And, although the District reported that it removed protester from the competitive range at some point
+after protester submitted its 1st BAFO proposal,6 the protester was not removed from the competitive
+range until late in the solicitation process, after submitting proposals in response to 1st BAFO and 2nd
+BAFO requests. In analyzing the protester’s 2nd BAFO submission, the CO noted:
+
+                                                            
+5
+ CAB Rule 302.2(b) states that “[p]rotests other than those covered in paragraph (a) shall be filed with the Board
+not later than ten (10) business days after the basis of the protest is known or should have been known, whichever is
+earlier.”
+6
+ The Procurement Chronology states that after the 1st BAFO the District realized that Martha’s Table should have
+been excluded from the competitive range. However, it was included in the 2nd BAFO request for proposals
+purportedly due to an administrative error.
+
+
+                                                                10
+                                                                                         Martha’s Table, Inc.
+                                                                                            CAB No. P-0896
+
+                No change in rating. Offeror’s BAFO proposal provides specific
+                information about recruiting efforts targeting youth in Wards 2 and 3.
+                However, the Offeror does not meet the minimum need in re age; only
+                youth 14-18.
+
+                (AR at Ex. 2.)
+
+        Upon his initial review, the CO awarded the protester a rating of 2 across all subfactors in the
+Technical Approach category. (See AR at Ex. 2.) A score of 2 represents that the proposal “marginally
+meets minimum requirements; minor deficiencies which may be correctable.” (AR at Ex. 1c, § M.2.)
+The CO also indicated: “Not clear if program targets only youth in Wards 1 and 4 or if major focus is on
+these wards with recruitment activities planned for 2 and 3. Does not meet minimum requirement for age;
+excludes 19-21.” (AR at Ex. 2.)
+
+         Although the CO’s score of 2 indicates that the response to that particular requirement contains a
+minor deficiency, by penalizing the protester in every category because of that single criterion, the minor
+deficiency became an insurmountable deficiency. As a result, the protester has argued that the District
+“grossly misapplied the evaluation criteria” and, as a result, “MT’s proposal was downgraded by 30
+points for the single weakness [failure to provide services to the entire age range under Section C.5.2.1.]”
+(Protest 15.)
+
+        We agree that the CO misapplied the evaluation criteria. In establishing the competitive range,
+the District arbitrarily identified the requirement of Section C.5.2.1 and raised its importance to the level
+of a mandatory minimum requirement. The mandatory minimum requirement was used to disqualify the
+protester even though such mandatory requirement was never communicated to the offerors either in the
+language of the solicitation or in the subsequent discussions. By failing to disclose a mandatory
+minimum requirement, the evaluation process was inconsistent with the terms of the solicitation and in
+violation of procurement law.
+
+         A mandatory minimum requirement is pass/fail in nature and may lead to the outright rejection of
+a proposal that falls short of what [it] specif[ies].” Banknote of Am., Inc. v. United States, 56 Fed. Cl.
+377, 382 (2003). The protester’s only noted deficiency at the time of exclusion from the competitive
+range was the failure to provide services to youths 19-21. (See AR at Ex. 2.) The across the board
+reduction in score in the Technical Approach category, along with the decision to exclude offerors from
+the competitive range who did not meet the requirement of Section C.5.2.1, meant that an offeror who did
+not satisfy the requirement had, in effect, no chance at award.
+
+         Accordingly, this Board must determine whether the language of the RFP contained sufficient
+notice to offerors that Section C.5.2.1 was, in fact, a mandatory minimum requirement of the solicitation.
+“[P]rocurement practice dictates that “mandatory minimum requirements must be clearly identified as
+such so as to put offerors on notice of the serious consequences of failing to meet the requirement.’”
+Urban Alliance Found., CAB Nos. P-0886, P-0887, P-0890, P-0891, P-0892, slip op. at 11 (Feb. 15,
+2012) (quoting Banknote Corp. of Am., Inc. v. United States, 56 Fed.Cl. at 382). If one factor in an
+evaluation is predominantly more important than another, this information should be disclosed to offerors.
+Isratex, Inc. v. United States, 25 Cl. Ct. 223, 230 (1992). A procuring agency should provide “fullest
+possible disclosure” of the relative importance of all evaluation factors. Id.
+
+
+                                                     11
+                                                                                         Martha’s Table, Inc.
+                                                                                            CAB No. P-0896
+
+         In Urban Alliance we considered Section C.5.2.1 with respect to the SDA 2 portion of this
+solicitation, which contains the same language as in the SDA 1 portion of the RFP. See Urban Alliance
+Found., CAB Nos. P-0886, P-0887, P-0890, P-0891, P-0892, slip op. at 4-5. We held that the “mandatory
+minimum requirements were never communicated to the offerors either in the language of the solicitation
+or in the subsequent discussions.” Id. at slip op. at 11. With respect to the language of Section C.5.2.1,
+we reaffirm that the language of Section C.5.2.1 “is not distinguishable as creating a mandatory minimum
+requirement when compared to other sections in the solicitation that are . . . not considered by the District
+to create a mandatory minimum requirement.” Id. at slip op. at 12.
+
+         Furthermore, the Board finds that at no point in its BAFO discussions with the protester did the
+District ever communicate the importance of this section as a mandatory minimum requirement. For
+example, OCP wrote:
+
+                [S]pecifically address the deficiencies/weaknesses listed below:
+
+                Technical
+                2. Please clarify the age range of the target population for the proposed
+                   program. What methods will be utilized to target and recruit youth
+                   residing in Wards 2 and 3?
+                   (M.3.3.2.a)
+
+                (Protest Ex. A.)
+
+Nothing in the language of the above-referenced provision rectifies the failure of the solicitation to give
+notice by indicating that responses to Section C.5.2.1. must include the provision of services to the full
+targeted age range of 14-21.
+
+        The Board finds that the protester was greatly prejudiced by the District’s failure to follow proper
+evaluation procedures given that the protester could have received the highest technical score of all
+offerors but for an improper evaluation process. Bidders should not have been excluded from the
+competitive range for failing to meet mandatory minimum requirements absent clear notice that failure to
+address those requirements would result in disqualification. See Urban Alliance Found., CAB Nos. P-
+0886, P-0887, P-0890, P-0891, P-0892, slip op. at 14. These findings constitute sufficient basis for
+sustaining the present protest and, as such, the Board finds it unnecessary to address any other allegation
+by the protester.
+
+Conclusion
+
+        Because the District violated procurement law in evaluating the proposals, the award to DIW was
+unreasonable. The Board hereby directs the District to terminate the contract awarded under this RFP
+effective no later than the close of the current school year in June 2012. To the extent that the District
+seeks to procure these services for the summer school session of 2012 and beyond, the District shall issue
+a request to the eleven offerors for revised technical and cost proposals for the remainder of the base year
+and the option years. The District shall evaluate the revised proposals in accordance with the law and the
+terms of the RFP. The protest is sustained.
+
+
+
+
+                                                     12
+                                                                    Martha’s Table, Inc.
+                                                                       CAB No. P-0896
+
+SO ORDERED.
+
+DATED: May 10, 2012                          /s/ Maxine E. McBean
+                                             MAXINE E. MCBEAN
+                                             Administrative Judge
+
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+/s/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+
+Electronic Service:
+
+
+
+Stuart Turner, Esq.
+Avi Baldinger, Esq.
+Arnold & Porter
+555 12th Street, NW
+Washington, DC 20004
+
+Talia S. Cohen, Esq.,
+Janice N. Skipper, Esq.,
+Howard Schwartz, Esq.,
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+
+
+
+
+                                        13
+

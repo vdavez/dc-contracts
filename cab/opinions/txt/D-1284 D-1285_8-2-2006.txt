@@ -1,0 +1,185 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+APPEALS OF:
+
+DOXA, INC.                                 )
+                                           )
+Under Contracts regarding                  )          CAB Nos. D-1284 and D-1285
+D.C. PSC Formal Case Nos. 766, 945,        )
+982, 991, 1002, 1009, 1017, 1023, and 1026 )
+
+
+For the Appellant DOXA, Inc.: Mr. Karl Richard Pavlovic, pro se. For the District of Columbia
+Office of People’s Counsel: Barbara L. Burton, Esq., Assistant People’s Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+
+                                            OPINION
+                                    LexisNexis Filing ID 11960520
+
+         Appellant DOXA, Inc., performed consulting services for the District of Columbia Office of
+People’s Counsel relating to various cases before the District of Columbia Public Service
+Commission. Under the contracts between DOXA and the Office of People’s Counsel, DOXA was
+to perform its consulting services and invoice People’s Counsel for its work. People’s Counsel was
+to pay DOXA on a monthly basis. People’s Counsel paid the principal amounts of the invoices but
+at least some of the payments were paid later than stipulated in their contracts. DOXA seeks interest
+penalties for those late payments pursuant to the Quick Payment Act (“QPA”), D.C. Code §§ 2-
+221.01 to 2-221.06 (2001), but People’s Counsel refused to pay interest penalties. DOXA appealed
+the denial of its claim for interest penalties. People’s Counsel has filed a motion to dismiss,
+contending that the Office of People’s Counsel is not subject to the Quick Payment Act or the
+Procurement Practices Act. We agree with People’s Counsel that the Quick Payment Act does not
+apply to it because it enjoys the same exemption as the Public Service Commission. For the same
+reason, People’s Counsel, like the Public Service Commission, is not subject to the Procurement
+Practices Act because of the specific exemptions found at D.C. Code §§ 2-301.04 and 2-303.20(l).
+Accordingly, we dismiss the appeals.
+
+                                         BACKGROUND
+
+        DOXA performed consulting services for the Office of People’s Counsel relating to Public
+Service Commission Formal Case Nos. 766, 945, 982, 991, 1002, 1009, 1017, 1023, and 1026 before
+the Public Service Commission from 1999 through 2005. DOXA payment invoices submitted to the
+Office of People’s Counsel were paid, although many payments were made more than 30 days after
+the invoice date. In September 2005, DOXA submitted claims to the People’s Counsel for interest
+penalties pursuant to the Quick Payment Act on the invoices which were paid late. People’s Counsel
+                                                -2-                  DOXA, Inc., CAB Nos. D-1284, D-1285
+
+
+
+made no decision respecting the QPA claims, and on December 23, 2005, DOXA filed notices of
+appeal with the Board based on the People’s Counsel’s deemed denials of its claims. In CAB No. D-
+1284, DOXA claims QPA interest penalties of $2,482.27 and interest upon unpaid interest penalties
+of $49.48, and in CAB No. D-1285, DOXA claims QPA interest penalties of $35,117.55 and interest
+upon unpaid interest penalties of $2,584.64. People’s Counsel filed motions to dismiss in each of
+the cases and the Board has heard the arguments of the parties during status conferences.
+
+                                          DISCUSSION
+
+        DOXA’s claims for penalty interest are based upon D.C. Code § 2-221.04(a) which provides
+in relevant part:
+
+       (a)(1) Claims for interest penalties which a District agency has failed to pay in
+       accordance with the requirements of §§ 2-221.02 and 2-221.03 shall be filed with the
+       contracting officer for a decision. Interest penalties under this subchapter shall not
+       continue to accrue: (A) after the filing of an appeal for the penalties with the
+       Contract Appeals Board; or (B) for more than one year.
+
+       (2) The contracting officer shall issue a decision within 60 days from the receipt of
+       any claim submitted under this subchapter.
+
+       (3) Within 90 days from the receipt of a decision of the contracting officer, the
+       contractor may appeal the decision to the Contract Appeals Board.
+
+       (4) The contractor shall file a claim for interest penalties and any amendments to
+       such claim within 90 days after the principal is paid . . . .
+
+The term “District agency” as used in section 2-221.04(a)(1), is defined in the “Definitions” section
+of the QPA, D.C. Code § 2-221.01, as follows:
+
+       (3) “District agency” means any office, department, division, board, commission, or
+       other agency of the District government, including, unless otherwise provided, an
+       independent agency, required by law or by the Mayor or the Council to administer
+       any law or any rule adopted under the authority of a law. For the purposes of this
+       definition, the term “independent agency” means any agency of government not
+       subject to the administrative control of the Mayor and includes, but is not limited to,
+       the Superior Court of the District of Columbia, District of Columbia Court of
+       Appeals, Council of the District of Columbia, Board of Elections and Ethics, Armory
+       Board, Zoning Commission, Convention Center Board of Directors, District of
+       Columbia Board of Education, and Public Service Commission.
+
+This definition of “District agency” includes both dependent agencies – i.e., those under the direct
+administrative control of the Mayor – as well as independent agencies which are not subject to the
+direct administrative control of the Mayor. The Public Service Commission is specifically listed as
+an independent agency.
+                                                -3-                   DOXA, Inc., CAB Nos. D-1284, D-1285
+
+
+
+
+        Section 2-221.02, referenced above in section 2-221.04, establishes which District agencies
+are required to pay QPA interest penalties, identifies how to compute the interest penalty amounts,
+and authorizes rules and regulations to be issued by the Mayor for agencies under the Mayor’s direct
+control. This section provides in relevant part (emphasis added):
+
+       (a)(1) In accordance with rules and regulations issued by the Mayor of the District
+       of Columbia (“Mayor”), each agency of the District of Columbia government
+       (“District”), under the direct control of the Mayor, which acquires property or
+       services from a business concern but which does not make payment for each
+       complete delivered item of property or service by the required payment date shall
+       pay an interest penalty to the business concern in accordance with this section on the
+       amount of the payment which is due.
+
+We believe that this subsection make agencies under the direct control of the Mayor subject to QPA
+interest penalties. Although independent agencies are included in the section 2-221.01(3) definition
+of “District agency”, there is no clear manifestation here that the Council intended to make all
+independent agencies subject to the QPA interest penalties, particularly those that are exempt from
+the Procurement Practices Act. Section 2-221.02(b)(1A) states: “Each contract executed pursuant
+to Chapter 3 of Title 2 shall include in the solicitation a description of the contractor’s rights and
+responsibilities under the chapter.” The reference to Chapter 3 of Title 2 must be a reference to the
+Procurement Practices Act, which is found at Unit A of Chapter 3 of Title 2 of the D.C. Code. Thus,
+contracts executed pursuant to the PPA are subject to the QPA and must include a clause describing
+the QPA requirements and the contractor’s rights and responsibilities under the QPA.
+
+        The Mayor’s regulations implementing the QPA, 1 DCMR § 1700, support this
+interpretation. Section 1700.2 states:
+
+       Pursuant to section 3 of the [QPA], these rules shall apply to any office, department,
+       division, board, commission or other agency of the District other than an independent
+       agency required either by law, the Mayor or the Council of the District of Columbia
+       (Council), to administer any law or any rule adopted under the authority of a law.
+
+        To complete the analysis, we look to see whether People’s Counsel is subject to the PPA.
+The coverage of the PPA is set forth in D.C. Code § 2-301.04 (“Application of Chapter”), which
+states:
+
+       (a) Except as provided in § 2-2-303.20, this chapter shall apply to all departments,
+       agencies, instrumentalities, and employees of the District government, including
+       agencies which are subordinate to the Mayor, independent agencies, boards, and
+       commissions, but excluding the Council of the District of Columbia, [and] District of
+       Columbia courts . . . .
+
+The referenced section 2-303.20, entitled “Exemptions” provides in relevant part that:
+                                              -4-                  DOXA, Inc., CAB Nos. D-1284, D-1285
+
+
+
+       (l) Nothing in this chapter shall affect the authority of the District of Columbia
+       Public Service Commission pursuant to Chapter 8 of Title 34.
+
+Thus, the Public Service Commission is not covered by the PPA. A review of Chapter 8 of Title 34
+reveals that the Office of People’s Counsel is created within the Public Service Commission:
+
+       There is hereby established within the Public Service Commission of the District of
+       Columbia, established by § 34-801, an office to be known as the Office of the
+       People’s Counsel. The Office shall be a party, as of right, in any investigation,
+       valuation, revaluation, or proceeding of any nature by the Public Service
+       Commission of or concerning any public utility operating in the District of
+       Columbia.
+
+D.C. Code § 34-804(a). Because the Office of People’s Counsel is created within the Public Service
+Commission, the Council must have intended that its exemption of the Public Service Commission
+from the PPA also included the Office of People’s Counsel. Since both the Public Service
+Commission and the Office of People’s Counsel are exempt from the PPA, and they are both
+independent agencies not subject to the direct administrative control of the Mayor, the conclusion
+follows that neither is subject to the QPA.
+
+       In sum, we conclude that the Office of People’s Counsel is not subject to the Quick Payment
+Act and we must dismiss the appeals.
+
+       SO ORDERED.
+
+DATED: August 2, 2006                               /s/ Jonathan D. Zischkau
+                                                    JONATHAN D. ZISCHKAU
+                                                    Chief Administrative Judge
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

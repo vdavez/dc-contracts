@@ -1,0 +1,255 @@
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+KIDD INTERNATIONAL HOME CARE, INC.                              )
+                                                                ) CAB No. P-0760
+Under RFP No. DCKV-2007-R-0001                                  )
+
+       For the Protester, Kidd International Home Care, Inc.: Kiyo D. Oden, Esq., The Oden Firm,
+P.C. For the District of Columbia Government: Howard Schwartz, Esq., Senior Assistant Attorney
+General, and Talia S. Cohen, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                              OPINION
+                                           Filing ID 16574962
+
+
+       Kidd International Home Care, Inc., protests the District’s award of a contract to Industrial
+Bank to perform ticket payment, lockbox, and secondary ticket collection services for the
+Department of Motor Vehicles (“DMV”). Kidd International contends that the contracting officer
+(1) misled it during its discussions regarding changes in key personnel, (2) failed to properly
+evaluate Industrial Bank’s proposal for price realism, and (3) improperly evaluated and scored the
+proposals relating to debt collection strategy and past performance. We conclude that the
+contracting officer’s evaluation and selection did not violate the terms of the solicitation or District
+law. Accordingly, we deny the protest.
+
+                                          BACKGROUND
+
+       On July 28, 2006, OCP issued RFP No. DCKV-2007-R-0001 (“RFP”), on behalf of the
+Department of Motor Vehicles, to procure the services of a contractor to provide ticket payment,
+lockbox, and secondary ticket collection services for a base period of two years, with three one-year
+option periods. (Agency Report (“AR”) Ex. 1 and Ex. 8, § 4.1). Section C.2.1 of the RFP (AR Ex.
+1) provides:
+
+       The District requires this contract in order to support the ability of customers to mail
+       payments for photo enforcement, parking and moving [violation] tickets issued
+       within the District, and to support the ability of customers to pay tickets pursuant to
+       secondary collection activity. The mail payments lockbox function includes the
+       receipt, processing and deposit of payments, and transmission of payment data to the
+       ticket system. The secondary ticket collection function includes the design and
+       pursuit of a collection strategy for tickets that have been assigned for secondary
+       collections, customer service pursuant to incoming correspondence and phone calls,
+       and transmission of payment data to the ticket system. A ticket system and ancillary
+       support services including primary noticing, mailing and back-office processing, is
+       being separately solicited.
+                                                 -2-      Kidd International Home Care, CAB No. P-0760
+
+
+       With regard to pricing, section C.2.6 of the RFP provides:
+
+       Contract pricing shall consist of a fixed price per payment processed and updated by
+       the lockbox, and a contingency fee based as a percentage of the amount collected for
+       secondary collections, with certain fee eligibility exclusions.
+
+        Between July 28, 2006, and October 6, 2006, OCP issued six amendments. (AR Ex. 2, Ex 8,
+§ 4.2). Section M of the RFP identifies four general evaluation criteria and maximum points for
+each: Technical Approach (40 points) consisting of a work plan (10 points), management plan (10
+points), quality assurance plan (10 points), and responsiveness to the stated requirements (10 points);
+Experience and Past Performance (15 points), consisting of past experience in providing lockbox
+and collection services (10 points) and quality of references (5 points); Quality and Retention of
+Personnel (15 points), consisting of experience managing high volume, production oriented lockbox
+and collection services at the scale described in the RFP (5 points), ability to retain employees (5
+points), and project management experience of key personnel (5 points); and Price (30 points).
+
+        The RFP closed on October 13, 2006, with four offerors responding: Industrial Bank, Kidd
+International, and two other contractors who were later determined not to be within the competitive
+range. A technical evaluation panel (“TEP”) was assigned to review, evaluate, and score the
+technical proposals. On November 14, 2006, the TEP submitted to the contracting officer a report of
+its technical evaluation of the initial proposals, containing scoring of proposals pursuant to the RFP
+evaluation criteria and detailed comments of the relative strengths and weaknesses of the proposals.
+(AR Ex. 5, Ex. 8, § 5.2). The TEP’s consensus technical score for Kidd International was 36 points
+while Industrial Bank’s was 32 points. The four point difference resulted from Kidd receiving 20
+points for technical approach while Industrial Bank received 16 points. The total scores for
+experience and past performance and quality and retention of personnel were the same for the two
+proposals. (AR Ex. 8, § 5.3). The contracting officer’s initial evaluation of the proposals resulted in
+scoring of 40 points for Kidd and 36 points for Industrial Bank, reflecting a similar 4 point
+differential based on technical approach favoring Kidd. (AR Ex. 8).
+
+        The contracting agency prepared a detailed list of questions for Kidd and a separate list of
+questions for Industrial Bank on January 10, 2007, in preparation for discussions held by the
+contracting officer with the offerors on January 12, 2007. (AR Ex. 4; Ex. 8, § 13.2). As a result of
+the discussions, the contracting officer requested best and final offers (“BAFOs”) including
+responses to the written questions with submissions due on January 22, 2007. (AR Ex. 8, § 13.4).
+Both offerors responded with BAFOs and they were evaluated by the TEP which issued an
+evaluation report dated January 30, 2007. (AR Ex. 5, Ex. 8, § 13.6). The TEP advised the
+contracting officer that because of a substantial strengthening in Industrial Bank’s work plan,
+management plan, and quality assurance plan, as well as an overall strengthening of its
+responsiveness to the RFP requirements, the TEP increased its score of Industrial Bank to 41 points,
+an increase of 9 points. On the other hand, the TEP evaluation of Kidd International resulted in its
+score rising by only one point to a new consensus score of 37 points, reflecting a one point increase
+under the project management experience of key personnel subfactor. (AR Ex. 5).
+
+       The contracting officer had price analysts evaluate the cost and pricing of each of the
+                                                 -3-      Kidd International Home Care, CAB No. P-0760
+
+
+proposals. The first price analysis report, dated December 1, 2006, indicates a number of cost and
+pricing issues in both proposals. The contracting agency sought clarification from the offerors in the
+written questions and oral discussions. (AR Ex. 3). Following the BAFOs which incorporated the
+written responses, another price analysis was conducted resulting in a price analysis report dated
+January 30, 2007, analyzing the cost and pricing data of Kidd International and Industrial Bank.
+(AR Ex. 6.). In this second price analysis report, the analyst indicates that Kidd International had an
+unexplained “gap” of $1,627,119 (Kidd’s costs did not support its BAFO price of $18,727,509), and
+that Kidd had an excessive profit of 27 percent. (AR Ex. 6, at 8, 12).
+
+         As a result of the price analysis report, the contracting officer requested a second round of
+BAFOs to address price issues, with responses due on February 9, 2007. In the second round of
+BAFOs, Kidd’s revised offer was $16,717,244, while Industrial Bank (which did not submit a
+revised offer) held its price to $15,647,607. The contracting officer’s independent assessment of the
+(1) technical proposals, (2) BAFOs, (3) TEP evaluations, and (4) prices resulted in the following
+total technical and price scores: Kidd received 77 points, and Industrial Bank received 80 points.
+(AR Ex. 8, §13.7). In the Business Clearance Memorandum (AR Ex. 8, §13.8.1), the contracting
+officer states:
+
+       In spite of the offerors’ similarities in capabilities, Industrial Bank provided a
+       proposal that met the requirements of the RFP with a price of approximately 5%
+       lower than the next lowest offeror. The merits of each are summarized below:
+
+       A. Industrial Bank, NA processes approximately two (2) million checks per year is
+       about twice the volume required under this contract and two (2) million now
+       managed through lockbox services. Industrial offers the ability for customers to pay
+       tickets at any Industrial Bank site, a value added feature. Also, the bank transition to
+       the Check-21 environment four (4) years prior to the Check-21 legislative mandate,
+       minimizing potential check imaging issues.
+
+       B. Kidd International Home Care, Inc. ranked second, brings the experience of ACS
+       State and Local Solutions as a subcontractor. ACS is the current prime contractor
+       providing lockbox and collection services of which Kidd International is a
+       subcontractor.
+
+        By Determination and Finding for Price Reasonableness dated March 16, 2007, the
+contracting officer determined Industrial Bank’s prices to be reasonable. (AR Ex. 9). By
+Determination and Finding for Contractor Responsibility dated March 15, 2007, the contracting
+officer determined Industrial Bank to be a responsible contractor. Accordingly, after Council
+approval, on June 13, 2007, the contracting officer awarded Industrial Bank contract number
+DCKV-2007-C-0001. (AR Ex. 10). On June 28, 2007, OCP held a procurement debriefing for
+Kidd. On July 13, 2007, Kidd filed its protest.
+                                                  -4-      Kidd International Home Care, CAB No. P-0760
+
+
+
+
+                                            DISCUSSION
+
+        We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        Kidd International first argues that it was “unreasonably misled” by OCP during its contract
+discussions “to believe that certain changes should be made in its personnel proposal to increase its
+chances of receiving the contract award although the agency had no real intent to do anything but
+downgrade Kidd’s personnel proposal regardless of any changes which it later made in its BAFO
+responses.” (Protest, at 6). First, the record simply does not support the allegation that “the agency
+had no real intent to do anything but downgrade Kidd’s personnel proposal . . . .” On the contrary,
+the contracting agency had identified as a weakness in Kidd’s proposal that the proposed manager
+for collection strategy would commit 50 percent of her time to the contract but this same person was
+identified in another District contract as devoting 100 percent of her time to the other contract. In its
+BAFO, Kidd replaced this proposed manager with another who would be dedicated full time to the
+contract. The TEP did not downgrade Kidd for this change but rather increased its score from 2
+points to 3 points. We find no merit in this protest ground.
+
+        Next, Kidd alleges that the contracting officer failed to properly evaluate the reasonableness
+of Industrial Bank’s proposed costs, did not perform a price realism analysis, and improperly
+downgraded Kidd’s proposal based upon a $1 million price decrease from its first to its second
+BAFO. Kidd cites 27 DCMR §§ 1614.2 and 1618.2, the latter of which provides that the contracting
+officer “shall evaluate the cost estimate or price, not only to determine whether it is reasonable, but
+also to determine the offeror’s understanding of the work and ability to perform the contract.” More
+particularly, Kidd states that it “strains credulity” to believe that Industrial Bank could perform the
+contract at a lower price than Kidd when Kidd had substantial experience working on the existing
+contract with the incumbent contractor.
+
+        We have carefully reviewed the three cost and price analyses prepared by the contracting
+agency and the determination and findings for contractor responsibility and conclude that the record
+does not support finding that the contracting officer violated District procurement law or regulation.
+ The contracting officer had detailed cost and pricing analyses prepared and this data was considered
+in the evaluation of the proposals and in the selection decision. The determination for price
+reasonableness indicates that Industrial Bank’s $0.69 unit price for lockbox services is lower than
+Kidd’s $0.85 price but nearly matches the $0.68 unit price in the incumbent contract. Meanwhile,
+the percentage of collection price of Industrial Bank (19.9 percent) is nearly identical to that of Kidd
+International (19.8 percent). Although Kidd claims that the contracting officer unreasonably
+downgraded its second BAFO due to a price reduction, there is no support in the record for that
+assertion. The contracting officer agreed with the TEP that Kidd’s technical score increased by one
+point from its initial proposal to its BAFOs. There was no downgrade in its technical evaluation
+from its first to second BAFO. In sum, we discern no basis for sustaining the protest on the
+reasonableness of Industrial Bank’s pricing or responsibility.
+
+        For its third ground of protest, Kidd alleges that the contracting officer unequally evaluated
+the technical proposals in that Industrial Bank’s outgoing call plan for collecting debts was more
+                                                -5-      Kidd International Home Care, CAB No. P-0760
+
+
+favorable than Kidd’s plan. Industrial Bank proposed making the outgoing telephone calls for
+secondary debt collections at an earlier point in the collections cycle than proposed by Kidd. Kidd
+argues that because any plan for telephone calls made to collect District debts must first be approved
+by the Mayor, “it would have been speculative for OCP to presume that either outgoing call
+approach . . . was better than the other because only the Mayor can ultimately make that
+determination.” (Protest, at 13). The District responds that it is aware of no legal authority for
+Kidd’s contention that the Mayor must approve the outgoing call plans. Even if there were a
+required Mayoral approval, we see no basis for concluding that differences between the call plans
+could not be considered in evaluating the strengths and weaknesses of the proposals under the RFP’s
+evaluation criteria. The TEP found that Kidd’s proposal provided incomplete information regarding
+the commitment of resources and phone collection strategy. While Kidd provided some additional
+information in its BAFO, the overall evaluation did not change. In contrast, the evaluators found
+that Industrial Bank had proposed a “robust” telephone collections strategy with supporting statistics
+from other contracts. We find no basis for sustaining the third protest ground.
+
+        In its fourth basis for protest, Kidd contends that OCP gave no meaningful consideration to
+its “extensive experience under the incumbent contract.” (Protest, at 14). Kidd states that its
+experience was “arbitrarily ignored by the agency by effectively opting to award the contract to
+Industrial Bank having no comparable levels of experience . . . .” (Id.).
+
+         In her Business Clearance Memorandum, the contracting officer clearly indicates that Kidd’s
+experience was considered a strength. Indeed, of the 6 strengths listed, 5 directly relate to Kidd’s
+experience under the incumbent contract. For example, the first two strengths are as follows:
+“[Kidd] is teaming with entities that are experienced in ticket processing and collections. Kidd, DCI
+and ACS are already performing on the District's ticket processing and collections contract. . . . A
+relatively painless transition would be likely. Lockbox, call center and collection noticing
+procedures are already established and fully tested.” (AR Ex. 8, BCM at 11). Further, in her source
+selection determination, quoted infra, the contracting officer noted that Kidd would bring the
+experience of performing on the incumbent contract. (AR Ex. 8, § 13.8.1). We conclude from the
+record that the contracting officer and the TEP were well aware of and did consider Kidd’s
+experience on the incumbent contract. The record also indicates that Industrial Bank had
+considerable relevant experience. We are unable to conclude that the contracting officer’s
+evaluation and scoring were unreasonable or arbitrary. In sum, we discern no violation of the law or
+the terms of the RFP in the evaluation and scoring of the experience and past performance criterion.
+In its comments on the Agency Report, Kidd raises additional grounds for protest in its discussion of
+the past performance issues (see Comments on Agency Report, at 6-7), but we find no merit in these
+additional allegations.
+
+                                          CONCLUSION
+
+        Based on the protest record, we conclude that the contracting officer violated neither the law
+nor the terms of the RFP in her evaluation of proposals and in the selection of Industrial Bank for
+award. Accordingly, we deny Kidd International’s protest.
+                         -6-     Kidd International Home Care, CAB No. P-0760
+
+
+
+
+      SO ORDERED.
+
+DATED: October 5, 2007         /s/ Jonathan D. Zischkau
+                               JONATHAN D. ZISCHKAU
+                               Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

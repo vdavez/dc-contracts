@@ -1,0 +1,144 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+
+       THL ASSOCIATES                                  )
+                                                       )       CAB No. P-643
+       Under IFB No. POHA-2001-B-005                   )
+
+
+       For THL Associates: Raymond Fioravanti, Esq., Daniel B. Abrahams, Esq., Epstein, Becker &
+Green, P.C. For the Government: Howard Schwartz, Esq., Warren J. Nash, Esq., Assistants
+Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Matthew S. Watson, concurring.
+
+                                              OPINION
+
+        THL Associates (“THL”) protests the award of a contract to J&K Distributors, Inc. of
+Washington, D.C. (“J&K”) for the preparation and delivery of hot and cold meals to institutional child
+care centers. THL alleges that the solicitation failed to provide quantity and quality criteria for certain
+adult meals which were added through solicitation amendments. We conclude that the solicitation as
+amended made all meals, both those for children and adults, subject to the USDA meal criteria set forth
+in 7 C.F.R. § 226.20. If THL was not clear on the meal requirements for adult meals, it should have
+brought the matter to the attention of the contracting officer prior to bid opening, and if not satisfied
+with the response, protested prior to bid opening. Because THL filed its protest long after bid opening,
+we dismiss the protest as untimely.
+
+                                          BACKGROUND
+
+       On February 20, 2001, the Office of Contracting and Procurement (“OCP”) issued IFB No.
+POHA-2001-B-005 in the small business set-aside market for the preparation and delivery of hot and
+cold meals to institutional child care centers owned and operated by the Department of Parks and
+Recreation. (Agency Report (“AR”) Ex. 1, Section C.2). The solicitation states that it is necessary to
+have food catered to the child care centers because the facilities are not equipped to meet health and
+safety standards for on-site food preparation. (AR, Ex. 1, Section C.2). Section C.1.1, entitled
+“Applicable Documents,” specifies the regulation at 7 C.F.R. Part 226 for the “Child Care Food
+Program and USDA, Required Meals Pattern.” Section C.3 provides in pertinent part:
+
+       The contractor shall provide all labor, supplies, and equipment necessary to prepare and
+       deliver and estimated 1,261 hot or cold meals and snacks daily to the Department of
+       Parks and Recreation daycare and after care sites. The contractor shall perform the
+       following general tasks to satisfy the requirements above:
+                                                     -2-                     THL Associates, CAB No. P-643
+
+
+
+
+               C.3.1 The contractor shall plan and develop menus and menu cycles
+                     approved by the District for children between the ages of 2
+                     through 18 years old in accordance with the Child Care Food
+                     Program and the USDA, Required Meals Patterns, 7 CFR Part
+                     226.
+
+               C.3.2 The menus shall be planned per the USDA approved cycle and
+                     developed in the format which incorporates the meal type, food
+                     components, meal portions and meal patterns and variety for
+                     children ages 2 through 18 years old according to the sample meal
+                     menu herein (see Attachment J.9). The menu must change every
+                     eleven (11) calendar days.
+
+               ....
+
+       The Department of Agriculture, in 7 C.F.R. § 226.20 (c), lists meal patterns consisting of food
+components for children through age 12 and adult participants, covering breakfast, lunch, supper, and
+snack. (AR, Ex. 2).
+
+        The contracting officer issued three amendments to the solicitation. Amendment Nos. 2 and 3
+are relevant. On March 21, 2001, the contracting officer issued Amendment No. 2 which added to the
+Section C.3 preamble the following: “An additional 100 adult size hot meals shall be delivered to the
+daycare sites.” The amendment also added to the definition of “Luncheon” in Section C.1.2.7, the
+following: “To include additional meal portions for adults according to the USDA serving size.” (AR,
+Ex. 1). Amendment No. 3, issued on March 22, 2001, replaced the solicitation’s pricing schedules so
+that they included contract line items for the adult meals.
+
+        Three bidders, THL Associates, J&K Distributor, Inc., and Hood Institutional Foods, Inc.,
+submitted bids by the due date of April 2, 2001. (AR at 3; Ex. 3). J&K was the low bidder with a total
+price for the base year and four option years of $6,434,481.72. THL’s total bid price was
+$6,670,723.88. (AR, Exs. 3 and 4). The pricing summaries shows that THL’s price for adult meals
+(ranging from $5.50 to $6.16 each) was more than twice that of J&K’s (ranging from $2.30 to $2.54
+each), which in the aggregate made THL’s adult meal price more than $400,000 greater than J&K’s.
+(AR, Ex. 3). J&K’s adult meal prices were generally only about five cents greater than the prices it bid
+for the children’s menu whereas THL’s adult meal prices were about twice that of its children’s menu.
+
+       On June 11, 2001, the contracting agency advised THL of its intent to award the contract to
+J&K. On June 25, 2001, THL filed its protest, arguing that there was not a level playing field in that
+the adult meal offered by J&K was of considerably lower quantity and quality than that which was
+offered by THL. Alternatively, THL contends that the solicitation contained a latent ambiguity
+concerning the requirements for the adult meal. On July 10, 2001, the District’s CPO issued a notice to
+proceed with contract award to J&K notwithstanding pendency of the protest. The Board sustained that
+determination over a challenge from THL.
+
+       On July 16, 2001, the District filed its response to the protest, contending that the protest should
+                                                     -3-                    THL Associates, CAB No. P-643
+
+
+be either dismissed as untimely because the protest raises solicitation improprieties or denied on the
+merits because the solicitation clearly defined the requirements for adult meals. In its comments on the
+District’s Motion to Dismiss/Agency Report, THL argues that the adult meals bid by THL were
+consistent with the meals it had been providing to the District under the predecessor contract. THL
+concedes that J&K’s adult meals meet the minimum meal requirements set forth in 7 C.F.R. § 226.20.
+Nevertheless, THL argues that the solicitation as amended did not incorporate the requirements of 7
+C.F.R. § 226.20 for adult meals.
+
+                                            DISCUSSION
+
+       We exercise protest jurisdiction pursuant to D.C. Code § 1-1189.3(a)(1).
+
+        Sections C.1.1 and C.3 of the original solicitation clearly incorporated the meal requirements set
+forth in 7 C.F.R. § 226.20 for the meals that were being solicited. The additions to Sections C.1.2.7 and
+C.3 cannot reasonably be read with the remaining portions of the original solicitation as excluding adult
+meals from the only specified criteria for meals found in the solicitation, namely, 7 C.F.R. § 226.20. If
+THL was not certain of the requirements for adult meals, it had an obligation to raise the issue before
+the bid opening time. We see no latent ambiguity in the requirements for adult meals. See Grumman
+Data Systems Corp. v. Dalton, 88 F.3d 990, 997-98 (Fed. Cir. 1996).
+
+       THL’s protest is untimely because solicitation improprieties which are apparent prior to bid
+opening must be protested prior to bid opening. D.C. Code § 1-1189.8(b)(1).
+
+       SO ORDERED.
+
+
+DATED: August 3, 2001                                        /s/
+                                                       JONATHAN D. ZISCHKAU
+                                                       Administrative Judge
+
+CONCURRING:
+
+
+
+       /s/
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+
+      /s/
+MATTHEW S. WATSON
+Administrative Judge
+

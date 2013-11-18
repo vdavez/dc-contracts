@@ -1,0 +1,183 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+       Arrow Construction Co., LLC/                             )
+       W.M. Schlosser Co., Inc., Joint Venture                  )
+       1111 Good Hope Road, S.E.                                )
+       Washington, D.C. 20020                                   )   CAB No. P-0692
+                                                                )
+       Under Solicitation No. GAGA-2004-1-0131                  )
+       District of Columbia Public Schools                      )
+
+       For the Protester: Michael J. Cohen, Esq. For District of Columbia Public
+Schools: Erika L. Pierson, Esq., Attorney Advisor.
+
+       Opinion by Administrative Judge Warren J. Nash with Chief Administrative
+Judge Jonathan D. Zischkau and Administrative Judge Matthew Watson, concurring.
+
+                                OPINION AND ORDER
+                                Lexis-Nexis Filing ID 4337999
+
+        Arrow Construction Co., LLC/W.M. Schlosser Co., Inc., Joint Venture
+(“Arrow/Schlosser JV”) filed a protest on July 16, 2004, requesting that the District reject
+the bid of Washington Sprinkler Co./Tompkins Builders Joint Venture
+(“Washington/Tompkins JV”) for Solicitation No. GAGA-2004-1-0131, the
+modernization of J.P. Sousa Middle School, and award the contract to the
+Arrow/Schlosser JV. On August 18, 2004, the District of Columbia Public Schools
+(“DCPS”) filed a “Dispositive Motion in Lieu of Answer” asserting that the protest failed
+to state a claim. On the same date, DCPS attempted to file with the Board a request that
+the Board allow DCPS to proceed with performance while the protest is pending. D.C.
+Code § 2-309.08 (a)(c)(1) and (2) provide as follows:
+
+           (c) (1) Within one business day of receipt of the protest, the Contract
+       Appeals Board shall notify the contracting officer that the protest has been
+       filed. Except as provided in this chapter, no contract may be awarded in
+       any procurement after the contracting officer has received this notice and
+       while the protest is pending. If an award has already been made but the
+       contracting officer receives this notice within 11 business days after the
+       date of award, the contracting officer shall immediately direct the awardee
+       to cease performance under the contract and to suspend any related
+       activities that may result in additional obligations being incurred by the
+       District under that contract. Except as provided in this chapter,
+       performance and related activities suspended pursuant to this section may
+       not be resumed while the protest is pending.
+                                             -2-           Arrow/Schlosser JV, CAB No. P-0692
+
+
+             (2) Performance under a protested procurement may proceed, or
+       award may be made, while a protest is pending only if the CPO makes a
+       written determination, supported by substantial evidence, that urgent and
+       compelling circumstances that significantly affect interests of the District
+       will not permit waiting for the decision of the Board concerning the
+       protest. A copy of the determination shall be provided within one business
+       day of issuance to both the Board and the protester.
+See also Board Rule 304, Automatic Stay, 49 D.C. Reg. 2115 (Mar. 8, 2002).
+
+        The Board reviewed the DCPS request to proceed and noted that the request did
+not appear to be supported by substantial evidence. The Contracting Officer, Glorious
+Bazemore, had attached to the request her declaration asserting that DCPS should be
+allowed to proceed with performance. However, the Board noted that there was no
+evidence from any program official showing “urgent and compelling circumstances that
+significantly affect interests of the District [that] will not permit waiting for the decision
+of the Board concerning the protest.”
+
+        The Board conducted a telephone conference call with the parties on August 20,
+2004, to discuss the DCPS request to proceed with performance during the protest.
+During the conference call, the Board noted that D.C. Code § 2-309.08 required the Chief
+Procurement Officer (CPO) of the District of Columbia to make a written determination,
+supported by substantial evidence, that urgent and compelling circumstances that
+significantly affect interests of the District will not permit waiting for the decision of the
+Board concerning the protest. The Board further noted that the DCPS Chief Procurement
+Officer did not have the power to prepare the written determination set forth in D.C.
+Code § 2-309.08. The Board also noted that the DCPS Contracting Officer may not be
+the appropriate person to provide the “substantial evidence” upon which the District’s
+CPO could base a determination to proceed with performance.
+
+        By motion dated September 2, 2004, DCPS submitted to the Board its “Amended
+Motion for Performance Under a Protested Procurement.” In that motion, DCPS asserts
+that independent contracting authority granted to DCPS under D.C. Code § 2-301.04(d)
+allows it to make its own determination that performance of a contract may proceed
+notwithstanding a protest. Section 2-301.04 provides as follows:
+
+           (a) Except as provided in § 2-303.20, this chapter shall apply to all
+       departments, agencies, instrumentalities, and employees of the District
+       government, including agencies which are subordinate to the Mayor,
+       independent agencies, boards, and commissions, but excluding the
+       Council of the District of Columbia, District of Columbia courts, the
+       District of Columbia Financial Responsibility and Management Assistance
+       Authority, and District of Columbia Advisory Neighborhood
+       Commissions.
+          (b) This chapter shall apply to any contract for procurement of goods
+       and services, including construction and legal services, but shall not apply
+                                            -3-          Arrow/Schlosser JV, CAB No. P-0692
+
+
+       to a contract or agreement receiving or making grants-in-aid or for federal
+       financial assistance.
+           (c) The Council of the District of Columbia, the Corporation Counsel,
+       Inspector General, Auditor, and Chief Financial Officer may contract for
+       the services of accountants, lawyers, and other experts when they
+       determine and state in writing that good reason exists why such services
+       should be procured independently of the CPO. During a control year, as
+       defined by § 47-393(4), the Office of the Chief Financial Officer of the
+       District of Columbia shall be exempt from the provisions of this chapter,
+       and shall adopt, within 30 days of April 12, 1997, the procurement rules
+       and regulations adopted by the District of Columbia Financial
+       Responsibility and Management Assistance Authority. During years other
+       than control years, the Office of the Chief Financial Officer shall be bound
+       by the provisions contained in this chapter.
+           (d) This chapter shall apply to the Board of Education, except that the
+       Board of Education shall have the authority to solicit, award, and execute
+       contracts independently of the Office of Contracting and Procurement and
+       the Chief Procurement Officer.
+
+        DCPS contends that D.C. Code § 2-302.04(d) essentially substitutes the Board of
+Education for the District CPO for all statutory findings and determinations committed to
+the District’s CPO. Under that reasoning, the Board of Education is authorized by the
+PPA to make the determination under D.C. Code § 2-309.08(c)(2) to proceed with
+performance under a protested procurement. Since the Board of Education has delegated
+such determinations to the Superintendent of Schools, who in turn has delegated such
+determinations to the Chief Procurement Officer for DCPS, DCPS argues that its CPO is
+authorized to make the determination to proceed. We do not agree. Although § 2-
+301.04(d) provides contracting authority to the Board of Education, it simply does not
+provide the statutory override power of 2-309.08(c)(2) to anyone other than the District’s
+CPO. It is significant that the Council, in enacting the Procurement Reform Amendment
+Act that included the override power, did not provide the CPO authority to delegate the
+override power to any other District official. Without a specific and express assignment
+of that power to anyone other than the District’s CPO, we conclude that only the
+District’s CPO has the override authority. If the Board of Education lacks such authority,
+then the DCPS Chief Procurement Officer also lacks such authority.
+
+        DCPS further argues that the CPO of the District is not in a position to render
+findings and determinations regarding the urgency of the contract in question because he
+is not involved with DCPS contracting and procurement. First, D.C. Code § 2-306.04(d)
+does not negate the District CPO’s contracting authority, it merely provides independent
+and concurrent contracting authority to the Board of Education. As a matter of intra-
+District comity, the District’s CPO will generally respect the Board of Education’s
+primary contracting authority for DCPS. Second, DCPS fails to note that the statute
+requires the CPO to make his determination based upon substantial evidence. Under the
+statutory scheme, the user agency (here, DCPS) provides the evidence to the CPO, and
+the CPO, after reviewing that evidence, decides whether performance under the contract
+                                             -4-           Arrow/Schlosser JV, CAB No. P-0692
+
+
+should proceed. The statute requires the CPO to take whatever steps he deems
+appropriate for making an informed determination based on a review of the evidence
+presented by the user agency.
+
+       Accordingly, for the reasons set forth above, the Board denies the DCPS motion
+requesting performance under a protested procurement.
+
+        By motion dated August 18, 2004, DCPS filed a “Dispositive Motion in Lieu of
+Answer,” requesting that the Board dismiss the protest for “failure to state a claim.”
+However, the DCPS motion does not set forth any reasons why the protest fails to state a
+claim. In any event, after reviewing the protest, the Board finds that the protest sets forth
+allegations regarding DCPS representative Mr. Eugene Slater and representations made
+by Mr. Slater regarding award of the contract. The protest sets forth a claim, and DCPS
+should respond to the claim. The Board notes that the protester’s request to review bid
+documents that should have been revealed at a public bid opening is not unreasonable.
+Accordingly, for the reasons set forth above, the Board denies the DCPS motion to
+dismiss the protest for failure to state a claim. In accordance with Board Rule 306, DCPS
+should file its Agency Report no later than October 18, 2004.
+
+       SO ORDERED
+
+October 6, 2004                               /s/ Warren J. Nash
+                                              WARREN J. NASH
+                                              Administrative Judge
+
+CONCURRING:
+
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

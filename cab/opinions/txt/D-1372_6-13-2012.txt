@@ -1,0 +1,114 @@
+                  DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+GATEKEEPERS INTERNET MARKETING, INC.                                             )
+                                                                                 )
+Under Contract Nos. PODS-2003-C-615-04                                           )        CAB No. D-1372
+                    PODS-2003-C-920-27                                           )
+                    PODS-2003-C-037-02                                           )
+
+                                  ORDER ON MOTION TO DISMISS
+                                        Filing ID 44793107
+
+       Before the Board is the District’s motion to dismiss the present action based on the
+following grounds: (1) the Appellant failed to state a claim upon which relief may be granted;
+and (2) this appeal is barred by the statute of limitations. (Mot. to Dismiss 1.) 1 The Appellant
+opposes the District’s request for dismissal. (Appellant’s Resp. to District’s Mot. to Dismiss 1.)
+
+        By way of background, the Appellant contracted with the District to provide information
+technology services under Contract Nos. PODS-2003-C-615-04, PODS-2003-C-920-27, and
+PODS-2003-C-037-02. (Revised Joint Prehearing Statement 1.) Appellant provided services to
+the District from December 2004 to September 2008. (Id. at 2.) The Appellant alleges that the
+District failed to pay its company for goods and services accepted by the District during this time
+period. (Id. at 1.) The parties concur that the Appellant submitted a contract claim to the
+Contracting Officer (“CO”) against the District arising from the aforementioned contracts, and
+that the CO issued a final decision denying the claim on June 20, 2009. (Id. at 2-3.) It is also
+undisputed that, on November 19, 2009, Appellant filed the present action with the Board to
+appeal the CO’s June 20, 2009, final decision. (Id. at 3.)
+
+         Based upon the foregoing facts, the District asserts that the Board does not have
+jurisdiction to hear the present appeal because it is barred by the 90 day statute of limitations
+period applicable to contractor claims against the District after the CO’s final decision is issued,
+as set forth under D.C. CODE § 2-360.04(a) (2011). (District’s Mot. to Dismiss 3-4.) The
+Appellant, on the other hand, does not deny the applicability of a statutory period within which
+an appeal of a claim must be filed with the Board, but rather seemingly requests that the Board
+retain jurisdiction of this matter because, after receiving the CO’s final decision, the Appellant
+allegedly expended additional time attempting to negotiate a settlement with the District before
+filing its appeal with the Board. (Appellant’s Resp. to District’s Mot. to Dismiss 1.)
+
+        Upon consideration of the District’s motion to dismiss, the Appellant’s response, and the
+entire record, the Board finds that the Appellant’s appeal is time barred. The statute discussed
+herein expressly provides that a contractor seeking to appeal a CO’s final decision on a contract
+claim has a period of 90 days within which it may file such an action with the Board after the
+
+1
+  The Board’s June 1, 2012, Prehearing Order instructed the District to file a motion to dismiss regarding the present
+statute of limitations ground, and ordered the Appellant to file a response thereto, based upon the District’s
+representation during the parties’ May 24, 2012, prehearing conference that this present action is time barred.
+                                                             -2-             GATEKEEPERS INTERNET MARKETING, INC.
+                                                                                                   CAB NO. D-1372
+
+contractor receives the CO’s final decision on its claim. D.C. CODE § 2-360.04(a) (2011). 2 The
+Board has expressly recognized this 90 day period as a statutory time limitation within which an
+appeal must be filed with the Board. E.g., Claim of Chief Procurement Officer, CAB No. D-
+1182, 50 D.C. Reg. 7465 (Nov. 29, 2002) (articulating the same 90 day statute of limitation
+period for filing claims with the Board after receipt of the contracting officer’s final decision,
+under former D.C. CODE § 2-309.04(a)).
+
+        In the present action, the CO issued a final decision on June 20, 2009, and the Appellant
+filed a complaint with the Board on November 19, 2009, which was 152 days after the CO’s
+final decision was issued. Therefore, the Appellant’s appeal was filed well beyond the 90 day
+statute of limitations period set forth in D.C. CODE § 2-360.04(a), and, consequently, the Board
+lacks jurisdiction to decide this appeal.
+
+        Additionally, as the second basis for requesting dismissal of this matter, the District
+asserts that the Appellant’s action should be dismissed because it fails to state a claim pursuant to
+Rule 12(b)(6) of the D.C. Superior Court Rules of Civil Procedure. (District’s Mot. to Dismiss
+1.) However, having found that the Board cannot exercise jurisdiction over this appeal because
+of the statute of limitations applicable to a contractor’s right of appeal to the Board, we find it
+unnecessary to address this secondary issue as an alternative basis for dismissal.
+
+       For the foregoing reasons, the District’s motion is granted, in part, and the present action
+is dismissed with prejudice.
+
+SO ORDERED.
+
+
+Date: June 13, 2012                                                /s/ Monica C. Parchment
+                                                                   MONICA C. PARCHMENT
+                                                                   Administrative Judge
+
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.                                              /s/ Maxine E. McBean
+MARC D. LOUD, SR.                                                  MAXINE E. MCBEAN
+Chief Administrative Judge                                         Administrative Judge
+
+
+
+
+2
+  The relevant portion of D.C. CODE § 2-360.04(a) provides that:
+ “. . . within 90 days after the date of receipt of a decision of the contracting officer, the contractor may appeal the
+decision to the Board by filing a complaint.”
+                                        -3-   GATEKEEPERS INTERNET MARKETING, INC.
+                                                                    CAB NO. D-1372
+
+
+Electronic Service:
+
+Charles A. Ray, Jr., Esq.
+Law Offices of Charles A. Ray
+The Capital Hilton Hotel
+1001 16th Street, N.W.
+Washington, DC 20036
+
+
+Robert L. Dillard, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 6th Floor South
+Washington, D.C. 20001
+

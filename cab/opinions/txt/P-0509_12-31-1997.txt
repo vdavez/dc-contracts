@@ -1,0 +1,98 @@
+                         •                                         ,
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+PROTEST OF:                                  )
+                                             )
+RAM MOBILE DATA, L.P.                        )     , CAB No. P-509 ,
+                                             )
+Under RFP 97-500                             )
+
+       For the Protester: Alan M. Grayson, Esq. For the District of Columbia Metropolitan
+Police Department: Howard Schwartz and Warren Nash, Assistants Corporation Counsel.
+
+        Opinion by Chief Administrative Judge Lorilyn E. Simkins, with Administrative Judge
+Phyllis W. Jackson, concurring.
+
+                      OPINION AND ORDER ON MOTION TO DISMISS
+
+        RAM Mobile Data, L.P. qled the instant protest of the Metropolitan Police Depa~ment's
+(ccMPD") Request for Proposals No. 97-500 (ccRFP") for wireless mobile data services. l The RFP
+solicited two-way data telecommunications services for MPD. RAM contests the ten-day period
+between the solicitation issuance and proposal submission, and MPD's refusal to extend the time.
+Section C.2.2.2. of the RFP required the submission of "contour maps," showing J 00% coverage
+with modem received signal strength equal to or greater than -90dB, expressed in increments of
+5dB. RAM did not have maps prepared in the required contour and required about two weeks to
+produce them. RAM argued that less-than-30-day deadline unduly limited competition by
+permitting insufficient time for qualified potential off'erors like RAM to prepare proposals. RAM
+also challenged the RFP evaluation scheme as unduly restrictive for placing more emphasis on one
+out of the many factors relevant to performance--network throughput-- rather thap on
+performance itself MPD received one timely proposal from Bell Atlantic NYNEx. RAM
+submitted a proposal two weeks after the closing date. MPD refused to consider RAM's
+proposal. RAM requested that the Board order MPD to consider its proposal.
+
+        On September 23, 1997, MPD filed a Motion to Dismiss RAM's proposal as untimely. By
+order dated October 29, 1997, the Board denied MPD's motion and ordered that MPD file its
+Agency Report by November 14, 1997. Following receipt of the Agency Report, the Board
+ordered MPD to provide further information on the nature of the wireless data technology, the
+reason for the shortened solicitation advertising period, and a presentation of arguments setting
+forth why it was reasonable for MPD to elevate the performance factor of "network throughput"
+above the overall performance.
+
+
+
+        lWireless mobile data services permit MPD to receive and transmit time critical files
+between patrol cars and agency databases and enable maiVmessage communications. These
+services provide a direct, and efficient connection between MPD officers on the street and
+information databases, dispatches and other officers.
+                         •                                         ,
+                                                -2-                CAB No. P-509 RAM Mobile Data, L.P.
+
+        On December 10, 1997, pursuant to D.C. Code § 1-1189.8(c)(2), MPD filed a
+"Determination and Findings to Proceed with Award and Performance of Contracts While a
+Protest is Pending Before the D.C. Contract Appeals Board" ("D&F"), exectued by Richard Fite,
+the Chief Procurement Officer of the District of Columbia. On December 17, 1997, RAM filed a
+Motion Challenging Override of Stay.                                                 .
+
+        On December 19, 1997, the District responded to the Board's request for additional
+information and further argument. On December 19, the District also filed a motion to Dismiss
+the Protest for lack of subject matter jurisdiction. The District contends that the Board cannot
+exercise jurisdiction over this MPD procurement because Congress delegated directly to MPD
+small purchase authority up to $500,000 and exempted MPD small purchases from any review by
+any official or employee of the District of Columbia government. The estimated cost of this
+contract as set forth in the D&F is $90,000.
+
+        The District of Columbia Appropriations Act for FY 1997 (public Law 104-194, 110
+Stat. 2356, Sept. 9, 1996) and for FY 1998 (public Law 105-100, Il1Stat, 2160, Nov. 19, 1997)
+provides in pertinent part:
+
+                That notwithstanding any other provision oflaw, or Mayor's Order 86-45, issued
+        March 18, 1986, the Metropolitan Police Department's deleted small purchase authority
+        shall be $500,000: Providedfurther, That the District of Columbia government may not
+        require the Metropolitan Police Department to submit to any other procurement review
+        process, or to obtain the approval of or be restricted in any manner by any official or
+        employee of the District of Columbia government, for purchases that do not exceed
+        $500,000.
+
+        Despite RAM's arguments to the contrary, the language found in the FY 1997 and 1998
+Appropriations Acts plainly exempt purchases ofless than $500,000 by MPD from procurement
+review by any District official or employee. The Board lacks subject matter jurisdiction over this
+protest and is compelled to grant the District's motion to dismiss. Accordingly"the protest is
+dismissed.
+
+        SO ORDERED.
+)   1
+
+
+DATE: December 31. 1997                    4gh~M~4A
+                                             Lorily .tSh};kins
+                                             Chief Administrative Judge
+Concurring:
+
+
+
+    {!!t1i~
+Phylli W. Jacks
+Administrative Judge
+                                   J
+

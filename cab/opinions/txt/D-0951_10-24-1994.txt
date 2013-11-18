@@ -1,0 +1,622 @@
+                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+       RDP DEVELOPMENT CORPORATION and                     )
+       642 H STREET, N.E. ASSOCIATES                       )
+       LIMITED PARTNERSHIP                                 )
+                                                           )       CAB No. D-951
+       Under Contract No. DCFL 90-32                       )
+
+       For the Appellants: Richard B. Nettler, Esquire and Stacy E. Costello, Esquire. For
+the District of Columbia: Carol Paskin-Epstein, Assistant Corporation Counsel.
+
+      Opinion by Administrative Judge Lorilyn E. Simkins, with Administrative Judges Cynthia
+G. Hawkins-Leon and Jonathan D. Zischkau, concurring.
+
+              OPINION AND ORDER ON MOTION OF THE DISTRICT OF COLUMBIA
+                TO DISMISS THE APPEAL OR IN THE ALTERNATIVE FOR
+              SUMMARY JUDGMENT AND TO STAY THE FILING OF THE RECORD
+
+        On February 28, 1994, pursuant to Board Rule 110, the District of Columbia filed a
+Motion to Dismiss the Appeal or in the Alternative, For Summary Judgment and to Stay the
+Filing of the Record. The District requests that Appellants' appeal be dismissed for failure to
+state a claim. In the alternative, the District requests that the Contract Appeals Board (the
+"Board") grant its motion for summary judgment on the ground that the issues before the Board
+were previously decided in the District of Columbia Superior Court Memorandum Opinion in
+RDP v. District of Columbia, Civil Action No. 91-11402 (August 4, 1992) ("Memorandum
+Opinion"), and affirmed by the District of Columbia Court of Appeals in RDP Development
+Corporation v. District of Columbia, 645 A.2d 1078 (D.C. 1994). The District asserts that the
+principles of res judicata and law of the case apply to this case.
+
+        Appellants filed an opposition to the District's motion on March 21, 1994, and argued
+that the Superior Court and Court of Appeals specifically declined to rule on the validity of the
+lease-purchase agreement, reserving that issue for the Board's resolution.
+
+       The Board heard oral arguments on the motion on September 13, 1994. Based on the
+record and the oral arguments, the Board grants the District's motion for summary judgment for
+the reasons discussed below.
+                                                2                            CAli No. DoYSl. RDP Dev. Corp.
+
+
+
+
+                                       1. BACKGROUND
+
+       The following facts, taken from the Superior Court and Court of Appeals decisions, are
+undisputed for purposes of this motion. The controversy between the District and RDP
+Development Corporation ("RDP") involves commercial real estate, located at 642 H Street,
+N.E. Washington, D.C. (the "642 H Street Property"); and owed by 642 H Street, N.E.
+Associates Limited Partnership ("642 H Street, N.E. Associates"). RDP, a District of Columbia
+corporation, is the general partner of 642 H Street, N. E. Associates. RDP, 645 A.2d at 1079.
+
+        On July 19, 1990, RDP submitted a formal proposal to the District, offering to purchase
+and renovate the property for the District to lease. On August 21, 1990, RDP submitted a
+revised proposal which transformed the proposed lease into a proposed lease/purchase agreement
+with an annual rent of $2,343,536. On October 4, 1990, RDP sent the District a commitment
+letter containing the substantive terms of the proposed lease/purchase contract. Memorandum
+Opinion at 2-3.
+
+         On October 9, 1990, the Council of the District of Columbia (the "Council") introduced
+the" Acquisition of Space Needs For District Government Officers and Employees Emergency
+Act of 1990" (the "Emergency Act"), Bill 8-682, in order make the District of Columbia
+Procurement Practices Act of 1985 ("PPA"), D.C. Code §§ 1-1181.1 to 1-1192.6, applicable
+to the District's acquisition of leasehold interests. The Emergency Act would require for the
+first time that the District employ the competitive procurement requirements of the PPA when
+                                       *
+leasing real property. See D.C. Code 1-336(h).1 Further, the Emergency Act would include
+a provision making the Act retroactively applicable to any agreement not finalized prior to
+October 1, 1990.      D.C. Act 8-264 was passed by the Council, but vetoed by then-Mayor
+Marion S. Barry on October 25, 1990. RDP, 645 A.2d at 1079-80.
+
+       Following the mayoral veto, on November 6, 1990, the Office of Corporation Counsel
+and the Director of the Department of Administrative Services approved the terms of the
+
+
+
+    I   Section 1-336 (h) provides:
+
+                  The Mayor shall not acquire a leasehold interest in any building
+                that is proposed to be leased for the predominant use by, or
+                constructed for lease to and for predominant use by, the District
+                government unless the procurement of the leasehold interest IS
+                done pursuant to [D.C.Code] §§ 1-1183.3 and 1-1183.4.
+
+       Section 2 of the Emergency Act also would require Council approval prior
+to the appropriation, obligation, or expending of any funds to construct, alter,
+purchase, or acquire any building or interest in any building that involved a total
+expenditure in excess of $1,000,000. See D.C. Code § 1-336(c).
+                                                 3                            CAB No. D-95/, RDP De,'. Corp.
+
+
+
+
+proposed lease/purchase agreement. The proposed agreement was then submitted to the City
+Administrator for her approval. On November 9, 1990, the City Administrator dated and
+initialed a "Mayor's Decision/Information Form" as approved "thru" the City Administrator.
+Id. at 1080.
+
+       On November 13, 1990, the Council overrode the Mayor's veto, and the Emergency Act
+went into effect immediately. Thereafter, the Council enacted the Permanent Act, which
+included the provision making it applicable to contracts not finalized prior to October 1, 1990.
+ On January 2, 1991, the last day of his term, the Mayor signed the permanent legislation (the
+"Permanent Act"), which was identical in all material ways to the Emergency Act. 2 In its oral
+presentation to the Board, RDP admitted that it was aware that the Council had enacted the
+Emergency and Permanent Acts, and conceded that the proposed lease/purchase agreement was
+not handled as a competitive procurement. (Tr. 14-15; 27).
+
+       On November 16, 1990, the Mayor purportedly approved the lease/purchase agreement,
+and shortly thereafter submitted a resolution for Council approval of the lease. On November
+30, 1990, pursuant to the Mayor's request, the proposed resolution was introduced by the
+Council Chairman as PR 8-545 and referred to the Committee on Government Operations. The
+Council never acted upon the resolution. RDP, 645 A.2d at 1080.
+
+       On December 31, 1990, the Mayor signed the purported lease/purchase agreement.                 l.d.:.
+
+       Despite RDP's knowledge that the purported lease/purchase agreement did not comply
+with the PPA's competitive requirements, on May 23, 1991, RDP requested the District to
+execute an estoppel certificate which RDP's lender required as a condition to finance the
+purchase and renovation of the property.~ Complaint, Exh. D. Between June 5, 1991 and July
+
+
+
+    2D. C. Law 8-257 was introduced in Council and assigned Bill No. 8-645. The Bill was
+adopted on first and second readings on December 4, 1990 and December 18, 1990,
+respectively. It was assigned Act No. 8-342 and transmitted to both houses of Congress for
+reVIew.
+
+
+     3Under Paragraph 25 (b) of the lease, the District was reqliired to provide RDP, within
+seven days after receipt of any request, a certificate which stated: "(1) whether this Lease is
+unmodified and in full force and effect (or if there have been modifications, that the Lease is
+in full force and effect and setting forth all such modification); (ii) whether there then exist any
+defenses against the enforcement of any right of Lessor hereunder (and, if so, specifying the
+same in detail); (iii) the dates to which rent and any other charges hereunder have been paid by
+District; (iv) that District has no knowledge of any then uncured defaults under this Lease (or,
+if District has knowledge of any such defaults, specifying the same in detail); (v) that District
+has no knowledge of any event that will or may result in the termination of this Lease (or if
+
+
+
+
+                                                                                                               ,.
+                                                  4                            CAB No. 0-951. RDP Dev. Corp.
+
+
+
+
+15, 1991, RDP wrote at least four other letters requesting that the District execute the estoppel
+certificate. Complaint, Exh. E. The District never executed an estoppel certificate. RDP, at
+1080.
+
+        On September 5, 1991, RDP filed an action in the District of Columbia Superior Court
+seeking temporary and permanent injunctive relief, specific performance, and damages regarding
+the lease/purchase agreement. Id. at 1080.
+
+       On September 18, 1991, the District sent a letter to RDP stating that the District
+considered the lease to be invalid and unenforceable. Complaint, Exh. F. On September 27,
+1991, RDP amended its Superior Court complaint by adding Mayor Sharon Pratt Kelly as a
+defendant in its action to enforce the lease. (Civil Action No. 91-CAl1402). Complaint, para.
+22.
+
+      Eleven months later, the Superior Court determined that the provisions of the Emergency
+and Permanent Acts applied to the lease/purchase agreement and that it was subject to the
+competitive provisions of the PPA. Memorandum Opinion.
+
+       Pursuant to the District's motion for summary judgment, the court also dismissed without
+prejudice RDP's complaint in part, finding that the court lacked jurisdiction to make a final
+determination as to the validity of the lease/purchase agreement, because RDP had failed to
+exhaust its administrative remedies before seeking judicial review of the validity of the
+lease/purchase agreement. The Superior Court noted that "[A]lthough both D.C. Code §§ 1-
+336(h) and 1-1182.5 expressly invalidate a lease executed in violation of D.C. Code §§ 1-1183.3
+and 1-1183.4., the exceptions set forth in D.C. Code § 1-1182.5 must be properly addressed to
+make a final determination of the lease's validity." Memorandum Opinion at 10. Additionally,
+the Superior Court decision left the issue of equitable estoppel for the Board to determine. 4
+
+
+
+
+District has such knowledge, specifying the same in detail; (vi) the address to which notices to
+District are to be sent; and (vii) such other information as maybe reasonably requested."
+
+     4Judge Steffen Graae noted that: "Plaintiff also argues that if either Act applies to the lease,
+the District either waived the competitive procurement requirement or is estopped from raising
+the requirement as a means of invalidating the lease." The court indicated that it took no
+position with respect to the waiver or estoppel arguments of appellant, since the issue of whether
+the lease is invalidated by the Emergency or Permanent Acts was not before the court.
+Memorandum Opinion, ftn 2, at 2. Accordingly, we do not agree with the District's contention
+that the only issue before the Board is whether appellant met the requirements of D.C. Code §1-
+1182.5(d)(l). The Memorandum Opinion did not address the equitable estoppel issue, since
+examination of that issue would have led the Court to address the ultimate validity of the
+purported lease/purchase agreement.
+
+
+
+                                                                                                      cJ.31
+                                                5                            CAR No. D-951, RDP Dev. Corp.
+
+
+
+
+        On October 21, 1992, asserting that it was futile to appeal to the Department of
+Administrative Services (DAS), RDP requested that the Board hear its appeal without a prior
+filing with the Director of DAS. On May 13, 1993, the Board concluded that exhaustion of
+administrative remedies (i.e. filing with the Director of DAS) was required as a condition
+precedent to filing an appeal with the Board, and accordingly dismissed the claim without
+prejudice. See RDP Development Corporation, CAB No. D-928, June 10, 1994,41 D.C. Reg.
+3416.
+
+        On July 1, 1993, RDP submitted its claim against the District to the Director of DAS,
+pursuant to D.C. Code § I-II88.5(a). The Director failed to decide the claim by the statutory
+deadline of September 29, 1993. On December 28, 1993, RDP appealed the Director's "deemed
+denial. "
+
+        RDP's complaint asserts five theories of relief against the District. The theories are: (1)
+breach of contract; (2) estoppel; (3) anticipatory breach of the lease/purchase agreement; (4) that
+the competitive bidding requirements do not apply here; and (5) that even if the competitive
+bidding requirements apply, the good faith and substantial compliance of the parties validated
+the lease/purchase agreement.
+
+        The Court of Appeals affirmed the trial court's decision in the Memorandum Opinion and
+also directed the Board's attention to the issue of whether there was good faith and substantial
+compliance by the parties, which is where we begin our analysis. The Court of Appeals wrote:
+
+               In ruling that it was without jurisdiction to consider whether the
+              lease/purchase agreement was valid, the trial court properly cited D.C.
+              Code § 1-1182.5(d)(l), which provides that "a contract which is entered
+              into in violation of this chapter or the rules and regulations issued
+              pursuant to this chapter is void, unless it is determined in a proceeding
+              pursuant to this chapter or subsequent judicial review that good faith has
+              been shown by all parties, and there has been substantial compliance with
+              the provisions of the chapter and the rules and regulations." (Emphasis
+              added.). . . Thus, the claims involved in RDP's action against the
+              District, though originally cognizable in the Superior Court, also involve
+              issues which "require[] resolution of an issue within the special
+              competence of an administrative agency." Drayton, supra, 462 A.2d at
+               1118 (citations omitted). The trial court, therefore, properly retained
+              jurisdiction to determine whether the competitive bidding provisions
+              applies (sic), while it correctly dismissed that portion of RDP's action
+              which addressed the validity of the lease/purchase agreement.
+
+RDP, 645 A.2d at 1083-84.
+                                                                  •
+                                                    6                        CALI No. D-951. RDP Dev. CO/po
+
+
+
+
+                                        II. DISCUSSION
+
+         In order for the Board to grant a motion for summary judgment, the District must
+demonstrate that there is no genuine issue of material fact. The District must prove that it is
+entitled to judgment as a matter of law. Super Ct. Civ. R. 56(c); Clyburn v. 1411 K Street,
+Ltd. Partnership, 628 A.2d 1015, 1017 (D.C. 1993). To counter such a showing, the opposing
+party must present evidence, via affidavit or otherwise, "to demonstrate the existence of a
+genuine issue for trial." Racskauskas v. Temple Realty Co., 589 A.2d 17,25 (D.C. 1991). The
+evidence must be viewed in the light most favorable to the party opposing the motion, with all
+favorable inferences accorded to that party. Beard v. Goodyear Tire & Rubber Co., 587 A.2d
+195, 198 (D.C. 1991). "Thus a motion for summary judgment is properly granted where the
+pleadings, depositions, answers to interrogatories, and admissions on file, together with the
+affidavits, show that there is no genuine issue as to any material fact and that the moving party
+is entitled to judgment as a matter of law." Karen O'Donnell v. Associated General Contractors
+of America, 645 A.2d 1084, at 1095 (D.C. 1994), citing Byrd v. Allstate Ins. Co., 622 A.2d
+691 (D.C. 1993).
+
+
+                  A. GOOD FAITH AND SUBSTANTIAL COMPLIANCE
+
+        The District argues that the Board should either dismiss the complaint or in the
+alternative grant the motion for summary judgment, asserting that there was no compliance with
+the provisions of the PPA vis-a-vis the purported lease-purchase agreement. Neither the
+District's written motion nor oral argument addresses the issue of good faith. Instead the
+District challenges whether there was substantial compliance with D.C. Code §§ 1-1183.3 and
+1-1183.4. RDP responds that the Board should deny the motion for summary judgment, because
+the negotiations and memoranda from the Director of DAS, the Corporation Counsel and the
+Mayor satisfied the requirements of good faith and substantial compliance with the PPA. While
+RDP admits that there was no compliance with the competitive bidding procedures of the PPA,
+it claims that the District treated the purported lease/purchase agreement as a sole source
+procurement authorized by D.C. Code § 1-1183.3. 5
+
+
+
+    5In its opposition, appellant maintains that:
+
+                [T]he difficulty with analyzing this agreement between RDP and
+               the District of Columbia lay in the fact that the agreement was a
+               lease/purchase agreement. While the Council may have intended
+               the competitive bidding requirements to be expanded to apply to
+               leases, assuming the provisions are valid, it did not intend those
+               provisions to apply to the purchase of real property.... Real estate
+               purchases are traditionally sole source procurements.
+                                                       7                             CAB No. 0-951. RDP Dev. Corp.
+
+
+
+
+             D.C. Code § 1-1183.3 authorizes sole source procurements if the Director of DAS
+      determines in writing that:
+
+                     (1) Specifications cannot be prepared that permit an award on the
+                     basis of either the lowest bid price or lowest evaluated bid price;
+
+                     (2) There is only 1 available source;
+
+                     (3) There is an unanticipated emergency which leaves insufficient
+                     time to use this method; or
+
+                     (4) There is some other reason in the best interest of the District
+                     government which is so compelling as to use I of the other
+                     authorized methods [including sole source].
+
+         The procurement regulations at 27 DCMR § 1700 et~, require detailed and exacting steps
+      and safeguards to be undertaken before the District enters into a sole source agreement, because
+      sole source procurements are not a favored method of procurement. 6 Section 1700.2 of 27
+      DCMR provides:
+
+                     In each instance where the sole source or emergency procurement
+                     procedures set forth in this chapter are used, the contracting officer
+                     shall do the following:
+
+                    (a) Prepare a written determination and findings ("D&F")
+                    justifying the procurement which specifically demonstrates that
+                    procurement by competitive sealed bids or competitive sealed
+                    proposals is not required by the provisions of the Act of this title;
+                    and
+
+                     (b) Ensure that all of the steps required under this chapter for the
+
+
+
+      The Board cannot address appellant's argument that the Council did not intend to include
+      lease/purchase agreements under the Emergency and Permanent Acts, because that issue has
+      been resolved by the Court of Appeals against RDP.
+
+         6   See 27 DCMR 1701.1 which provides that:
+./,
+                     Each contracting officer shall take reasonable steps to avoid using
+                     sole source procurement except in circumstances where it is both
+                     necessary and in the best interests of the District.
+                                         8                                    CAR No. D-951. RDP Dev. Corp.
+
+
+
+
+            justification, documentation, and approval of the procurement are
+            completed before the contract is awarded.
+
+27 DCMR § 1705 provides:
+
+            1705.1 When a sole source procurement is proposed, the
+            contracting officer shall prepare a written determination and
+            findings ("D&p") that sets forth the justification for the sole
+            source procurement. If the procurement is in excess of twenty-five
+            thousand dollars ($25,000), the D&F shall be approved by the
+            Director in accordance with §101O.2a of chapter 10 of this title.
+
+            1705.2        Each    sole       source   D&F   shall   include      the
+            following:
+
+            (a) Identification of the agency and specific identification of the
+            document as a sole source D&F;
+
+            (b) The nature or description of the proposed procurement;
+
+            (c) A description of the requirement, including the estimated value
+            or cost;
+
+            (d) A specific citation to the applicable provisions of §305 (a) of
+            the Act and this chapter that provide legal authority for the sole
+            source procurement;
+
+            (e) An explanation of the unique nature of the procurement or
+            other factors that qualify the requirement for sole source
+            procurement;
+
+            (t) An explanation of the proposed contractor's unique
+            qualifications or other factors that qualify the proposed contractor
+            as a sole source for the procurement.
+
+            (g) A determination that the anticipated costs to the District will be
+            fair and reasonable;
+
+           (h) A description of the market survey conducted and the results,
+           or a statement of the reason why - a market survey was not
+           conducted, and a list of the potential sources contacted by the
+           contracting officer or which expressed, in writing, an interest in
+           the procurement; and
+III) III
+
+"II'
+,
+    'I'
+'.II ,
+"ll"
+  I I   ,
+        I
+
+
+
+
+                                                     9                                   CAli No. D-95J. RDP De.'. CO/po
+
+
+
+
+                           (i) Any other pertinent facts or reasons supporting the use of a sole
+                           source procurement.
+
+                     While RDP claims that the lease/purchase negotiations complied with the spirit of the
+            PPA's competition requirements, it has failed to support that claim with substantial evidence.
+             It is undisputed that there was no compliance with the PPA's competitive requirements. RDP
+            has made no more than general and unsubstantiated assertions that it can prove that there was
+            substantial compliance with the sole source provisions of the procurement laws. 7 Moreover
+            by its own admission, the requirements for a sole source procurement were not met. (Tr. 30).
+
+                     The District has shown and RDP concedes that neither the Director of DAS nor any other
+            official made the required determination that a sole source procurement was in the District's best
+            interest or necessary (27 DCMR § 1701.1.) Nor is there any evidence that the nine required
+            D&F elements were ever satisfied. Substantial compliance with the PPA cannot exist without
+            a more explicit demonstration of these elements. Therefore, by demonstrating that a properly
+            executed D&F did not exist with the required determinations, the District established that there
+            was a lack of evidence to support the appellant's case. "If a moving defendant has made an
+            initial showing that the record presents no genuine issue of material fact, then the burden shifts
+            to the plaintiff to show that such an issue exists .... The defendant's initial showing can be made
+            by pointing out that there is a lack of evidence to support the plaintiff's case." (citations
+            omitted). Beard v. Goodyear Tire & Rubber Co., 587 A.2d 195 at 198.
+
+                    Nothing in RDP's unsupported allegations, lawyer's arguments and unverified complaint
+            raises any genuine issues of material fact. Counsel for the appellant submitted no affidavits to
+            the Board, or came forward with other evidence of record to establish a material issue of fact.
+            See Super Ct. Civ. R. 56 (e).8 Viewing the evidence in the light most favorable to the
+            appellant, the Board determines that the purported lease/purchase agreement does not
+
+
+
+                7Neither the documents attached to RDP's complaint, nor subsequent filings include copies
+            of memoranda from the City Administrator, the Director of DAS or the Corporation Counsel.
+            The Board is therefore unable to evaluate their content. See, however, the Board's discussion
+            of the effect of the memoranda's issuance dates in section B. Equitable Estoppel herein.
+
+                8S upe r.Ct.Civ.R.56(e) provides in part:
+
+                   When a motion for summary judgment is made and supported as provided
+                   in this Rule, an adverse party may not rest upon the mere allegations or
+                   denials of the adverse party's pleading, but the adverse party's response,
+                   by affidavits or as otherwise provided in this Rule, must set forth specific
+                   showing that there is a genuine issue for trial. If the adverse party does
+                   not so respond, summary judgment, if appropriate, shall be entered
+                   against the adverse party.
+                                                10                           CAR No. D-951. RDP Dev. Cotp.
+
+
+
+
+substantially comply with the law and regulations. No genuine issue of material fact exists that
+purported lease/purchase agreement substantially complied with the PPA's competitive
+requirements or limited sole source exceptions.
+
+                                 B. EQUITABLE ESTOPPEL
+
+        The Board must also determine whether appellant's equitable estoppel claim can withstand
+the District's motion for summary judgment. RDP asserts that the Government should be
+equitably estopped from claiming that no contract exists, because of the conduct of the
+government during the course of the negotiations and thereafter. 9          RDP's argument is
+insufficient as a matter of law for the following reasons.
+
+         First, the government cannot be bound or estopped by the unauthorized acts of its agents
+  (even if one of those agents is the Mayor). See Chamberlain v. Barry, 606 A.2d 156 (D.C .
+. 1992). The authority of a government official to contract is a prerequisite to the formation of
+  a contract. In order to prove its case, RDP must demonstrate that the government officials
+  whose actions it relied upon had authority to bind the government. The trial court resolved this
+  issue when it found that the Mayor lacked authority to enter into this lease/purchase agreement.
+ This fact cannot be relitigated having been settled by the trial court, and affirmed by the Court
+ of Appeals. In its Memorandum Opinion, the Superior Court held that Mayor Barry lacked
+ authority to approve the lease, because the competitive bidding requirements of the PPA had not
+ been satisfied. Memorandum Order at 6. The Mayor's lack of authority to enter into this
+ lease/purchase agreement cannot be relitigated before the Board because of principles of res
+ judicata and collateral estoppel. Goldkind v. Snider Brothers, 467 A.2d 468 (D.C. 1983).
+ Principles of equity cannot be used to create a valid contract from an arrangement which violates
+ statutory and regulatory mandates, or create a contract that otherwise would not exist. Pacific
+ Gas & Electric v. United States, 3 CI. Ct. 329, 340 (1983), aff'd, 738 F.2d 452 (Fed.
+ Cir.1984).
+
+        Second, we conclude as a matter of law that RDP could not prevail on an equitable
+estoppel theory even if the statutory prohibition did not exist. To assert an estoppel against the
+District effectively, RDP must establish that the District made a promise; that RDP suffered
+injury due to reasonable reliance on the promise; and that the promise must be enforced to
+prevent injustice and protect the public interest. District of Columbia v. McGregor Properties,
+479 A.2d 1270,1273 (D.C.1984); Landow v. Georgetown-Inland West Corp., 454 A.2d 310,
+314 (D.C. 1982). In addition, the party asserting the estoppel must demonstrate that the
+government officials whose actions it relied upon had authority to bind the government. See City
+
+
+
+    90n October 7, 1994, the Board received and has considered Appellants' Supplemental
+Memorandum in Opposition to Motion of the District of Columbia to Dismiss the Appeal or in
+the Alternative for Summary Judgment, in which RDP advanced with more detail its equitable
+estoppel argument.
+                                                 II                           CAR No. D-951. RDP Dev. Corp.
+
+
+
+
+ of Alexandria v. United States, 737 F.2d 1022 (Fed.Cir. 1984).
+
+          Even if we could reach the merits, Appellant's claim of equitable estoppel would fail for
+  several reasons. First, RDP cannot satisfy the element of reasonable reliance as a matter of
+  law.     RDP indicates that it relied upon signed memoranda from the Director of DAS, the
+  Corporation Counsel, and the City Administrator attesting to the legal sufficiency of the
+  proposed lease/purchase agreement. However, this reliance was manifestly unreasonable. As
+  the undisputed facts demonstrate, the memoranda of the Director of DAS, the Corporation
+  Counsel and the City Administrator were all signed after the Mayor had vetoed the Emergency
+  Act (October 25, 1990), but prior to the Council override of the veto (November 13, 1990).
+  Those memoranda were based on the assumption that the PPA competitive provisions did not
+  apply. 10 That assumption was untenable after the Council voted to override the Mayoral veto.
+  H was unreasonable for RDP to rely on those memoranda, following the Council's action. When
+  the Mayor signed the purported lease/purchase agreement on December 31, 1990, RDP could
+  not reasonably believe that it had a valid contract with the District. A person making a contract
+  with the District is "charged or imputed with knowledge of the scope of the agency's authority."
+  Coffin v. District of Columbia, 320 A.2d 301, 303 (D.C. 1974). The Council abrogated the
+. authority of the executive branch to enter into this contract without complying with the
+  competitive procedures of the PPA. RDP cannot shift the responsibility to the District and say
+  that the District led it on, when it admittedly knew of the Council action to override the Mayoral
+  veto.
+
+                               C. OTHER CAUSES OF ACTION
+
+        RDP's other causes of action advanced in its complaint must also fail. The Court of
+ Appeals found that it was undisputed that the parties had failed to satisfy the competitive bidding
+ requirements which voided the District and RDP's direct efforts to enter into the lease/purchase
+ agreement. The appellant has therefore advanced no theory which supports the existence of an
+ express contract between RDP and the District. The Board finds as a matter of law that the
+ purported lease/purchase agreement is void ab initio, and that RDP's causes of action for breach
+ of contract and anticipatory breach must fail. .
+
+
+
+
+    InThe lease/purchase agreement was not resubmitted to the Director of DAS, the Corporation
+ Counsd and the City Administrator for signature after the Council's veto override.
+                                           12                        CAR No. D-95/. RDP Dev. Corp.
+
+
+
+
+                                   III. CONCLUSION
+
+      For the reasons set forth above, the Board GRANTS the District's motion for summary
+judgment. Appellant's claim is hereby DISMISSED WITH PREJUDICE.
+
+      SO ORDERED.
+
+
+
+DATE: October 24, 1994           d..'L~~
+                                 ~.SIMKINS
+                                  Chief Administrative Judge
+
+
+
+CONCUR:
+
+
+
+
+~a.¢4.~~
+ YNTHIA G. HAWKINS-LEON
+Administrative Judge
+:   I       II
+        ,   III1
+    I        II, ,
+
+
+
+
+                                       •
+                                  ~ouernment    of tlte l1listrirt of illolumbia
+                                             CONTRACT APPEALS BOARD
+                                              717 14TH STREET, N.W., SUITE 430
+                                                   WASHINGTON. DC 20005
+
+                                                                                       12021727-6597
+
+
+
+
+                                                                       DATE: October 24, 1994
+
+
+
+
+                       TO:        Richard B. Nett1er, Esquire
+                                  1801 K Street, N.W., Suite 1200
+                                  Washington, D.C.  20006
+
+                                  Carol Paskin-Epstein
+                                  Assistant Corporation Counsel
+                                  441 4th Street, N.W., 6th Floor
+                                  Washington, D.C. 20001
+
+
+                       SUBJECT:   CAB No. D-951, Appeal of RDP Development Corporation and
+                                  642 H Street, N.E. Associates Limited Partnership
+
+
+                           Attached is a copy of the Board's opinion in the above-
+                      referenced matter.
+
+
+
+
+                                                                                 k       ~ .. Jtj.~tL~vr0/0Y}N
+                                                                                 Rose M. G1111son       7' C
+                                                                                 Clerk to the Board
+
+
+
+
+                     Attachment
+
+                     RMG/mjh
+

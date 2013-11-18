@@ -1,0 +1,438 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+LORENZ LAWN & LANDSCAPE, INC.                          )
+                                                       )       CAB No. P-0869
+Under Solicitation No. DCKA-2010-B-0219                )
+
+
+        For the Protester, Lorenz Lawn & Landscape, Inc.: Randy Alan Weiss, Esq. For the
+District of Columbia Government: Alton E. Woods, Esq., Assistant Attorney General, Office of
+the Attorney General for the District of Columbia.
+
+      Opinion by Administrative Judge Monica C. Parchment, with Chief Administrative Judge
+Marc D. Loud, Sr., and Administrative Judge Maxine E. McBean concurring.
+
+                                            OPINION
+
+                                          Filing ID 40105790
+
+The protester Lorenz Lawn & Landscape, Inc. (“Lorenz”) challenges the award made to C&D
+Tree Services, Inc. (“C&D”) by the District of Columbia (“District”) Department of
+Transportation (“DDOT”) for tree planting and other related landscaping services under IFB No.
+DCKA-2010-B-0219 (“IFB”). Lorenz alleges that the award decision was improper because the
+awardee did not meet the IFB qualification requirements and was not the lowest responsible
+bidder.
+
+Having reviewed the record, we find no evidence that the District violated procurement law or
+regulation, or the terms of the IFB, in making the subject award. Accordingly, we deny Lorenz’s
+protest challenge to the District’s source selection decision in this matter.
+
+                                        BACKGROUND
+
+The IFB, issued on August 3, 2010, contemplated the award of a firm fixed-priced contract to a
+company having proven experience in completing municipal tree planting contracts to provide
+transportation, equipment, tools, materials, supplies, facilities, labor and supervision required to
+plant trees and perform incidental tree parts removal services. (Agency Report (“AR”) Ex. 1).
+The District Office of Contracting and Procurement issued the IFB on behalf of the Urban
+Forestry Administration (“UFA”) division within DDOT which is responsible for establishing
+and maintaining a full population of healthy trees within the District. (AR Ex. 1).
+
+The IFB Provisions
+
+The services being solicited by the IFB were categorized into four different “Aggregate Award
+Groups” (Groups 1, 2, 3, and 4) which each included the base year contract period, and four
+                                                     -2-
+                                                                            Lorenz Lawn & Landscape, Inc.
+                                                                            CAB No. P-0869
+
+additional one year option periods. (AR Ex. 1). More specifically, each of the Aggregate Award
+Groups in the IFB detailed, by respective contract line items (“CLINs”) 0001 - 0012, the
+particular tree planting related services that the successful bidder would be required to provide
+within certain divisions of the District also known as “Wards” in the District. (AR Ex. 1). 1
+
+Accordingly, in response to the IFB, offerors were directed to submit proposed bid prices to
+perform all of the CLINs in each of the four Aggregate Award Groups for the base year contract
+period as well as for each of the four one year option periods. (AR Ex. 1). The IFB advised that,
+in turn, the resulting award would be made to the successful bidder by Aggregate Award Group
+for the contract base year period and the four one year option periods. (AR Ex. 1).
+
+Section L.18 of the IFB also included “General Standards of Responsibility” that were to be
+applied to all of the bidders in this procurement. (AR Ex. 1). These standards required that
+offerors demonstrate to the satisfaction of the District their capability to fully perform the
+contract requirements by providing, within 5 days of request by the District, evidence of
+adequate financial resources, credit or ability to obtain such resources as required during the
+performance of the contract. (AR Ex. 1).
+
+Additionally, the IFB set forth corporate licensing, registration and certification requirements for
+each bidder in at least two instances. Section H.21 of the IFB stated very generally that the
+successful bidder would be required to obtain the required licenses, permits, and registrations
+immediately after contract award although this provision did not establish an exact completion
+deadline for this requirement after the award:
+
+        Immediately following award, the Contractor shall obtain at its expense any
+        licenses, permits [sic] registrations necessary for the performance of this
+        contract.
+
+(AR Ex. 1).
+
+In a second instance, Section L.15 of the IFB further specified the same requirements as follows:
+
+        Each bidder must provide the following information:
+
+
+        … A copy of each District of Columbia license, registration or certification
+        that the bidder is required by law to obtain. This mandate also requires the
+        bidder to provide a copy of the executed “Clean Hands Certification” that is
+        referenced in D.C. Official Code §47-2862, if the bidder is required by law
+
+
+1
+  Aggregate Award Group 1 related to services to be provided by the awardee in Wards 1 and 3; Aggregate Award
+Group 2 related to services to be provided by the awardee in Wards 4 and 5; Aggregate Award Group 3 related to
+services to be provided by the awardee in Wards 2 and 6; and Aggregate Award Group 4 related to services to be
+performed by the awardee in Wards 7 and 8.
+                                                        -3-
+                                                                               Lorenz Lawn & Landscape, Inc.
+                                                                               CAB No. P-0869
+
+        to make such certification. If the bidder is a corporation or partnership and
+        does not provide a copy of its license, registration or certification to transact
+        business in the District of Columbia, the bid shall certify its intent to obtain
+        the necessary license, registration or certification prior to contract award or
+        its exemption from such requirements…”
+
+(AR Ex. 1).
+
+Further, because of the dollar value of the subject procurement, the IFB incorporated a provision,
+Section B.5, mandating that the successful bidder subcontract a certain percentage of the contract
+work:
+
+        A bidder responding to this solicitation must submit with its bid, a notarized
+        statement detailing any subcontracting plan required by law. Proposals
+        responding to this IFB shall be deemed nonresponsive and shall be rejected
+        if the bidder fails to submit a subcontracting plan that is required by law.
+        For contracts in excess of $250,000, at least 35% of the dollar volume of the
+        contract shall be subcontracted ...
+
+(AR Ex. 1).
+
+The Award Decision
+
+Bids were opened on September 10, 2010, and only two timely bids were received from C&D
+and the protester, Lorenz. (AR Ex. 6) C&D submitted a total bid price of $3,955,192.00 for the
+performance of the contract, which included a bid price of $988,798 for the base and four one
+year option periods for all four of the Aggregate Award Groups. (AR Exs. 2, 4(b)). Lorenz’s
+total bid, on the other hand, amounted to $4,127,760 for the four Aggregate Award Groups
+including a proposed price of $1,031,940.00 for the base and four one year options periods for all
+four of the Aggregate Award Groups. (AR Exs. 3, 4(a)). Thus, C&D’s overall proposed price
+for performing the four Aggregate Award Groups over the base and option years of the contract
+was lower than Lorenz’s bid.
+
+Subsequently, as part of the District’s evaluation of the two bids that it received from C&D and
+Lorenz, the UFA conducted a site visit with C&D at the work site of Denison Landscaping &
+Nursery, Inc. (“Denison”). (AR Ex. 7). At this site visit on September 24, 2010, C&D provided
+the District with a subcontracting plan which identified Denison as one of the two proposed
+subcontractors that C&D contemplated using to perform the contract. (AR Ex. 7). 2 During the
+site visit, UFA observed Denison’s equipment, staff, inventory, and knowledge of tree planting
+as it related to its ability to perform the requirements in the IFB. (AR Ex. 7). 3
+
+
+
+2
+ C&D, however, indicated a preference to use Denison as its subcontractor for this contract. (AR Ex. 7).
+3
+ The District also noted that Denison maintained a 900 acre nursery from which the District could get locally grown
+nursery stock for use on the contract. (AR Ex. 7).
+                                                       -4-
+                                                                              Lorenz Lawn & Landscape, Inc.
+                                                                              CAB No. P-0869
+
+Consistent with the General Standards of Responsibility criteria in the IFB described earlier, on
+October 7, 2010, the contracting officer also issued email correspondence to C&D requesting
+that the company provide a Responsibility Determination Data (“RDD”) response to the
+contracting officer. (AR Exs. 9(a), 9(b)). This included a request by the District for information
+related to C&D’s financial data, past performance, and corporate operational procedures. (AR
+Exs. 9(a), 9(b)). C&D responded with the requested RDD by letter dated October 18, 2010. (AR
+Exs. 10(a), 10(b), 10(c)). 4
+
+In order to also confirm compliance with the IFB certification requirements, on October 28,
+2010, DDOT’s contract specialist undertook the process of attempting to obtain a Clean Hands
+Certification for C&D to confirm that it had filed all required tax returns with the District and
+that it did not owe any significant outstanding monies to the District. (AR Ex. 6). 5 A company
+that does not meet these tax requirements is prohibited from receiving an award of a District
+contract. (AR Ex. 6). The Clean Hands Certification is issued by the District’s Office of Tax and
+Revenue (“OTR”) and Department of Employment Services (“DOES”). (AR Ex. 6).
+
+The initial Clean Hands report generated by the OTR and DOES database on October 28, 2010,
+indicated that C&D could not be awarded a District contract, and be issued a Clean Hands
+Certification, due to its failure to comply with the District’s tax payment laws. (AR Exs. 6, 11).
+In response to this report of C&D’s non-compliant tax status, the contracting officer sent an
+email to C&D on October 28, 2010 informing it that it had failed to receive the required Clean
+Hands Certification approval from OTR and DOES. (AR Ex. 11). The District also later
+contacted OTR for further clarification regarding this report of tax non-compliance. (AR Ex. 6).
+
+In response to the foregoing inquiry from the District, on October 29, 2010, OTR advised the
+contracting officer that the information in the Clean Hands database was not accurate due to a
+backlog in entering current information into the database during the relevant time period. (AR
+Ex. 6). To correct this administrative error, OTR ultimately provided the District with a
+manually completed tax compliance status report for C&D which effectively acted as a Clean
+Hands Certification for this company. (AR Ex. 6).
+
+Based upon a resulting determination that C&D was the lowest responsible, responsive bidder,
+on November 8, 2010, the contracting officer awarded the contract to C&D. (AR Ex. 5). On
+November 18, 2010, Lorenz filed this protest with the Board challenging the District’s award.
+(AR Ex. 6). 6 As it relates to the protest allegations, C&D provided its Foreign Corporate
+
+
+4
+  C&D’s RDD response also included a second subcontracting plan which identified Denison as a subcontractor, and
+in which C&D provided more information concerning Denison’s equipment, personnel, years of experience, letters
+of commitment, and other resources that would be available for the tree planting contract. (AR Ex. 10).
+5
+  The District’s current Clean Hands Compliance Status database was implemented during February or March 2010,
+and replaced the manual system of having each contracting officer send a separate request to the Office of Tax and
+Revenue (OTR) and the Tax Division of the Department of Employment Services (“DOES”) to acquire Clean Hands
+Certification for a proposed contractor. (AR Ex. 6).
+6
+  On January 4, 2011, the District subsequently filed a Determination and Findings to Proceed with Award after
+Receipt of a Protest, and did subsequently proceed with performance. (January 4, 2011 Notice of Determination and
+Finding to Proceed with Performance).
+                                                         -5-
+                                                                                 Lorenz Lawn & Landscape, Inc.
+                                                                                 CAB No. P-0869
+
+Registration (“FCR”) and Basic Business License (“BBL”) to the District on December 8, 2010,
+after they were requested by the contracting officer. (AR Exs. 6, 14).
+
+
+                                                 DISCUSSION
+
+We exercise jurisdiction over this protest and its underlying allegations pursuant to District of
+Columbia Code §2-360.03(a)(1). 7
+
+Awardee’s Qualifications
+
+Lorenz initially challenges the qualifications of C&D to perform the scope of services required
+by the IFB. 8 In particular, Lorenz primarily contends that the awardee is not competent to
+successfully perform the tree planting requirements set forth in the IFB because C&D’s primary
+line of business has not involved tree planting services. The protester also alleges that the District
+improperly allowed C&D to rely upon its subcontractor Denison’s tree planting experience to
+meet the IFB requirement that the successful contractor have a significant background in
+performing tree planting contracts. Our standard of review for proposal evaluations and the
+selection decision is whether they were reasonable and in accord with the evaluation and
+selection criteria listed in the solicitation and whether there were material violations of
+procurement laws or regulations. Trifax Corp., CAB No. P-539, Sept. 25, 1998, 45 D.C. Reg.
+8842, 8847.
+
+Here, the record reflects that C&D has largely provided tree removal and pruning services to the
+District over the past twenty-five years under different contracts. (AR Ex. 5). While the District
+expressly recognized during the evaluation that C&D did not have prior tree planting experience
+of the same magnitude as the subject contract, UFA’s site visit and review of C&D’s
+subcontracting plan led it to reasonably conclude that C&D’s strong subcontracting arrangement
+with Denison would allow it to successfully provide the services required under the subject tree
+planting contract. (AR Ex. 5).
+
+Specifically, as described earlier, during this site visit at Denison’s work space, UFA officials
+were able to see Denison’s facility, inspect its equipment, meet its personnel, discuss its
+knowledge and understanding of tree planting, and tour some of the over 900 acre nursery that it
+maintains. (AR Ex. 7). Thus, UFA officials reasonably determined that, as a landscaping team,
+C&D and Denison had the capacity, resources, and past experience to perform the tree planting
+contract for the District based upon this site visit and C&D’s written subcontracting plan that it
+submitted to the contracting officer describing its overall project performance approach. (AR
+
+
+7
+  Effective April 8, 2011, the Procurement Practices Reform Act (“PPRA”), District of Columbia Code §2-
+360.03(a)(1) is the controlling statute with respect to the Board’s jurisdiction. At the time that the instant protest
+was filed on November 18, 2010, the Board’s jurisdiction was governed by former District of Columbia Code
+§2.309.03. The current §2-360.03(a)(1) is identical to the former §2-309.03(a)(1).
+8
+  This decision responds to Lorenz’s protest allegations in the same order in which they were presented as Legal
+Argument in its November 18, 2010 protest.
+                                                        -6-
+                                                                                Lorenz Lawn & Landscape, Inc.
+                                                                                CAB No. P-0869
+
+Ex. 5). C&D also identified crew leaders/foreman, and supporting personnel, for each Aggregate
+Award Group as required by the IFB. (AR Ex. 10(a)).
+
+Further, the fact that C&D proposed a subcontracting arrangement to largely support the tree
+planting work required under the contract was not improper as the IFB itself mandated that at
+least 35% of the dollar value of the project work be subcontracted by the prime contractor
+because of the higher dollar value of this procurement as noted earlier. The IFB also did not
+specify, or limit, the role that could be performed by any proposed subcontractor such that
+Denison’s support of the tree planting function performed by C&D under the contract was not
+improper.
+
+As another basis for attempting to invalidate the contract award, Lorenz also argues that there
+has been past litigation, judgment liens, and criminal cases filed against C&D and its principals
+which the District is alleged to have failed to properly investigate while determining the
+awardee’s qualifications. (Protest 7 n.9). Lorenz, however, concedes that it is unknown whether
+all of its cited tax lien and criminal cases actually involve C&D’s principals or other parties with
+the same names. (Protest 7 n.9). Moreover, the record in this case reflects that, prior to contract
+award, the District checked the District and federal debarment databases and confirmed that
+C&D was not suspended or debarred at bid opening and, thus, the District reasonably determined
+that C&D was not precluded from receiving the contract award. (AR Ex. 5).
+
+Based upon these factors, the Board believes that it was reasonable for the District to ultimately
+find that C&D, along with its subcontractor Denison, were qualified and as a team could
+reasonably meet the IFB performance requirements. 9 Therefore, the contracting officer’s
+ultimate conclusion that C&D’s stated qualifications met the IFB requirements was not
+unreasonable or in violation of the IFB requirements.
+
+Bidder Responsibility
+
+Lorenz also protests the District’s determination that the awardee was a responsible bidder as set
+forth in its initial protest filing in this matter. (Protest 5-6). Specifically, Lorenz alleges that,
+contrary to the IFB responsibility requirements, the awardee: 1) failed to obtain its FCR in the
+District of Columbia; 2) failed to obtain the BBL required of companies doing business in the
+District under §47-2851.02 of the District of Columbia Code; and 3) failed to comply with
+corporate tax law requirements which precluded the awardee’s ability to obtain the Clean Hands
+Certification in the District. (Protest 5-6). The protester asserts that this was in violation of the
+terms of the IFB which required that offerors meet these registration, licensing and certification
+requirements prior to contract award.
+
+Bidder responsibility is a prerequisite to contract award. District of Columbia Code §2-353.02(a).
+The contracting officer must make a written determination as to whether the prospective
+
+9
+  Well after its November 18th protest was filed in this matter, Lorenz made a number of allegations challenging the
+qualifications, and responsibility, of Denison. These allegations are obviously untimely and do not provide grounds
+that can be considered by the Board for overturning the subject award decision. (See, e.g., Protester’s August 19,
+2011, Supplemental Evidence in Support of Motion for Limited Discovery).
+                                                 -7-
+                                                                      Lorenz Lawn & Landscape, Inc.
+                                                                      CAB No. P-0869
+
+contractor is responsible, and in the absence of information clearly indicating that the contractor
+is responsible, the contracting officer shall determine the contractor to be nonresponsible. 27
+District of Columbia Municipal Regulations (“DCMR”) §§2200.1 – 2200.3. The general
+standards of responsibility are set forth in 27 DCMR § 2200.4.
+
+In making the determination of responsibility, the contracting officer is vested with wide
+discretion and business judgment. Therefore, in reviewing a determination concerning general
+standards of responsibility, the Board will not overturn a finding of responsibility or
+nonresponsibility unless the protestor shows bad faith on the part of the contracting agency or
+that the contracting officer's determination lacks any reasonable basis. Children, Children,
+Children, Inc., CAB No. P-0858, Jan. 7, 2011 citing Anchor Construction Corp., CAB No. P-
+0737, Jan. 9, 2007, 54 D.C. Reg. 2066, 2068; Ideal Electrical Supply Corp., CAB No. P-0372,
+Aug. 13, 1993, 41 D.C. Reg. 3603, 3606.
+
+In this case, there is no evidence that the District’s responsibility determination with regard to the
+awardee was made in bad faith or lacked a reasonable basis. First, the protester has not shown
+that the awardee failed to meet the General Standards of Responsibility for bidders as set forth in
+Section L.18 of the IFB by virtue of C&D’s response to the RDD prior to contract award
+concerning its financial and operational capabilities to perform the contract. Instead, the
+protester primarily challenges whether the awardee failed to meet additional responsibility
+criteria, including the FCR, BBL and Cleans Hands Certification, prior to contract award.
+
+However, as stated earlier as it relates to the license and registration requirements, Section H.21
+of the IFB only generally stated that the successful bidder must obtain all required licenses,
+permits and registrations immediately after contract award. No fixed date or deadline was
+attached to this requirement to further define or limit the period within which the successful
+bidder was required to obtain these approvals after award assuming this provision was to apply
+to the FCR and BBL requirements.
+
+Similarly, Section L.15 of the IFB also seemingly addresses these same registration, license and
+certification requirements. In this regard, L.15 provided that the bidder could either produce
+evidence of these approvals with their bid submission or, alternatively, certify to the contracting
+officer their intent to obtain these approvals prior to award.
+
+Undoubtedly, C&D did not provide its FCR or its BBL with its original bid submission and only
+provided it to the contracting officer on December 8, 2010 after the contract had been awarded
+on November 8, 2010. Nonetheless, as discussed above, Sections H.21 and L.15 of the IFB, read
+together, clearly evidence that the contracting officer could reasonably accept evidence of the
+FCR and BBL requirement being met after bids were submitted and even after the contract was
+awarded.
+
+Indeed, this Board, as well as other bid protest tribunals such as the Government Accountability
+Office (“GAO”), have repeatedly held that these very types of registration, license and
+certification requirements are matters of responsibility and may be met by a bidder after bid
+opening and even after contract award. See C&D Tree Services, Inc., DC CAB No. P-440,
+March 11, 1996, 44 D.C. Reg. 6426, 6433-6439, citing Modern Electric, Inc., DC CAB No. P-
+                                                       -8-
+                                                                              Lorenz Lawn & Landscape, Inc.
+                                                                              CAB No. P-0869
+
+341, April 5, 1993, 40 D.C. Reg. 5068, 5069; see also Chem-Spray-South, B-400928.2, June 25,
+2009, 2009 CPD ¶ 144, citing Serguranca, Ltd., B-294388, Oct. 24, 2004, 2004 CPD ¶ 207.
+Therefore, the Board does not believe that the contracting officer acted unreasonably in
+accepting this documentation from C&D after the award decision was made. Moreover, C&D
+was also clearly and reasonably deemed to have met the other general responsibility criteria in
+the IFB.
+
+In addition, while there was initially a question as to whether C&D could obtain the required
+Clean Hands Certification, this issue was later resolved in favor of C&D prior to contract award.
+As noted earlier, the contracting officer first received a report that C&D could not obtain the
+Clean Hands Certification and, after further investigation with OTR, the contracting officer
+learned that this information was incorrect. As a result, this administrative error was corrected
+and a valid Clean Hands Certification was issued by OTR and DOES for C&D as required by the
+IFB.
+
+For these reasons, the Board finds that C&D was properly deemed by the District to have met the
+responsibility criteria in the IFB and, therefore, that the District did not act arbitrarily in finding
+C&D to be eligible for award. 10
+
+The Evaluation Results
+
+Lorenz further cites to a number of professional accolades which it purports to have received
+from its clients in arguing that the District’s award decision was generally improper and arbitrary
+and capricious as Lorenz was allegedly more qualified. Lorenz’s allegations that it is more
+qualified, at best, constitute mere disagreement with the District’s award decision. The protester
+has the burden of affirmatively proving its case and the fact that the protester does not agree with
+the agency's technical conclusions does not in itself render the evaluation unreasonable.
+Emergency Associates of Physician's Assistants & Nurse Practitioners, Inc., CAB No. P-500,
+Dec. 15, 1998, 46 D.C. Reg. 8527, citing Contel Information Systems, Inc., B-220215, Jan. 15,
+1986, 86-1 CPD ¶ 44; Litton Systems, Inc., 63 Comp. Gen. 585, 84-2 CPD ¶ 317.
+
+Lorenz also challenges the bid price evaluation and maintains that it and C&D’s prices were
+essentially equal because Lorenz’s bid was lower priced in the base year. Therefore, Lorenz
+asserts that it should have received the award given its claim of having superior qualifications.
+The IFB, however, advised bidders that award would be made to the overall lowest priced
+responsible and responsive bidder. (IFB Section B.1.2). Undeniably, C&D proposed $3,955,192
+in total to perform the contract’s four Aggregate Award Groups over the life of the contract
+which was lower than Lorenz’s total bid of $4,127,760. Thus, the fact that Lorenz’s bid may
+have been lower in the base year did not justify making the award to Lorenz at an overall higher
+cost.
+
+
+10
+  Over the course of these proceedings before the Board, Lorenz also argued that C&D has failed to meet these
+registration, license and certification legal requirements for many years preceding the present contract award.
+C&D’s history of legal compliance on other procurements, other than the present contract, are not relevant to this
+proceeding and, thus, do not provide sufficient or timely bases for challenging the present contract award.
+                                               -9-
+                                                                   Lorenz Lawn & Landscape, Inc.
+                                                                   CAB No. P-0869
+
+
+                                        CONCLUSION
+
+Based upon the factors discussed herein, we conclude that the District’s source selection decision
+was reasonable and consistent with the IFB and, thus, the Board finds no violation of
+procurement law in this matter.
+
+The protest is DENIED.
+
+
+SO ORDERED.
+
+
+DATED: September 29, 2011                            /s/ Monica C. Parchment
+                                                     MONICA C. PARCHMENT
+                                                     Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+/s/Maxine E. McBean
+MAXINE E. MCBEAN
+Administrative Judge
+

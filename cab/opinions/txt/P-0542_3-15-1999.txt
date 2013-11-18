@@ -1,0 +1,257 @@
+                                                                                                                  [7678]
+
+                        GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+
+
+ PROTEST OF:
+
+          M & M WELDING AND FABRICATORS, INC.                       )
+                                                                    )   CAB No. P-542
+          Under Solicitation No. CMHS-98-B-0002-LS                  )
+
+         For the Prot~ster: 1. Scott Hommer, III, Esq., Venable, Baetjer and Howard, LLP. 'Fo~ the
+ Intervenor: KristaL. Pages, Esq., Smith, Pachter, McWhorter & D' Ambrosio. For the District: Howard
+ Schwartz, Esq., Warren 1. Nash, Esq., and H. Christopher Malone, Esq., Assistants Corporation Counsel.
+
+        Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge Lorilyn
+ E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.·
+
+                                                 OPINION
+
+           M & M Welding and Fabricators, Inc. ("M&M") protests emergency IFB No. CMHS-98-B-
+  0002-LS for containing unduly restrictive specifications which required that the solicited centrifugal 'Nater
+  chillers be manufactured on or after June 1993. In a supplem~ntal protest, M&M challenges an award
+  made to American Combustion Industries, Inc. ("ACI"), the low bidder. Although it now appears that the
+. manufacturing date requirement was unduly restrictive, we conclude that the agency committed no legal
+  error because the requirement was reasonably based on infonnation the procuring agency obtained shortly
+  before IFB issuance from six potential contractors, including M&M. We also conclude that the agency
+  did not violate law orregulation in proceeding with an award to ACI rather than resoliciting, in view of the
+  emergency conditions presented here. Accordingly, we deny the protest and"supplemental protest.
+
+                                             BACKGROUND
+
+         On May 21, 1998, the District's Department ofHurnan Services, Commission on Mental Health
+ Services ("CMHS"), issued emergency Solicitation No. CMHS-98-B-0002-LS, for the provision and
+ installation of two 1,OOO-ton centrifugal water chillers and associated equipment for the centr~1 air
+ conditioning plant at St. Elizabeth's Hospital. ;(Agency Report ("AR") Ex. 1). Chillers are critically
+ important to the operation ofSt. Elizabeth's Hospital during the air conditioning season which starts OIiMay
+ 15. The chillers are used for cooling the St. Elizabeth's Hospital, ensuring a healthy and therapeutic
+ environment for patients and a proper temperature necessary for preserving critical medical supplies. (AR
+ Ex. 2). The record discloses that an emergency procUrement was required because CMHS's Chief
+ Contracting Officer, Mr. SidneyWise, had directed the previous rental supplier of chillers (tvl&M) to
+ remove its existing chillers by May 27, 1998. M&M promptly removed the chillers, thus leaving.CMHS
+
+
+ • Judge Booker, originally assigned as the presidingjudge, resigned from the Board prior to the disposition
+ of this case.
+                                                                                                                           (7679)
+
+                                                             _2 -          M&M Welding & Fabricators, CAB No. P-542
+
+
+        with no chillers on the premises for the air conditioning season which had already begun.
+
+                The IFB specification provision challenged by M&M, Section C.3.1, requifed bidders to provide
+        chillers which were not manufactured before June 1993 1
+
+                The offerror shall provide chillers as specified below in paragraph "a" which were not
+                manufactured before June 1993. The chillers shall contain the manufacturer's original serial
+                number, model number, and any other manufacture's equipment identification numbers
+                which will assist the Commission on Mental Health Services in determining the year the
+                chillers were manufactured.
+
+        (AREx. I).
+
+                  Shortly before the time for bid opening on June 1, 1998, M&M filed its protest, alleging that
+        Section C.3 .1 was unreasonable and unduly restrictive. M&M states in its protest,that on May 28, 1998,
+        it first learned that there was only one supplier who could provide chillers meeting the June 1993
+        manufacturing requirement.                                                        .             .
+
+                 Mr. John H. Haizlip, responsible for defining the chiller requirements used in the soliCitation,.states
+        in an affidavit that CMHS had a problem with the used chillers that had previously been installed by M&M
+        in 1997. Those chillers were manufactured in approximately 1982 and they used type R-II refrigerant that
+"   "
+        was being phased out by the EPA. (Haizlip Aff. ~ 2, District's Response to M&M's Comments, filed July
+        27, 1998). Thus, CMHS decided it would be best to purc.hase new chillers having a long useful life and
+        which would use a newer type of refrigerant not subject to early EPA phase-out. (Id.). However, Mr.
+        Haizlip discovered that newly manufactured chillers were riot readily available for CMHS' s emergency and
+        immediate needs for chillers because it takes approximately 22 weeks to manufacture a cqiller.
+
+                 Knowing that the useful life of a centrifugal water chiller is approximately 20 to 30 ye.  ars; Mr.
+        Haizlip concluded ~at CMHS should procure chillers that were no older than 5 years so that they would
+        have a useful life of 15 to 25 years. Moreover, Mr. Haizlip believed that a chiller manufactured after June
+        1993 would use newer refrigerant types which would allow the chillers to operate more efficiently and
+        which would not be subject to early phase-out by EPA. (Haizlip Aff. ~ 3). Mr. Haizlip then decided to
+        survey potential vendors to determine the availability ofchillers manufactured in the past five years. On or
+        about May 13, 1998, Mr. Haizlip surveyed six companies (M&M, ACT, NuTemp, Hurley Co., In Deck
+        Power Equipment Co., and Precision'Mechanical Services, Ltd.) and representatives from all six
+        companies, including Messrs. Oden and Mullican ofM&M, informed Mr. Haizlip that they could provide
+        chillers five years old or newer. (Haizlip Aff. ~~ 4-8). Based on the results of his survey, Mr. Haizlip and
+        CMHS determined that chillers manufactured within the last five years were readily available for lease or
+        purchase. (Id. ~ 9; Burnette Aff. ~ 4). There is no specific reason why Mr. Haizlip chose the month of
+        June in 1993 other than the fact that 5 years subtracted from the anticipated June 1998 procurement date
+        yields June 1993.
+                                                                                                               [7680]
+
+                                                   _3 -          M&M Welding & Fabricators, CAB No. P-542
+
+
+       . CMHS' s solicitation requested that bidders submit separate bid price schedules for a l20-day
+lease and for a option to purchase the chillers. CMHS received bids from M&M, ACr, and American
+Mechanical Services. No bidder took exception to the June 1993 chiller requirement in its bid. ACr was
+the apparent low bidder:
+                                                                               Total Cost
+Bidder                   120 day lease           Purchase Price Option         Lease '& Purchase
+
+ACI                     $487,424                 $460,000                         $ 947,424
+
+American            $397,540                     $567,270                         $ 964,810
+Mechanical Services
+                                                                                                 ,
+M&M                     $434,062                 $607,762                         $1,041,824
+
+(AREx. 3). At the time of contract award, CMHS decided to exercise the option to purchase the chillers.
+On June 5, 1998, CMHS executed a contract with ACI to purchase the chillers: The first chiller was
+delivered approximately one week later and the second chiller arrived the following week.
+
+        On June 5, 1998, the Chief Procurement Officer filed a determination to proceed with award and
+contract performance during the pendency of the protest; based upon a fmding of the District's urgent and
+compelling need to provide chillers in order to cool St. Elizabeth's Hospital during the summer season. On
+June 12, 1998, M&M filed a motion challenging the determination. Although M&M does not seriously
+dispute the critical need for the chillers, it points but that CMHS created the emergency condition when it
+removed the existing chillers before it had procured their replacement. Although we agree 'with M&M that
+the emergency condition was created by CMHS' s poor planning and questionable decision to remove the .
+existing chillers before replacements could be delivered, we saw no reason to disturb the CPO's
+determination to proceed because the immediate need for ,chillers at St. Elizabeth's .
+                                                                                       Hospital was obvious.
+
+        On June 19, 1998, M&M filed a supplemental protest challenging the award of the contract to
+ACI. M&M argues ACI's bid was nonresponsive because the two boilers ACI installed were
+manufactured by York International Corporation before1une 1993, and therefore did not comply with the
+specifications.
+
+         CMHS states that it inspected the chillers shortly after ACr had installed ~ern and discovered that
+both were manufactured before June 1993. On June 23,1998, GMHS issued a notice to Acr to cure
+the deficiency within 10 days. In its response to the cure notice, ACI stated that it had relied on the
+representation ofits supplier, NuTernp, that the chillers met the specified June 1993 manufacture date.
+NuTemp states that the chillers were delivered from the manufacturing plant in April 1993, and that final
+testing, start-up, and acceptance occurred on June 8, 1993 . Thus, according to ACI and NuTemp, the
+chillers meet the June 1993 "manufacture date" where "manufacture date" refers to when the units were
+first put into operation. ACI also states tha~ only York made the centrifugal type chiller required by the
+specification, that no other York chillers were available from any sOurce except the two Yark chillers from
+                                                                                                                [7681]
+
+                                                    _4 -         M&M Welding & Fabricators, CAB No. P-542
+
+
+NuTemp, and that all three bidders had planned on installing the same two York chillers. 2 (District's July
+27, 1998 Response, Ex. 5, at 2).
+
+         In a written determination not to default terminate ACI, CMHS' s contracting officer found that the
+York chillers were shipped from the factory on March 26; 1993, and both chillers were placed mto initial
+operation on June 8, 1993. Although finding the chillers noncompliant with the manufacture date
+requirement, the contracting officer concluded that termination was not warranted based on other factors
+such as the unavailability ofthe chillers from other sources and the urgent need for the chillers. Instead of
+a termination; the contracting officer and ACI negotiated a modification ofthe contract from a purchase
+to a 120-day lease with a reduction in price to $432,000. CHMS also decided to issue a new solicitation
+for the purchase ofchillers. On December 3, 1998, CMHS issued a new solicitation for the purchase and
+installation of two new centrifugal chillers and accompanying equipment.
+                                                           '.'
+                                             DISCUSSION
+
+         There is no dispute concerning our jurisdiction over M&M' s protest of the solicitation pursuant
+to D.C. Code § 1-1189.3(a)(1) (Supp. 1998). However,. the District contends that the Board lacks
+jurisdiction over M&M' s supplemental protest ofthe award to ACI because whether ACI' s chillers as
+delivered comply With the specifications is a matter ofcontract administration. 3 The District cites our
+decision in Shane Meat Co. , CAB Nos. P-339, etal., Jan. 8, 1993, 40D.C. Reg. 4885, where we stated
+that a protester's argument that an agency improperly relaxed specification requirements after award is
+"based on contract performance and thus is not a proper &round for a protest." 40 D.C. Reg. at 4899.
+Al though Shane Meat states the general rule correctly, we, Iike the GAO, recognize exceptions such as
+where the protest alleges that a contract modification or relaxation ofthe specifications after award have
+prejudiced the original competition for the contract. For example, M&M cites Falcon Carriers, Inc., 68
+Compo Gen. 206 (1989), 89-1 CPD ~ 96, reconsid.    .       on other. grounds. sub nom. Military Sealift
+Command, B-232562, June 12, 1989,89-1 CPD ~ 550, where the GAO sustained a protest bec.ause
+a material term of the solicitation was modified at the time of award and 14e protester ·had been
+competitively prejudiced because the competition for the contract as modified could have been materially
+different from the competition originally obtained. The GAO stated:
+
+        Ifthe integrity ofthe competitive bidding system i~ to be maintained, agencies may not
+        award contracts with the intention of significantly modifying them aft~ award; rather, an
+        award must be based on the requirements stated in the solicitation.... If we find that the
+        competition for the contract as modified would be mate!ially different from the competition
+
+
+2 Although in its latest briefM&M weakly disputes the claim that there was only one source, it admitted
+as much in its protest in order to show that the manufacturing date requirement was overly restrictive of
+competition.
+
+3The District also argues
+                     .
+                          that the supplemental protest' was
+                                                          .
+                                                             not timely filed. That argument is without
+merit.
+                                                                                                                  [7682]
+
+                                                     _5 -          M&M Welding & Fabricators, CAB No. P-542
+
+
+         originally obtained, then we generally will conclude that the award was i~proper and
+         recommend resolicitation under revised specifications.
+
+ 68 Compo Gen. at 209. Where it is alleged that a proposed contract modification will be outside !be scope
+  of the original contract, the question is whether the original purpose or nature of the contract would be so
+  substantially changed by the modification that the original contract and the modified contract would be
+  essentially different and the field of competition materially changed. See, e.g., Avtron Mfg., Inc.,
+  67 Compo Gen. 404, 406-07 (1988), 88-1 CPD;         , 458, reconsid. sub nom. Defense Technology Corp.,
+ ·67 Compo Gen. 614 (1988), 88-2 CPD ~ 273; Marvin J. Perry & Assocs., B-277684, Nov. 4, 1997,
+  97-2 CPD ~ 128; American Air Filter Co., 57 CompoGen. 567 (1978), 78-1 CPD ~ 443 .
+
+         In the present case, M&M filed a solicitation protest challenging the restrictive nature of a
+ specification provision requiring a June 1993 chiller manufacturing date, which is precisely the contract term
+  involved in M&M' s supplerp.eqtal protest challenging the award to ACr on the ground that the chill~rs
+. actually delivered by Acr did not meet thatrequrrement. Clearly, both law and logic compel us to consider
+  both protest grounds together. On the merits of M&M's solicitation challenge, the District argues that the
+  June 1993 manufacturing date requirement was not unduly restrictive and met the District's minimUm needs.
+  With regard to ACI' s ~elivery ofapparently non-compliant chillers, the District states that CMHS has not
+  waived or modified that contract term but has elected not to terminate ACI's contract for default after
+. weighing factors such as the unavailability ofcompliant chillers and the urgent need to keep the chillers in
+  operation without disruption.
+
+           We believe that the record adequately shows that the June 1993 chiller manufacturing date
+  restricted competition to a single supplier, NuTemp, and that the June 1993 dat~ was not essential for
+  CMHS acquiring the type of chillers that it desired. However, we are unable to sustain M&M' s protest
+. of the solicitation because M&M itself, as well as the other prospective bidders, advised CMHS sh~rtly
+  before the solicitation was issued that it could obtain chillers 5 years old or newer. It was based on the
+  vendor survey information that Mr. Haizlip and CMHS determined that chillers manufactured within the last
+  five years were readily available for lease or purchase. In light ofthe emergency conditions and immediate
+  need for the chillers, and the receipt of.three unqualified bids (including one from M&M), it was not
+  unreasonable for the contracting officer to proceed with an award to ACr rather than resolicit under revised
+, specifications. In our view, CMHS effectively modified the manufacturing date requirement when it
+  renegotiated the terms and price ofthe contract with ACr, but we do not find that action unreasonable
+  under the emergency condi tions facing CMHS at the time. We presume that this fact pattern will not be
+  repeated in future CMHS procurements.
+
+         Accordingly, the protest and supplemental protest \lIe denied. M&M's request for its discovery
+ costs, bid preparation costs, and legal costs is also denied.
+
+ DATED: March 15.1999
+                                                                                             [7683]
+
+                                       -6-        M&M Welding & Fabricators, CAB No. P-542
+                                             !,
+                                                                                                ,.
+CONCURRING:
+
+
+
+~$'~
+~tSI                      S      t;d
+. Chief Aillninistrative Judge
+
+
+
+
+                                             .,
+

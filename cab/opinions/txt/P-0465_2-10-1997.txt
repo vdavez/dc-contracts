@@ -1,0 +1,404 @@
+                             •
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                                                      •                      [7238]
+
+
+
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       C&E SERVICES, INC. OF WASHINGTON                     )
+                                                            )       CAB No. P-465
+       Under Solicitation No. OMS-7002-AA-AC                )
+
+
+       For the Protester: Mr. Carl L. Biggs, General Manager, C&E Services, Inc., pro se.
+For the Government: Anne Cauman and Howard S. Schwartz, Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+                                           OPINION
+
+         C&E Services, Inc. of Washington ("C&E ") has filed a protest of the revised Emergency
+Solicitation No. OMS-7002-AA-AC, challenging the decision of the Department of Public Works
+("DPW") cancelling -- after bid opening -- the initial Emergency Solicitation, issued in the small
+business set-aside market and reissuing the Emergency Solicitation in the open market. C&E
+was low bidder on both the initial and revised solicitation, but lowered its bid price in
+responding to the revised solicitation. Relying on the Water and Sewer Authority Establishment
+and Department of Public Works Reorganization Act of 1996 (the "WASA Act"), D.C. Law lI-
+llI, D.C. Code §§ 43-1661 to 43-1689 (Supp. 1996), which created the District of Columbia
+Water and Sewer Authority ("WASA"), and certain provisions of the WASA Act which make
+the Procurement Practices Act ("PPA ") inapplicable to WASA procurements, WASA argues that
+the Board lacks jurisdiction over this protest. Alternatively, on the merits of the protest, WASA
+argues that DPW properly decided to cancel the initial solicitation and issue the revised
+solicitation because the United States Environmental Protection Agency ("EPA") advised DPW
+that use of a set-aside procurement would violate EPA requirements for open competition and
+therefore would preclude federal funding.
+
+       We conclude that this procurement was issued by DPW and conducted by DPW under
+the terms of the PPA, not the WASA Act. Therefore, the Board has protest jurisdiction. On
+the merits, we agree that DPW had a compelling reason for cancelling the initial solicitation and
+issuing the revised solicitation in the open market. Accordingly, we deny the protest.
+
+                                            FACTS
+
+       On October 21, 1996, DPW issued the initial Emergency Solicitation No. OMS-7002-
+AA-AC in the small business set-aside market, for the procurement of an estimated 900,000
+gallons of methanol. (C&E Response, filed January 23, 1997, Tab A; WASA Response, filed
+January 13, 1997, Exhibit 1, at 3-13, Exhibit 2, at 1-4). The due date for bids was October 23,
+1996. On October 22, 1996, DPW's contracting officer certified the "Findings" section of a
+                              •                -2-
+                                                                        •                          [7239]
+
+                                                                      C&E Services, Inc., CAB No. P-465
+
+Determination and Findings ("D&F") justifying the need for the emergency procurement. The
+first finding cites D.C. Code § 1-1183. 12(a)(1) (" Emergency Procurements ") and 27 DCMR §
+1710 ("Emergency Procurements") as authorization for the action. In his findings, DPW's
+contracting officer states that "DPW will solicit quotations to obtain the maximum practical
+competition." (Id., Exhibit 2). The "Determination section of the D&F states:
+                                                       II
+
+
+
+
+       Based on the findings, it is hereby determined that the subject methanol should
+       be procured on an emergency basis in accordance with D.C. Code section 1-
+       1183. 12(a)(1) and 27 DCMR section 1710, as certified [by DPW's contracting
+       officer] above.
+
+The "Determination" is dated October 24, 1996, and signed by the Director of the Department
+of Administrative Services ("DAS Director"). By memorandum dated October 24, the DAS
+Director returned the executed D&F to the Director of DPW. In the memorandum, the DAS
+Director notes that 27 DCMR § 1710.5 limits the period of emergency procurements to a
+maximum of 120 days, and the DAS Director directs that the DPW Director ensure that "the
+maximum period of this emergency procurement does not exceed 120 days and that you initiate
+a separate non-emergency procurement for this requirement . . . . " (Id., Exhibit 2).
+
+        DPW received quotations from three vendors, and the low bid was C&E's at $594,000.
+(Id., Exhibit 5). No award was made. Instead, on October 28, 1996, DPW issued Addendum
+No.1, revising the initial solicitation by eliminating the small business set-aside restriction and
+requesting new bids due that same day at 5:00 p.m. (Id., Exhibit 1, at 1-2; C&E Response,
+filed January 23, 1997, Tab A). Apparently, there is no D&F supporting DPW's action of
+cancelling the initial solicitation and issuing the revised solicitation. DPW received timely
+quotations from five vendors, the three vendors who responded to the initial solicitation plus two
+other vendors. C&E was again the low bidder, with an actual bid price of $585,000 and an
+evaluated bid price of $514,800. (WASA Motion to Dismiss, filed December 2, 1996, Exhibit
+2).
+
+        On October 28, 1996, C&E filed its protest. On November 5, 1996, C&E received
+contract award pursuant to the revised emergency solicitation. (WASA Motion to Dismiss,
+Exhibit 3). Apparently, there is no written determination of the basis for the selection of C&E.
+On December 2, 1996, WASA moved to dismiss the protest on the ground that the WASA Act
+and WASA's emergency contracting procedures govern the solicitation and award rather than
+the PPA. On December 10, 1996, C&E filed an opposition to the motion arguing that the
+solicitation was issued by DPW under the PPA and that WASA has not established its own
+procurement system but rather continues to use DPW's Office of Management Services for
+conducting its procurement activities. The Board directed WASA to respond to C&E's
+opposition and also address the merits of the protest by submitting any determination and
+findings supporting DPW's decision to amend the initial solicitation rather than make an award
+pursuant to it. (Order and Report on Telephone Conference, dated December 17, 1996). On
+January 13, 1997, WASA filed its response. C&E filed a reply on January 23, 1997.
+                             •                -3-
+                                                                      •                          [7240]
+
+                                                                    C&E Services, Inc .• CAB No. P-465
+
+                                        DISCUSSION
+
+I.     Jurisdiction
+
+        To determine whether the PPA confers protest jurisdiction over a particular solicitation,
+we must consider the type of contract or agreement contemplated, the nature of the agency
+conducting the solicitation, the basis for the procurement or contracting authority, and the
+statutory and regulatory scheme which controls the procurement or disposal being solicited.
+D.C. Code §§ 1-1181.4, 1-1181.5; Eastern Avenue Development Corp., CAB No. P-437, Sept.
+26, 1995, 8 P.D. 7036, 7039; Potomac Capital Investment Corp., CAB No. P-383, Jan. 4,
+1994, 41 D.C. Reg. 3885, 3893; Metropolitan Svc. & Maint. Corp., CAB No. P-388, Feb. 7,
+1995, 42 D.C. Reg. 4918, 4925-27.
+
+       The PP A governs contracts and solicitations of all agencies of the District government
+which are subordinate to the Mayor. D.C. Code § 1-1181.4(c)-(d) (1992). DPW, an agency
+subordinate to the Mayor, is covered by the PPA. Created by the W ASA Act, effective April
+18, 1996, WASA is an independent authority having a separate legal existence within the District
+government. Thus, WASA is not an agency subordinate to the Mayor .. WASA is the successor
+to the Water and Sewer Utility Administration ("W ASU A") which was an administration within
+DPW. The WASA Act transferred all functions ofWASUA to WASA. D.C. Code § 43-1689
+(Supp. 1996). On an interim basis, all assets and liabilities of WASUA were transferred to
+WASA. Id.§ 43-1677(e).
+
+        The WASA Act established a Board of Directors to manage WASA. Id. § 43-1674.
+Until the initial meeting of the WASA Board, the existing management of WASUA served as
+the operator of WASA. Id. § 43-1687(a). The record suggests that the initial WASA Board
+meeting occurred on September 26, 1996. (District's January 13, 1997 Response, Exhibit 3,
+at 1). After the WASA Board's initial meeting, WASUA was statutorily abolished. D.C. Code
+§ 43-1687(a).
+
+       Central to WASA's jurisdictional argument, the WASA Act exempts WASA from the
+PPA and the District's Merit Personnel Act once WASA establishes personnel and procurement
+systems and promulgates rules and regulations pertaining to the W ASA Board's duties. Entitled
+"Procurement system inapplicable, D.C. Code § 43-1684 provides:
+                                   II
+
+
+
+
+               Except as provided in section 217(b) [D.C. Code § 43-1687(b)], the
+       District of Columbia Procurement Practices Act of 1985 ... shall not apply to
+       the Authority [W ASA].
+
+Section 217(b) of the WASA Act, D.C. Code § 43-1687(b), provides in relevant part:
+
+               Until the [W ASA] Board establishes a personnel system and a procurement
+       system, and until rules and regulations pertaining to the Board's duties have been
+       promulgated, the District of Columbia Procurement Practices Act . . . and the
+       District of Columbia Government Comprehensive Merit Personnel Act ... and
+       implementing rules and regulations shall continue to apply to the Authority.
+                             •                 -4-
+                                                                       •                          [7241]
+
+                                                                      C&E Services, Inc., CAB No. P-465
+
+        At its second meeting, held on October 3, 1996, the WASA Board adopted interim
+personnel and procurement rules through documents styled as notices of emergency rulemaking.
+(Motion to Dismiss, Exhibit 1; District's January 13, 1997 Response, Exhibit 3). WASA's
+notice of emergency rulemaking governing its procurement procedures makes the PPA and the
+District-wide procurement regulations (Title 27 of the DCMR) generally inapplicable except for
+selected chapters and provisions from Title 27 of the DCMR. The notice makes applicable in
+whole the provisions of 27 DCMR Chapters 8, 9, 12, 16, 21-25, 27, 31, 33, 36-37, and 42.
+The notice makes applicable with modifications portions of 27 DCMR Chapters 13, 15, 17-20,
+26, 28, and 32. All chapters made applicable in whole or in part are further modified by the
+notice which calls for substituting "WASA" for each reference to the "District" and for
+substituting the W ASA Board or the WASA General Manager for references to the Director of
+the Department of Administrative Services, depending on the amount of the contract or dispute.
+(Motion to Dismiss, Exhibit 1, at 3,15). Chapter 38 of Title 27 of the DCMR, dealing with
+protests, claims, and disputes subject to our jurisdiction under the PPA, is omitted. In its place,
+the notice provides:
+
+       The right to protest requests for proposals, invitations for bids, specifications and
+       awards shall be as specified in the respective document. Generally, appeals will
+       be within ten (10) working days and submitted to the [W ASA] Board or General
+       Manager, depending on the estimated amount of the contract.
+
+       The right to appeal a decision of the contracting officer will be as specified in the
+       contract. GenerallY, appeals from decisions of the contracting officer will be
+       within thirty (30) calendar days, and submitted to the [WASA] Board or the
+       General Manager, depending on the amount of the Contract or the amount of the
+       claim.
+
+(Id., Exhibit 1, at 3, "3-4). During the October 3, 1996 WASA Board meeting, a member
+asked for consideration of the dispute resolution provisions. When asked how the WASA Board
+would deal with disputes, the meeting minutes record the following interpretation by WASA's
+legal counsel:
+
+       [Legal counsel] noted that protests and appeals were handled through Chapter 38
+       and indicated that there had been several issues with the DCMR primarily the
+       Federal Acquisition Regulations, Chapter 10, and the claims resolution aspect of
+       it, Chapter 38. He explained that the interim regulations purport to address both
+       sections. He explained that the contract bidding document will include the
+       procedure and specify the contract amount, length of time and to whom to file
+       protests. He said the same applies for appeals. [He] reminded the Board that for
+       existing contracts, some of which are likely to play out over the next three years,
+       D. C. has followed the procedure of putting the appeal process into the contract;
+       therefore, the Authority still will have to take those existing contracts to the
+       Contract Appeals Board.
+
+(District's January 13, 1997 Response, Exhibit 3, at 6).
+                             •                 -5-
+                                                                      •                         [7242]
+
+                                                                     C&E Services, Inc., CAB No. P-465
+
+       Our review of the solicitations at issue here, the manner in which the procurement was
+conducted, and the exercise of procurement authority, when measured against WASA's own
+interim contracting procedures, convinces us that the initial and revised solicitations were
+conducted pursuant to the PPA and the District-wide procurement regulations, not WASA's
+interim contracting procedures. Therefore, the WASA Act's exemption from the PPA does not
+apply here and we properly exercise protest jurisdiction.
+
+       It is clear that DPW, not WASA, issued both the initial and the revised solicitations and
+conducted the procurement. The transmittal pages bear DPW's letterhead. The solicitation
+number for the initial and revised solicitations begins with the "OMS" leader, referring to
+DPW's Office of Management Services. Addendum No.1, embodying the revised solicitation,
+and printed on DPW letterhead, was issued by the Acting Chief of the Contract Support Division
+of DPW's Office of Management Services. The initial and revised solicitations contain
+references to the "contracting officer" and the "District." There is no mention or reference to
+WASA, the WASA Board, or the WASA General Manager. Although WASA argues that DPW
+conducted the procurement on behalf of WASA, that alone does not compel the conclusion that
+the W ASA Act applies to this procurement. The issue is whether DPW was conducting the
+emergency procurement under the PPA or under WASA's interim contracting procedures. We
+conclude that DPW conducted the procurement under the PPA .
+
+        .The solicitation language itself shows indicia of a PP A procurement, but no indicia of
+a WASA Act procurement or even any reference to either the W ASA Act or the interim
+contracting procedures adopted by the WASA Board of Directors. The initial and revised
+solicitations incorporate the District's "Standard Contract Provisions for use with the District of
+Columbia Supply and Services Contracts" (Dec. 1984). Article 17 of those Standard Contract
+Provisions provides for resolution of disputed claims through appeal to our Board. Article 17
+does not, standing alone, resolve the question of our protest jurisdiction because the Standard
+Contract Provisions do not address protests of agency solicitations or awards. 1 A protest clause
+can be found in Article 9 of the District's "Instructions to Bidders" (June 1991). The
+solicitations here, however, do not expressly incorporate the "Instructions to Bidders. ,,2
+Solicitations should contain a clause clearly advising prospective contractors of their protest
+rights, because procurement policy strongly favors, and procurement law usually requires,
+prompt assertion and adj udication of protests. 3 The initial and revised emergency solicitations
+here contain no protest clause and do not reference any procedures for handling protests.
+
+
+
+1 For WASA procurements and contracts exempt from the PPA by virtue of D.C. Code § 43-
+1684, WASA may request that we adjudicate its contract disputes or protests, if it enters into
+an agreement with the Board pursuant to D.C. Code § 1-1181.4(e).
+
+2  C&E notes that in other non-emergency solicitations conducted by DPW for WASA
+requirements, the solicitations contain a protest clause directing that protests be filed with us.
+(C&E Reply, dated January 23, 1997, Tabs E-F).
+
+3 The minutes of the WASA Board's October 3, 1996 meeting indicates that WASA will, in its
+own solicitations and contracts, identify its applicable protest and dispute procedures.
+                              •                 -6-
+                                                                        •                         [7243]
+
+                                                                      C&E Services, Inc., CAB No. P-465
+
+        Nevertheless, we can see aspects of the procurement that unmistakably were conducted
+according to the PPA, and contrary to WASA's interim contracting procedures. For example,
+the D&F supporting the need for an emergency procurement is certified by DPW's contracting
+officer and is approved by the DAS Director. In taking their certification and approval actions,
+the contracting officer and the DAS Director specifically relied on D.C. Code § 1-1183.12(a)(I),
+a provision expressly rescinded in WASA's interim contracting procedures. WASA's interim
+contracting procedures rescind the applicability of section 312 of the PPA, i.e., D.C. Code §
+1-1183.12, and approval of an emergency procurement for a contract of the dollar value
+involved here is vested in the WASA Board, not the DAS Director. (Motion to Dismiss, Exhibit
+1, at 3, 15.b). The record shows no involvement of the WASA :f3oard. In a October 24,1996
+memorandum, the DAS Director directed that the Director of DPW ensure that a "separate non-
+emergency procurement for this requirement" be initiated if the need for methanol would
+continue after the 120-day maximum period for an emergency procurement pursuant to 27
+DCMR § 1710.5. Such a direction is inconsistent with WASA's interim contracting rules which
+rescind 27 DCMR § 1710.5 and which make no provision for any action by the DAS Director.
+
+       Based on our conclusion that the procurement was conducted pursuant to the PPA, we
+need not address other issues raised by C&E, such as whether W ASA' s interim contracting
+procedures constitute a "procurement system" pursuant to D.C. Code § 43-1687(b).
+
+II.    Merits
+
+        WASA argues that even if the Board has protest jurisdiction, the facts compel us to deny
+the protest because the District had a compelling reason for cancelling the initial solicitation and
+issuing the revised solicitation. Citing a letter from the United States Environmental Protection
+Agency, dated May 24, 1996, in which the EPA advised the District that use of a set-aside
+procurement would preclude the District from obtaining federal grant funds for paying for the
+methanol, the District states that it was proper for DPW to issue the revised solicitation which
+placed the procurement in the open market. C&E replies that the contracting officer failed to
+execute a D&F supporting its decision to reissue the solicitation in the open market.
+
+        The record does not contain any evidence that the DAS Director or his designee included
+in the contract file a written determination supporting the cancellation of the initial solicitation
+and the issuing of the revised emergency solicitation in the open market, as required by D.C.
+Code § 1-1183.7. The emergency solicitation requirements do not exempt the Director from
+complying with D.C. Code § 1-1183.7. For good reason, the PPA requires that:
+
+              Every determination required by this chapter shall be in writing and based
+       upon written findings of the public official making the determination. These
+       determinations and written findings shall be retained in the official contract file.
+
+D.C. Code § 1-1181.6. The requirements of this section serve the important goals of
+documenting the rationale of government actions, enabling meaningful review and management,
+assessing accountability, and providing safeguards for the maintenance of a procurement system
+of quality and integrity. See id. § 1-1181.1(b).
+                              •                 -7-
+                                                                         •                        [7244]
+
+                                                                       C&E Services, Inc., CAB No. P-465
+
+       In addition, the District did not include in the record the written determination by the
+DAS Director or his designee of the basis for the selection of C&E, as required by D.C. Code
+§ 1-1183. 12(a)(3). When the Director or his designee validly determines that circumstances
+warrant an emergency procurement pursuant to D.C. Code § 1-1183. 12(a), the emergency
+procurement requirements and other applicable requirements, including those for written
+determinations, as specified in the statute and implementing regulations, cannot be considered
+"optional" or less important simply on account of the emergency circumstances.
+
+        Although the lack of a D&F for the cancellation and resolicitation technically violates the
+statute, we do not believe that this defect requires us to sustain the protest. The ability to obtain
+federal funding, based on the guidance provided by EPA's opinion letter of May 24, 1996,
+constituted a compelling reason for the agency to cancel the initial emergency solicitation in the
+set-aside market and to revise and reissue the solicitation in the open market. C&E does not
+argue to the contrary. See 27 DCMR § 1530.4 (cancellation of IFB after bid opening); Singleton
+Electric Co., CAB No. P-411, Nov. 15, 1994,42 D.C. Reg. 4888,4897-98. 4
+
+       Accordingly, we deny the protest.
+
+       SO ORDERED.
+
+
+DATE: February 10. 1997
+                                                      J ATHAN D. ZISC KAU
+                                                      Administrative Judge
+
+CONCURRING:
+
+
+~;;;t1~~<t
+LORIL     E. SIMKINS
+Chief Administrative Judge
+
+
+
+
+4 Because C&E has not challenged the procurement on the issue of whether the DAS Director
+or his designee issued a written determination of the basis for the selection of C&E pursuant to
+D.C. Code § 1-1183. 12(a)(3), we will not rule on the issue. In addition, we do not consider
+whether these solicitations were valid emergency procurements. It suffices to say that the DAS
+Director and District contracting officials should consider carefully the standards set forth in
+D.C. Code § 1-1183. 12(a)(1) and 27 DCMR §§ 1710.1, 1710.2, and 1710.3 governing the
+definition of an "emergency condition" and the circumstances justifying an emergency
+procurement. In particular, 27 DCMR § 1710.3(a) provides that in the absence of an emergency
+condition, an emergency procurement shall not be justified on the basis of "[t]he lack of
+adequate advance planning for the procurement of required supplies, services, or construction
+      "
+                                                                       •...
+                             •
+     'GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                                                     ~'.   .
+
+
+
+
+                            ,
+                           CONTRACT APPEALS BOARD
+                                . 717 14th STREET, N.W., Suite 430
+                                       Washington, D.C. 20005
+
+
+                                                   .   (
+
+
+
+
+                                        Feb~ary   11, 1997
+                                                           . ,,'
+
+
+
+
+     TO:                Mr: Carl L. Biggs Esquir~
+                        Mr. Sam Glasker     .    .
+                       ,C&E ServiCes, Inc., of Washington
+                        2208 Martin Luther King Avenue, S.E ..
+                        Washington, DC 20020
+
+                         Ann Cauman, Esquire
+                         Howard S. Schwartz, Esquire
+                         Assistants Corporation Counsel'
+                         441'4th Street, N. W., 10th FI.
+                      '. Washington, DC 20001
+
+
+     SUBJECT:           CAB No; P-465, C&E SERVICES, INC., OF WASHINGTON.'
+".
+           Attacred.is a cqpy of the Board'~ op~nion DENYING protest.
+

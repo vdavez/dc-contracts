@@ -1,0 +1,459 @@
+                GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                      CONTRACT APPEALS BOARD
+
+APPEAL OF:                                                      )
+                                                                )
+       JET BLAST, INC.                                          )   CAB No. D-1039
+                                                                )
+       Under Contract No. OMS-3042--AA-KH                       )
+
+       For the Appellant: Scott M. Heimberg, Esq., and Andrea T. Vavonese, Esq. For
+the Government: Mark D. Back, Esq., and Andrew J. Saindon, Esq., Assistants Attorney
+General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative
+Judge Jonathan D. Zischkau and Administrative Judge Matthew S. Watson, concurring.
+
+
+                                       OPINION
+                              (Lexis-Nexis Filing ID 3986408)
+
+
+
+        Appellant Jet Blast, Inc., and appellee District of Columbia have each moved for
+summary judgment. Jet Blast requests payment of two unpaid invoices for services
+performed under the contract. Jet Blast also requests Quick Payment Act (“QPA”)
+penalty interest for late payments, 4 percent simple interest on the unpaid balance, and
+repayment of Jet Blast’s cost of pursuing payment from the District. The District
+responds that it overpaid Jet Blast for daily travel between Jet Blast’s home office in
+Baltimore, Maryland, and the District’s Blue Plains Wastewater Treatment Plant (Blue
+Plains) on 31 prior invoices. After completion of discovery, including document
+production and depositions, both parties agreed to submit this matter to the Board on the
+written record pursuant to Board Rule 209, 49 D.C. Reg. 2099 (Mar. 8, 2002).
+
+
+                                   BACKGROUND
+
+
+        On May 25, 1993, the Department of Public Works (DPW) issued Invitation for
+Bids (“IFB”) OMS-3042-AA-KH for high vacuum, high pressure cleaning services at
+Blue Plains. The IFB required the contractor to clean equipment at Blue Plains and
+remove various materials from the plant. The IFB contemplated award of a requirements
+contract with a base period of one year and two option years. The IFB directed bidders to
+address all correspondence regarding the IFB to the contracting officer at DPW’s Office
+of Management Services and listed Ms. Kathy Hatcher as the point of contact for all
+inquiries.
+                                             -2-                Jet Blast, Inc., CAB No. D-1039
+
+
+       The price schedule on page 3 of the IFB contained four line item descriptions, as
+follows:
+
+       1.      Waterjetblasting unit, sewer cleaning, minimum 2,000 pounds per square
+               inch, 60 gallons per minute. Quantity, Estimated, 1,800 hours.
+
+       2.      Liquid vacuum truck, minimum 400 cubic feet per minute. Quantity,
+               Estimated, 1,800 hours.
+
+       3.      Wet/dry vacuum truck, minimum 4,500 cubic feet per minute. Quantity,
+               Estimated, 1,340 hours.
+
+       4.      Miscellaneous equipment not included above, less discount offered off
+               current contractor’s current open market price list. $5,000 Discount 20%.
+
+       In the schedule, the District set forth the estimated amount of time that the District
+intended to use for the three cleaning services included in the schedule. The IFB required
+the bidder to set forth in its bid a unit price per hour for each of the three services.
+
+       Special Condition 12 of the IFB described the unit prices set forth in the price
+schedule:
+
+       Unit prices and/or discounts offered herein for labor shall be portal-to-
+       portal. Unit prices and/or discounts offered herein for equipment shall be
+       for time at work site and shall include the total labor cost, accessories,
+       materials, and chemicals necessary to complete the job.
+
+        The IFB did not expressly define the term “portal-to-portal” nor did it include an
+example of a “portal-to-portal” bid price. The IFB did not contain any language setting a
+ceiling for the amount of services to be ordered by the District.
+
+        Jet Blast submitted its bid to the District on June 25, 1993. The District
+determined that Jet Blast was the low bidder. On July 29, 1993, the District awarded the
+contract to Jet Blast. The contract awarded to Jet Blast had a maximum price of
+$363,920 in the base year, $377,400 in Option Year 1, and $388,200 in Option Year 2,
+for a total amount of $1,129,520. During the following three years, Jet Blast submitted
+33 invoices to the District, totaling $1,739,465.75 for work completed under the contract.
+The District paid 31 of the invoices. The District withheld payment on the last two
+invoices after the District determined that Jet Blast had erroneously submitted on each
+invoice a separate request for reimbursement for portal-to-portal travel costs (costs for
+travel time from Jet Blast’s facility in Baltimore to Blue Plains) for the contractor’s
+employees. The District determined that it had overpaid Jet Blast by $153,846.00 in
+connection with the 31 prior invoices. Jet Blast’s last two invoices totaled $70,453.00.
+
+       Jet Blast bases its theory of recovery on: (1) an implied modification of the IFB
+based on a discussion between Mr. Edward Jefferson of Jet Blast and Mr. Marco Garcia
+                                             -3-                Jet Blast, Inc., CAB No. D-1039
+
+
+of the District, (2) a course of dealings evidenced by the District’s payment of the 31 Jet
+Blast invoices that included an amount for travel, and (3) QPA interest penalties for the
+District’s untimely payment of invoices. The District responds that the IFB and thus the
+contract required bidders to include portal-to-portal prices in the bid price for the labor
+hour rate, and that the District did not alter the schedule to allow separate payment of
+portal-to-portal travel beyond what the contractor included in its labor rate bid price.
+Additionally, while the District concedes that it paid some invoices late to Jet Blast, the
+District asserts that it does not owe to Jet Blast the amount claimed in Jet Blast’s QPA
+claim.
+
+       A.      Portal-to-Portal Pay
+
+        In its motion for summary judgment, Jet Blast asserts that during the bid phase,
+District employees told Jet Blast that Jet Blast should separately invoice travel labor
+hours. Jet Blast says that it concluded from these instructions that the District did not
+want Jet Blast to include travel costs in the bid.
+
+         Jet Blast general manager Mr. Edward Jefferson picked up the bid package and
+spoke with Ms. Kathy Hatcher, the point of contact identified in the IFB. In his
+deposition, Mr. Jefferson stated that Ms. Kathy Hatcher referred him to Mr. Walter
+Bailey, Chief of the Bureau of Wastewater Treatment, who referred him to Mr. Garcia,
+the Solid Processing Manager and the District employee who would review the work of
+the contractor. Mr. Jefferson stated that he discussed the billing of portal-to-portal travel
+costs with Mr. Garcia in a meeting with Mr. Garcia before Jet Blast submitted its bid,
+during which Mr. Garcia told him that the District would reimburse the contractor for
+travel time and that the successful contractor should include travel time on its invoices to
+the District. (Jefferson Aff. ¶ 5; Jefferson Dep. 42, 47-49). Mr. Jefferson further stated
+that Mr. Garcia’s statement was consistent with Jet Blast’s prior dealings with the
+District, and that the District had reimbursed Jet Blast for portal to portal travel time for
+all the work Jet Blast had performed for the District since 1985.
+
+         However, Mr. Garcia’s deposition testimony contradicted Mr. Jefferson’s
+recollection regarding the substance of that conversation. Mr. Garcia stated that:
+“Nobody said anything about it, before the bidders bid, to me. Nobody mentioned
+anything about portal-to-portal … I don’t remember anybody asking anything about
+travel time.” (Garcia Dep. 88).
+
+        Mr. Jefferson stated that Jet Blast was confused about the meaning of Special
+Condition 12. According to Mr. Jefferson, the first sentence of Special Condition 12
+indicates that the District would pay for labor travel costs portal-to-portal. However, he
+construed the second sentence to mean that the unit prices for equipment should include
+total labor costs for operating equipment at the work site only. In his affidavit dated
+August 14, 1998, Mr. Jefferson stated the following:
+
+       3.      The first sentence of Paragraph 12 of the IFB states that unit prices
+       for labor shall be portal-to-portal. This sentence indicated to me that the
+                                              -4-                Jet Blast, Inc., CAB No. D-1039
+
+
+       District would pay for travel costs. The second sentence of Paragraph 12
+       states that unit prices for equipment shall be for time at the work site and
+       shall include the total labor cost. This sentence indicated to me that the
+       unit prices for equipment should include labor cost for time at the work
+       site, but should not include labor travel portal-to-portal.
+
+       4.      Based on the language of the IFB’s Paragraph 12 stating that unit
+       prices for labor shall be portal-to-portal, the failure to include an estimate
+       of the number of trips to Blue Plains and the failure to include a line item
+       for labor portal-to-portal on the Schedule, it was unclear to me how JBI
+       should include labor travel costs in its bid. Additionally, because it was
+       not known how many trips JBI would need to make to the work site, it was
+       impossible to accurately estimate travel costs. JBI is based in Baltimore
+       and the work was to be done in the District. Therefore, the number of
+       trips portal-to-portal could have a significant impact on JBI’s cost.
+
+        Jet Blast claims that its bid did not include travel time in the labor unit prices. Jet
+Blast submitted 33 invoices, dated August 31, 1993, through March 1996. Each invoice
+contained separate line items for the contract line items (waterblasting, liquid vacuum,
+wet/dry vacuuming and miscellaneous equipment) and an additional charge for travel
+time, routinely billed at 3 hours per day at a rate of $27.00 per hour. According to the
+Appellant’s motion for summary judgment, Jet Blast submitted with its invoices a sheet
+entitled “Daily Break Down of Monthly Invoice Per Day/Per Job” which provided a
+description of the work done for each day included in the invoice. For each day worked,
+the daily break down included a line item entitled “Travel Charge.” Each daily sheet also
+included the number of hours, number of items, hourly rate, and total amount next to each
+line item. Finally, the invoices included job tickets for each day worked during the
+invoice period. Jet Blast submitted the job tickets daily to a DPW employee, usually Mr.
+Garcia or his subordinate, who signed the job ticket indicating that Jet Blast performed
+the work indicated on that ticket. On each ticket, Jet Blast indicated the travel time to
+and from the job site.
+
+        Jet Blast asserts that three District representatives reviewed Jet Blast’s invoices:
+Mr. Marco Garcia or his designee, Mr. Walter Bailey, and Mr. Bailey’s supervisor. Mr.
+Jefferson testified that Mr. Garcia called Mr. Jefferson after completion of the first
+month’s work and asked Mr. Jefferson why the price on Jet Blast’s invoice was so high.
+Jet Blast responded in a letter dated September 9, 1993, which set forth the price of
+contract performance to that date. (Appeal File, Tab 8). Mr. Jefferson next called Mr.
+Garcia to discuss the invoice and travel costs. According to Mr. Jefferson’s affidavit of
+August 14, 1998, Mr. Garcia told Mr. Jefferson that the invoices were fine.
+
+        Jet Blast argues that it received from Mr. Garcia verbal authority to include
+requests for travel time payment in its invoices submitted to the District and it is therefore
+entitled to payment for travel as a separate line item. Further, Jet Blast argues that
+because the District paid 31 invoices without questioning the amount of any invoice, the
+                                             -5-                Jet Blast, Inc., CAB No. D-1039
+
+
+District agreed to pay for travel as a separate line item. Jet Blast argues that the District
+cannot now refuse to pay the amounts claimed by Jet Blast for travel time reimbursement.
+
+        The District asserts that the bid clearly required Jet Blast to include any travel
+time in its labor pricing. Certainly there was no separate line item price for portal-to-
+portal labor in Jet Blast’s bid. Although the District admits that it paid to Jet Blast the
+charges set forth in the 31 invoices submitted to the District, the District asserts that it
+withheld payment on the last two invoices after determining that Jet Blast had
+erroneously billed, and the District had erroneously paid, portal-to-portal travel as a
+separate line item. The District asserts that Jet Blast overbilled the District by
+$153,846.00.
+
+        Whether or not Mr. Jefferson and Mr. Garcia discussed portal-to-portal billing, it
+is clear that Mr. Garcia did not have authority to modify the IFB. There is no
+modification of the IFB issued by the contracting officer directing bidders to list travel
+time in any manner different from that provided in Special Condition 12, namely, that
+“unit prices … offered herein for labor shall be portal-to-portal.” Therefore, even if Mr.
+Jefferson and Mr. Garcia had discussed travel time billing as alleged by Mr. Jefferson, Jet
+Blast could not have relied on an oral conversation to modify the IFB. See Coffin v.
+District of Columbia, 320 A.2d 301, 303 (D.C. 1974). Jet Blast’s claim that the IFB was
+unclear as to travel time does not help it.
+
+        Any ambiguity as to portal-to-portal labor payments was apparent on the face of
+the solicitation. While the first sentence of Paragraph 12 stated “Unit prices . . . for labor
+shall be portal-to-portal,” the second sentence distinguished equipment pricing from the
+basic labor pricing, stating that “Unit prices for equipment shall be for time at the work
+site and shall include total labor cost . . . necessary to complete the job.” The only
+reasonable interpretation of the language “unit pricing . . . for equipment shall be for time
+at work site” was that the equipment was to be priced for time at the work site while the
+second part of the sentence for “total labor costs” incorporated the “portal-to-portal”
+feature of the first sentence of Paragraph 12. The IFB’s pricing schedule thus had no
+separate item for pricing the transportation labor that Jet Blast invoiced and now seeks to
+recover. Rather, the contract required the contractor to integrate his travel costs into the
+labor pricing according to the clear language of the first sentence of Paragraph 12.
+
+        When a term in an IFB is ambiguous, the bidder must request clarification of the
+term before submitting its bid. See AnA, Incorporated, CAB No. D-1022, July 19, 2000,
+2000 BCA Lexis 20, W.M. Schlosser Company, Inc., CAB No. D-0889, June 25, 1992,
+40 D.C.Reg 4434, 1992 DCBCA Lexis 163, J.I. Case Co., ASBCA 25419, 81-1 BCA ¶
+15064, Malloy Construction Co., ASBCA No. 25055, 82-2 BCA ¶ 16104 (1982).
+Additionally, the party must make its inquiry to the person or persons identified in the
+IFB. The IFB identified Ms. Kathy Hatcher as the point of contact for all inquiries and
+directed bidders to submit all correspondence to the contracting officer. Jet Blast did not
+submit any request for clarification to Ms. Hatcher or to the contracting officer. Jet Blast
+could not reasonably believe that the alleged oral conversations with a District employee
+who was not the contracting officer would effectively modify the terms of the
+                                              -6-                Jet Blast, Inc., CAB No. D-1039
+
+
+solicitation. In our view, the language of Special Condition 12 is clear: the unit price for
+labor was to include all labor “portal-to-portal.” Thus, if Jet Blast did not include
+sufficient amounts in its unit price for labor portal-to-portal it must live with its bid
+pricing for labor.
+
+       B.      Equitable Estoppel
+
+        Jet Blast asserts that it should recover portal-to-portal payments from the District
+because the District established a pattern of paying portal-to-portal costs. Jet Blast
+asserts that the District’s payment of 31 Jet Blast invoices that included a line item
+amount for travel effectively warned the District that Jet Blast expected to be paid for
+portal-to-portal travel. Additionally, Jet Blast asserts that the District’s payment of those
+31 invoices demonstrated that the District interpreted the contract language in the same
+manner as Jet Blast. The Jet Blast theory of recovery is that the District’s payment of the
+31 invoices irrevocably changed the contract so that the District is now obligated to pay
+Jet Blast for portal-to-portal travel. The problem with Jet Blast’s argument is that the
+District properly could pay travel time insofar as it was included as part of the equipment
+costs called for by Special Condition 12. Thus, the District’s payment of travel was
+proper to the extent that it did not exceed the labor price agreed between the parties in
+their contract which is based on Jet Blast’s bid unit price for labor.
+
+        Jet Blast cannot assert that the District’s payment of invoices had the effect of
+modifying the contract pricing terms that required portal-to-portal travel to be included in
+Jet Blast’s unit labor rates. Certainly, there is no written contract amendment evidencing
+such a modification.
+
+       C.      Late Payment Penalties
+
+        Jet Blast asserts, and the District admits in its brief, that the District made several
+late payments to Jet Blast after Jet Blast submitted invoices to the District. Jet Blast
+presented to the Board, as an attachment to the affidavit of Kevin Kavanagh, dated
+November 2, 1999, a spreadsheet setting forth an analysis of the payment dates for all
+invoices submitted to the District. The spreadsheet also sets forth interest penalties for
+each of the late paid invoices. The Board has reviewed that spreadsheet to determine the
+interest penalties that the District should pay to Jet Blast.
+
+       The Quick Payment Act (D.C. Code §§ 2.221.01-2.221.06) and the regulations
+promulgated at 1 DCMR §§ 1700-1799 set forth the mechanism to determine the amount
+of QPA penalties that the District must pay to contractors if the District fails to pay the
+contractor within the time period set forth in the Act.
+
+       D.C. Code § 2.221.02 provides as follows:
+
+       (b)(1) Interest penalties on amounts due to a business concern under this
+              subchapter shall be due and payable to the concern for the period
+              beginning on the day after the required payment date and ending on the
+                                     -7-                Jet Blast, Inc., CAB No. D-1039
+
+
+       date on which payment of the amount is made, except that no interest
+       penalty shall be paid if payment for the complete delivered item of
+       property or service concerned is made on or before:
+
+       (A)     the 3rd day after the required payment date, in the case of meat or
+               a meat product, described in subsection (a)(2)(B)(i) of this section;
+
+       (B)     the 5th day after the required payment date, in the case of an
+               agricultural commodity, described in subsection (a)(2)(B)(ii) of
+               this section; or
+
+       (C)     the 15th day after the required payment date in the case of any
+               other item. Interest, computed at a rate of not less than 1%, shall be
+               determined by the Mayor by regulation.
+
+The D.C. Municipal Regulations at 1 DCMR § 1709, provide the following:
+
+1709.1 A business concern shall be entitled automatically to receive an interest
+       penalty payment if the following conditions are met:
+
+       (a)     The business concern has a contract or purchase order for the
+               goods or services provided;
+
+       (b)     The agency has accepted property or service and there is no
+               disagreement over quantity, quality or other contract provisions
+               which would affect payment;
+
+       (c)     A proper invoice has been received by the designated payment
+               officer (except where no invoice is required; for example, as with
+               periodic lease payment), or the agency has failed to give the
+               business concern a notice of defect as required by Section 4905;
+
+       (d)     Payment is not made on or before the end of the following periods:
+
+               (1)    Meat and meat food products -- the third (3rd) calendar day
+                      after the payment due date;
+
+               (2)    Perishable agricultural commodities -- the fifth (5th)
+                      calendar day after the payment date; and
+
+               (3)    Other goods, property or services -- the fifteenth (15th)
+                      calendar day after the payment date.
+
+The D.C. Municipal Regulations, 1 DCMR § 1710, provides the following:
+
+1710.1 Interest shall be calculated at the rate of one percent (1%) per month.
+                                             -8-                Jet Blast, Inc., CAB No. D-1039
+
+
+
+
+       1710.2 Interest shall be computed from the day after the required payment
+              through the actual payment date.
+
+       1710.3 When an interest penalty that is owed is not paid, interest shall accrue on
+              the unpaid amount until paid. Interest penalties remaining unpaid for any
+              thirty (30) day period will be added to the principal, and interest penalties
+              thereafter, will accrue monthly on the total of principal and previously
+              accrued interest.
+
+       1710.4 When an agency takes a discount after the discount period has expired, the
+              interest payment shall be calculated on the amount of the discount taken,
+              for the period beginning the day after the end of the specified discount
+              period through the actual payment date.
+
+       1710.5 No interest penalties shall continue to accrue under the following
+              circumstances: (a) after the filing of a claim for such penalties, or (b) for
+              more than one year.
+
+       1710.6 Interest penalties of less than five dollars ($5.00) shall not be paid unless
+              requested.
+
+       1710.7 Adjustments shall be made for errors in calculating interest, if requested.
+
+        To start the analysis, the Board first subtracted from each invoice amount the
+amount claimed by Jet Blast for travel set forth on each invoice that is included in the
+supplemental appeal file. We made this subtraction, not because Jet Blast is not entitled
+to portal-to-portal travel costs but because such costs were to be already included in its
+unit labor rates. For example, for the first item on the spreadsheet, the invoice of August
+31, 1993, the Board subtracted $2,995.00 from the invoice amount, which is the amount
+that Jet Blast claims for travel for that invoice. The Board used the Jet Blast calculation
+of “Days Past Due” that is set forth in the attachment to the affidavit. The Board
+converted the “Days Past Due” to months past due, since the statute and the regulations
+clearly require the District to calculate the interest penalty for each month. 1 DCMR §
+1710.3 requires the District to calculate interest penalties for each thirty day period for
+the unpaid amount, and to add the interest penalty to the principal amount. This section
+sets forth a standard compound interest formula that can be expressed in the following
+form: S = P (1+i) times n , where “S” equals the compounded amount (or future value),
+“P” equals the original principal amount, “i” equals the period rate of interest, and “n”
+equals the number of compounding periods.
+
+        For example, if Jet Blast claimed a late payment period that was equal to or less
+than 15 days, the Board did not apply a penalty. This matches the analysis used by Jet
+Blast’s Mr. Kavanagh in his affidavit. If Jet Blast claimed a late payment period greater
+than 15 days but equal to or less than 60 days, the Board applied a 1 percent penalty to
+the amount of the unpaid invoice, that is, the invoice minus the travel amount, or
+                                             -9-               Jet Blast, Inc., CAB No. D-1039
+
+
+$14,556.00 for the first item on the spreadsheet. Therefore, the penalty for late payment
+of the August 31, 1993, invoice is $145.56. If Jet Blast claimed a late payment period
+greater than 60 days but equal to or less than 90 days, the Board applied a 1 percent
+penalty compounded for two months, in accordance with the formula set forth above.
+The Board completed its analysis of the payment history of the 33 invoices by using the
+procedures set forth above. Once the Board determined the number of months past due
+for each invoice, the Board used the standard compound interest formula to calculate the
+penalty for those late payment dates that exceeded 60 days. Accordingly, the Board’s
+late payment penalties are lower than the penalties claimed by Jet Blast.
+
+        The District must adjust its records to determine the true amount, if any, that the
+District owes to Jet Blast, using the time periods set forth in the Kavanagh affidavit.
+Additionally, if applicable, the District must credit to Jet Blast 4 percent simple interest
+for any outstanding unpaid amount.
+
+       D.      Payments exceeding contract limits
+
+        We understand from the pleadings that because the District paid to Jet Blast
+invoice amounts for travel costs, the District appears to have overpaid Jet Blast. The
+contract awarded to Jet Blast authorized payments of $363,920 in the base year, $377,400
+in Option Year 1, and $388,200 in Option Year 2. WASUA exercised Option Year 1 and
+Option Year 2 in contract actions 1 and 2, dated July 28, 1994, and July 6, 1995,
+respectively. The total price of the base year of the contract and the two option years is
+$1,129,520, which is the same amount set forth in the Jet Blast bid. We note that the
+invoices presented by Jet Blast indicate that the District has paid to Jet Blast
+$1,739,465.75 in 31 invoices, which exceeded by $609,945.75 the contract amount of
+$1,129,520 set forth in the contract. Neither party presented to the Board any explanation
+of the contract price overrun, nor could we locate in the record any indication that the
+District modified the contract to increase the price. The District should issue a contract
+modification indicating the proper adjusted contract price.
+                                            -10-               Jet Blast, Inc., CAB No. D-1039
+
+
+
+
+                                     CONCLUSION
+
+        The Board concludes that the price schedule of the contract included portal-to-
+portal travel as part of the unit equipment rates. The Board also concludes that the
+District’s contracting officer never modified the IFB or the resulting contract to alter the
+unit equipment rate to exclude portal-to-portal travel time. Accordingly, the District is
+not estopped from asserting that it overpaid Jet Blast during the contract. The Board
+orders the parties to determine the correct amount, if any, of Quick Payment Act interest
+that the District may owe to Jet Blast, based on the invoice payment dates submitted by
+Jet Blast. Since the contracting officer has not yet issued a written decision regarding the
+amount of any possible overpayment by the District to Jet Blast, the Board does not offer
+its opinion on that matter. The Board remands the claim to the Contracting Officer for
+resolution of any Quick Payment Act interest in light of any overpayment that the District
+may have paid to Jet Blast.
+
+
+       SO ORDERED
+
+August 3, 2004                               /s/ Warren J. Nash
+                                             WARREN J. NASH
+                                             Administrative Judge
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

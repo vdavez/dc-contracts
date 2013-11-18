@@ -1,0 +1,837 @@
+                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+PSYCHIATRIC INSTITUTE OF WASHINGTON, INC.                        )
+                                                                 )        CAB No. P-0905
+                                                                 )
+Under Solicitation No. RM-11-RFP-83-BY4-VM                       )
+                                                                 )
+
+
+        For Psychiatric Institute of Washington, Inc.: Jeffrey Weinstein, Esq., Jeffrey Weinstein, PLLC.
+For the District of Columbia Government: Janice N. Skipper, Esq., Assistant Attorney General.
+
+       Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D.
+Loud, Sr., and Administrative Judge Monica C. Parchment concurring.
+
+                                                OPINION
+                                           Filing ID 45653191
+
+         Psychiatric Institute of Washington, Inc. (“PIW” or “protester”), has filed a protest challenging
+the District’s decision to award Pathways to Housing DC (“Pathways”) a contract pursuant to Solicitation
+No. RM-11-RFP-83-BY4-VM (“solicitation” or “RFP”) issued by the District of Columbia Department of
+Mental Health Contracts and Procurement Administration (“DMH”). The solicitation requested proposals
+to “operate an Urgent Care Clinic at the DC Superior Court (UCC).” (AR at Ex. 1, § C.3.1.) The
+protester’s challenge generally concerns allegations that (1) the District unreasonably evaluated the
+offeror technical proposals, and (2) the District treated offerors unequally in that Pathways was afforded
+additional opportunities to correct deficiencies in its proposal while PIW was not afforded comparable
+opportunities. (See Comments on AR/ Resp. to Mot. to Dismiss 2-15, Mar. 27, 2012 [hereinafter
+“Comments on AR”].) On March 9, 2012, the District filed a motion to dismiss for protester’s alleged
+failure to comply with the requirements of Board Rule 301.1(c) which require protester to present a clear
+and concise statement of the legal and factual grounds of the protest. (Mot. to Dismiss 6-7, Mar. 9, 2012.)
+On May 16, 2012, the District filed a “Determination and Findings to Proceed with Contract Performance
+while a Protest is Pending” (“D&F”). Following protester’s successful challenge on July 9, 2012, to a
+Board Order dated June 22, 2012, sustaining the D&F, see Wis. Ave. Psychiatric Ctr., Inc. v. D.C. Dep’t
+of Mental Health, C.A. No. 005211 B (D.C. Super. Ct. July 3, 2012), the District filed a second D&F.
+(See Notice of Supplement to Determination to Proceed with Contract Performance While A Protest is
+Pending, Ex. 1 [hereinafter “Second D&F”].)
+
+        We deny the District’s motion to dismiss finding that PIW’s protest grounds are sufficiently clear
+to meet the standard established by Board Rule 301.1 and that the Agency Report has provided the Board
+with sufficient evidence to rule on the merits of the claim. However, the Board finds no evidence in the
+record that the District evaluated the offeror technical proposals unreasonably or that the District
+unlawfully treated the offerors in an unequal manner. Accordingly, the protest is denied. Protester’s
+motion to override the Second D&F is also denied as moot.
+
+                                            BACKGROUND
+
+        On May 24, 2011, DMH issued a solicitation requesting proposals to “operate an Urgent Care
+                                                                           Psychiatric Institute of Washington, Inc.
+                                                                                                   CAB No. P-0905
+
+
+Clinic at the DC Superior Court (UCC).” (AR at Ex. 1, § C.3.1.) The RFP sought “a Contractor to
+provide individuals [who have contact with the court system] with mental health and/or substance abuse
+service in an easily accessible service environment located at the Superior Court.” (AR at Ex. 1, § B.1.)
+PIW had been providing services similar to those requested under the RFP pursuant to a contract
+beginning May 16, 2008, with a Base Year and two One Year Option periods. (D & F ¶ 3.d, May 14,
+2012.)1 The RFP was revised twice prior to the deadline for receipt of proposals on June 27, 2011. The
+revisions are as follows: (i) on June 13, 2011, (Amendment No. 1), the District’s responses to questions
+by prospective offerors were incorporated into the contract and amendments were made to certain
+sections of the RFP, (AR at Ex. 2) and (ii) on June 20, 2011, (Amendment No. 2), additional questions by
+prospective offerors were responded to and the responses were incorporated into the RFP (AR at Ex. 3).
+
+Terms of the RFP
+
+         Section C of the solicitation detailed the technical requirements entitled “Description/
+Specifications/Work Statement.” The following are the requirements of particular relevance to this
+protest:
+
+        § C.6            The Scope of Work (SOW) for the UCC at the District of
+                         Columbia Superior [Court] is delineated in the sections that
+                         follow. All Prospective Contractors shall clearly describe how
+                         each of these requirements shall be addressed in the proposal.
+
+        § C.6.1          The staffing pattern of the UCC shall include a team comprised
+                         of mental health and substance abuse clinicians. The staffing
+                         pattern shall be sufficient to provide services to a minimum of
+                         300 individuals per year. The staff team will be led by a
+                         psychiatrist who will be responsible for the overall supervision
+                         and management of the UCC. The psychiatrist shall be available
+                         on a daily basis to see individuals referred for service within 90
+                         minutes of presenting at the UCC.
+
+        § C.6.1.2        The UCC shall employ three staff, including two Certified
+                         Addiction Counselors (CACs), to provide substance abuse
+                         screening, assessment and referral services. The staff shall have
+                         the capacity to conduct the Global Appraisal of Individual Needs
+                         (GAIN) assessment. . . .
+
+        § C.7            In addition to the contract funding, the selected Contractor shall
+                         be expected to have the capacity to bill Medicaid for all
+                         appropriate reimbursable services including mental health
+                         rehabilitation services (MHRS), Medicaid fee for service and/or
+                         the Managed Care Organizations (MCOs).
+
+        § C.9.1          Prospective contractors responding to the RFP shall provide
+                         detailed responses to the requirements described in the Scope of
+                         Work.
+
+1
+ PIW’s contract expired on May 15, 2011, however a Single Available Source Contract (“SAS”) was issued to PIW
+on May 16, 2011, and extended to May 15, 2012. (D & F ¶ 3.d, May 14, 2012.) The District then issued another
+short term SAS contract to facilitate the transition from PIW to the awardee under the RFP.
+
+                                                     2
+                                                                          Psychiatric Institute of Washington, Inc.
+                                                                                                  CAB No. P-0905
+
+
+                                                       ***
+                         [A]ll proposals must include a proposed budget which delineates
+                         expected revenues from billings as well as needed contract and
+                         client support dollars. The budget shall include line item
+                         expenditures and a budget narrative.
+
+        (AR at Ex. 1.)
+
+         The solicitation contemplated a Fixed Price Contract. (AR at Ex. 1, § B.2.) Under the terms of
+the solicitation, the District would award a single contract to the “responsive and responsible Offeror
+whose offer is most advantageous to the District,” (AR at Ex. 1, § M.1) based upon the following
+evaluation criteria: (1) Technical Criteria (90 points) (AR at Ex. 1, § M.3.1), and (2) Price Criterion (10
+points) (AR at Ex. 1, § M.3.2). “[W]hile the points in the evaluation criteria indicate their relative
+importance, the total scores shall not necessarily be determinative of the award. Rather the total scores
+shall guide the District in making an intelligent award decision based upon the evaluation criteria.” (AR
+at Ex. 1, § M.1.)
+
+        The technical criteria was subdivided into the following four factors:
+
+                   The Offeror demonstrates a well developed plan that details
+                    proposed organizational structure, staffing pattern, commitment to
+                    clinical competence in treating co-occurring services and an
+                    evaluation plan. (40 PTS.)
+
+                   The Offeror demonstrates evidence that the applicant shall develop
+                    the project based upon a recovery-based philosophy, active peer
+                    involvement and knowledge of the court system. (15 PTS.)
+
+                   The Offeror demonstrated evidence of the ability to link individuals
+                    with community-based services, including linage with CSAs as
+                    appropriate and enrollment with substance abuse providers when
+                    appropriate. (20 Points)
+
+                   The Offeror demonstrates ability to maximize revenue collection. (15
+                    Points)
+
+                (AR at Ex. 1, § M.3.1 (emphasis in original).)
+
+Ratings were to be assigned for each technical factor according to the scale below:
+
+  Numeric Rating             Adjective                                Description
+        1                      Poor           Marginally meets minimum requirements; major
+                                              deficiencies which may be correctable
+          2                 Minimally         Marginally meets minimum requirements; minor
+                            Acceptable        deficiencies which may be correctable
+          3                 Acceptable        Meets requirements; no deficiencies
+          4                   Good            Meets requirements and exceeds some requirements; no
+                                              deficiencies
+          5                  Excellent        Exceeds most, if not all requirements; no deficiencies
+
+
+                                                     3
+                                                                            Psychiatric Institute of Washington, Inc.
+                                                                                                    CAB No. P-0905
+
+
+(AR at Ex. 1, § M.2.1.)
+
+                The technical rating is a weighting mechanism that shall be applied to the
+                point value for each evaluation factor to determine the Offeror’s score
+                for each factor. The Offeror’s total technical score shall be determined by
+                adding the Offeror’s score in each evaluation factor. For example, if an
+                evaluation factor has a point value range of twenty (20) points, using the
+                Technical Rating Scale above, if the District evaluates the Offeror’s
+                response as “Good”, then the score for that evaluation factor is 4/5 of 20
+                or 16.
+
+                (AR at Ex. 1, § M.2.2.)
+
+        The price criterion was worth a maximum of ten (10) points and was to be awarded on a purely
+objective basis. (AR at Ex. 1, § M.3.2.) “The Offeror with the lowest cost/price shall receive the
+maximum price points. All other proposals shall receive a proportionately lower total score.” (Id.)
+
+         The evaluation criteria also allowed for additional preference points to be awarded on the
+following bases: (1) DSLBD certified Resident-Owned Business (5 points) (AR at Ex. 1, § M.5.1.2); (2)
+DSLBD certified Longtime Resident Business (5 points) (AR at Ex. 1, § M.5.1.3); (3) DSLBD certified
+Local Business Enterprise (2 points) (AR at Ex. 1, § M.5.1.4); (4) DSLBD certified Local Business
+Enterprise with its principal offices located in an Enterprise Zone (2 points) (AR at Ex. 1, § M.5.1.5); (5)
+DSLBD certified Disadvantaged Business Enterprise (2 points) (AR at Ex. 1, § M.5.1.6); (6) DSLBD
+certified Veteran-Owned Business (2 points) (AR at Ex. 1, § M.5.1.7); (7) DSLBD certified Local
+Manufacturing Business Enterprise (2 points) (AR at Ex. 1, § M.5.1.8). “Notwithstanding the availability
+of the preceding preferences, the maximum total preference to which a certified business enterprise is
+entitle [sic] under the Act is the equivalent to twelve (12) points on a 100-point scale for proposals
+submitted in response to this RFP.” (AR at Ex. 1, § M.5.2.)
+
+        The District reserved its right to award the contract “on the basis of initial offers received,
+without discussion.” (AR at Ex. 1, § L.1.2.) However, if the District decided to conduct negotiations
+
+                [a]ll Offerors within the competitive range shall be so notified and shall
+                be provided an opportunity to submit written best and final offers at the
+                designated date and time. . . . After receipt of best and final offers, no
+                discussions shall be reopened unless the Director/ACCO determines that
+                it is clearly in the Government’s best interest to do so[.] . . . If
+                discussions are reopened, the Director/ACCO shall issue an additional
+                request for best and final offers to all Offerors still within the competitive
+                range.
+
+                (AR at Ex. 1, § L.17.)
+
+Evaluation of Proposals
+
+       Only two offerors, PIW and Pathways, submitted timely proposals to the RFP. (See AR at Ex. 6,
+§ 5.) The Evaluation Committee (“Committee”) met on the seventh, seventeenth, and twenty-first of
+November 2011 to review, evaluate and score the submitted proposals. (AR at Ex. 6, § 4.) The
+Committee, composed of three members, concluded its initial evaluation of offeror proposals on
+December 14, 2011. PIW received raw scores of 69, 37, and 57 from the three respective Committee
+
+                                                      4
+                                                                              Psychiatric Institute of Washington, Inc.
+                                                                                                      CAB No. P-0905
+
+
+members for a total score of 163 and an average score of 54.3. (AR at Ex. 6, § 5.1.) Pathways received
+raw scores of 73, 65, and 73 for a total score of 211 and an average score of 70.3. (AR at Ex. 6, § 5.1.)
+
+         DMH’s Chief Contracting Officer (“CCO”) issued each offeror a “Notification of Deficiencies”
+Best and Final Offer (“BAFO”) request dated December 16, 2011. (AR at Exs. 7, 9.) PIW’s “Notification
+of Deficiencies” identified a number of deficiencies under the heading entitled “Price Proposal.” (See AR
+at Ex. 7.) Under the “Technical Proposal” caption, the notice also stated:
+
+                 Psychiatric Institute of Washington’s (PIW) proposal lacks detail about
+                 peer involvement, peer empowerment. PIW proposal lacks discussion on
+                 management data or QI mechanisms. PIW shall provide reason for
+                 inability to bill MHRS and discuss in more detail about PIW’s client
+                 centered approach.
+
+                 (AR at Ex. 7.)
+
+         BAFOs were due on January 5, 2012. (AR at Exs. 7, 9.) Both offerors submitted BAFOs to the
+District. (See AR at Ex. 11, § 5.) The Committee met on January 9, 2012, to review, evaluate and score
+the BAFO submissions of both offerors. (AR at Ex. 11, § 4.) Following the BAFO submissions,
+Pathways received raw scores of 68, 73, and 73 from the three respective Committee members for a total
+score of 214 and an average score of 71.3. (AR at Ex. 11, § 5.2.) PIW received raw scores of 66, 70, and
+45 from the three respective Committee members for a total score of 181 and an average score of 60.3.
+(AR at Ex. 11, § 5.1.) Pathways’ proposed price for the base year of the contract was $686,356.74;
+$238,593.26 less than PIW’s proposed price of $924,950.00. (AR at Ex. 16.) Accordingly, Pathways
+received all 10 evaluation points for price; its total evaluation score was 81.33. (Id.) Applying the
+solicitation’s objective price formula, PIW was awarded 7.42 evaluation points for price; its total
+evaluation score was 67.75. (Id.) In its Evaluation Committee Report, the Committee “unanimously
+recommend[ed] the contract be awarded to Pathways to Housing, Inc.” (AR at Ex. 11, § 5.) In the same
+report, the Committee then “request[ed] further clarity” on four areas of Pathways’ proposal: (1) the
+methodology for billing both MHRS and non-MHRS services; (2) a detailed explanation of the role of
+Neighbors Consejo; (3) the plan to hire and retain qualified staff and minimize staff turnover; and (4) the
+methodology Pathways would use for in-kind services. (Id.)
+
+         Following the Committee’s recommendation to award the contract to Pathways, on January 12,
+2012, the CCO issued Pathways an “Additional Information Request” for “some additional points of
+clarification that must be addressed by Pathways to Housing (Pathways) prior to moving forward in the
+process.”2 (AR at Ex. 12.) On January 17, 2012, Pathways provided its responses to the CCO’s additional
+information request. (AR at Ex. 13.) The CCO met with Pathways on January 18, 2012, and raised
+additional questions. (See AR at Ex. 14.) Pathways responded to the District’s questions in writing on
+January 23, 2012. (AR at Ex. 14.) “On January 25, 2012, the three member evaluation committee
+reconvened to evaluate the responses submitted [by Pathways] to the Court Urgent Care RFP –
+Additional Information Request.” (AR at Ex. 15, § 5.) The Committee determined that Pathways’
+responses “adequately clarified the concerns of the evaluation committee.” (AR at Ex. 15, § 5.1.)
+
+        On February 1, 2012, the CCO issued a Determination and Findings that (i) Pathways was a
+responsible offeror, and (ii) its proposed contract price was fair and reasonable. (AR at Exs. 17, 18.) On
+
+2
+ In addition to the four areas of clarification identified by the Committee, the CCO’s letter to Pathways included
+one additional item concerning how Pathways would provide a plan to obtain the best qualified individuals to
+provide the highest level of service. (AR at Ex. 12.)
+
+                                                        5
+                                                                                     Psychiatric Institute of Washington, Inc.
+                                                                                                             CAB No. P-0905
+
+
+the same day, the District notified PIW that it was an unsuccessful offeror and notified Pathways that it
+was the successful offeror. (AR at Exs. 19, 20.) PIW requested a debriefing from the District which was
+held on February 9, 2012. (Protest ¶ 16.) Subsequently, PIW filed its protest with this Board on February
+15, 2012.
+
+Determination and Findings to Proceed with Contract Performance while a Protest is Pending
+
+        On May 16, 2012, the District its first D&F which was executed by DMH’s CCO. The Board
+sustained the D&F in an Order dated June 22, 2012. In Wisconsin Avenue Psychiatric Center, Inc. v. D.C.
+Department of Mental Health, C.A. No. 005211 B (D.C. Super. Ct. filed June 22, 2012), protester filed a
+motion for entry of a temporary restraining order of the Board’s June 22nd Order. On July 3, 2012, the
+D.C. Superior Court granted protester’s motion, reversed the Board’s Order, and remanded the case to the
+Board. On July 9, 2012, the District filed the Second D&F. The Board vacated its June 22nd Order on
+July 12, 2012; the July 9th filing of the Second D&F having rendered moot the May 16th D&F. The Board
+also ordered the District to stay execution of the Second D&F until protester had the opportunity to
+pursue a challenge of the Second D&F. Protester challenged the Second D&F in a motion dated July 16,
+2012.
+
+                                                     DISCUSSION
+
+I.   MOTION TO DISMISS
+
+        On March 9, 2012, the District filed a motion to dismiss in which it argued that the Board should
+dismiss the protest because it fails to comply with the requirements of Board Rule 301.1(c). (Mot. to
+Dismiss 6-7, Mar. 9, 2012.) Board Rule 301.1 provides in pertinent part:
+
+                   All protests shall be in writing, addressed to the Board, and shall include
+                   the following:
+
+                                                     ***
+                   (c) a clear and concise statement of the legal and factual grounds of the
+                   protest, including copies of relevant documents, and citations to statutes,
+                   regulations or solicitation provisions claimed to be violated.
+
+         This rule is “meant to advise protesters of the expected form and content of a protest, so that the
+protester identifies the legal and factual grounds of the protest for the Board and the agency and its
+counsel.” Unfoldment, Inc., CAB No. P-0435, 44 D.C. Reg. 6378, 6381 (Sept. 12, 1995). “Our
+expectation of specificity in the initial protest submission must take into account that the protester may
+often have little more than the benefit of the solicitation documentation, its observations as a participant
+in the procurement, and a debriefing.” Id.
+
+        While the initial protest raised only a generalized allegation that the District “failed to properly
+evaluate [PIW’s and] the awardee’s technical proposal and preference points as provided by the terms of
+the RFP,” (Protest ¶¶ 15, 17) the protester has since raised multiple alleged errors with the District’s
+evaluation and evaluation process upon which it challenges the present solicitation.3 The District initially
+challenged the specificity of protester’s allegations and argued in its motion to dismiss that protester had
+3
+   In this case, the protester’s later raised bases are intended to supplement its initial argument that the District failed
+to properly evaluate the proposals. Under these circumstances, the Board considers the additional arguments as
+timely made. See, e.g., Rodgers Bros. Custodial Servs. Inc., CAB No. P-0565, 46 D.C. Reg. 8564, 8566 (Feb. 17,
+1999).
+
+                                                             6
+                                                                              Psychiatric Institute of Washington, Inc.
+                                                                                                      CAB No. P-0905
+
+
+failed to meet the requirements set forth in Rule 301.1(c).4 We have held that “[w]here the District
+believes that a protest ground fails to state a violation of procurement law or regulation or is unsupported
+by the facts, the matter should be addressed through the Agency Report on the merits in the first instance
+and the absence of detailed facts concerning an alleged procurement deficiency in the initial protest filing
+does not necessarily dictate dismissal.” CUP Temporaries, Inc., CAB No. P-0474, 44 D.C. Reg. 6841,
+6844 (July 3, 1997). See also Unfoldment, Inc., CAB No. P-0435, 44 D.C. Reg. at 6381. Therefore, based
+on a review of the record, the Board finds that the protester’s filings are sufficient to meet the standard
+established by Rule 301.1 and the Agency Report has provided the Board with sufficient evidence to rule
+on the merits of the claim. Accordingly, the District’s motion to dismiss on the ground that PIW failed to
+provide a clear and concise statement of the legal and factual grounds of the protest is denied. The Board
+will consider the merits of the protest.
+
+II. MERITS OF THE PROTEST
+
+        We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1) (2011). Protester has standing to file this protest as an aggrieved party because it timely
+submitted a proposal in response to the RFP and would be next in line for the award if the protest were
+sustained. (AR at Ex. 6, § 5.) Further, PIW timely filed this protest on February 15, 2012, within ten (10)
+business days of learning of the basis of the protest, in this case the notice of award to another bidder,
+pursuant to D.C. Code § 2-360.08(b)(2) and Board Rule 302.2(b).
+
+         The protester challenges the current award and alleges that (1) the District’s evaluation of the
+offeror technical proposals was irrational and therefore flawed and unreasonable, and (2) offerors were
+treated unequally in that Pathways was afforded three additional opportunities to correct deficiencies in its
+proposal while PIW was not afforded comparable opportunities. (Comments on AR/ Resp. to Mot. to
+Dismiss 2, Mar. 27, 2012 [hereinafter “Comments on AR”].)
+
+    Issue One: Was the District’s Evaluation of Both Offeror Technical Proposals Reasonable?
+
+         The protester has alleged that the District failed to evaluate the proposals reasonably and in
+accordance with the terms of the solicitation. (Comments on AR 2-15.) PIW therefore contends that its
+protest should be sustained because “DMH’s award decision was unreasonable.” (Comments on AR 2.)
+However, the District maintains that the respective proposals from PIW and Pathways were properly
+evaluated. (Mot. to Reply to the Protester’s Comments on AR/ Resp. to Mot. to Dismiss, & the District’s
+Reply 3-4, Apr. 5, 2012.) Upon a review of the record, the Board finds that while there is sufficient
+evidence of a reasonable basis for award, there is no evidence that the evaluation conducted by the
+Committee deviated from the terms of the solicitation and/or violated procurement law.
+
+         The Board’s standard of review for proposal evaluations and the related selection decision is
+whether the District’s actions were reasonable, in accord with the evaluation and selection criteria
+identified in the solicitation, and whether there were violations of procurement laws or regulations. See,
+Trifax Corp., CAB No. P-0539, 45 D.C. Reg. 8842, 8847 (Sept. 25, 1998); see also Health Right, Inc.,
+D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C.
+Reg. 8612, 8630 (Oct. 15, 1997). It is not this Board’s place to make an independent evaluation of offeror
+proposals or determine how we might have evaluated proposals were we in the position of the Committee.
+See Group Ins. Admin., Inc., CAB No. P-0309-B, 40 D.C. Reg. 4485, 4508 (Sept. 2, 1992) (“[I]t is not
+
+4
+  The District has not reasserted its claim that a motion to dismiss is warranted based on Rule 301.1(c) since the
+protester filed its Comments on the Agency Report. (Mot. to Reply to the Protester’s Comments on Agency Report,
+Apr. 5, 2012.)
+
+                                                        7
+                                                                             Psychiatric Institute of Washington, Inc.
+                                                                                                     CAB No. P-0905
+
+
+this Board’s function to evaluate proposals de novo.”) Rather, we only consider whether the District’s
+actions were arbitrary. See RGII Tech., Inc., CAB Nos. P-0664, P-0669, P-0670, 50 D.C. Reg. 7475, 7477
+(Mar. 6, 2003). “The Board will not interfere with an evaluation decision if, based on the entire record,
+the decision is documented in sufficient detail to show that it is not arbitrary and appears reasonable and
+in accord with the evaluation criteria listed in the solicitation.” RGII Tech., Inc., CAB Nos. P-0664, P-
+0669, P-0670, 50 D.C. Reg. at 7477.
+
+         Accordingly, “[t]he protester has the burden of affirmatively proving its case and the fact that the
+protester does not agree with the agency’s technical conclusions does not itself render the evaluation
+unreasonable.” Emergency Assocs. of Physician’s Assistants & Nurse Practitioners, Inc., CAB No.P-
+0500, 46 D.C. Reg. 8527, 8532 (Dec. 15, 1998). See also O’Donnell Construction Co., CAB No. P-0158
+39 D.C. Reg. 4479, 4489 (Mar 24, 1992), wherein the Board held that “[a]bsent a showing that the
+District has violated specific provisions of the [Minority Contracting] Act or the PPA or the District’s
+procurement regulations, the protest must be denied. This is so because there is a presumption that public
+officials perform their official duties properly and in good faith.”
+
+Evaluation of PIW’s Proposal Was Reasonable
+
+         PIW argues that the District failed to properly credit the strength of the staffing offered in PIW’s
+proposal and inappropriately used price and cost considerations to downgrade PIW’s technical scores.
+(Comments on AR 3, 8.) Specifically, the protester has alleged that the District failed to give appropriate
+credit to PIW’s proposal to provide the services of a child and adolescent psychiatrist. (Comments on AR
+3.) The record, however, establishes that the District’s evaluation was reasonable with respect to each of
+the four technical evaluation criteria, including staffing considerations.
+
+         There is no evidence to support protester’s assertion that PIW’s staffing strengths were
+overlooked. Staffing and organizational structure were all evaluated under the first technical evaluation
+factor (“Factor 1”), worth a maximum of 40 points. (AR at Ex. 11, § 2.) PIW’s proposal received scores
+of 40, 32, and 40, (AR at Ex. 16) which corresponds to receiving two fives and a four under the
+solicitation’s rating scale (AR at Ex. 1, § M.2.1). Clearly, the Committee gave PIW’s proposal significant
+credit for the strength of its proposed staffing and organizational plan since its proposal received a very
+high score for Factor 1.
+
+       Furthermore, the protester has failed to prove that the District was arbitrary in its decision to
+award PIW’s proposal lower scores for the other three technical evaluation factors. The Committee’s
+summary of its evaluation of PIW’s BAFO stated:
+
+                 [D]id not sufficiently address the deficiencies. The offeror dismissed the
+                 need to involve peers even though this was an evaluation criterion. The
+                 offeror does not have the ability to bill MHRS and did not offer a plan to
+                 maximize revenue collections. The offeror did not sufficiently explain or
+                 address the high executive and administrative costs. The raw scores of
+                 the offeror’s BAFO from the three (3) committee members were, 66, 70,
+                 and 70[5] totaling 181 out of a maximum score of 270. . . . It is noted that
+                 a possible 10 points were not included as part of the abovementioned
+                 evaluation summary. CPA will utilize Price/Cost formula to calculate
+
+5
+ The Board notes the existence of a typographical error in this evaluation narrative written by the Committee. In
+particular, PIW’s actual scores were 66, 70, and 45, which is properly reflected in the next paragraph of the
+evaluation and totals 181 points overall. (AR at Ex. 11, § 5.1; AR at Ex. 16.)
+
+                                                       8
+                                                                             Psychiatric Institute of Washington, Inc.
+                                                                                                     CAB No. P-0905
+
+
+                 cost proposal scores.
+
+                 (AR at Ex. 11, § 5.1.)
+
+         The fourth technical evaluation factor, worth 15 points, exclusively concerned whether the offeror
+“demonstrates [an] ability to maximize revenue collection,” (AR at Ex. 1, § M.3.1; AR at Ex. 6, § 2) and
+MHRS billing was a key requirement of the solicitation, which related to an offeror’s capacity to bill
+Medicaid for reimbursable costs for mental health services. (AR at Ex. 1, § C.7). However PIW’s
+proposal did not provide for MHRS billing. Nor did it include peer support services despite solicitation
+language which stated that “[t]he applicant must . . . show how these principles will be operationalized
+within the project.” (AR at Ex. 1, § C.3.3.) Both of these significant deficiencies were brought to the
+attention of PIW in the section under Technical Proposal in the “Notification of Deficiencies” letter. ( AR
+at Ex. 7.) However, PIW failed to amend its proposal to address these deficiencies, instead stating in its
+BAFO that “[t]he use of peers would not be clinically effective” and that it was currently operating
+without MHRS billing services because to do so “would have costs associated with it beyond the scope of
+the current contract.” (AR at Ex. 8.)
+
+        Section C.6 of the RFP unambiguously states that “[a]ll Prospective Contractors shall clearly
+describe how each of these requirements shall be addressed in the proposal.” (AR at Ex. 1, § C.6.) Yet
+PIW’s proposal was nonresponsive to those specific solicitation requirements wherein MHRS billing and
+peer involvement were, in fact, within the proposed scope of work. Although PIW was an incumbent
+contractor providing UCC services similar to those being sought by the District through the RFP, it was
+incumbent upon PIW to respond to the requirements of the present solicitation regardless of how PIW
+may have provided similar services under a previous contract. Accordingly, the Committee properly and
+reasonably lowered PIW’s scores for failing to address the requirements of the current solicitation.
+
+        There is also no evidence to support PIW’s argument that its low technical scores were actually
+the result of the Committee inappropriately considering price factors when scoring technical factors.
+Although the Committee noted that the “offeror did not sufficiently explain or address the high executive
+and administrative costs,” (AR at Ex. 11, § 5.1) there is no showing that this deficiency affected the
+Committee’s scoring of PIW’s proposal because staffing was evaluated under Factor 1 and, as noted
+previously, PIW received high scores for Technical Factor 1. (AR at Ex. 16.) In fact, the record shows
+that PIW’s scores for Factor 1 increased after the Committee evaluated and scored PIW’s BAFO.
+
+         Further, a review of the Committee reports shows that the Committee used the budgets submitted
+by offerors as a means of assessing the practicality of the technical approach proffered by both offerors.
+For instance, in assessing PIW’s offer, the Committee noted that “[t]he second CAC position is present in
+the organizational chart however does not appear to be included in the budget.” (AR at Ex. 11, § 5.1.)
+This inconsistency in the proposal raised concerns over how many CAC positions PIW actually intended
+to use to offer substance abuse counseling consistent with the terms of the solicitation, which required
+two Certified Abuse Counselors. (AR at Ex. 1, § C.6.1.2; AR at Ex. 11, § 2.) The Committee took the
+same approach in assessing Pathways’ proposal noting that “[t]he cost for a Psychiatrist is low. The part-
+time psychiatrist will not be able to meet the needs of UCC.” 6 (AR at Ex. 6, § 5.2.) Admittedly, the
+solicitation was silent on how the budget would be used in assessing offeror technical proposals. (AR at
+Ex. 1, § C.9.1.) However, it appears that the Committee reasonably and uniformly used the budget as a
+6
+ In fact, PIW asserts that Pathways’ technical evaluation score should have been “downgraded” in light of certain
+cost-related deficiencies. (Comments on AR 13-14.) Therefore PIW has argued that the District should consider
+price factors in scoring Pathways’ technical proposal even as it claims that its own proposal was improperly
+evaluated because the District allegedly used price factors in scoring its technical proposal.
+
+
+                                                       9
+                                                                          Psychiatric Institute of Washington, Inc.
+                                                                                                  CAB No. P-0905
+
+
+means to assess the reliability of both offeror proposals.
+
+Evaluation of Pathways’ Proposal was Reasonable
+
+         Based upon a review of the entire record, the Board finds that protester’s allegation that the
+District unreasonably assigned higher scores to Pathways’ proposal is similarly without merit. PIW
+claims that the Committee failed to appropriately score Pathways’ proposal for Factor 1. Yet the record
+shows that Pathways received scores of 32, 32, and 32 from the Committee. (AR at Ex. 16.) A score of
+32 reflects that the panel unanimously felt that Pathways’ proposal warranted a ranking of “Good” or that
+it “[m]eets requirements and exceeds some requirements; no deficiencies.” (AR at Ex. 1, § M.2.1.) This
+rating refutes protester’s argument that “none of the evaluators scored Pathways any lower for factor # 1,”
+(Comments on AR 12) because two of the three evaluators did in fact score Pathways lower than PIW
+since PIW received scores of 40, 32, and 40 for Factor 1. A review of the Committee’s report shows that
+the Committee noted some areas of concern with respect to the staffing aspects of Pathways’ proposal but
+also noted many strengths including that Pathways’ BAFO “clarified the organizational structure and
+increased psychiatric time and salary,” and demonstrated that “the licensed clinical staff present
+competent [sic] in the area of co-occurring substance abuse treatment.” (AR at Ex. 11.) Given the noted
+strengths of Pathways’ proposal which directly relate to the criteria detailed under evaluation Factor 1,
+there is no basis upon which the Board can conclude that the Committee’s scoring of Pathways’ proposal
+was arbitrary and unreasonable.
+
+         The protester also alleges that the District unreasonably failed to downgrade Pathways’ proposal
+with respect to the third subfactor, worth 20 points, which considered offeror capabilities in the area of
+substance abuse and related systems. (Comments on AR 14-15.) In support of this allegation, protester
+highlights that on January 9, 2012, the Committee evaluated Pathways’ proposal and unanimously
+recommended the award to Pathways. Yet, at the same time, the Committee sought clarification on the
+role of Neighbors Consejo, specifically:
+
+                What services will Neighbors Consejo provide? Who will provide these
+                services and how will the services be reimbursed? What kind of contract
+                will be in place between Neighbors Consejo and Pathways?
+
+                (AR at Ex. 11, § 5.)
+
+         PIW contends that this need for clarification evidences that it was “irrational for DMH to evaluate
+as a ‘strength’ Pathways’ ‘well discussed’ description regarding the use of its subcontractor.” (Comments
+on AR 13.) In its initial proposal, Pathways stated that “Pathways will subcontract with Neighbors to
+hire one Spanish speaking Certified Addictions Specialist, as well as a Spanish speaking case aide as part
+of the core staffing plan.” (AR at Ex. 5a, at 1.) The proposal further detailed Pathways’ intent to create
+two substance abuse counselor positions, both full time – one an employee of Pathways and the other to
+be filled through a partnership with Neighbors Consejo. (AR at Ex. 5a, at 3.) In its BAFO, Pathways
+then stated “Consistent with the RFP instructions, PTHDC will be hiring two Certified Addiction
+Counselors. It is PTHDC’s expectation that each of the Certified Addiction Counselors will spend at least
+10 hours per week in the Community to coordinate substance abuse treatment services for those referred
+and in need of services.” (AR at Ex. 10, at 4.) Therefore in both its initial proposal and the BAFO,
+Pathways was consistent in stating that it was prepared to provide two full time employees to support its
+substance abuse program. Accordingly, it was reasonable for the Committee to award Pathways’
+proposal high scores in this area even though it requested more detailed information on the scope of
+Pathways’ contractual relation with its sub-contractor.
+
+
+
+                                                      10
+                                                                           Psychiatric Institute of Washington, Inc.
+                                                                                                   CAB No. P-0905
+
+
+Award Decision was Reasonable
+
+         Lastly, the protester alleges that the District failed to conduct an appropriate technical
+strengths/price trade off and should “have determined that the additional major strengths of PIW’s
+proposal justified the additional cost of the ‘most advantageous,’ best value procurement.” (Comments
+on AR 18.) While the protester is correct that the terms of the solicitation called for the District to award
+a contract “to the responsive and responsible Offeror whose offer is most advantageous to the District,”
+(AR at Ex. 1, § M.1) its argument that the District failed to recognize PIW’s proposal as the most
+advantageous despite its significantly higher cost is illogical. The record shows that PIW failed to
+comply with key requirements of the solicitation. PIW’s staffing strengths did not overcome its major
+technical deficiencies, as noted by the Committee, in other aspects of its proposal. Accordingly, the
+Committee properly awarded PIW’s proposal lower scores for some technical evaluation factors. (AR at
+Ex. 16.) Ultimately, after the BAFOs were submitted, evaluated, and scored, PIW’s offer had a lower
+technical and price score than Pathways’, (AR at Ex. 16) while Pathways’ proposal offered a better
+technical product at a lower price, according to the terms of the solicitation. (Id.). Therefore, the District
+acted reasonably in making its best value procurement decision when it chose to award the contract to the
+offeror that submitted the best technical proposal at the lowest cost to the District.
+
+      Issue Two: Did the District Treat the Offerors Unequally and Thereby Act Unlawfully?
+
+         The protester alleges that the District failed to engage in meaningful discussions during
+negotiations and treated the offerors unequally by allowing Pathways additional opportunities to engage
+in discussions. (Comments on AR 5, 15.) Specifically, protester noted that the District failed to inform
+PIW of certain proposal weaknesses including, that (i) PIW was not DMH certified, and (ii) the referral
+system seemed complicated to evaluators. (Comments on AR 6.) The protester also alleges that the
+District treated offerors unequally by allowing Pathways “at least three opportunities after it submitted its
+BAFO to address DMH’s remaining concerns, including serious concerns regarding Pathways’
+organization and staffing.” (Comments on AR 15.) The protester claims that this resulted in prejudice
+because “PIW’s scores would have been higher had PIW been given the same chance as Pathways to
+address all of the deficiencies noted in its initial proposal.” (Comments on AR 9.)
+
+        “The District’s procurement regulations require that the contracting officer point out deficiencies
+in proposals, resolve uncertainties and mistakes in proposals, and allow all offerors an opportunity to
+supplement or revise proposals.” Med. Extension Servs., Inc., CAB No. P-0378, 41 D.C. Reg. 3918, 3921
+(Jan. 14, 1994). Specifically, the District’s procurement regulations provide that during negotiations,
+discussions must:
+
+                                                    ***
+                (b) Advise the offeror of deficiencies in its proposal so that the offeror is
+                    given an opportunity to satisfy the District’s requirements;
+                (c) Attempt to resolve any uncertainties concerning the technical
+                    proposal and other terms and conditions of the proposal;
+                (d) Resolve any suspected mistakes by calling them to the offeror’s
+                    attention as specifically as possible without disclosing information
+                    concerning the other offerors’ proposals or the evaluation process;
+                    and
+                (e) Provide the offeror a reasonable opportunity to submit any cost or
+                    price, technical or other revisions to its proposal that may result from
+                    discussions.
+
+
+
+                                                     11
+                                                                               Psychiatric Institute of Washington, Inc.
+                                                                                                       CAB No. P-0905
+
+
+                 D.C. Mun. Regs. tit. 27, § 1621.2.
+
+        The District opened discussions with both offerors on December 16, 2011.7 (See AR at Exs. 7, 9.)
+In the “Notification of Deficiencies” and request for BAFO sent to PIW, the District stated:
+
+                 Psychiatric Institute of Washington’s (PIW) proposal lacks detail about
+                 peer involvement, peer empowerment. PIW proposal lacks discussion on
+                 management data or QI mechanisms. PIW shall provide reason for
+                 inability to bill MHRS and discuss in more detail about PIW’s client
+                 centered approach.
+
+                 (AR at Ex. 7.)
+
+        PIW claims that it was prejudiced by “DMH’s failure to disclose all its evaluated deficiencies in
+PIW’s initial proposal” including that PIW was “not DMH certified” and that “the referral system seems
+complicated.” (Comments on AR 6.) However, consistent with the procurement regulations, the District
+made PIW aware of the significant weaknesses in its proposal that had an adverse impact on the
+proposal’s technical rating, and there is no evidence that the particular deficiencies alluded to by PIW
+carried any significant weight such that overcoming them could have enabled PIW to reverse its
+considerable scoring disadvantage. It bears mentioning again that the District directed PIW to discuss
+peer involvement, a significant subfactor of the second technical evaluation factor, and billing issues,
+which were highly relevant to the fourth technical evaluation factor. Yet, despite the District’s directive
+to address those proposal deficiencies, PIW failed to revise its proposal to answer those concerns and
+instead disputed the solicitation requirement for peer involvement and declared that to use the required
+MHRS billing would result in costs “beyond the scope of the current contract.” (See AR at Ex. 8.) Under
+these circumstances, it was reasonable for the committee to have given PIW lower technical evaluation
+scores.
+
+         The “contracting officer shall not assist an offeror to bring its proposal up to the level of other
+proposals through successive rounds of discussion, such as pointing out weaknesses resulting from the
+offeror’s lack of diligence, competence, or inventiveness in preparing the proposal.” D.C. Mun. Regs. tit
+27, § 1621.3. Accordingly, this Board has held that “[a]gencies are required to discuss weaknesses in an
+offeror’s proposal where the weaknesses have a significant adverse impact on the proposal’s technical
+rating.” Health Right, Inc., D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-
+0507, P-0510, P-0511, 45 D.C. Reg. at 8645. But “[a]gencies need not afford offerors all-encompassing
+discussions, or discuss every element of a technically acceptable proposal that received less than the
+possible maximum rating; rather agencies need only lead offerors into the areas of their proposal which
+require amplification.” Koba Assocs., Inc., CAB No. P-0350, 41 D.C. Reg. 3446, 3472 (June 16, 1993)
+(citing Signal Corp., B-241849.2, B-241849.3, 91-1 CPD ¶ 218 (Feb. 26, 1991)).
+
+        On January 9, 2012, the Committee unanimously recommended the contract award to Pathways.
+(AR at Ex. 11, § 5.) The CCO followed up with a January 12th letter to Pathways seeking clarification on
+(1) the methodology for billing both MHRS and non-MHRS services; (2) the role of subcontractor
+Neighbors Consejo; (3) the plan to minimize staff turnover; (4) the methodology to provide in-kind
+services; and (5) the plan to obtain qualified individuals to provide quality service. (AR at Ex. 12.) On
+January 17th, Pathways provided additional responses. (AR at Ex. 13.) The CCO then met with Pathways
+7
+  Pursuant to RFP section L.17 entitled “Best and Final Offers”, which required the District to issue BAFO requests
+“to all Offerors still within the competitive range,” (AR at Ex. 1, § L.17) the District issued both offerors a
+“Notification of Deficiencies” request for BAFO (AR at Exs. 7, 9).
+
+
+                                                        12
+                                                                                 Psychiatric Institute of Washington, Inc.
+                                                                                                         CAB No. P-0905
+
+
+on January 18th and raised additional questions. (AR at Ex. 14.) Pathways’ response to the additional
+information request was submitted on January 23rd. (AR at Ex. 14.) On January 25th, the Committee
+again recommended unanimously that the contract be awarded to Pathways. (AR at Ex. 15, § 5.1.)
+
+         The protester alleges that had it been given additional opportunities to submit clarifications, it
+could have raised its score. However, in its BAFO submission the protester was clearly nonresponsive to
+specific requirements of the RFP despite the fact that the Committee explicitly raised many of these
+deficiencies with the protester prior to its BAFO submission. (AR at Ex. 8.) Thus, the record shows that
+after the Committee evaluated and scored the BAFOs of both offerors, it reasonably recommended that
+award be made to Pathways because it ultimately received the highest evaluation score. At no time
+thereafter was Pathways proposal rescored by the Committee. (AR at Exs. 15, 16.) Instead, the CCO
+entered into negotiations with Pathways pursuant to section 2-354.03 (h)(1)and (2) of the D.C. Code
+which permits a contracting officer to enter into negotiations with the highest-ranked offeror. The
+statutory provision states:
+
+               (h)(1) After ranking the prospective contractors, the contracting officer may elect
+                      to proceed with negotiations in accordance with paragraph (2) of this
+                      subsection. The contracting officer’s decision shall not be subject to
+                      review.
+                 (2) If the contracting officer elects to proceed with negotiations, the
+                      contracting officer shall negotiate with the highest-ranked prospective
+                      contractor on price or matters affecting the scope of the contract, so long as
+                      the terms of the final contract are within the scope of the request for
+                      proposals.
+
+               D.C. Code § 2-354.03.
+
+         Accordingly, the Board views the CCO’s request for the referenced clarifications from Pathways
+as part of the overall process of commencing negotiations with the highest ranked offeror.8 Therefore,
+notwithstanding the protester’s allegation that the District treated offerors unequally when it sought
+answers to several questions despite having made the decision to award the contract to Pathways, the
+District acted lawfully and consistent with the relevant statutory provision. The Board finds that the
+District’s actions were reasonable, in accord with the evaluation and selection criteria identified in the
+solicitation, and that there is no evidence in the record of any violations of procurement laws or
+regulations in the conduct of this solicitation. For these reasons, the protest is denied.
+
+III. SECOND D&F
+
+         In light of the Board’s preceding discussion denying the protest on the merits, the protester’s
+motion challenging the Second D&F is also denied as moot. However, the protester has raised an issue
+related to the Second D&F that warrants further discussion herein.
+
+        The protester contends that the Second D&F was unlawfully executed by DMH’s CCO instead of
+the District’s Chief Procurement Officer. (Mot. to Challenge Dep’t of Mental Health Director’s Revised
+Determination to Proceed with Performance § I, July 16, 2012.) The Procurement Practices Reform Act
+8
+  Under D.C. Code § 2-351.04(41), negotiations are defined as “discussions to determine the terms and conditions of
+a contract or procurement.” Hence, the discussions between the CCO and Pathways following the recommendation
+to award the contract to Pathways serve to clarify that Pathways’ proposed services are consistent with the
+requirements of the RFP and such discussions are appropriate as long as the terms of the final contract are within the
+scope of the RFP. D.C. Code § 2-354.03(h)(2).
+
+                                                         13
+                                                                                Psychiatric Institute of Washington, Inc.
+                                                                                                        CAB No. P-0905
+
+
+of 2010 (“PPRA”) provides:
+
+                 Performance under a protested procurement may proceed, or award may
+                 be made, while a protest is pending only if the CPO makes a
+                 determination, supported by substantial evidence, that urgent and
+                 compelling circumstances that significantly affect interests of the District
+                 will not permit waiting for the decision of the Board concerning the
+                 protest.
+
+                 D.C. Code § 2-360.08(c)(2).
+
+         In this regard, the Board has previously opined on this staturoty requirement that the CPO must
+execute any formal determination that urgent and compelling circumstances exist such that a contract
+award cannot be stayed during the pendency of a protest before our Board. Specifically, in Arrow
+Construction, Co., LLC, CAB No. P-0692, 52 D.C. Reg. 4233, 4234 (Oct. 6, 2004), the Board noted that
+the “[District of Columbia Public Schools] Chief Procurement Officer did not have the power to prepare
+the written determination” required by this section of the code. In Arrow, the Board held that D.C. Code
+§ 2-309.08(c)(2)9 “required the Chief Procurement Officer (CPO) of the District of Columbia to make a
+written determination.” Arrow Constr., Co., LLC, CAB No. P-0692, 52 D.C. Reg. at 4234. However, this
+same principle cannot be applied in this case as it relates to DMH. Under the PPRA, DMH’s chief
+procurement officer has the express authority to exercise CPO authority, at least until October 1, 2015.
+The PPRA provides:
+
+                 [U]ntil October 1, 2015, the following agencies, through their chief
+                 procurement officers, shall exercise the duties of the CPO for their
+                 respective agencies:
+
+                                                ***
+                 (B) The Department of Mental Health[10]
+
+                 D.C. Code § 2-352.01(a)(3).
+
+        The Second D&F was executed by the CCO who is the chief procurement officer for DMH.
+Accordingly, the Second D&F was issued by the appropriate District contracting authority. And although
+moot, the Board finds it helpful to clarify for the protester’s benefit, the actual procurement authority of
+DMH’s CCO under law.
+
+                                                 CONCLUSION
+
+        In conclusion, the Board finds that the protester has not met its burden of proof to establish that
+the District acted unreasonably, in violation of procurement law or regulation, or inconsistently with the
+
+9
+  This statutory provision has since been repealed; however, an identical provision is now codified in D.C. Code § 2-
+360.08(c)(2) (2011).
+10
+   The entire section provides “The Department of Mental Health, if a court order no longer requires the agency to
+be exempt from the CPO’s authority.” D.C. Code § 2-352.01(a)(3)(B). The D.C. Council’s final report on the
+PPRA indicates that this language refers to the fact the DMH is currently operating under a court order that
+specifically requires it to be exempt from CPO authority. Accordingly, the D.C. Council anticipated that, by Fiscal
+Year 2016 at the earliest, DMH may be moved under the District CPO’s authority. However, the D.C. Council also
+contemplated that DMH’s authorization to exercise CPO duties could extend beyond October 1, 2015. Rep. on Bill
+18-610, the “Procurement Practices Reform Act of 2010” Attach. I. (Oct. 21, 2010).
+
+                                                         14
+                                                                      Psychiatric Institute of Washington, Inc.
+                                                                                              CAB No. P-0905
+
+
+evaluation and selection criteria set forth in the RFP. Accordingly, the protest is denied. Protester’s
+motion to override the Second D&F is also denied as moot.
+
+        SO ORDERED.
+
+
+DATED: August 1, 2012                                  /s/ Maxine E. McBean
+                                                       MAXINE E. MCBEAN
+                                                       Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+/s/ Monica S. Parchment
+MONICA S. PARCHMENT
+Administrative Judge
+
+
+Electronic Service:
+
+Jeffrey Weinstein, Esq.
+Jeffrey Weinstein, PLLC
+4545 Connecticut Ave, N.W.
+Suite 929
+Washington, D.C. 20008
+
+
+Janice Skipper, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+
+
+
+
+                                                  15
+

@@ -1,0 +1,183 @@
+         DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTESTS OF:
+
+WARDMAN INVESTOR, L.L.C. and                          )
+CIM/WARDMAN, L.L.C.                                   )
+                                                      )       CAB Nos. P-0817 and P-0818
+Under Convention Center Headquarters                  )            (Consolidated)
+Hotel RFP Dated April 26, 2001 and                    )
+Revised Hotel RFP Dated June 7, 2001                  )
+
+       For the Protesters: Peter Buscemi, Esq., Morgan, Lewis & Bockius LLP. For the District
+of Columbia Government: Nancy Hapeman, Esq., Chief, Procurement Section Office of the
+Attorney General. For the Intervener: Daniel R. Forman, Esq., Crowell & Moring LLP.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 27159349
+
+
+        Wardman Investor, L.L.C. and CIM/Wardman, L.L.C. (collectively “Wardman”) protest
+the process that the District employed in seeking, evaluating, and pursuing proposals for a new
+Washington Convention Center Headquarters Hotel. Wardman identifies a 2001 Request for
+Proposals (“2001 RFP”) related to the development of a Washington Convention Center Hotel
+and argues that the District repeatedly has made material changes in the terms of its procurement,
+including the real estate to be used for the Hotel, the terms on which the real estate will be made
+available for development, and the nature and extent of public financial support to be provided
+for the development of the Hotel. The District has moved to dismiss the protests on the grounds
+that the City Council through a series of legislative enactments exempted from the Procurement
+Practices Act the development agreement and related contracts for the Hotel project, the protest
+allegations are untimely, and the protesters lack standing because they never submitted proposals
+in response to the 2001 RFP. We agree with the District that the Council’s legislative
+enactments exempted the Hotel project from the Procurement Practices Act and thus we have no
+jurisdiction to consider these protests. The District is also correct that the protesters lack
+standing and that the protests are untimely. Accordingly, we dismiss the consolidated protests.
+
+                                        BACKGROUND
+
+       The relevant facts, as set forth in the District’s motion to dismiss, are not in dispute. On
+April 26, 2001, the District of Columbia issued the subject RFP for the development of a hotel to
+complement the new Washington, D.C. Convention Center. On June 7, 2001, a revised RFP was
+issued. The RFP stated that the new convention center “requires an adequate supply of
+accessible and high quality rooms as well as substantially more square footage devoted to
+ballrooms, meeting rooms and lobbies, than found in the basic hotel structure.” (Protest Ex. 1,
+RFP at 1). The 2001 RFP also mandated that the new convention center hotel be located in
+                                                 -2-                    Wardman Investor, L.L.C. et al.
+                                                                            CAB Nos. P-0817, P-0818
+
+proximity to the new convention center. The RFP stated that the District considered the
+development of the hotel to be “an opportunity for public-private partnership.” (Id., RFP at 1, 9
+(stating that if an offeror requested the District’s financial involvement, the offeror must discuss
+the value and terms of a District contribution to the project). The Questions and Answers to the
+RFP also specifically stated that several community development programs may be used to
+contribute to project funding, including tax increment funding (“TIF”). (Id., RFP Questions &
+Answers 2, 48, 56, 57, 60, and 66). The RFP set August 8, 2001, as the deadline for the initial
+receipt of proposals. Wardman points to no language in the RFP indicating that the RFP was to
+be governed by the Procurement Practices Act.
+
+        Two development teams, the Marriott/Gould team and the Landmark/Hilton team
+submitted their initial proposals to the District. Marriott and Landmark were selected for the
+short list of proposals, and were invited to submit and did submit Best and Final Proposals. In
+October 2002, then Mayor Anthony Williams announced that Marriott/Gould had been selected
+for negotiations for the Hotel project. The District states that no contract was awarded under the
+2001 RFP.
+
+        The Council of the District of Columbia enacted several pieces of legislation to authorize
+aspects of the construction, leasing, and financing of the Hotel project between the District, the
+Washington Convention Center Authority (“WCCA”) and Marriott International, Inc. In 2006,
+the Council enacted the New Convention Center Hotel Omnibus Financing and Development
+Act of 2006, D.C. Law 16-163 (“2006 Act”). (District’s Motion to Dismiss, Ex. 1). The
+legislation was first read on May 2, 2006, approved by the Council on June 6, 2006, and went
+into effect on September 19, 2006. (Id.). The 2006 Act states:
+
+       The Council finds that in order for the development of the new convention center
+       hotel to proceed, it is necessary for the District and the [Washington Convention
+       Center] Authority to lease to Marriott International, Inc., the developer of the new
+       convention center hotel, or its designee, 2 parcels of land that are part of the site
+       of the new convention center hotel.
+
+D.C. Law 16-163, § 701 (codified at D.C. Code § 10-1202.21). The Act provides authority to
+the Mayor to grant a lease to “Marriott International, Inc., or its designee” of certain lots of real
+property for a lease term of 99 years and with specified payment terms. Id. § 702 (codified at
+D.C. Code § 10-1202.22). Similarly, the Act provides authority to WCCA to lease to Marriott
+certain lots of real property for a lease term of 99 years with specified payment terms. Id. § 703
+(codified D.C. Code § 10-1202.23).
+
+       In 2008, the Council enacted the New Convention Center Hotel Omnibus Financing and
+Development Amendment Act of 2008, D.C. Law 17-144 (effective April 15, 2008) (the “2008
+Amendment Act”) (Motion to Dismiss, Ex. 2) and the New Convention Center Hotel Technical
+Amendments Act of 2008, D.C. Law 17-399 (effective March 21, 2009) (the “2008 Technical
+Amendments Act”) (Motion to Dismiss, Ex. 3). Section 2(e) of the 2008 Amendment Act
+provides in relevant part:
+                                               -3-                  Wardman Investor, L.L.C. et al.
+                                                                        CAB Nos. P-0817, P-0818
+
+       Unit A of Chapter 3 of Title 2 [the District of Columbia Procurement Practices
+       Act of 1985, effective February 21, 1986 (D.C. Law 6-85); D.C. Code § 2-301.01
+       et seq.] and subchapter III-A of Chapter 3 of Title 47 shall not apply to the
+       Financing Documents, Closing Documents, and any other contract the Mayor may
+       from time to time enter into in connection with the Project.
+
+D.C. Code § 10-1221.09(d). The statute says that the term “Project” means “the financing,
+refinancing, or reimbursing of costs incurred for the acquisition, construction, installing, and
+equipping of a hotel having approximately 1,100 rooms and suites, meeting and ballroom space,
+and other ancillary facilities customarily found in convention center hotels.” D.C. Code § 10-
+1221.01(18). The 2008 Technical Amendments Act approved the Hotel Development and
+Funding Agreement (the “DFA”) by which District, WCCA, and Marriott’s designee agreed to
+the terms by which the District would issue a TIF note; WCCA would issue the bonds to finance
+a portion of the Hotel project; the District and WCCA would lease land in square 370 adjacent to
+the Convention Center to Marriott’s designee; and Marriott’s designee would construct the
+Hotel. (Motion to Dismiss, Ex. 3, D.C. Law 17-399, § 4). This provision exempted contract
+approval from the Council review criteria for multiyear contracts and contracts exceeding $1
+million found in the D.C. Code § 2-301.05a.
+
+       Due to adverse conditions in the financial markets, certain changes to the DFA were
+subsequently negotiated and on July 31, 2009, the Council approved the revised DFA by
+enacting the New Convention Center Hotel Emergency Amendment Act of 2009, D.C. Bill No.
+18-391 (Motion to Dismiss, Ex. 4) and the New Convention Center Hotel Amendment Act of
+2009, D.C. Bill No. 18-310 (the “2009 Act”) (Motion to Dismiss, Ex. 5).
+
+                                        DISCUSSION
+
+       The various Hotel Acts enacted by the Council for the Hotel project – namely, the 2006
+Act, the 2008 Amendment Act, the 2008 Technical Amendments Act, and the 2009 Act –
+uniformly show that the Council authorized the Mayor and WCCA to enter into contracts with
+Marriott for the development of the Hotel project, and that the authority to enter into such
+contracts was independent of the Procurement Practices Act. Indeed, the Hotel Acts can only
+reasonably be interpreted as exempting the Hotel project contracts from the requirements of the
+Procurement Practices Act. Because our jurisdiction is founded upon the Procurement Practices
+Act, we have no jurisdiction to consider Wardman’s protests. Consistent with the legislative
+enactments from 2006 through 2009, there is no indication in the 2001 RFP that it was meant to
+be covered by the Procurement Practices Act. As the District correctly observes, Wardman has
+no standing with respect to the 2001 RFP because it was not a prospective offeror since it was
+not in existence at the time of the RFP. The entire selection process by which the Hotel
+developer was chosen, including the legislative enactments by which the Hotel project was
+approved, does not reflect a procurement carried out under the authority of the Procurement
+Practices Act. The Hotel Acts authorize the Mayor and WCCA to enter into contracts with
+Marriott or its selected designee “notwithstanding any other provision of law.”
+
+       Wardman argues that the Procurement Practices Act exemptions found in the Hotel Acts
+apply only to the “Project” which is defined in the 2008 Act with regard to the financing of the
+                                                  -4-                   Wardman Investor, L.L.C. et al.
+                                                                            CAB Nos. P-0817, P-0818
+
+Hotel. Wardman’s argument misses the mark. The express exemptions of the Hotel Acts cover
+in substance the essential undertaking of the Mayor and WCCA in the Hotel project. Moreover,
+beyond the express exemptions from the Procurement Practices Act, we construe the Hotel Acts
+to be special project specific legislation by the Council authorizing and approving the selection
+of Marriott and the execution of contracts for the Hotel project notwithstanding the provisions of
+the Procurement Practices Act.
+
+        Although we conclude that we have no jurisdiction to consider the selection of Marriott
+and contracts related to the Hotel project, it is clear that the protesters lack standing to challenge
+the legislative authorization of the selection and contracts and any “protest” would be untimely
+in that the Council effectively authorized the Mayor and WCCA to enter into contracts with
+Marriott in the 2006 Act. Wardman argues that its protests were triggered by the 2009 Act in
+July 2009, but that Act itself provides no grounds for protest.
+
+                                          CONCLUSION
+
+        We lack jurisdiction to consider the protests because the process for the selection of
+Marriott and the contracts related to the Hotel project are not subject to the Procurement
+Practices Act as evidenced by the Hotel Acts. Further, even if we had been granted jurisdiction
+over the contracts related to the Hotel project, the protesters lack standing to challenge the
+contracts and the challenges are clearly untimely. Accordingly, we dismiss the consolidated
+protests.
+
+       SO ORDERED.
+
+DATED: September 18, 2009                               /s/ Jonathan D. Zischkau
+                                                        JONATHAN D. ZISCHKAU
+                                                        Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

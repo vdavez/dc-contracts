@@ -1,0 +1,140 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+DECISION SUPPORT LLC                                  )
+                                                      )       CAB No. P-0853
+Under RFP No. DCTO-2010-R-0028                        )
+
+
+        For the Protester, Decision Support, LLC.: President Mike Sibley, pro se. For the
+District of Columbia Government: Robert L. Dillard, Esq., Assistant Attorney General, Office of
+the Attorney General.
+
+      Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Marc
+D. Loud, Sr., concurring
+
+                                           OPINION
+                                         Filing ID 37689633
+
+
+        On June 17, 2010, Decision Support LLC (“Decision”) protested the award made to Hart
+Inter Civic, Inc. (“Hart”), under the above RFP. The District of Columbia moved to dismiss the
+protest on July 6, 2010, asserting that Decision lacks standing to bring this protest because the
+protester is not next in line for award. We agree with the District and hereby dismiss the protest.
+
+                                        BACKGROUND
+
+        On January 13, 2010, the District of Columbia, Office of Contracting and Procurement
+(“OCP”), on behalf of the Board of Elections and Ethics (“BOEE”), issued RFP DCTO-2010-R-
+0028 (“RFP”) in the open market for a contractor to provide Electronic Poll Books. (Agency
+Report (“AR”) Ex. 1, RFP). The poll books printed on paper contain a listing of all voters
+registered in a specific precinct by the close of registration. (AR Ex. 1). This solicitation would
+allow the BOEE to keep voter data electronically and would provide BOEE with other benefits
+that are set forth in paragraph C.2 of the specifications.
+
+       Five offerors submitted proposals by the due date of February 17, 2010: Election
+Systems & Software (“Election Systems”), Hart, Datacard Group (“Datacard”), Robis Elections,
+Inc. (“Robis”), and Decision, the protester. (AR Ex. 2). On March 23, 2010, the evaluation
+panel submitted its report to the Contracting Officer. (AR Ex. 2). The five offerors submitted
+Best and Final Offers, and the evaluation panel submitted its final report to the Contracting
+Officer on May 7, 2010. The cost price analyst submitted a report to the Contracting Officer on
+May 10, 2010.
+
+        After review, the Contracting Officer (“CO”) determined that Hart had the highest overall
+evaluation score. Decision’s proposal was ranked in fourth place. The Contracting Officer
+notified the offerors of an award to Hart on June 8, 2010. Decision filed its protest on June 17,
+2010. OCP issued a Determination and Findings to Proceed with Contract Performance While a
+Protest is Pending on June 25, 2010. Decision challenged the D&F by letter dated July 2, 2010.
+The District filed a Motion to Dismiss the Protest on July 6, 2010, for lack of standing, alleging
+that the protester was not next in line for award. Decision filed its response to the Motion to
+                                                 2
+                                                                                Decision Support LLC
+                                                                                    CAB No. P-0853
+
+Dismiss on July 15, 2010. In its response, Decision argues that several offerors could not meet
+certain requirements of the Omnibus Election Reform Act of 2009.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1).
+
+        The District presented its D&F to proceed on June 25, 2010, asserting that BOEE had an
+extremely tight schedule to implement the electronic poll books in time for the scheduled
+September, 2010, primary election. The D&F set forth OCP’s urgent and compelling
+circumstances to proceed with the procurement without waiting for this Board’s decision on the
+protest. Decision’s response to the D&F alleges that the contract had been improperly awarded
+to a vendor that allegedly had never met the requirements of the Omnibus Election Reform Act
+of 2009. However, Decision’s response to the D&F did not provide any specific details of Hart’s
+failure to meet the requirements of the Reform Act. Those more specific allegations appeared,
+for the first time, in Decision’s Response to the District of Columbia Motion to Dismiss, dated
+July 25, 2010. And, this Board notes that the response to the D&F alleged that Hart could not
+meet the requirements of the election reform Act.
+
+       The Response to the D&F made no mention of the other vendors (Datacard, and Robis)
+that had higher evaluation scores than Decision. Additionally, the response did nothing to
+counter the assertions made by the District regarding the need to proceed with performance.
+Accordingly, we determine that OCP’s D&F to Proceed set forth adequate circumstances
+allowing the District to proceed with contract performance.
+
+        The District’s Motion to Dismiss asserts that Decision lacks standing to file a protest
+because it is not next in line for award. The District’s argument is based on the relative ranking
+of the vendors set forth in the District’s motion and in exhibit 3 to the Motion to Dismiss, the
+Business Clearance memorandum. After evaluation of the Technical proposals and the cost
+proposals, Decision’s proposal is the fourth ranked proposal out of the group of five. In order to
+survive the evaluation process as the highest ranked proposer, Decision would have to move
+three proposers out of consideration for the award (Hart, Datacard, and Robis). In the protest,
+Decision argues that Hart should not receive the award. Decision does not mention the existence
+of any other vendor in the protest. Additionally, Decision’s protest reserves the right to amend
+the protest after the June 17 debriefing and after it receives copies of Hart’s proposal in response
+to a Freedom of Information request. However, Decision did not amend its protest at any later
+date.
+
+       As the District properly determined that Decision’s bid was the fourth highest ranked bid,
+then Decision is not in line for award and therefore lacks standing to raise the other challenges
+with respect to the award to Hart. See Configuration, Inc., CAB No. P-0819, November 9, 2009,
+and C.P.F. Corp., CAB No. P-0521, Jan. 12, 1998, 45 D.C. Reg. 8697, 8699 (the Board will not
+consider protests by bidders who are not next in line for award if the protest is sustained). Our
+review of the record reveals that the District properly evaluated the proposals, that Decision’s bid
+was properly evaluated as the fourth highest ranked bid, and that the District set forth adequate
+grounds to proceed with performance in spite of the protest.
+                                            3
+                                                                       Decision Support LLC
+                                                                           CAB No. P-0853
+
+
+                                        CONCLUSION
+
+
+        For the reasons discussed above, we deny Decision’s challenge of the contracting
+officer's determination, and we dismiss its challenge to the award for lack of standing.
+
+
+       SO ORDERED.
+
+
+DATED: May 19, 2011                             /s/ Warren J. Nash
+                                                WARREN J. NASH
+                                                Administrative Judge
+
+
+CONCUR:
+
+/s/ Marc D. Loud, Sr.__
+MARC D. LOUD, Sr.
+Chief Administrative Judge
+
+Electronic Service:
+
+Robert L. Dillard, Esq.
+Assistant Attorney General
+441 4th Street, N.W., 6th Floor South
+Washington, D.C. 20001
+
+Mr. Mike Sibley
+President
+Decision Support, LLC.
+3326 Siskey Parkway Suite 300
+Matthews, N.C. 28105
+

@@ -1,0 +1,177 @@
+                            GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                               CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+Infrastructure Corporation of America                      )
+                                                           )       CAB No. P-0731
+Under RFP No. POKA-2005-R-0034-CB                          )
+
+       For the Protester Infrastructure Corporation of America: Tenley A. Carp, Esq., Cohen
+Mohr, LLP. For the District of Columbia Government: Jon N. Kulish, Esq., and Jennifer L.
+Longmeyer-Wood, Esq., Assistant Attorneys General. For the Intervenor VMS, Inc.: Mark F.
+Evens, Esq., and Michael J. Askew, Esq., Thelen, Reid, & Priest, LLP.1
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                                OPINION
+                                      (Lexis-Nexis Filing ID 11825911)
+
+        Infrastructure Corporation of America (ICA) protests the District’s action of issuing
+Amendment No. 5 to the Request for Proposals (RFP). ICA asserts that Amendment No. 5
+revised the RFP’s performance requirements in a significant manner but did not provide
+reasonable additional time to submit proposals, thereby unfairly eliminating competition. The
+District responds that it properly amended the solicitation and that the Board should dismiss the
+protest. Because the protester failed to factually support the allegations, we deny the protest.
+
+                                            BACKGROUND
+
+        On December 1, 2005, the District of Columbia Office of Contracting and Procurement,
+(“OCP”), through the District Department of Transportation (“DDOT”), issued RFP No. POKA-
+2005-R-0034-CB, NHS Asset Preservation DC Streets II. The RFP requested offerors to submit
+proposals that could provide to the District asset management services to rehabilitate and
+maintain designated roadway and roadside assets for a base period of two years and potentially
+for three additional option years. Prospective contractors were to submit offers for Contract Line
+Item Numbers (“CLINS”) for basic roadway and roadside rehabilitation and maintenance. The
+RFP also requested proposals for additive alternate CLINs for snow removal and tree and debris
+removal which could be added to the contract if funds were available. (Agency Report (“AR”)
+Ex. 1).
+
+
+
+
+1
+  By letter dated May 22, 2006, VMS, Inc., submitted a second motion to intervene in the protest. The Board
+hereby grants the VMS request to file its Comments to the Agency Report and Response to ICA’s Comments on the
+Agency Report.
+                                            2
+                                                      Infrastructure Corporation of America, CAB No. P-0731
+
+
+
+       Thirteen companies picked up copies of the RFP. Five of those companies appeared to
+be able to meet the RFP bonding requirements. (AR Ex. 1 and 10). The District conducted a
+pre-proposal conference on December 21, 2005, attended by representatives of all thirteen
+potential offerors. (AR Ex. 10). Amendment No. 2, issued December 30, 2005, requested
+proposals from offerors on January 31, 2006. (AR Ex. 1 and 10).
+
+        Prospective offerors at the pre-proposal conference submitted 42 questions. ICA
+submitted two additional questions by e-mail dated December 22, 2005. (AR Ex. 10). OCP and
+DDOT provided written responses to these questions in Amendment No. 3, dated January 6,
+2006. In the response, OCP declined ICA’s request to extend the proposal deadline for an
+additional 45 days beyond January 10, 2006, as well as ICA’s request to extend the mobilization
+period for an additional 30 days. (AR Ex. 4). OCP and DDOT issued Amendment No. 4 on
+January 20, 2006. Amendment No. 4 answered three additional questions submitted by potential
+offerors. (AR Ex. 4). On January 31, 2006, VMS, Inc. submitted the only timely proposal. (AR
+Ex. 10).
+
+       DDOT’s evaluators met on February 8, 2006, to consider the VMS proposal. (AR Ex.
+10). DDOT held negotiation sessions with VMS on February 17 and March 17, 2006. (AR Ex.
+10). After the second session DDOT decided to revise the RFP. In the amendment, DDOT
+deleted a number of locations that had already been paved under other contracts. (AR Ex. 10).
+The effect of the amendment was to reduce the scope of work and thus the cost of the job.
+DDOT hoped the amendment would encourage the other prospective contractors to submit
+proposals.
+
+        DDOT issued Amendment No. 5 to the RFP, dated March 29, 2006, to all potential
+offerors on the bidders list, except the District initially failed to send Amendment No. 5 to VMS.
+(AR Ex. 5). The District later sent Amendment No. 5 to VMS by facsimile on April 14, 2006.
+(AR Ex. 10). Amendment No. 5 removed several items of work from the RFP. (AR Ex. 6).
+Amendment No. 5 adjusted the method of testing for the International Roughness Index (“IRI”),
+by excluding from the index utility cuts. (The IRI prescribes tests for pavement smoothness).
+Amendment No. 5 also allowed the contractor additional time to meet the IRI compliance date
+by extending the IRI compliance date from six months after award to a full year after award.
+(AR Ex. 10). Amendment No. 5 erroneously stated that the January 31, 2006, due date for
+proposals was not extended. However, the amendment required offerors to acknowledge receipt
+of the amendment by April 14, 2006. (AR Ex. 10).
+
+       There is no indication that ICA contacted DDOT about Amendment No. 5 from March
+29 through April 9, 2006. On April 10, 2006, David Rader from ICA contacted DDOT by
+telephone and spoke with OCP Supervisory Contract Specialist Kathy Hatcher regarding
+Amendment No. 5. (AR Ex. 9). In that conversation, Ms. Hatcher confirmed that the District
+was in negotiations with VMS, but stated that the District had modified several terms and
+conditions that could affect prices and change the quality of services and delivery schedule. Ms.
+Hatcher told Mr. Rader that the District had decided to send the addendum to all firms that had
+received a copy of the RFP to give those firms an opportunity to respond by submitting
+proposals. Ms. Hatcher told Mr. Rader that, if asked, the District would grant an extension of
+                                            3
+                                                      Infrastructure Corporation of America, CAB No. P-0731
+
+
+time of two weeks beyond the (presumed) closing date of April 14, 2006, in which to respond to
+the revised RFP. According to Ms. Hatcher, Mr. Rader informed her that two weeks was not
+enough time, and that ICA needed from 60 to 90 days to submit a proposal. (AR Ex. 9). ICA
+filed its protest on April 13, 2006.
+
+        By Amendment No. 6 dated April 14, 2006, the District extended the date for submission
+of offers to April 28, 2006. (AR Ex. 7). By Amendment No. 7, dated April 28, 2006, but
+actually signed and faxed to all prospective offerors on April 24, 2006, the District extended the
+date for submission of offers to May 8, 2006. (AR Ex. 8 and 10). The May 8 deadline passed
+without any new submissions from prospective offerors or even a revised offer from VMS.
+DDOT states that VMS’s original proposal is still under consideration.
+
+                                         DISCUSSION
+
+       ICA asserts that Amendment No.5 was a substantial change to the solicitation, and that
+the District should have allowed prospective offerors more time to respond to the new
+requirements of the solicitation. The District responds that OCP complied with all regulations
+when it issued Amendment No. 5 and that ICA has not shown the District any reason to extend
+the proposal due date.
+
+        We begin by observing that ICA has not demonstrated – with evidence of record – why it
+could not prepare a proposal from March 29 through May 8, a total of 40 calendar days. On that
+basis, we must deny its protest in view of the affidavit from DDOT indicating that the response
+time was reasonable. Nevertheless, the District clearly must appreciate that during this period –
+intended to spur additional competition – not a single new offer was submitted nor did VMS
+submit a revised proposal. Moreover, the issuance of the last three solicitation amendments were
+accompanied by glaring errors and sloppy work by the contracting agency. There is no
+indication in the record that the contracting officer has completed negotiations with VMS, much
+less made an award. Thus, nearly seven weeks after the revised closing date, we are left
+wondering if perhaps the contracting officer should not have given prospective offerors more
+time to offerors to respond. Apart from ICA, none of the other eleven prospective offerors seems
+interested in the procurement. We hope that DDOT has made inquiry to see why that is, and,
+with the contracting officer, is working on a plan to inject some meaningful competition into a
+project that clearly should have ample competition.
+                                             4
+                                                       Infrastructure Corporation of America, CAB No. P-0731
+
+
+                                         CONCLUSION
+
+         For the reasons discussed above, we deny the protest.
+
+DATE: __July 18, 2006                         _/s/ Warren J. Nash _________________
+                                              WARREN J. NASH
+                                              Administrative Judge
+
+CONCURRING:
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+
+
+Electronic Service to:
+
+Jon N. Kulish, Esq.
+Jennifer Longmeyer-Wood, Esq.
+Assistant Attorney General, D.C.
+441 Fourth Street, N.W., 6th Floor
+Washington, D.C. 20001
+
+Tenley A. Carp, Esq.
+Cohen Mohr, LLP
+1055 Thomas Jefferson Street, N.W.
+Suite 504
+Washington, DC 20007
+
+Mark F. Evens, Esq.
+Michael J. Askew, Esq.
+Thelen Reid & Priest, LLP
+701 Eighth St., N.W.
+Suite 800
+Washington, DC 20001-3721
+

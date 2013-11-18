@@ -1,0 +1,511 @@
+                                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+MORPHOTRUST USA, INC.                                                       )
+                                                                            )        CAB No. P-0924
+Solicitation No. DOC-62682                                                  )
+
+
+For the Protester: Daniel E. Chudd, James C. Cox, and Damien C. Specht, Jenner & Block LLP. For the
+Intervenor: Warren W. Hamel and Dismas N. Locaria, Venable LLP, and Andrea Leahy-Fucheck and
+Steven DeSmet, Leahy & DeSmet, LLC. For the District of Columbia Government: Howard Schwartz
+and Janice N. Skipper, Assistant Attorneys General.
+
+Opinion by: Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud,
+Sr. and Administrative Judge Monica C. Parchment concurring.
+
+                                                                  OPINION
+                                                               Filing ID #48009987
+
+        MorphoTrust USA, Inc. (“MorphoTrust” or “protester”) has filed a protest alleging that the
+specifications set forth in Solicitation No. DOC-62682 (the “Solicitation” or “RFP”) for a centralized
+security credentialing system to produce drivers’ licenses for the Department of Motor Vehicles (“DMV”)
+are overly restrictive because they exceed the District’s minimum needs and would likely result in a de
+facto sole source award. The District denies MorphoTrust’s allegations and contends that the
+specifications set forth in the RFP by the District’s Office of Contracting and Procurement (“OCP”) are
+necessary to meet the District’s legitimate minimum requirements.
+
+         The Board rejects protester’s arguments for the following reasons. First, MorphoTrust has failed
+to demonstrate that the District’s minimum requirements in the Solicitation were unreasonable. Second,
+the Solicitation did not result in a de facto sole source award as shown by the fact that        offerors
+submitted responsive proposals. Finding that the District did not violate procurement laws or regulations
+in establishing the Solicitation’s minimum requirements, the Board denies the instant protest.
+
+                                                               BACKGROUND
+
+        On May 18, 2012, OCP, on behalf of the DMV, issued the Solicitation for “an Offeror to provide
+a Centralized Security Credentialing System (“System”) for update and production of secure digitized
+drivers’ licenses (DL) and identification (ID) cards.” (Agency Report (“AR”) at Ex. 1, § 3.1.1.) The
+stated purpose of the centralized security credentialing system was “to improve and increase card security
+to deter fraud and deter attempts to illegally duplicate identity credentials by criminals and
+counterfeiters.” (AR at Ex. 1, § 3.2.1.1.) Initially, the deadline to submit proposals was June 8, 2012,
+with contract performance to begin on December 15, 2012. (AR 3.) After a number of amendments, the
+deadline to submit proposals was extended to August 17, 2012, with          offerors submitting proposals.
+(AR 3-4.)1
+
+                                                            
+1
+  According to the District, the deadline to submit proposals was extended after prospective vendors initially
+declined to submit proposals for the following reasons unrelated to the specification requirements at issue: (a) the
+short timeframe within which to submit proposals; (b) an aggressive implementation deadline; and (c) a challenging
+LSDBE subcontracting requirement. (AR 3.)
+                                                                                                                MorphoTrust USA, Inc.
+                                                                                                                     CAB No. P-0924
+ 
+
+         On July 27, 2012, prior to the deadline for receipt of proposals, MorphoTrust timely filed the
+present protest with the Board, in accordance with Board Rule 302.2(a), alleging improprieties in the
+Solicitation. Protester is the incumbent provider of drivers’ licenses and identification cards in the
+District. (Protest 2.) According to protester, the specifications contained in the Solicitation are overly
+restrictive so as to prevent it from submitting a “compliant proposal.” (Protest 1.) It argues that the
+specifications exceed the District’s minimum needs and, further, would likely result in a de facto sole
+source award to                                                ).2 (Protest 19-21.) The protest focuses on
+the secure card requirements and the secure facility requirements contained in the RFP’s Sections 3.4.12
+and 3.4.16 respectively. (Protest 5-7.)
+
+I.            Requirements of the Solicitation
+
+              A. Secure Card Requirements
+
+        The Solicitation’s secure card features, as required by the DMV, are described in Section 3.4.12.
+(AR at Ex. 1.) Offerors were required to “propose and price seventeen (17) security features outlined in
+section 3.4.12.[14].” (AR at Ex. 1, § 3.4.12.3.) Offerors were also given “the option to propose and price
+up to 10 additional security features.” (Id.) The 17 required secure card features are as follows:
+
+              1.      Solid Polycarbonate Card
+              2.      Laser Engraved Primary Photo Image
+              3.      Integrated window with clear Laser Engraved Secondary Ghost image of the customer
+              4.      2-D/3-D barcodes
+              5.      Laser Engraved Tactile data fields including signature image
+              6.      Laser Engraved Clear Tactile Feature
+              7.      Non-Linear Wave Feature
+              8.      Redundant Data
+              9.      Micro lettering
+              10.     Rainbow printing
+              11.     Card inventory #s
+              12.     Real-ID compliant feature (Logo)
+              13.     Custom-formulated colors
+              14.     Fine-line guilloche patterns
+              15.     Reverse micro lettering & Deliberate error in micro lettering
+              16.     IR Transparent and opaque inks
+              17.     UV Patterns with fluorescence
+
+              (AR at Ex. 1, § 3.4.12.14 (emphasis added).)
+
+         MorphoTrust challenges the above list of 17 secure card requirements for allegedly being overly
+restrictive, in particular, the first, second, third, fifth, and sixth requirements. (Protest 4-6, 13-18.)
+Protester asserts that the District should have permitted offerors to propose alternative methods of
+producing an equally, if not more, secure card. (Id.) MorphoTrust also alleges that the District merely
+                                                                              (Protest 17.) In other words,
+protester alleges that the Solicitation’s requirements are uniquely tailored for            (Protest 19.)
+
+              B. Secure Facility Requirements
+
+                                                            
+2
+                   was one of                  offerors to the Solicitation. (Status of Procurement at Exs. A-D.)
+
+                                                                            2 
+ 
+                                                                                         MorphoTrust USA, Inc.
+                                                                                              CAB No. P-0924
+ 
+         In Sections 3.4.8 and 3.4.16, the Solicitation details the secure facility requirements. (AR at Ex.
+1.) Section 3.4.8 lists the primary facility requirements whereby offerors need to provide “a ‘hardened’
+facility with security procedures for all modes of physical and technical access.” (AR at Ex. 1, § 3.4.8.4.)
+Proposed facilities are also required to “be either ISO/IEC 27001 certified or NASPO certified.” (AR at
+Ex. 1, § 3.4.8.3.) Section 3.4.16 of the RFP includes the following additional secure facility
+requirements:
+
+        1. Physical security (live monitoring on site, live video monitoring);
+        2. Key card access entries per sections;
+        3. Outside security to include fences, distance from entrance to parking, etc.;
+        4. Access to printers must be secure and hardened (refer to Real ID act for further information);
+        5. Access control systems to limit access to its central card processing facility to authorized
+           personnel and authorized visitors;
+        6. The Contractor shall control and secure hardware, software and cardstock; and
+        7. The Contractor shall notify the District of any breach in security. Any costs incurred by DMV
+           in responding to and providing assistance to resolve the breach . . . shall be the responsibility
+           of the Contractor.
+
+        (AR at Ex. 1, § 3.4.16.1 (emphasis added).)
+
+         MorphoTrust alleges that these seven additional secure facility requirements, in particular the
+third feature, are overly restrictive. (Protest 6-8, 18-19.) In fact, the protester argues that these additional
+secure facility features are not actually required by the District but, instead, “notably mirror the security
+features of                                                   ” (Protest 18.)
+
+II.     Agency Report
+
+        On August 20, 2012, the District submitted the Agency Report in response to MorphoTrust’s
+protest. In its report, the District argues that the specifications contained in the RFP are reasonably
+necessary to satisfy the District’s legitimate minimum needs for a centralized security credentialing
+system. (AR 4-5.) It contends that “the security needs of DMV are justified based on the singular status
+of the District of Columbia as the nation’s capital.” (AR 9.) The District states that it received
+proposals in response to the RFP. (AR 4.)
+
+        The District also explains that DMV had “conducted extensive market studies over a three year
+period in order to determine the District’s minimum needs.” (AR 5.) Moreover, it justified the secure
+card requirements by describing the non-delaminable and durable nature of polycarbonate cards. (AR 6-
+7.) The District stated that the laser engraving and ghost window requirements are “concomitant features
+of the polycarbonate card.” (AR 6.) With respect to the secure facility requirements, the District
+responded that “the variety of private information obtained from individuals and used in the manufacture
+of ID cards mandate a production facility that is at least as secure as the District’s own DMV facilities.”
+(AR 7.)
+
+III.    Other Filings
+
+         In response to the Board’s inquiry concerning the status of the  offers to the Solicitation, on
+October 9, 2012, the District provided the Board with an update on the evaluations stating that “[t]he
+Technical Evaluation Committee and the contracting officer evaluated the     offers and concluded that
+all       offers were technically compliant with the scope of work and within the competitive range.”
+(Letter from the District (Oct. 9, 2012).)
+
+
+                                                       3 
+ 
+                                                                                                 MorphoTrust USA, Inc.
+                                                                                                      CAB No. P-0924
+ 
+         The Board requested additional information, such as reports and bid tabulation spreadsheets from
+the contracting officer and the Technical Evaluation Panel and, in response, on October 19, 2012, the
+District submitted contemporaneous and other documents which demonstrated that the             offers had
+been evaluated and found to be technically compliant and within the competitive range. (See Status of
+Procurement at Exs. A-D.)
+
+        MorphoTrust argues that the documents submitted by the District on October 19, 2012, do not
+provide the Board with “sufficient information to confirm that the offerors meet the requirements of the
+RFP.” (MorphoTrust’s Mot. for Leave to File Resp. to District’s “Status of Procurement Filing” 3.) It
+further contends that the documents submitted by the District “indicate[] that none of the offerors’
+proposals met all the Solicitation requirements” (Id. (emphasis removed).) MorphoTrust challenges the
+evaluation scores assigned to the offerors by the Technical Evaluation Panel. (Id. 5-7.) However, it did
+not submit a proposal in response to the RFP.3 (District’s Mot. for Leave to Reply to Protester’s Mot. for
+Leave to File a Resp. to District’s “Status of Procurement Filing” 1.)
+
+                                                               DISCUSSION
+
+I.            Jurisdiction
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1) (2011).
+
+II.           Standing
+
+         MorphoTrust asserts that it has been aggrieved in connection with the solicitation of the contract
+and therefore requests that the District change the terms of the Solicitation. (See Protest 21.) Under
+Board Rule 100.2(a), an aggrieved person is defined as “an actual or prospective bidder or offeror (i)
+whose direct economic interest would be affected by the award of a contract or by the failure to award a
+contract, or (ii) who is aggrieved in connection with the solicitation of a contract.” The Board recognizes
+that the rule imposes different standards in analyzing whether a protester has standing: (i) the standard
+for protests of awards, and (ii) the standard for protests of alleged improprieties in the solicitation. See
+M.C. Dean, Inc., CAB No. P-0528, 45 D.C. Reg. 8746, 8750 (Apr. 16, 1998). As such, MorphoTrust, in
+challenging alleged improprieties in the Solicitation, “must show that it has suffered, or will suffer, a
+direct economic injury as a result of the alleged adverse agency action.” (Id.)
+
+        “Sufficient injury can be found, for example, in an adverse agency action which . . . denies the
+person the opportunity to compete, or precludes the person’s product or services from being considered
+due to defects in the government’s specifications.” Recycling Solutions, Inc., CAB No. P-0377, 42 D.C.
+Reg. 4550, 4575 (Apr. 15, 1994); see also Micro Computer Co., CAB No. P-0226, 40 D.C. Reg. 4388,
+4391 (May 12, 1992). MorphoTrust, the current provider of drivers’ licenses/ID cards in the District,
+contends that it would have submitted a proposal if the specifications contained in the Solicitation were
+not overly restrictive. (Protest 2.) Thus, MorphoTrust has standing because it was allegedly denied the
+opportunity to compete for the contract, and thereby continue to provide services to the District, due to
+the purportedly overly restrictive specifications in the Solicitation.
+
+                                                            
+3
+  Protester does not claim to be an actual or prospective offeror, having asserted that it lacks the capability to provide
+the services requested under the RFP; therefore, it lacks standing to challenge the scores of the actual offerors. 24/7
+Computer Doctors, LLC, CAB No. P-0909, 2012 WL 4753873 (Sept. 17, 2012).
+
+                                                                   4 
+ 
+                                                                                               MorphoTrust USA, Inc.
+                                                                                                    CAB No. P-0924
+ 
+III.          Standard of Review
+
+         The protester alleges that the District failed to promote competition by setting forth solicitation
+requirements that exceeded the minimum needs of the District. In support of its argument, protester cites
+D.C. Mun. Regs. tit. 27, § 2500.1 (2002) which states that the District “shall specify [its] procurement
+needs in a manner designed to promote competition to the maximum extent possible.” Accordingly,
+solicitations may only include restrictive specifications “to the extent necessary to satisfy the minimum
+needs of the District.” Id. § 2500.3 (Emphasis added.)
+
+        When protesters allege that the specifications contained in a solicitation are overly restrictive, the
+Board applies a de novo standard of review. KOBA Associates, Inc., CAB No. P-0325-A, 40 D.C. Reg.
+5023, 5031-5032 (Mar. 12, 1993). And although the Board “will not take issue with an agency’s
+narrowing of competition in pursuit of legitimate agency needs, . . . we will overturn those requirements
+that improperly limit competition.” Id. at 5032.
+
+        The Board also recognizes that “[t]he determination of the agency’s minimum needs and the best
+method of accommodating them are business judgments primarily within the agency’s discretion and we
+will not question such a determination unless the record clearly shows that the determination was made
+without a reasonable basis.” Recycling Solutions, Inc., CAB No. P-0434, 42 D.C. Reg. 4990, 4995 (June
+30, 1995); see also Silver Spring Ambulance Service, Inc., CAB No. P-0218, 40 D.C. Reg. 4913, 4922
+(Jan. 15, 1993) (holding that the determination of what constitutes the minimum needs of the government
+is a matter primarily within the jurisdiction of the procuring agency); Beretta U.S.A. Corp., CAB No. P-
+0177, 38 D.C. Reg. 3098, 3120 (Aug. 23, 1990). Therefore, the Board will defer to the agency’s
+determination so long as the restrictive specifications “are reasonably related to achieving the
+government’s actual minimum needs.” See JBH Associates, CAB No. P-0228, 39 D.C. Reg. 4333, 4334
+(Sept. 30, 1991).
+
+         As a result, the protester bears a “heavy burden,” American Motohol, 38 D.C. Reg. 2998, 3002
+(DCCAB Nov. 21, 1989),4 of demonstrating, “by a preponderance of the evidence, that the agency has
+impermissibly narrowed competition,” KOBA, CAB No. P-0335-A, 40 D.C. Reg. at 5032. In other
+words, the protester must establish that the “allegedly excessive restrictions” are unreasonable. See
+General Oil Corp., CAB No. P-0181, 38 D.C. Reg. 3059, 3060-3061 (Apr. 20, 1990). And, in particular,
+if the protester can show that the specifications will result in a sole source award, the Board will more
+closely scrutinize the agency’s determination of its minimum needs. See Beretta U.S.A. Corp., CAB No.
+P-0177, 38 D.C. Reg. at 3121.
+
+IV.           The Specifications Contained in the Solicitation Are Not Overly Restrictive
+
+         The Board finds that the protester has not established that the specifications contained in the
+Solicitation are overly restrictive so as to constitute a violation of the District’s procurement regulations.
+We have previously held that “the determination of what constitutes the government’s actual minimum
+needs is one which allows [the District] great discretion.” American Motohol, 38 D.C. Reg. at 3002. In
+light of that standard, protester has failed to meet its burden of demonstrating, by a preponderance of the
+evidence, that the specifications contained in the RFP are unreasonable. See KOBA, CAB No. P-0325-A,
+40 D.C. Reg. at 5032.
+                                                            
+4
+  Citing Government Accountability Office (“GAO”) precedent, protester argues that the District bears the burden of
+proving that the requirements of the RFP are consistent with its “minimum needs” without being duly restrictive.
+(Protest 9.) Notwithstanding, this Board has consistently held that it is the protester that bears the burden of proving
+that the District, by a preponderance of the evidence, has impermissibly narrowed competition. See, American
+Motohol, 38 D.C. Reg. at 3002; Beretta U.S.A. Corp., CAB No. P-0177, 38 D.C. Reg. at 3120.
+
+                                                               5 
+ 
+                                                                                      MorphoTrust USA, Inc.
+                                                                                           CAB No. P-0924
+ 
+
+       A. Secure Card Requirements
+
+              1. List of Seventeen Requirements
+
+        MorphoTrust challenges the Solicitation’s 17 secure card requirements. (Protest 11-13.)
+Protester provides examples of similar secure card solicitations in Maryland and New York to illustrate
+that other states generally allow offerors greater flexibility in their proposals for comparable services.
+(Protest 11-12.) MorphoTrust argues that the District should permit offerors to propose alternative
+methods of producing secure cards, rather than require offerors to produce one particular type of secure
+card. (Protest 12-13; Comments on the Agency Report [hereinafter, Comments] 3-4.) MorphoTrust
+contends that the District should specify “the level of security necessary” rather than require “specific
+methods of producing ID cards.” (See Comments 4 (emphasis removed).)
+
+         In response, the District maintains that it developed the specifications “after an extensive
+technical market study of available security devices and the availability of companies that could perform
+a contract based on the specifications.” (AR 5.) After three years of research, including attendance at
+networking events and conferences, the District determined that its minimum need for the most secure
+credentials could only be met by the 17 identified secure card requirements. (AR 6.) The District also
+asserts that, as the nation’s capital, it has a heightened need for security. (AR 5.)
+
+         While it may be true that other states provide offerors with greater flexibility in proposing secure
+card features, nevertheless, the District is allowed to determine at the outset which security card features
+will best meet its minimum needs. Thus, the District may specify certain required specifications as long
+as they are reasonable. See American Motohol, 38 D.C. Reg. at 3001. And, in fact, the regulations state
+that in developing these specifications, the District shall rely on “market research.” D.C. Mun. Regs. tit.
+27, § 2500.2 (2002). In this case, the District undertook the requisite market research to determine that
+this particular type of secure card would be its desired method of achieving the District’s minimum needs.
+
+              2. Specific Requirements: Polycarbonate Card and Laser Features
+
+         MorphoTrust specifically challenges five of the 17 required features for being overly restrictive.
+(Protest 13-18.) These five features are: (i) solid polycarbonate card, (ii) laser engraved primary photo
+image, (iii) integrated window with clear laser engraved secondary ghost image, (iv) laser engraved tactile
+data fields including signature image, and (v) laser engraved clear tactile feature. (See AR at Ex. 1, §
+3.4.12.14.) In sum, protester has argued that these specifications “are far more restrictive than the
+District’s actual minimum need for production of a very secure ID Card.” (Comments 6.)
+
+         With respect to the solid polycarbonate card requirement, protester argues that “[p]olycarbonate
+is not the only material that provides for a secure ID card” and asserts that Virginia is the only state that
+currently uses polycarbonate ID cards.5 (Protest 13.) Protester also challenges the market research upon
+which the District relied in determining that it required polycarbonate cards. (See Comments 7-9 (arguing
+that the research was not evenhanded); Opp’n to District’s Mot. for Leave to File a Response to
+Comments 4-6 (arguing that documents cited in District’s Reply to Protester’s Comments were
+impermissible post hoc rationalizations).) On the matter of the four laser requirements, protester contends
+that these requirements are not truly security features and that at least one of the requirements could only
+be produced by a single firm,                 (Protest 15-18.) In addition, protester maintains that these
+
+                                                            
+5
+    According to protester,
+            (Protest 17, 21.)
+
+                                                               6 
+ 
+                                                                                         MorphoTrust USA, Inc.
+                                                                                              CAB No. P-0924
+ 
+features do not provide any additional security because they are, in effect, design features that can be
+counterfeited. (Comments 13-17.)
+
+         In rebuttal, the District contends that the polycarbonate card requirement is “reasonably justified
+as the District’s minimum need and that the inclusion of laser engraving . . . constitute[s] concomitant
+features of the polycarbonate card.” (AR 6.) It also claims that polycarbonate cards are necessary
+because of their non-delaminable nature, meaning that it is impossible to separate the layers of the card.
+(AR 6-7.) Through market research, the District ascertained that polycarbonate cards are “the most
+secure and durable cards.” (AR at Ex. 5.) Furthermore, the District determined that “most new-generation
+identity documents . . . now use or are preparing to use polycarbonate cards.” (Id.) Thus, the District
+concluded that polycarbonate cards, with their additional security features, are necessary to meet the
+District’s unique security needs. (See District’s Reply to Protester’s Comments 5.)
+
+        When reviewing solicitation requirements, the Board will defer to the District as long as it has a
+“reasonable basis” for achieving the District’s minimum needs. See Beretta, CAB No. P-0177, 38 D.C.
+Reg. at 3121. In this case, the District provided sufficient justification to support its need for state-of-the-
+art polycarbonate cards and laser engraving features. According to the District, “polycarbonate cards are
+the gold standard in the secured credentialing industry and it is the card of the future that will be used by
+an increasing number of jurisdictions world-wide.” (District’s Reply to Protester’s Comments 4.)
+Moreover, 14 national identity card programs, 10 national passport programs and 13 national driving
+license programs utilize polycarbonate. (Id. at Ex. 2.) Therefore, having conducted its own market
+research, the District determined that such cards are “the most secure and durable.” (See AR at Ex. 5.)
+
+        Conversely, the protester failed to demonstrate that the District impermissibly narrowed the
+competition due to unreasonable solicitation requirements as underscored by the fact that at least
+offerors submitted responsive proposals to the RFP. Therefore, protester’s argument that alternative card
+features may be as secure, if not more secure, than the card features required by the District is unavailing.
+Finding the District’s requirements reasonable, the Board will not second guess the District’s
+determination of its minimum needs.
+
+    B. Secure Facility Requirements
+
+        1. List of Seven Requirements
+
+        Protester challenges the list of seven secure facility requirements in the RFP. (See Protest 18.) It
+argues that “most states [only] identify International Organization for Standardization (“ISO”) or North
+American Security Products Organization (“NASPO”) standards as the basis for determining if a facility
+is secure.” (Id.) MorphoTrust alleges that by listing additional secure facility requirements the District
+exceeded its minimum needs. (Protest 18-19.)
+
+          The District defends its secure facility requirements as being necessary to meet its minimum
+needs and explains that “the variety of private information obtained from individuals and used in the
+manufacture of ID cards mandate a production facility that is at least as secure as the District’s own DMV
+facilities.” (AR 7.) It further states that the District’s DMV facilities meet the heightened security
+requirements set forth by the American Society of Industrial Security (“ASIS”). (Id.) The Board finds
+that while other states may require ISO or NASPO certification for its facilities, the District may
+reasonably impose heightened secure facility requirements given the sensitivity of the information
+contained at such facilities.
+
+        2. Specific Requirement: Fencing
+
+
+                                                       7 
+ 
+                                                                                              MorphoTrust USA, Inc.
+                                                                                                   CAB No. P-0924
+ 
+          Protester specifically challenges the secure facility requirement for “outside security to include
+fences, distance from entrance to parking.” (See AR at Ex. 1, § 3.4.16.1; Protest 18-19.) MorphoTrust
+alleges that this feature, in particular, is overly restrictive and states that “[t]his is the first time that [it] is
+aware of a state RFP requiring fencing from the facility parking lot.” (Protest 19.) MorphoTrust also
+asserts that the requirement is unreasonable because “there is more than one way to have a secure
+facility.” (Comments 18.) According to protester, the District should not have required this specific
+security feature but, instead, should have allowed offerors to propose different ways of achieving secure
+facilities. (Comments 20.)
+
+         The District contends that all of the secure facility requirements listed in the RFP are “the
+same/similar type of standards that DMV has implemented in [its] own buildings.” (AR at Ex. 5.) The
+District states that “current DMV employees who have significant knowledge in facility security were
+consulted” in writing the specifications. (Id.) Furthermore, the District asserts that the secure facility
+requirements “can be easily met” and, based on its own market research, it believes that “there are
+multiple vendors which can meet these requirements or are willing to meet these requirements.” (Id.)
+
+          The Board finds the fencing requirement reasonable particularly because the manufacturing
+facilities will contain confidential information and the District may rationally require the same level of
+security at the proposed manufacturing facility as exists currently at its DMV facilities. In drafting this
+requirement, the District relied upon internal and external market research as well as consultations with
+potential contractors. Thus, we defer to the District using its business judgment to conclude that fencing
+from the entrance to the parking lot is required to meet the District’s minimum security needs.
+
+V.            The Specifications Contained in the Solicitation Do Not Result in a Sole Source Award
+
+        Finally, MorphoTrust alleges that the specifications contained in the Solicitation would result in a
+de facto sole source award to              . (Protest 19-21.) Yet, the District received       proposals in
+response to the RFP. (AR 4.) OCP, through the contracting officer and the Technical Evaluation Panel,
+determined each of these proposals to be technically compliant and within the competitive range. (Letter
+from the District (Oct. 9, 2012); Status of the Procurement at Exs. A-D.) The protester disputes the merit
+of the District’s evaluations. (MorphoTrust’s Oct. 21 Mot.) In addition, protester argues that the
+specifications may still be overly restrictive and unreasonable, even if the      proposals are found to be
+responsive to the Solicitation. (MorphoTrust’s Oct. 21 Mot. 3 fn. 2.)
+
+         The Board rejects protester’s arguments. We find that the proposal evaluations submitted by the
+District adequately document its finding that the         offeror proposals are technically compliant and
+within the competitive range. (Status of Procurement at Exs. A-D.) These evaluations undermine
+protester’s contention that the Solicitation’s requirements would result in a de facto sole source award to
+          .6 Moreover, the very fact that the District received          responsive proposals bolsters the
+reasonableness of the specifications contained in the RFP.
+
+                                                               CONCLUSION
+
+        For the reasons discussed above, we hold that the District did not violate procurement law by
+requiring overly restrictive specifications in the Solicitation. Accordingly, the present protest is denied.
+
+SO ORDERED.
+
+                                                            
+6
+  The Technical Evaluation Panel                                                                           (Status of
+Procurement at Ex. B.)
+
+                                                                   8 
+ 
+                                                                    MorphoTrust USA, Inc.
+                                                                         CAB No. P-0924
+ 
+DATED: November 28, 2012                     /s/ Maxine E. McBean
+                                             MAXINE E. MCBEAN
+                                             Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+/s/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+ELECTRONIC SERVICE TO:
+
+Daniel E. Chudd, Esq.
+James C. Cox, Esq.
+Damien C. Specht, Esq.
+Jenner & Block LLP
+1099 New York Avenue, N.W., Suite 900
+Washington, D.C. 20001
+
+Howard Schwartz, Esq.
+Janice N. Skipper, Esq.
+Assistant Attorneys General
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+
+Dismas N. Locaria, Esq.
+Venable LLP
+575 7th Street, N.
+Washington, D.C. 20004
+
+Warren W. Hamel, Esq.
+Venable LLP
+750 E. Pratt Street, Suite 900
+Baltimore, MD 21202
+
+Andrea Leahy-Fucheck, Esq.
+Steven DeSmet, Esq.
+Leahy & DeSmet, LLC
+11785 Beltsville Dr., Suite 900
+Calverton, MD 20705
+
+
+
+
+                                        9 
+ 
+

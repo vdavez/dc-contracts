@@ -1,0 +1,190 @@
+         DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+KEYSTONE PLUS CONSTRUCTION CORP.                      )
+                                                      )       CAB Nos. P-0833
+Solicitation No: DCAM-2009-B-0052                     )
+
+       For the Protester: Mr. Carlos Perdomo, pro se. For the District of Columbia Government:
+Alton E. Woods, Esq., Assistant Attorney General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Jonathan
+D. Zischkau, concurring.
+
+                                            OPINION
+                                         Filing ID 29740668
+
+        Keystone Plus Construction Corporation (“Keystone”) protests the decision of the
+contracting officer to reject Keystone’s bid as nonresponsive because Keystone failed to submit a
+subcontracting plan as required by Section M.1.9 of the solicitation. The District asserts that the
+contracting officer was required to reject the bid as nonresponsive since the subcontracting plan
+listed no subcontractor information. We agree with the contracting officer and deny the protest.
+
+                                         BACKGROUND
+
+        On July 29, 2009, the District’s Department of Real Estate Services (“DRES”) issued
+Invitation for Bids No. DCAM-2009-B-0052 (“IFB”) in the certified small business enterprise
+(“SBE”) set-aside market for build out of the 10th floor office space for the office of the Attorney
+General at One Judiciary Square at 441 4th Street, NW. (Agency Report (“AR”) Ex. 1).
+
+       The original solicitation required the following at section L.9.1:
+
+       Any prime contractor responding to the solicitation shall submit, within 5 days of the
+       CO’s request, a notarized statement detailing its subcontracting plan. This plan shall
+       meet the requirements described under Section M.1.10 of this solicitation.
+
+(AR Ex. 1). Although five amendments were issued to the solicitation, only Amendment 2, issued
+on August 24, 2009, is germane to this protest. It provides:
+
+      (1) Section L.9 is hereby deleted in its entirety and is now changed to read as follows:
+
+      (2) Any prime contractor responding to this solicitation shall submit with its bid, a
+      notarized statement detailing its subcontracting plan. This plan shall meet the
+      requirements described under Section M.1.10 of this solicitation.
+
+(AR Ex. 2). Section M.1.9 of the solicitation includes the following language regarding the
+subcontracting plan:
+                                                -2-                    Keystone Plus Construction Corp.,
+                                                                                       CAB No. P-0833
+
+
+       Any prime contractor responding to this solicitation shall submit with its bid, a
+       notarized statement detailing its subcontracting plan. Bids responding to this IFB
+       shall be deemed nonresponsive and shall be rejected if the bidder fails to submit a
+       subcontracting plan that is required by the solicitation.…
+
+(AR Ex. 1). Subsections of M.1.9 identify the specific information that must be included in each
+subcontracting plan:
+
+       M.1.9.1 A description of the goods and services to be provided by the SBEs…;
+
+       M.1.9.2 A statement of the dollar value of the bid that pertains to the
+       subcontract to be performed by SBEs…;
+
+       M.1.9.3 The names and addresses of all proposed subcontractors who are
+       SBE’s…;
+
+       M.1.9.4 The name of the individual employed by the prime contractor who will
+       administer the subcontracting plan…;
+
+       M.1.9.5 A description of efforts that the prime contractor will make to ensure that
+       SBEs, or, if insufficient SBEs are available, that certified business enterprises will
+       have an equitable opportunity to compete for subcontracts;
+
+       M.1.9.6 In all subcontracts that offer further subcontracting opportunities,
+       assurances that the prime contractor will include a statement, approved by the
+       contracting officer, that the subcontractor will adopt a subcontracting plan similar to
+       the subcontracting plan required by the contract;
+
+       M.1.9.7 Assurances that the prime contractor will cooperate in any studies or
+       surveys that may be required by the contracting officer…;
+
+       M.1.9.7 A list of the type of records the prime contractor will maintain to
+       demonstrate procedures adopted to comply with the requirements set forth in the
+       subcontracting plan, and assurances that the prime contractor will such records
+       available for review upon the District’s request; and
+
+       M.1.9.9 A description of the prime contractor’s recent effort to locate SBEs or, if
+       insufficient SBEs are available, certified business enterprises and to award
+       subcontracts to them.
+
+(AR Ex. 1).
+
+
+      Twenty-one bidders responded to the solicitation at the bid opening of September 16, 2009.
+Keystone’s bid was the fourth lowest actual bid price, and the third lowest price after evaluation of
+                                                -3-                   Keystone Plus Construction Corp.,
+                                                                                      CAB No. P-0833
+
+
+bidder preferences. (AR at 3; AR Ex. 5). Keystone acknowledged receipt of all five amendments.
+All bidders with prices lower than Keystone’s were found to be ineligible. In a determination and
+findings dated December 10, 2009, the contracting officer found Keystone’s bid to be nonresponsive
+since Keystone failed to submit a valid subcontracting plan as required by section M.1.9. (AR Ex.
+5). Keystone’s subcontracting plan, signed by its President, Carlos Perdomo, included only the
+company’s contact information and tax identification number. Keystone’s plan failed to include any
+subcontracting information. Thus, the substantive part of the subcontracting plan was left entirely
+blank. (AR Ex. 3). Keystone filed this protest on November 25, 2009, challenging the contracting
+officer’s decision to reject its bid as nonresponsive. Keystone asserts that section L.9.1 of the
+original solicitation (prior to Amendment 2) is applicable and that the contracting officer had never
+requested Keystone to submit its subcontracting plan.
+
+                                          DISCUSSION
+
+        We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1). The main issue presented
+in this protest is whether the contracting officer properly determined that Keystone’s incomplete
+subcontracting plan furnished with its bid rendered Keystone’s bid nonresponsive.
+
+       D.C. Code §§ 2-218.46(d) and (e) provide:
+
+       (d) Bids or proposals responding to a solicitation, including an open market
+       solicitation, shall be deemed nonresponsive and shall be rejected if the solicitation
+       requires submission of a certified business enterprise subcontracting plan and the
+       prime contractor fails to submit a subcontracting plan as part of its bid or proposal.
+       A certified business enterprise subcontracting plan shall specify the following:
+
+           (1) The name and address of the subcontractor;
+           (2) Whether the subcontractor is currently certified as a certified business
+       enterprise;
+           (3) The scope of work to be performed by the subcontractor; and
+           (4) The price to be paid by the contractor to the subcontractor.
+
+       (e) No prime contractor shall be allowed to amend the subcontracting plan filed as
+       part of its bid or proposal except with the consent of the contracting officer and the
+       Director. Any reduction in the dollar volume of the subcontracted portion resulting
+       from such amendment of the plan shall insure [sic] to the benefit of the District.
+
+        Our decision in this case is controlled by our recent decision in Keystone Plus Construction
+Corp., CAB Nos. 822, 830, 832, Feb. 19, 2010. There is no dispute that subsection 2-218.46(d)
+applies to this procurement and the procuring agency. As the facts amply demonstrate, the
+solicitation was a set-aside solicitation requiring submission of a certified business enterprise
+subcontracting plan. Section M of the solicitation tracks much of the language of D.C. Code § 2-
+218.46, including subsection 2-218.46(d). Thus, each bidder was required to submit a complete
+subcontracting plan including the name and address, current CBE certification status, scope of work,
+and price to be paid, for each subcontractor.
+                                                -4-                   Keystone Plus Construction Corp.,
+                                                                                      CAB No. P-0833
+
+
+
+        Keystone argues that the contracting officer improperly found Keystone’s bid to be
+nonresponsive, even though the contracting officer had not requested from Keystone a
+subcontracting plan after bid opening, as required by the original Section L.9.1 of the solicitation.
+Keystone’s argument ignores the fact that Section L.9.1 was removed from the solicitation by
+Amendment 2. Additionally, prior to enactment of D.C. Code § 2-218.46 in 2005, District
+procurement law addressed subcontracting plans in bids as a matter of bidder responsibility, not
+responsiveness. However, section 2-218.46, in regulating performance and subcontracting
+requirements, including SBE participation, mandates that CBE subcontracting plans, under certain
+defined circumstances which are applicable here, be a matter of bid responsiveness. Section M,
+particularly M.1.9, of the solicitation provides more than adequate clarity that the subcontracting
+plan here was a matter of responsiveness. Each bidder in this procurement was required to submit a
+CBE subcontracting plan with its bid.
+
+        On the facts presented in the record, Keystone’s subcontracting plan was materially
+incomplete so as to render its bid nonresponsive. In its subcontracting plan, Keystone failed to
+provide any of the required information in its subcontracting plan. Because Keystone failed to
+submit a valid CBE subcontracting plan, Keystone’s bid was rendered nonresponsive pursuant to
+D.C. Code § 2-218.46(d). Accordingly, the contracting officer did not err in determining Keystone’s
+bid to be nonresponsive.
+
+                                         CONCLUSION
+
+       For the reasons discussed above, we conclude that the contracting officer did not err in
+determining Keystone’s bid to be nonresponsive based on a failure to submit a valid subcontracting
+plan with its bid. Accordingly, we deny the protest.
+
+       SO ORDERED.
+
+DATED: February 24, 2010                              /s/ Warren J. Nash
+                                                      WARREN J. NASH
+                                                      Administrative Judge
+
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

@@ -1,0 +1,176 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+HORTON & BARBER CONSTRUCTION SERVICES, LLC                            )
+                                                                      ) CAB No. P-0729
+Under IFB No. DCHA-2006-B-0010-HP                                     )
+
+      For the Protester: Will Purcell, Esq. For the District of Columbia Government: Howard
+Schwartz, Esq., Senior Assistant Attorney General, and Talia S. Cohen, Esq., Assistant Attorney
+General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                              OPINION
+                                      LexisNexis Filing ID 11854890
+
+        Horton & Barber Construction Services, LLC, has protested the award to RBK Landscaping and
+Construction, Inc., of a contract to provide comprehensive landscape maintenance and management
+services for approximately 450 acres of land at 72 recreational centers and facilities in the District.
+Horton & Barber, along with 6 of the other 9 bidders, were determined to be nonresponsible. The
+contracting officer determined Horton & Barber to be nonresponsible due to poor past performance,
+lack of adequate equipment and facilities to perform the work, noncompliance with the District’s First
+Source employment requirements, and failure to meet or seek a waiver of the 35 percent LSDBE
+subcontracting requirements. Horton & Barber denies that it has a poor past performance record, and
+responds that it was capable of performing the job when considering its proposed subcontractors and
+equipment acquisitions. We sustain the nonresponsibility determination on the record presented,
+concluding that Horton & Barber has not demonstrated that the contracting officer’s determination
+lacked a reasonable basis. We have considered each of Horton & Barber’s challenges but find that none
+have merit. Because the contracting officer did not violate either the law or the terms of the
+solicitation, we deny the protest.
+
+                                          BACKGROUND
+
+        On February 23, 2006, the Office of Contracting and Procurement (“OCP”) issued IFB No.
+DCHA-2006-B-0010-HP (“IFB”) in the open market with a 35 percent set-aside for local, small, and
+disadvantaged business enterprise (“LSDBE”) subcontracting, on behalf of the Department of Parks and
+Recreation (“DPR”), Office of Natural Resources, for a contractor to provide comprehensive landscape
+maintenance and management services for approximately 450 acres of land at 72 recreational centers
+and facilities in Wards 1 through 8. (Agency Report (“AR”), Ex. 1). Bidders were to bid fixed-unit
+prices that would result in a requirements contract with payment based on a firm-fixed price. (AR Ex.
+1). The bid opening date was February 23, 2006. The following ten bidders submitted bids:
+                                               -2-                  Horton & Barber Constr., CAB No. P-0729
+
+
+Bidder                      Bid Price for Base           LSDBE Points          Evaluated Bid Price
+                            Year and Two
+                            Option Years
+1. Horton & Barber          $1,276,968.76                12                    $1,123,732.51
+
+2. Kennedy Development      $2,331,375.00                0                     $2,331,375.00
+
+3. JJPS Inc.                $2,899,308.47                9                     $2,638,370.71
+
+4. IIU Consulting           $3,015,908.54                9                     $2,744,476.77
+
+5. Bocalji Services         $3,154,096.00                7                     $2,933,309.28
+
+6. KC Home                  $4,322,841.00                7                     $4,020,242.13
+Improvement
+7. RBK                      $4,940,021.56                12                    $4,347,218.97
+
+8. Clover Leaf              $3,763,483.50                0                     $3,763,483.50
+
+9. TruGreen Landcare,       $7,365,700.90                0                     $7,365,700.90
+LLC
+10. Turf Center Lawns,      13,117,632.00                0                     $13,117,632.00
+Inc.
+
+(AR at 2-3; AR Ex. 4). Horton & Barber was the apparent low bidder.
+
+         On March 1 and 3, 2006, OCP sent Horton & Barber letters requesting responsibility data. On
+March 6, 2006, Horton & Barber responded to the letters, submitting an unaudited balance sheet and
+statement of earnings for the year ending December 31, 2005, a list of past contracts covering the
+period 1995 through 2003, the resumes of Horton & Barber’s president and its master plumber/field
+supervisor, and a list of tools and equipment. (AR at 3; AR Ex. 7). During the week of March 6, 2006,
+the OCP contract specialist and the contracting officer technical representative made site visits to all the
+bidders. (AR at 3; AR Ex. 5). On or about March 16, 2006, OCP determined the following seven
+bidders, including Horton & Barber, to be nonresponsible: Horton & Barber, Kennedy Development,
+JJPS Inc., IIU Consulting, Bocalji Services, KC Home Improvement, and Clover Leaf. (AR Exs. 5, 8).
+The reasons for Horton & Barber’s nonresponsibility determination are principally: (1) documented
+poor past performance record based on poor evaluations by other District Government agencies, (2) its
+facility is in a state of disrepair, containing four discarded buses, a house trailer, and one inoperable
+tractor; (3) equipment for the job was insufficient and inoperable; (4) failure to submit projected goals
+and time table as part of the employment plan for the First Source requirements; and (5) failure to
+request a waiver of the solicitation’s 35 percent LSDBE subcontracting requirement. (AR Ex. 8).
+
+       On March 14, 2006, by a Determination and Finding for Contractor Responsibility, OCP
+determined RBK a responsible bidder. (AR Ex. 9). On March 16, 2006, OCP requested that the
+Department of Small and Local Business Development grant RBK a waiver from the 35 percent
+LSDBE subcontracting requirement of the IFB. The waiver request was approved. On March 16,
+2006, the District awarded to RBK the landscape and maintenance work under Contract No. DCHA-
+                                               -3-                   Horton & Barber Constr., CAB No. P-0729
+
+
+2006-C-0010-HP. On March 31, 2006, Horton & Barber filed the instant protest challenging the
+District’s determination of nonresponsibility. On March 31, 2006, as a result of the protest, OCP
+notified RBK to cease performance of the contract. By a determination and findings to proceed with
+performance, dated April 3, 2006, OCP determined that urgent and compelling circumstances required
+that RBK continue with contract performance pending the protest. The Board sustained the
+determination to proceed. The District filed its Agency Report on April 24, 2006, Horton & Barber
+responded to the Agency Report, and the District filed a reply to Horton & Barber’s response.
+Subsequently, counsel for Horton & Barber filed an unopposed motion to withdraw his appearance
+which the Board hereby grants.
+
+                                              DISCUSSION
+
+        We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        In its response to the Agency Report, Horton & Barber asserts that during a debriefing with the
+contracting officer Horton & Barber representatives were told that the nonresponsibility determination
+was based on a lack of personnel and lawn mowers necessary to perform the contract. Because the
+actual determination and findings includes other bases as well, i.e., a poor performance record, failure
+to meet the 35 percent subcontracting requirement or request a waiver, insufficient and inoperable
+equipment, and facility in a state of disrepair, Horton & Barber states that the determination and
+findings “are disingenuous and establishes the fact that the contracting officer acted in bad faith and/or
+acted without any reasonable basis for a finding of non-responsibility.” (Response to Agency Report, at
+2 n.1). In its response, Horton & Barber “succinctly responds that it does not have a poor performance
+record, and did not possess inoperable equipment and facilities.” (Id. at 2-3). Horton & Barber also
+demands that the District provide proof to support its allegations. Horton & Barber did not submit any
+affidavits or documentation for the record beyond what is contained in the Agency Report and exhibits.
+
+        We conclude that Horton & Barber has not demonstrated that the contracting officer violated
+law or the terms of the solicitation. The record from the agency documents poor past performance on
+other District Government contracts. Horton & Barber submitted no affidavits, performance data, or
+other evidence to rebut the evidence submitted by the District. Horton & Barber’s reliance on its
+original response to the requests for responsibility data simply is inadequate to rebut the contracting
+officer’s findings that Horton & Barber had a poor past performance record and had insufficient and
+inoperable equipment and inadequate facilities to perform this large contract. The agency provided
+detailed observations of what Horton & Barber offered for the job with an assessment that the
+equipment and facilities were inadequate. No evidence has been provided to rebut the agency’s record.
+ Although Horton & Barber complains that it was not told of all bases supporting the nonresponsibility
+determination at the debriefing, it did not provide an affidavit to support its assertion, and even if it had,
+we see no prejudicial error to Horton & Barber having to respond to the bases as set forth in the Agency
+Report including the attached determination and findings.
+
+         With regard to Horton & Barber’s allegation of bad faith conduct, we conclude that there is no
+evidence establishing that the contracting officer acted in bad faith. In addition, Horton & Barber’s
+reliance on proposed subcontractors is misplaced because it did not provide evidence of the specific
+facilities, equipment, and personnel that were committed to the work. Horton & Barber’s other
+argument, that the District evaluated it on undisclosed criteria, is without merit. The standards of
+                                            -4-                  Horton & Barber Constr., CAB No. P-0729
+
+
+responsibility found in the Procurement Practices Act and in 27 DCMR Chapter 22 are incorporated by
+law into the terms and conditions of the solicitation. The contracting officer properly considered
+Horton & Barber’s responsibility pursuant to those standards. Finally, Horton & Barber argues that the
+District failed to refer the nonresponsibility finding to the “Minority Business Opportunity
+Commission” pursuant to 27 DCMR § 2202.6. Although the authorizing legislation for this regulation
+has been repealed, the contracting officer nevertheless referred the nonresponsibility determination to
+the successor agency, the Department of Small and Local Business Development. (District May 9,
+2006 Reply, Attachment A).
+
+                                          CONCLUSION
+
+        Horton & Barber has not demonstrated that the determination of its nonresponsibility violated
+law or the terms of the solicitation. We find that the record adequately supports the findings of the
+contracting officer. Accordingly, for the reasons discussed above, we deny Horton & Barber’s protest.
+
+       SO ORDERED.
+
+DATED: July 20, 2006                                 /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

@@ -1,0 +1,324 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+BREEZE ENTERPRISES                            )
+                                              )        CAB No. D-1215
+Under Agreement dated August 15, 2000         )
+
+
+      For the Appellant Breeze Enterprises: Othello G. Jones, Jr., Esq. For the District of
+Columbia Public Schools: Erika L. Pierson, Esq., Deputy General Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+
+                                            OPINION
+                                          Filing ID 28588411
+
+        Breeze Enterprises (“Breeze”) claims that it has not been fully compensated for providing
+computer hardware and software and related support services to the Duke Ellington School for the
+Arts (“DESA”). The Board held a hearing to determine both jurisdiction and the merits of the
+claims. During a prolonged period after the hearing, the parties attempted to settle the dispute but
+were unsuccessful. At the time that Breeze performed work at the school for which it did not receive
+payment, the school was administered by the Duke Ellington School for the Arts Project (“DESAP”)
+which is a nonprofit corporation. The record contains no valid written contract between Breeze and
+DESAP and no valid written contract between Breeze and the District of Columbia Public Schools
+(“DCPS”). Breeze points to a draft contract which was never signed by any person other than
+Breeze’s president. It appears from the record that the school’s chief financial officer requested
+Breeze to provide network services, some hardware and software, and some related support services
+but this work, except for the network services, does not match the statement of work contemplated in
+the unsigned draft contract. Although the record suggests a time and materials arrangement between
+DESAP and Breeze, it is clear that no contracting officer on behalf of DCPS entered into any type of
+contract with Breeze pursuant to the Procurement Practices Act and Breeze has not shown any
+contracting officer final decision from which it is appealing. Accordingly, we dismiss the appeal for
+lack of jurisdiction. We recommend that DESAP pay $8477.15 plus interest to Breeze to
+compensate it for the hardware and software admittedly provided and invoiced.
+
+                                        BACKGROUND
+
+        Prior to September 5, 2000, the Duke Ellington School for the Arts was operated by DCPS,
+as evidenced by a document entitled “Agreement Between the Duke Ellington School of the Arts
+Project, the District of Columbia Public Schools, and the District of Columbia Office of Contracting
+and Procurement” (“DESAP Organizational Agreement”), dated September 5, 2000. (Hearing Ex. 4,
+at 1). DESAP, a District of Columbia nonprofit corporation, was formed on April 26, 1999, is
+partially funded by DCPS and is a collaboration of the Ellington Fund, the John F. Kennedy Center
+                                                 -2-                     Breeze Enterprises, CAB No. D-1215
+
+
+
+for the Performing Arts, and The George Washington University. (DESAP Organizational
+Agreement, at 1). Article III of the DESAP Organizational Agreement clearly transfers DESA
+operational authority from DCPS to DESAP, effective September 13, 2000:
+
+       DELEGATION OF AUTHORITY TO DESAP; LINES OF AUTHORITY
+
+       3.1 General Grant of Authority. Except as provided in Section 3.2 of this Article III
+       [Superintendant veto under extraordinary circumstances of action by DESAP Board
+       of Directors], the DCPS hereby grants to DESAP the authority and responsibility for
+       the management and operation of all aspects of DESA commencing on the day
+       immediately following the end of the Transition Period [September 5, 2000 through
+       September 12, 2000, see Article II, Section 2.3]. Such grant of authority shall remain
+       in full force and effect for the remainder of the Initial Term and any extensions
+       thereof subject to the terms hereof. DESAP shall exercise such authority in
+       conformity with all applicable laws, rules and regulations, unless a specific waiver or
+       exemption has been obtained from the appropriate government authority.
+
+(Hearing Transcript (“Tr.”) 191; Hearing Ex. 4). Breeze asserts that on August 15, 2000, its
+president, Wilfred Welsh, met with Peggy Cooper Cafritz, a DESAP representative, and William
+Weir, the school’s chief financial officer. Welsh claims that Cafritz requested that he submit a
+proposal to perform various computer services for Duke Ellington School, that he and Weir prepared
+a draft agreement for the computer equipment and services, that Welsh signed three copies of the
+draft, and that the draft agreement was left at Cafritz’s home office for signature. (Hearing Tr. 8-22).
+The draft agreement contained the following statement of work and pricing:
+
+       BREEZE ENTERPRISES and CLIENT enter into following agreement (the
+       "Agreement") to adhere to the terms, conditions, and prices stated herein. BREEZE
+       ENTERPRISES will provide the services at the price specified below. No other
+       statements written or implied by any employee of BREEZE ENTERPRISES shall be
+       part of the Agreement. The CLIENT agrees to pay for work done pursuant to this
+       Agreement. Additional terms and conditions which are an integral part of this
+       Agreement are attached as a sheet entitled “EQUIPMENT MAINTENANCE
+       AGREEMENT.” The itemized list of equipment/services covered by this Agreement
+       is "Attachment 1".
+
+       OFFICE/PROGRAM                  HARDWARE                SOFTWARE COST
+                                       SERVICES                SERVICES
+
+       LAN Cabling                     Yes                     N/A              $15,800.00
+
+       Networking                      Yes                     Yes              $74,000.00
+       Equipment/Services
+
+       Computer Hardware               Yes                     N/A              $70,000.00
+                                                -3-                    Breeze Enterprises, CAB No. D-1215
+
+
+
+
+       Software/Support               N/A                     Yes             $40,000.00
+
+                                                                TOTAL       $199,800.00
+
+       See Attachment I for itemized list.
+       The Agreement period is 30 days beginning August 15th, 2000 with support services
+       covering a period of one (1) year.
+
+(Breeze March 23, 2006 submission, Tab 9, at 1). The “Equipment Maintenance Agreement”
+referenced in and attached to the one-page draft agreement provided for a 25 percent initial deposit
+payment of $49,950.00, but did not specify a payment date. (Id. at 3). The draft agreement was
+never signed by Cafritz nor anyone else other than Welsh. (Id.). No initial deposit was paid to
+Breeze. (Hearing Tr. 23). Welsh testified that on Aug. 16, 2000, Weir requested that Welsh begin
+work immediately to prepare the school for the start of the academic year, and Welsh agreed based
+on his having known Ms. Cafritz for years, notwithstanding that she had not yet signed the
+agreement. (Hearing Tr. 22). Welsh states that he began work on August 16 or 17, though he also
+states that it took some time, perhaps a few days, to get organized and gain access to various school
+rooms. (Hearing Tr. 23-24; Amended Affidavit of Wilfred Welsh, March 24, 2006 (“Welsh Aff.”) at
+1).
+
+        Breeze submitted six invoices to DESAP during the period of performance. Invoice No.
+2327, dated August 31, 2000, requested payment of $15,800 for the following work:
+“Cabling/Engineering Service Charge. Extension of existing Data/Voice Network to accommodate a
+minimum of 125 additional work area outlets. Correctional modifications of sections of existing
+cable infrastructure.” (Breeze March 23, 2006 submission, Tab 5).
+
+        Breeze submitted Invoice No. 2371, dated October 20, 2000, in the total amount of $8,019.15
+for the following hardware, software, and supplies: “3COM 3C905B-TX-N 10/100 Network card
+(1) @ $79.00; Mid Tower PC with Intel Pentium III processor running at 550 MHZ with the
+following: Pentium II/III mother board; Intel Pentium III 550 CPU; 64 MEG SDRAM; Western
+Digital 7.5 G hard drive; Toshiba 48X CD-ROM; Creative Lab Sound Blaster 128 sound card;
+Misumi Win 95 keyboard; Microsoft Intelli PS2 Mouse; Windows 98 second edition; 3COM 10/100
+3C905 fast Ethernet network interface card; Viewsonic E771 flat screen multimedia Monitor 17” (3)
+@ $899.00 [totaling] $2697.00; CAT 5 Patch cord modular plugs (55) @ $3.19 [totaling $175.45];
+Category 5 plenum cable (1) $ 185.00; Lucent module cat 5 jack inserts (10) @ $5.07 [totaling]
+$50.70; Toshiba Tecra 8100 Notebook P3-700 $3500.00; Black toner cartridge for Phaser 780 (2) @
+$105.00 [totaling] $ 210.00; Jet Direct print server (2) @ $159.00 [totaling] $ 318.00.” (Breeze
+March 23, 2006 submission, Tab 5).
+
+       Breeze received a payment check of $15, 800.00 dated December 22, 2000. (Breeze March
+23, 2006 submission, Tab 8). The payor of the check was the Government of the District of
+Columbia. (Breeze March 23, 2006 submission, Tab 8). The $15,800 payment was funded from
+DCPS capital budget funds on behalf of DESAP, and appears to have been paid as part of DCPS’s
+                                               -4-                     Breeze Enterprises, CAB No. D-1215
+
+
+
+funding of DESAP as contemplated in the DESAP Organizational Agreement. (Hearing Tr. 174-
+180). To provide the capital funding to DESAP, a requisition and direct purchase order were created
+based on the authority of the DESAP Organizational Agreement. (Hearing Ex. 3; Tr. 174-180). As
+referenced in Hearing Ex. 3, Ms. Glorious Bazemore, the DCPS Deputy Chief Procurement Officer
+at the time, testified that the payment was by direct voucher, also referred to as “direct purchase
+order”, and was not made pursuant to any contract obligation between DCPS and Breeze as there was
+no contract between them. (Id.).
+
+        Breeze submitted Invoice No. 2399, dated January 4, 2001, in the total amount of $458.00 for
+the following computer supplies: “Color Imaging kit for Phaser 780 (1) $ 279.00; Targus Tecra
+deluxe notebook bag with security system (1) $ 179.00. (Breeze March 23, 2006 submission, Tab 5).
+
+        Breeze submitted Invoice No. 2428, dated March 30, 2001, in the total amount of $31,181.25,
+for the following computer consulting services:
+
+       Hourly consultancy fee, Sept., 2000
+       105.2 @ $75.00                                $7890.00
+
+       Hourly consultancy fee, Oct., 2000
+       45.05 @ $75.00                                $3378.75
+
+       Hourly consultancy fee, Nov., 2000
+       37.55 @ $75.00                                $2816.25
+
+       Hourly consultancy fee, Dec., 2000
+       39.5 @ $75.00                                 $2962.50
+
+       Hourly consultancy fee, Jan., 2001
+       130.25 @ $75.00                               $9768.75
+
+       Hourly consultancy fee, Feb., 2001
+       58.2 @ $75.00                                 $4365.00
+
+(Breeze March 23, 2006 submission, Tab 5). Invoice No. 2428 does not contain any time sheets or
+other contemporaneous records indicating what services Breeze provided for the hours claimed. In
+response to the Board’s request for additional documentation to support its claims, Mr. Welsh states
+in a prehearing filing containing “time sheets” for September 2000 through March 2001:
+
+       The times were recorded on the dates that the services were rendered. At the end of
+       the first month, a summary time sheet was submitted to Mr. Weir. Weir then wanted
+       to combine service and equipment into one billing entity in order to reduce the
+       complexity of paperwork submitted to DCPS. No further time sheets were submitted
+       until instructed to do so by Mr. Weir. The time sheets were initially submitted to Mr.
+       Weir, but later resubmitted to the principal Mitzi Yates upon the request of Mr. Weir
+                                                -5-                     Breeze Enterprises, CAB No. D-1215
+
+
+
+       at the end of his term as CFO of the school. Included in the submission to Ms. Yates,
+       were all invoices referencing the time sheets, along with invoices for equipment
+       purchased for the school.
+
+(Breeze March 24, 2006 submission, Tab 6). The time sheet for each month consists of five columns
+labeled with the date, start time, end time, lunch, and hours worked. The entries do not differentiate
+between work by Welsh and his assistant, do not indicate the work performed, and were not
+contemporaneously certified by Breeze or DESAP. Welsh testified that he sent each time sheet by
+fax to Mr. Weir shortly after the end of the month but did not invoice for any of the time for
+September 2000 through February 2001 until the March 30, 2001 invoice. (Hearing Tr. 102-107,
+128-129, 131). There is no documentation in the record corroborating Welsh’s testimony about
+submitting the time sheets to Mr. Weir and no one from DESAP appeared to testify at the hearing.
+Breeze has submitted service requests forms prepared by DESAP staff outlining requested computer
+services to further support Breeze’s hourly billings. (Breeze March 23, 2006 submission, Tab 4;
+Hearing Tr. 137-138). The service requests do not indicate the date work was rendered or the
+number of hours worked, and most do not indicate that work was completed. During the hearing,
+Mr. Welsh testified that there were no time sheets for the approximately 200 plus hours worked in
+August 2000, but the August 31, 2000 invoice submitted by Breeze for cabling/engineering services
+clearly constituted for the most part billing for labor expended during August 2000. (Hearing Tr. 34-
+60).
+
+        Breeze submitted Invoice No. 2430, dated April 6, 2001, in the total amount of $649.80 for
+the following computer supplies:
+
+       Cyan toner cartridge for Phaser 780 (1)        $ 179.95
+       Magenta toner cartridge for Phaser 780 (1)     $ 179.95
+       Yellow toner cartridge for Phaser 780 (1)      $ 179.95
+       Black toner cartridge for Phaser 789 (1)       $ 99.95
+       Shipping and handling                          $ 10.00
+
+(Breeze March 23, 2006 submission, Tab 5). Breeze received payment for this invoice in the amount
+of $649.80 by check from the DESAP “Disbursement Account” dated April 26, 2001. (Breeze
+March 23, 2006 submission, Tab 8). The record contains a DESAP purchase order number 100136,
+bearing a fax date of March 31, 2001, for these supplies. (Breeze March 24, 2006 submission, Tab
+7).
+
+       Breeze submitted Invoice No. 2431, also dated April 6, 2001, in the total amount of
+$6,615.00, for the following computer consulting services:
+
+       Hourly consultancy fee, Aug., 2000
+       8.0 @ $75.00                                   $600.00
+
+       Hourly consultancy fee, Mar., 2001
+       80.2 @ 75.00                                   $6015.00
+                                               -6-                    Breeze Enterprises, CAB No. D-1215
+
+
+
+
+(Breeze March 12, 2004 submission, Ex. F). As with the earlier invoice for hourly fees, there is no
+evidence in the record identifying the actual work performed, the number of hours billed for such
+work, certifications of hours, or corroborating documents from DESAP.
+
+        Appellant originally filed a suit for payment in the D.C. Superior Court on March 24, 2003,
+docketed as Civil Action CA03-2142. On May 29, 2003, Breeze consented to the District’s motion
+to dismiss on the grounds that the Contract Appeals Board has exclusive jurisdiction pursuant to the
+Procurement Practices Act. On July 14, 2003, Breeze filed the instant appeal with the Board,
+requesting judgment against the DCPS in the amount of $31,181.25, which was limited to its request
+for labor hours. On October 6, 2003, DCPS moved to dismiss the appeal on the ground that Breeze
+failed to allege that a contract existed between DCPS and Breeze and further that no final decision
+had been rendered by any DCPS contracting officer. On February 15, 2006, DCPS filed a copy of
+the September 5, 2000 DESAP Organizational Agreement, which DCPS had recently discovered.
+On April 27, 2006, DCPS filed a renewed motion to dismiss, alleging that there is no contract from
+which the Appellant may appeal because DESAP under the DESAP Organizational Agreement
+possessed contracting authority for Duke Ellington School procurements effective September 2000.
+Breeze filed its opposition motion on May 19, 2006. The Board held a hearing on the merits of the
+appeal and on jurisdiction on June 19, 2006. Subsequent to the hearing, the parties engaged in a
+prolonged but unsuccessful effort to settle the case.
+
+                                          DISCUSSION
+
+        The District has moved to dismiss the appeal contending that the Board lacks jurisdiction as
+(1) there was no contract between Breeze and DCPS, and there was no contracting officer’s final
+decision to appeal from; and (2) even if the Board determines that there was some form of contract
+between Breeze and DESAP, DESAP is not subject to the Board’s jurisdiction under the
+Procurement Practices Act because it is a private entity as shown by the DESAP agreement.
+
+        Pursuant to D.C. Code § 2-301.04(a), the Procurement Practices Act is limited to
+“departments, agencies, instrumentalities and employees of the District government” and the Board’s
+jurisdiction generally is coextensive with the coverage of the PPA. D.C. Code § 2-309.03(b). Thus,
+DESAP, a private nonprofit corporation, is not subject to the Board’s jurisdiction. Breeze relies
+upon the unsigned contract with DESAP dated August 15, 2000, which, on its face, is not a contract
+with DCPS or any other instrumentality of the District, and is executed only by Mr. Welsh of Breeze.
+Further, the actual performance and the invoices for time and materials are not consistent with the
+draft agreement’s statement of work and pricing scheme. Although Breeze claims that the $15,800
+payment via a District government check dated December 22, 2000, “is an acknowledgment of
+Agents/Employee’s authority to enter into this contract on its behalf,” (Appellant’s Opposition to
+Appellee’s Renewed Motion to Dismiss, May 19, 2006, ¶ 13), this single DCPS payment to Breeze
+was funded from DCPS capital budget funds and reflected a payment made by DCPS on behalf of
+DESAP, pursuant to the DESAP Organizational Agreement, rather than pursuant to any contract
+obligation on the part of DCPS to Breeze. (DCPS Renewed Motion to Dismiss, April 27, 2006, ¶ 5).
+There is no evidence a DCPS contracting officer entered into a contract with Breeze or directed
+                                                -7-                     Breeze Enterprises, CAB No. D-1215
+
+
+
+Breeze to perform the work at issue.
+
+        Clearly, Mr. Welsh provided computer equipment, supplies, and related services to DESAP,
+believing that he would be fairly compensated based primarily upon the representations of Mr. Weir
+and Ms. Cafritz. (Hearing Tr. 26, 95, 99; Welsh March 24, 2006 Amended Affidavit, Section A). If
+the Board had jurisdiction over this dispute, based on the record presented, the Board would
+conclude that Breeze had shown it was entitled to compensation for Invoice Nos. 2371 ($8,019.15)
+and 2399 ($458.00) because there is reasonable evidence that Breeze provided the computers,
+printer, and related equipment and supplies, and DESAP has never paid for those items. Although
+we lack jurisdiction to order any payment, we recommend that DESAP promptly make a payment to
+Breeze for these items as there is no question as to entitlement and quantum. It is equally clear that
+the support for Breeze’s claim for hours of labor for the months September 2000 through March
+2001 is deficient. If we had jurisdiction, we would have no choice but to employ a jury verdict
+approach to estimate the hours for which Breeze should be compensated.
+
+       For the reasons stated above, we dismiss the appeal for lack of jurisdiction.
+
+       SO ORDERED.
+
+
+DATED: December 18, 2009                              /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

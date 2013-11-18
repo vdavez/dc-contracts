@@ -1,0 +1,181 @@
+                              GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+RGII Technologies, Inc.                                        )
+1997 Annapolis Exchange Parkway                                )
+Suite 210                                                      )         CAB Nos. P-0664, P-0669
+Annapolis, MD 21401                                            )               and P-0670
+                                                               )             (consolidated)
+Under Solicitation No. POTO-2002-R-0047                        )
+
+       For the Protester: Richard L. Moorhouse, Esq. and Leigh T. Hanson, Esq., Reed
+Smith LLP. For the Government Howard Schwartz, Esq. and Warren J. Nash, Esq.,
+Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson with Chief Administrative
+Judge Jonathan D. Zischkau, concurring.
+
+                                                 OPINION
+                                        (Courtlink Filing ID: 1489749)
+
+         On October 25, 2002, RGII Technologies, Inc. (“RGII” or “Protester”) protested the
+consideration by the District of Columbia (“District”) of a proposal from firms which
+Protester asserts have an organizational conflict of interest. This protest was docketed as
+CAB No. P-0664. During the pendancy of the protest, the District advised RGII that it was
+not within the competitive range and would not be permitted to enter the next round of
+negotiations. RGII filed an Amended Protest adding an allegation that RGII was improperly
+excluded from further competition on November 26, 2002, which protest was docketed as
+CAB No. P-0669. On December 24, 2002, the Board, at the request of the parties,
+suspended proceedings until January 24, 2003, to permit discovery of further information
+necessary to further amend the protest. A Second Amended protest was filed January 24,
+2002, and docketed as CAB No. P-06701. The District moved to dismiss the protest against
+acceptance of proposals from firms with alleged conflicts of interest as untimely, or in the
+alternative, to dismiss the protest for lack of standing, asserting that Protester, not being
+within the competitive range, is not in line for award.2 The Board finds that the protest is
+premature as to the allegations of conflict of interest and timely as to the allegations that it
+1
+  The Board has consolidated the three protests. The time for determining the resolution of these protests shall
+be measured from the filing date of the last protest.
+2
+   In addition, the District contends that the protest should be suspended since the Board “may” be without
+jurisdiction on the basis that OCFO procurements under $500,000 are exempt from any “procurement review
+process.” The District asserts that if award is made to a proposer under $500,000 the Board will be divested of
+jurisdiction, notwithstanding the fact that other proposals within the competitive range are over $500,000 and
+the District’s own estimate may have exceeded $500,000. It is not necessary for the Board to reach this issue,
+however, it is unlikely that Congress intended that the Board’s jurisdiction be so fluid as to cause the Board to
+gain or lose jurisdiction during a proceeding or that award to an offeror under $500,000 would divest the
+Board of jurisdiction to consider the handling of a offer over the $500,000 exemption.
+                                                     -2 -    RGII Technologies, Inc.,CAB Nos. P-0664, 0669, 0670
+
+
+
+was unfairly excluded from the competitive range for further negotiations. Having
+considered Protester’s objections to its exclusion from the competitive range, the Board
+finds the District’s action was not unreasonable and denies the protest.
+
+                                     CONFLICT OF INTEREST
+
+        On September 9, 2002, the Office of Contracting and Procurement (OCP) issued
+RFP No. POTO-2002-R-0047 for budget software. On September 18, 2002, OCP held a
+pre-proposal conference. In response to a question raised by RCII regarding the entities
+who assisted in preparing the RFP document, OCTO responded that, as well as District
+agencies, Keane Consulting Group (“Keane”) participated in the development of the RFP.
+In addition, “The RFP included requirements which had been developed by Accenture prior
+to the creation of the RFP. Accenture had no direct involvement with the development of
+the RFP.” Upon further questioning OCTO stated, “Because of its role . . . Keane is not
+allowed to bid on any additional integration work . . . . However, Accenture is free to bid.”
+(Complaint, ¶ 3).
+
+        By letter dated October 2, 2002, RGII complained to the Contracting Officer that the
+RFP allowed certain offerors to compete that had actual or apparent organizational conflicts
+of interest, which could taint and compromise the integrity of the procurement. RGII
+received no response from the District.
+
+       RGII’s protest contends that a named proposer should be excluded from competition
+due to organizational conflicts of interest. The Board agrees with the District’s contention
+that RGII knew the grounds of the protest as to the alleged organizational conflict of interest
+on September 18, 2002, or, at the latest on October 2, 2002, when it complained to the
+contracting officer. The protest was filed more than 10 business days after the later date and
+would normally be considered untimely. The Board, however, adopts the policy of the
+General Accounting Office and finds that a protest on grounds of conflict is premature until
+an award is actually made to a conflicted offeror. In REEP, Inc., B-290688, Sep. 20, 2002,
+2002 CPD ¶156 the Comptroller General held:
+
+                         The agency advises our Office that it has made no award decision in
+       connection with the acquisition. This being the case, REEP's protest merely anticipates what
+       it considers improper action by the agency, namely, award to Worldwide. We recognize that
+       it could be argued that the failure to exclude a firm with an alleged conflict of interest from a
+       competition is a defect in a solicitation that should be challenged prior to the submission of
+       proposals or quotations. See 4 C.F.R. § 21.2(a)(1) (2002). Solicitation provisions, however,
+       are not generally the vehicle for excluding firms with a conflict of interest from competing
+       for award; rather, conflicts are generally handled on a case-by-case basis without public
+       notice through the solicitation. Moreover, treating protests such as this one as premature may
+       avoid unnecessary litigation, since the allegedly conflicted firm may not be the eventual
+       awardee, either because it loses the competition or because the agency ultimately concludes
+       that the firm has an impermissible conflict of interest. See Saturn Indus.--Recon., B-
+       261954.4, July 19, 1996, 96-2 CPD ¶ 25 at 5. Unless the firm with the alleged conflict of
+       interest is actually selected for award, the protester has not suffered any competitive
+       prejudice; we will not sustain a protest absent a showing of such prejudice. McDonald-
+       Bradley, B-270126, Feb. 8, 1996, 96-1 CPD ¶ 54 at 3; see Statistica, Inc. v. Christopher, 102
+       F.3d 1577, 1581 (Fed. Cir. 1996).
+                                              -3 -   RGII Technologies, Inc.,CAB Nos. P-0664, 0669, 0670
+
+
+
+
+        Since no award has yet been made, the Board cannot determine whether an award is
+precluded by a conflict of interest. Counts I and II of the protest with regard to conflict of
+interest are dismissed without prejudice as premature.
+
+                      EXCLUSION FROM COMPETITIVE RANGE
+
+         RGII further protests its exclusion from the competitive range as not supported by
+the record and the product of bias. The Board will not interfere with an evaluation decision
+if, based on the entire record, the decision is documented in sufficient detail to show that it
+is not arbitrary and appears reasonable and in accord with the evaluation criteria listed in the
+solicitation. Ideal Electronic Security Company and Accutech Systems, Inc., CAB Nos. P-
+0554, 0561, Dec. 29, 1998, 46 D.C. Reg. 8540.             RGII disputes the validity of the
+weaknesses in the RGII proposal asserted by the District to support its evaluation of the
+RGII proposal and asserts that the poor evaluation was the result of retaliation for RGII
+filing this protest. Upon review of the record, the Board finds the weaknesses concluded by
+the districted to be adequately documented and not unreasonable.
+
+        For example, as to the weakness claimed by the District that “RGII’s software does
+not have a flexible ad hoc reporting feature,” RGII contends that because “ ‘ad hoc’
+flexibility” is not defined in the solicitation, the District has no basis to downgrade the RGII
+proposal. Reply, 3. The District documented that customized budget reports are often
+required on “as little as 15 minutes” notice and that “the fastest report-creation turnaround
+the [RGII] product could offer was 24 hours, because each time a custom report was needed,
+they would have to reconfigure the product.” Nitz Affidavit, ¶ 28. The Board does not
+believe that the District interpretation that a 24-hour turnaround time does not meet the “ad
+hoc flexibility” requirement is unreasonable.
+
+        The District downgraded the RGII proposal because the software offered could not
+be maintained by District employees and “would require constant on-site vendor
+representatives to maintain the software correctly.” Nitz Affidavit, ¶ 26. RGII countered
+that its recommendation of continued on-site presence is “best practice” and the District
+cannot downgrade its proposal because the RFP called for offerors to submit proposals
+based upon “best practices.” Reply, 7. The District’s analysis of RGII’s proposal is
+documented and its conclusion that this “best practice” by the proposer does not measure up
+to other proposals is not unreasonable.
+
+         Paragraph 33 of the Second Amended Complaint states that “on information and
+belief, therefore, RGII was downgraded during Phase II, Oral Evaluation, in material part
+because it was pursuing the instant protest with the Board.” RGII has not alleged any facts
+to support its assertion. RGII appears to assert that, having made the unsupported allegation
+there is a burden on the District to disprove any possibility of taint. RGII’s reply in Section
+III concludes, “If the District wishes to bring closure to this issue of protest, it would be
+appropriate to obtain affidavits or declarations from other members of the SSEB confirming
+that all evaluations of RGII’s proposal and oral presentation were fully completed before the
+S[ource] S[election E[valuation B[oard] member in question learned of the filing of the
+                                            -4 -   RGII Technologies, Inc.,CAB Nos. P-0664, 0669, 0670
+
+
+
+protest.” Contrary to the implication of this statement, mere knowledge of the protest does
+not support a presumption that the SSEB decision was tainted.
+
+        Based upon the record herein, the Board finds no evidence of bias in the decision to
+exclude RGII from the competitive range and concludes that the determination to exclude
+RGII from further negotiation was adequately documented and did not violate, law,
+regulation or the terms of the solicitation. Count III of the protest is DENIED.
+
+
+
+
+March 6, 2003                                             /s/ Matthew S. Watson
+                                                    MATTHEW S. WATSON
+                                                    Administrative Judge
+
+
+
+CONCURRING:
+
+
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

@@ -1,0 +1,411 @@
+                               DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+AMI Risk Consultants , Inc.                                 )
+                                                            )      CAB No. P-0900
+                                                            )
+Under Solicitation No. DCRK-2011-R-0219                     )
+
+
+For the Protestor: Aguedo Ingco, pro se. For the District of Columbia: Robert Schildkraut,
+Assistant Attorney General, Office of the Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D.
+Loud, Sr., and Administrative Judge Monica C. Parchment concurring.
+
+                                           OPINION
+
+                                      Filing ID 44476514
+
+        AMI Risk Consultants, Inc. (“AMI” or “protester”) has filed a protest challenging the
+District’s decision to award a contract to PRM Consulting (“PRM”) under solicitation number
+DCRK-2011-R-0219. The protester challenges the award on the grounds that (a) the District
+improperly disqualified AMI’s proposal due to AMI’s failure to obtain a District of Columbia
+business license; and (b) PRM is not qualified to perform the work under the contract. The
+District contends that (a) the protester was correctly determined by the Contracting Officer
+(“CO”) to be nonresponsible, and (b) as a nonresponsible offeror, the protester lacks standing to
+challenge the validity of the award.
+
+        Having reviewed the record, we conclude that the CO did not violate procurement law,
+regulation, or the terms of the solicitation in determining AMI to be nonresponsible. We deny
+the protester’s challenge to the CO’s determination of nonresponsibility and, furthermore,
+dismiss the remaining grounds for lack of standing.
+
+                                       BACKGROUND
+
+        On September 1, 2011, the District’s Office of Contracting and Procurement (“OCP”)
+issued a small purchase Request for Proposals for Solicitation No. DCRK-2011-R-0219 (“RFP”)
+on behalf of the Office of Risk Management (“ORM”). (See AR at Exs. 1, 2, 6.) The RFP
+sought the “services of qualified actuary [sic] to develop and compile . . . data . . . and . . .
+produce an actuarial study valuation of the [District’s] workers’ compensation and tort liability”
+under a labor hour contract. (AR at Ex. 2, §§ B.1, B.2.) The RFP was amended twice prior to the
+deadline for receipt of proposals on September 15, 2011. (AR at Ex. 1.) The amendments were
+as follows: (i) on September 12, 2011, (Amendment No. 0001), potential offerors’ questions
+were responded to and the responses were incorporated into the RFP; and (ii) on September 15,
+                                                                             AMI Risk Consultants, Inc.
+                                                                                      CAB No. P-0900
+
+2011, (Amendment 0002), additional questions were responded to and amendments were made
+to certain sections of the RFP. (AR at Ex. 3.)
+
+Terms of the RFP
+
+        The terms of the RFP set out ORM’s requirements for contract performance including the
+expectation that “the period of performance for each contract term (base year and each action
+year if exercised) will begin October 1st and end March 31st,” giving an awardee only 6 months
+to complete all performance requirements of the anticipated contract. (AR at Ex. 2, § F.1.2.)
+Deliverables under the contract included three drafts of reports, the first due by mid-November,
+and bi-weekly status calls. (AR at Ex. 2, § F.3.) The District was required to award the contract
+to “the responsible offeror whose offer is most advantageous to the District, based upon the
+evaluation criteria specified.” (AR at Ex. 2a, § M.1.)
+
+        The District reserved its right to “reject as non-responsive any bid that fails to conform in
+any material respect to the RFP.” (AR at Ex. 2a, § L.2.4.) Furthermore, the RFP clearly stated
+that bidders were “expected to read and understand fully all information and requirements
+contained in the solicitation; failure to do so will be at bidders risk,” (AR at Ex. 2a, § L.5) and
+“thoroughly familiarize themselves with the terms and conditions of this solicitation, acquainting
+themselves with all available information regarding difficulties which may be encountered,” (AR
+at Ex. 2a, § L.3).
+
+        Under Section L.13 entitled “General Standards of Responsibility,” the RFP further
+detailed that:
+
+       The prospective contractor must demonstrate to the satisfaction of the
+       District its capability in all respects to perform fully the contract
+       requirements; therefore, the prospective contractor must submit the
+       documentation listed below, within five (5) days of the request by the
+       District.
+
+                                            ***
+
+       § L.13.4        Evidence of compliance with the applicable District
+                       licensing and tax laws and regulations.
+
+                                            ***
+
+       § L.13.8        If the prospective contractor fails to supply the information
+                       requested, the CO shall make the determination of
+                       responsibility or nonresponsibility based upon available
+                       information. If the available information is insufficient to
+                       make a determination of responsibility, the CO shall
+                       determine the prospective contractor to be nonresponsible.
+
+       (AR at Ex. 2a (emphasis added).)
+
+
+                                                  2
+                                                                             AMI Risk Consultants, Inc.
+                                                                                      CAB No. P-0900
+
+
+
+        The solicitation included additional requirements regarding an offeror’s license to do
+business with the District of Columbia. The RFP stated that compliant proposals would include
+in Section 4 of their respective proposals certain “Additional Documents,” including a “[c]opy of
+valid business license [sic] if currently conducting business in the District of Columbia.” (AR at
+Ex. 2a, § L.2.1.5(d); see also id. at § L.2.1.1.) Under Section L.12, entitled “Legal Status of
+Bidder,” the RFP stated that offerors were required to provide in their bids the following:
+
+       § L.12.2       A copy of each District of Columbia license, registration,
+                      or certification that the bidder is required by law to obtain. .
+                      . . If the bidder is a corporation or partnership and does not
+                      provide a copy of its license, registration or certification to
+                      transact business in the District of Columbia, the bid shall
+                      certify its intent to obtain the necessary license, registration
+                      or certification prior to contract award or its exemption
+                      from such requirements.
+
+       (AR at Ex. 2a.)
+
+Evaluation of Proposals & Contract Award Decision
+
+        The RFP closed on September 15, 2011. (AR at Ex. 1.) Two offerors, AMI and PRM
+timely submitted proposals. (Id.) An evaluation panel “met to evaluate the technical proposals”
+of both offerors and submitted its report “including consensus scores, as well as a listing of
+strengths and weaknesses for each offeror.” (AR at Ex. 5.) On October 3, 2011, the CO
+requested Best and Final Offers (“BAFOs”) from AMI and PRM. (AR at Exs. 1, 7.)
+
+       On the same day, the Contract Specialist, Anthony Berry, sent a separate email to AMI
+which stated:
+
+               Due to operational needs, the District anticipates the subject
+               solicitation no later than close of business, October 5, 2011. In
+               order for your firm to be eligible for award, you are required to
+               provide the necessary District license for business activities by
+               12:00 noon, October 5, 2011.
+
+               It is imperative that you contact Ms. Donise Peace, of the DC
+               Department of Consumer and Regulatory Affairs, to work
+               responsively and expeditiously to resolve this licensure matter.
+
+               (AR at Ex. 4, at 5.)
+
+        On October 4, 2011, AMI responded to the Contract Specialist’s email stating that it had
+“learned that the only way to expedite the application for a business license is to do a walk-in
+application. Inasmuch as we are based in Miami, Florida, it would be improbable for us to
+obtain a District Business License by 12:00 noon tomorrow.” (Id.)
+
+
+                                                 3
+                                                                              AMI Risk Consultants, Inc.
+                                                                                       CAB No. P-0900
+
+
+
+        Through a series of emails, the District attempted to work with the DC Department of
+Consumer and Regulatory Affairs (“DCRA”) and AMI to resolve the licensure issue. (See AR at
+Ex. 4.) At 7:36 p.m. on October 5, 2011, AMI sent an email to the Contract Specialist stating:
+
+               Upon reading more thoroughly the requirements for District
+               Business License, I have concluded that since our principals hold
+               professional licenses as a [sic] Fellows of the Casualty Actuarial
+               Society and the American Academy of Actuaries, our company
+               does not have to register for a business license.
+
+               ‘The General Business License applies to all businesses doing
+               business in the District of Columbia who do not fall under an
+               already specified category or are not professional [sic] licensed’
+
+               ‘If a business entity is comprised of principals who are required to
+               maintain licenses granted or regulated by local, state, or national
+               certification board or body, the entity and its principals shall not be
+               required to obtain a General Business License.’
+
+                                               ***
+
+               We have also mailed the application for Certificate of Authority
+               with DC.
+
+               (AR at Ex. 4, at 3-4.)
+
+        The Contract Specialist then worked with DCRA and AMI to clarify whether AMI’s
+“specific business activity . . . require[d] a business license.” (AR at Ex. 4, at 1-3.) Concurrent
+to this series of email exchanges, which spanned from October 3, 2011, to October 7, 2011, the
+District continued to evaluate the offeror proposals. On October 5, 2011, BAFOs were
+submitted by both AMI and PRM. (AR at Ex. 1.) On October 7, 2011, Donise Peace clarified
+with both the Contract Specialist and AMI that AMI was required to have a General Business
+License to do business in the District of Columbia. (See AR at Ex. 4, at 1.)
+
+     On October 13, 2011, the CO prepared and issued the Small Purchase Procurement
+Summary in which he stated:
+
+               AMI Risk Consultant is deemed non-responsible due to its failure
+               to obtain a license to conduct business in the District as required in
+               Sections L.2.1.5(d) and L.12.2 prior to contract award.
+
+               (AR at Ex. 6.)
+
+       On October 13, 2011, the District awarded the contract to PRM (AR at Ex. 1) and
+submitted to the Board a Determination and Findings to Proceed with Contract Award While a
+
+
+                                                 4
+                                                                            AMI Risk Consultants, Inc.
+                                                                                     CAB No. P-0900
+
+Protest is Pending (AR at Ex. 5). The District forwarded the notice of contract award to AMI on
+October 20, 2011. (AR at Ex. 1.) On November 2, 2011, AMI filed its protest of award with the
+Board.
+
+                                         DISCUSSION
+
+        The protester has argued that the District improperly determined AMI to be
+nonresponsible and, furthermore, that “the District demonstrated bad faith when dealing with
+AMI Risk Consultants, Inc.” (AMI Resp. to Mot. to Dismiss 1, Dec. 2, 2011.) At issue is
+whether the District properly determined that AMI was a nonresponsible bidder. If the Board
+finds that the determination was proper, then AMI lacks standing to raise other challenges with
+respect to the award. See Heller Elec. Co., CAB No. P-0444, 44 D.C. Reg. 6784, 6787 (Jan. 22,
+1997).
+
+I.   CO’S DETERMINATION OF AMI NONRESPONSIBILTY
+
+        Bidder responsibility is a prerequisite to contract award. D.C. Code § 2-353.01(a)
+(2011). Procurement regulations require that the contracting officer make awards only to
+responsible contractors, and that the contracting officer make a written determination of whether
+a prospective contractor is responsible prior to any award. D.C. Mun. Reg. tit. 27, § 2200.1-.2
+(2002); see also Kidd Int’l Home Care Servs., CAB No. P-0547, 45 D.C. Reg. 8835, 8839 (Sept.
+15, 1998). Furthermore, “[t]he regulations place the burden on the prospective contractor to
+demonstrate its responsibility.” Grp. Ins. Admin., Inc., CAB No. P-0309-B, 40 D.C. Reg. 4485,
+4517 (Sept. 2, 1992). The general standards of responsibility are set forth in D.C. Mun. Reg. tit.
+27, § 2200.4 (2002) and in Section L.13 of the solicitation. (AR at Ex. 2.)
+
+         Before making a responsibility determination, “the contracting officer shall possess or
+obtain information sufficient to satisfy the contracting officer that a prospective contractor
+currently meets the applicable standards and requirements for responsibility.” D.C. Mun. Reg.
+tit. 27, § 2204.1 (2002). “Besides obtaining information from the prospective contractor, the
+contracting officer should also obtain information on responsibility from other sources as
+appropriate under the circumstances.” Children, Children, Children, Inc., CAB No. P-0858,
+2011 WL 489700 (Jan. 7, 2011). “[I]n the absence of information clearly indicating that the
+contractor is responsible, the contracting officer shall determine the contractor to be
+nonresponsible.” Id.; see also D.C. Mun. Reg. tit. 27, § 2200.3 (2002).
+
+        This Board has consistently held that a contracting officer has a duty to determine the
+prospective contractor’s responsibility and, as such, the contracting officer is vested with wide
+discretion and business judgment. See, Goel Servs., Inc., CAB No. P-0862, 2011 WL 7402962
+(June 16, 2011); see also, e.g., Children, Children, Children, Inc., 2011 WL 489700; Cent.
+Armature/Fort Meyer Joint Venture, CAB No. P-0478, 44 D.C. Reg. 6823, 6828 (June 6, 1997).
+Therefore, “the Board will not overturn a finding of responsibility or nonresponsibility unless the
+protester shows bad faith on the part of the contracting agency or that the contracting officer’s
+determination lacks any reasonable basis.” Lorenz Lawn & Landscape, Inc., CAB No. P-0869,
+2011 WL 7402964 (Sept. 29, 2011).
+
+
+
+                                                5
+                                                                                         AMI Risk Consultants, Inc.
+                                                                                                  CAB No. P-0900
+
+Bad Faith
+
+        The protester has alleged bad faith on the part of the District regarding the CO’s
+determination of nonresponsibility. However, “[a]ny discussion of bad faith by government
+officials must begin with an analysis of the conduct that constitutes bad faith.” Goel Servs., Inc.,
+2011 WL 7402962 (citing Kalvar Corp., Inc. v. United States, 211 Ct. Cl. 192 (1976)). “It is
+well-established that procurement officials are presumed to act in good faith; and in order for this
+Board to conclude otherwise, the record must show that the procuring official had a specific,
+malicious intent to harm the protestor.” Grp. Ins. Admin., Inc., CAB No. P-0309, 40 D.C. Reg.
+at 4518. Evidence sufficient to sustain a claim of bad faith must rise to the level of ‘irrefragable
+proof’ showing bad faith “actuated by animus toward the plaintiff.” Librach v. United States,
+147 Ct. Cl. 605, 614 (1959), adopted in Goel Servs., Inc., 2011 WL 7402962.
+
+        In this case, protester’s bad faith allegation stems from the terms of the RFP. The
+protester claims:
+
+                 [I]t is in bad faith for the District to suggest that intent to get a
+                 license is sufficient to satisfy the RFP and then to disqualify the
+                 proposer for not having a business license at the time of award –
+                 knowing full well that the District cannot process the license
+                 application by the time of award.
+
+                 (AMI Resp. to Mot. to Dismiss 1.)
+
+        However, the protester has not proffered the evidence necessary to demonstrate a specific
+malicious intent on the part of the CO in order to establish bad faith. To the contrary, a review of
+the record shows that OCP took many actions to aid the protester in resolving its licensing issues.
+The Contract Specialist spoke with DCRA on many occasions on behalf of protester.1 (See AR
+at Ex. 4.) Furthermore, the record evidences that OCP seriously considered the protester’s claim
+that it was exempt from the requirement of having a business license. Specifically, the Contract
+Specialist contacted DCRA and asked a representative to analyze whether the protester needed a
+business license. (See AR at Ex. 4, at 1.) Therefore, the record does not support an allegation
+that the terms of the RFP were written by OCP with the specific intent of injuring protester.
+Accordingly, there is no evidence that the determination of nonresponsibility with respect to the
+protester was made in bad faith.
+
+Reasonable Basis
+
+
+
+1
+  The District provides for expedited license processing with a walk-in application. (See AR at Ex. 4, at 5.) Since
+protester is based in the state of Florida (AR at Ex. 4, at 12), that process may have been inconvenient. However,
+under the terms of the solicitation, it was incumbent on potential offerors to “read and understand fully all
+information and requirements contained in the solicitation,” (AR at Ex. 2a, § L.5) and “thoroughly familiarize
+themselves with the terms and conditions of this solicitation, acquainting themselves with all available information
+regarding difficulties which may be encountered,” (AR at Ex. 2a, § L.3). Therefore, it was solely protester’s
+responsibility to research and comply with the business licensing requirements in the District of Columbia.
+
+
+                                                         6
+                                                                                           AMI Risk Consultants, Inc.
+                                                                                                    CAB No. P-0900
+
+        Additionally, it was reasonable for the CO to determine that AMI was a nonresponsible
+offeror. The General Standards of Responsibility clearly stated that it was incumbent upon the
+prospective contractor to “demonstrate to the satisfaction of the District its capability in all
+respects to perform fully the contract requirements,” including “[e]vidence of compliance with
+the applicable District licensing and tax laws and regulations.[2]” (AR at Ex. 2a, §§ L.13,
+L.13.4.) Notably, by the time that the contracting officer was required to make the determination
+of responsibility:
+
+         (1) AMI had claimed that it was exempt from the requirement of Business License; (AR
+             at Ex. 4, at 3-4)
+         (2) DCRA determined that AMI was required to have a General Business License in
+             order to do business in the District of Columbia; (AR at Ex. 4, at 1)
+         (3) AMI was unable or unwilling to take advantage of the District’s expedited application
+             process; (AR at Ex. 4, at 5)
+         (4) The term of the contract was relatively short, all performance was to be completed in
+             six months, and required the awardee to start performing immediately; (See AR at Ex.
+             2, § F.1.2) and
+         (5) The General Standards of Responsibility required prospective contractors to be in
+             compliance with applicable District licensing laws, (AR at Ex. 2a, § L.13.4).
+
+        In light of this record, the Board has no reason to overturn the CO’s determination that
+the protester was a nonresponsible bidder. Given the expedited nature of the contract, requiring
+performance to be completed within a short period of time, the CO was justifiably concerned
+about the status of protester’s business license. Furthermore, procurement regulations state that
+if there is an absence of information “clearly indicating that the prospective contractor is
+responsible, the contracting officer shall make a determination of nonresponsibility.” D.C. Mun.
+Regs. tit. 27, § 2200.3 (2002).
+
+II. PRM’s QUALIFICATION
+
+         The Board finds that the protester was properly determined to be nonresponsible and,
+therefore, lacks standing to challenge PRM’s qualification to perform the contract. As a result of
+its status as a nonresponsible bidder, protester would not be next in line for award even if this
+Board were to determine that PRM was not qualified to perform the contract. “A protester lacks
+standing where it would not be in line for award even if its protest were upheld.” C.P.F. Corp.,
+CAB No. P-0521, 45 D.C. Reg. 8697, 8699 (Jan. 12, 1998) (citing Am. Combustion Indus., CAB
+No. P-0499, 44 D.C. Reg. 6896 (Aug. 14, 1997); see also Unfoldment, Inc., CAB No. P-0358, 41
+D.C. Reg. 3666 (Sept. 17, 1993). Accordingly, the CO is legally barred from awarding the
+contract to protester as a nonresponsible offeror. See D.C. Code § 2-353.01(a).
+
+2
+  This Board has held that “these very types of registrations, licenses and certification requirements . . . may be met
+by a bidder after bid opening and even after contract award.” Lorenz Lawn & Landscape, Inc., CAB No. P-0869,
+2011 WL 7402964 (citing C & D Tree Servs., Inc., D.C. CAB No. P-0440, 44 D.C. Reg. 6426, 6433-6439 (Mar. 11,
+1996) (discussing solicitation requirements concerning the “District of Columbia license, registration or certification
+that the bidder is required by law to obtain” and other language that closely parallels the requirements of the present
+solicitation)). However, there was a short timeframe for contract performance and we have also established that
+these registrations are “matters of responsibility.” Id.
+
+
+                                                          7
+                                                                      AMI Risk Consultants, Inc.
+                                                                               CAB No. P-0900
+
+CONCLUSION
+
+      For the reasons discussed herein, we sustain the CO’s nonresponsibility determination,
+deny AMI’s protest in part and dismiss the protest in part.
+
+
+SO ORDERED:
+
+DATED: May 25, 2012                              /s/ Maxine E. McBean
+                                                 MAXINE E. MCBEAN
+                                                 Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+
+/s/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+
+Electronic Service:
+
+Aguendo Ingco
+AMI Risk Consultants
+12190 East Laurel Lane
+Scottsdale, AZ 85259
+
+
+Robert Schildkraut
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, NW
+Washington, DC 20001
+
+
+
+
+                                             8
+

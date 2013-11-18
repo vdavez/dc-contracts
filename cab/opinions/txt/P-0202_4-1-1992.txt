@@ -1,0 +1,161 @@
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+
+
+
+PROTEST OF:
+
+           ADVANCED MEDI CAL SYSTEMS, INC.                          )
+                                                                    )       CAB No. P-202
+           Under IFB No. 081-9-65-CW (Fetal Monitors) )
+
+
+      For the Protestor: Thomas C. Fisher, Sales/Market Manager, Advanced Medical
+Systems, Inc. For the Government: Duane A. Brown, Acting Contracting Officer, D.C.
+General Hospital.
+
+      Opinion by Administrative Judge Terry Hart Lee, with Administrative Judge Zoe
+Bush concurring.lJ
+
+                                                  OPINION
+
+       On May 17, 1989, D.C. General Hospital ("DCGH") issued IFB No. 081-9-65-CW
+for four (4) fetal monitors. The items requested were described as "Fetal Monitor Model
+115 w/accessories (Corometrics #OOl15AAA) or equal", accompanied by a list of 10 salient
+characteristics. Five (5) accessories requested were also based on a Corometrics
+instrument or equal.
+
+      Bid opening was scheduled for June 29, 1989. On June 9, 1989, Advanced Medical
+Systems, Inc. (hereinafter "protestor" or "AMS") submitted a bid for its Model IM76 Fetal
+Monitor. The bid was accompanied by descriptive literature for the "Model IM76
+Intrapartum Monitor." At the time it submitted its bid, AMS stated that the instrument
+"meets or exceeds the requirements as listed" in the solicitation.
+
+      Bids were opened on June 29, 1989, with four (4) bids having been received.
+Protestor was the low bidder at a price of $6,115.00. Hewlett-Packard, the subsequent
+awardee, was the third low bidder at a unit price of $8,505.38.
+
+      The bids were evaluated on July 3, 1989. AMS' bid was rejected because (1) it did
+not provide electrical leak specifications, and (2) it did not provide phono
+(autocorrelation).
+
+
+
+
+           lJDue to an extended illness, Administrative Judge Benjamin B. Terner has not participated in this
+opinion.
+                                                     -2-
+
+      Thereafter, on July 31, 1989, one of protestor's representatives called DCGH and
+was advised that even though its bid was low, the order was issued to Hewlett-Packard.
+AMS was also told that the bases for rejection of its bid were that it did not provide
+autocorrelation and did not specity the leakage current of the monitor.
+
+       By letter dated August 1, 1989, AMS protested to DCGH award of the order to
+anyone other than the low bidder. Protestor stated that it did provide autocorrelation in
+the form of Ultrasound Signature Recognition (USR) , a trademarked version of the
+autocorrelation technique. AMS admitted, however, that it did not specify the leakage
+current in its brochure. With regard to the latter, protestor said, "... [O]ur specifications
+for leakage current are as good as anyone else in the industry..•." Protestor went on
+to say the DCGH could have called if it had had any questions on the leakage current.
+There is no evidence that DCGH ever responded to protestor's letter.
+
+      On August 28, 1989, AMS filed a timely protest with the Contract Appeals Board
+("CAB" or "Board").21 Therein, it reiterated its bases for the protest filed with the DCGH
+on August 1, 1989.
+
+
+        2/D.C. Code§§ 32-201, et seq. (1987) established the D.C. General Hospital as an independent agency
+  and the D.C. General Hospital Commission (Commission) as its governing body. Under D.C. Code § 32-
+  220(8), the Commission has the authority to enter into contracts "..• to achieve any or all of its purposes.
+. . . ." This is so, provided
+
+     that the Commission shall exercise the authority granted by this paragraph only pursuant to
+     procurement rules which the Commission shall promulgate that conform to an District 0(
+     Columbia and federal laws regarding procurement by the District of Columbia government, •••
+
+Paragraph (e) of D.C. Code §1-1l81.4 (1987) permits an independent agency to agree formally to be bound
+by the Procurement ~ractices Act of 1985 and the rules and regulations promulgated thereunder. By
+agreement dated November 2, 1989, DCGH engaged the Board to hear and decide appeals and protests
+involving DCGH procurements. Therein, the Board and DCGH agreed that the Board shan be the exclusive
+hearing tribunal with jurisdiction to hear and decide, de novo, "an appeal from the final decision of the
+Hospital's Contracting Officer• .. on (1) any protest of a solicitation or award of a contract. . ... The
+agreement also recognized that DCGH's current procurement regulations were "not in complete harmony"
+with the agreement. Consequently, the parties agreed that between the time of execution of the agreement
+and final publication of conforming procurement regulations, DCGH would provide the right to all
+prospective bidders, otTerors and contractors to file a protest initially with DCGH and subsequently with
+the Board.
+
+     In the present matter, the protestor filed its protest initially with DCGH. Yet, not only did DCGH
+never respond; but also neither the agreement with the Board nor any subsequent procurement regulations
+provide a time limit on DCGH to respond to a protest or a time limit from which a protestor may file with
+the CAB after receipt of a DCGH decision on a protest. Consequently, we must deem the protest to have
+been filed in a timely manner.
+
+    Further, DCGH has not published procurement regulations since the date of the 1989 agreement.
+When it does so, it should be mindful of the requirement for procurement regulations set forth in D.C.
+Code § 32-220(8), supra.
+                                            -3 -
+
+        In Trail Equipment Co., B-241004.2 (February 1, 1991), 91-1 CPD 1[ 102, the
+protestor's bid was rejected. as nonresponsive because the descriptive literature submitted
+with it to establish the acceptability of the "or equal" product either took exception to, or
+failed. to provide information on, various salient characteristics that the solicitation
+required the alternate product to meet. In denying the protest, the Comptroller General
+stated:
+
+       . . . To be responsive to a brand name or equal solicitation, a bid offering
+       an equal product must conform to the salient characteristics of the brand
+       name product listed in the solicitation. A bidder must submit with its bid
+       sufficient descriptive literature to permit the contracting agency to assess
+       whether the equal product meets all the salient characteristics specified. in
+       the solicitation. • . . (citation omitted.)
+
+Id. at 3. Moreover, the bid must be rejected. if the literature submitted with the bid, and
+any other information available to the contracting officer, does not demonstrate
+compliance with the salient characteristics. Id. Accord, Tri-Tool, Inc., B-241703.2 (March
+11, 1991), 91-1 CPD , 267.
+
+       In the instant matter, protestor's bid was rejected. because the descriptive literature
+accompanying the bid did not show that the alternate product met two salient
+characteristics, i.e., autocorrelation and electrical leak specifications.
+
+         Protestor countered by declaring that its Ultrasound Signature Recognition (USR)
+is its trademarked. version of autocorrelation and that its specifications for leakage current
+were as good as anyone else's in the industry. Protestor also asserted the DCGH could
+have called. to find out more about its product.
+
+       While protestor's claims about its USR and leakage current specifications may be
+true, these post-bid claims are unavailing. Furthermore, the descriptive literature
+submitted. with the bid clearly does not relate USR to autocorrelation or set forth leakage
+current specifications.
+
+       Responsiveness must be determined. at the time of bid opening, and, in
+       general, solely from the face of the bid and material submitted. with the bid.
+       To allow a bidder to make its nonresponsive bid responsive after bid
+       opening, . . ., is tantamount to allowing the bidder to submit a new bid.
+       (citations omitted.)
+
+Trail Equipment Co., supra, at 4.
+
+      Thus, because protestor's bid and descriptive literature failed. to provide
+information on two salient characteristics of the brand name product, its bid was properly
+                                        -4-
+rejected. Consequently, this protest is DENIED.   Id., Wright Tool Co., B-242800, B-
+242800.3 (May 30, 1991), 91-1 CPD ~ 522.
+
+
+DATE:_--,A~p~n=·I~I:::l.,~1=9=92=---_
+
+
+
+
+CONCUR:
+
+
+
+
+zoJ$f. ~
+ChIef Administrative Judge
+

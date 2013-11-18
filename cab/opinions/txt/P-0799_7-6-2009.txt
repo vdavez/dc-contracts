@@ -1,0 +1,125 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+C & D Tree Service, Inc.                      )
+                                              )        CAB No. P-0799
+Under IFB No. DCKA-2008-B-0050                )
+
+       For the Protester: Richard L. Moorhouse, Esq., Greenberg Traurig, LLP. For the District
+of Columbia Government: Alton E. Woods, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                            OPINION
+                                          Filing ID 25967143
+
+
+         C&D Tree Service, Inc. has protested the contracting officer’s decision to award multiple
+IDIQ contracts even though the solicitation states that the District intended to make multiple
+awards. While C&D’s protest comes over six months after bid opening, it states that it is not
+challenging the solicitation terms as such but rather the decision to make awards to other
+contractors. We conclude that the protest was untimely filed because C&D is really challenging
+the terms of the solicitation despite its protestations to the contrary. Accordingly, we dismiss the
+protest.
+
+                                        BACKGROUND
+
+        The District’s Department of Transportation (“DDOT”), Urban Forestry Administration
+(“UFA”) had a requirement for a contractor to provide tree pruning services. The Office of
+Contracting and Procurement (“OCP”) advertised the indefinite delivery indefinite quantity
+(“IDIQ”) fixed unit price Invitation for Bids (“IFB”) in the Washington Times on June 27, 2008.
+It was posted on OCP’s website the same day. There were eight amendments to the IFB, none of
+which changed the procurement strategy or the statement of work. Amendments 1-6 each
+extended the bid opening date. Amendment No. 7 revised the price schedule and required
+bidders to submit two sets of unit prices, one set based on a minimum quantity and one set based
+on a maximum quantity. Amendment No. 8 extended the bid opening to August 18, 2008.
+Section B.1.1 of the IFB stated: “The District Government contemplates award of four Indefinite
+Delivery- Indefinite Quantity (IDIQ) contracts for the services specified with payment based on
+firm fixed unit prices as set forth in the schedule.” Section B.1.2 of the IFB provided that: “It is
+the District’s intent to award four (4) contracts, one contract per contractor.” (AR Ex. 1, Protest
+Ex. A).
+
+       Bids were opened on August 18, 2008. Eight firms submitted bids in order from low to
+high: Heavy Equipment Training Academy, minimum amount $2,900, maximum amount
+$365,625; C&D Tree Service, minimum amount $2,700, maximum amount $367,500;
+Adirondack Tree Experts, minimum amount $3,660, maximum amount $438,125; Community
+Bridge, Inc., minimum amount $3,590, maximum amount $451,000; Kennedy Development,
+LLC, minimum amount $3,333, maximum amount $522,250; Arbor Care, minimum amount
+                                                 -2-              C&D Tree Service, CAB No. P-0799
+
+
+$7,385, maximum amount $897,500; The Care of Trees, minimum amount $10,395, maximum
+amount $1,246,500; and Excel Tree Experts Co., Inc. (AR at 3; Protest, Ex. B). Heavy
+Equipment Training Academy was the apparent low bidder, but the firm was determined
+nonresponsible by the contracting officer on February 11, 2009. The bid submitted by Arbor
+Care was determined non-responsive because it did not adhere to Amendment No. 7 which
+amended the pricing schedule. The bid submitted by Excel was submitted on August 25, 2008,
+and was rejected as late. On October 9, 2008, in CAB No. P-0787, Excel protested the rejection
+of its bid and OCP’s failure to issue a contract in accordance with the IFB. On October 28, 2008,
+the District filed a motion to dismiss asserting that the protest was untimely. On January 16,
+2009, the Board dismissed Excel’s protest as untimely.
+
+        On February 11, 2009, the District awarded two of the pruning contracts to C&D and
+Adirondack. John Thomas, UFA’s Administrator, and Kathy Hatcher, the contracting officer,
+met with C&D on March 3, 2009 and with Adirondack on March 4, 2009, to discuss the contract
+requirements, and other post-award logistical issues. (AR at 4). During the March 3 meeting,
+C&D asked the District why it was awarding more than one contract. Mr. Nelson, C&D’s
+representative, stressed the fact that because of the variance in prices the District would pay more
+for the services. Mr. Thomas emphasized that the District needed to award at least four contracts
+in order to quickly respond to new service requests and to catch up on the large backlog of
+service requests. During the discussion, Mr. Thomas and Ms. Hatcher expressed UFA’s desire to
+have multiple contractors working throughout the city at the same time. Mr. Thomas stated that
+four contractors would allow UFA to respond more quickly to requests from the Mayor, the
+Council, and the public. (AR at 4-5; AR Ex. 6).
+
+        Before the District could award a contract to Kennedy Development, LLC, and make a
+fourth award, C&D filed this protest on March 6, 2009, challenging the District’s decision to
+make multiple awards under the IFB, arguing that such a decision is too expensive. The District
+filed a Motion to Dismiss and Agency Report on March 20, 2009, and C&D filed its opposition
+on April 3, 2009.
+
+                                             DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1).
+
+        C&D argues that it is improper and unreasonable for the District to award contracts to
+Adirondack and Kennedy under the IFB when the total cost to the District exceeds the cost of a
+single contract with C&D. Citing 27 DCMR § 1541 and FAR § 14.103-2, C&D argues that the
+District may award multiple awards under an IFB only if doing so is “economically
+advantageous to the Government” and results in the “lowest aggregate cost to the Government.”
+Thus, C&D contends that the District is prohibited from making multiple awards that would
+result in a higher overall cost. A higher overall cost resulting from multiple awards is implicit in
+the solicitation. Sections B.1.1 and B.1.2 indicate the District’s intent to award four IDIQ
+contracts. Clearly, the IFB anticipates a cost exceeding the cost of a single contract awarded to
+the lowest bidder, however, the extent of the costs to the District cannot be determined until all
+task orders are issued under the contracts. If C&D wished to challenge multiple awards, it had to
+do so by bid opening. Because it waited more than six months after bid opening to file its
+challenge, we dismiss its protest as untimely.
+                                               -3-              C&D Tree Service, CAB No. P-0799
+
+
+
+
+                                        CONCLUSION
+
+       The solicitation clearly stated the District’s intent to make multiple IDIQ awards. C&D
+had to file a protest of the solicitation provisions providing for multiple awards by bid opening
+on August 18, 2008. Its protest, filed more than six months after bid opening, is thus untimely.
+Accordingly, we dismiss the protest.
+
+       SO ORDERED.
+
+DATED: July 6, 2009                                  /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

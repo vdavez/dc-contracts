@@ -1,0 +1,853 @@
+                                GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                 CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+        THE AMBUSH GROUP, INC.                       )
+                                                     )        CAB No. D-1014
+        Under Contract No. 4043-AA-NS-GM             )
+
+      For the Appellant, The Ambush Group, Inc.: Samuel N. Omwenga, Esq.                                  For the
+Government: Jack Simmons, III, Esq., Assistant Attorney General.
+
+       Opinion by Administrative Judge Matthew S. Watson with Chief Administrative Judge
+Jonathan D. Zischkau and Administrative Judge Warren J. Nash, concurring.
+
+
+                                                   OPINION
+                                          (LexisNexis Filing ID 3855773)
+
+
+        Ambush Group, Inc. (“Appellant” or “Ambush”) claims $135,259.72 pursuant to a
+variable contingent-fee contract for telecommunications audit services. The parties agree that the
+claim is based on unused telephone equipment reported by Ambush as having been erroneously
+billed by AT&T to the District. The claim is composed of $74,916.84 claimed by Ambush as its
+share of refunds totaling $227,020.73 actually received by the District from AT&T, and
+$60,342.88 claimed by Ambush’s as its share of $182,857.20 of projected savings estimated to
+have been realized by the District in FY 1994 from cessation of the improper billings and
+attorneys’ fees. The District contends that the scope of the contract, and therefore any entitlement
+to compensation, is limited to audit and discovery of erroneously billed telephone lines and
+circuits and does not authorize audit or compensation for savings resulting from reporting of
+erroneously billed unused equipment. The District further asserts that, even if audit of equipment
+is within the scope of the contract, Ambush is not entitled to compensation, since discovery of
+the errors on the AT&T bills was not the result of Ambush’s work product. The District asserts
+that Ambush learned of the AT&T billing errors from District or AT&T employees who were
+already working on correcting the errors. We find that audit of equipment was within the scope
+of the contract and that Ambush is entitled to compensation for the overpayments on equipment
+billing which it reported. We grant Appellant’s claim for $135,259.72 plus interest at the rate of
+4% from May 10, 1995.1
+
+
+                                               BACKGROUND
+
+         By letters addressed to individual prospective offerors dated November 8, 1993 (“request
+letter”) (Appellant Ex. 1), the District announced a requirement for “contractor services to audit
+
+1
+  There is no provision for attorneys’ fees pursuant to the Procurement Practices Act, therefore Ambush’s claim for
+such fees is denied.
+                                                        -2-               The Ambush Group, Inc. CAB No. D-1014
+
+
+
+[the District’s] lines and circuits.” The letter was not titled a “Request for Proposals,” nor was it
+identified by an “RFP No.,” as is the normal course in solicitations, but did state as its subject,
+“Procurement of Services to Audit Telephone Lines and Services.” (Id.)
+
+        The request letter detailed “21000 Centrex lines, various XMB lines associated
+principally with the PBX at the Reeves Municipal Center, about 500 1MB lines, and about 1000
+data circuits. In addition, the government pays for lines and circuits for the Lorton complex in
+Virginia and the Laurel complex in Maryland” and stated that the District believed that “savings
+may exist because of unused lines” and “further believes that savings may exist because of 1MB
+lines that are used when less costly Centrex lines could be used instead.” In addition to the
+specific lines and circuits identified, the letter was an open-ended invitation to propose to
+discover other savings which might be achieved in an audit of telephone service. Following the
+reference to line and circuit savings the request letter stated that “[t]he government also requires
+an audit to verify the accuracy of invoices” and reiterated that “[t]he government requires the
+services of a contractor to identify all lines and circuits billing errors, including, but not limited
+to, those described above.” (Id.) (Emphasis added).
+
+        The request letter stated that “[t]he contractor will be required to work directly with the
+telecommunications coordinators of 60 to 65 agencies.” The intended agency input was
+emphasized by the requirement that “[t]he contractor will describe the project in a general
+meeting of the coordinators to be convened by the government within seven (7) days of contract
+award.” (Id.). The letter does not reference any existing actions being taken by the government
+to secure refunds, nor does it give notice that any types of audit or individual areas of overbilling
+are off-limits to the contractor.
+
+       The request letter concluded that “prospective offerors are requested to provide proposals
+describing how the above work would be undertaken and how the savings would be shared,
+including the percentage requested.” Ambush timely submitted a proposal, followed, after
+negotiations, by a best and final offer (“BAFO”).2
+
+        Ambush’s proposal, as refined in the BAFO, was responsive to the request letter but was
+clearly not limited to merely to an audit of lines and circuits. Ambush included equipment, and
+specifically AT&T equipment, within the scope of its proposed audit. Ambush prefaced its offer
+stating that “[s]ince the divestiture of AT&T on January 1, 1984, many organizations with leased
+AT&T equipment . . . have been erroneously billed.” At the time that Ambush submitted its
+
+
+
+2
+   No copy of the BAFO was introduced during the hearing in this matter. A copy of the BAFO was requested by
+the Board after the hearing. Neither the District’s nor the Ambush’s files contained a hard copy of the document
+submitted by Ambush. Ambush maintained an electronic record which it asserts is identical to the hard copy
+actually submitted. (Affidavit of Vernon Ambush). Since the District incorporated specific sections of the BAFO
+into the contract, the BAFO must have existed prior to the execution of the contract and is essential to interpretation
+of the contract. The electronic document submitted by Ambush is the only document alleged to be the BAFO.
+There is no evidence challenging its authenticity. The Board therefore accepts the printout of the electronic record as
+the best evidence of the actual BAFO and, in the absence of any evidence submitted by the District to different
+terms, has relied on that record in its interpretation of the contract.
+                                                       -3-               The Ambush Group, Inc. CAB No. D-1014
+
+
+
+proposal, AT&T did not provide any dial tone lines and circuits to the District.3 (Hearing
+Transcript (“Tr.”) 110 and 122 (Brown); Tr. 134 (Bernhardt)). Although AT&T may have
+provided long distance service to the District, (Tr. 110 and 122 (Brown)), such service was not
+invoiced by AT&T, but was rather invoiced through Bell Atlantic. (Tr. 137-8 (Bernhardt)). The
+only items therefore which appeared on AT&T invoices are for equipment.
+
+      “AT&T” or “equipment” was referenced in four of six bullet points in the introduction to
+the BAFO:
+
+
+        For the D.C. Government, the AGI telecommunications staff proposes the following:
+
+    •   Decode, analyze, and interpret the Public Service Commissions tariffs as they relate to leased
+        AT&T equipment, your regional Bell Operating Company (RBOC) and Interexchange Carrier
+        (IXC) circuitry and determine the accuracy of your monthly telephone billing;
+
+                                                      * * *
+
+    •   Compare your current on-site equipment, circuitry and features to what you are being billed and
+        determine billing errors;
+
+                                                      * * *
+
+    •   Submit projected refund analysis reports to AT&T, the RBOC and the appropriate IXC requesting
+        refunds; and
+
+    •   Maintain continuous contact with client, AT&T, the RBOC and the IXC personnel until the
+        refunds are processed and the entire project is completed.
+
+
+        In the BAFO, Ambush proposed to perform the work in 5 phases. Four of the 5 phases
+specifically mentioned AT&T and/or equipment.4 There is no indication in the record that the
+District raised any question as to the scope of the proposed audit. Indeed, Ambush’s BAFO was
+accepted and portions of the BAFO were incorporated by reference as the contract scope of
+work. (Appellant’s Ex. 1). The Scope of Work in the contract reads, in relevant part, as follows:
+
+        ARTICLE I – SCOPE OF WORK
+
+        The Contractor will perform telephone line and circuit auditing services for
+        approximately 21,000 Centrex lines, various XMB lines associated with PBX at the
+3
+  Mr. Ambush, in deposition testimony, indicated that AT&T may also have provided data circuits. (Ambush Dep.
+July 13, 1998 at 21). The Board accepts the testimony of the District officials that AT&T did not provide circuits.
+4
+   Mr. Ambush testified at the hearing without having located or reviewed the BAFO that equipment was never
+mentioned in the contract. (Tr. 52-56 (Ambush)). The District argued, also without the benefit of reviewing the
+BAFO, that no reference to equipment was included in the contract. (Posthearing Brief, 25). The Board
+understands this testimony as referring to those parts of the contract that were admitted into the record at the
+hearing, but not thos portions of the BAFO incorporated by reference into the contract and not available at the time
+of the hearing.
+                                                   -4-             The Ambush Group, Inc. CAB No. D-1014
+
+
+
+       Reeves Center, 500 1MB lines and approximately 1,000 data circuits. The government
+       requires that the Contractor identify all line and circuit billing errors, including, but not
+       limited to, those described above, in accordance with the following:
+
+       A.     Request for Proposals (RFP) No. 4043-AA-NS-6-GM issued November 8, 1993
+       (Attachment 2);
+
+       B.    Following sections of the AGI Best and Final Offer dated 11/23/93 in response to
+       RFP No. 4043-AA-NS-6-GM issued November 8, 1993 (Attachment 3):
+
+                       1.       PHASE I      - ITEMS I THROUGH 4
+
+                       2.       P/HASE II     - ITEMS 1 THROUGH 8
+
+                       3.       PHASE III - ITEMS 1 THROUGH 6
+
+                                                 * * *
+
+                         5.      PHASE V - ITEMS 1 THRUGH 10 AND ITEM 11 revised to
+       read as follows: “Calculate fiscal year 1994 savings to be realized by analyzing the
+       identified circuit data.”
+
+                                                 * * *
+
+The referenced Phase I BAFO sections read as follows:
+
+   1. Describe the project in a general meeting of the telephone coordinators to be convened by the
+      government within seven working days of contract award.
+
+   2. Gather required documentation from C&P Telephone Company (CSR), AT&T and other circuit
+      vendors that provides [sic] circuitry for each agency.
+
+   3. Decode, analyze and recap monthly charges billed by C&P Telephone Company, AT&T and
+      other circuit vendors.
+
+   4. Generate a documented listing of all circuitry included in the billings provided by C&P
+      Telephone Company, AT&T and circuit vendors.
+
+The referenced Phase II BAFO sections read as follows:
+
+   1. Work directly with the telephone coordinators of the 60 to 65 agencies to schedule appointments
+      for on-site analysis of their respective agency. Obtain tapes, electronic disks or hard copy of the
+      DC Government’s telephone directory.
+
+   2. Perform an on-site inventory by actual physical count of all circuitry for each of the agencies in
+      the Government.
+
+   3. Verify existence of circuitry through empirical evidence, dialing telephone lines and/or testing
+      lines electronically.
+                                                  -5-             The Ambush Group, Inc. CAB No. D-1014
+
+
+
+   4. Interview on-site telephone coordinators to further validate circuit discrepancies and unused
+      circuitry. Obtain a list of on-site telephone users.
+
+   5. Prepare a comparative analysis of the information disclosed from the records of C&P Telephone
+      Company, AT&T and other circuit vendors versus the actual count recorded during the on-site
+      physical inventory.
+
+   6. Generate a formal audit report detailing the billing errors disclosed by the comparative analysis.
+
+   7. Prepare a formal claim for any refunds due from C&P Telephone Company, AT&T and other
+      circuit vendors.
+
+   8. Submit the formal audit report claim(s) for refunds to the Contracting Officer of the District of
+      Columbia and the telephone coordinators for review and final approval.
+
+The referenced Phase III BAFO sections read as follows:
+
+   1. Perform a savings analysis of the D.C. Government’s telecommunications system to identify
+      unused lines.
+
+   2. Identify lines which are not being used based on the results of the on-site inventory.
+
+   3. Verify existence of circuitry through empirical, dialing telephone lines and/or testing lines
+      electronically. Verify status of lines with the agency’s on-site telephone coordinator.
+
+   4. Identify the lines to be disconnected and under the authority of the Contracting Officer notify the
+      on-site agency telephone coordinator of the intent to disconnect.
+
+   5. Compile a list of lines to be disconnected after the coordination and confirmation of the
+      disconnection with on-site agency telephone coordinator.
+
+   6. Calculate fiscal year (FY) 1994 savings to be realized by the disconnection of identified unused
+      lines and equipment.
+
+The referenced Phase V BAFO sections read as follows:
+
+   1. Gather required documentation from C&P Telephone Company (CSR), AT&T and other circuit
+      vendors that provide data circuitry to each agency.
+
+   2. Decode, analyze and recap monthly charges billed by C&P Telephone Company AT&T and other
+      circuit vendors for data circuits.
+
+   3. Generate a documented listing of all data circuits included in the billings provided by C&P
+      Telephone Company, AT&T and circuit vendors.
+
+   4. Perform an on-site inventory by actual physical count of all data circuits for each of the agencies
+      in the Government.
+
+   5. Verify existence of data circuitry through empirical evidence and/or test lines electronically.
+                                                        -6-              The Ambush Group, Inc. CAB No. D-1014
+
+
+
+      6. Interview on-site telephone coordinators to further validate data circuit discrepancies and unused
+         data circuitry. Obtain a list of data circuit users.
+
+      7. Prepare a comparative analysis of the information disclosed from the records of C&P Telephone
+         Company, AT&T and other data circuit vendors versus the actual count recorded during the on-
+         site physical inventory.
+
+      8. Generate a formal audit report detailing billing errors disclosed by the comparative analysis.
+
+      9. Generate a formal claim for refunds due from C&P Telephone Company, AT&T and other circuit
+         vendors.
+
+      10. Submit the formal audit report claim(s) for refunds to the Contracting Officer of the District of
+          Columbia and the telephone coordinators for review and final approval.
+
+      11. Calculate fiscal year (FY) 1994 savings to be realized by [analyzing]5 the identified data circuits.
+
+
+        The contract contained an “integration clause” stating that: “This contract, including
+specifically incorporated documents, constitute the total and entire agreement between the
+parties. All previous discussions, writings and agreements are merged herein.” (Id., Art. X.) In
+addition, the contract states an order of precedence mandating that inconsistencies shall be
+resolved in the following order: Articles I through X; Standard Contract Provisions; Request for
+Proposals, and; Specified sections of the BAFO. (Id., Art. VIII).
+
+       Section C of Article I provided that Phases I through V, including Phase III would be
+completed within 120 days. Two amendments to the contract extended the time for performance
+to September 30, 1994.
+
+        In the communications industry, lines, circuits and equipment have distinct meanings.
+(Tr. 49 (Ambush); Tr. 98 (Brown); Tr. 183 (Eley)). Lines, sometimes referred to as dial tone
+service, carry voice communication on separate telephone numbers. (Id.). Circuits, or data
+circuits, carry data communications. (Id.). Equipment, as used in the telecommunications
+industry, is the switching apparatus used to make the connections between the lines and circuits.
+(Tr. 49-50 (Ambush)). Equipment controls the communications network and is essential to
+operate the telephone and data systems. Equipment includes hardware such as computers,
+switching equipment and PBXs. (Id.) Equipment does not include devices such as fax machines
+which merely utilize telephone lines, although such devices may be referred to as “customer
+premises equipment.” (Tr. 98 (Brown)).
+
+       It is well-known to telephone professionals that Judge Greene’s landmark decision
+breaking up AT&T divested it of providing dial-tone service, that is, lines and circuits.6 The
+
+5
+    The contract substituted “analyzing” for “the conversion of” which appeared in the BAFO.
+6
+  “Section I of the proposed decree would provide for significant structural changes in AT&T. In essence, it would
+remove from the Bell System the function of supplying local telephone service by requiring AT&T to divest itself of
+the portions of its twenty-two Operating Companies which perform that function.” United States v. American Tel. &
+Tel. Co., 552 F. Supp. 131, 141 (D.C.D.C., 1982)
+                                                      -7-             The Ambush Group, Inc. CAB No. D-1014
+
+
+
+District’s own witnesses7 concede that in the 1990s AT&T did not sell telephone dial tone
+service to the District. (Tr. 110 (Brown); Tr. 134 and 149 (Bernhadt)). (“[T]he local carrier is
+Bell Atlantic . . . [all District agencies] use the same dial tone provider, everybody does.”
+(Brown 122-3). “”AT&T has nothing to do with dial tone whatsoever.” (Tr. 183 (Bernhardt)).
+AT&T supplied equipment,8 (Tr. 109 (Brown)), and possibly long distance service. (Tr. 109 and
+122 (Brown); Tr. 134-5 (Bernhardt)). Even if AT&T provided long distance service, it did not
+bill that service directly to the Distict. AT&T long distance service was invoiced through Bell
+Atlantic, not directly by AT&T. (Tr. 138 (Bernhardt)).
+
+        The audit work was begun by a meeting on January 11, 1994, called by the District “for
+all agency coordinators, [and] all representatives. . . to discuss the future line and circuit audit
+that was going to be taking place citywide.” (Tr. 98 (Brown)). At the behest of the District,
+representatives of AT&T were present at the meeting. (Tr. 100).
+
+       During the course of the audit, the District provided AT&T invoices to Ambush. (Tr. 151
+(Bernhardt)). Ambush began the audit of AT&T invoices within the contract period and prior to
+September 16, 1994. (Appellant Ex. 5) Ambush determined that the invoices contained charges
+for unused equipment extending back prior to the inception of the contract, and, in some cases,
+as long as 4 years. (Appellant Ex. 7). Within the contract period, by memorandum dated on
+September 22, 1994, Ambush reported to the District that it “has discovered a potentially large
+amount of over-billing with the AT&T account.” (Appellant Ex. 6). On September 26, 1994,
+Ambush gave a report to AT&T detailing total overbillings of $361,859.58. (Appellant Ex. 7).
+The report identified overbillings for unused equipment at 415 12th Street, NW; 613 D Street;
+and 301 C Street, NW., totaling $251,332.38. AT&T subsequently conceded that the District
+was erroneously billed $245,303 at these locations.9 (Appellant Exs. 8 and 9).
+
+        After notice to AT&T by Ambush, no further effort was required by Ambush to secure
+refund of the erroneously billed amounts. The District actually received refunds from AT&T
+relating to the accounts and locations upon which Ambush reported in the amount of
+$227,020.73.10 Other than the letters and memorandum sent by Ambush, there is no
+documentary evidence in the record to show that anyone other than Ambush, either in the
+
+
+
+7
+  Ronald P. Brown, Department of Public Works telecommunications coordinator (Tr. 96) and William Bernhardt,
+Branch Chief, Department of Administrative Services, Information Resources Management Administration. (Tr.
+130).
+8
+   The AT&T office with which the District dealt was later included in the spinoff of AT&T’s equipment operations
+into Lucent Technologies. (Tr. 110 (Brown); Tr. 176 (Eley)). Lucent is well known as a supplier of equipment, not
+lines and circuits.
+9
+   Location               Reported by Ambush        Conceded by AT&T
+                           (Appellant Ex. 7)        (Appellant Exs. 8 and 9)
+  613 G St., NW              $162,977.40                $140,476.43
+  301 C St., NW                43,314.18                   46,509.71
+  415 12th St., NW             45,040.80                   59,322.75
+10
+  The difference between the overbilling conceded by AT&T and the refund represents a deduction by AT&T of
+$19,288.16 for the “sale in place” value of the equipment at 415 12th Street, NW. (Appellant’s Ex. 9).
+                                                 -8-             The Ambush Group, Inc. CAB No. D-1014
+
+
+
+District Government or AT&T, initially identified the erroneous billings and payments or
+initiated a claim for the refund.
+
+                                           DISCUSSION
+
+        It is undisputed that Ambush had a contract to perform an audit of telecommunication
+billing which provided that it would receive, as compensation, a percentage of refunds and future
+savings for erroneous billing identified during the contract term. It is further undisputed that the
+District received refunds after expiration of the contract for erroneous billings for unused AT&T
+telecommunications equipment which Ambush had reported during the contract period.
+Ambush’s claim is for compensation based upon the refunds received by the District from AT&T
+and associated future savings.
+
+        This matter turns on the interpretation of the contract in two areas. First, whether audit of
+unused equipment billing is within the scope of the contract. And, second, if audit of unused
+equipment billing is within the scope of the contract, whether Ambush is entitled to
+compensation for savings achieved from removal of the specific unused AT&T equipment.
+Ambush contends that it is entitled to compensation based on savings on unused equipment it
+reported during the course of contract performance. The District contends that audit of
+equipment is not covered by the contract, and, even assuming that audit of equipment is within
+the scope of the contract, Ambush has not shown that its efforts identified the unused equipment
+for which refunds were received. The District further affirmatively asserts that any savings
+resulting from recognition of unused equipment was the result of the work of District and AT&T
+employees.
+
+Contract Interpretation
+
+       Interpretation of a contract must begin with the contract itself, particularly when the
+contract is a so-called “integrated” agreement. The contract provides:
+
+
+       ARTICLE X - TOTAL AGREEMENT
+
+       This contract, including specifically incorporated documents constitute the total and
+       entire agreement between the parties. All previous discussions, writings and agreements
+       are merged herein.
+
+
+“An integrated agreement is a writing or writings constituting a final expression of one or more
+terms of the agreement.” Restatement, Second, Contracts (“Restatement”) § 209(1). “The
+interpretation of an integrated agreement is directed to the meaning of the terms of the writing ...
+in light of the circumstances. . . .” (Restatement, § 212(1)).
+
+
+       It is sometimes said that extrinsic evidence cannot change the plain meaning of a writing,
+       but meaning can almost never be plain except in a context. Accordingly, the rule stated in
+       Subsection (1) is not limited to cases where it is determined that the language used is
+                                                   -9-             The Ambush Group, Inc. CAB No. D-1014
+
+
+
+       ambiguous. Any determination of meaning or ambiguity should only be made in the light
+       of the relevant evidence of the situation and relations of the parties, the subject matter of
+       the transaction, preliminary negotiations and statements made therein, usages of trade,
+       and the course of dealing between the parties.
+
+Id. Comment b.
+
+        Notwithstanding that an agreement is integrated, negotiations prior to or
+contemporaneous with the adoption of the agreement are admissible to establish the meaning of
+the writing. Restatement § 214(c).
+
+
+       Words, written or oral, cannot apply themselves to the subject matter. The expressions
+       and general tenor of speech used in negotiations are admissible to show the conditions
+       existing when the writing was made, the application of the words, and the meaning or
+       meanings of the parties. . . . In cases of misunderstanding, there must be inquiry into the
+       meaning attached to the words by each party and into what each knew or had reason to
+       know.
+
+Id. Comment b.
+
+        The entire BAFO was an integral part of the contract negotiation. Since the District made
+its determination to award the contract based on the BAFO, the District clearly had knowledge of
+the offer made by Ambush. By incorporating portions of the BAFO into the final agreement, the
+District accepted the incorporated terms as they were used by Ambush in submitting its final
+offer. To the extent that it expressed no disagreement and made no clarifications of the meaning
+of the terms used in the BAFO, the District must be assumed to have concurred in the consistent
+meaning of terms in the entire BAFO. The words of the offer, as made, must be given the same
+meaning when abstracted from the BAFO and incorporated in the contract as the meaning the
+words had in the complete BAFO. Thus, the Board will consider, in addition to the sections of
+the BAFO which were specifically incorporated and became a part of the final contract, portions
+of the BAFO not incorporated into the contract which give meaning and context to the language
+of the incorporated sections.
+
+         If the incorporated terms, when read together with the unincorporated introductory terms,
+are still unclear, the Board must determine their most reasonable meaning. “A contract is not
+rendered ambiguous merely because the parties disagree over its proper interpretation. Instead, a
+contract is ambiguous when, and only when, it is, or the provisions in controversy are,
+reasonably or fairly susceptible of different constructions or interpretations, or of two or more
+different meanings. If there is more than one interpretation that a reasonable person could ascribe
+to the contract, while viewing the contract in context of the circumstances surrounding its
+making, the contract is ambiguous. The choice among reasonable interpretations of an
+ambiguous contract is for the factfinder to make, based on the evidence presented by the parties
+to support their respective interpretations.” Gryce v. Lavine, 675 A.2d 67, 69 (D.C. 1996)
+(citations omitted). The first step in contract interpretation is determining what a reasonable
+person in the position of the parties would have thought the disputed language meant.
+Intercounty Constr. Corp. v. District of Columbia, 443 A.2d 29, 32 (D.C. 1982); Minmar
+                                                      - 10 -             The Ambush Group, Inc. CAB No. D-1014
+
+
+
+Builders, Inc. v. Beltway Excavators, Inc., 246 A.2d 784, 786 (D.C. 1968). The presumption is
+that the reasonable person knows all the circumstances before and contemporaneous with the
+making of the integration. The reasonable person is also bound by all usages—habitual and
+customary practices—which either party knows or has reason to know. The standard is applied to
+the circumstances surrounding the transaction and to the course of conduct of the parties under
+the contract, both of which are properly considered when ambiguous terms are present. 1901
+Wyoming Ave. Cooperative Ass’n. v. Lee, 345 A.2d 456, 461-62 (D.C. 1975). If the ambiguity is
+still not resolved, the Board will apply the rule construing the contract against the drafter.
+Affordable Elegance Travel, Inc. v. Worldspan, L.P., 774 A.2d 320, 328 (D.C. 2001).
+
+        The contract document, exclusive of provisions incorporated by reference from the
+BAFO, does not mention “AT&T” or “equipment.” (Tr. 51-54 (Ambush)). The contract
+document, however, also does not describe its most important requirement—the scope of work.
+The required tasks are specified by incorporating by reference sections of the BAFO. The BAFO
+scope of work separates audit of telephone circuits (Phases II and III) from data circuits (Phase
+V)11. Phase II deals with verification of telephone service and identification of nonexistent
+services billed to the District. It requires Ambush to: “Prepare a comparative analysis of the
+information disclosed from the records of C&P Telephone Company, AT&T and other circuit
+vendors versus the actual count recorded during the on-site physical inventory”; “Generate a
+formal audit report detailing the billing errors disclosed by the comparative analysis”; and
+“Prepare a formal claim for any refunds due from C&P Telephone Company, AT&T and other
+circuit vendors.” Phase III directs Ambush to identify telephone service provided but not
+actually used by the District and then to “[c]alculate fiscal year (FY) 1994 savings to be realized
+by the disconnection of identified unused lines and equipment.”
+
+       Phase V specifically references AT&T in 5 of the 11 sections incorporated into the
+contract.
+
+         By themselves, certain of the individual incorporated BAFO provisions may be unclear
+as to whether they include audit of AT&T equipment, as opposed to lines and circuits. Any
+ambiguity disappears, however, when read in the context of the entire BAFO. Ambush’s
+introduction to the BAFO is replete with specific references to audit of AT&T equipment
+billings. In the introduction, Ambush proposed to “interpret the Public Service Commission’s
+tariffs as they relate to leased AT&T equipment,” compare “current on-site equipment . . . to
+what you are being billed and determine billing errors,” and submit “projected refund analysis
+reports to AT&T.” The introduction is followed by a proposed phased scope of work, which was
+incorporated into the final contract. Since the incorporated sections and the introduction were
+included in a single BAFO document submitted by Ambush, the Board must read terms used in
+the scope of work consistently with the same terms in the introduction. Read together with the
+introduction to the BAFO, we believe that the most reasonable interpretation of the scope of
+work incorporated from the BAFO into the executed contract is that the references to gathering
+AT&T information and preparing a formal claim to AT&T must include AT&T equipment. This
+interpretation is confirmed by the final step in Phase III which requires Ambush “to calculate
+savings to be realized by the disconnection of identified unused lines and equipment.”
+
+11
+   Phase I appears to deal generally with all types of service. Phase IV deals with 1MB lines and Centrex service
+provided only by C&P.
+                                              - 11 -          The Ambush Group, Inc. CAB No. D-1014
+
+
+
+
+        Even if a consistent reading of the entire BAFO did not require inclusion of equipment
+within the scope of work, that would be the most reasonable interpretation of the scope of work
+standing alone. The Board must interpret the incorporated terms to give some meaning to the
+specific inclusion of AT&T as one of only two firms referenced by name in Phase II of the
+contract dealing with telephone service. Since AT&T did not provide dial-tone service, there
+would be no reason to include AT&T in the scope of work unless equipment was intended to be
+included in the audits. To interpret the incorporated provisions as excluding equipment would
+render the specific references to AT&T in Phases II and III dealing with telephone service
+meaningless.
+
+         Although the District used the shorthand title of ‘line and circuit’ audit to refer to the
+contactor’s work, the references to AT&T were clearly not meaningless to District personnel
+initiating the contract. From the very start of the contract, the District included AT&T as a
+subject of the audit. Within two weeks after the beginning of the contract, District officials
+called a meeting “for all agency coordinators, [and] all representatives. . . to discuss the future
+line and circuit audit that was going to be taking place citywide.” (Tr. 98 (Brown)).
+Representatives of AT&T were invited by the District and were present at the meeting. (Tr. 100).
+The District further conceded that in the course of performance of the contract it provided the
+AT&T invoices to Ambush. (Tr. 151-2 (Bernhardt)). AT&T invoices included only equipment.
+(Tr. 115 (Brown)). Since long distance billing was made through Bell Atlantic, there would be
+no reason for anyone knowledgeable in the telephone industry to include AT&T representatives
+at the initial meeting or to provide AT&T invoices unless billing for equipment was being
+audited.
+
+        The Board is not persuaded by the District’s witnesses, Mr. Brown and Mr. Bernhardt.
+There is no indication that either of the two witnesses offered by the District was familiar with
+the negotiation or award of the contract. Mr. Brown, who had no authority as to the contract and
+was only “following the directions of [the Department of Administrative Services]” (Tr. 105),
+based his opinion as to coverage of the contract, not on the contract itself, but on a document
+distributed by Ambush at an initial meeting with agency personnel. (Tr. 99). Mr. Bernhardt,
+who also had no contracting authority (Tr. 133), was shown a contract document which did not
+include the referenced BAFO (Appellant’s Ex. 1), and he expressed a general opinion as to the
+purpose of the contract without any specific reference to the contract terms. (Tr. 133). He
+acknowledged that he was not “instrumental in developing [the] contact, the scope of work or
+anything in the contract.” (Tr. 153) In fact, Mr. Bernhardt testified that he was “only vaguely”
+familiar with the contract. (Id.). The District itself objected to any testimony by Mr. Bernhardt
+as to the RFP because he had never seen it before. (Tr. 154). The District did not offer any
+witness who participated in negotiating the contract, nor did it call any contracting officer
+involved in performance.
+
+       The Board finds that the most reasonable interpretation of the written contract, based on
+the negotiation, specifically the entire BAFO, and the actions of the District at the inception of
+the contract to include AT&T representatives at the initial meeting, is that audit of AT&T
+equipment billed to the District was within the scope of the contract.
+                                                - 12 -          The Ambush Group, Inc. CAB No. D-1014
+
+
+
+
+Performance of work
+
+
+
+        Alternatively, the District argues that Ambush is not entitled to the compensation claimed
+because Ambush did not demonstrate that it performed the work for which it seeks
+compensation. (Appellee’s Posthearing Brief, 17). The District states that “[t]he inescapable
+conclusion is that all of the work on the telecommunications equipment that led to the refunds or
+credits was done exclusively by DC government personnel and personnel from AT&T.” (Id., at
+20). The District asserts as fact that “Ambush’s knowledge of the telecommunications
+equipment issues derives from his conversations with Candy Cannon-Monk, an AT&T
+representative who worked for the billing manager,” (Id., at 12), implying that Ambush did not
+learn of the overbilled equipment through its own audit efforts.
+
+        In essence, it is that District’s position that Ambush is not entitled to compensation under
+the contract unless it can demonstrate that it independently discovered the erroneous billing
+through its own efforts. The District, however, cites no provision of the contract which requires
+the contractor to document its efforts in determining the billing discrepancy. The payment
+provision of the contract provides only that “the contractor shall receive 33% of the gross
+amount of any moneys recovered or costs avoided pursuant to any claim made under this
+contract . . . for savings projected and/or realized in accordance with tasks listed in phases II and
+III of Article I.B. of this contract.” (Appellant Ex. 1, Art VI A). Phase III, as incorporated into
+the contract, provides that the contractor shall, after analyzing telephone service and billing,
+“calculate fiscal year 1994 savings to be realized from the disconnection of identified unused
+lines and equipment.” The District’s logic that the contractor must show that it learned of the
+potential claims before District employees would create, during the contract period, a race
+between District employees and the contractor to initiate refund claims. This would be an
+untenable situation, since the contractor was “required to work directly with the telephone
+coordinators of 60 to 65 agencies” and to begin this collaboration “within seven (7) days of
+contract award.” (RFP, AF, Ex 3). The Board finds that Ambush met the requirements of the
+contract by identifying the erroneously billed equipment and filing a claim on behalf of the
+District with AT&T.
+
+        The record does not support the District’s position that Ambush’s audit efforts did not
+result in the claim for overbilling for unused equipment. The District bases its assertion as to
+Ambush’s source of the information on the testimony of the AT&T account executive for the
+District. First, the account executive does not claim any direct knowledge of how Ambush
+learned of the overbilling, but only testified as to her conjecture. She stated “I think what
+happened is [Mr. Ambush] got information from Candy Cannon-Monk, who really didn’t know
+what was going on.” (Tr. 188 (Eley)). She elaborated:
+
+
+       Mr. Ambush started calling all around my office, until he basically reached a live person
+       because I was out in the field a lot because I was in sales. So I was out with my
+       customers and he kept calling and when he couldn’t get me he would dial zero and
+                                                       - 13 -           The Ambush Group, Inc. CAB No. D-1014
+
+
+
+          basically go around my office until he could find a live person. Candy was a [billing] rep.
+          Bettie [Terry] was a [billing] rep. They really didn’t know what really was going on or
+          anything. They were enlightened by their supervisor. They all worked for Rose Tomlin,
+          who was manager for billing.
+
+(Id., 194).
+
+
+        The documentary record supports Ambush. Ambush notified the District of the AT&T
+billing irregularities in general by memorandum dated September 22, 1994 (Appellant’s Ex. 6),
+and reported them to AT&T with specificity in correspondence dated September 26, 1994.
+(Appellant’s Ex. 7). According to the AT&T account executive, Mr. Ambush did not attempt to
+contact her until “October or November 1994” (Tr. 179 (Eley)). She was very certain about the
+time period because, after the first call, not knowing who Mr. Ambush was, she called George
+Walker, chief of telecommunications for the Department of Administrative Services and learned
+that the Ambush contract was completed. “I knew it was after September 30.” (Tr. 186). Since
+Mr. Ambush’s first reports of the irregularities were as early as September 22, 1994, Mr.
+Ambush clearly was already aware of the overcharges when he first called the account executive
+and was alleged to “dial zero and basically go around [the AT&T] office until he could find a
+live person” claimed to be Ms. Cannon-Monk.12
+
+        The September letter was directed to Ms. Terry, not Ms. Cannon-Monk. (Appellant’s Ex.
+7). Ms. Terry was within the billing office, the proper office within AT&T to correct billing
+errors. When the account executive finally spoke to Mr. Ambush, she indicated that her “billing
+person was already working on these types of things.” (Tr.180) The fact that the billing office
+was working on the errors is not surprising, since Mr. Ambush had previously advised the billing
+office of the errors. When no response had been received for an additional two months, on
+November 28, 1994, Mr. Ambush spoke to Ms. Terry’s supervisor, Ms. Tomlin, the billing
+manager. (Appellant’s Ex. 8). As opposed to “enlightening” Ms. Terry and Ms. Cannon-Monk,
+Ms. Tomlin apparently asked Ms. Cannon-Monk to respond to Mr. Ambush. Ms. Cannon-Monk
+responded to Mr. Ambush in a memorandum dated December 9, 1994, estimating the refund
+amounts and stating that the delay in issuing the refund was determining the “sale in place” value
+of the equipment which, Ms. Cannon-Monk advised, “will have to be discussed with Sherri
+Eley.” (Id.).
+
+         AT&T did not respond as to the sale in place values for a further three more months. On
+April 3, 1995, Ms. Eley sent a letter to the Public Schools offering a settlement of the
+overpayment. (Appellant’s Ex. 9). Although Ms. Eley had advised Mr. Ambush that the billing
+person was working on the refund and although Ms. Eley had been copied on the December 9
+memorandum, neither the billing representative, Ms. Cannon-Monk, her colleague, Ms. Terry,
+nor her billing supervisor, Ms. Tomlin, was shown as receiving a copy of the April 3, 1995,
+letter. (Id.). A conversation on April 10, 1995, between Mr. Ambush and Ms. Cannon-Monk
+was confirmed by Ms. Terry in a memorandum of that date which stated the final amounts of the
+refunds for 613 G and 301 C Streets. Ms. Eley was shown as receiving a copy of the
+memorandum. The Board finds no indication from the correspondence that AT&T was taking
+
+12
+     Neither Mr. Walker, nor Ms. Cannon-Monk was presented by the District as a witness.
+                                              - 14 -         The Ambush Group, Inc. CAB No. D-1014
+
+
+
+
+any steps to correct the overbilling before Mr. Ambush brought it to the attention of the AT&T
+billing department and persisted in asserting the claims. The amount of the credit indicates that
+the overbilling had continued for over a year.
+
+        The District asks the Board to draw an inference that Ambush did not discover the
+unused, but billed, equipment because Mr. Ambush was unknown to Ms. Eley during the course
+of the audit. The District relies on testimony that Ms. Eley, the AT&T account representative
+working on the telecommunications upgrade, “had never heard of Mr. Ambush prior to October
+1994.” (Appellee’s Posthearing Brief, 19). Whether or not Ms. Eley knew of Mr. Ambush is
+not dispositive of whether Ambush had performed an equipment audit. Ms. Eley testified:
+
+
+       Keep in mind, I am giving my best guess at everything that it entails because my
+       responsibility was not a billing rep per se. But what it would entail for my billing
+       manager to do was to basically make sure that what they had was what we were billing
+       them for, and that is to sum it up in a nutshell.”
+
+(Tr. 180).
+
+
+        Ms. Eley’s summation of the billing manager’s responsibility is a clear statement of the
+Ambush audit function, to make sure that AT&T was billing the District correctly. The accuracy
+of the bills was the responsibility of the billing manager and her staff. On September 26, 1994,
+before the conclusion of the contract, Mr. Ambush properly contacted the billing representative,
+Ms. Terry, and followed up with the billing manager, Ms. Tomlin. Ambush introduced
+documentary evidence of these contacts. The District did not challenge the documents or offer
+testimony from the AT&T billing personnel rebutting Ambush’s evidence.
+
+       Ambush’s claims involve the Department of Public Works (“DPW”) and the D.C. Public
+Schools. The District offered the testimony of Ronald Brown of DPW, William Bernhardt of the
+Department of Administrative Services and Marjorie Coachman of the Public Schools. None of
+the witnesses could shed light on the issue of whether Ambush discovered the unused equipment.
+Although the District presented these witnesses to show that it was District employees, not
+Ambush, whose work resulted in the refunds, their testimony does not support that premise.
+
+        The DPW portion of this claim involves billing codes BAC 101 and 168. (Posthearing
+Brief, 17) When asked if he remembered “thinking about BAC 101 and BAC 168 . . . preparing
+or seeing a request for equipment disconnection or refund or reimbursement from your offices at
+DPW to DAS on either of those account codes,” Mr. Brown answered, “No, I do not, not at this
+time.” (TR. 106). After describing equipment disconnection procedures, Mr. Brown was asked
+“Do you remember that happening with the two accounts here, BAC 101 and BAC 168?” Mr.
+Brown responded “No, I do not.” (TR. 107).
+
+       It appears that Mr. Bernhardt was less than candid in his testimony. Although Mr.
+Bernhardt is shown as receiving a copy of Ambush’s September 22 memorandum which clearly
+advised that Ambush had “discovered a potentially large amount of over-billing with the AT&T
+                                                   - 15 -          The Ambush Group, Inc. CAB No. D-1014
+
+
+
+
+account, Mr. Bernhardt testified that he was unaware of Ambush’s claim for reimbursement for
+equipment until October or November of 1994 and specifically answered “No” as to whether he
+was aware prior to September 30, 1994, that Ambush was doing an equipment audit. (Tr. 145).
+On cross-examination Mr. Bernhardt conceded that Ambush could only have received AT&T
+invoices from his office and further stated that “they would have no reason to go to AT&T,
+except for long distance.” (Tr. 151). Mr. Bernhardt had previously testified that long distance
+billing did not come from AT&T, but rather came as a single package from Bell Atlantic (Tr.
+138), but gives no explanation as to why the AT&T invoices were provided.
+
+        At D.C. Public Schools, Ms. Coachman, the witness presented, was clearly not
+meaningfully involved in the audit of unused equipment. The Public Schools equipment which
+was disconnected was a Horizon system. (Tr. 181 (Eley)). Ms. Coachman denied that she was
+auditing unused equipment. (Tr. 170). When asked how long the Horizon equipment was not in
+operation she responded “Only about a month or two.” (Tr. 171). The record shows the Horizon
+equipment was unused for well over a year and that the schools were overbilled by nearly
+$60,000. (Appellant’s Exs. 9 and 11). Ms. Coachman stated that she worked with Ms. Eley on
+the refund, which may very well be accurate and is not inconsistent with the record. The record
+does not indicate Ms. Eley’s activity until December 1994; over two months after Ambush filed
+the District’s claim. (Appellant’s Ex. 8).
+
+           The District concluded its argument that Ambush had not done the work it claims by
+stating:
+
+
+           It is hard to imagine a professional telecommunications auditing company – much less
+           any professional organization – failing to keep contemporaneous records of the work it
+           claims to have done, particularly where there were as many individual components as
+           here and compensation was based on the value of each piece of work.
+
+(Appellee’s Posthearing Brief, 20).
+
+
+        Since it is undisputed that AT&T actually gave the District a credit of over $200,000, the
+process of instituting that credit must have begun somewhere. It is Ambush’s position that it
+reported the claim for credit for unused AT&T equipment. It is the District’s position that the
+credit was initiated either by the District or by AT&T.
+
+        Although the documentation produced by Ambush is sparse, the District produced no
+documentation whatsoever as to initiating the credits. Not a single document prepared by the
+District was introduced into the record or included in the Appeal File which referred to a claim to
+AT&T for unused equipment in any way. In addition, no witness testified that the District
+instituted any claim for refund. Similarly, not a single document prepared by AT&T indicated
+that AT&T itself had instituted the process which resulted in the credit. The record contains 3
+documents prepared by AT&T. (Appellant’s Exs. 8, 9 and 10). The earliest date of the AT&T
+documents was December 9, 1994, over two months after the first Ambush document. Two of
+the 3 documents specifically state that they were in response to inquires made by Mr. Ambush.
+                                               - 16 -          The Ambush Group, Inc. CAB No. D-1014
+
+
+
+
+(Appellant’s Exs. 8 and 9). Only one of the AT&T documents did not reference Ambush as its
+impetus. That document, which is dated April 3, 1995, Ms. Eley’s advice to the Public Schools
+of the amount of the credit to be granted, is silent at to how the credit was initiated. (Appellant’s
+Ex. 9). The Board notes, however, that the letter was sent over 6 months after Ambush made the
+claim to AT&T and nearly 4 months after a copy of a memorandum regarding the claim was
+shown as being sent to Ms. Eley. Testimony by the Public Schools indicated that Ms. Eley
+handled processing of the credit, but significantly gives no dates as to when Ms. Eley was
+involved. Ms. Eley did not testify as to who initiated the claim.
+
+       On the other hand, the Appeal File contains memoranda from Ambush dated prior to the
+completion of the contract advising the District and AT&T of the claim for unused equipment
+which were introduced into evidence without objection as to authenticity. (AF, Exs. 5 and 6).
+Two further memoranda prepared by AT&T responded to the claims by Ambush. (AF, Exs. 7
+and 8). If AT&T was actually working on refunding overpayments to the Public Schools at the
+time they received Mr. Ambush’s claim letter, it is unlikely that the responses to Mr. Ambush
+would not mention this fact. The responses, however, are totally devoid of any indication that
+AT&T was already processing a refund.
+
+        The preponderance of the evidence supports our finding that Ambush initiated the claim
+for refund. Since the District had the opportunity to introduce evidence challenging Ambush’s
+efforts in initiating the AT&T claims or to show that they were otherwise initiated, it can only be
+concluded that no such evidence exists. When Ambush pressed the claim on behalf of the Public
+Schools, it received written responses from AT&T confirming the progress toward ultimate
+payment. If copies of the initiating documents within AT&T and justification for payment of the
+claim were available, they would show when the claim was first raised to AT&T. In the absence
+of any other documentation or testimony, we find that Ambush initiated the equipment refund
+claim with AT&T in accordance with the contract scope of work.
+
+
+
+                                         CONCLUSION
+
+
+
+        It is unquestioned that Ambush was aware of and reported AT&T equipment overbilling
+to the District prior to the conclusion of the contract on September 30, 1994. Based on the
+record, Ambush submitted a reimbursement claim for the equipment with AT&T and followed
+proper procedures in pursuing that claim on behalf of the District. The District was advised of
+the equipment overbilling in general terms by memorandum dated September 22, 1994. The
+amounts were accurately quantified in a memorandum to AT&T dated September 26, 2004, also
+prior to the completion of the contract. The Ambush documents are the only evidence in the
+record as to the presentation of equipment reimbursement claims to AT&T. Pursuant to the
+contract, Ambush is entitled to the full amount of its claim, $135,259.72, plus interest at the rate
+of 4% from May 10, 1995, the date of its invoice to the District. (D.C. Code § 2-308.06 and D.C.
+                                         - 17 -       The Ambush Group, Inc. CAB No. D-1014
+
+
+
+Code § 2-3302(b)). Because there is no provision for attorneys’ fees in the Procurement
+Practices Act, Ambush’s claim for such fees is denied.
+
+       SO ORDERED
+
+
+
+July 8, 2004                                               /s/ Matthew S. Watson
+                                                     MATTHEW S. WATSON
+                                                     Administrative Judge
+
+
+Concur:
+
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+      /s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

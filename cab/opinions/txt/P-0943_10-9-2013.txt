@@ -1,0 +1,187 @@
+                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+Brentworks, Inc.                                                  )
+                                                                  )       CAB No. P-0943
+Solicitation No.: DCKA-2013-B-0035                                )
+
+
+For the Protester: Doris H. Brent, pro se. For the District of Columbia Government: Alton E. Woods,
+Esq., Assistant Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Administrative Judge Monica C. Parchment,
+concurring.
+
+                                               OPINION
+                                            Filing ID #54359083
+
+
+         Brentworks, Inc. (“Brentworks” or “protester”) filed a protest on July 9, 2013, challenging the
+District’s decision to award a contract to Premier Office & Medical Suppliers, LLC (“Premier”) under
+Solicitation No. DCKA-2013-B-0035 (“IFB” or “Solicitation”). The protester challenges the award on
+the grounds that the Office of Contracting and Procurement (“OCP”) incorrectly awarded preference
+points to Premium Suppliers, LLC and designated them, instead of Brentworks, the lowest responsible
+bidder. However, the District contends that Brentworks mistakenly identified a company other than
+Premier as the awardee and, in fact, OCP correctly applied preference points to Premier’s bid. In
+addition, the District argues that since the contract work was completed by the time the protest was filed,
+the protest should be denied. Having reviewed the record, the Board finds that OCP correctly evaluated
+and applied preference points to the submitted bids, which resulted in Premier having the lowest
+responsible bid. Furthermore, since the scope of work under the Solicitation was completed by the time
+the protest was filed, the Board dismisses the protest as moot.
+
+                                            BACKGROUND
+
+         On June 18, 2013, OCP issued IFB No. DCKA-2013-B-0035 for a contractor to provide 16,000
+20-gallon Treegator watering bags for the District’s Department of Transportation (“DDOT”) on behalf of
+the Urban Forestry Administration (“UFA”). (AR 3.) The IFB was posted in the Washington Times
+newspaper and on OCP’s website. (Id.) The IFB was designated for certified small business enterprise
+(“SBE”) bidders only pursuant to the provisions of the “Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005,” (the “Act”). D.C. Code § 2-218.01, et seq. (AR,
+Ex. 1, § B.2.) Due to time-sensitivity, the IFB included a shortened advertising period of 5 days, and
+required the contractor to deliver the items within two business days upon receipt of an order. (AR 3; AR,
+Ex. 1, § C.3.2.) Proposals were due by 2:00 p.m. on June 24, 2013. (AR, Ex. 1, § L.5.)
+                                                                                               Brentworks, Inc.
+                                                                                               CAB No. P-0943
+
+
+        Four contractors submitted bids by the deadline: (1) Swann Construction, Co., Inc. (“Swann
+Construction”) in the amount of $560,000.00; (2) Brentworks in the amount of $266,720.00; (3) C&E
+Services, Inc. of Washington (“C&E”) in the amount of $253,920.00; and (4) Premier in the amount of
+$280,000.00 (AR, Ex. 4). Under the provisions of the Act, certified businesses receive a reduction in
+price for a bid submitted in response to the IFB. (AR, Ex.1, § M.1.) The District has to apply the
+following preferences in evaluating bids from businesses certified as: small (3%), resident-owned (5%),
+longtime resident (5%), local (2%), local with a principal office located in an enterprise zone (2%),
+disadvantaged (2%), veteran-owned (2%), or local manufacturing (2%). (Id.) Twelve percent (12%) is
+the maximum number of preference points to which a certified business enterprise may be entitled. D.C.
+Code § 2–218.43(b). (AR, Ex.1, § M.1.2.)
+
+         Based on the criteria delineated by the Act, the bidders were entitled to the following preference
+point deductions: Swann Construction was entitled to a 9% discount, resulting in a bid total of
+$509,600.00; Brentworks was entitled to a 7% discount, resulting in a bid total of $248,049.00; C&E was
+entitled to a 7% discount, resulting in a bid total of $236,156.60; and Premier was entitled to a 12%
+discount, resulting in a bid total of $246,400.00. (AR, Exs. 4, 5.) After the preference point deductions,
+C&E was the apparent low bidder; however, C&E is listed as “Ineligible” on the General Services
+Administration’s Excluded Parties List System (“EPLS”).1 (AR, Ex. 7.) Therefore, C&E was precluded
+from being awarded the contract. See (Id.); 27 D.C. Mun. Regs. tit. 27, § 2212 (1988).
+
+        Consequently, on June 27, 2013, OCP awarded the contract to the next lowest bidder, Premier,
+and issued a Determination and Findings for Award to Other Than Low Bidder. (AR, Ex. 6.) Premier
+completed the contract by delivering 5,905 Treegator bags on June 28, 2013, and 10,095 Treegator bags
+on July 3, 2013. (AR, Ex. 11, ¶ 7.) OCP sent a letter to Brentworks on July 3, 2013, notifying it that
+Premier, with its estimated bid of $280,000.00 (the price before preference points were applied to the
+bid), had been awarded the contract having submitted the lowest responsive bid. (AR, Ex. 8.)
+
+        After receiving the letter from OCP, Brentworks contacted DDOT to question the award,
+claiming that “Premium Supplier, LLC” is not a DC Certified Business Enterprise. (Protest 1.) On July 9,
+2013, Brentworks filed the instant protest with the Board. (Id.)
+
+                                                               DISCUSSION
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1) (2011).
+
+         In its protest, Brentworks alleges that “Premium Suppliers, LLC” is not a “DC Certified Business
+Enterprise.” (Protest 1.) However, it appears that Brentworks mistook “Premium Suppliers, LLC” as the
+contract awardee instead of “Premier Suppliers, LLC,” the company identified in OCP’s July 3, 2013,
+letter to Brentworks. (AR 6; AR, Ex. 8.) In the Certified Contractors database for the Department of
+                                                            
+1
+   The Board notes that although the District cites EPLS as the source for its information concerning C&E, the
+District actually obtained the information from the System for Award Management which replaced EPLS for
+suspension and debarment information effective November 21, 2012. System for Award Management, Exclusion
+Summary, C&E Services, Inc. of Washington, https://www.sam.gov/portal/public/SAM/ (accessed June 25, 2013).
+
+                                                                   2 
+ 
+                                                                                            Brentworks, Inc.
+                                                                                            CAB No. P-0943
+
+
+Small and Local Business Development (“DSLBD”), “Premium Suppliers, LLC” does not produce any
+results; however, “Premier Office & Medical Suppliers, LLC,” the full business name of Premier, is
+actively listed in the database. (AR 6; AR, Ex. 5.) Furthermore, information from the DSLBD website
+confirms that Brentworks’ bid was entitled to receive a 7% preference point deduction, but Premier was
+entitled to receive a 12% preference point deduction. (AR, Ex. 5.)
+
+         The District’s procurement regulation provides that, “[t]he contracting officer shall award each
+contract to the responsible and responsive bidder whose bid meets the requirements set forth in the IFB,
+and is the lowest bid price or lowest evaluated bid price, considering only price and price-related factors
+included in the IFB.” 27 D.C. Mun. Regs. tit. 27, § 1541.1. The contracting officer correctly applied the
+evaluation criteria and preference factors as specified in the IFB, discounting Brentworks’ bid from
+$266,720.00 to $248,049.60 and discounting Premier’s bid from $280,000.00 to $246,400.00. (AR 7; AR,
+Ex. 1, § M; AR, Ex. 4.) The contracting officer then chose Premier as the responsible and responsive
+bidder with the lowest evaluated bid price. (AR 7; AR, Ex. 1, § M.)
+
+         In determining the propriety of an evaluation decision, “we examine the record to determine
+whether the decision was properly documented, reasonable and in accord with the evaluation criteria
+listed in the solicitation and whether there were any violations of procurement laws or regulations.” Busy
+Bee Envtl. Servs., Inc., CAB No. P-0617, 48 D.C. Reg. 1564, 1567 (July 24, 2000) (citing Trifax Corp.,
+CAB No. P-0539, 45 D.C. Reg. 8842, 8847 (Sept. 25, 1998)). Implicit in the foregoing is that the
+evaluation and selection decision must be documented in sufficient detail to show that it is not arbitrary.
+Health Right, Inc., D.C. Health Coop., Inc., George Washington Univ., CAB Nos. P-0507, P-0510, P-
+0511, 45 D.C. Reg. 8612, 8635 (Oct. 15, 1997). Based on the above calculations, OCP’s award to Premier
+was reasonable, consistent with the criteria listed in the Solicitation, and the record contains sufficient
+documentation on the bids and selection decision to support the District’s contract award.
+
+         Moreover, although the protest was timely filed on July 9, 2013, within 10 days of notice of
+contract award, the issues raised in this protest are now moot because Premier completed the IFB’s scope
+of work on July 3, 2013. (AR 8.) A case is moot when the issues are academic and there is no possible
+remedy which the Board could order were it to grant the protest. Fort Myer Constr. Corp., CAB No. P-
+0641, 49 D.C. Reg. 3378, 3380 (Aug. 16, 2001) (citing C & E Services, Inc., CAB No. P-0360, 40 D.C.
+Reg. 5020, 5022 (Mar. 12, 1993)). Per the IFB, the Treegator bags were to be delivered within two
+business days of receipt of contract award. (AR, Ex. 1, § C.3.2.) Although Premier did not complete
+delivery until July 3rd, six days after contract award, the Treegator bags were “immediately used by the
+District.” (AR 8.) DDOT has also indicated that it will not purchase any additional bags. (AR 8; AR, Ex.
+11, ¶ 8.) Because the scope of work under the Solicitation has been performed, eliminating any further
+need for the services solicited, the issue is moot as there is no available remedy to the protester. Fort
+Myer Constr. Corp., CAB No. P-0641, 49 D.C. Reg. at 3380.
+
+                                            CONCLUSION
+
+        For the reasons discussed herein, we find that OCP correctly applied the certified business
+preference points to each bidder and properly awarded the contract to Premier, the responsible and
+
+
+
+                                                    3 
+ 
+                                                                                          Brentworks, Inc.
+                                                                                          CAB No. P-0943
+
+
+responsive bidder with the lowest evaluated bid price. In addition, the contract work was already
+completed by the time Brentworks filed the instant protest. Accordingly, we dismiss the protest as moot.
+
+SO ORDERED.
+
+DATED: October 9, 2013                                  /s/ Maxine E. McBean
+                                                        MAXINE E. MCBEAN
+                                                        Administrative Judge
+
+CONCURRING:
+
+/s/ Monica S. Parchment
+MONICA S. PARCHMENT
+Administrative Judge
+
+Electronic Service to:
+
+Doris H. Brent, President
+Brentworks, Inc.
+1776 Eye Street, N.W., Suite 900
+Washington, D.C. 20006
+
+Alton E. Woods, Esq.
+Assistant Attorney General
+Office of the Attorney General
+55 M Street, S.E., 7th Floor
+Washington, D.C. 20003
+
+
+
+
+                                                   4 
+ 
+

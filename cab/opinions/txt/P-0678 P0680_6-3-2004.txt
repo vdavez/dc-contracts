@@ -1,0 +1,586 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+ATLANTIC TRANSPORTATION EQUIPMENT, LTD.                       )
+                                                              )      CAB Nos. P-0678, P-0680
+Under Contract No. GAGA-2004-C-0014                           )         (Consolidated)
+
+      For the Protester, Sean W. Glynn, Esq., William W. Goodrich, Esq., Arent Fox Kintner Plotkin
+& Kahn, PLLC. For the District of Columbia Public Schools: James A. Baxley, Esq., Deputy General
+Counsel, Lee Rideout, Esq., Office of the General Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Matthew S. Watson and Warren J. Nash, concurring.
+
+                                             OPINION
+                                      LexisNexis Filing ID 3676953
+
+        Atlantic Transportation Equipment, Ltd. (“ATEL”), has protested the award of a letter contract
+by the District of Columbia Public Schools (“DCPS”) to Laidlaw Transit, Inc., for the 12 month leasing
+of 90 school buses for the 2003-2004 school year. ATEL argues that DCPS made an illegal sole source
+award to Laidlaw, that ATEL was capable of meeting the requirements for the procurement, but that
+DCPS only issued a solicitation to Laidlaw. DCPS does not claim that this was a competitive
+procurement or an emergency procurement. Rather, DCPS states that this was a “single available
+source” procurement authorized by 27 DCMR § 1702.1.
+
+        The Procurement Practices Act does not create an exception to competition on the basis of
+“single available source” as a method differing from sole source procurements. Accordingly, DCPS
+had to justify departing from the competition requirements by meeting the criteria for a sole source
+award. We conclude that DCPS has not demonstrated in the record a legitimate basis for conducting a
+sole source procurement. ATEL claims that the violations were so serious that the contract to Laidlaw
+must be declared void ab initio. Although DCPS violated statutes and regulations, we conclude that the
+DCPS violations, when considered in the context of the critical need for buses for the beginning of the
+school year, were not so substantial as to render the contract award to Laidlaw void ab initio. We
+conclude, nevertheless, that Laidlaw has been performing without a valid contract for over three
+months. DCPS never definitized the letter contract, and by late February 2004 the value of Laidlaw’s
+performance exceeded both the not-to-exceed amount of the letter contract and the Council’s statutory
+review threshold of $1,000,000. Because DCPS has neither requested nor received Council approval,
+performance by and payments to Laidlaw after late February 2004 have violated D.C. Code §§ 1-204.51
+and 2-301.05a.
+
+       We sustain the protest, directing that DCPS promptly conduct a competition for its current bus
+requirements, and that ATEL recover its reasonable proposal preparation costs and costs of pursuing the
+consolidated protests.
+                                                  -2-                      ATEL, CAB Nos. P-0678, P-0680
+
+
+
+
+                                              BACKGROUND
+
+        At the beginning of the 2003-2004 school year, DCPS was required by law to transport 3,790
+special education students to their school programs, which are located at over 239 sites in the District,
+Maryland, and Virginia. To provide appropriate transportation services, DCPS operates 566 different
+bus routes which requires DCPS to acquire and operate a fleet of at least 623 school buses. (Dec. 8,
+2003 Determination and Findings to Proceed with Contract Performance,Gilmore Aff. ¶ 4). For prior
+school years, Laidlaw and ATEL had been leasing large numbers of school buses to DCPS.
+
+        On May 9, 2003, DCPS issued a Request for Quotation (“RFQ”) for a 12-month lease of an
+additional 60 Passenger Class “C” school buses with a deadline for quotations of May 13, 2003. (Joint
+Ex. 1). DCPS sent this RFQ to six different vendors, including ATEL and Laidlaw. (Comisiak Dep.
+22-24 (Joint Ex. 19)). The RFQ consisted of a facsimile cover page from Walter J. Comisiak, a contract
+specialist for DCPS’s Office of Contracts and Acquisitions, and a one-page RFQ, stating in pertinent
+part: “Please provide the price for a 12 month lease on class C school buses.” Three different size
+buses were specified: 35-Passenger (quantity of 40), 30-Passenger equipped with wheelchair lift
+(quantity of 10), and 42-Passenger (quantity of 10). The RFQ asked for the unit price of each size bus
+to be quoted as a monthly lease amount for the 12 months.
+
+        On May 12, 2003, Comisiak sent an email to the vendors with the subject line of “60 bus emer.
+sol.” making a number of clarifications to the RFQ, including requesting a purchase price per vehicle,
+stating that DCPS prefers new buses but that 1999 or newer models with less than 60,000 miles would
+be satisfactory, that the vendors “use specifications from Solicitation GAGA 2003-B-0119 as a guide
+(doesn’t have to be exact)”, and that vendors “must meet the seating requirements in the RFQ.” (Joint
+Ex. 2).
+
+        Comisiak sent ATEL an email on May 30, 2003, with the subject line “Emergency RFQ”,
+requesting that ATEL send the quotation information to him and to another DCPS representative.
+ATEL’s George Lowe responded minutes later by reply email providing a quotation to DCPS, with
+terms for the 60 buses, including a lease period of 12 months, and pricing reflecting the same unit price
+recently negotiated between DCPS and ATEL for a 1-year extension to an existing “200+ bus contract.”
+Lowe added that ATEL “will require the existing one year contract to be executed and the additional 60
+buses to be in a separate contract for 12 months” and that DCPS must verify “that funding for the new
+60 bus contract as well as funding for the remaining duration of the 1 year extension contract is in
+place.” (Joint Ex. 3). The record does not contain a quotation from Laidlaw but one other vendor
+quotation is summarized in a quote tabulation prepared by DCPS. Of the two quotations tabulated,
+ATEL’s terms appear to be the more favorable. (Joint Ex. 21).
+
+        Over the following weeks, ATEL and DCPS representatives held numerous discussions and
+exchanged emails. The discussions included the clarifications sought by ATEL, such as the DCPS
+source of funding for the 60-bus procurement and the bus specifications set forth in the RFQ. Business
+terms, including pricing and length of contract were also discussed. ATEL was also concerned about
+significant delays in large payments due it from DCPS on other ongoing bus contracts with DCPS.
+(Joint Exs. 2-8, 12, 13).
+                                                 -3-                      ATEL, CAB Nos. P-0678, P-0680
+
+
+         On the evening of July 3, 2003, Brian Benton, the Chief Financial Officer of ATEL, received a
+phone call from 4 or 5 DCPS representatives including Cedran Kirksey, Kennedy Khobo, and
+Fitzgerald Wade. (Joint Ex. 5). DCPS said that the 60 buses that ATEL had bid on were needed right
+away, in fact, by Monday morning, July 7. (Joint Ex. 5). Benton reminded the DCPS representatives
+that ATEL was still awaiting acceptance of its terms and confirmation of the requested clarifications,
+and an update on the status of overdue payments owed to ATEL under its other contracts with DCPS.
+(Joint Ex. 5). Benton also stated that it would be difficult to dispatch a fleet of buses on such short
+notice. Khobo then proposed that ATEL “lend” DCPS the buses. Benton said that ATEL needed to be
+paid its outstanding balance. Khobo said that he would hate to see a newspaper article which indicated
+that children did not get picked up as a result of ATEL not providing the buses. (Joint Ex. 5, Benton
+Dep. 7-8 (Joint Ex. 22)).
+
+        During the following week there were further conversations and Comisiak set up a meeting on
+July 14, 2003. It was attended by an ATEL representative, Comisiak, and some of the DCPS
+representatives who had previously spoken to Benton on July 3 inquiring about the delivery of the 60
+buses. At the meeting there was further discussion concerning the specifications for the buses and the
+funding for the contract. DCPS indicated that the specifications were being relaxed. (Comisiak Dep.
+13, 26).
+
+        On July 24, 2003, it appears that Comisiak faxed to Laidlaw a hand-annotated version of the
+original May 9 RFQ. (Joint Ex. 27). The only difference appearing on this document was that the
+quantity of buses was increased as follows: the quantity of 35-Passenger buses was increased from 40
+to 65, the quantity of 30-Passenger buses equipped with wheelchair lifts was increased from 10 to 15,
+and the quantity of 42-Passenger buses remained the same at 10. Thus, the RFQ sought a 12-month
+lease price for a total of 90 buses.
+
+       Comisiak and the DCPS contracting officer, Annie Watkins, recall hearing, probably from
+Fitzgerald Wade of DCPS, about an increased requirement of 90 rather than 60 buses, sometime in late
+July 2003. (Watkins Dep. 12-14; Comisiak Dep. 52-57). Watkins thought she instructed Comisiak
+around July 30, 2003, to send an informal request for quotation to both Laidlaw and ATEL for the new
+90-bus requirement. Comisiak thought he sent the requirement to both Laidlaw and ATEL around July
+30. (Id.).
+
+        We find from the record that Comisiak inexplicably failed to fax to ATEL the same hand-
+annotated RFQ that apparently he faxed to Laidlaw on July 24. Unfortunately, Comisiak was not
+questioned about the July 24, 2003 RFQ found at Joint Ex. 27 at the time of his deposition because
+DCPS could not locate any RFQ or solicitation for the 90-bus requirement until the Board ordered
+DCPS to obtain such documents from Laidlaw. DCPS did not obtain Laidlaw’s documents until the
+end of the hearing on March 10, 2004, which was conducted to obtain testimony from David Gilmore,
+the DCPS Transportation Administrator.
+
+       In an email sent to Laidlaw representatives bearing a date of July 30, 2003, and a time of 8:27
+a.m., Comisiak, stated the following: “Please provide price and delivery for 95 buses w/ maintenance.
+ASAP. Thanks; Walt.” (Joint Ex. 29). Laidlaw responded at 8:50 a.m.:
+
+       Walt – Do you have any specs for the buses or the term of the lease (should we assume
+                                                 -4-                      ATEL, CAB Nos. P-0678, P-0680
+
+
+       1 year)? I assume we could roll these additional buses into our existing (unsigned) lease
+       agreement. Please let me know ASAP. Thanks! -- Steve”
+
+(Joint Ex. 29). The Laidlaw representative responding to the July 30 email apparently was unaware of
+the earlier July 24, 2003 hand-annotated RFQ that had been faxed to another office of Laidlaw.
+
+        Although Comisiak thought that he must have sent a similar email request to ATEL for the 90
+(or 95) bus requirement, he could find no evidence of sending such an email, and ATEL states that it
+never received any email. We find that DCPS failed to send to ATEL the hand-annotated RFQ, or any
+document indicating the new requirements, at any point in July 2003.
+
+        Meanwhile, however, ATEL had arranged for a meeting on July 30, 2003, with David Gilmore,
+the recently court-appointed Transportation Administrator for DCPS, and Patrick Kean, Gilmore’s chief
+operating officer, to discuss the large payments DCPS owed to ATEL on its existing bus contracts.
+Attending the meeting for ATEL were Brian Connolly, its CEO, and George Lowe, its consultant for
+the bus contracts. Gilmore had been appointed Transportation Administrator by order of the United
+States District Court on June 25, 2003. (Joint Ex. 25; Hearing Tr. 6-7). At the meeting, Gilmore
+opened by asking Connolly, “Where’s my buses?” (Lowe Dep. 15). Lowe responded, “Where’s our
+money?” (Lowe Dep. 17-18). ATEL also inquired whether DCPS had a source of funding to acquire
+the 60 buses it was now soliciting. (Lowe Dep. 15). Gilmore advised the ATEL representatives that
+the bus requirements had changed from 60 to 90 buses based on a recent DCPS report. (Lowe Dep. 14).
+ This was the first indication ATEL had that the requirement was for 90, rather than 60, buses. During
+the meeting, Gilmore shared with the ATEL representatives a copy of the United States District Court
+order appointing him as Transportation Administrator for DCPS. (Lowe Dep. 17). Gilmore stated that
+he intended to use funds from the $11 million account that was established under the court order to
+bring DCPS’s overdue account with ATEL current. (Lowe Dep. 19). The same $11 million account
+would be used to fund the new bus requirement. Gilmore indicated that he had authority to make
+procurement commitments on behalf of DCPS. (Hearing Tr. 28-29; Lowe Dep. 18; Benton Dep. 14-
+15). Gilmore later testified that although the court order provided him contracting authority, he would
+use DCPS ancillary services such as procurement and would make use of his contracting authority only
+if DCPS’s contracting office was unable to timely execute the procurements that were needed.
+(Hearing Tr. 45-47).
+
+        When Connelly and Lowe indicated that ATEL was willing to proceed based upon Gilmore’s
+assurances, the ATEL representatives and Gilmore then discussed at least one term concerning the
+anticipated contract, namely the length of the contract. ATEL proposed a term of 60 months. Although
+the testimony is conflicting, we find it more likely than not that Gilmore took no position but merely
+asked his associate, Kean, to “work out the details” with ATEL. Thus, it was understood by the
+meeting attendees that ATEL would submit a proposal after clarifying the details with Kean for the 90-
+bus requirement. (Lowe Dep. 22). Gilmore most likely knew about and recommended the actions
+taken by the DCPS contracting office starting in early to mid-July 2003. (Comisiak Dep. 64). He
+probably also knew about and perhaps directed that an RFQ for the 90 buses be sent to Laidlaw. He
+most likely gave instructions that directly or indirectly prompted Comisiak to email Laidlaw about the
+new bus requirement on July 30, coincidentally at the time Gilmore’s meeting with ATEL was in
+progress.
+                                                   -5-                       ATEL, CAB Nos. P-0678, P-0680
+
+
+        ATEL states that it immediately began procuring (or at least identifying) the necessary 90 buses.
+Lowe attempted several times unsuccessfully to reach Kean by telephone after the meeting to work out
+the details of the proposal. Although ATEL representatives were unable to reach Kean, ATEL
+nevertheless submitted a letter proposal to Kean on August 4, 2003, reflecting the discussions Lowe and
+Connolly had with Gilmore during the July 30 meeting. ATEL quoted a price of $1,901 per month per
+“full-sized” vehicle for a 60-month lease-maintenance term. DCPS assumed that the price applied to a
+48 passenger bus, but ATEL did not specify the size of the buses that it would be providing perhaps
+because it did not know the specifications for the 90 buses. That information was contained in the July
+24 hand-annotated RFQ but ATEL never received that document or any other written form of
+solicitation or RFQ for the 90-bus requirement. (Lowe Dep. 36).
+
+         Laidlaw responded to the July 24 hand-annotated RFQ in a letter dated August 1, 2003, with a
+listing of the 90 specific buses that it proposed to provide. It quoted the same per vehicle per year price
+contained in its existing lease-maintenance agreement with DCPS. (Joint Ex. 9). On a monthly basis,
+the price was $1,827.43. Laidlaw modified its response by letter dated August 5, 2003, providing
+information about delivery, including possible delivery delays. (Joint Ex. 11).
+
+         The DCPS contracting officer, Annie Watkins, testified that the 90-bus requirement was a new
+and different requirement and that the prior 60-bus RFQ was “dead” as of August 1, 2003. (Watkins
+Dep. 34-35 (Joint Ex. 23)). Watkins understood ATEL’s August 4, 2003 letter (Joint Ex. 10) to be its
+bid in response to the new 90-bus procurement. (Watkins Dep. 35). By emails exchanged on August 5,
+2003, ATEL (Mr. Lowe) asked DCPS “when is my contract going to be available?” DCPS (Mr.
+Comisiak) responded, “When I say so.” (Joint Ex. 12).
+
+        Gilmore and DCPS had determined that DCPS would only consider a 12-month lease. The facts
+show that neither Gilmore nor DCPS communicated to ATEL that its 60-month lease term proposal for
+the 90-bus requirement would not be considered unless the term was 12 months. Watkins testified that
+she never discussed with ATEL whether ATEL would have been willing to quote the 90 buses under a
+12-month lease arrangement rather than the 60-month term provided in its letter proposal. (Watkins
+Dep. 31). It is also clear that Comisiak never discussed with ATEL whether ATEL would have been
+willing to price the 90 buses under a 12-month lease term. (Id.) We accept Lowe’s testimony that
+DCPS never told ATEL that it would consider offers for the 90-bus procurement only if the offered
+term was 12 months or less. (Lowe Dep. 38). ATEL states that it would have quoted a price using a
+12-month lease term if it had known that to be a requirement. Indeed, it previously had quoted a 12-
+month lease term for the 60-bus RFQ.
+
+       DCPS awarded Letter Contract No. GAGA-2004-C-0014 to Laidlaw on August 15, 2004. (Joint
+Ex. 14). The letter contract provides that Laidlaw was to lease to and maintain 90 buses for DCPS for
+the period August 27, 2003, through August 26, 2004, with a monthly vehicle lease/maintenance
+payment of $164,468.67. (Joint Ex. 14, at 4 (Section B.1)). The letter contract also states:
+
+       DCPS intends to definitize this letter contract within 60 days from date of award of this
+       letter contract, at which time this letter contract shall merge with the definitized
+       contract. Before expiration of the 60 days, the Contracting Officer may authorize an
+       additional period in accordance with [27 DCMR 2425.9] . . . . If DCPS does not
+       definitize this letter contract within 60 days of the date of award . . . or any extension
+                                                    -6-                        ATEL, CAB Nos. P-0678, P-0680
+
+
+       thereof, this letter contract shall expire. In the event of expiration of this letter contract,
+       DCPS shall pay the Contractor for the services performed under this letter contract in an
+       amount not to exceed $328,937.40 In no event shall the amount paid under this letter
+       contract or any extension thereof exceed (50%) of the total definitized contract amount.
+
+       The duration of the definitized contract shall be from date of award through one year
+       thereafter. DCPS shall pay the Contractor for services performed during the first year of
+       the definitized contract in an amount not to exceed $1,973,619.90.
+
+(Joint Ex. 14, at 1). The letter contract provided the following timeline for definitizing the contract:
+
+       September 1, 2003:               Transmit definitive contract to Contractor for signature.
+       September 5, 2003:               Transmit definitive contract to Board of Education for approval.
+       September 16, 2003:              Transmit definitive contract to City Council for Approval.
+       October 1, 2003:                 Award definitive contract.
+
+         Also on August 15, DCPS’s Chief Procurement Officer, Debor Dosunmu, and Watkins executed
+a determination and findings (“D&F”) in regard to the award of Contract No. GAGA-2004-C-0014.
+The D&F cites 27 DCMR § 1702.3(b) as “authorization.” That provision authorizes a procurement on a
+sole source basis “based on the particular source’s ownership or control of limited rights in data, patent
+rights, copyrights or trade secrets related to the required supplies.” The D&F implies that Laidlaw is
+the only available source capable of supplying the buses in the timeframe needed by DCPS. (Joint Ex.
+15).
+
+       On Tuesday, August 19, 2003, Lowe learned that additional school buses were arriving at the
+DCPS lot on New York Avenue. (Lowe Dep. 38; Joint Ex. 18). On September 2, 2003, ATEL filed
+with the Board its initial protest of the award by DCPS to Laidlaw. (CAB No. P-0678). On October
+10, 2003, ATEL filed a supplemental protest (CAB No. P-0680), alleging that DCPS had not received
+approval from the Council pursuant to D.C. Code § 2-301.05a (requiring Council approval for contracts
+in excess of $1,000,000) for the Laidlaw contract. The Board consolidated the two protests. In a
+January 8, 2004 filing, DCPS responded to the supplemental protest ground as follows:
+
+       The amount to be paid to the Contractor under the definitized contract is $1,973,619.90.
+       The letter contract has not yet been definitized. Therefore, the maximum amount that
+       could be paid under the letter contract is $986,809.95, or 50% of the definitized amount.
+       Thus, D.C. Code Ann. § 2-301.05a is not implicated because the amount of the letter
+       contract can not exceed $1,000,000.
+
+        The parties attempted to settle the protests but those efforts were unsuccessful. The Board
+conducted a hearing on March 10, 2004, to receive the testimony of David Gilmore. The parties
+thereafter filed closing briefs and replies.
+
+        On June 2, 2004, the Board conducted a telephone conference with the parties to inquire about
+whether the letter contract with Laidlaw had ever been definitized and submitted to the Council for
+approval. DCPS counsel states that Laidlaw is still providing the 90 buses to DCPS purportedly under
+the letter contract. DCPS explains that it decided not to definitize the letter contract and intended
+                                                   -7-                       ATEL, CAB Nos. P-0678, P-0680
+
+
+merely to let the letter contract expire at the end of the anticipated definitized contract term of August
+26, 2004. In response to the Board’s inquiries regarding any extension of the letter contract, DCPS
+submitted 6 modifications of the letter contract (documents that DCPS should have previously filed as
+part of its ongoing obligation to advise the Board of any changes to the contract at issue). Modification
+No. 1, dated October 13, 2003, extended the term of the letter contract through November 30, 2003, and
+increased the price from $328,937.40 to $581,122.04. Modification No. 2, dated November 21, 2003,
+extended the term of the letter contract through January 31, 2004, and increased the price to
+$897,146.64. Modification No. 3, dated February 26, 2004 (with an effective date of February 1, 2004),
+extended the term of the letter contract through February 29, 2004, and purported to increase the price
+to $1,048,611.90, but also contradictorily states that “the total letter contract value remains unchanged.”
+ Modification No. 4, also dated February 26, 2004 (with an effective date of February 1, 2004),
+purported to extend the term of the letter contract through May 31, 2004, and to increase the price to
+$1,529,122.38. Like Modification No. 3, it contains the statement that “the total letter contract value
+remains unchanged.” Modification No. 5, dated March 5, 2004, “corrects the amount stated for each
+preceding modification” and purports to increase the price to $1,569,194.22. Modification No. 6, dated
+April 30, 2004 (with an effective date of March 5, 2004), purports to extend the term of the letter
+contract through June 30, 2004, and to increase the price to $1,736,817.11. It contains the statement
+that “the total letter contract value remains unchanged.” All of the modifications are signed by
+Watkins, the DCPS contracting officer.
+
+                                                 DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        DCPS takes the position that the contracting officers in this matter correctly determined, based
+on the information presented to them, that Laidlaw was the only supplier of buses that was available to
+supply DCPS the 90 buses it needed for a one-year lease term at that time. DCPS points out that
+ATEL’s proposal for a 60-month lease was inconsistent with DCPS’s requirement for a 12-month lease
+term. Laidlaw’s proposal correctly quoted the buses for a 12-month lease term. The problem with
+DCPS’s argument is that the contracting officers and the contract specialist all admitted that ATEL was
+capable of providing the buses. The reason ATEL did not quote a 12-month term is that it was never
+informed by DCPS that a 12-month term was required. ATEL never received the hand-annotated RFQ
+of July 24, 2003, because Comisiak and the contracting officers never followed through to make sure
+that both suppliers had received the same RFQ. ATEL had quoted a 12-month term for the original 60-
+bus RFQ and there is nothing in the record to suggest that ATEL was incapable of quoting under the
+same terms for the 90-bus requirement. It did not do so because Gilmore asked ATEL at the July 30
+meeting what terms it wished to have for a contract and ATEL had proposed a 60-month lease. Further,
+when ATEL attempted to contact Kean, who was Gilmore’s assistant, to work out the details of the
+proposal, Kean never responded and ATEL was forced to submit a proposal with no guidance as to the
+length of the lease term as well as the quantities of the various sizes of the 90 buses needed by DCPS.
+To compound the error, Comisiak sent an email request for a quote to Laidlaw on July 30 but did not
+send a similar email to ATEL. After Laidlaw had submitted a quote on August 1 and ATEL had
+submitted a quote on August 4, it had to have been clear to the contracting officers and the contract
+specialist that the suppliers were not quoting to the same terms and specifications. Instead of contacting
+ATEL and asking it to resubmit a quotation according to the desired terms and bus specifications,
+DCPS’s contracting officials did nothing to obtain a level of competition that was easily obtainable.
+                                                  -8-                       ATEL, CAB Nos. P-0678, P-0680
+
+
+DCPS ignored ATEL’s inquiries and went ahead with an award to Laidlaw.
+
+        DCPS cites 27 DCMR § 1702. as its authority for making an award based on Laidlaw being the
+single available source. We do not agree with DCPS that the single available source authority is by
+nature something different from a sole source award. On the contrary, it is simply a species of a sole
+source award and therefore must meet the requirements for a sole source award. The Procurement
+Practices Act mandates fair and open competition in procurements except in very limited circumstances
+such as a sole source procurement authorized by D.C. Code § 2-303.05 which provides:
+
+              (a) Procurement contracts may be awarded through noncompetitive negotiations
+       when under rules implementing this section, the Director or the Director's designee
+       determines in writing that one of the following conditions exists:
+
+               (1) There is only 1 source for the required commodity, service, or construction
+       item;
+
+               (2) The contract is for the purchase of real property or interests in real property;
+
+               (3) The contract is with a vendor who maintains a price agreement or schedule
+       with any federal agency, so long as no contract executed under this provision authorizes
+       a price higher than is contained in the contract between the federal agency and the
+       vendor;
+
+              (3A) The contract is with a vendor who agrees to adopt the same pricing
+       schedule for the same services or goods as that of a vendor who maintains a price
+       agreement or schedule with any federal agency, if no contract executed under this
+       paragraph authorizes a price higher than is contained in the contract between the federal
+       agency and the vendor; or
+
+              (4) Contracts for the purchase of commodities, supplies, equipment, or
+       construction services that would ordinarily be purchased on a competitive basis when an
+       emergency has been declared pursuant to § 2-303.12.
+
+        DCPS did not meet the requirements for a sole source award in this case. The DCPS contracting
+officers and the contract specialist conceded that the only reason for awarding to Laidlaw was that
+Laidlaw had proposed a 12-month lease term and ATEL had proposed a 60-month lease term. But, it is
+equally clear that ATEL was never given an opportunity to propose a 12-month lease term for the 90-
+bus requirement. Indeed, ATEL was not even provided the quantities of buses by passenger size and
+specifications. Watkins’ reason for not issuing a solicitation under the provisions for competitive
+sealed proposals is that she believed that neither supplier could deliver all 90 buses on short notice and
+that DCPS would therefore simply negotiate a modification of their existing (and apparently
+unexecuted) contracts and add additional buses to those contracts. But, in fact, DCPS did not add the
+90 buses to the existing Laidlaw and ATEL contracts but rather executed a single new contract with
+Laidlaw.
+
+       The DCPS contracting personnel stated that the procurement of the 90 buses was not an
+                                                  -9-                      ATEL, CAB Nos. P-0678, P-0680
+
+
+emergency procurement as defined in D.C. Code § 2-303.12(a). DCPS contracting officials never
+prepared a determination declaring an emergency procurement as required by D.C. Code § 2-
+303.12(a)(3). In any event, even under what appeared to be emergency conditions here, DCPS could
+have and should have obtained competition from at least Laidlaw and ATEL. If DCPS had sent the
+same hand-annotated July 24 RFQ to both Laidlaw and ATEL, it would have achieved a reasonable
+measure of competition between these two suppliers.
+
+       In sum, DCPS violated basic procurement law by failing to justify the sole source award to
+Laidlaw, failing to use a competitive method for procuring the buses, failing to provide the same terms
+and specifications to the suppliers who were capable of competing, and failing to treat each of the
+suppliers in a fair and equal manner.
+
+        For the reasons discussed above, we sustain ATEL’s consolidated protests. ATEL asserts that
+the violations were so substantial as to render the award to Laidlaw void ab initio. We find that the
+actions of DCPS were arbitrary and irrational, but we decline to conclude that the violations render the
+contract void ab initio.
+
+         Some of the errors resulted from a lack of diligence and poor contracting practices while others
+resulted from the unique situation of a newly court-appointed Transportation Administrator facing a
+critical need for additional buses with a new school year ready to begin. The contracting officer claims
+that she instructed the contract specialist to send the 90-bus requirement to both ATEL and Laidlaw.
+The contract specialist states that he thought he did send the requirement to both. The contracting
+officers and the contract specialist did not maintain proper records, being unable to produce any of the
+materials sent to Laidlaw or allegedly sent to ATEL. Only after we ordered DCPS to obtain the critical
+documentation from Laidlaw, which Laidlaw had in its files, were we able piece together some of the
+key events in the procurement. The contracting officer is responsible for making sure that
+procurements are properly done. The communications by the contracting office with the suppliers were
+vague, incomplete, replete with errors, carelessly transmitted, lacking proper instructions, and not
+maintained in the contract file. The contracting officer was not diligent in following up with the
+contract specialist to make sure that both suppliers had received the same requirements information
+against which to submit a quotation. And after the proposals (Laidlaw’s August 1 proposal and
+ATEL’s August 4 proposal) were submitted, the contracting officer certainly should have realized that
+DCPS had not provided the same information to both suppliers. At that point, the contracting officer
+should have contacted ATEL and discovered why it quoted a 60-month term rather than a 12-month
+term, and why it did not specify the quantities and specifications for the buses. With those actions,
+DCPS would have learned that ATEL did not receive the July 24 hand-annotated RFQ, and DCPS could
+have instructed ATEL to resubmit its quotation based on the RFQ rather than on the verbal and
+undefined terms given to ATEL by Gilmore.
+
+       As mentioned above, part of the problem also stems from the fact that the DCPS procurement
+personnel (contracting officer and contract specialist) were dealing with Laidlaw, while the court-
+appointed Transportation Administrator (Gilmore) was dealing (on a single occasion, i.e., July 30) with
+ATEL at the critical time for the 90-bus procurement. ATEL was unable to get clear specifications
+from Gilmore or his assistant, Kean, the DCPS contracting office withheld vital information from
+ATEL, and ATEL did not know that DCPS contracting personnel were dealing with Laidlaw. Both
+suppliers thought that they were in individual negotiations for the 90-bus requirement. As a result,
+                                                 - 10 -                   ATEL, CAB Nos. P-0678, P-0680
+
+
+there was confusion among not only the bus suppliers (principally ATEL) but also Gilmore and the
+DCPS contracting office. Gilmore testified that he did not use the contracting authority he was granted
+in the court order which appointed him but in fact his “recommendations” were acted upon by the
+contracting officers and the contract specialist. In any event, it was the DCPS contracting officer, not
+Gilmore, who executed the letter contract with Laidlaw.
+
+       At this point, termination as a remedy is moot. The August 2003 letter contract that DCPS
+signed with Laidlaw has no legal force. By its terms, it was to be effective for 60 days, subject to
+extensions pursuant to 27 DCMR § 2425.9, which provides:
+
+       The contracting officer shall execute a definitive contract within one hundred and
+       twenty (120) days after the date of execution of the letter contract or before completion
+       of fifty percent (50%) of the work to be performed, whichever occurs first. The
+       contracting officer may authorize an additional period if the additional period is
+       approved in writing by the head of the contracting agency.
+
+       DCPS has submitted extensions purportedly through June 30, 2004. However, the letter
+contract provides that in no event shall the amount paid under the letter contract or any extension
+exceed 50 percent of the total definitized contract amount of $1,973,619.90. Thus, the letter contract
+had a not-to-exceed amount of $986,809.95, which is less than the $1,000,000 threshold for Council
+approval under District law. Normally, only definitized contracts are submitted to the Council. D.C.
+Code § 1-204.51 (formerly D.C. Code § 1-1130 (2001)) provides in relevant part:
+
+       (b) Contracts exceeding certain amount.
+
+                (1) In general. -- No contract involving expenditures in excess of $ 1,000,000
+       during a 12-month period may be made unless the Mayor submits the contract to the
+       Council for its approval and the Council approves the contract (in accordance with
+       criteria established by act of the Council).
+
+In addition, D.C. Code § 2-301.05a (entitled “Criteria for Council review of multiyear contracts and
+contracts in excess of $1 million”) (formerly D.C. Code § 1-1181.5a (2001)) provides in part:
+
+               (a) Pursuant to § 1-204.51, prior to the award of a multiyear contract or a
+       contract in excess of $ 1,000,000 during a 12-month period, the Mayor or executive
+       independent agency or instrumentality shall submit the proposed contract to the Council
+       for review and approval in accordance with the criteria established in this section.
+
+               ....
+
+                (d) After July 28, 1995, no proposed multiyear contract or lease and no proposed
+       contract or lease worth over $ 1,000,000 for a 12-month period may be awarded until
+       after the Council has reviewed and approved the proposed contract or lease as provided
+       in this section.
+
+               (e) After July 28, 1995, any employee or agency head who shall knowingly or
+                                                  - 11 -                    ATEL, CAB Nos. P-0678, P-0680
+
+
+       willfully enter into a proposed multiyear contract or a proposed contract or lease in
+       excess of $ 1,000,000 without prior Council review and approval in accordance with
+       this section shall be subject to suspension, dismissal, or other disciplinary action under
+       the procedures set forth in § 1-616.01(d)(1) and (18). This subsection shall apply to
+       subordinate agency heads appointed according to subchapter X-A of Chapter 6 of Title
+       1, and to independent agency heads.
+
+               (f)(1) No contractor who knowingly or willfully performs on a contract with the
+       District by providing a product or service worth in excess of $ 1,000,000 for a 12-month
+       period based on a contract made after July 28, 1995, without prior Council approval, can
+       be paid more than $ 1,000,000 for the products or services provided.
+
+        Modification No. 3, which extended the term of the letter contract through February 29, 2004,
+exceeded the not-to-exceed amount by nearly $62,000, and also exceeded the $1,000,000 contract
+threshold for Council review and approval. There is no evidence in the record that DCPS even sought
+Council approval. DCPS explains that it decided not to definitize the letter contract and intended
+merely to let the letter contract expire at the end of the anticipated definitized contract term of August
+26, 2004. The problem with this approach, as just stated, is that the value of services during the past 9
+months has far exceeded the letter contract’s not-to-exceed amount and the statutory threshold of
+$1,000,000 for Council approval. Those thresholds were exceeded by late February 2004.
+Accordingly, Laidlaw has been performing without a valid contract since then. Because DCPS has
+never received Council approval, performance by and payments to Laidlaw after late February 2004
+violate D.C. Code §§ 1-204.51 and 2-301.05a. See Second Genesis, Inc., CAB No. D-1100, Feb. 4,
+2000, 48 D.C. Reg. 1480, 1489.
+
+        DCPS states that Laidlaw is still providing the 90 buses to DCPS purportedly under the letter
+contract. Because there is no valid contract for Laidlaw’s current performance, we direct DCPS to
+promptly compete its requirements for at least the remainder of the intended definitized contract term.
+We understand that there is an outstanding DCPS solicitation for a major acquisition of approximately
+580 buses. It is for DCPS to decide how best it will meet its current and future requirements using
+valid, competitive procurement procedures.
+
+        Pursuant to D.C. Code § 2-309.08(f)(2), we award ATEL its reasonable proposal preparation
+costs and cost of pursing the consolidated protests. ATEL submitted a request for $196,795, consisting
+of $95,570 for labor hours incurred by ATEL’s CEO, CFO, and staff, and another $101,225 billed by
+ATEL’s consultant (George Lowe). We have reviewed ATEL’s submission and DCPS’s response to
+that submission. We find that ATEL has not properly documented its request for costs. To verify costs,
+the Board requires that a protester:
+
+       (1) submit the names of its employees who worked on the bid or proposal, (2) identify
+       and describe the tasks performed, (3) submit documentation supporting the hourly rates
+       and number of hours worked, and (4) document overhead and fringe benefits. In so
+       doing, we also require an affidavit or verified statement from one or more of the
+       protestor’s principals, which contains the explanations of costs incurred. … We do not
+       mean to indicate that we require precise mathematical certainty in order to award bid or
+       proposal preparation costs. However, we will not base awards on unsubstantiated
+                                                  - 12 -                     ATEL, CAB Nos. P-0678, P-0680
+
+
+       claims by the protestor which engage the Board in mere speculation.
+
+Tito Contractors, Inc., CAB No. 363, Aug. 12, 1993, 41 D.C. Reg. 3597; see also Recycling Solutions,
+Inc., CAB No. 377, June 30, 1995, 42 D.C. Reg. 4990. Further, the amount claimed must be
+reasonable. “[A] claim is reasonable if, in its nature and amount, the costs do not exceed those that
+would be incurred by a prudent person in pursuit of a protest.” Galen Medical Associates, Inc., B-
+288661.6, July 22, 2002, 2002 CPD ¶ 114. ATEL’s submission does not include required
+documentation of the names of the employees, an explanation of what each employee did, support for
+the employee labor costs, a breakdown of the staff who incurred labor hours, and either payroll
+documentation establishing the hours incurred or affidavits from each attesting to the labor hours
+incurred. All we have is a single affidavit from Brian Benton, the CFO, with an attached exhibit
+(Exhibit A) which lists brief activity descriptions and numbers of hours in three categories, “CEO”,
+“CFO”, and “Staff.” Nor is there any explanation of the “freight” cost of $6,000 contained in the same
+exhibit. Finally, the only support for the $101,225 fee of George Lowe of Van Scoyoc Associates, Inc.,
+is an undated letter from Lowe to Benton (Exhibit B) stating that “our fees incurred to date with respect
+to the bid protest which has been on-going since August 2004 through current date presently aggregate
+$101,225.00.” Billing records are needed for Lowe describing activities and hours incurred by date,
+evidence of billing rate, and a specification of the amount, date, and reason for incurring each cost other
+than labor.
+
+        The parties shall negotiate the appropriate amount due ATEL and DCPS shall promptly pay the
+agreed upon amount. If the parties cannot agree, they shall present the matter to the Board for
+resolution.
+
+       SO ORDERED.
+
+
+DATED: June 3, 2004                                    /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+                        - 13 -   ATEL, CAB Nos. P-0678, P-0680
+
+
+CONCURRING:
+
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

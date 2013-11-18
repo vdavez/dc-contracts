@@ -1,0 +1,99 @@
+                         GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+CNSI, Inc.                                            )
+                                                      )       CAB No. P-0742
+Under RFP No. POTO-2006-R-0077                        )
+
+       For the Protester CNSI, Inc.: Matthew B. Hoffman, Vice President and Corporate
+Counsel. For the District of Columbia Government: Howard Schwartz, Esq., and Talia S.
+Cohen, Esq., Assistant Attorneys General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                           OPINION
+                                  (Lexis-Nexis Filing ID 13010061)
+
+        CNSI, Inc. protests the District’s issuance of an RFP for a Medicaid Management
+Information System (“MMIS”) that requires offerors to submit for evaluation a MMIS system
+that has been certified by the federal Centers for Medicare and Medicaid Systems (“CMS”).
+CNSI alleges that the RFP requirement unnecessarily restrains competition. CNSI also requests
+extending the date for proposals by an additional sixty days. In its Motion to Dismiss, or in the
+alternative, Agency Report, the District responds that Amendment No. 4 moots CNSI’s
+allegation regarding the restraint of competition, and that Amendment No. 5, which gives the
+protester an additional month to respond to the RFP, moots CNSI’s second protest ground.
+Because Amendment No. 4 deletes the strict MMIS certification requirement, and Amendment
+No. 5 extended the closing date by one month, we dismiss the protest as moot.
+
+                                       BACKGROUND
+
+        On June 30, 2006, the District of Columbia Office of Contracting and Procurement,
+(“OCP”), for the District Department of Health, Medical Assistance Administration (“DDOH”),
+issued RFP No. POTO-2006-R-0077, for a contractor to, among other things, provide, enhance,
+and implement a federally owned and certified MMIS. Section C.1.5 of the RFP states that “the
+District is seeking a contractor to provide an existing CMS1 certified MMIS System with
+enhancements as specified by the District.” The RFP established a closing date of August 11,
+2006. Amendment Nos. 1 and 2 extended that date to September 25, 2006. In Amendment No.
+4, issued September 13, 2006, the District deleted Section C.1.5 and substituted new language
+which reads as follows: “The District is seeking a contractor to provide an existing CMS
+certified or certifiable MMIS system with enhancements as specified by the District.”
+Amendment No. 4 also defines a certifiable MMIS system as a system that has been identified by
+an independent third party MMIS expert as meeting the criteria of CMS certification and
+
+1
+  “CMS” is the acronym for the Centers for Medicare and Medicaid Services, formerly known as
+the Health Care Financing Administration, HCFA. See page 16 of the RFP.
+                                            2
+                                                                           CNSI, Inc., CAB No. P-0742
+
+
+accreditation. Amendment No. 5 also extended the closing date for submission of proposals to
+October 30, 2006.
+
+        CNSI filed this protest on September 19, 2006. In light of CNSI's failure to reply to the
+District's Motion to Dismiss, or, in the Alternative, Agency Report, the Board has accepted the
+District's uncontroverted statement of facts.
+
+                                         DISCUSSION
+
+        The District asserts that the protest is moot because (1) Amendment No. 4 removed the
+language that required offerors to submit proposals that provided an existing CMS certified
+MMIS system, and (2) the District extended the proposal due date to October 30, 2006. CNSI
+did not respond to the District’s Motion to Dismiss. Accordingly, this Board may accept the
+District’s factual assertions as uncontroverted, and agree that the protest grounds are now moot.
+See Board Rule 307.3, 49 D.C. Reg. 2079 (2002). Amendment No.5 was a substantial change to
+the solicitation, and the District asserts that Amendment No. 5 allows offerors to submit either
+certified or certifiable MMIS systems. Amendment No. 5 expands the range of MMIS systems
+that the District would evaluate, and it appears that Amendment No. 5 responds to CNSI’s
+complaint. The District also extended the proposal due date. While the District did not extend
+the due date for the full sixty days requested by CNSI, the District did extend the date by more
+than thirty days. Again, with no response from CNSI, the due date extension appears to respond
+to CNSI’s complaint. Therefore, we dismiss the protest as moot.
+
+                                        CONCLUSION
+
+       For the reasons discussed above, we dismiss the protest.
+
+DATE: __November 24, 2006                    _/s/ Warren J. Nash _________________
+                                             WARREN J. NASH
+                                             Administrative Judge
+
+CONCURRING:
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+
+Electronic Service to:
+
+Howard Schwartz, Esq.                               Matthew B. Hoffman, Esq.
+Talia S. Cohen, Esq.                                Vice President and Corporate Counsel
+Assistant Attorney General, D.C.                    CNSI, Inc.
+441 Fourth Street, N.W., 6th Floor                  702 King Farm Blvd.
+Washington, D.C. 20001                              Rockville, MD 20850
+

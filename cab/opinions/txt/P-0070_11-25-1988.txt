@@ -1,0 +1,437 @@
+               GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                       CONTRACT APPEALS BOARD
+
+
+
+
+                                       DATE:      November 25, 1988
+
+TO:    Andrew Schlosser, President
+       W.M. Schlosser Co., Inc.
+       2400 51st Place
+       Hyattsville, MD 20781
+       Warren J. Nash
+       Assistant Corporation Counsel
+       Public Works Division
+       2000 14th Street, N.W., 6th Floor
+       Washington, D.C. 20009
+
+RE:    Protest of W. M. Schlosser Co., Inc., CAB No. P-70
+
+     Enclosed is    a   copy of the   Board I s   decision   in the above-
+referenced case.
+
+
+
+
+                                        ,
+                                        ROSE M. GILLISON
+                                        Clerk to the Board
+
+
+
+
+Enc.
+              GOVERNMENT OF THE DISTRIC'r OF COLUMBIA
+                      CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+     W.M. SCHLOSSER CO., INC.
+                                                   CAB No. P-70
+     Under IFB No. 87-0152-AA-2-0-CC
+     For the protester:  Andrew Schlosser, President.   For the
+Government: Warren J. Nash, Assistant Corporation counsel, D.C.
+     Opinion by Administrative Judge Sharpe 1 with Administrative
+Judges Booker and Marlin concurring.
+
+
+                        SUMMARY OF OPINION
+
+     RESPONSIVENESS--FAILURE TO FURNISH IFB REQUESTED
+INFORMATION.   Protest by second low bidder that the low bidder's
+failure to furnish a pay item breakdown of its bid price by bid
+opening as requested by the IFB renders the bid nonresponsive is
+without legal merit since (1) the low bidder entered a total bid
+price on the IFB Bid Form,   (2) the breakdown of the bid price by
+pay items was not needed to properly evaluate the bid prices
+submitted and (3) the failure to submit a pay item breakdown of
+the bid price did not to any extent qualify the low bidder's
+promise or commitment to complete the entire construction project
+as specified at the quoted bid price.
+
+     RESPONSIVENESS--MATERIALITY OF IFB PROVISION--PRICE
+EVALUATION.    In order for a bid to be responsive, the PPA
+provides that it must conform in all "material" respects to the
+IFB.   At the time the procurement at issue was being solicited,
+the term "material" meant that which affected the price,
+quantity, quality or delivery of the terms offered.         Thus,
+inasmuch as the IFB by its own terms contemplated an evaluation
+of bids based on a single firm, fixed price covering all of the
+specified work without an evaluation of the pay item amounts and
+the award of one contract, it was the bid price provision of the
+Bid Form which called for the bidders to submit a total bid price
+that reflected the material term of the IFB and not the pay item
+schedule which only called for the entry of the same bid price
+entered on the Bid Form preceded by a pay item breakdown showing
+how the bid price was calculated.   Further, because the pay item
+amounts would only be used for contract payments and adjustments,
+the IFB provision requesting a breakdown of the total bid price
+
+       IJudge Sharpe's participation in this case is pursuant to
+  the authority contained in the D.C. Procurement Practices Act of
+  1985, D.C. Code, sec. 1-1189.2(c) (2) (1987 Replacement).
+                                            - 2 -
+
+by pay items concerned matters relating to contract administra-
+tion and not bid responsiveness.
+     RESPONSIVENESS--MATERIALITY OF IFB PROVISION--AGENCY CHARAC-
+TERIZATION.   Protester's contention that certain IFB provisions
+and the District's long standing policy that all IFB requested
+items are to be submitted by bid opening established that a
+failure to submit the IFB requested pay item breakdown of the bid
+price rendered the bid nonresponsive lacks substance because
+these considerations, even if proven, could not override the PPA
+requirement that the rationale underlying the responsiveness
+characterization must in all cases est.ablish a material term to
+the IFB.
+                             OPINION
+     This case 2 concerns IFB No. 87-0152-AA-2-0-CC ("IFB") which
+
+sought bids for the construction project--occoquan Complex Code
+
+Compliance,       Occoquan,    Virginia.            The protester,       W.M.    Schlosser
+Co., Inc.    ("Schlosser"), protests the Department of Public Works'
+determination that the bid of the apparent low bidder, Len Parker
+Mechanical        and   General     Contractors,        Inc.    (IILen    Parker"),     was
+responsive to the IFB.             See Schlosser's letter to the Board dated
+October     16,     1987,    and    filed      on    October    20,      1987    ("protest
+
+letter") .          Schlosser       is   the        apparent,    second-low        bidder.
+Schlosser alleges that Len Parker's bid is nonresponsive because
+
+it did    not      include    the   Itemized        Construction Cost           form   ("ICC
+
+
+
+
+       2This case originated during a period of time when the
+  District of Columbia Contract Appeals Board was functioning
+  pursuant to Commissioner's Organization Order No.9, D.C. Code,
+  Supplement V (1978), as amended by Mayor's Order No. 82-224, 30
+  DCR 497 (January 28, 1983) and Mayor's Order 86-65, 33 DCR 3006
+  (May 16, 1986).    Pursuant to sec. 1-1189.1, a new independent
+  agency denominated as the Contract Appeals Board was created.
+  This new Board became operational on August 1, 1988, and
+  succeeded to jurisdiction of all protest cases pending before the
+  previously established Board.
+                                      -   3 -
+
+form") contained in the IFB.3        Schlosser requests that we declare
+Len Parker's bid to be nonresponsive and order the award of the
+
+contract to it as the lowest responsive bidder.
+
+     The ICC form lists 19 pay items (work categories comprising
+
+the construction project)     with a       corresponding column for the
+bidders to state a separate cost for each pay item.                  At the end
+of the ICC form is a line for the bidders to state their total
+itemized   construction   cost.      Even       though   Len    Parker    did   not
+submit the ICC form or the information requested by the form with
+
+its bid or by bid opening, it did include in its bid a bid price
+set forth in the provision provided for this purpose on the IFB
+
+document, Bid form (Construction Contract).              See unmarked exhibit
+attached to the Agency Report of the District of Columbia dated
+December 17, 1987, and filed December 21, 1987 ("Agency Report"),
+document Q2-1.
+
+     In support of its allegation, Schlosser contends that "[i]t
+
+has long been a policy of the [District] that all documents in
+the Bid Form and Proposal must be submitted to render the bid
+
+responsive to the Invitation."        See protest letter at 1.            It also
+
+contends that several provisions in the IFB made it mandatory
+that the   ICC   form be submitted with 'the             IFB or prior to bid
+opening.
+     contrarily,   the    District    argues      that    the   failure    of   Len
+Parker to submit the ICC form with its bid or before bid opening
+
+
+       3The ICC form is document 08-1 of the IFB (for the IFB,
+  see unmarked exhibit attached to the Agency Report).
+                                             -   4 -
+
+constitutes a minor informality (and therefore can be waived as
+such) because the lack of information requested by the form meant
+no more than the District could not compare the bid submitted on
+
+a pay item-by-pay item basis.                See Agency Report at 1.            In this
+
+connection,      the   District       notes      that    bids    could,    however,     be
+
+compared on the basis of the total                      contract prices that were
+
+quoted. Id.
+        The   D.C.   Procurement          Practice     Act    of 1985     ("PPA"),    D.C.
+Code,    sec.   1-1183.3(e)    (1987 Replacement)              states that contracts
+solicited by competitive sealed bidding,                       as is the case here,
+
+" s hall be awarded .     . . to the responsive and responsible bidder
+whose bid will be most advantageous to the District, considering
+
+price and other factors."             (Emphasis added.)           As the parties are
+apparently well aware,         II   [aJ    bid that is not responsive is not
+curable after the bid is opened. II                     Am.   Combustion v. Minority
+Business opportunity,         441 A.2d 660,             671   (D.C.   1982)   (citations
+omitted) .      The criterion for determining a bid's responsiveness
+
+is stated in the PPA,         sec. 1-1181.7(41), which defines " r espon-
+
+siveness" in the context of a                 "responsive bidder".            section 1-
+
+1181.7(41) reads:
+        II 'Responsive bidder'  means a person who has submitted a
+        bid which conforms in all material respects to the
+        invitation for bids. II
+Emphasis added.)4        This provision makes clear that in deciding a
+protest alleging that a certain bid omission renders the bid
+
+
+
+       4See also Am. Combustion, supra (II • • • a responsive bid is
+  one that conforms to the material elements of an invitation to
+  bid").
+                                               -   5 -
+
+nonresponsive,      a   determination must be made as to whether the
+solicitation provision            at    the    bottom of          the controversy is a
+material term of the solicitation.                       Although the PPA does not go
+so far as to define "material",                    the procurement regulations in
+
+force at the time the IFB was issued, in effect, defined the word
+
+to mean that which affects price, quantity, quality or delivery
+of the     items offered. 5            See Materiel Management Manual,                secs.
+2620.13.B.2.e       and    2620.14.A           (for       the   effectivity     of    these
+sections,    see    Notice of Emergency and Proposed Rulemaking,                         33
+DCR 2698     and   2700    (May    2,    1986).           Given this definition,        the
+question    presented      by     this    protest          is   whether   the   ICC    form
+consti tutes a material term of the IFB.                          For the reasons that
+follow, we conclude that it does not.
+
+     The    IFB    document,      BID FORM          (CONSTRUCTION CONTRACT)           ("Bid
+Form")     among   other    things,           includes      the    following    provision
+
+(hereinafter referred to as the "bid price provision") :
+
+
+     5Compare with the D.C. Procurement Regulations which became
+effective February 26, 1988, 35 DCR sec. 1599.1, 27 DCMR sec.
+1599.1 (July, 1988):
+
+     "Minor informality or irregularity - some immaterial defect
+     in a bid or variation of a bid from the exact requirements
+     of the IFB that can be corrected or waived without being
+     prejudicial to other bidders.   The defect or variation is
+     immaterial when the effect on price, quantity, quality, or
+     delivery is negligible when contrasted with the total cost
+     or scope of the requirement."
+Also compare with minor informalities or irregularities in bids,
+Federal Acquisition Regulation, 48 CFR sec. 14.405 (1987):
+     "The defect or variation is immaterial when the effect on
+     price, quantity, quality, or delivery is negligible when
+     contrasted with the total cost or scope of the supplies or
+     services being acquired."
+                                          - 6 -
+     "TO: CONTRACTING OFFICER, GOVERNMENT OF THE DISTRICT OF
+     COLUMBIA
+     "In compliance with above invitation, the undersigned
+     proposes to furnish all plant, labor and materials and
+     perform required work per provisions as set forth in
+     the Standard Contract Provisions, as amended, specific-
+     ations, addenda, drawings, for the consideration of:
+     $            "
+See unmarked exhibit attached to the Agency Report.                       The language
+
+of   this     provision      evidences     that    'the   IFB      contemplated     an
+evaluation of bids based on a single firm,                  fixed price covering
+
+all of the specified work without an Ewaluation of the separate
+pay items and the award of one contract.                     In this regard,       the
+record reveals that Len Parker offered with its bid a firm, fixed
+
+price to perform the construction services that were specified
+in the      IFB.      This was done by Len Parker's             insertion of the
+figure "2,466,000" on the blank line in the bid price provision.
+All that the ICC form called for was the entry                          (on the line,
+
+"Itemized Construction Cost                       TOTAL")     of    the    exact   same
+contract price entered in the bid price provision preceded by a
+breakdown by the listed pay items of how this price was derived.
+     As mentioned earlier, the District: points out that although
+
+the lack of a breakdown of Len Parker's bid price meant that the
+District could not compare the pay item prices composing its bid
+
+with the pay item prices of any other bid,                    the District could
+
+compare the total contract price bid by Len Parker with the total
+contract      price    bid   by   the    other    bidders.         We    agree.     The
+significance of this is that where,                as here,        an evaluation of
+bids based on total prices is contemplat:ed, all that is necessary
+                                                -    7 -
+
+is that the District receives from the bidders a total contract
+
+price which is firm and fixed.                      Moreover, we find that the bid
+
+price provision language            ("in compliance with above invitation,
+
+the    undersigned      proposes          to        furnish       all   plant,     labor      and
+
+materials and perform required work .                        .     for consideration of")
+is clear in that when a              bidder inserted an amount in the bid
+
+price provision and affixed its signa'ture to the Bid Form, the
+
+bidder was committing itself to complete the contract work for
+
+the    amount   inserted,      if   it were determined to be the                         lowest,
+
+responsive and responsible bidder. 6                       Having done this, Len Parker
+
+was without question bound to complete the entire construction
+
+project at the price stated in the bid price provision when the
+
+District awarded it the contract.
+
+       While the District may have wanted the bidders to provide
+
+with    their   bids    a    price breakdown               by    pay    items    for    contract
+
+payment,    contract        adjustment         or     other      contract       administration
+
+purposes, the plain and simple matter is that the request in this
+
+regard was not a material requirement of the IFB.                                  This is so
+
+because the price breakdown amounts were not needed to properly
+
+evaluate the bids, and the failure to provide them would not in
+
+and of itself qualify a bidder's promise or commitment to perform
+
+the    specified      work    at    the        price       inserted     in   the       bid   price
+
+provision.       In    other words,            the     pay       item   amounts    related      to
+
+
+        6S ee sec. 1-1183.3{e) which provides that in competitive
+  sealed bidding procurements, "[tJhe contract shall be awarded
+       . to the responsive and responsible bidder whose bid will be
+  most advantageous to the District, considering price and other
+  factors."
+                                                 -   8 -
+
+matters concerning contract administra'tion and not bid respon-
+
+siveness.
+       with respect to Schlosser's allegation that "[i]t has long
+
+been a policy of the [District]                        that all documents in the Bid
+
+Form and proposal must be submitted to render the bid responsive
+       .", we first note that the allegation has been made without
+any    evidence      to    support      it,      and    the   District      challenges     its
+accuracy      (see Agency Report at unnumbered page 4).                           Second, we
+note that if such a policy did exist,                         it would be inconsistent
+with    the   PPA.        As we pointed out                earlier,   the    PPA   (sec.    1-
+
+1181.7 (41))      articulates         the     criterion       for   determining     a   bid's
+responsiveness.           Thus, we think it obvious that a responsiveness
+determination cannot turn on a policy which is inconsistent with
+the criterion enunciated in sec. 1-1181.7(41).
+       Lastly, Schlosser argues that certain provisions of the IFB
+
+make the omission of the ICC form a material deficiency.                                These
+provisions       are      the   Title      Page--Bid Forms          and   Proposals     which
+
+states     all    forms         are   to    be       submitted;       Standard      Contract
+
+Provisions, Article 10 Price Schedule Interpretation which states
+"Price Schedule is prepared for the comparison of bids .                                   . " ,.
+and Instructions to Bidders, Article 18 Award or Rejection which
+states     proposals        will      be    considered        irregular      if    they    are
+
+submitted on a form not furnished by the District or an altered
+or partially detached form.                   We think we can best address this
+
+argument by taking it one step further.                         Even assuming that the
+
+IFB provisions Schlosser references went so far as to explicitly
+                                          -   9 -
+
+state that the ICC form was a material requirement of the IFB and
+a bidder's failure to submit the document in a completed form or
+
+to provide the information called for by bid opening would result
+
+in    a    nonresponsive       determination,       the   instruction   or   warning
+
+would not have been of any consequence.                   It would not have been
+
+of any consequence for the reason that "merely stating that a
+requirement is a responsive matter will not suffice to make it
+so.        In   all   cases,    the   rationale      underlying   the   responsive
+characterization must establish a material term to the invitation
+for bid."        Forrester Constructors, Inc., 1 P.D. 74, 83 n.6.
+
+(D.C. CAB 1987).
+          In sum, we conclude that the bid price provision by calling
+
+for the bidders to quote a single firm,                   fixed price and thereby
+
+commit themselves to complete all of the specified construction
+work at the quoted price, insofar as is relevant here, reflects
+the material term of the IFB and not the ICC form which only
+
+requested that the bidders reiterate their bid price and provide
+a pay item breakdown of it.            It therefore follows that since Len
+
+Parker's bid was not at variance with the bid price provision, it
+
+would have been improper for the District to have determined Len
+Parker's        bid to be      nonresponsive merely because it           failed   to
+submit by the time of bid opening the information requested by
+the ICC form.         Because the pay item amounts were not relevant to
+bid evaluation and their omission did not qualify to any extent
+
+Len Parker's bid price as stated in the bid price provision, the
+omission of the pay item amounts could be properly waived by the
+                               - 10 -
+
+District as a minor informality.   Accordingly, there is no legal
+
+merit to Schlosser's protest that Len Parker's bid was nonrespon-
+
+sive for the reason alleged.
+
+     THE PROTEST IS DENIED.
+                                           /~!                J
+DATED:   November 25, 1988                 ,Vi( ,( J ,f)(l)b(./ l,('
+                                             \., SAMUEL S.' SHARPE
+                                            Ad~inistrative     Judge
+
+
+
+
+ DAVID H. MARLIN
+Administrative Judge
+

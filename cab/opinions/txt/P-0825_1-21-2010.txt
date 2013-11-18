@@ -1,0 +1,200 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+M.C. DEAN, INC.                                       )
+                                                      )       CAB No. P-0825
+Under Solicitation No. DCKA-2009-B-0100               )
+
+
+      For the Protester, M.C. Dean, Inc.: Lawrence M. Posen, Esq. For the Intervener, Fort
+Myer Construction Corporation: Christopher M. Kerns, Esq. For the District of Columbia
+Government: Robert Schildkraut, Esq., Assistant Attorney General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                           OPINION
+                                         Filing ID 29144954
+
+
+        M.C. Dean, Inc., has protested the award of a contract to the low bidder, Fort Myer
+Construction Corporation. M.C. Dean contends that Fort Myer’s bid is nonresponsive because
+the bid contained the following alleged irregularities: (1) the bid did not include a letter of
+agreement between PEPCO and Fort Myer; (2) the Disclosure of Lobbying Activities form was
+not signed; (3) the bid did not contain a completed and signed Equal Employment Opportunity
+Employer Information Report; and (4) the bid did not contain Fort Myer’s Clean Hands
+Certification or license to transact business in the District. The contracting officer executed a
+determination and findings that the incomplete forms in Fort Myer’s bid constituted a minor
+informality and that it was in the best interests of the District to waive the solicitation
+requirements related to these items. We conclude that the contracting officer did not violate law,
+regulation, or the terms of the solicitation by waiving the minor informalities in Fort Myer’s bid,
+and determining that the bid was responsive. Accordingly, we deny the protest.
+
+                                        BACKGROUND
+
+       On August 4, 2009, the District’s Office of Contracting and Procurement (“OCP”), on
+behalf of the District’s Department of Transportation (“DDOT”) issued Invitation for Bids
+(“IFB”) No. DCKA-2009-B-0100. (Agency Report (“AR”), at 2; AR Ex. 2). The IFB was
+seeking a contractor to supply and install traffic signal control equipment and other
+communication devices in accordance with contract specifications. Three amendments were
+issued. (AR Ex. 3). The bid opening occurred on September 18, 2009, with three bids being
+submitted. (AR Ex. 1). The results of the bid submissions are as follows: Fort Myer
+$1,250,808.27; M.C. Dean $1,280,116.40; and Utility Systems C&E, LLC, $1,427,763.00. (AR
+Ex. 4). On September 25, 2009, M.C. Dean filed its protest. On October 26, 2009, the
+contracting officer signed a “Determination and Finding of Minor Informality in Ft. Myer’s Bid
+Submission” (“D&F”). (AR Ex. 6). We discuss the facts relevant to each of the challenged
+portions of Fort Myer’s bid.
+                                                 -2-                 M.C. Dean, Inc., CAB No. P-0825
+
+
+       PEPCO Agreement
+
+        The IFB contained a deliverables requirement in section F.2 for each bidder to provide in
+its bid a letter of agreement between PEPCO and the bidder for electric services
+disconnect/reconnect. (AR at 4-5; AR Ex. 2). Fort Myer did not provide such an agreement in
+its bid. However, no bidder, including M.C. Dean, provided such a letter. (AR at 4-5). M.C.
+Dean in its comments on the Agency Report agrees that the contracting officer appropriately
+waived the requirement for the PEPCO agreement to be submitted in the bid.
+
+       Disclosure of Lobbying Activities form
+
+       Fort Myer submitted but did not sign the Disclosure of Lobbying Activities form
+referenced in section J.1.11 of the IFB. At the top of the form, printed instructions state:
+“Complete this form to disclose lobbying activity pursuant to 31 U.S.C. 1352.” (AR Ex. 5a).
+Fort Myer inserted the words “Not Applicable” at the top of page 1 of the form. (AR Ex. 5a).
+The contracting officer understood this designation to mean that Fort Myer had not engaged in
+lobbying activities requiring execution of the form. In his D&F, the contracting officer
+determined that it was in the best interests of the District to waive the need for Fort Myer to sign
+the form. (AR at 5; AR Ex. 6).
+
+       Equal Employment Opportunity Employer Information Report
+
+        IFB section J.1.12 requires bidders to prepare and submit an “Equal Opportunity/Non
+Segregated Facilities Certificate (1 Page)” and section J.1.5 requires bidders to prepare and
+submit “E.E.O. [Equal Employment Opportunity] Compliance Documents (6 Pages).” (AR Exs.
+2a, 2b). Fort Myer completed and signed the Equal Employment Opportunity Policy Statement
+and the Assurance of Compliance with Equal Employment Opportunity Requirements. (AR Ex.
+5a). In Fort Myer’s bid, the Equal Employment Opportunity Employer Information Report is
+blank except for Fort Myer’s typed notation at the top of the page reading “See attached 2008
+Employer Information Report EEO-1.” (AR Ex. 5a). Immediately following the Information
+Report is Fort Myer’s referenced 2008 EEO Information Report containing a spreadsheet of Fort
+Myer EEO data, a blank “Employment Data” one-page form, and a partially completed and
+signed “Projected Goals and Timetables for Future Hiring” form. The contracting officer in his
+D&F determined that any page that was not completed was a minor informality because Fort
+Myer submitted all of the required data, when considering all of Fort Myer’s bid submission,
+including its own computer generated form, i.e., the 2008 Employer Information Report. (AR
+Ex. 6).
+
+       Clean Hands Certification and License to Transact Business in the District
+
+        A “Clean Hands Certification” is required by section L.13.2 of the solicitation. (AR Ex.
+2c). This section also requires each corporate bidder to provide a copy of its license, registration,
+or certification to transact business in the District or a statement of intent to obtain such
+documentation. Fort Myer’s bid provided neither a Clean Hands Certification nor a license to
+transact business in the District nor a statement of intent to obtain the license. The contracting
+officer in his D&F found that the Clean Hands Certification merely duplicates checks conducted
+by the District’s Department of Tax and Revenue and the District’s Department of Employment
+Services to certify the legal tax status of the bidder before award. (AR at 6; AR Ex. 6). The
+                                                  -3-                 M.C. Dean, Inc., CAB No. P-0825
+
+
+contracting officer provided a copy of the tax certifications from the Department of Tax and
+Revenue and Department of Employment Services. (AR Ex. 6). Further, the contracting officer
+determined in the D&F that a copy of the license to transact business in the District was not
+required as it had previously been determined that Fort Myer held such a license. The
+contracting officer determined that it was in the best interests of the District to waive the need for
+these documents. (AR at 6-7; AR Ex. 6).
+
+        On October 26, 2009, Fort Myer intervened in the protest. On October 29, 2009, the
+District filed its Agency Report. M.C. Dean filed comments on November 9, 2009. On
+November 18, 2009, the District responded to M.C. Dean’s comments. As of November 18, no
+contract had been awarded under the IFB.
+
+                                          DISCUSSION
+
+        We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1), and
+address M.C. Dean’s challenges to Fort Myer’s bid responsiveness due to alleged irregularities in
+the bid documents. The test for responsiveness is whether a bid offers to perform the exact thing
+called for in an IFB, so that the acceptance of the bid will bind a bidder to perform in accordance
+with all of the terms and conditions of the solicitation without exception. Omni Elevator Co., B-
+241678, Feb. 25, 1991, 91-1 CPD ¶ 207. A bid defect which is not material does not require
+rejection of the bid. Rather, it may be waived as a minor informality. A defect is minor if it does
+not affect price, quantity, delivery or quality or otherwise affect the bidder’s obligations under
+the contract.” Walker Construction, B-246759, Mar. 30, 1992, 92-1 CPD ¶ 319. Further, 27
+DCMR § 1535.1 provides that “[m]inor informalities or irregularities in bids may be waived if
+the contracting officer determines that the waiver is in the best interest of the District.” When it
+is in the best interest of the District, “the contracting officer shall give the bidder an opportunity
+to cure any deficiency resulting from a minor informality or irregularity in a bid, or waive the
+deficiency.” 27 DCMR § 1535.4.
+
+       PEPCO Agreement
+
+       M.C. Dean in its comments on the Agency Report agrees that the contracting officer
+appropriately waived the requirement for the PEPCO agreement to be submitted in the bid.
+
+       Disclosure of Lobbying Activities form
+
+        M.C. Dean contends that the failure to complete and sign the Disclosure of Lobbying
+Activities form renders Fort Myer’s bid nonresponsive. We agree with the District that the
+contracting officer properly understood Fort Myer’s “Not Applicable” designation at the top of
+the form to mean that Fort Myer had not engaged in lobbying activities requiring execution of
+the form. We sustain the contracting officer’s determination that it was in the best interests of
+the District to waive the need for Fort Myer to sign the form. (AR at 5; AR Ex. 6). We have
+previously held that a bidder’s failure to complete a Disclosure of Lobbying Activities form to be
+a minor irregularity that does not render a bid nonresponsive because such an omission does not
+affect the material obligations of the bidder. Modern Electric, Inc., CAB No. P-0341, Apr. 5,
+1993, 40 D.C. Reg. 5068, 5069.
+                                                -4-                 M.C. Dean, Inc., CAB No. P-0825
+
+
+       Equal Employment Opportunity Employer Information Report
+
+        M.C. Dean argues that Fort Myer did not comply with the IFB by preparing and
+submitting an Equal Employment Opportunity Employer Information Report. We agree with the
+District that the contracting officer properly determined that Fort Myer’s bid contained the
+requested Equal Employment Opportunity employer information even though Fort Myer used its
+own form in one case to provide some of the requested data. See Modern Electric, Inc., 40 D.C.
+Reg. at 5069 (failure to sign EEO certificate did not affect any material term of the solicitation
+and could be waived by the contracting officer).
+
+       Clean Hands Certification and License to Transact Business in the District
+
+        M.C. Dean argues that the contracting officer had no reasonable grounds for waiving the
+requirement that Fort Myer prepare and submit a Clean Hands Certification and license to
+transact business in the District. We disagree. The contracting officer in his D&F found that the
+Clean Hands Certification merely duplicates checks conducted by the District’s Department of
+Tax and Revenue and the District’s Department of Employment Services to certify the legal tax
+status of the bidder before award. The contracting officer provided copies of those agencies’
+certifications. (AR Ex. 6). In addition, the contracting officer determined in the D&F that a
+copy of the license to transact business in the District was not required as it had previously been
+determined that Fort Myer held such a license. We see no error by the contracting officer in
+determining that it was in the best interests of the District to waive the minor informalities in
+Fort Myer’s bid.
+
+        Finally, M.C. Dean labels the D&F a post-hoc rationalization of the contracting officer’s
+actions and thus the D&F is entitled to little or no weight. We cannot agree. Although the D&F
+was prepared after the protest filing, it preceded award as the District points out in its reply to
+M.C. Dean’s comments. Moreover, as described above, the contracting officer articulates in the
+D&F reasonable grounds to support his determination to waive the minor informalities in Fort
+Myer’s bid for each of the items challenged by M.C. Dean.
+
+       In sum, we conclude that the contracting officer’s determination to waive the minor
+informalities in Fort Myer’s bid did not violate law, regulation, or the terms of the solicitation.
+
+                                        CONCLUSION
+
+       For the reasons discussed above, we deny M.C. Dean’s protest.
+
+DATED: January 21, 2010                               /s/ Warren J. Nash__
+                                                      WARREN J. NASH
+                                                      Administrative Judge
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

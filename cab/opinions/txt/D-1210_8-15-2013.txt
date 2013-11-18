@@ -1,0 +1,1213 @@
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+ADSYSTECH, INC.                                              )
+                                                             )      CAB No. D-1210
+Under Contract No. 9066-AA-NS-2-MT                           )
+
+
+       For the Appellant: Lloyd J. Jordan, Esq. For the Appellee: Robert Dillard, Esq.,
+Assistant Attorney General, Office of the Attorney General, Matthew Lane, Esq. (entered
+appearance after post-hearing briefs)
+
+      Opinion By: Chief Administrative Judge Marc D. Loud, Sr., with Administrative Judge
+Maxine E. McBean, concurring.
+
+                           DECISION AND MEMORANDUM OPINION
+                                           Filing ID 53755235
+
+         This is a dispute action brought by Adsystech, Inc. (Adsystech or appellant) against the
+District (District or appellee) alleging the non-payment of $757,470 for services rendered to
+upgrade the D.C. Department of Consumer and Regulatory Affairs’ (DCRA) information
+technology systems with the “Hansen Version 7 PERMITS” software (Hansen or Hansen
+upgrade). Appellant seeks an equitable adjustment on the grounds that constructive changes
+were directed and/or ratified by authorized District officials. The appellant also seeks recovery
+under common law theories of promissory estoppel and quantum meruit. The District contends
+that (i) the Anti-Deficiency Act bars payment, (ii) the mandatory ratification procedures required
+by former D.C. Code § 2-301.05(d)(5) were not followed herein, (iii) former D.C. Code § 2-
+301.05(d)(3) bars oral contracts, (iv) equitable adjustment cannot be invoked to authorize a
+payment exceeding a District purchase order, and (v) the Board lacks jurisdiction over quantum
+meruit claims. The Board conducted a trial from June 21-22, 2010, hearing testimony from five
+witnesses called by the parties.1
+
+       Upon review of the record herein, and for the reasons set forth more fully below, the
+Board finds that the appellant is entitled to an equitable adjustment for services it performed in
+excess of the parties’ contract at the request of authorized District officials. This case is
+remanded to the appellee for a determination of quantum. The Board directs the parties to
+negotiate in good faith, and to inform the Board of the disposition status within 30 days.
+
+                                              BACKGROUND
+
+        The backdrop to the instant dispute is as follows. During the latter part of 1999, the
+
+1
+  The trial was conducted by a previous Board panel; none of whom are presently members of the Board. The
+present Board panel has reviewed the trial transcript, appeal file, appeal file supplement, hearing exhibits, post
+hearing briefs, and the entire record herein in rendering this decision.
+                                                         -2-                       Adsystech, Inc., CAB No. D-1210
+
+
+
+DCRA sought to acquire a new information technology system to replace its antiquated
+department hardware and applications as part of the District’s Y2K initiative.2 Hr’g Tr. vol. 2,
+448:15-452:20, June 22, 2010. Based on a KPMG study of commercial-off-the-shelf products
+and the results of a pilot program with Adsystech, DCRA decided that the Hansen software was
+the best available product. Hr’g Tr. vol. 1, 17:4-19:7, June 21, 2010. The Hansen software was
+a suite of municipal government products which offered a permit and licensing function sought
+by DCRA. Hr’g Tr. vol. 1, 18:15-20. Adsystech’s CEO described the software as a “blank sheet
+of paper” which provides a “framework and a structure” that a vendor develops into a workable
+product for a particular client. Hr’g Tr. vol. 243:1-244:10.
+
+        From the outset, the parties agreed that DCRA’s total system upgrade would entail the
+implementation of 221 processes within DCRA at an estimated cost that exceeded $2 million
+dollars. Hr’g Tr. vol. 1, 19:8-22:5; Hr’g Tr. vol. 2, 459:6-463:7. The 221 processes were derived
+from the KPMG study. Hr’g Tr. vol. 1, 228:22-231:13. The record denotes the 221 processes
+were divided among DCRA’s internal administrations as follows: Building Land Regulation
+Administration (BLRA)(78 processes), Business Regulation Administration (BRA)(102
+processes), and Housing Regulation Administration (HRA)(41 processes). Appellee’s Hr’g Ex.
+3; see also Hr’g Tr. vol. 2, 231:3-232:18.
+
+        Because DCRA only had $711,000 in funding, the parties decided to procure the Hansen
+upgrade through two contracts issued across separate fiscal years.3 Hr’g vol. 1, 24:19-25:8;
+26:18-46:1; 60:2-62:22; Hr’g Tr. vol. 2, 464:10-465:4. The first contract was entered into on
+June 18, 1999, for $711,039 (first contract or June 18 contract).4 Appellant’s Hr’g Ex. 6; see
+also Hr’g Tr. vol. 1, 16:1-18:3; 22:20-25:8. The parties agreed that Adsystech would only
+implement 11 of the 221 processes under the first contract. Hr’g Tr. vol. 1, 22:20-25:8; 58:2-
+59:4, 59:15-60:6. See also Appellee’s Hr’g Ex. 3, Task 7. Neither party has presented the Board
+with a complete original or copy of the June 18 contract. The contract originally consisted of 10
+pages, yet only the first page has been entered into our record.
+
+       The second contract was entered into on October 25, 1999 (second contract or October 25
+contract) through a “Purchase Notification” for $476,317.5 Appellant’s Hr’g Ex. 7; see also Hr’g
+Tr. vol. 1, 61:12-63:1. The appellant contends that the second contract was a “time and
+materials” contract. Appellant’s Post Hr’g Br. 7-8, Proposed Finding of Fact 21. The District’s
+
+2
+  Y2K refers to the Year 2000. As Y2K approached during 1998-2000, most public and private sector entities were
+undertaking massive computer system upgrades to prevent service lapses as they anticipated that most computers
+would not recognize dates beyond the year 1999. See discussion infra at p.19.
+3
+  Adsystech’s Director of business development offered an alternative explanation for why the Hansen procurement
+was done in “bite-size chunks.” He testified that the procurement was separated in “order to not take it to the Control
+Board[,]” which he testified was a requirement for contracts over $1 million dollars. Hr’g Tr. vol. 2, 463:9-464:9.
+4
+  Adsystech’s CEO testified that the June 18 contract was a firm-fixed price contract. Hr’g Tr. vol. 1, 71:12-13. This
+contention is not disputed by the District. Appellee’s Post Hr’g Br. 7, Proposed Finding of Fact 3.
+5
+   The Board defines the “purchase notification” herein as a contract. At all times material to the instant dispute, the
+definition of “contract” included “task order” and “purchase order.” D.C. Code § 2-301.07(13)(B),(D) (repealed
+Apr. 8, 2011). Interestingly, the District identifies the purchase notification as a “contract” in its October 25, 1999,
+transmittal to the Council of the District of Columbia. See Appellee’s Hr’g Ex. 5. Per the record, “purchase
+notification” is described as a term used interchangeably with “purchase order.” Hr’g Tr. vol. 2, 501:8-502:2.
+District witness Bruce Witty, the contracting officer herein, stated that a purchase notification becomes a “contract”
+once performance begins. Hr’g Tr. vol. 2, 506:13-507:15.
+                                                        -3-                     Adsystech, Inc., CAB No. D-1210
+
+
+
+post-hearing brief disputes this, but at trial its key witness testified that in paying Adsystech’s
+invoices, the District had treated the contract as a time and materials one. Hr’g Tr. vol. 2, 508:16-
+509:14. The parties agreed that Adsystech would implement the remaining 210 processes under
+the second contract. Hr’g Tr. vol. 1, 61:12-63:1.6 The second contract consists of only one-page,
+and provides very minimal scope, stating that Adsystech’s services are for “continuation of
+[s]ervices for Task #2 on Enterprise Systems to complete [a]ll departments.” Appellant’s Hr’g
+Ex. 7; AF Ex. 2; Hr’g Tr. vol. 1, 61:12-63:1.
+
+        Before proceeding further with a detailed discussion of contract terms and performance,
+it is important to note that Adsystech’s required performance under both contracts was grounded
+upon the statement of work developed for the June 18 contract. Hr’g Tr. vol. 1, 22:6-24:7; 41:9-
+16; vol. 2, 311:21-313:11; 501:8-503:2. We have relied on the June 18 statement of work for
+that purpose as well because the original contract has been lost. It is well settled that parol
+evidence is admissible to establish the terms of a lost or missing contract (or instrument), where
+a party testifies that the contract has been lost, and the substance of the agreement is proved
+satisfactorily by the parol evidence. See Tayloe v. Riggs, 26 U.S. 591 (1828); Edmunds v. Jelleff,
+127 A.2d 152 (D.C. 1956). In this case, it is clear that the contract has been lost. Hr’g Tr. vol. 2,
+500:2-505:14. Moreover, we believe that the statement of work for the June 18 contract
+sufficiently proves the contract terms herein, and note that the appellee has not disputed such.
+Appellee’s Hr’g Ex. 3.
+
+        Thus, we find the statement of work admissible and competent to establish the contract
+terms entered into by the parties herein. The referenced statement of work outlines 10 Tasks that
+Adsystech was to perform to complete DCRA’s upgrade to the Hansen system. Appellee’s Hr’g
+Ex. 3. These tasks included, but were not limited to, a kick-off meeting, the development of a
+project implementation plan, acquisition of licenses for the Hansen software, training,
+Adsystech’s review and validation of DCRA delivered “as is” process flows,7 data conversion,
+etc. Id.
+
+       Following the parties execution of both contracts, Adsystech was able to begin
+performance on DCRA’s system overhaul.8 Once performance began, however, Adsystech was
+advised by DCRA official “Theresa Lewis” (Lewis) not to use the KPMG study to complete the
+“to-be” processes of the Hansen upgrade.9 Hr’g Tr. vol. 1, 52:16-53:11, 55:16-56:8; 63:19-65:4;
+219:5-220:20; 233:22-234:20. The KPMG study was deemed “horrible” as to the Business
+Regulation Administration, “fair” as to the Housing Regulation Administration, and “very
+reasonable” as to the Office of Adjudication’s requirements. Hr’g Tr. vol. 2, 358:18-362:11.
+
+        The record suggests that there were numerous District officials with whom Adsystech
+
+6
+   See also Appellant’s Post Hr’g Br. 7-8, Proposed Finding of Fact 21; Appellee’s Post Hr’g Br. 7, Proposed Finding
+of Fact 4.
+ 7
+    An “as-is” process flow is one that documents how DCRA conducted business prior to the Hansen
+implementation. Hr’g Tr. vol. 2, 227:18-228:3 (testimony of the Adsystech project manager).
+8
+   Adsystech’s project manager testified that prior to execution of the second contract, Adsystech’s performance
+consisted of procuring the Hansen licenses, tools, and maintenance agreement. Hr’g Tr. vol. 2, 320:11.
+9
+   A “to be” process identified how DCRA wanted to conduct its business operations in the future. Hr’g Tr. vol. 1,
+234:21-235:10 (Adsystech project manager). As context, the Adsystech project manager explained that DCRA did
+not want to pay Adsystech to implement a system that needed to be changed in later years. Id. at 235:7-9.
+                                                        -4-                      Adsystech, Inc., CAB No. D-1210
+
+
+
+dealt during the life of the contract. The parties’ June 18 contract was signed by “Richard P.
+Fite” as contracting officer, although Fite disappears from the record completely thereafter.
+Appellant’s Hr’g Ex. 6. The parties’ October 25 contract was signed by “Suzanne J. Peck” as
+contracting officer. Appellant’s Hr’g Ex. 7. At the time, Peck was also the District’s Chief
+Technology Officer. Id. Bruce Witty is also identified as a contracting officer herein but testified
+that he “struggl[ed] with that role because he signed no contracts[.]” Hr’g Tr. Vol. 2, 491:3-15.
+Adsystech’s project manager10 testified that no one identified themselves as contracting officer
+on the DCRA contract. Hr’g Tr. vol. 2, 440:6-13.
+
+        The above notwithstanding, Theresa Lewis emerges as the one District official exercising
+day-to-day authority over all aspects of the Hansen upgrade contract. Although she did not
+testify at the hearing, she is described by appellant’s and appellee’s witnesses alike as the
+singular District official in charge of the upgrade. Adsystech’s project manager described Lewis
+as “the one point person appointed by the [DCRA] Director” for the project, “the key person in
+charge of all of the various DCRA divisions” acquiring the Hansen system, and the person
+exercising “direction or control” over the parties’ contract. Hr’g Tr. vol. 2, 238:10-17; 438:22-
+442:20. Adsystech’s project manager further testified that contracting officer Bruce Witty
+“confirmed Theresa Lewis as the person for all requirements[.]” Hr’g Tr. vol. 1, 239:13-240:19.
+Adsystech’s business development director testified that “Theresa knew DCRA like the back of
+her hand. She understood all the applications… knew exactly how things were managed, run.
+She was just a wealth of knowledge[.]” Hr’g Tr. vol. 2, 465:15-466:8. He also described Lewis
+as the “gatekeeper” and the “one that knew and approved everything[.]” Id.
+
+        Ms. Lewis was similarly described by the District’s two witnesses, contracting officer
+Bruce Witty and former DCRA Deputy Director and Interim Director Carlynn Fuller (Fuller or
+Interim Director).11 Witty testified that Lewis was the contracting officer’s technical
+representative. Hr’g Tr. vol. 2, 536:16-537:3. Fuller testified that, “because of the nature of the
+project and the areas that were being affected by the project, it was Theresa Lewis’ project
+because most of the areas with the exception of one fell under her role as Deputy Director[.]”
+Hr’g Tr. vol. 2, 536:16-538:22; 592:1-19.
+
+        In lieu of the KPMG study, Adsystech was directed by Lewis to work directly with
+designated DCRA staff to “extract and develop” the requirements of DCRA’s system through
+incremental mapping. Hr’g Tr. vol. 1, 65:5-67:4; 240:20-242:22. The project manager testified
+that implementation of the Hansen system using the KPMG study would have been inadequate,
+and that the input of DCRA employee stakeholders was required for “additional extraction
+work.” Id. at 228:14. Adsystech testified that mapping DCRA’s system in this manner added
+more work and cost/scheduling changes. Id., 67:14-71:1. For example, Adsystech’s project
+manager testified that DCRA stakeholders “had full time job[s] providing and delivering
+licenses” and were not available to fill in mapping details. Hr’g Tr. vol. 1, 243:1-244:21. The
+project manager also testified that DCRA stakeholders either did not show up for meetings, or
+10
+   Roland Gillis testified that he was Adsystech’s “chief person, officer over the whole contract[.]” Hr’g Tr. vol. 1,
+246:3-9. For ease of reference, Mr. Gillis is referred herein as Adsystech’s project manager.
+11
+   Carlynn Fuller served as DCRA’s Interim Director from September 2000 to April 2001. Hr’g Tr. vol. 2, 590:11-
+591:5. Prior to that, she served a variety of roles at DCRA, including Chief of Staff and Deputy Director for
+Operations. Id. Fuller became involved in the Adsystech contract matter around March 2000 as a result of Adsystech
+“running out of money.” Hr’g Tr. vol. 2, 592:20-593:14.
+                                                        -5-                     Adsystech, Inc., CAB No. D-1210
+
+
+
+that the “wrong people” were at meetings. Hr’g Tr. vol. 2, 362:17-363:16. Thus, the project
+manager testified that Adsystech’s work with line staff required “more labor” than anticipated.
+Hr’g Tr. Vol. 1, 244:7-10; Hr’g Tr. vol. 2, 356:15-19 (the District’s failure to deliver to-be
+processes in an efficient manner caused Adsystech to perform extra work).
+
+        By January 2000, Adsystech became aware that its Hansen upgrade contract was running
+out of funds. Hr’g Tr. vol. 1, 69:2-10; 88:3-89:14; 89:19-90:19. Hr’g Tr. vol. 2, 467:17-469:5.
+During the course of the contract, Adsystech officials had direct communications regarding the
+funding shortage with contracting officer Peck, the DCRA Director, Lewis, and Witty (who had
+been tasked by Peck to address the funding issue). Hr’g Tr. vol. 1, 89:5-92:5; Hr’g Tr. vol. 2,
+472:8-473:7. The Adsystech CEO also testified that Adsystech made bi-weekly status reports to
+DCRA after he alerted them to the concern about the funding shortage. Hr’g Tr. vol. 1, 84:12-
+85:3; see also Appellee’s Hr’g Exs. 19-21.
+
+        Notwithstanding the funding shortage, Adsystech was requested by various District
+officials to continue performance because the Hansen upgrade had not been fully implemented as
+of January 2000. Adsystech’s business development director testified that contracting officer
+Peck and DCRA official Lewis told Adsystech to stay on the job. Hr’g Tr. vol. 2, 482:12-17;
+482:22-483:1. Neither Peck nor Lewis testified at the hearing. Adsystech’s business
+development director testified that other District officials requested it to stay on the job as well
+including, contracting officer Witty, the DCRA Director, its Interim Director, and James Brady
+(a District official designated as contracting “specialist” before Witty assumed the role of
+contracting officer). Hr’g Tr. vol. 2, 472:8-473:7; 481:11-484:2.
+
+         Other hearing evidence established that several District officials with knowledge of the
+funding shortage failed to direct Adsystech to stop work. Adsystech’s business development
+director testified that contracting officer Witty knew that Adsystech worked on the DCRA
+project throughout 2000. Hr’g Tr. vol. 2, 483:6-484:2. Witty himself testified that in “August,
+September of 2000[,]” contracting officer Peck asked him to “get involved in the [DCRA
+Hansen] contract to find out where it is going at the time they were running without funds and I
+was to see what I could do to help out…” Hr’g Tr. vol. 2, 491:16-492:8. Witty testified further
+that he was aware that Adsystech was “definitely performing work” at DCRA in August 200012.
+Hr’g Tr. vol. 2, 531:3-18. Nonetheless, Witty testified that he did not issue a stop work order
+because, I’m not in a position to say absolutely stop work and then have my butt kicked because
+I stopped something that was in process or ready to go[.]” Hr’g Tr. vol. 2, 527:9-528:4. Witty
+testified further that, “[t]here are ways, at that time especially, to do a ratification to cover that,
+so I didn’t want to be the person to stop it at that point[.]” Id.; 528:5-8.
+
+       Adsystech’s project manager also testified that Lewis never instructed Adsystech to stop
+work because the contract funds were exhausted. Hr’g Tr. vol. 1, 265:9-20.13 Further, DCRA’s
+Interim Director conceded that she too “never told them to stop working” although she knew
+
+12
+   Witty acknowledges that he worked on two Adsystech contracts during this period but his testimony is clear that
+he was aware of the instant contract during the August 2000 period. Id.
+13
+   In fact, the Adsystech project manager testified that no District official ever advised Adsystech to stop contract
+performance, including Lewis, contract officers Peck and Witty, Office of Contracting and Procurement contracting
+specialist James Brady, and DCRA senior official Carlynn Fuller. Hr’g Tr. vol. 1, 265:9-20.
+                                                        -6-                      Adsystech, Inc., CAB No. D-1210
+
+
+
+Adsystech employees were working on site at DCRA. Hr’g Tr. vol. 2, 612:1-614:3.14
+
+        In addition to the record showing that various District officials requested Adsystech to
+continue performance (and/or failed to direct Adsystech to stop performance), the record also
+shows that contracting officer Peck, contracting officer Witty, Lewis, and the DCRA Director
+promised Adsystech payment for work undertaken after contract funds were exhausted. For
+example, the Adsytech CEO testified that Peck stated that she would request that Witty resolve
+the funding issue. Hr’g Tr. vol. 1, 98:18-102:4. Although uncertain of the date that Peck made
+the above representation, Adsystech’s CEO testified that he believed it was before the April 2001
+stop work order was issued.15 Id. The record also indicates that Witty informed Adsystech in an
+October 2000 email that “I am working on your back payment issues and expect the process to
+take to [m]id November to find and obligate the funds. Payment is likely to be made no sooner
+than January even if I pushed hard.” Appellant’s Hr’g Ex. 14.
+
+         Adsystech’s project manager also testified that he was in attendance at meetings with
+Lewis where she assured Adsystech of payment. Hr’g Tr. vol. 1, 260:1-18; 263:3-8. The
+District’s witnesses did not contradict this statement. Rather, the Interim DCRA Director
+testified that she attended a March 2, 2000, meeting with Adsystech, Lewis and others. When
+asked whether “anyone, yourself or Theresa Lewis, or anyone else” [at the meeting] promised to
+secure additional money for Adsystech, the Interim Director testified only that “I know I
+didn’t[.]” Hr’g Tr. vol. 2, 593:15-597:10. Her testimony was silent as to any payment
+representations that Lewis may have made.
+
+       Further, the DCRA Director met with Adsystech representatives in or around July 2000.
+In a September 13, 2000, follow up letter, the Director wrote:
+
+         “[b]y this letter, I am authorizing payment once we receive and accepted [sic]
+         these deliverables, and have been provided with a demonstration [of] the system
+         designed for the Office of Adjudication, as well as any additional deliverables
+         discussed during [our]meeting.”
+
+         Appellee’s Hr’g Ex. 7; Hr’g Tr. vol. 1, 161:14-163:14.
+
+        In addition to the inadequacy of the KPMG study, there were two other factors leading to
+Adsystech’s performance of additional contract work herein: problems with final data
+conversion, and the development of DCRA’s Master Business License (MBL) permit, and
+problems encountered with final data conversion. As regards the MBL development,
+Adsystech’s scope enlarged significantly during the contract due to Theresa Lewis’ request that
+it develop a MBL as part of the upgrade. A MBL is a license that replaces a merchant’s
+obligation to apply separately for multiple licenses, with a simplified process whereby a single
+14
+   The former official testified, however, that her understanding was that Adsystech was “finishing up the contract”
+and not doing any “new work.” Hr’g Tr. vol. 2, 612:1-614:3. We do not see the significance in the distinction for
+purposes of determining whether District contract officials authorized (directly or through ratification) Adsystech to
+continue performance after contract funds had been exhausted. Neither party contends herein that work performed
+by Adsystech after exhaustion of contract funds was for “new work” unrelated to the parties’ June 18 and October
+25 contracts.
+15
+   The stop work order issued herein is discussed infra at pp. 7-8.
+                                                       -7-                    Adsystech, Inc., CAB No. D-1210
+
+
+
+license is issued authorizing all of a merchant’s regulated activity. Hr’g Tr. vol. 1, 266:10-
+267:18. The MBL was not originally a part of the parties’ contract scope. Hr’g Tr. vol. 1, 209:15-
+210:18; 236:17-238:9. Their original scope called for separately-issued multiple business
+licenses. Id. But Theresa Lewis learned about the MBL concept during a visit to Washington
+state, and “thought it could work in the District[.]” Hr’g Tr. vol. 2, 664:16-665:21. There was no
+written guidance to Adsystech, however, as to development of the MBL because the KPMG
+study did not address it, and much of the concept was “in [Lewis’] head.” Hr’g Tr. vol. 1, 234:4-
+238:9; 309:21-310:21.
+
+        Lewis assigned a key person to provide Adsystech with DCRA’s business logic, and in
+reliance thereon, Adsystech spent “numerous hours and weeks” developing a MBL that met with
+the assigned staffer’s approval. Hr’g Tr. vol. 1, 249:5-21. When presented with Adsystech’s
+initial MBL, however, Lewis rejected it stating that her staff had provided Adsystech with the
+wrong requirements. Id. 249:5-250:4. As a result, Adsystech informed Lewis that the changes
+would require additional work, and add to the cost. Id. 250:18-22. Ultimately, Adsystech put in
+the additional work to create an acceptable MBL which was used by Lewis in a demonstration
+for businesses of how the new licensing process would work. See Appellant’s Supp. Ex. 38; see
+also Hr’g Tr. vol. 1, 270:7-272:19; vol. 2, 384:10-385:8.
+
+        With respect to final data conversion, Adsystech performed additional work because of
+DCRA’s inability to provide the final data required for conversion. Adsystech testified that data
+conversion consisted largely of three steps: (1) selection of data to migrate, (2) Adsystech’s
+development of the “tool” to take data from the old system to the Hansen system, and (3) the
+user-community’s clean-up of the migrated data afterward. Hr’g Tr. vol. 2, 365:12- 368:14.
+Adsystech testified that DCRA staff failed to and/or were untimely delivering data from its
+various databases to Adsystech for ultimate conversion to the Hansen system. Hr’g Tr. vol. 1,
+244:11-21. As a result, Adsystech testified that it ended up “putting development staff on there
+to actually get certain information that they were supposed to provide themselves, the [DCRA]
+IT staff[.]” Hr’g Tr. vol. 2, 368:16-369:5. Consequently, Adsystech testified that it performed
+more work on data conversion than intended under the parties’ contract. Hr’g Tr. vol. 2, 368:15-
+369:16.
+
+        In total, Adsystech continued to perform services and bill therefore for 13 months
+following the point at which the parties were aware that contract funds were exhausted. During
+the 13 month period in question, Adsystech submitted 9 invoices to the appellee totaling
+$713,305. Adsystech’s invoices were submitted at the approximate rate of one per month.16
+
+        The District issued a Stop Work Order (SWO) on April 3, 2001. Appellant’s Hr’g Ex. 11.
+The SWO was issued by contracting officer Witty who testified that he issued the order because
+he “was told by [DCRA’s IT official], the day before, that he would like to have the stop
+order[.]” Hr’g Tr. vol. 2, 509:15-510:4. Witty testified that he didn’t think the DCRA IT person
+gave a reason. Id. 510:7-11. Witty went on to testify that his personal belief was that the order
+came about because a newly-hired OCTO consultant17 wanted Adsystech’s contract stopped
+
+16
+   Appellant submitted one invoice on June 2, 2000, covering the four month period February 1, 2000, to May 31,
+2000. Thereafter appellant submitted one invoice per month until April 12, 2001. Hr’g Supp. Ex. 36a.
+17
+   The newly-hired official was “Kim Henderson.” Witty testified that “if [he] had to guess”, Kim Henderson joined
+                                                          -8-                       Adsystech, Inc., CAB No. D-1210
+
+
+
+because of a funding shortage, and Adsystech’s purported use of “triggers” instead of the Hansen
+system.18 Hr’g Tr. vol. 2, 510:12-516:3.
+
+        The District’s stated reason for issuing the SWO, however, was very different. An email
+sent by Witty to the Adsystech CEO approximately one month after the District issued the SWO,
+indicates that it was issued due to allegations that the District did not receive services they paid
+for and, therefore, was conducting “a routine review of all deliverables under the contract[.]”19
+The email also noted that the SWO would be released “[i]f the review finds nothing.”
+Appellant’s Hr’g Ex. 13.
+
+         At the time that the SWO was issued, Adsystech testified that the Hansen system had not
+gone “live” in any of the DCRA administrations,20 but that Adsystech had completed its
+contractual performance and was awaiting DCRA’s clean up of data redundancies so that
+Adsystech could do a final data conversion and go live. See Hr’g Tr. vol. 1, 266:4-266:9; Hr’g
+Tr. vol. 2, 351:16-353:2; Hr’g Tr. vol. 2, 354:3-21; Hr’g Tr. vol. 2, 369:17-370:18; Hr’g Tr. vol.
+2, 383:7-22; 389:4-8; Hr’g Tr. vol. 2, 391:20-392:7.21
+
+        Evidence adduced at the hearing regarding the status of Adsystech’s contract completion
+at the time of the SWO included (1) very detailed testimony by Adsystech’s project manager
+regarding its contract performance, and (2) three contemporaneous written documents prepared
+between January 3, 2001, and April 6, 2001 (two prepared by Adsystech and the third by a
+District consultant). We briefly summarize the evidence below.
+
+        Adsystech’s project manager provided very detailed testimony during which he
+concluded that each of the 10 tasks outlined in the parties’ agreed upon statement of work was
+completed. He also testified that the District did not reject any Adsystech deliverables required
+by the contract. Hr’g Tr. vol. 2, 353:21-354:2. His testimony was not contradicted by the
+District’s two witnesses, neither of whom appeared to be familiar with the technical nature of the
+contract’s performance requirements, nor engaged in contract oversight or administration.22
+
+       The Adsystech project manager’s testimony regarding its completion of each contract
+task can be summarized as follows:
+
+
+OCTO in January 2001 (or later) and that the DCRA contract was one of his projects. Hr’g Tr. vol. 2, 513:1-515:19.
+18
+   Triggers are programming code that directs the system to automatically take data entered on one screen, and store
+or enter it elsewhere in the system. Hr’g Tr. vol. 1, 297:4-17.
+19
+   Mr. Witty also stated that, “[t]here are allegations that [the District has] not received all of the deliverables under
+the contract.” Appellant’s Hr’g Ex. 13.
+20
+   He testified that the MBL was “on the verge of going live” and was so close to going “live” that Ms. Lewis “had a
+public showing with businesses…[on] how it was going to change and … benefit” them, and that “[Adsystech had]
+already loaded it in the production one stop environment for them to showcase it[.]” Hr’g Tr. vol. 2, 384:10-385:8.
+He also testified that some processes in BRA were live, and that Hansen was “at some level of operation” at BLRA.
+Hr’g Tr. vol. 2, 384:10-390:4.
+21
+   Adsystech’s project manager also testified that it had not completed integration of the Hansen system into the
+District’s larger citywide Call Center program at the time of the SWO. Hr’g Tr. vol. 2, 370:19-372:15. We discuss
+this issue under “Task 9” infra at p. 10.
+22
+   Witty did not appear to understand the technical nature of the services provided under the contract. See, e.g., Hr’g
+Tr. vol. 2, 513:20-514:21. Similarly, Fuller’s lack of technical depth is noted herein at pp. 12-13.
+                                                             -9-                      Adsystech, Inc., CAB No. D-1210
+
+
+
+                  TASK 1 is identified as “Project Kick-off,” which is defined as a meeting
+           between Adsystech and DCRA management and other key staff. Appellee’s
+           Hr’g Ex. 3, p.2. The project manager testified that the meeting was held in July
+           1999. Hr’g Tr. vol. 2, 313:12-17.
+
+                  TASK 2 is identified as “Project Implementation Plan,” which
+           Adsystech’s project manager testified was delivered to DCRA on or before
+           December 9, 1999. Appellee’s Hr’g Ex. 3, p.2. Hr’g Tr. vol. 2, 322:7-323:1.
+           Additionally, contracting officer Peck corroborated Adsystech’s completion of the
+           plan in her October 25, 1999, “Council Contract Summary,” transmitting the
+           October 25 contract to the Council of the District of Columbia for review.
+           Appellee’s Hr’g Ex. 5.
+
+                    TASK 3 is identified as “Implementation Priorities” for the Hansen
+           upgrade, which the project manager testified was completed when Adsystech
+           submitted the project plan to DCRA (i.e., on or before December 9, 1999).
+           Appellee’s Hr’g Ex. 3, p.2. Hr’g Tr. vol. 2, 327:7-8; 331:10-22. The project
+           manager testified that BLRA/Group 1 was prioritized. Id. 327:7-329:3. He
+           testified further that this task involved identification of over 300 new tables that
+           Adsystech needed to build in furtherance of the upgrade. 23 Id. 329:4-330:9.
+
+                   TASK 4 is identified as “Software and Training,” which included software
+           licenses, a maintenance contract for 150 concurrent users, installation rights, a
+           training plan, training, and a user acceptance test. Appellee’s Hr’g Ex. 3, p.3. The
+           project manager testified that the training plan and training deliverable were
+           provided. Hr’g Tr. vol. 2, 346:5-7; 347:3-348:15. He also testified that the
+           required software, licenses and maintenance plan were acquired per the statement
+           of work. Hr’g Tr. vol. 2, 319:4-320:18. Finally, he testified that all of the user
+           tests were completed. Id. 372:16-373:22.
+
+                   TASK 5 is identified as “Develop System Implementation Specifications,”
+           which the project manager testified meant creation of the tables, databases,
+           screens, work flow processes, and reports (i.e., permits) printed out by the
+           system. Appellee’s Hr’g Ex. 3, p.4; Hr’g Tr. vol. 2, 348:16-349:16. More
+           specifically, the project manager testified that its deliverable was to provide a
+           template by which DCRA could print the various licenses, permits, vouchers, etc.
+           that it issued. Id. 349:17-352:14. The project manager testified that Adsystech
+           delivered templates for all of the required processes. Hr’g Tr. vol. 2, 352:16-
+           353:2.
+
+                  TASK 6 is identified as “Review and Validate Process Flows,” which the
+           record indicated was not an Adsytech task, but rather a DCRA one. Appellee’s
+           Hr’g Ex. 3, p.4 (“DCRA will deliver documentation and process flows of “as is”
+           processes to the Contractor…”); see also Hr’g Tr. vol. 2, 355:4-17. The project
+
+23
+     A table is akin to a spreadsheet that stores user data entered at a particular screen. Hr’g Tr. vol. 1, 297:18-298:20.
+                                              -10-                 Adsystech, Inc., CAB No. D-1210
+
+
+
+       manager testified that the KPMG study was a part of this task, but that certain
+       “content,” “fields” and “business logic” information had to be gotten from the
+       [DCRA] focus group members[.]” Hr’g Tr. vol. 2, 355:22-356:14. The project
+       manager testified that DCRA failed to complete Task 6 in an efficient manner. Id.
+       356:15-19.
+
+               TASK 7 is identified as “Implementation Processes,” which the record
+       indicates, and the Adsystech project manager testified, meant selecting the 11
+       core processes that were to be implemented under the June 18 contract.
+       Appellee’s Hr’g Ex. 3, p.5; Hr’g Tr. vol. 2, 356:20-358:10.
+
+               TASK 8 is identified as “Data Conversion,” which the record indicates
+       and the project manager testified, meant delivery of a data conversion standards
+       document to DCRA, Appellee’s Hr’g Ex. 3, p.5, Hr’g Tr. vol. 2, 363:17-364:5,
+       analysis of existing raw data for the purposes of determining whether DCRA
+       wanted to migrate it to the new system, id. 366:2-10, writing “the tool” to migrate
+       data from the old to the new system, id. 366:21-367:9, and data clean-up (removal
+       of duplicates, identification of missing information, etc.). Id. 366:11-20. The
+       project manager testified that Adsystech provided the conversion document to
+       DCRA, id. 363:17-364:5, and completed the data conversion, except for master
+       license duplicates as to which DCRA was responsible. Id. 367:10-368:14; 369:17-
+       370:18. The project manager went on to testify that Adsystech performed more
+       work under Task 8 than contemplated under the original contract. Id. 368:15-
+       369:10. He testified that this work included the assignment of Adsystech
+       “development staff” to work on “get[ting] certain information that they [DCRA]
+       were supposed to provide themselves[.]” Id.
+
+               TASK 9 is identified as “System Interfaces and Integration,” which the
+       record indicates and the Adsystech project manager testified, meant building
+       interfaces between the Hansen system and other District systems, including, but
+       not limited to, the citywide Call Center and the Rapid System (a remote device for
+       inspector data-entry). Appellee’s Hr’g Ex. 3, p.6; Hr’g Tr. vol. 2, 370:19-371:18.
+       The project manager testified that Adsystech did not complete the Call Center
+       interface, and that he did not remember if it completed the Rapid System one. Id.
+       371:19-372:15. He testified that a meeting with Theresa Lewis to discuss the
+       interface did not result in any decisions, and that the interface task remained
+       unresolved at the time of the SWO. Id. 371:19-372:15.
+
+               TASK 10 is identified as “Customized Training Guide.” Appellee’s Hr’g
+       Ex. 3, p.6. Adsystech did not provide testimony indicating whether it completed
+       this task, nor did it submit a copy of the guide as an exhibit into our record.
+
+        In addition to the project manager’s testimony regarding task completion, the record
+includes an email sent by Adsystech’s project manager to a District official on January 10, 2001,
+that references an attached Adsystech report addressing the creation of an interface between the
+                                                        -11-                     Adsystech, Inc., CAB No. D-1210
+
+
+
+Hansen system and a web portal under consideration.24 Appellant’s Hr’g Ex. 49. During this
+period, DCRA realized that it could not manually process all of the expected master business
+license renewals, and sought to work with Adsystech to “create a self-help web interface portal
+where people could go online …and they could then self-create their…license and pay for it[.]”
+Hr’g Tr. vol. 1, 272:20-274:5. The significance of the attachment is that it purports to
+summarize work already completed by Adsystech as of January 3, 2001 (the date on the
+report).25
+
+        Adsystech’s project manager testified that the report documented the methodology by
+which Adsystech completed the Hansen implementation, provided a description of the completed
+system, and listed an inventory matrix itemizing the “sheer volume of work that [Adsystech] had
+to do to implement the full solution that was currently in use within DCRA[.]” Hr’g Tr. vol. 1,
+284:17-299:14. The document itself portrays the Hansen implementation as having been
+completed, and includes a narrative that summarizes numerous components of the completed
+system (e.g., an Oracle Enterprise Server 8.0.3 relational database, over 1,400 tables (including
+400 custom tables to support DCRA’s unique business processes), over 300 triggers and stored
+procedures, and, functions to organize/schedule inspections and calculate fees based on
+application type). Appellant’s Hr’g Ex. 49. In short, Exhibit 49 portrays Adsystech’s
+performance as being complete or nearly complete as of January 3, 2001.26
+
+          Further, a second Adsystech contemporaneous document, dated February 8, 2001, also
+shows that Adsystech’s performance was complete or substantially complete as of its date.
+Appellant’s Hr’g Ex. 31. The document is a de facto punch list, and appellant's project manager
+testified that he and Theresa Lewis agreed that the schedule of items in the document reflected
+their final list of contract items requiring completion. Hr’g Tr. vol. 2, 379:2-380:22. The project
+manager also testified that DCRA was presented with the document one month before it issued
+the SWO. Hr’g Tr. vol. 1, 268:5-269:1. The document lists three categories of remaining work
+items as of February 8, 2001. Appellant’s Hr’g Ex. 31. The Adsystech project manager
+provided the following testimony regarding Adsystech’s eventual completion of these items:
+
+                  Master License Deployment Schedule: The project manager
+                  testified that it completed most tasks required for the final data
+                  conversion of the Master Business License, including “providing
+                  the document, providing the mapping, actually writing the code
+                  that had to do the actual conversion process[,]” but never received
+24
+   Adsystech was asked by OCTO Deputy Director Jack Pond to become involved in connecting the Hansen system
+to the DCRA website and, by January 2001, Adsystech was “heavily engaged” in the project. Id. According to
+Adsystech’s project manager, the project eventually “subsided” and “everything stopped.” Hr’g Tr. vol. 1, 290:1-
+17.
+25
+   The report is titled, “Technical Overview For Department of Consumer and Regulatory Affairs eBusiness Center
+Interface to the DCRA Permits and Licensing Hansen Enterprise Solution[.]” Appellant’s Hr’g Ex. 49.
+26
+   The District did not challenge the accuracy of the report on cross-examination. Additionally, its witnesses did not
+challenge the accuracy of the Adsystech report in the District’s case-in-chief. Finally, the District’s post-hearing
+brief does not specifically challenge the accuracy of the report. At the hearing, however, the District objected to
+introduction of Appellant’s Hr’g Ex. 49 because it was not produced during discovery. Hr’g Tr. vol. 2, 278:17-
+280:22. The Presiding Judge agreed to allow questioning on Ex. 49, but ruled that the decision on its admissibility
+would be determined later. Id. The record is unclear as to whether the Presiding Judge eventually allowed Ex. 49
+into evidence.
+                               -12-                 Adsystech, Inc., CAB No. D-1210
+
+
+
+DCRA’s final version of the data needed to go into final
+production. Hr’g Tr. vol. 2, 381:1-383:15. The project manager
+testified that if the DCRA data had been delivered timely,
+Adsystech could have gone into final production on March 6,
+2001. Hr’g Tr. vol. 2, 383:16-384:9. Nonetheless, the project
+manager testified that Adsystech provided DCRA with a system
+that produced master licenses. Hr’g Tr. vol. 1, 270:7-272:19. The
+appellant also provided an example of a completed MBL for our
+record. Appellant’s Hr’g Ex. 38a.
+
+OAD Deployment Schedule: The project manager testified that
+“there were no issues with closing out OAD. It was minor
+things[.]” Hr’g Tr. vol. 2, 387:2-389:3. As a whole, the project
+manager appeared to have very little recollection as to whether it
+completed OAD’s Hansen implementation punch list. Id.
+
+6 Remaining Adsystech Work Items: The project manager testified
+that one outstanding item was creation of a “flag” notifying the
+Office of Tax and Revenue of certain tax information before
+issuance of a license. Hr’g Tr. vol. 2, 390:5-22. The project
+manager testified that it was completed. Id. 391:5-13. A second
+outstanding item pertained to corporations, which the project
+manager also testified was done. Id. 391:14-19. A third outstanding
+item was described as matching addresses in DCRA’s legacy
+database to business licenses in the Hansen system. Id. 391:20-
+393:19. The project manager testified that the conversion of the
+legacy database addresses to Hansen never occurred because
+DCRA was “not capable of doing” it. Id. A fourth outstanding item
+was Adsystech’s receipt of final DCRA feedback on the MBL
+templates that appellant developed. Id. 394:13-396:16. The
+project manager testified that it received final feedback from
+Theresa Lewis on MBL templates. Id. 395:12-396:16. A fifth
+remaining work item entailed revisions Adsystech was supposed to
+make to DCRA’s renewal bill report. Id. 396:17-398:5. However,
+the project manager testified that DCRA needed to provide
+Adsystech with data, and then Adsystech would make the final
+revisions. Id. The project manager testified that he could not
+remember if the fifth item was finalized. Id. A sixth remaining
+Adsystech work item was data clean-up. Hr’g Tr. vol. 1, 268:5-
+270:6. The project manager testified that data conversion was
+complete by this time (i.e., February 8, 2001) because data clean
+up would only occur after conversion. Id. He also testified that
+DCRA was given two weeks to review data in the Hansen system,
+and then tell Adsystech “what to clean up.” Id. Adsystech helped
+DCRA identify problems by providing them with “statistics[,]”
+“the types of problems[,]” and the “total numbers” of problems.
+                                                        -13-                    Adsystech, Inc., CAB No. D-1210
+
+
+
+                 Hr’g Tr. vol. 2, 398:6-400:13.
+
+        At the hearing, the District attempted to use the former DCRA Interim Director as a
+witness to dispute Adsystech’s evidence regarding contract completion. In this regard, the
+District sought to have the Interim Director validate statements made in an independent
+consultant’s two written reports that were critical of Adsystech’s performance. Neither the author
+of the reports, nor the District officials to whom they were submitted, testified at the hearing.27
+The Interim Director, however, did not appear to have sufficient personal knowledge of
+Adsystech’s performance, nor the technical mastery of the reports’ subject matter to discredit
+Adsystech’s performance.
+
+        Specifically, the Interim Director testified that “at some point” there were user
+complaints about the Adsystech system “not doing what they thought … it should do”, Hr’g Tr.
+vol. 2, 626:20-629:17, and that DCRA then retained Hansen Information Technologies (the
+consultant) to “find out does [Adsystech’s Hansen implementation] do what it is supposed to
+do[.]” Id. This development led to the consultant’s issuance of two critical reports on
+Adsystech’s implementation, and the consultant’s correction of the purported deficiencies. The
+consultant was paid $73,020 to correct 81 purported deficiencies noted in its first report dated
+April 6, 2001. Appellee’s Hr’g Ex. 10; Hr’g Tr. vol. 2, 632:8-635:5.28 The consultant was paid
+an additional $259,692 to correct 44 problems identified in a second report dated April 30, 2001.
+Appellee’s Hr’g Ex. 69; Hr’g Tr. vol. 2, 631:10-632:4; 648:1-18; Appellee’s Hr’g Ex. 73.
+
+        However, the Interim Director did not appear knowledgeable regarding the deficiencies
+noted in the first or second report. For example, the Interim Director testified that she didn’t
+know whether the consultant did any of the initial work (i.e., relating to the 81 identified first set
+of problems) because, “I don’t have the technical knowledge to go through each of these to say
+what was work and what was just an assessment[.]” Hr’g Tr. vol. 2, 648:19-649:7. On cross-
+examination the former Interim Director testified that she was not DCRA’s technical person, and
+conceded that the services performed by the consultant pursuant to the second contract may have
+been beyond the scope of Adsystech’s contract. Hr’g Tr. vol. 2, 653:6-654:16. Her latter
+testimony appears consistent with that of Adsystech’s project manager, whose testimony noted
+that the consultant’s criticism of Adsystech pertained to DCRA’s upgrade from Hansen Version
+7.0 to Version 7.5, which exceeded Adsystech’s contractual obligation to implement Version 7.0.
+Hr’g Tr. vol. 2, 429:11-430:12. The parties’ June 18 statement of work specified an upgrade to
+Hansen Version 7.0. Appellee’s Hr’g Ex. 3.
+
+        In contrast to the former Interim Director’s testimony, the Adsystech project manager
+provided an item-by-item response to the 81 purported deficiencies noted in the consultant’s first
+report. Hr’g Tr. vol. 2, 375:10-431:13. The essence of the project manager’s testimony was that
+the consultant’s noted deficiencies were either things Adsystech was not tasked to do (contract
+“enhancements” requiring a modification, items not on the parties agreed-to punch list, etc.), or
+27
+   The first report was signed by the consultant’s Chief Operating Officer “Kent Johnson,” based on analyses
+performed by employees “Keith Hobday” and “Terry Dunn.” Appellee’s Hr’g Ex. 10. It was addressed to “Kim
+Henderson,” an OCTO contractor dispatched to DCRA for help on some of its problems. Hr’g Tr. vol. 2, 628:17-
+629:2; 649:21-650:19. Neither Johnson, Hobday, Dunn nor Henderson testified at the hearing.
+28
+   The purchase requisition is signed by the Interim Director on April 17, 2001, and by the contracting officer (name
+unclear) on April 18, 2001. Appellee’s Hr’g Ex. 68.
+                                                           -14-                    Adsystech, Inc., CAB No. D-1210
+
+
+
+minor issues like training. Id. Moreover, the Board notes that none of the 81 purported
+deficiencies appear on the parties’ February 8, 2001, punch list. Appellant’s Hr’g Ex. 31
+(discussed infra at pp. 11-12). Finally, the Board notes that the consultant’s April 6 report
+corroborates Adsystech’s contention that there were considerable data redundancy problems in
+DCRA’s database. See, e.g., Hr’g Tr. vol. 2, 425:13-18; 428:11-16 (noting that the consultant’s
+report mentions the same data redundancies at items H.2, H.4, and H.12 that Adsystech
+complained of in its communications with DCRA).
+
+         The SWO was never released, nor did Adsystech ever receive a cure notice, termination
+letter, or similar notification from the District. Hr’g Tr.vol. 1, 133:19-135:10. Adsystech’s
+instant claim is for the $44,165 balance remaining on its June 18, 1999, contract, and the
+$713,305 in nine unpaid invoices under its October 25, 1999, contract. Therefore, in all,
+appellant seeks an equitable adjustment in the amount of $757,470 under the theory of
+constructive change (implied ratification). Alternatively, the appellant seeks recovery under the
+theories of promissory estoppel and quantum meruit.
+
+        Conversely, the appellee contends that the Anti-Deficiency Act bars payment because
+Adsystech’s billings exceed the contract ceiling price, and/or that the parties’ agreement to
+continue services after funds exhaustion embodies an impermissible oral agreement. Appellee’s
+Post Hr’g Br. 11-14. The appellee also denies that District contracting officials ratified
+Adsystech’s provision of services, asserting that ratification is valid only when it follows the
+“official ratification procedure” set forth in former D.C. Code § 2-301.05(d)(5) and the District’s
+Procurement Policy and Procedure Directive No. 1800.00 (each discussed below). Id. 14-20.
+Finally, the District contends that the Board lacks jurisdiction over quantum meruit claims, that
+equitable estoppel does not apply because its agents were not authorized to enter a contract with
+Adsystech, and that equitable adjustment cannot be invoked to authorize a payment that exceeds
+a District purchase order. Id. 20-26.
+
+                                                   DISCUSSION
+
+        We exercise jurisdiction over this matter pursuant to D.C. Code §2-360.03(a)(2) (2011).29
+The Board’s jurisdiction herein is not disputed by the appellee. Appellant submitted claims to
+contracting officer “James Brady” pertaining to the above on December 9, 2002. AF Ex. 18. In a
+letter dated December 20, 2002, Brady informed the appellant that “Bruce Witty is the correct
+Contracting Officer[,]” and that the claim would be forwarded to Witty. Id. Our record does not
+indicate when, or whether, Brady forwarded appellant’s claims to Witty. No decision was ever
+forthcoming from Witty. As a result, the appellant filed its Notice of Appeal with the Board on
+June 20, 2003, noting that its claim had been “pending, without decision…since late December
+2002[.]” AF, Notice of Appeal, June 20, 2002. Under these circumstances, we conclude that the
+Board’s jurisdictional prerequisites have been met in this case.
+
+        The recitation of facts stated in the background, discussion, and conclusion sections
+constitute the Board’s findings of fact in accord with D.C. Mun. Regs. tit. 27, § 214.2 (2002).
+Additionally, rulings on questions of law, and mixed questions of fact and law are set forth
+throughout our decision.
+29
+     Prior to April 8, 2011, the Board exercised jurisdiction pursuant to D.C. Code § 2-309.03(a)(2)(2001).
+                                               -15-                 Adsystech, Inc., CAB No. D-1210
+
+
+
+
+        There are four issues presented in this case. The first issue is whether the appellant is
+entitled to an equitable adjustment under the theory of constructive changes. The second issue is
+whether Adsystech performed its contractual obligations herein. The third issue is whether the
+Anti-Deficiency Act bars appellant’s recovery. Finally, the fourth issue is whether appellee’s oral
+requests that Adsystech continue performance on the instant contract after the depletion of
+contract funds constitutes an impermissible oral contract.
+
+        Based upon our review of the record, we conclude that Adsystech is entitled to an
+equitable adjustment for constructive changes ordered and/or ratified by District contracting
+officials. We also conclude that Adsystech completed its contractual obligation to implement
+DCRA’s Hansen upgrade. Further, we conclude that the Anti-Deficiency Act does not apply
+instantly, and thus is not a bar to appellant’s recovery. Finally, we conclude that former D.C.
+Code §§ 2-301.05(d)(5) (ratification procedures) and 2-301.05(d)(3) (barring oral contracts) do
+not apply instantly. We remand this matter to the appellee for a determination of quantum. The
+parties shall notify the Board within 30 days of the status of negotiations. We address the merits
+issues below.
+
+     Appellant Is Entitled To An Equitable Adjustment Due To Constructive Changes
+
+        An equitable adjustment is “simply [a] corrective measure utilized to keep a contractor
+whole when the Government modifies a contract[.]” Appeal of Grunley Const., Inc., CAB No.
+D-910, 41 D.C. Reg. 3622, 3638 (Sept. 14, 1993)(citing Construction Corporation v. United
+States, 163 Ct. Cl. 97 (1963)). In order to establish eligibility for an adjustment based on a
+constructive change, a contractor must demonstrate the occurrence of two events: a bona fide
+“change” and the issuance of an “order.” D.C. v. Org. for Envtl. Growth , 700 A.2d 185, 203
+(D.C. 1997) rev’d on other grounds sub nom, Abadie v. Org. for Envtl. Growth, 806 A.2d 1225
+(D.C. 2002); Appeal of Technical Construction, Inc., CAB No. D-730, 36 D.C. Reg. 4067, 4085
+(Mar. 14, 1989). A “change” is established when the actual performance goes beyond the
+minimum standards required by the contract. Org. for Envtl. Growth at 203. An “order” can be
+shown whenever a government representative, by words or deeds that go beyond mere advice,
+comment, suggestion, or opinion, requires the contractor to perform work which is not a
+necessary part of the contract. Id.
+
+        In the instant case, Adsystech has established both the “change” and “order” elements
+required to warrant an equitable adjustment. With respect to contract changes, the record shows
+that Adsystech’s actual performance went beyond the contract’s minimum standards in four
+ways. First, District contracting officials directed Adsystech to continue contract performance
+beyond the point at which contract funds became depleted. This was done to secure Adsystech’s
+performance in completing “to be” systems mapping, MBL development, and final data
+conversion. Thus, contracting officers Peck and Witty directed Adsystech to finish the Hansen
+upgrade. Peck directed Adsystech to continue performance through a direct request. Witty,
+through his failure to stop Adsystech’s performance, also “directed” Adsystech to continue
+performance. The evidence shows that Peck told Adsystech directly to stay on the job. Hr’g Tr.
+vol. 2, 482:12-17; 482:22-483:1. The evidence also shows that Witty knew as early as “August,
+September of 2000” that lapsed contract funds were an issue and that Adsystech was “definitely”
+                                               -16-                Adsystech, Inc., CAB No. D-1210
+
+
+
+still performing, yet he did not order them to stop performance. Hr’g Tr. vol. 2, 531:3-18; 527:9-
+528:4.
+
+        Second, Adsystech performed additional contract work prompted by the inadequacy of
+KPMG’s study of DCRA’s “to be” processes. Hr’g Tr. vol. 2, 355:4-356:19. In this regard,
+TASK 6 of the contract required DCRA to “deliver documentation and process flows of as is
+processes” to Adsystech. Appellee’s Hr’g Ex. 3, 4; see also Hr’g Tr. vol. 2, 355:4-17. As we
+noted, deficiencies in the KPMG study caused Adsystech to work directly with designated
+DCRA staff to “extract and develop” system requirements through incremental mapping. Hr’g
+Tr. vol. 1, 65:5-67:4; 240:20-242:22. This was a lengthy and tedious process, with dysfunctional
+meetings and reluctant DCRA stakeholders. Hr’g Tr. vol. 1, 243:1-244:21; Hr’g Tr. vol. 1,
+243:1-244:21. Moreover, this incremental approach to mapping DCRA’s system requirements
+resulted in additional work, as well as changes to contract cost and scheduling. Hr’g Tr. vol. 1,
+67:14-71:1.
+
+        Third, Adsystech performed additional work prompted by DCRA’s request for
+development of a MBL, and the multiple and differing requirements communicated to Adsystech
+regarding MBL development. In this regard, we noted that the MBL was not originally part of
+the parties’ contract scope. Appellee’s Hr’g Ex. 3, p.4; Hr’g Tr. vol. 1, 209:15-210:18; 236:17-
+238:9. The MBL concept “started out in Lewis’ head,” and was developed largely from scratch
+because the KPMG study was not useful guidance for developing MBL requirements. Hr’g Tr.
+vol. 1, 234:4-238:9; 309:21-310:21. Although TASK 5 of the parties’ contract called for the
+development of licenses, termed “reports” in the statement of work, there is no mention of a
+MBL, nor of a “report” with the functionality of the MBL. Appellee’s Hr’g Ex. 3, p.4; Hr’g Tr.
+vol. 2, 348:16-349:16. That notwithstanding, Adsystech eventually spent “numerous hours and
+weeks” developing a MBL according to requirements provided by DCRA staff, Hr’g Tr. vol. 1,
+249:5-21, only to have Lewis reject its work because she disagreed with how DCRA staff
+identified MBL requirements. Id. 249:5-250:4. This led to even more MBL development work
+and the additional costs associated therewith. Id. 250:18-22.
+
+        Finally, Adsystech performed additional work helping DCRA complete internal data
+conversion. In this regard, TASK 8 of the parties’ contract required, inter alia, Adsystech to
+deliver a Data Conversion Standards Document to DCRA, Appellee’s Hr’g Ex. 3, 5; Hr’g Tr.
+vol. 2, 363:17-364:5, analyze raw data with DCRA for the purpose of allowing DCRA to
+determine the data to be migrated to the new system, id. 366:2-10, and perform data clean-up
+(removal of duplicates, identification of missing information, etc.). Id. 366:11-20. While
+Adsystech provided the conversion document to DCRA, id. 363:17-364:5, DCRA failed to
+complete data clean-up for the MBL. Id. 367:10-368:14; 369:17-370:18. DCRA staff also failed
+and/or were untimely delivering data from its various databases to Adsystech for ultimate
+conversion to the Hansen system. Hr’g Tr. vol. 1, 244:11-21. This required Adsystech to assume
+more work under Task 8 than was contemplated under the original contract. Id. 368:15-369:10.
+This additional work included the assignment of Adsystech “development staff” to work on
+“get[ting] certain information that they [DCRA] were supposed to provide themselves[.]” Id. It
+also included Adsystech’s development of “routines” to assist DCRA with identifying bad and
+duplicative data. See Hr’g Tr. vol. 2, 367:10-368:14.
+                                                        -17-                    Adsystech, Inc., CAB No. D-1210
+
+
+
+       With respect to the “order” element required for an equitable pricing adjustment, the
+record shows that District contracting officials Peck and Witty directed Adsystech to “stay on the
+job” to complete DCRA’s upgrade. The officials’ request that Adsystech remain on the job
+necessarily implied that Adsystech was directed by them to “finish” incomplete tasks, i.e., “to
+be” systems mapping, MBL development, and final data conversion. Thus, we conclude that
+authorized District officials ordered Adsystech to “stay on the job” to finish DCRA’s upgrade,
+and directed them to perform the additional work under Tasks 5, 6 and 8 as noted above.
+
+        The District’s manner of “ordering” these changes included contracting officer Peck’s
+direct request that Adsystech stay on the job, contracting officer Witty’s conduct consistent with
+a request that Adsystech continue performance, and Peck and Witty’s ratification of requests
+made by DCRA’s former Director and Lewis (the COTR) that Adsystech continue performance.
+As regards the contracting officer Peck’s direct request that Adsystech continue contract
+performance after funds depletion, she told Adsystech to stay on the job. Hr’g Tr. vol. 2, 482:12-
+17; 482:22-483:1. Peck was clearly mindful of the funding shortage when she directed Adsystech
+to continue working. For example, Adsystech’s CEO testified that Peck stated that she would
+request that Witty resolve the funding issue. Hr’g Tr. vol. 1, 98:18-102:4. This was corroborated
+by Witty himself, who testified that in “August, September of 2000,” contracting officer Peck
+asked him to “get involved in the [DCRA Hansen] contract to find out where it is going at the
+time they were running without funds and I was to see what I could do to help out…” Hr’g Tr.
+vol. 2, 491:16-492:8 (emphasis added).
+
+       In addition to contracting officer Peck’s direct request, the conduct of contracting officer
+Witty amounted to an implied order to Adsystech to remain on the job notwithstanding the
+funding shortage. For example, Witty knew as early as “August, September of 2000” that lapsed
+contract funds were an issue, and that Adsystech was “definitely” still performing. Hr’g Tr. vol.
+2, 531:3-18. Nonetheless, by his own testimony, Witty took no action to stop Adsystech’s
+performance because he did not want to “have my butt kicked because I stopped something that
+was in process or ready to go[.]” Hr’g Tr. vol. 2, 527:9-528:4.
+
+        Witty even took matters a step further. An October 19, 2000, email that he sent to
+Adsystech’s CEO states that, “I am working on your back payment issues and expect the process
+to take to [m]id November to find and obligate the funds. Payment is likely to be made no sooner
+than January even if I pushed hard.” Appellant’s Hr’g Ex. 14. Adsystech’s CEO testified that it
+was “more likely” than not that the October 2000 email referred to the instant contract, as well as
+a separate Adsystech contract not at issue in this case. Hr’g Tr. vol. 1, 182:17-183:9.30 Even
+though Witty never secured Adsystech’s payment, it appears that his email amounts to an
+acknowledgement that the appellee was well aware of, and accepted responsibility for,
+Adsystech’s continued performance.
+
+      Finally, the evidence also showed that contracting officials Peck and Witty ratified the
+conduct of DCRA agency representatives Theresa Lewis and the DCRA Director, both of whom
+
+30
+  Witty’s testimony that he did not learn about Adsystech’s funding problem on the instant contract until after the
+stop work order is not convincing. See Hr’g Tr. vol. 2, 579:3-580:11; see also Appellee’s Hr’g Ex. 13. There are too
+many instances in the record where Witty’s testimony plainly contradicts such an assertion. For example, Witty
+testified that he knew about the funding problem in “August, September of 2000[.]” Hr’g Tr. Vol. 2, 491:16-492:8.
+                                                             -18-                    Adsystech, Inc., CAB No. D-1210
+
+
+
+requested continuing performance by Adsystech and promised payment therefore. As we have
+noted, ratification may be found where the ratifying government official has actual or
+constructive knowledge of a representative’s unauthorized act and expressly or impliedly adopts
+the act. Appeal of Chief Procurement Officer, CAB No. D-1182, 50 D.C. Reg. 7465, 7468-7469
+(Nov. 29, 2002) (citing Appeal of W.M. Schlosser, CAB No. D-903, 42 D.C. Reg. 4824, (Sept.
+13, 1994)). Moreover, a contracting official’s action to obtain funding for changes ordered by
+unauthorized representatives constitutes ratification of the unauthorized changes. Id. at 7469
+(citing Reliable Disposal Company, Inc. ASBCA 40100, 91-2 BCA ¶ 23,895 at 119,718). A
+contracting officer’s silence and/or failure to stop contract performance may also constitute
+ratification. Id. In this case, DCRA’s then Director and Lewis requested Adsystech to perform
+additional work, to continue working beyond the funding lapse, and promised them payment
+therefore. Peck and Witty ratified these agency representatives’ conduct.
+
+        For example, Adsystech’s project manager attended meetings with Ms. Lewis where she
+assured Adsystech of payment. Hr’g Tr. vol. 1, 260:1-18; 263:3-8. Ms. Lewis told Adsystech’s
+business development director to stay on the job. Hr’g Tr. vol. 2, 482:12-17. Ms. Lewis never
+informed Adsystech that it should stop work because the contract funds were exhausted. Hr’g Tr.
+vol. 1, 265:9-20. Similarly, the DCRA Director promised Adsystech payment in the
+aforementioned September 13, 2000, letter, stating, “By this letter, I am authorizing payment
+once we receive and accepted [sic] these deliverables, and have been provided with a
+demonstration [of] the system designed for the Office of Adjudication, as well as any additional
+deliverables discussed during [our] meeting.” Appellee’s Hr’g Ex. 7; Hr’g Tr. vol. 1, 161:14-
+163:14. Rather than reject the DCRA representatives’ conduct, contracting officers Peck and
+Witty enabled it. As noted, Peck ratified the DCRA agency representatives’ conduct by directing
+Adsystech to stay on the job, and promising Adsystech payment for its continued services. Hr’g
+Tr. vol. 2, 482:12-17; 482:22-483:1; 491:16-492:8; Hr’g Tr. vol. 1, 98:18-102:4. Similarly, Witty
+ratified the DCRA agency representatives’ conduct because he was aware of the work progress
+yet he did not order Adsystech to stop work at any point prior to his April 3, 2001, SWO. Hr’g
+Tr. vol. 2, 527:9-528:4.
+
+       Thus, we conclude that Adsystech has met the requirements for an equitable adjustment
+due to constructive contract changes. Adsystech has shown that District contract officials
+changed and/or ratified changes to the parties’ contract. Adsystech has also showed that the
+changes were ordered by authorized District contracting officials.
+
+        We reject the District’s erroneous argument that lawful ratification did not occur here.
+The District asserts that ratification would only have been valid if contracting officers Peck and
+Witty followed the “official ratification procedure” set forth in former D.C. Code §
+2.301.05(d)(5) and the District’s Procurement Policy and Procedure Directive No. 1800.00.31
+In pertinent part, §2-301.05(d)(5) provided:
+
+            (5) The Chief Procurement Officer, or a designee, may authorize payment for
+            supplies or services received without a valid written contract if:
+
+            (A) Supplies or services have been provided to and accepted by the District
+31
+     These provisions were in effect at all times material to the instant dispute.
+                                                -19-                 Adsystech, Inc., CAB No. D-1210
+
+
+
+       government, or the District government otherwise has obtained or will obtain a
+       benefit resulting from provision of supplies or services without a valid written
+       contract;
+
+       (B) An agency contracting officer determines that the price for the supplies or
+       services provided without a valid written contract is fair and reasonable;
+
+       (C) An agency contracting officer recommends payment for the supplies or
+       services provided without a valid written contract;
+
+       (D) The Chief Financial Officer, or a designee, certifies that appropriated funds
+       are available; and
+
+       (E) The request for authorization for payment for supplies or services received
+       without a valid written contract is in accordance with any other procedures or
+       limitations prescribed by the Chief Procurement Officer; and
+
+       (F) (i) The amount for supplies or services provided to and accepted by the
+       District government does not exceed $100,000; and (ii) If an agency exceeds the
+       specified threshold, the Chief Procurement Officer shall forward the request, by
+       act transmitted by the Mayor, to the Council for review and approval.
+
+Former D.C. Code § 2-301.05(d)(5).
+
+              In addition, the appellee argues that the Office of Contracting and Procurement
+(OCP) issued a Procurement Policy & Procedure Directive for the ratification of unauthorized
+commitments. AF Ex. 86, Procurement Policy and Procedure Directive No. 1800.00. The
+appellee contends that the directive required that a request for the ratification of an unauthorized
+commitment be approved by the District’s Chief Procurement Officer, Chief Financial Officer,
+agency head, agency chief contracting officer, and the agency corporation counsel. AF Ex. 86.
+
+        Appellee’s attempted application of §2-301.05(d)(5) and OCP’s internal administrative
+issuance to the instant matter is erroneous because Peck and Witty, as Chief Technology Officer
+and contracting chief within the Office of the Chief Technology Officer, respectively, were
+exempt from the Procurement Practices Act (PPA) as to Year 2000 procurements during the
+period in question. During the years 1998-1999, nearly all public and private-sector entities were
+preparing for massive computer system upgrades to prevent disruption anticipated by the onset
+of calendar year 2000. The Y2K problem, as the crisis came to be known, resulted from the
+inability of most computers to recognize dates beyond the year 1999.
+
+        In the District, computer systems supporting public safety, revenue collection, traffic
+control, payroll, social welfare benefits, pensions and more were identified as requiring
+emergency remediation to avoid Y2K service lapses/chaos. Reports issued by the General
+Accounting Office (GAO) in October 1998 and February 1999 noted that District efforts to
+become Y2K compliant were “significantly behind” and “far behind.” GAO, Year 2000
+Computing Crisis, The District Faces Tremendous Challenges in Ensuring Vital Services Are
+                                                -20-                 Adsystech, Inc., CAB No. D-1210
+
+
+
+Not Disrupted, Statement of Jack L. Brock, Director, Governmentwide and Defense Information
+Systems, Oct. 2, 1998; GAO, Year 2000 Computing Crisis, The District Remains Behind
+Schedule, Statement of Jack L. Brock, Director, Governmentwide and Defense Information
+Systems, February 19, 1999.
+
+        In response to the Y2K crisis, the District enacted the “Chief Technology Officer Year
+2000 Remediation Procurement Authority Temporary Amendment Act of 1999.” D.C. Law 13-
+17, 46 D.C. Reg. 6314 (July 17, 1999). The Act specifically added new subsection (m) to §320
+of the PPA as follows:
+
+       (m)(1) Nothing in this act shall affect the authority of the Office of the Chief
+       Technology Officer to execute Year 2000 remediation contracts. For the purpose
+       of the section, the term “Year 2000 remediation contracts” means procurement
+       for the correction of computers, computer-operated systems, and equipment
+       operated by embedded computer chips, to ensure the proper recognition and
+       processing of dates on or after January 1, 2000.
+
+       The new provision was added to the section of the PPA exempting a variety of District
+agencies from PPA coverage. See former D.C. Code §1183.20 (1981).
+
+       The instant October 25, 1999, Hansen upgrade contract was specifically noted as a Y2K
+contract by the Chief Technology Officer in correspondence transmitting the contract to the
+Council for review. Appellee’s Hr’g Ex. 5; see also Hr’g Tr. vol. 1, 80:19-83-16. The statement
+of work for the Hansen upgrade also stated that “the system must be Year 2000 compliant[.]” See
+Appellee’s Hr’g Ex. 3, General Requirements, 8. Thus, we conclude that §2-301.05(d)(5) was
+not applicable to the DCRA Hansen upgrade contract discussed herein, and is not a bar to
+appellant’s entitlement claim.
+
+                        Adsystech Performed The Change Order Work
+
+        The District’s post hearing brief does not appear to dispute that Adsystech delivered all
+deliverables required by the contracts. Appellee’s Post Hr’g Br. 2-4, 6-10. The Board concludes
+that the record shows by a preponderance of the evidence that Adsystech has completed its
+performance of eight of the 10 tasks identified in the parties’ statement of work. Thus, Adsystech
+has completed Tasks 1-8. See discussion infra at pp. 9-10. The record is inconclusive as to
+whether Adsystech completed Tasks 9-10.
+
+         As to the 10 tasks stated in the parties’ statement of work, Adsystech’s project manager
+provided detailed testimony noting its completion of eight of the 10 required tasks, which we
+have summarized infra at pp. 9-10. See also Hr’g Tr. vol. 2, 375:10-396:16. The District’s
+witnesses did not discredit Adsystech’s testimony regarding completion of tasks, and appeared to
+lack knowledge regarding the technical nature of contract performance. Hr’g Tr. vol. 2, 513:20-
+514:13 (Witty); Hr’g Tr. vol. 2, 648:19-649:7; 653:6-654:16 (Fuller). Similarly, Adsystech’s
+witness testified that it completed the six punch list items submitted to the District on February 8,
+2001. The District’s witnesses have not discredited this testimony either. Adsystech’s testimony
+that it finished tasks herein is corroborated by Appellant’s Hr’g Ex. 49, which shows that as of
+                                               -21-                  Adsystech, Inc., CAB No. D-1210
+
+
+
+January 8, 2001, most, if not all, of the Hansen upgrade implementation tasks had been
+completed. Appellant’s Hr’g Ex. 49. There was also testimony that the MBL was used by Lewis
+in a demonstration for businesses of how the new licensing process would work. Hr’g Tr. vol. 1,
+270:7-272:19; vol. 2, 384:10-385:8, and the record included a sample of a completed MBL.
+Appellant’s Hr’g Ex. 38a.
+
+        The District’s sole witness to testify regarding contract performance, former Interim
+Director Fuller, testified that she thought Adsystech had completed the Hansen upgrade for most
+of the Business Land Regulation Administration and the Housing Regulation Administration as
+early as March 2000. Hr’g Tr. vol. 2, 602:2-603:15. Fuller also testified that she was unsure of
+how much work Adsystech had completed in the Office of Adjudication division as of March
+2000. Id. 602:6-609:19. Taken as a whole, the appellant has met its burden regarding substantial
+completion of tasks required to finalize DCRA’s Hansen implementation. Adsystech’s evidence
+includes the detailed testimony of its project manager regarding each task, as well as the project
+manager’s testimony regarding Adsystech’s completion of the punch list items remaining as of
+February 8, 2001. See discussion infra at pp. 11-12. See also Appellant’s Hr’g Ex. 31. We
+conclude that Adsystech has met its burden regarding substantial completion of performance
+herein.
+
+                The Anti-Deficiency Act Does Not Bar Appellant’s Recovery
+
+       The District argues that the Anti-Deficiency Act, 31 U.S.C. § 1341, bars recovery herein
+because once the “depletion of the funds encumbered by the [October 25] Purchase Order”
+occurred, there was no valid written agreement between the parties. Appellee’s Post Hr’g Br. 11-
+12. In other words, the District contends that once contract funds were depleted, any agreement
+between Adsytech and the District for further work would have been a contract for the “future
+payment of money, in advance of or in excess of existing appropriations” and thus void ab initio.
+Id.
+
+        In support of its argument, the District contends that the purchase order became depleted
+once Adsystech submitted bills totaling $1,175,086.47 against a contract ceiling of $476,317.
+Appellee’s Post Hr’g Br. 11. The record shows that this “depletion” would have occurred (if at
+all) on or around June 2, 2000, with Adsystech’s submission of Invoice No. 4 for $405,717.31.
+See Appellant’s Hr’g Ex. 35. If paid, the parties would have exceeded the $476,317 contract
+price by $285,558.96. We do not agree with the District’s analysis. From an Anti Deficiency
+standpoint, there were sufficient appropriations during FY2000 and FY2001 to support
+Adsystech’s continuing contract performance as noted herein.
+
+               The Anti-Deficiency Act provides in pertinent part:
+
+               § 1341. Limitations on expending and obligating amounts
+               (a)(1) An officer or employee of the United States government or
+               the District of Columbia government may not—
+
+               (A) make or authorize an expenditure or obligation exceeding an
+               amount available in an appropriation or fund for the expenditure or
+                                                          -22-                     Adsystech, Inc., CAB No. D-1210
+
+
+
+                  obligation;
+
+                  (B) involve either government in a contract or obligation for the
+                  payment of money before an appropriation is made unless
+                  authorized by law . . ..
+
+31 U.S.C. § 1341(a)(1).
+
+        In Appeal of Advantage Energy LLC, CAB No. D-1199 (Dec. 3, 2010),
+http://app.cab.dc.gov/Worksite/download.asp?filepath=Opinion.PDF&minLevel=032, we noted
+the well settled rule that “as long as Congress has appropriated sufficient legally unrestricted
+funds to pay a contract at issue, the Government normally cannot back out of a promise to pay on
+grounds of insufficient appropriations, even if the contract uses language such as "subject to the
+availability of appropriations," and even if an agency's total lump-sum appropriation is
+insufficient to pay all the contracts the agency has made[.]” Id. (citing Cherokee Nation v.
+Leavitt, 543 U.S. 631, 637-38 (2005).
+
+       The FY 2000 District of Columbia Appropriations Act authorized $190,335,000 as an
+appropriation to the District “for the current fiscal year out of the general fund of the District of
+Columbia” for agencies within the Economic Development and Regulation cluster.33 Public Law
+No. 106-113, Nov. 29, 1999, 113 Stat. 1501, 1505-08. Apart from a restriction directing
+$15,000,000 to District Business Improvement Districts, the remaining funds are unrestricted.34
+Based on the federal appropriation, the District enacted its own FY2000 budget, which included
+a lump sum appropriation of $3,597,000 in the DCRA contractual services line item.
+Government of the District of Columbia, Proposed FY2001 Budget and Financial Plan, B-100.
+Both figures noted above clearly exceed the $757,470 in outstanding invoices at issue here.
+
+       Additionally, the FY2001 District of Columbia Appropriations Act authorized
+$205,638,000 in appropriated funds within the Economic Development and Regulation cluster,
+with no restrictions germane to the instant case. Public Law No. 106-553, December 26, 2000,
+114 Stat. 2762. Based on the FY 2001 federal appropriation, the District enacted its own budget
+which included a lump sum appropriation of $3,087,000 in the DCRA contractual services line
+item. Government of the District of Columbia, Proposed FY2002 Budget and Financial Plan,
+March 12, 2001, B-43. Similarly, it is clear that sufficient funds were appropriated to cover the
+claimed Adsystech amount. Thus, the Board’s review of appropriations for fiscal years 2000 and
+2001 leads us to conclude that the Anti-Deficiency Act does not bar Adsystech’s entitlement
+claim herein.
+
+                The Provisions of Former D.C. Code §2-301.05(d)(3) Do Not Apply
+
+
+32
+   Advantage Energy, LLC is currently pending publication in the D.C. Register and in commercial databases. In the
+interim, we have cited to the Board’s website, which is an acceptable alternative citation.
+33
+   The Board takes judicial notice that DCRA is within the Economic Development Regulation cluster of agencies.
+34
+    As to appropriation restrictions, there are a number of general restrictions that have no relevance instantly. For
+example, there are restrictions against the use of the appropriation for partisan political activity, or for publicity or
+propaganda to support or defeat congressional legislation. Public Law No. 106-113, §§110, 112, Nov. 29, 1999, 113
+Stat. 1501.
+                                               -23-                 Adsystech, Inc., CAB No. D-1210
+
+
+
+       Finally, the District argues that Adsystech’s recovery is barred by former D.C. Code
+§2-301.05(d)(3). In pertinent part, the cited provision states as follows:
+
+               (3) Except as authorized under paragraph (4) or (5) of this
+               subsection, any vendor who, after April 12, 1997, enters into an
+               oral agreement with a District employee to provide supplies        or
+               services to the District government without a valid written contract
+               shall not be paid. If the oral agreement was entered into by District
+               employee at the direction of a supervisor, the supervisor shall be
+               terminated. The Mayor shall submit a report to the Council at least
+               4 times a year on the number of person cited or terminated under
+               this paragraph.
+
+Former D.C. Code §2-301.05(d)(3).
+
+       We reject appellee’s argument regarding the above statutory provision for the same
+reason that we rejected its argument regarding former §2-301.05(d)(5): the Chief Technology
+Officer’s Year 2000 contracts were exempt from PPA coverage during this period.
+
+                                        CONCLUSION
+
+       For the reasons noted herein, the Board finds that Adsystech is entitled to an equitable
+adjustment against the District. District contracting officers issued and/or ratified constructive
+change orders directing Adsystech to continue contract performance after the depletion of funds
+for the purpose of completing DCRA’s Hansen upgrade. Because we have concluded that
+Adsystech is entitled to an equitable adjustment, we will not consider appellant’s quantum meruit
+and equitable estoppel theories of recovery. The case is remanded to the appellee for a
+determination of quantum. The parties are instructed to inform the Board regarding the status of
+quantum discussions within 30 days.
+
+
+SO ORDERED.
+
+DATED: August 15, 2013                                /s/ Marc D. Loud, Sr.
+                                                      MARC D. LOUD, SR.
+                                                      Chief Administrative Judge
+CONCURRING:
+
+/s/ Maxine E. McBean
+MAXINE E. MCBEAN
+Administrative Judge
+
+
+
+
+Electronic Service to:
+                                        -24-   Adsystech, Inc., CAB No. D-1210
+
+
+
+
+Lloyd J. Jordan, Esq.
+Attorney at Law
+264A G Street, S.W.
+Washington, D.C. 20024
+
+Matthew Lane, Esq.
+Kim Matthews Johnson, Esq.
+Office of the Attorney General
+441 4th Street, N.W., 6th Floor South
+Washington, D.C. 20001
+

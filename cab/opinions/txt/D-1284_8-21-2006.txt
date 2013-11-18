@@ -1,0 +1,805 @@
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+DOXA, INC.                                           )
+1100 WAYNE AVENUE, SUITE 720                         )
+SILVER SPRING, MARYLAND 20910                        )
+                                                     )
+UNDER OFFICE OF THE PEOPLE’S                         )      CAB Nos. 1284 and 1285
+COUNSEL OF THE DISTRICT OF                           )
+COLUMBIA CONTRACTS FOR.                              )
+DC PSC FORMAL CASE NOS. 766, 945,                    )
+982, 991, 1002, 1009, 1017, 1023 AND 1026            )
+
+
+                      MOTION FOR RECONSIDERATION OF OPINION
+                         DISMISSING APPEALS OF DOXA, INC.
+
+       1. Pursuant to 27 DCMR § 2-208.4 (1988) appellant, DOXA, Inc. (“DOXA”), moves for
+
+reconsideration of the opinion issued August 2, 2006 dismissing DOXA’s appeal of the denial of its
+
+claim for penalty interest against the Office of the People’s Counsel of the District of Columbia
+
+(“OPC” or “Office”), an independent agency of the municipal government of the District of
+
+Columbia.
+
+                                           STATEMENT
+
+       2. DOXA provided the Office with consulting and expert witness services before the Public
+
+Service Commission (“PSC”) from 1999 through 2005 in PSC Formal Case Nos. 766, 945, 982, 991,
+
+1002, 1009, 1017, 1023, and 1026. Although DOXA payment invoices submitted to OPC were
+
+ultimately paid, many payments were made more than 30 days after the invoice date. In September
+
+2005, DOXA submitted claims to OPC for interest penalties on the late-paid invoices pursuant to the
+
+Quick Payment Act of 1984 (“QPA”). The Office made no decision respecting the QPA claims, and
+
+on December 23, 2005, DOXA filed notices of appeal with the Contract Appeals Board (“Board” or
+
+
+
+
+                                                 -1-
+“CAB”) based on the deemed denials of its claims. In CAB Case No. D-1284, DOXA claims QPA
+
+interest penalties of $2,482.27 and interest upon unpaid interest penalties of $49.48 as of January 26,
+
+2006, and in CAB Case No. D-1285, DOXA claims QPA interest penalties of $35,117.55 and interest
+
+upon unpaid interest penalties of $2,584.64 as of January 26, 2006. OPC filed motions to dismiss in
+
+each of the cases and the Board heard the arguments of the parties during status conferences. On
+
+August 2, 2006, the Board issued an opinion granting OPC’s motion to dismiss on the Board’s
+
+finding that OPC is not subject to the QPA.
+
+          3. DOXA respectfully submits that the Board’s dismissal is unsupported by a fair reading of
+
+both the relevant statutes and their legislative histories as set forth in detail below and requests
+
+reconsideration. The relief sought by DOXA is a Board order (a) reversing the August 2, 2006
+
+finding that OPC is not subject to the QPA and (b) setting CAB Case Nos. D-1284 and D-1285 for
+
+hearing on the merits.
+
+                                                ARGUMENT
+
+          4. In its August 2, 2006 opinion dismissing DOXA’s QPA claims, the Board reasoned as
+
+follows. The QPA does not apply to independent agencies that are exempt from the Procurement
+
+Practices Act of 1985 (“PPA”). The PSC is exempt from the PPA by virtue of Section 320 of the
+
+PPA. OPC, as an agency within the PSC, is also exempt from the PPA. Therefore, OPC is not
+
+subject to the QPA.
+
+          5. That reasoning and conclusion are inexplicably and wholly inconsistent with the reasoning
+
+and conclusion in CAB Case No. D-11161 (“Curtis”), where, the Board found that the District of
+
+Columbia Housing Authority (“DCHA”), an independent agency with a PPA Section 320 exemption,
+
+was subject to the QPA. The Board erred in not applying and following the reasoning and findings in
+
+
+1
+    Curtis Chevrolet CAB No. D-1116 (2001 DCBCA LEXIS 6 ) January 25, 2001
+
+
+
+                                                      -2-
+Curtis to the instant claims. Specifically, as demonstrated below, the Board erred in finding (1) that
+
+QPA Section 2-221.02(a)(1) limits application of the QPA, (2) that QPA Section 2-221.02(b)(1A)
+
+predicates QPA applicability on PPA applicability, and (3) that PPA Section 320 exempts the PSC
+
+from the PPA.
+
+                                 STATUTORY CONTEXT AND CASE LAW
+
+         6. The QPA originally excluded independent agencies in its definition of “District agency:”
+
+          “’District agency’ means any office, department, division, board, commission, or
+         other agency of the District government, other than an independent agency … [f]or
+         the purposes of this definition, the term "independent agency" means any agency
+         of government not subject to the administrative control of the Mayor “(emphasis
+         added) 2
+
+and in Section 3, which set forth the procedures for calculation and payment of interest penalties:
+
+         “each agency of the District of Columbia government (“District”), under the direct
+         control of the Mayor, which acquires property or services from a business concern
+         but which does not make payment for each complete delivered item of property or
+         service by the required payment date shall pay an interest penalty” (emphasis added). 3
+
+2
+  DC Law 5-164, District of Columbia Government Quick Payment Act of 1984: Sec. 2(3) "District agency" means any
+office, department, division, board, commission, or other agency of the District government, other than an independent
+agency, required by law or by the Mayor or the Council to administer any law or any rule adopted under the authority of a
+law. For the purposes of this definition, the term "independent agency" means any agency of government not subject to
+the administrative control of the Mayor and includes, but is not limited to, the Superior Court of the District of Columbia,
+District of Columbia Court of Appeals, Council of the District of Columbia, Board of Elections and Ethics, Armory
+Board, Zoning Commission, Convention Center Board of Directors, District of Columbia Board of Education, and Public
+Service Commission.
+3
+  DC Law 5-164, District of Columbia Government Quick Payment Act of 1984: Sec. 3. (a)(1) In Accordance with rules
+and regulations issued by the Mayor of the District of Columbia (“Mayor”), each agency of the District of Columbia
+government (“District”), under the Direct control of the Mayor, which acquires property or services from a business
+concern but which does not make payment for each complete delivered item of property or service by the required
+payment date shall pay an interest penalty to the business concern in accordance with this section on the amount of the
+payment which is due. (2) Each rule or regulation issued pursuant to paragraph (1) shall: (A) Specify that the required
+payment date shall be: (i) The date on which payment is due under the terms of the contract for the provision of the
+property or service; or (ii) 30 calendar days, excluding legal holidays, after receipt of a proper invoice for the amount of
+the payment due, if a specific date on which payment is due is not established by contract; (B)(i) Specify, in the case of
+any acquisition of meat or of a meat food product, a required payment date which is not later than 7 calendar days,
+excluding legal holidays, after the date of delivery of the meat or meat food product; and (ii) Specify, in the case of any
+acquisition of a perishable agricultural commodity, a required payment date which is not later than 10 calendar days,
+excluding legal holidays, after the date of delivery of the perishable agricultural commodity pursuant to the act; (C)
+Specify separate required payment dates for contracts under which property or services are provided in a series of partial
+executions or deliveries, to the extent that the contract provides for separate payment for partial execution or delivery; and
+(D) Require that, within 15 days after the date on which any invoice is received, District agencies notify the business
+concern in writing of any defect in the invoice or delivered goods, property or services or impropriety of any kind which
+
+
+                                                            -3-
+The PPA also originally excluded independent agencies. Section 107(2) of the PPA stated
+
+         “[t]his act shall apply to all agencies and employees of the District government which
+         are subordinate to the Mayor” (emphasis added). 4
+
+As with the QPA, the PPA’s definition of “agency” also excluded independent agencies:
+
+         “’Agency’ means any officer, employee, office, department, board, commission, or
+         other entity of the District other than an independent agency” (emphasis added). 5
+
+         7. Eleven years later, the Procurement Reform Amendment Act of 1996 (“PRAA”) expanded
+
+the PPA’s application and its definition of “agency” to include independent agencies:
+
+         “this act shall apply to all departments, agencies, instrumentalities, and employees of
+         the District government, including agencies which are subordinate to the Mayor,
+         independent agencies, boards, and commissions ” (emphasis added) 6
+
+
+would prevent the running of the time period specified in subparagraph (A)(ii) . (b)(1) Interest penalties on amounts due
+to a business concern under this act shall automatically be paid to the business concern for the period beginning on the
+day after the required payment date and ending on the date on which payment of the amount due is made, except that no
+interest penalty shall be paid if payment for the complete delivered item of property or service concerned is made on or
+before (A) the 3rd day after the required payment date, in the case of meat or a meat food product, described in subsection
+(a)(2)(B)(i); (B) the 5th day after the required payment date, in the case of an agricultural commodity, described in
+subsection (a)(2)(B)(ii); or (C) the 15th day after the required payment date in the case of any other item. Interest,
+computed at a rate of not less than 1%, shall be determined by the Mayor by regulation. (2) Any amount of an interest
+penalty which remains unpaid at the end of any 30-day period shall be added to the principal amount of the debt and
+thereafter interest penalties shall accrue on the added amount. (c) This section does not authorize the appropriation of
+additional funds for the payment of interest penalties required by this section. A District agency shall pay any interest
+penalty required by this section out of funds made available for the administration or operation of the program for which
+the penalty was incurred.
+4
+  DC Law 6-85, District of Columbia Procurement Practices Act of 1985: Sec. 104 Application of the Act (a) Nothing
+in this act shall abrogate the authority of a separate branch of government or an independent agency, as defined in the
+District of Columbia Administrative Act, approved October 21, 1968 (82 Stat. 1204; D.C. Code sec. 1-150J et seq.), to
+enter into contracts or to issue rules and regulations for the awarding of contracts pursuant to existing law. (b) Any
+existing provisions of District law regarding the conformity to District procurement law of rules and regulations issued or
+promulgated by independent agencies shall remain in effect. (c) This act shall apply to all agencies and employees of the
+District government which are subordinate to the Mayor. (d) This act shall apply to every contract, interagency
+agreement, or intergovernmental agreement for procurement or disposal of goods and services by covered agencies and
+employees, except contracts or agreements for the receipt or the making of a grant-in-aid or for federal financial
+assistance. (e) Any branch or agency of government exempted from the provisions of this act by subsection (a) of this
+section may formally agree to be bound by any provisions of this act, or by the final rules and procedures adopted
+pursuant to this act. (f) The Council may enter into contracts to procure supplies and services.
+5
+  DC Law 6-85, District of Columbia Procurement Practices Act of 1985: Sec. 107(2): “Agency” means any
+officer, employee, office, department, board, commission, or other entity of the District other than an
+independent agency, the Mayor, or the Council, that is required by law, the Mayor, or the Council to implement
+any law, rule, or regulation that is adopted pursuant to a law.
+
+
+
+                                                           -4-
+and
+          “’agency’ means any officer, employee, office, department, board, commission, or
+          entity of the District as described in section 104(a).”7
+
+The PRAA also explicitly excluded three entities from application of the PPA:
+
+          “this act shall apply to all departments, agencies, instrumentalities, and employees of
+          the District government, …, but excluding the Council of the District of Columbia,
+          District of Columbia courts, and the District of Columbia Financial Responsibility and
+          Management Assistance Authority.” 8
+
+Subsequently, Advisory Neighborhood Commissions (“ANCs”) were added to the list of entities
+
+excluded from the PPA’s application.
+
+          8. In addition to excluding the Council, courts, and Financial Responsibility and Management
+
+Assistance Authority, the PRAA also added Section 320 to the PPA, consisting of nine “exemptions”:
+
+          “[e]xcept as provided in section 320 this act shall apply to …”9
+
+6
+  DC Law 11-259, Procurement Reform Amendment Act of 1996: To … to establish the office of Contracting and
+Procurement, to centralize procurement authority for the District government in the Director of the Office of Contracting
+and procurement … Sec. 104 (a) Except as provided in section 320, this act shall apply to all departments, agencies,
+instrumentalities, and employees of the District government, including agencies which are subordinate to the Mayor,
+independent agencies, boards, and commissions, but excluding the Council of the District of Columbia, District of
+Columbia courts, and District of Columbia Financial Responsibility and Management Assistance Authority. (b) This act
+shall apply to any contract for procurement of goods and services, including construction and legal services, but shall not
+apply to a contract or agreement receiving or making grants-in-aid or for federal financial assistance. (c) The Council of
+the District of Columbia, the Corporation Counsel, Inspector General, Auditor, and Chief Financial Officer may contract
+for the services of accountants, lawyers, and other experts when they determine and state in writing that good reason
+exists why such services should be procured independently of the CPO. During a control year, as defined by section
+305(4) of the District of Columbia Financial Responsibility and management Assistance act of 1995, approved April 17,
+1995 (109 Stat. 97; D.C. Code 47-393(4)), the Office of the Chief Financial Officer of the District of Columbia shall be
+exempt from the provisions of this chapter, and shall adopt, within 30 days of passage of the Procurement Reform
+Amendment Act of 1996, the procurement rules and regulations adopted by the District of Columbia Financial
+Responsibility and Management Assistance Authority. During years other than control years, the Office of the Chief
+Financial Officer shall be bound by the provisions contained in this act.
+7
+ DC Law 11-259, Procurement Reform Amendment Act of 1996: Sec. 107 (2) “Agency” means any officer,
+employee, office, department, board, commission, or entity of the District as described in section 104(a).
+8
+    DC Law 11-259, Procurement Reform Amendment Act of 1996: Sec. 104 (a). See footnote 6, above.
+9
+  DC Law 11-259, Procurement Reform Amendment Act of 1996: Sec. 320 Exemptions. (a) Nothing in this act shall
+affect the operations, jurisdiction, functions, or authority of the Redevelopment Land Agency relating to real property or
+interests in real property. (b) Nothing in this act shall affect the operations, jurisdiction, functions, or authority of the
+Administrator of the Homestead Program Administration under the Homestead Housing Preservation Act of 1986,
+effective August 9, 1986 (D.C. Law 6-135; D.C. Code 45-2701 et seq.), as they relate to the disposal or transfer of real
+property under that act. (c) Nothing in this act shall affect the authority of the Mayor to sell real property in the District of
+
+
+                                                             -5-
+Each of the nine exemptions is, not an exclusion from the PPA’s application, but rather an exemption
+
+with regard to a specific operation, jurisdiction, function or authority of the named agency. In
+
+subsequent years, there were added, inter alia, further exemptions for the PSC10 and DCHA11. The
+
+PSC’s exemption is quite limited in that it is simply an exemption from the PPA’s assignment of
+
+
+
+
+Columbia for nonpayment of taxes or assessments of any kind pursuant to section 437 pf the District of Columbia Real
+Property Tax Revision Act of 1974, approved September 3, 1974 (88 Stat. 1059; D.C. Code 47-847). (d) Nothing in this
+act shall affect the authority of the Mayor and the Council pursuant to the District of Columbia Public Space Rental Act,
+approved October 17, 1968 (82 Stat. 1156; D.C. Code 7-1001 et seq.). (e) Nothing in this act shall affect the authority of
+the Convention Center Board of Directors pursuant to the Washington Convention Center Management Act of 1979,
+effective November 3, 1979 (D.C. Code 9-602 et seq.). (f) Nothing in this act shall affect the authority of the Sports
+Commission pursuant to the Omnibus Sports Consolidation Act of 1994, effective August 23, 1994 (D.C. Law 10-152;
+D.C. Code 2-4001 et seq.). (g) Nothing in this act shall affect the authority, jurisdiction, functions, or operations of the
+District of Columbia Housing Finance Agency. (h) Nothing in this act shall affect the authority of the District of
+Columbia Retirement Board pursuant to the District of Columbia Retirement Reform Act, effective November 17, 1979
+(93 Stat. 866; D.C. Code 1-701 et seq.). (i) Nothing in this act shall affect the Metropolitan Police Department's authority
+to make procurements not in excess of $500,000 as provided in the District of Columbia Appropriations Act, approved
+April 26, 1996 (Pub. Law 104-134).
+10
+   DC Law 12-263, Residential Real property Seller Disclosure, Funeral Services Date Change, and Public Service
+Commission Independent Procurement Authority Act of 1998: “To … to allow the Public Service Commission … to
+enter into contracts with the government and other public and private entities” Sec. 13. Nongermane amendments … (b)
+Sec. 320 of the District of Columbia Procurement Practices Act of 1985, effective May 22, 1984 (D.C. Law 5-84; D.C.
+Cade 2-2805), is amended by adding a new subsection (l) to read as follows: “(1) Nothing in this act shall affect the
+authority of the District of Columbia Public Service Commission pursuant to section 8 of An Act Making appropriations
+to provide for the expenses of the government of the District of Columbia for the fiscal year ending June thirtieth,
+nineteen hundred and fourteen, and for other purposes, approved March 4, 1913 (37 Stat. (38; D.C. Code 43-401
+passim).” … (c) Section 8 of an Act Making appropriations to provide for the expenses of the government of the District
+of Columbia for the fiscal year ending June thirtieth, nineteen hundred and fourteen, and for other purposes, approved
+March 4, 1913 (37 Stat. (38; D.C. Code 43-401 passim), is amended as follows: … (2) Paragraph 95 (D.C. Code 43-408)
+is amended as follows: (A) By designating the existing text as subsection (a); and (B) By adding a new subsection (b) to
+read as follows: “(b) The Commission is authorized to enter into contracts with the District government, the United States
+government, and other public and private entities for goods and services, as needed, to achieve its purposes in carrying
+out its statutory duties.”.
+11
+  DC Law 13-105, District of Columbia Housing Authority Act of 1999: “To … authorize the District of Columbia
+Housing Authority to establish, with certain limitations, an independent personnel system, procurement policies and
+procedures, and financial systems … to amend the District of Columbia Procurement Practices Act of 1985 to conform it
+to this act” Sec. 20. Procurement … The Procurement Act shall not apply to contracts and contractors of the Authority,
+except that Title IX of the procurement Act shall apply to contract protests, appeals, and claims arising from
+procurements of the Housing Authority. Sec. 29. Conforming Amendments to District of Columbia Procurement
+Practices Act. The District of Columbia Procurement practices Act of 1985, effective February 21, 1986 (D.C. Law 6-85;
+D.C. Code 1-1181.1 et seq.) is amended as follows: … (b) Section 320 (D.C. Code 1-1183.20) is amended by adding a
+new subsection (m) to read as follows: “(m) Nothing in this act shall affect the authority of the District of Columbia
+Housing Authority, except that Title IX shall apply to contract protests, appeals, and claims arising from procurements of
+the Housing Authority.”
+
+
+
+                                                            -6-
+procurement authority to the Director of the Office of Contracting and Procurement. The DCHA
+
+exemption is much wider, leaving it subject only to Subchapter IX of the PPA.
+
+           9. Finally, the PRAA also expanded the application of the QPA to include independent
+
+agencies. Section 307 of the PRAA struck from the QPA’s definition of “District agency” the phrase
+
+“other than an independent agency” and inserted the phrase “including, unless otherwise provided, an
+
+independent agency,”12 producing the following definition:
+
+           "District agency" means any office, department, division, board, commission, or
+           other agency of the District government, including, unless otherwise provided, an
+           independent agency, required by law or by the Mayor or the Council to administer
+           any law or any rule adopted under the authority of a law. For the purposes of this
+           definition, the term "independent agency" means any agency of government not
+           subject to the administrative control of the Mayor and includes, but is not limited
+           to, the Superior Court of the District of Columbia, District of Columbia Court of
+           Appeals, Council of the District of Columbia, Board of Elections and Ethics, Armory
+           Board, Zoning Commission, Convention Center Board of Directors, District of
+           Columbia Board of Education, and Public Service Commission. (emphasis added) 13
+
+This expansion of the definition was clearly intended to broaden the QPA’s applicability to include
+
+independent agencies and the Board so held in Curtis, holding that the QPA’s application had thereby
+
+become even broader than that of the PPA.
+
+           By virtue of the Procurement Reform Amendment Act of 1996, D.C. Law 11-259, 44
+           D.C. Reg. 1423 (Mar. 14, 1997), the Quick Payment Act's definition of "District
+           agency" was expanded to include independent agencies and any agency of government
+           not subject to the administrative control of the Mayor. D.C. Law 11-259, § 307(a),
+           codified at D.C. Code § 1-1171(3) (1999). Hood's Int'l Foods, Inc., CAB No. D-996,
+           Feb. 20, 1998, 45 D.C. Reg. 8742, 8743 & n.2. As section 1-1171(3) demonstrates,
+           the Council intended that the Quick Payment Act have broader application than even
+           the Procurement Practices Act. The Procurement Reform Amendment Act made
+           DCHA subject to both the Quick Payment Act and the Procurement Practices Act.14
+
+12
+   DC Law 11-259, Procurement Reform Amendment Act of 1996: Sec. 307 The District of Columbia
+Government Quick Payment Act of 1984, effective March 15, 1985 (D.C. Law 5-164; D.C. Code 1-1171 et seq.)
+is amended as follows: (a) Section 2 (D.C. Code 1-1171) is amended as follows: (1) Paragraph (3) is amended by
+striking in the first sentence the phrase “other than an independent agency” and inserting the phrase “including,
+unless otherwise provided, an independent agency” in its place.
+13
+     DC Code 2-221.01 (3)
+14
+     Curtis Chevrolet CAB No. D-1116 (2001 DCBCA LEXIS 6 ) January 25, 2001, at 2.
+
+
+                                                          -7-
+                                                ERRORS OF LAW
+
+       1. The Board Erred As A Matter of Law In Finding That QPA Section 2-221.02(a)(1)
+          Limits Application of the QPA.
+
+           10. In its August 2 opinion, the Board correctly notes that QPA Section 2-221.04(a)
+
+references “claims for interest penalties which a District agency has failed to pay” and that QPA
+
+Section 2-221.01 defines “District agency” as “any office, department, division, board, commission,
+
+or other agency of the District government, including, unless otherwise provided, an independent
+
+agency.”15 The Board then notes that QPA Section 2-221.02(a)(1) states that “each agency of the
+
+District of Columbia government (“District”), under the direct control of the Mayor, which …
+
+does not make payment … by the required payment date shall pay an interest penalty.”16 From the
+
+phrase “under the direct control of the Mayor,” the Board erroneously concludes that only some
+
+independent agencies are subject to QPA interest penalties, observing that “there is no clear
+
+manifestation here that the Council intended to make all independent agencies subject to the QPA
+
+interest penalties.”17
+
+           11. In the first instance, because an independent agency is by definition an agency that is not
+
+under the direct supervision of the Mayor, this reading would exclude, not some, but all independent
+
+agencies from the QPA. It was, however, the unambiguous intent of the PRAA to bring all
+
+independent agencies under the purview of both the QPA and the PPA. The section-by-section
+
+
+15
+     August 2, 2006 Opinion in CAB Nos. D-1284 and D-1285 at 2.
+16
+  August 2, 2006 Opinion in CAB Nos. D-1284 and D-1285 at 3. In the same place the Board cites to DCMR 1700.2,
+“Pursuant to section 3 of the [QPA], these rules shall apply to any office, department, division, board, commission or
+other agency of the District other than an independent agency required either by law, the Mayor or the Council of the
+District of Columbia (Council), to administer any law or any rule adopted under the authority of a law.” A rule
+promulgated pursuant to a statute can not, however, stand as evidence supporting an interpretation of the statute. As
+explained below, this rule simply reflects an anachronism in the statute.
+17
+     August 2, 2006 Opinion in CAB Nos. D-1284 and D-1285 at 3.
+
+
+
+                                                          -8-
+analysis of the Council Report on the PRAA states that the purpose of the amendment to PPA Section
+
+104 is “to expand the applicability of the PPA to independent agencies, boards and commissions,
+
+and the Council” (emphasis added).18 Similarly, the Council Report states of the PRAA’s
+
+amendments to the QPA that the purpose is “to make the quick payment provisions applicable to all
+
+District agencies” (emphasis added). 19 Contrary to the Boards assertion, there is in fact a clear and
+
+unambiguous manifestation that the Council intended precisely “to make all independent agencies
+
+subject to the QPA interest penalties” (emphasis added). It would be strange indeed for the Council
+
+to include specifically and explicitly all independent agencies in the QPA, only then to turn around
+
+and exclude all independent agencies from application via retention of a qualifying phrase in the
+
+introductory subsection to QPA Section 2-221.02, the manifest purpose of which is, not to define
+
+applicability, but to set forth the procedures for calculation and payment of interest penalties. 20 To
+
+interpret the phrase “under the direct control of the Mayor” here as limiting application of the QPA
+
+would be contrary to clear legislative intent, common sense, and logic.
+
+           12. When viewed within the full legislative history, it is clear that the phrase, “under the
+
+direct control of the Mayor,” remains in the statute due to an oversight in the task of conforming the
+
+QPA as amended by the PRAA. Originally both the QPA and the PPA construed applicability along
+
+the line of subordination to and control by the Mayor and the acts’ definitions of “agency” mirrored
+
+this. That is, the acts applied to agencies subordinate to the Mayor and did not apply to agencies not
+
+subordinate to the Mayor and “agency” was defined accordingly, i.e., independent agencies were not
+
+agencies for the purposes of the acts and the acts did not apply to independent agencies. The PRAA
+
+
+18
+     Report on Bill 11-705, The Procurement Reform Amendment Act of 1996, Section-by-Section Analysis, I.2.
+19
+     Report on Bill 11-705, The Procurement Reform Amendment Act of 1996, Section-by-Section Analysis, Title III (j).
+20
+     DC Law 5-164, District of Columbia Government Quick Payment Act of 1984: Sec. 3. See footnote 3, above.
+
+
+
+                                                          -9-
+amended both the applicability provision and the definition of “agency” in the PPA to include
+
+independent agencies. It also amended the QPA definition of “agency” to include independent
+
+agencies. That the PRAA did not amend Section 2-221.02(a)1 to remove the phrase “under the direct
+
+control of the Mayor” can only be construed as an oversight in the process of conformance.21
+
+           13. Finally, while the Board does not reference it, QPA Section 2-221.01(3) does contain a
+
+limiting qualification regarding the definition of “agency:”
+
+           “”District agency” means any office, department, division, board, commission, or
+           other agency of the District government, including, unless otherwise provided, an
+           independent agency …”22 (emphasis added)
+
+There is, however, no provision in the QPA that exempts any agency from the definition of “District
+
+agency” in QPA Section 2-221.01(3).
+
+           14. A plain and fair reading of the statute and its legislative history clearly shows that the
+
+QPA was expanded by the PRAA to include all independent agencies and exempts no independent
+
+agencies from its application. This reading is wholly consistent with the Board’s finding in Curtis
+
+that “[b]y virtue of the [PRAA], the [QPA’s] definition of “District agency” was expanded to include
+
+independent agencies”23 and the Board erred in not so finding in the instant cases.
+
+
+
+
+21
+  The QPA’s legislative file indicates that this was in fact the second time the phrase had wrongly survived conformance.
+During the legislative session on the original QPA, Councilwoman Winter introduced Amendment No. 7 to strike the
+phrase “,under the direct control of the Mayor,” stating as the rationale that the amendment would “help[] make clear the
+intent of the Council that this act apply to all agencies, boards, etc., of the District government” (emphasis added). The
+Chair ruled this to be a conforming amendment. In spite of the amendment and the Chair’s ruling, the phrase remained
+in the enrolled act – presumably an oversight – and was duly carried over into the codified statute.
+22
+     DC Code 2-221.01 (3)
+23
+     Curtis Chevrolet CAB No. D-1116 (2001 DCBCA LEXIS 6 ) January 25, 2001, at 2.
+
+
+
+                                                         - 10 -
+       2. The Board Erred As A Matter of Law In Finding That QPA Section 2-221.02(b)(1A)
+          Predicates QPA Applicability on PPA Applicability.
+
+           15. After erroneously concluding that that the QPA does not apply to all independent
+
+agencies, the Board predicates QPA applicability on PPA applicability, on the theory that the
+
+independent agencies to which the Board erroneously concluded the QPA does not apply are the
+
+independent agencies that are exempt from the PPA.24 In support of this theory the Board references
+
+QPA Section 2-221.02(b)(1A) which states:
+
+           Each contract executed pursuant to Chapter 3 of Title 2 shall include in the solicitation
+           a description of the contractor's rights and responsibilities under the chapter.25
+
+The Board correctly notes that the reference to Chapter 3 of Title 2 must be a reference to the PPA. It
+
+is certainly true that this provision’s occurring in the QPA is strong evidence that it was the Council’s
+
+intent that the QPA should apply to all contracts pursuant to the PPA. The Board, however, commits
+
+the common elementary logical error of denying the antecedent when it concludes therefrom that the
+
+QPA applies only to contracts pursuant to the PPA. The inference from “If A, then B” to “If not-A,
+
+then not-B” (from “if a contract is pursuant to the PPA, then the QPA applies” to “if a contract is not
+
+pursuant to the PPA, then the QPA does not apply”) is a form of inference that has been recognized
+
+to be invalid since the time of Aristotle.
+
+           16. A plain and fair reading of the statute clearly shows that the QPA contains no provisions
+
+predicating QPA applicability upon PPA applicability. This reading is wholly consistent with the
+
+Board’s finding in Curtis that “the Council intended that the [QPA] have broader application than
+
+even the [PPA].”26 The Board erred in not so finding in the instant cases.
+
+
+
+24
+     August 2, 2006 Opinion in CAB Nos. D-1284 and D-1285 at 3.
+25
+     DC Code 2-221.02(b)(1A)
+26
+     Curtis Chevrolet CAB No. D-1116 (2001 DCBCA LEXIS 6 ) January 25, 2001, at 2.
+
+
+
+                                                       - 11 -
+       3. The Board Erred As Matter of Law In Finding That PPA Section 320 Excludes The
+          PSC From Application of The PPA.
+
+           17. In its August 2 opinion, the Board correctly notes that PPA Section 2-301.04(a) qualifies
+
+applicability by reference to PPA Section 2-303.20: “[e]xcept as provided in 2-303.20, this chapter
+
+shall apply to all departments, agencies, instrumentalities, and employees of the District government”
+
+and that PPA Section 2-303.20(l) provides that “[n]othing in this chapter shall affect the authority of
+
+the [PSC] pursuant to Chapter 8 of Title 34.”27 From this, the Board erroneously concludes that the
+
+PSC is not subject to the PPA.
+
+           18. As an initial matter, it is a clear misreading of the PPA to conclude that the exemption
+
+granted the PSC in PPA Section 2-303.20(l) is a blanket exclusion. In addition to referencing PPA
+
+Section 2-303.20, PPA Section 2-301.04(a) also states that
+
+           “this Chapter shall apply to all departments …, but excluding the Council of the
+           District of Columbia, District of Columbia courts, the District of Columbia Financial
+           Responsibility and Management Assistance Authority, and [ANCs].”
+
+The Council knew how to grant in plain language a blanket exclusion from the PPA. It was the
+
+PRAA that first introduced this language to the statute and it did so only with regard to the Council,
+
+the courts and the Financial Responsibility Authority. The ANCs were added to the list of excluded
+
+agencies four years later by the Advisory Neighborhood Commission Procurement Exclusion
+
+Amendment Act of 2000. Clearly, the Council knows how to grant a blanket exclusion from the
+
+PPA and it does not use PPA Section 2-303.20 to do so.
+
+           19. The exemptions granted in Section 2-303.20 are limited. The original nine exemptions
+
+are, as the Council Report states,
+
+           “exemptions from the act for real property disposition by the Redevelopment Land
+           Agency, the Administrator of the Homestead Program Administration, the Mayor for
+           nonpayment of taxes or assessments, the Council and the Mayor under the Public
+
+27
+     August 2, 2006 Opinion in CAB Nos. D-1284 and D-1285 at 3.
+
+
+
+                                                       - 12 -
+           Space Rental Act, the Washington Convention Center, and the Sports Commission”
+           (emphasis added) 28
+
+Similarly, the PPA Section 2-303.20(l) exemption granted the PSC is not an exclusion from
+
+application of the Act, but rather a limited exemption with regard to Chapter 8 of Title 34:
+
+           (l) Nothing in this chapter shall affect the authority of the District of Columbia Public
+           Service Commission pursuant to Chapter 8 of Title 34.
+
+While Chapter 8 of Title 34 grants a number of authorities to the PSC, Section 13 of the Residential
+
+Real Property Seller Disclosure, Funeral Services Date Change, and Public Service Commission
+
+Independent Procurement Authority Act of 1998 (“PSCIPAA”), 29 which created this exemption,
+
+indicates that the authority in question is that of procurement.
+
+           20. The purpose of the PPA was to “provide for a uniform system of procurement
+
+management for the District of Columbia government.”30 The PPA established uniform procurement
+
+procedures to be used by the agencies covered by the act and delegated authority to procure under
+
+those procedures to the covered agencies.31 The primary purpose of the PRAA was to “centralize
+
+procurement authority for the District of Columbia government in the Director of the Office of
+
+Contracting and Procurement.“ To that end, the PRAA Sec. 10132 established the Office of
+
+
+28
+     Report on Bill 11-705, The Procurement Reform Amendment Act of 1996, Section-by-Section Analysis, I.18.(e).
+29
+  DC Law 12-263, Residential Real Property Seller Disclosure, Funeral Services Date Change, and Public Service
+Commission Independent Procurement Authority Act of 1998. Sec. 13. Nongermane amendments. See footnote 10,
+above.
+30
+     DC Law 6-85, District of Columbia Procurement Practices Act of 1985.
+31
+  While the PPA originally excluded independent agencies from its purview, it was not the intent of the Council that the
+PPA’s provisions be precluded from application to independent agencies. The October 10, 1985 report of the Committee
+on Government Operations on Bill 6-191 states on page 1 that “[t]he purpose of Bill 6-191 is to establish statutory
+provisions of a uniform system of procurement, applicable to agencies subordinate to the Mayor … [i]ndependent
+agencies … can be covered by some or all of the act’s provisions by adopting rules and regulations that conform to
+regulations promulgated by the Mayor” (emphasis added). On page 6 the report states of Sec. 104 (“Application of
+the act.”) that it “[p]rovides that the bill will apply to those agencies subordinate to the Mayor … [a]ny agency
+exempted, can be bound by rule to the bill’s provisions” (emphasis added).
+32
+  DC Law 11-259, Procurement Reform Amendment Act of 1996: Sec. 101 … (c) Section 105 (D.C. Code 1-1181.5) is
+amended to read as follows: “Sec. 105. (a) There is established an independent service agency to be called the Office of
+
+
+                                                         - 13 -
+Contracting and Procurement and delegated procurement authority for all agencies covered by the
+
+PPA to the Director OCP:
+
+           There is established an independent service agency to be called the Office of
+           Contracting and Procurement (“OCP”), which shall be administered by a Director. By
+           delegation from the Mayor, the Director of the OCP (“Director”) shall be the exclusive
+           contracting authority for all procurements covered by this act.
+
+In other words, the PRAA retrieved the delegated procurement authority from covered agencies and
+
+conferred it upon the Director of OCP. The PSCIPAA Section 13(b) exemption for the PSC simply
+
+transferred procurement authority back to the PSC, as is made clear by both the name of the act and
+
+the PSCIPAA Sec. 13(c)(2) conforming amendment to Chapter 8 of Title 34, viz.,
+
+           “[t]he Commission is authorized to enter into contracts with the District government,
+           the United States government, and other public and private entities for goods and
+           services …”
+
+Thus, the PPA Section 320 exemption does not exclude the PSC from application of the PPA. It
+
+merely grants to the PSC procurement authority.
+
+           21. Finally, the case of DCHA demonstrates clearly that the Council knows how to exempt
+
+an independent agency from application of the contract provisions of the PPA. Section 20 of the
+
+District of Columbia Housing Authority Act of 1999 (“DCHAA”), which created DCHA’s PPA
+
+Section 320 exemption, states that “[t]he Procurement Act shall not apply to contracts and contractors
+
+of the Authority.”33 The PSCIPAA grants to the PSC no such exemption from the contract
+
+provisions of the PPA.
+
+
+
+Contracting and Procurement (“OCP”), which shall be administered by a Director. By delegation from the Mayor, the
+Director of the OCP (“Director”) shall be the exclusive contracting authority for all procurements covered by this act.
+Except as otherwise provided in this act, no other department, agency, instrumentality, or employee subject to the
+provisions of this act shall exercise procurement or contracting authority, except authority otherwise provided for
+receiving and making grants-in-aid or for federal financial assistance. Departments, agencies, and entities subject to this
+act shall be responsible for determining their requirements for goods and services and for technical direction of awarded
+contracts. The Director may, by regulation, delegate contracting authority to employees of a department, agency, or other
+entity commensurate with the Director’s judgment of each employee’s ability to meet the objective of this act.”
+33
+     DC Law 13-105, District of Columbia Housing Authority Act of 1999: Sec. 20. Procurement. See footnote 11, above.
+
+
+                                                          - 14 -
+         22. A plain and fair reading of the statute and its legislative history clearly shows that the
+
+PSC’s PPA Section 320 exemption is neither a blanket exclusion from application of the PPA nor an
+
+exemption from the contract provisions of the PPA. The Board erred in not so finding in the instant
+
+cases.
+
+                                             CONCLUSION
+
+         23. As demonstrated above, a plain and fair reading of the QPA and the PPA and their
+
+legislative histories shows that the PSC is subject to both statutes and OPC as an agency within the
+
+PSC is, therefore, subject to those statutes as well. This reading of the statutes is wholly consistent
+
+with the Board’s findings in Curtis, where the Board found that DCHA, an independent agency with
+
+a PPA Section 320 exemption, is subject to the QPA. For the reasons set forth above and consistent
+
+with its finding in Curtis, the Board should reverse its August 2, 2006 finding that OPC is not subject
+
+to the QPA and the PPA and set the instant cases for hearing on their merits.
+
+
+                                                               Respectfully submitted,
+
+
+                                                               /s/ Karl R. Pavlovic_________
+                                                               Karl Richard Pavlovic, President
+                                                               DOXA, Inc.
+                                                               1100 Wayne Avenue, Suite 720
+                                                               Silver Spring, Maryland 20910
+
+
+August 21, 2006
+
+
+
+
+                                                   - 15 -
+                           CERTIFICATE OF SERVICE
+
+
+CAB Nos. 1284/1285, DOXA, Inc. Under Office of the People’s Counsel Contracts
+for DC PSC Formal Cases Nos. 945 et al
+
+
+       I hereby certify that on this 21st day of August, 2006, a copy of the “Motion for
+Reconsideration of Opinion Dismissing Appeals of DOXA, Inc.” was served on the
+following parties of record by hand delivery or first class mail, postage prepaid:
+
+
+Elizabeth A. Noël, Esq.
+People’s Counsel
+
+Sandra Mattavous-Frye, Esq.
+Deputy People’s Counsel
+
+Barbara L. Burton, Esq.
+Assistant People’s Counsel
+Office of the People’s Counsel
+1133 15th Street, N.W., Suite 500
+Washington, D.C. 20005
+
+
+
+
+/s/ Karl R. Pavlovic____
+Karl Richard Pavlovic
+President
+DOXA, Inc.
+1100 Wayne Avenue, Suite 720
+Silver Spring, Maryland 20910
+

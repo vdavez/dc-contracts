@@ -1,0 +1,1515 @@
+                                           Vol 44 No. 44 10-31-1997
+
+
+DISTRICT OF COLUMBIA REGISTER                                                       OCT 3 f 1997
+
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+
+
+  APPEAL OF:
+
+         MCI CONSTRUCTORS, INC.                                 )
+                                                                )     CAB No. D-924
+         Under Contract No. 0477-02-0-5-LA                      )
+
+
+         For the Appellant: Thomas B. Newell, Esq., and Charlie C.H. Lee, Esq., Watt, Tieder
+  & Hoffar. For the Government: Warren J. Nash, Assistant Corporation Counsel.
+
+         Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+  Lorilyn E. Simkins and Phyllis W. Jackson, concurring.
+
+                                             OPINION
+
+         In this appeal, the Appellant, MCI Constructors, Inc. ("MCI"), seeks convenience
+  termination costs pursuant to the Board's previous entitlement decision in CAB No. D-835,
+  reported at 39 D.C. Reg. 4305, which converted the District's default termination of MCl's
+  contract into a termination for the convenience of the District. We conclude that MCI is entitled
+  to recover $764,842, plus interest pursuant to D.C. Code § 1-1188.6.
+
+                                         BACKGROUND
+
+         This case requires us to determine the appropriate award due MCI as a result of our
+ entitlement decision which converted the District's improper default termination of Contract No.
+ 0477-AA-02-0-5-LA into a termination for the convenience of the District. The contract was
+ for the construction of the Chlorination/Dechlorination Facility at the Blue Plains Wastewater
+ Treatment Plan. It was a fixed-price contract in the amount of $2,882,850.00. 39 D.C. Reg.
+ at 4305. The Project was designed to provide the final treatment of wastewater from the Blue
+ Plains Wastewater Treatment Plant before the water is discharged into the Potomac River. MCI
+ was required to build one new building largely for instrumentation; to furnish and install
+ chlorination and sulfonation equipment, chemical piping, railroad spur tracks, process steam
+ analyzers, and electrical power and control circuits; and to rehabilitate and repair existing
+ chlorine injectors and chlorine injector water pumps. 39 D.C. Reg. at 4310; Appeal File ("AF")
+ 1, at SP-l.
+
+         The entitlement decision sets forth the Board's findings of fact and conclusions of law
+ supporting its decision to convert the termination for default into a termination for the
+ convenience of the District. Neither party challenges our prior findings and we will not restate
+ those findings except as necessary to explain our determinations with respect to quantum.
+                                                Vol 44 No. 44 10-31-1997
+
+
+OISTRICT OF COLUMBIA REGISTER
+
+
+                                                       -2-               MCI COflstructors, IflC., CAB No. D-924
+
+
+
+       In the entitlement decision, we directed the parties to resolve termination for convenience
+quantum in accordance with Article 6 ("Termination for Convenience of the District") of the
+General Provisions of the contract.· Pursuant to those directions, MCI submitted a termination
+for convenience claim to the Director of the Department of Administrative Services ("DAS") on
+November 6, 1991. On December 17, 1991, a representative of the DAS Director ordered the
+
+
+
+• Article 6 provides in pertinent part:
+
+        E.       In the event of the failure of the Contractor and the Contracting Officer to agree .
+        upon the whole amount to be paid to the Contractor by reason of the tennination of work pursuant
+        this Article, the Contracting Officer shall, subject to any review required by the District's
+        procedures in effect as of the date of execution of Contract, determine, on the basis of information
+        available to him, the amount, if any, due the Contractor by reason of the termination and shall pay
+        to the Contractor the amounts detennined by the Contracting Officer, as follows, but without
+        duplication of any amounts agreed upon in accordance with D above.
+
+           1.    With respect to all Contract work performed prior to the effective date of the Notice of
+                 Tennination, the total (without duplication of any items) of:
+
+                 a.       The cost of such work;
+
+                 b.       The cost of settling and paying claims arising out of the termination of work
+                          under subcontracts or orders as provided in B.s. above, exclusive of the
+                          amounts paid or payable on account of supplies or materials delivered or
+                          services furnished by the subcontractor prior to the effective date of the Notice
+                          of Tennination of work under the Contract, which amounts shall be included in
+                          the cost on account of which payment is made under E. 1 as above; and
+
+                 c.       A sum, as profit on E. 1.a. above, determined by the Contracting Officer to be
+                          fair and reasonable; provided however, that if it appears that the Contractor
+                          would have sustained a loss on the entire Contract had it been completed, no
+                          profit shall be included or allowed under this subparagraph and an appropriate
+                          adjustment shall be made reducing the amount of the settlement to reflect the
+                          indicated rate of loss; and provided further that profit shall be allowed only on
+                          preparations made and work done by the Contractor for the terminated portion
+                          of the Contract but may not be allowed on the Contractor's settlement expenses.
+                          Anticipatory profits and consequential damages will not be allowed. Any
+                          reasonable method may be used to arrive at a fair profit, separately or as part
+                          of the whole settlement.
+
+          2.     The reasonable cost of the preservation and protection of property incurred pursuant to
+                 B.9; and any other reasonable cost incidental to tennination of work under the Contract
+                 including expense incidental to the determination of the amount due to the Contractor as
+                 the result of the tennination of work under the Contract.
+
+        F.      The total sum to be paid to the Contractor under E 1. above shall not exceed the total
+        Contract price as reduced by the amount of payments otherwise made and as further reduced by
+        the Contract price of work not tenninated . . . .
+                                              Vol 44 No. 44 10-31-1997
+
+      DISTRICT OF COLUMBIA REGISTER                                                     OCT 3 1 1997
+
+                                                  -3-               MCI COIwructors, IIlC., CAB No. D-924
+
+
+
+ District and MCI to negotiate a termination for convenience settlement. From December 1991
+ to June 1992, the District was dilatory in negotiating the termination claim with MCI. No
+ meaningful negotiations took place and ultimately MCI filed the captioned appeal with the Board
+ from the Director's deemed denial of MCl's termination cost claim. The parties conducted
+ additional discovery on the issue of termination quantum, the Board conducted a six day
+ quantum hearing in June 1993, and the parties submitted posthearing briefs.
+
+         Under paragraph E of Article 6, the contractor whose contract has been terminated for
+ convenience is entitled to recover its total costs incurred in performing the contract work
+ (including changes to the contract work), the costs of settling claims arising out of the terminated
+contract work, and a reasonable profit on the terminated work. Paragraph F of Article 6 caps
+the contractor's recovery at the "total Contract price", minus payments previously received by
+the contractor, and minus the contract price of any work not terminated. The phrase "total
+Contract price" in Paragraph F, consistent with the phrase "Contract work" in Paragraph E,
+means the total contract price as properly adjusted for inter alia contract changes. See A.A.
+Beiro Constr. Co., CAB No. D-822, 40 D.C. Reg. 4574, 4626. Thus, a decision by the DAS
+Director to terminate a contract for convenience (or, as here, a Board decision converting a
+default termination to one for convenience) effectively converts a fixed-price contract into a cost
+reimbursement contract, subject to the properly adjusted contract price as a ceiling. E.g.,
+Worsham Constr. Co., ASBCA No. 25907, 85-2 BCA , 18,016 at 90,369.
+
+          MCl's Revised Termination Claim Summary
+
+        As set forth in its posthearing brief, MCI claims $1,828,018.36 in termination costs,
+consisting of:
+
+I.        Unpaid contract costs plus profit                         $1,029,130.52
+          (limited to the contract cap)
+
+II.       Jones & Artis (subcontractor) claim                            291,450.09
+
+III.      Settlement expenses: "related legal expenses"                  180,016.00
+                               "claim preparation costs"                 131,887.00
+
+IV.       Interest (through 8/29/93)                                     195,534.75
+
+        The District has challenged numerous elements of cost under each of the categories
+identified by MCI. We will analyze the categories seriatim.
+                                        Vol 44 No. 44 10-31-1997
+
+
+ DISTRICT OF COLUMBIA REGISTER
+                                                                                       OCT 3 1 1997
+
+                                               -4-                 MCI COllstructors. IIIC., CAB No. D-924
+
+
+
+I.      Unpaid Contract Costs
+
+        In determining MCl's total costs of performance under paragraph E.1.a of Article 6,
+MCl's accounting experts, Messrs. Richard Watkins and Jerry Hahne of Watkins, Meegan,
+Drury & Company, calculated that from inception of the contract to the date of termination,
+MCI incurred $3,350,949.66 in total direct costs and $268,475.98 in allocable general and
+administrative expenses. Pursuant to paragraph E.1.c of Article 6, the accountants added profit
+of 12 percent, to arrive at a total project cost of $4,053,308.72 under Article 6, paragraph E.1.
+Subtracting from that total the sum of all project payments MCI has previously received,
+$2,802,716.48, the accountants concluded that MCl's total unpaid performance costs equal
+$1,250,592.24. Recognizing that its total unpaid performance costs are subject to the adjusted
+contract price cap of Article 6, paragraph F (recovery limited to the lesser of total unpaid
+performance costs and the adjusted contract price cap), MCI calculates its adjusted contract price
+as follows:
+
+       Original Contract Amount                                             $2,882,850.00
+
+       Plus:
+       Change Order No. 1                                                        94,833.00
+       Pending Change Orders                                                    199,443.00
+       Delay Damages                                                            315,238.00
+       Labor Inefficiency and Disruption                                        431,994.00
+
+       Adjusted Contract Price                                              $3,924,358.00
+
+MCI calculates the adjusted contract price cap pursuant to paragraph F of Article 6, as follows:
+
+       Adjusted Contract Price                                              $3,924,358.00
+
+       Less:
+       Payments received                                                     2,802,716.48
+       Value of uncompleted work                                                92.511.00
+
+       Adjusted Contract Price Cap                                          $1,029,130.52
+
+         Under its calculations, MCl's adjusted contract price cap ($1,029,130.52) is lower than
+total unpaid performance costs ($1,250,592.24). Therefore, says MCI, this element of recovery
+is limited to the amount of the adjusted contract price cap. However, the District challenges
+MCl's inefficiency and disruption costs, the delay damages, and MCl's entitlement to costs for
+instrumentation coordination. The parties' disputes in these areas affect the calculation of the
+adjusted contract price, and, therefore, the calculation of the adjusted contract price cap.
+                                        Vol 44 No. 44 10-31-1997
+
+
+DISTRICT OF COLUMBIA REGISTER                                                           OCT 3 1 1997
+
+                                                -5-                MCI COllstructors, IIIC., CAB No. D-924
+
+
+
+        A. Orie;inaJ Contract Amount and Chane;e Order No.1
+
+        The parties have stipulated to the original contract price of $2,882,850.00 and the amount
+ of $94,833.00 for Change Order No. 1. (Joint Stipulations, filed June 21, 1993).
+
+        B. "Pendinj.! Chall!le Orders"
+
+         Under the "Pending Change Orders" category, the parties have stipulated to various
+ change order amounts totaling $171,956 of the $199,443 claimed by MCI. (Second Joint
+ Stipulations, filed June 21, 1993). The difference, $27,487, is based on MCl's claim for a
+ constructive change arising from a District-caused redesign in some of the instrumentation.
+ According to MCI's president, Mr. Clement Mitchell, District design errors forced him to assign
+ a project engineer, Mr. Richard Fawley, to review and coordinate design changes between the
+ District and one of MCl's instrumentation suppliers, Fischer & Porter. (6/21/93 Tr. 67). MCI
+ seeks to recover 1,032 labor hours for coordination and revision work performed by Mr.
+ Fawley, during the period March 1988 through September 1988, in connection with the
+ instrumentation design change. We know from the record that the District in December 1987
+ approved of the design changes sought by MCI. An undated MCI change proposal shows Mr.
+ Fawley's labor rate at $22 per hour, multiplied by 1,032 hours, plus some unstated labor
+ burden, for a total of $22,735. After applying some markup, the total claim is $27,487.
+ (6/21/93 Tr. 70-72; MCI Vol. 2, Exhibit 5). Although Mr. Fawley, as manager of MCl's
+ construction planning and review department, had been involved with instrumentation submittals
+ on the project at least as early as February 1987 (e.g., AF 4.11), he started working at the Blue
+ Plains site beginning in March 1988. The evidence also shows, however, that he was doing
+ more than simply coordination work associated with the instrumentation redesign on this one
+project. Mr. Richard Vroom, MCl's project manager during the period September 1987 through
+September 1988, testified that Mr. Fawley, as MCl's manager of document control, was
+responsible for managing the submittal processes for all projects, including during the time
+period when Mr. Fawley was physically located at Blue Plains from March through September
+ 1988. (6/23/93 Tr. 161-62). Based on our review of the relevant portions of the record, MCl's
+initial action to assign Mr. Fawley's time to an overhead account was probably the correct one
+since his time benefited more than one contract. We give little weight to the records submitted
+by MCI in support of its change proposal for instrumentation coordination. (Cf. 6/21/93 Tr.
+197; MCI Vol. 2, Exhibit 3, Ex. B, Ex. 1 and Ex. 2-1 at 6; MCI Vol. 2, Exhibit 5, Ex. 9, Ex.
+1). Even if we were to treat Mr. Fawley's costs as direct costs, MCI has not attempted to
+segregate the portion of his coordination time allocable to this contract and the portion allocable
+to other contracts. In addition, MCI shares some of the responsibility for coordination problems
+relating to the Fischer & Porter instrumentation (see, e.g., 6/21/93 Tr. 151-54; 6/23/93 Tr. 240-
+41; District Exs. 56-57; AF 4, Attachments 4.22-4.24, 5.96), but it has not accounted for its
+share of that responsibility. Accordingly, MCI is not entitled to an equitable adjustment for Mr.
+Fawley's coordination work.
+
+
+
+
+                                           6448
+                                             Vol 44 No. 44 10-31-1997
+
+
+ DISTRICT OF COLUMBIA REGISTER                                                       OCT 3 1 1997
+
+                                               -6-              MCI COllstructors, IIIC., CAB No. D-924
+
+
+
+        c.   Labor Inefficiency and Disruption
+
+         The law recognizes that an equitable adjustment may include as an element of recovery
+ additional costs incurred by a contractor for loss of productivity or efficiency arising from
+ disruptions for which the government bears cost responsibility. Like other types of claims, the
+contractor must prove that it suffered a loss of efficiency and that the government or owner is
+responsible for the loss of efficiency costs. U.S. Industries, Inc. v. Blake Constr. Co., 671 F.2d
+539, 546-47 (D.C. Cir. 1982); Williams Enterprises v. Sherman R. Smoot Co., 938 F.2d 230,
+236 (D.C. Cir. 1991). Unlike a delay claim, which seeks compensation for the additional costs
+of having to stay on a project longer than it would have but for the delaying acts, a loss of
+efficiency claim seeks compensation for the additional costs resulting from the government-
+caused disruptions that made the contractor's work more difficult and expensive than it would
+have absent the disruptions. U.S. Industries, 671 F.2d at 546. Courts and boards of contract
+appeals have addressed a wide array of disrupting factors which may cause loss of productivity
+or labor inefficiency, including factors such as: disruption of the contractor's work sequence,
+disruptions from numerous contract changes creating delays and accelerations, disruptions
+causing crowding or stacking of trades, disruptions or accelerations which force the contractor
+to initiate overtime work, and government changes to one portion of a project which decrease
+efficiency on another part of the project. See, e.g., U.S. Industries, 671 F.2d at 546-47;
+William Enterprises, 938 F.2d at 236; Luria Brothers & Co. v. United States, 369 F.2d 701,
+713-14 (Ct. Cl. 1967); Fischbach & Moore Int'l Corp., ASBCA No. 18146, 77-1 BCA 1
+12,300, at 59,237-38; Continental Consolidated Corp., ASBCA No. 10662, 67-1 BCA ,6127;
+Casson Constr. Co., GSBCA No. 4884, 83-1 BCA 1 16,523.
+
+       The proper measure of the adjustment is the difference between what it would have cost
+to perform the work without the government-caused disruption and what it actually cost to
+perform the work with the disruption. General Railway Signal Co. v. WMATA, 875 F.2d 320,
+325 (D.C. Cir. 1989); Williams Enterprises, 938 F.2d at 236. Having said that, it is well-
+recognized that proof of quantum for labor inefficiency is often a difficult task. Luria Brothers,
+369 F.2d at 713; Paccon, Inc., ASBCA No. 7890, 1963 BCA '3659, at 18,356.
+
+        MCI claims that the District-caused delays, changes, and accelerations significantly
+affected MCl's labor productivity and interrupted its rhythm and sequence of work. For
+example, MCI claims that District delays arising from its poor design and project
+mismanagement led to numerous contract changes which forced MCI repeatedly to shift its
+workforce and resequence contract work and caused MCl's workforce to work excessive
+overtime. MCI presented two methods for calculating its labor inefficiency and acceleration
+costs, principally through the testimony of Mr. Edward Ripper of The Barrington ConSUlting
+Group who was qualified as an expert in construction contract cost analysis and pricing.
+
+       First, MCI relies on a modified total cost method to estimate its inefficiency costs. This
+method compares actual costs with the bid estimate rather than with a would-have-cost estimate.
+The inefficiency cost is equal to the actual cost of performing the affected work, minus costs
+                                        Vol 44 No. 44 10-31-1997
+
+  DIS'mICT OF COLUMBIA REGISTER
+                                                                                       OCT 3 1 1997
+
+                                                 -7-               MCI Constructors, Inc., CAB No. D-924
+
+
+ incurred due to the contractor's fault, minus the contractor's bid price for the affected work.
+ To use this method, the contractor must show that: (1) the actual inefficiency costs cannot be
+ estimated reasonably by a more reliable means; (2) its estimate of the disrupted work is
+ substantiated by its bid and the bid estimate is reasonable; (3) its actual costs are reasonable; and
+ (4) government-caused disruption was responsible for the inefficiencies. See Servidone Constr.
+ Corp. v. United States, 931 F.2d 860, 861 (Fed. Cir. 1991); WRB Corp. v. United States, 183
+ Ct. Cl. 409, 426 (1968). In Servidone, the court approved of a modified total cost award in
+ which the trial court substituted a reasonable bid amount for the original bid because of bid
+ inaccuracies. 931 F.2d at 861-62.
+
+        MCI states that it incurred total labor costs of $952,808. This amount was derived from
+ MCl's job cost recap which showed total labor costs of $912,365.55. The job cost amount was
+adjusted upward by $17,707.45, to account for adjustments arising from MCl's change to new
+accounting system software, plus $22,735 for the coordination work of Mr. Fawley. (6/21193
+Tr. 196-98; MCI Vol. 2, Exhibit 3, Ex. B, Tab 1). From the total labor costs of $952,808, Mr.
+Ripper subtracted labor costs of $18,055 for pipe dope rework attributable to MCI, and total
+labor supervision and administration costs of $306,535, in order to obtain "adjusted manual labor
+costs" of $628,218. (6/24/93 Tr. 102; MCI Vol. 2, Exhibit 6, at 2). From the adjusted manual
+labor cost total, he subtracted the budgeted (bid) manual labor costs of $197,374, labor in
+approved change orders of $18,096, and labor included in unapproved change orders claimed
+elsewhere of $74,344, for a total manual labor loss of $338,404. To this amount, he added
+labor supervision costs of $47,305 and 12 percent profit for a total labor inefficiency and
+acceleration claim of $431,994.
+
+         MCI also presented an alternative set of calculations which it calls a "measured mile"
+ analysis. The measured mile method (also variously called "yardstick" or "benchmark") is one
+ form of a would-have-cost analysis where the productivity that the contractor achieved in an
+ undisrupted work period is compared to the contractor's productivity on identical or similar tasks
+during a disrupted work period. See U.S. Industries, 671 F.2d at 547; 2 R. NASH & 1. CIBINIC,
+FEDERAL PROCUREMENT LAW 1412-13 (3d ed. 1980). As a generalization, the difference in
+productivity or labor costs between the disrupted and undisrupted periods represents the loss of
+productivity or efficiency costs. The more comparable the project conditions during the two
+periods (other than the disruption), the more persuasive the analysis. Mr. Ripper testified that
+he performed a measured mile productivity analysis of MCl's labor inefficiencies in order to
+verify that the amount calculated under the modified total cost approach was reasonable.
+(6124/93 Tr. 122; MCI Vol. 2, Exhibit 6, at 8). Focusing on MCl's civil and mechanical
+activities, Mr. Ripper used MCl's payment requisitions as an indication of the progress that was
+being made on a monthly basis on the project. (6124/93 Tr. 123). Mr. Ripper determined that
+there was no unimpacted performance period with regard to those activities. He analyzed the
+period from October 1, 1986 through December 20, 1987 and determined that this period was
+a "moderately" impacted period. He determined the period from December 21, 1987 through
+September 30, 1988 to be a "severely" impacted period. He concluded that during the
+moderately impacted period, MCI labor was 25 percent inefficient due to District-caused
+
+
+
+
+                                            (;il50
+                                         Vol 44 No. 44 10-31-1997
+
+
+  DISTRICT OF COlUMBIA REGISTER                                                        OCT :5 1 1991
+
+                                               -8-                  MCI Constructors, Inc., CAB No. D-924
+
+
+ disruptions. (6/24/93 Tr. 128-29). For the moderately impacted period, Mr. Ripper calculated
+ the number of manhours spent to accomplish one percentage of completion for civil activities
+ (90.45) and for mechanical activities (30.07) by dividing the total actual manhours for the civil
+ activities (7,966) and mechanical activities (1,617) by the percentages of civil (88.08%) and
+ mechanical (53.77%) work completed. Then, he reduced the manhours per percent complete
+ by 25 percent to derive a "should have been" manhours per percent complete for civil (67.83)
+ and mechanical (22.55). Finally, he multiplied the "should have been" manhours per percent
+ complete by the actual percentages completed for the moderately and severely impacted periods
+ to arrive at the number of manhours Mel should have been required to spend to accomplish the
+ civil (5,975) and mechanical (1,213) work in the moderately impacted period. Under Mr.
+ Ripper's method, the difference between the "should have been" manhours and the actual
+ manhours constitutes the inefficient manhours spent on civil (1,992) and mechanical (404) in the
+ moderately impacted period. To determine the number of inefficient manhours spent in the
+severely impacted period, Mr. Ripper calculated from the project's payment requisitions the
+percentages of completion accomplished for civil (9.35 %) and mechanical (44.69 %) work during
+the severely impacted period. Using the "should have been" manhours per percent complete for
+civil and mechanical, he arrived at total inefficient labor hours for civil (1,551) and mechanical
+(5,638) work for the severely impacted period. MUltiplying the total number of inefficient labor
+hours (9,585) times an hourly manual labor rate ($26.79) yields a manual labor inefficiency and
+acceleration cost of $256,778. Adding labor supervision and administration ($47,305) and 12
+percent profit yields a final total of $340,573. (6/24/93 Tr. 103-04, 125-32, 147-48, 159-60).
+Mel also presented, at the Board's request, an alternative analysis which used the bid, rather
+than the moderately impacted period as adjusted, to calculate a baseline manhours per percent
+complete rate for the civil activities (42.7 manhours per percent complete) and the mechanical
+activities (45.2 manhours per percent complete). Using these baseline rates, the total labor
+acceleration and inefficiencies amount is $347, 188. (ld.).
+
+        The District does not dispute that Mel experienced significant inefficiencies (6/29/93 Tr.
+255) but claims that the inefficiencies were the resu~t of Mel's own poor execution and
+coordination of the work rather than the result of District-caused disruptions. The District
+contends that Mel failed to adduce specific proof that any District changes or disruptions caused
+Mel to experience inefficiencies. Also, the District claims that Mel underbid the project in a
+number of areas but because the original bid papers cannot be located the District states that it
+cannot determine whether cost overruns are the result of bid errors or Mel inefficiencies. The
+District's Mr. John Livengood, qualified as an expert in construction claim analysis, did not
+believe that Mel's measured mile analysis using percentage of completion data from payment
+requisitions was appropriate under the circumstances. Mr. Livengood testified that there is no
+support for Mel's deduction of 25 percent from the manhours per percent complete rate for the
+"moderately impacted period" in order to arrive at a baseline manhour per percent complete rate
+for the civil and mechanical activities. Moreover, the District argues that Mel never established
+a causal link between District-caused disruptions or delays and particular Mel labor activities
+as a necessary predicate for showing District-caused labor inefficiencies.
+                                     Vol 44 No. 44 10-31-1997
+
+  DIS'mICT OF COLUMBIA REGISTER                                                       OCT :5 1 1997
+
+                                                 -9-            MCI COllstructors, IlIc.• CAB No. D-924
+
+
+
+          Under the particular facts of this case, we conclude that neither method used by Mel to
+ estimate inefficiency quantum provides a sufficiently reliable measure of Mel's inefficiency
+ costs arising from District-caused disruptions. Our conclusion on the inadequacy of proof of
+ quantum originates in Mel's overly general proof of causation. The evidence does not convince
+ us that the various District disruptions caused labor overruns in the labor activities covered by
+ Mel's modified total cost or measured mile analyses. In a number of areas, Mel's presentation
+ suffered from a lack of reasonable detail as to (1) the work activities which were disrupted and
+ rendered inefficient, and (2) the causal connection between the District's disruptions and Mel's
+ increased labor costs. Mel's presentation on causation -- often no more than general statements
+ that it suffered inefficiencies resulting from out of sequence work, work delays and suspensions,
+and accelerations -- failed to reasonably specify what work activities were rendered inefficient
+and how the disruptions made those activities more difficult and expensive. For example, Mel
+did not explain why, according to its job cost records, some activities were performed below
+budget while others greatly exceeded budget. Mel did not explain the 30-fold increase in labor
+for installing seed and fertilizer (labor code 601) and the nearly 150-fold increase in the "piping-
+exc. bed & refill" work (labor code 603) under the civil work, and the 10-fold increase in labor
+for installing the stainless steel pipe (labor code 204) and the 50-fold increase for installing
+diffusers (labor category 230) under the mechanical work. (Mel Vol. 2, Exhibit 3, Ex. B, Ex.
+1; District Ex. 5, Attachment 5-12, at 1-4; District Ex. 130). Because the level of analysis and
+proof was much too general, we are unable to conclude that either Mel's modified total cost
+method, addressing a single adjusted total manual labor cost, or Mel's measured mile method,
+addressing Mel labor costs under composite civil and mechanical categories, provides a
+reasonable measure of Mel inefficiency costs for which the District bears cost responsibility.
+
+        There are additional reasons why we cannot adopt either Mel method for measuring
+ quantum. For its modified total cost approach, Mel did not persuade us that its bid, as
+generally reflected in the project's initial budget document which summarizes labor and non-
+labor bid estimates (District Ex. 130; see 6121193 Tr. 52), provides a reliable estimate of labor
+for Mel to perform the contract work excluding the disruptions, changes, and accelerations for
+which the District bears cost responsibility. Other than the totals for each labor code, the budget
+summary contains no information relating to the labor estimates. It contains no supporting
+documentation speaking to productivity assumptions. Because the underlying bid worksheets are
+missing (6121/93 Tr. 115, 117), more persuasive evidence could have been presented in the form
+of an independent would-have-cost estimate. Having carefully reviewed the record, we are
+convinced that there were some bidding errors by Mel, as reflected in the budget summary
+document, that had the effect of understating the estimated labor costs. Mel did not
+persuasively address those errors in its case or make adjustments accordingly. In fact, Mel
+makes an adjustment only for the pipe dope rework performed by Mel in the June and July 1988
+period. As discussed earlier, the evidence shows that Mel also bears some responsibility for
+coordination problems that existed on the project. (See, e.g., 6121/93 Tr. 151-54; 6123/93 Tr.
+240-41; District Exs. 56-57; AF 4, Attachments 4.22-4.24,5.96). Although those coordination
+problems did not translate into critical path delay (see infra), they affected Mel's labor
+efficiency and its labor supervision costs.
+
+
+
+
+                                           6452
+                                                  Vol 44 No. 44 10-31-1997
+
+
+    DISTRICT OF COLUMBIA REGISTER                                                                OCT 3 1 1997
+
+                                                      - 10 -             MCI Constructors, Inc., CAB No. D-924
+
+
+        Mel presented its measured mile analysis "to check and verify that the amount calculated
+under the modified total cost approach was reasonable and accurate." However, we fail to see
+how the results of that analysis verify the modified total cost result. In addition, we do not have
+confidence in the reliability of the baseline productivity rates calculated for the composite civil
+and mechanical activities. The problem of reliability does not arise primarily from the expert's
+use of a composite civil and mechanical percentage of completion approach derived from the
+payment requisition records, a measurement standard Mel's Mr. Ripper readily agreed was less
+preferred than having actual data on quantities of materials installed. (6/24/93 Tr. 122-23, 161-
+62). Rather, we do not believe the record provides adequate evidence to justify the calculated
+baseline productivity rates for the civil and mechanical categories against which the moderately
+and severely impacted periods were assessed. Specifically, we cannot find adequate evidence
+in the record to support the 25 percent deductive adjustment which Mr. Ripper made to the
+manhours per percent complete rate for the moderately impacted period in order to arrive at the
+baseline rate. He arrived at the 25 percent adjustment based on discussions with Mel's
+president and personnel concerning "impacts that were occurring on the job, ,,2 from "studying
+the fluctuations on a monthly basis, ,,3 and from his experience in having performed a "great
+many productivity calculations" in "various environments" under "various levels of impact."
+(6/24/93 Tr. 128-29). Mr. Ripper is not a construction engineer and did not offer an
+engineering estimate. None of Mel's fact witnesses offered a meaningful estimate. Nor do the
+baseline mechanical and civil rates (22.55 and 67.83, respectively) compare in any logical
+manner with the manhours per percent complete rates that Mr. Ripper calculated for the
+mechanical and civil portions (45.2 and 42.7, respectively) of Mel's bid as reflected in the
+
+
+
+
+2 MCl's president testified that in the latter part of 1987 he and others at MCI made a review of project status and
+costs and "it was our opinion at the time we were running an inefficiency factor of between 20 and 30 percent."
+(6/21/93 Tr. 60-61). Although he testified that the inefficiency was caused by certain delays and contract changes,
+the explanation was superficial and lacked any substantiating evidence for quantifying the inefficiency. (!d. at 61-
+63). These general observations do not adequately establish a reliable basis for Mr. Ripper's use of a 25 percent
+adjustment to the "moderately impacted period" manhour per percent complete rates in order to arrive at baseline
+rates. Mr. Vroom, the MCI project manager for this project and another ongoing project at Blue Plains, testified
+that when he joined the project in September 1987, he reviewed actual labor and material costs incurred to date,
+compared those costs with percentage completion, and made a cost to complete analysis for his management.
+(6/23/93 Tr. 139-142). To the extent that Mr. Vroom testified that as of September 1987 MCI's labor costs
+exceeded budget by 20 to 30 percent because of District "delay", we give little weight to such testimony because
+he admittedly had little or no knowledge about the job when he came aboard and he gives no reasons supporting
+his conclusion. (Cf id. at 140-142 and 256-59). While the 20 to 30 percent figure may well represent MCl's labor
+overrun on the project at that time, neither the testimony from Mr. Mitchell nor from Mr. Vroom convinces us that
+those numbers represent MCI labor inefficiency solely attributable to the District.
+
+3  Although the record is unclear, the "fluctuations" appear to refer to monthly fluctuations in the manhours per
+percent complete. Because MCl's documentation did not permit Mr. Ripper to calculate quantities of materials
+installed, or the like, we must presume that Mr. Ripper never studied fluctuations in the productivity for actual
+project activities.
+
+
+
+
+                                              - 6453
+                                                  Vol 44 No. 44 10-31-1997
+
+    DISTRICT OF COLUMBIA REGISTER                                                                       OCT 3 1 1997
+
+                                                         - 11 -              MCI COllstructors, IlIc.• CAB No. D-924
+
+
+    budget summary.4
+
+             Notwithstanding that we cannot rely on the modified total cost or measured mile analysis
+     presented by MCI, the record convinces us that the District's disruptions, delays, and
+     accelerations caused MCI to incur inefficiency and acceleration costs for which the District bears
+     cost responsibility. The District concedes that MCI is entitled to some compensation for the
+     acceleration which began in May 1988. Well before December 1987, MCI had to contend with
+     numerous significant disruptions caused by the District's failure to drain the forebays, untimely
+    approval of the Fischer & Porter chlorination/dechlorination equipment submittals, and untimely
+    action on the console redesign. The District's untimely actions and the design problems
+    regarding the chlorine water injection pumps and the stop logs problem also disrupted MCI
+    operations. The District also imposed constructive and directed accelerations to MCl's work.
+    (6/23/93 Tr. 111-117). The changes forced MCI to resequence work not only in 1987 but also
+    in 1988 when the District was demanding that MCI get the facility operational to meet an EPA
+    deadline. The District does not dispute that MCI resequenced work or incurred acceleration
+    costs. The District's expert testified, and his exhibits show, that MCI accelerated performance
+    in varying degrees from the beginning of May 1988 through at least July 1988. (District Ex.
+    5, Attachment 5-6).
+
+        Owing to the difficulty here in substantiating with direct and specific proof the quantum
+for each labor activity or group of activities subjected to inefficiency and acceleration, our use
+of a "jury verdict" method for estimating the inefficiency and acceleration costs is appropriate.
+Nolan Brothers, Inc. v. United States, 437 F.2d 1371, 1387-88 (Ct. Cl. 1971); Joseph Pickard's
+Sons Co. v. United States, 532 F.2d 739, 742 (Ct. Cl. 1976); Fischbach & Moore, 77-1 BCA
+, 12,300, at 59,237. In making a "jury verdict" determination, we have reviewed the scope and
+types of District-caused changes and disruptions, the estimated labor hours and costs, and the
+actual labor hours and costs for each job activity code under equipment and piping installation
+(labor code series 100 and 200) and civil installation (labor code series 600). Based on our
+review, we conclude that MCI is entitled to a total of $180,000 for direct labor inefficiencies
+and acceleration for which the District bears cost responsibility. We add ten percent for
+supervision and administration, reSUlting in a subtotal of $198,000.
+
+        The parties dispute the proper profit rate that should be applied to the contract
+adjustments pursuant to paragraph E.1.c of the Article 6 termination for convenience clause.
+In its original termination for convenience proposal, MCl's accounting expert, Mr. Watkins,
+used a 10 percent profit rate on MCI costs with regard to the labor inefficiencies and
+acceleration claim (MCI Vol. 2, Exhibit 3, Ex. D), but used a 12 percent profit rate elsewhere
+(id., Ex. B). A 10 percent profit rate was used in Change Order No. 1, the only bilateral
+change order executed by the parties. (See A.F. 5. 1 at 5-2). MCl's budget summary identifies
+
+
+4  Using composite rates derived from the budget summary of the bid would not be a proper measure here because
+the result would effectively duplicate the modified total cost method, excluding only the labor activities not included
+in the civil and mechanical composites. (6/24/93 Tr. 153).
+                                         Vol 44 No. 44 10-31-1997
+
+DISTRICT OF COLUMBIA REGISTER                                                            OCT 3 1 1991
+
+                                               - 12 -               MCI Constructors, Inc., CAB No. D-924
+
+
+projected income at approximately 9.5 percent of total budgeted costs. (District Ex. 130, at 7).
+Mr. Ripper determined that a 12 percent profit rate was justified by MCl's profit history on
+other jobs. Mr. Mitchell, MCl's president, also testified in support of a 12 percent rate. MCI,
+therefore, applies a 12 percent profit rate in its current quantum request. Based on our review
+of the record, including the 10 percent rate used in Change Order No.1, we find that a profit
+rate of 10 percent is reasonable and should be applied. Adding ten percent profit to the labor
+inefficiency and acceleration subtotal of $198,000, yields a final total of $217,800 for MCl's
+labor inefficiencies and acceleration costs.
+
+        D. Delay Damaees
+
+        MCI seeks a total of $315,238 in delay damages, consisting of extended labor supervision
+and administration amounting to $107,877, unabsorbed or extended home office overhead
+amounting to $127,702, and costs for extended equipment and general conditions equal to
+$79,659. For the most part, MCl's calculation of delay damages relies on its determination that
+the District caused a 252-day critical path delay to project completion and that MCI was not
+responsible for any concurrent critical path delay. The District contends that MCI was
+responsible for significant concurrent delays and is entitled to compensation for at most 62 days
+of District-caused delay. Because MCI seeks compensation for costs its says it incurred on
+account of project delays, we need to determine the magnitude of the compensable delay period.
+We will address that issue under the claim for extended home office overhead before we reach
+the claims for costs associated with extended labor supervision and administration and extended
+equipment and general conditions.
+
+               1. Unabsorbed Home Office Overhead
+
+        Overhead refers to indirect costs that a contractor must expend for the benefit of the
+business as a whole, as opposed to direct costs which are costs specifically identified with a final
+cost objective such as a contract. A contractor typically incurs the majority of its overhead costs
+operating a home office. Because overhead costs are generally fixed, and time-related, a
+contractor continues to incur them even during periods of reduced contract activity caused by
+a delay or suspension. When contract performance is delayed by the government in such a
+manner that the contractor cannot absorb a fair share of its on-going overhead costs, the law
+allows the contractor to recover its unabsorbed or extended overhead costs as an element of
+delay damages. Eichleay Corp., ASBCA No. 5183, 60-2 BCA 12688, aff'd on recon., 61-1
+BCA 12894; George Hyman Constr. v. WMATA, 816 F.2d 753, 756 (D.C. Cir. 1987); Williams
+Enterprises, 938 F.2d at 235; Wickham Contracting Co. v. Fischer, 12 F.3d 1574, 1577 (Fed.
+Cir. 1994); Interstate General Government Contractors, Inc. v. West, 12 F.3d 1053, 1057 (Fed.
+Cir. 1993); C.B. C. Enterprises, Inc. v. United States, 978 F.2d 669, 672-74 (Fed. Cir. 1992);
+Capital Electric Co. v. United States, 729 F.2d 743 (Fed. Cir. 1984). In its standard form, the
+formula used in Eichleay for quantifying the amount of recoverable unabsorbed home office
+overhead for a construction contractor consists of the following three calculations:
+                                        Vol 44 No. 44 10-31-1997
+
+ DISTRICT OF COLUMBIA REGISTER                                                            OCT 3 1 1997
+
+                                                - 13 -             MCI Constructors, Inc., CAB No. D-924
+
+
+
+         contract billings     x     corporate overhead incurred            corporate overhead
+       total billings during         during performance period              allocable to contract
+       performance period
+
+
+   corporate overhead allocable to contract
+                                                      corporate overhead allocable to contract per day
+      total days of contract performance
+
+      corporate overhead allocable          number of days
+          to contract per day
+                                       x of compensable delay
+                                                                           recoverable overhead
+
+
+To the extent that the contractor has recovered some part of the unabsorbed overhead during the
+delay period (e.g., a markup for fixed overhead on direct costs for change order work), it must
+be deducted from the amount of recoverable overhead calculated under the Eichleay formula.
+
+         To justify use of the Eichleay formula for calculating a daily rate for unabsorbed home
+office overhead expenses, the contractor must show that: (1) the government has caused a
+compensable delay or suspension; (2) the delay or suspension interrupts or reduces the stream
+of income from payments for contract direct costs; and (3) it was unable to absorb a fair share
+of its home office overhead costs during the delay or suspension period. George Hyman, 816
+F.2d at 756-57; Wickham Contractin.g, 12 F.3d at 1577-78. If the contractor shows that the
+delay or suspension was sudden and of unpredictable duration, it makes a prima facie showing
+that it was unable to absorb a fair share of its home office overhead expenses because in those
+circumstances it is presumed that it was not prudent or practical for the contractor to mitigate
+the impact by reducing overhead costs (e.g., by reducing home office personnel, facilities, or
+other fixed costs of running the business) or by taking on new work. George Hyman, 816 F.2d
+at 757; Williams Enterprises, 938 F.2d at 235; Mech-Con Corp. v. West, 61 F.3d 883, 886-87
+(Fed. Cir. 1995); Wickham Contracting, 12 F.3d at 1577-78. The government may rebut the
+presumption by showing that the contractor "did not suffer or should not have suffered any loss
+because it was able to either reduce its overhead or take on other work during the delay."
+Mech-Con, 61 F.3d at 886.
+
+        MCl's claim for $127,702 in extended or unabsorbed home office overhead costs consists
+of $86,963 for a 252-day delay during contract performance and $40,739 for a WI-day pre-
+performance delay by the District in issuing the notice to proceed. The District contends that
+the WI-day pre-performance delay is not compensable and that MCl concurrently delayed the
+project's critical path and therefore is entitled to no more than $21,397 based on a 62-day non-
+concurrent District delay.
+                                        Vol 44 No. 44 10-31-1997
+
+
+OlsmlCT OF COLUMBIA REGISTER                                                              OCT J 1 1997
+
+                                                - 14 -             MCI COlIStructors, IIIC., CAB No. D-924
+
+
+        The 252-day performance delay claim
+
+       Notice to Proceed was issued to Melon July 21, 1986. 39 D.e. Reg. at 4305.
+Construction of the project was to be completed 550 consecutive calendar days after Notice to
+Proceed, i.e., on or before January 21, 1988. (Id.). MCI claims that it is entitled to
+compensation for 252 days of delay measured from the original completion date, January 21,
+1988, through the date its contract was improperly default terminated, September 30, 1988.
+MCI takes the position that because the Board in its entitlement decision found that the 252-day
+delay period was caused by District acts or omissions, and did not make any findings that Mel
+had caused concurrent delay, it has made out a prima facie case that the 252-day delay period
+was not only excusable but also fully compensable. Mel witnesses testified at the quantum
+hearing that Mel did not concurrently delay critical path activities.
+
+        The District claims that MCI was responsible for concurrent delays through July 29,
+1988, and therefore is only entitled to compensation for the 62 days of delay from July 30, 1988
+through September 30, 1988. The District contends that the Board in its entitlement decision
+did not find that the 252-day delay period was compensable but rather was merely excusable.
+The District has stated that it is not challenging the findings of fact made by the Board in its
+entitlement decision. Rather, it says that the issue of whether there were any concurrent delays
+caused by Mel was not before the Board in the entitlement phase and was not resolved in the
+entitlement decision. An expert witness for the District testified at the quantum hearing that
+Mel was responsible for approximately 190 days of concurrent critical path delay to project
+completion.
+
+        We begin our analysis by reviewing our underlying entitlement decision on the issue of
+delay. In that decision, the Board found that the District had significantly delayed the
+completion of the project, based primarily on three grounds: (1) the District's failure to drain
+the six forebay containment areas in order to allow Mel to perform its piping work in the
+forebays; (2) the District's failure to timely approve submittals for the instrumentation equipment
+and the failure to timely resolve deficiencies in the District's design of the instrumentation panel;
+and (3) the District's failure to respond timely to MCl's proposal for rehabilitation of the
+chlorine injection water pumps and the District's failure to resolve its defective design for
+rehabilitating the pumps. The District correctly argues that the Board in its entitlement decision
+did not make any express finding that the 252-day delay period was compensable delay. The
+Board did find that the delay was excusable on Mel's part. It is in this quantum phase of the
+case that the parties have focused on the issue of whether Mel caused concurrent critical path
+delays. Nevertheless, the Board in the entitlement decision did find that the District was
+responsible for: (1) a 149-day critical path delay from October 1987 to March 1988 because of
+the forebay problems; (2) an approximate six and one half month critical delay between October
+1987 and May 2, 1988 based on the District's failure to timely approve Mel's proposal for
+rehabilitating the pumps; and (3) a critical delay to completion -- measured up to September 30,
+1988, the termination date, caused by the District's failure to resolve its defective design for the
+
+
+
+
+                                              .. 1r-.....,
+                                             {>'   J'
+                                                Vol 44 No. 44 10-31-1997
+
+     OISTRICT OF COLUMBIA REGIS~R -                                                                OCT :5 1 1997
+                                                       - 15 -              MCI Constructors, Inc., CAB No. D-924
+
+
+    chlorine injection water pumps.s
+
+             Given the District's stipulation on the record that it is not challenging the findings made
+    by the Board in the entitlement decision, we will not reexamine our prior findings with regard
+    to the District-caused critical path delays. If we find that MCI cannot be charged with any
+    concurrent critical path delay, then the record requires us to hold that MCI is entitled to recover
+    its delay costs for a period of 252 days. To determine the issue of concurrency we must
+    examine whether MCI is responsible for delays in the prosecution of its work and whether any
+    such delays caused a concurrent critical path delay to project completion. 6 The District bears
+    the burden of proving concurrency because it is in the nature of an affirmative defense to
+    liability for delay damages. See Willi(J.lT',s Enterprises v. Strait Mfg. & Welding, Inc., 728 F.
+    Supp. 12, 16 (D.D.C. 1990), aff'd sub nom. Williams Enterprises v. Sherman R. Smoot Co.,
+    938 F.2d 230 (D.C. Cir. 1991). As in the case of demonstrating compensable delay, the party
+    asserting a concurrent delay must show that the delay affects the critical path of performance.
+    See Blackhawk Heating & Plumbing Co., GSBCA No. 2432, 76-1 BCA , 11,649 at 55,579;
+    Fischbach & Moore Int'l Corp., ASBCA No. 18146, 77-1 BCA 1 12,300 at 59,224.
+
+        The District argues that it established concurrent critical path delays caused by MCI in
+(1) delivering the built-up roofing system, (2) fabricating and delivering the monitor and control
+console, and (3) fabricating, delivering, and installing the chlorinators, sulfonators, evaporators,
+and associated valves, piping, and fittings. According to the District, MCI-caused delays and
+District-caused delays were concurrent through July 29, 1988, and that the only period of non-
+concurrent District-caused delay was the period July 30, 1988 through the termination date of
+September 30, 1988, a total of 62 calendar days.
+
+         The District contends that MCI delayed the roofing installation of Chlorine Building No.
+2 by failing to enter timely into a subcontract with the roofing subcontractor, by submitting late
+and incomplete roofing submittals, and by failing to timely install both the lightweight concrete
+roof topping over the precast concrete roof deck and the built-up roofing system. Placement of
+the lightweight concrete roof topping had to precede installation of the built-up roofing. MCI
+completed placing the concrete topping on August 26, 1987. MCl's subcontractor began
+installing the built-up roofing system on October 13, 1987, and finished on October 20, 1987.
+The District's scheduling expert concluded that MCI had delayed roofing installation by 146
+calendar days (May - September 1987). MCI does not dispute that the roofing work was
+completed later than originally scheduled. It argues that installing the roofing system simply did
+
+
+
+5   The other District-caused delays identified by the Board in its entitlement decision, particularly the delays
+associated with untimely approval of the instrumentation equipment and resolution of the design deficiencies, were
+in the nature of concurrent District delays subsumed by the critical delays caused by the District's problems with
+the forebays and chlorine injector water pumps.
+
+6  The parties have taken the same approach in presenting their quantum cases to the Board. (District Ex. 5, at 2-3
+to 2-4; 6/28/93 Tr. 176-77).
+
+
+
+
+                                                , 6458
+                                                 Vol 44 No. 44 10-31-1997
+
+
+ DIS'mICT OF COLUMBIA REGISTER                                                                   OCT :5 1 1997
+                                                      - 16 -            MCI Constructors, 11Ic., CAB No. D-924
+
+
+not delay the project in any manner. Once the lightweight concrete topping was placed, the
+building was in the dry and Mel could have proceeded with the instrumentation work in the
+building notwithstanding that the built-up roofing had not yet been installed. (6/23/93 Tr. 134).
+Mel was not able to proceed with the instrumentation work in the building because the District
+did not approve the chlorination and sulfonation equipment until December 1987. The late
+completion of the built-up roofing did not delay any follow-on activities and had no effect on
+the project's critical path. (6/24/93 Tr. 23-24). Because the District did not approve the
+instrumentation package until December 1987, there was no reason for Mel to complete the
+built-up roofing any earlier than October 1987. Based on the evidence, we agree with Mel that
+the roofing-related activities were not a source of Mel-caused concurrent critical path delay.
+
+         The District contends that Mel concurrently delayed project completion by delaying the
+ installation of required instrumentation, including the chlorine control panel, the dechlorination
+control panel, the monitor control panel, and the chlorinators, sulfonators, and related items. 7
+The District concludes that Mel is responsible for critical delays to the monitor and control
+panels because Mel submitted late and incomplete submittals and failed to originally schedule
+time for the fabrication and delivery. The monitor and control panels were delivered to the
+project site by June 9, 1988, and were installed by June 10, 1988. Adjusting for 75 days of its
+own submittal review delay, the District states that Mel caused a net delay of 318 calendar days
+(May 5, 1987 to March 26, 1988) which is concurrent with the District-caused delays to the
+chlorine injector water pumps, the forebays, and the instrumentation. (6/28/93 Tr. 282-84). The
+District also charges Mel with concurrent delay caused by Mel's late installation of the
+chlorinators, sulfonators, and related equipment, valves, fittings, and accessories. According
+to the District, the root causes for the delays were late and incomplete submittals by Mel's
+subcontractor, Fischer & Porter; Mel's failure to originally schedule time for fabrication and
+delivery of the chlorinators and sulfonators; evidence of performance delays and deficiencies by
+Fischer & Porter; and coordination problems between Mel and Fischer & Porter. The District's
+scheduling expert testified that Mel delayed the installation of the chlorinators, sulfonators, and
+related items by 471 calendar days (April 15, 1987 through July 29, 1988). (District Ex. 5, AU.
+4-10; 6/29/93 Tr. 38-39). According to this expert, these delays translated into a 290-day
+overall delay to Mel's work between October 13, 1987 and July 29, 1988. (6/29/93 Tr. 40).
+The expert identified two components of the 290-day delay, a period of 253 days covering the
+time between October 13, 1987 (the expert's adjusted late finish date when the work should have
+been completed) and June 23, 1988 (the date the piping was actually installed) and a period of
+37 days between June 23, 1988 and July 29, 1988 where Mel performed the pipe dope rework.
+(ld.).
+
+
+
+
+7 The chlorinators are devices that measure the flow of chlorine gas to an injector where the gas is mixed with
+water. The chlorinators measure the appropriate amount of chlorine gas to mix with the wastewater in order to
+disinfect the water prior to discharge into the Potomac River. The sulfonators perform a function analogous to the
+chlorinators except that they feed a measured amount of sulfur dioxide gas to the injectors. (6/28/93 Tr. 13-14,
+22).
+                                           Vol 44 No. 44 10-31-1997
+
+ DIS1TtICT OF COLUMBIA REGISTER                                                               OCi 3 I   ' i'.>!
+
+
+                                                 - 17 -               MCI Constructors, Inc., CAB No. D-924
+
+
+         We find that MCI should not be charged with concurrent delay arising from the
+ fabrication, delivery, and installation of the instrumentation. First, the District bore a significant
+ responsibility for the delays up to December 1987 in instrumentation by failing to respond to
+ submittals in a timely manner, improperly rejecting Fischer & Porter's equipment, and failing
+ to respond to District design deficiencies and MCI requests for information. 39 D.C. Reg.
+4312-13. To the extent that some contractor submittals were submitted after the due dates
+shown in the as-planned schedule, through no fault of the District, we are not persuaded that this
+caused any critical path delay. Beginning two months before the December 17, 1987 meeting
+(in which the District finally approved of the Fischer & Porter instrumentation and resolved
+various outstanding instrumentation design issues), and extending well into 1988, the District
+was causing critical delays to project completion as a result of its failure to drain the forebays
+and its failure to respond to MCl's chlorine injector water pump rehabilitation proposal. And
+even after the chlorine injector water pumps were installed at the site on May 2, 1988, testing
+showed that the pumps failed to create sufficient system pressure because of the District's
+defective rehabilitation design. The pumps' performance failure was the primary reason why
+the plant was not operational at the time of termination in September 1988. 39 D.C. Reg. at
+4314.
+
+        We agree with MCI that the delays attributed to MCI by the District were not critical
+path delays and generally come within the category of "why hurry up and wait." See J.
+Wickwire, et ai., Critical Path Method Techniques in Contract Claims: Issues and
+Developments, 1974 to 1988, 18 PUB. CONTRACT L.J. 338, 381 (1989). "[W]here the
+government causes delays to the critical path, it is permissible for the contractor to relax its
+performance of its work to the extent that it does not impact project completion. Id.; see Utley-
+                                                                                         II
+
+
+James, Inc., GSBCA No. 5370, 85-1 BCA , 17,816 at 89,109, aff'd, Utley-James, Inc. v.
+United States, 14 Cl. Ct. 804 (1988). Although it is clear that MCI completed roofing later than
+the date called for in the as-planned schedule, and it is true that MCI was having difficulty
+prodding Fischer & Porter in early 1988 to complete its delivery of instrumentation, we conclude
+that those delays simply did not affect project completion in view of the overriding District-
+caused critical path delays.
+
+       The 101-day notice to proceed delay claim
+
+         MCI claims that it is entitled to recover extended home office overhead costs for an
+additional 101-day delay because the District unreasonably delayed issuing notice to proceed on
+the project. MCI added this claim shortly before the quantum hearing commenced and well after
+it submitted its termination proposal to the contracting officer. Bids were opened on September
+9, 1985, and MCI was the lowest bidder. 39 D.C. Reg. at 4305. MCI received notice of award
+of the project on March 10, 1986. The performance and payment bonds bear an execution date
+of June 3, 1986. The construction contract between the District and Mel bears the same
+execution date, June 3, 1986. Notice to Proceed was issued to MCI on July 15, 1986, directing
+Mel to commence construction on July 21, 1986. MCl's president, Mr. Clement Mitchell,
+testified that in his experience on other contracts, a notice to proceed would issue 5 to 10 days,
+
+
+
+
+                                             f;1\60
+                                          Vol 44 No. 44 10-31-1997
+
+
+  DISTRICT OF COLUMBIA REGISTER
+                                                                                       OCT 3 1 1991
+
+                                              - 18 -            MCI Constructors, inc., CAB No. D-924
+
+
+but no more than 30 days, after notice of award. MCI calculated the WI-day delay period by
+deducting 30 days from the 131 days between notice of award and notice to proceed. (6/21/93
+Tr. 57-59). The District responds that MCI has failed to demonstrate that its home office
+overhead was underabsorbed during the WI-day period and that the District was responsible for
+MCI not receiving the notice to proceed earlier than July 21, 1986.
+
+        We agree with the District that MCI has failed to establish its right to recover extended
+home office overhead costs for any portion of the 101 days between receipt of notice of award
+and notice to proceed. Mr. Mitchell's testimony, coupled with the timing of the notice of
+award, the execution of the bonds and contract, and the notice to proceed, do not persuade us
+that the District breached its implied duty to issue its notice to proceed in a reasonable period
+of time.
+
+       Recoverable overhead
+
+        In sum, 252 days of delay caused by the District are compensable to the extent that MCI
+can meet the other requirements for establishing its right to recover using the EichZeay formula.
+Here, the record demonstrates, and the District does not seriously dispute, that the other
+requirements are met. The District-caused delays arising from the forebay, instrumentation, and
+chlorine injector water pump problems interrupted MCl's prosecution of the work and reduced
+the stream of income on the project. The delays were sudden and of unpredictable duration.
+In addition, the District's constructive and directed acceleration orders also made it even less
+prudent or practical for MCI to reduce home office overhead costs or to take on new work
+during the course of the substantial delays.
+
+       MCI and the District agree that contract billings during performance of the project were
+$3,029,506, MCl's total company-wide billings during the performance period were
+$39,922,455, and MCl's total corporate overhead during the performance period was
+$3,647,386. Using the first equation of the Eichleay formula, corporate overhead allocable to
+the contract equals $276,781. Dividing the allocable overhead by the total contract period of
+802 days yields allocable overhead at a daily rate of $345.11. Multiplying the daily rate by the
+252 days of compensable delay results in recoverable unabsorbed home office overhead of
+$86,968.
+
+        From this amount we must deduct home office overhead amounts MCI has recovered
+under other equitable adjustments to the contract. The parties have not identified what portion
+of the $94,833 adjustment resulting from Change Order No.1 and the $171,956 stipulated
+adjustment for the "pending" change orders represents a mark-up for home office overhead.
+Based on the record presented here, we make a jury verdict finding that a deduction of two
+percent of the total adjustments, amounting to $5,336, is proper. Accordingly, MCI is entitled
+to $81,632 for unabsorbed home office overhead, to which we add ten percent profit for a final
+total of $89,795.
+                                       Vol 44 No. 44 10-31-1997
+
+
+OIS'mICT OF COLUMBIA REGISTER                                                           OCT 3 1 1997
+
+                                                - 19 -            MCI Constructors, Inc., CAB No. D-924
+
+
+                2. Extended Labor Supervision and Administration
+
+         Additional labor supervision and administration costs, incurred by a contractor by virtue
+ of having to perform contract work for an additional duration beyond what it would have had
+ to perform but for delay and disruption for which the government bears cost responsibility, are
+ recoverable like other delay or disruption damages in order to make the contractor whole.
+ Williams Enterprises v. Strait Mfg. & Welding, 728 F. Supp. at 19-20. Like home office
+ overhead, some field office costs are fixed and time-related, and the contractor continues to
+ incur such costs during periods of reduced contract activity caused by delay or suspension.
+ George Hyman Constr. Co., ENG BCA No. 4541, 85-1 BCA 1 17,847 at 89,353. Construction
+ contractors may carry field office costs, such as project supervision and administration, as direct
+ costs to the job where the costs are specifically identifiable with that one project. See Wickham
+ Contracting, 12 F.3d at 1581; B.D. Collins Constr. Co., ASBCA No. 42662, 92-1 BCA 1
+24,659. In a compensable delay situation where project supervision and administration are
+carried as direct costs, an equitable adjustment for extended field supervision and administration
+is calculated as a direct cost item. Field overhead which is charged, for example, to a G&A
+expense pool as indirect costs should not be commingled in the direct cost calculation. See,
+e.g., Santa Fe Engineers, Inc., ASBCA No. 31762,91-1 BCA '23,571 at 118,195. Where it
+is impracticable to derive actual cost data during the delay period, one recognized measure of
+the direct costs for extended labor supervision and administration is to compute a daily rate by
+dividing total labor supervision and administration costs on the project by the total days of
+contract performance and then multiplying the result by the number of days of compensable
+delay. Santa Fe Engineers, Inc., 91-1 BCA 123,571 at 118,195-96; George Hyman Constr.
+Co., 85-1 BCA 1 17,847 at 89,353. To the extent that the contractor already has recovered
+some field supervision costs during the delay period as part of another equitable adjustment
+under the contract, those amounts must be deducted from the amount of recoverable extended
+field supervision costs. George Hyman Constr. Co., 85~1 BCA 1 17,847 at 89,353.
+
+        MCI claims that it is entitled to extended labor supervision and administration costs for
+the 252-day delay period. MCI states that it incurred a total of $306,535 in labor supervision
+and administration costs on the project. With a total contract period, as extended, of 802 days,
+Mel calculated a daily labor supervision and administration rate of $382.22. Multiplying the
+daily rate times the 252 days constituting the delay period yields $96,319, to which MCI adds
+12 percent profit in arriving at a total claim of $107,877. The District argues that MCI
+significantly underbid its labor supervision and administration costs and that overruns in these
+cost categories were not due to District actions. Using MCl's planned labor supervision and
+administration cost expressed as a daily rate of $296.20 (budget of $162,911 divided by the
+planned 550 days of performance) and mUltiplying by 62 compensable delay days, the District
+calculates MCI extended supervision costs to be $18,364.
+
+       The record shows that MCI bid the project assuming that the salary for the project
+manager and project superintendent would be direct costs charged to the project under labor
+codes 330 and 332. The bid amount for those two tasks totaled $162,911. (District Ex. 130).
+                                            Vol 44 No. 44 10-31-1997
+
+ OIS'mICT OF COLUMBIA REGISTER                                                       OCT 3 1 1997
+
+                                                - 20 -            MCI Constructors, Inc., CAB No. D-924
+
+
+Mel did not bid any other costs for labor supervision and administration, such as for the
+categories of project engineer (labor code 331), main office engineering (labor code 335), main
+office expediting (labor code 336), and clerical (labor code 338), because Mel planned to have
+the project manager and project superintendent handle such tasks. (ld.; 6/21/93 Tr. 126-27).
+Mel's job cost records indicate that Mel began incurring payroll expenses under labor code 330
+in June 1986 and under labor code 332 in May 1986. (Mel Vol. 2, Exhibit 3, Ex. B, Ex. 1-1).
+Mel's job cost records also indicate, however, that Mel began incurring payroll expenses under
+labor code 331 (by a person other than Mr. Fawley) beginning in January 1987, payroll and
+project administrative expenses under labor code 335 beginning in July 1986 and May 1986
+respectively, and payroll expenses under labor code 338 beginning in May 1986. (Mel Vol.
+2, Exhibit 3, Ex. B, Ex. 1-1). Thejob cost records further show that Mel incurred other labor
+supervision and administration costs beginning early on the project: payroll and project
+administrative expenses under labor code 333 (mechanical superintendent) beginning in June
+1986 and May 1986 respectively, and payroll and project administrative expenses under labor
+code 334 (field office drafting) beginning in December 1986 and May 1986 respectively. (ld.;
+6/21/93 Tr. 126-27).
+
+        A review of the job cost records shows that costs under some of the supervision and
+administration labor codes increased during the major periods of delay and disruption while
+others decreased. There is no evidence that the actual supervision and administration costs were
+unreasonable or did not benefit this project. Although there was some testimony that Mel's
+field management and staff were responsible for both this project and another project (the sludge
+degritting and grinding project) being performed contemporaneously at the same Blue Plains site
+(6/21/93 Tr. 129-32; 6/23/93 Tr. 158-61), the District never effectively rebutted Mel's evidence
+that the costs charged to the supervision and administration labor codes were costs incurred only
+on the present contract. On the whole, we believe that the fairest measure of the extended labor
+supervision and administration costs is obtained by computing a daily rate, i. e., dividing the total
+actual labor supervision and administration costs by the 802 total days of performance. Even
+though Mel commenced charging directly to the job some supervision and administration costs
+it had not bid, we see no reason to deny Mel a pro rata share of such costs actually incurred
+during a compensable delay period. To the extent that Mel underbid some of these tasks for
+performing the original contract scope of work, our approach does not give Mel any undue
+recovery because this computation applies only to the delay period and covers labor supervision
+and administration that Mel would not have incurred but for the District's constructive changes.
+Based on our review of the job cost records and the other record evidence, we find that the total
+project labor supervision and administration costs amount to $303,624.80. (Mer Vol. 2, Exhibit
+3, Ex. B, Ex. 1-1). This total does not include the amounts Mel claimed for project
+coordination performed by Mr. Fawley. Dividing this amount by the total performance period
+of 802 days, we arrive at a daily rate of $378.58. Multiplying the daily rate by the 252-day
+delay period yields $95,402.
+
+      From the $95,402 total we must subtract any duplicative supervision and administration
+amounts Mel has recovered under other equitable adjustments to the contract. The parties have
+
+
+
+
+                                             6463
+                                         Vol 44 No. 44 10-31-1997
+
+ OIS'mICT OF COLUMBIA REG~TER                                                             OCT 3 1 1997
+
+                                               - 21 -               MCI Constructors, Inc., CAB No. D-924
+
+
+not identified what portion of the $94,833 adjustment resulting from Change Order No.1 and
+the $171,956 stipulated adjustment for the "pending change orders" represents a mark-up for
+field supervision and administration. In addition, it is difficult from the record to determine
+which of the many changes consolidated in those change orders relate to the compensable delay
+period. Based on our review of the job cost records, MCI proposals, and negotiations data, we
+make a jury verdict finding that three percent of the change order adjustments, i.e., $8,004,
+should be deducted as duplicative mark-up from the pertinent change orders. We must also
+deduct the $18,000 for labor supervision which is a component of the adjustment due MCI for
+labor inefficiencies and acceleration. Thus, a total of $26,004 should be deducted from MCl's
+extended labor supervision and administration total. Accordingly, MCI is entitled to extended
+labor and supervision costs amounting to $69,398, to which we add ten percent profit for a final
+adjustment of $76,338.
+
+               3. Extended Equipment and General Conditions Costs
+
+        Additional equipment and general conditions costs, incurred by a contractor by virtue of
+having to perform contract work for an additional duration beyond what it would have had to
+perform but for delay and disruption for which the government bears cost responsibility, are
+recoverable. Williams Enterprises v. Strait Mfg. & Welding, 728 F. Supp. at 19-20; George
+Hyman Constr. Co., ENG BCA No. 4541,85-1 BCA 1 17,847 at 89,353; Shirley Contracting
+Corp., ASBCA No. 29848, 85-1 BCA 1 17,858 at 89,406; Santa Fe Engineers, Inc., 91-1 BCA
+123,571 at 118,195-96. Where it is impracticable to derive actual cost data during the delay
+period, one recognized measure of the direct costs for extended equipment or general conditions
+costs is to compute a daily rate by dividing total equipment and general conditions costs on the
+project by the total days of contract performance and then mUltiplying the result by the number
+of days of compensable delay. Santa Fe Engineers, Inc., 91-1 BCA '23,571 at 118,195-96;
+George Hyman Constr. Co., 85-1 BCA 1 17,847 at 89,353. To the extent that the contractor
+already has recovered some equipment or general conditions costs during the delay period as part
+of another equitable adjustment under the contract, those amounts must be deducted. George
+Hyman Constr. Co., 85-1 BCA 1 17,847 at 89,353.
+
+         MCI claims that it is entitled to extended equipment and general conditions costs for the
+252-day delay period. MCI states that it incurred $67,865 in equipment costs and $158,485 in
+general conditions costs on the project, for a total of $226,350. MCI calculates a daily
+equipment and general conditions rate of $282.24. Multiplying the daily rate times the 252 days
+constituting the delay period yields $71,124, to which MCI adds 12 percent profit in arriving
+at a total claim of $79,659. The District argues that MCI did not use the appropriate contract
+measure for determining its costs for rented and owned equipment, that MCI underbid its
+equipment and general conditions costs, and that MCl's total equipment and general conditions
+costs were $216,464 rather than $226,350. Using MCl's planned costs expressed as a daily rate
+of $296.20 (budget of $162,911 divided by the 802 days of performance) and multiplying by 62
+compensable delay days, the District would allow MCI extended equipment and general
+conditions costs of $13,210.
+
+
+
+
+                                            616·1
+                                          Vol 44 No. 44 10-31-1997
+
+ DISTRICT OF COLUMBIA REGISTER                                                         OCT 3 1 1997
+
+                                              - 22 -             MCI Constructors, Inc., CAB No. D-924
+
+
+        Based on our review of the record, we believe that in this case the proper measure of
+extended equipment and general conditions costs is obtained by computing a daily rate by
+dividing the total actual equipment and general conditions costs by the actual performance
+period. To the extent that MCr underbid some of the general conditions costs, such as CPM
+scheduling, we see no reason to deny MCr a pro rata share of such costs actually incurred
+during the compensable delay period. The District has not persuaded us that MCl's actual
+incurred costs were unreasonable. Moreover, the District has not established in fact that the
+equipment costs calculated by MCr by using a percentage of the blue book value differs
+materially from equipment costs calculated using the hourly rates set forth in the Associated
+Equipment Distributor's Manual. Based on our review of the job cost records and the
+testimony, we find that the total equipment and general supervision costs amount to $226,350,
+as stated by MCr. (MCr Vol. 2, Exhibit 3, Ex. B, Ex. 1-1). The daily rate is $282.24, and
+for the 252-day delay period, MCl's equipment and general conditions costs are $71,124.
+
+        From this amount we must subtract any duplicative equipment and general conditions
+amounts Mcr has recovered under other equitable adjustments to the contract. As with the case
+of the labor supervision and administration, the parties have not identified what portion of the
+$94,833 adjustment resulting from Change Order No.1 and the $171,956 stipulated adjustment
+for the "pending change orders" represents equipment and general conditions costs. We find that
+a deduction of two percent, amounting to $5,336, is proper on the record presented here.
+Accordingly, MCI is entitled to $65,788 for extended equipment and general conditions, to
+which we add ten percent profit for a final adjustment of $72,367 for extended equipment and
+general conditions.
+
+       E. Payments received/Value of uncompleted work
+
+        The parties have stipulated that MCI was paid a total of $2,802,716.48 prior to
+termination. (Second Joint Stipulation, 12). The Board has previously found that the contract
+was 96.96 percent complete at the time of termination. 39 D.C. Reg. at 4306. Based on that
+finding, MCr computed the value of uncompleted work to be $92,511. We find that amount to
+be supportable and generally consistent with MCl's project cost-to-complete estimates at the time
+of termination.
+
+       F. Adjusted contract price and contract cap summary
+
+       MCl's adjusted contract price is calculated as follows:
+
+       Original Contract Amount                                          $2,882,850
+
+       Plus:
+       Change Order No. 1                                                     94,833
+       StipUlated Change Orders                                              171,956
+                                        Vol 44 No. 44 10-31-1997
+
+DISTRICT OF COLUMBIA REGISTER                                                            OCT 3 1 1997
+
+                                              - 23 -               MCI Constructors, Inc., CAB No. D-924
+
+
+        Delay Damages
+               Home Office Overhead                                             89,795
+               Extended Labor Supervision & Administration                      76,338
+               Extended Equipment & General Conditions                          72,367
+        Labor Inefficiency and Disruption                                      217.800
+
+        Adjusted Contract Price                                             $3,605,939
+
+        MCl's contract cap, pursuant to paragraph F of Article 6, is calculated as follows:
+
+        Adjusted Contract Price                                             $3,605,939
+
+        Less:
+        Payments received                                                    2,802,716
+        Value of uncompleted work                                               92.511
+
+        Adjusted Contract Price Cap                                         $ 710,712
+
+       Because MCl's contract cap is lower than total unpaid performance costs, MCl's
+recovery under this element is limited to the amount of the adjusted contract price cap,
+$710,712.
+
+II.    Jones & Artis (subcontractor) claim
+
+         MCI seeks on behalf of its subcontractor, Jones & Artis Construction Company, delay
+ and impact costs in the amount of $291,450.09. MCI subcontracted with Jones & Artis to
+ perform site work, including asphalt paving, concrete paving, excavation and back fill work,
+ railroad work, and miscellaneous landscape items. (6/24/93 Tr. 192). Jones & Artis'
+ subcontract amount was $588,125.00 which MCI has paid. (6/24/93 Tr. 192, 194). Jones &
+ Artis' delay and impact costs consist of $48,692.84 for unabsorbed home office overhead,
+$51,725 for labor and equipment inefficiencies, and $191,032.25 for extended supervision and
+equipment costs. Jones & Artis has supported its claim with the following documentation of
+record: Jones & Artis' initial claim, dated April 3, 1992, in the amount of $337,406.08,
+transmitted to the District by MCl's April 10, 1992 letter (MCI Vol. 2, Exhibit 5, Ex. 10);
+Jones & Artis' second claim, dated May 13, 1992, in the amount of $647,756.81 (MCI Vol. 2,
+Exhibit 5, Ex. 11); and Jones & Artis' current claim as presented during the quantum hearing,
+in the amount of $291 ,450.09 (MCI Vol. 2, Exhibit 5, Ex. 19). Mr. Carl Jones, Jones & Artis'
+president and 50 percent owner, was the sole witness testifying in support of the claim.
+
+       Mr. Jones testified that Jones & Artis had an anticipated method and duration of
+performance for its work under the subcontract and that Jones & Artis was not able to perform
+its work as anticipated due to the constant delays, interruptions, and changes to its work caused
+by the District. Mr. Jones testified that Jones & Artis' anticipated method of performance was
+                                         Vol 44 No. 44 10-31-1997
+
+DISTRICT OF COLUMBIA REGISTER                                                        OCT 3 1 1997
+
+                                              - 24 -            MCI Constructors, IIIC., CAB No. D-924
+
+
+disrupted by the DiStrict due to delays in shop drawing reviews for piling, changes in the grades
+for the paving work, restricted access to its work areas, draining the forebays, the
+instrumentation problems, and chlorine injector water pump problems. (6/24/93 Tr. 198-99,
+240, 244-47). According to Mr. Jones, because Mel's schedule and Jones & Artis' plan were
+disrupted by the District, Jones & Artis was required to work in and around Mel's work and
+work in a piecemeal fashion. Jones & Artis had to stay on the job as long as Mel had to stay
+on the job, which was 252 days past the expected Mel contract completion date. (6/24/93 Tr.
+239, 242-44).
+
+        There are a number of problems with Jones & Artis' delay and impact claim which
+dictate our denying the claim in its entirety.
+
+        First, Jones & Artis never presented into evidence any schedule or plan for its
+subcontract performance. In fact, Mr. Jones testified that he did not submit a schedule to Mel
+for the subcontract work. (6/24/93 Tr. 228). Mr. Jones testified only that Jones & Artis
+intended to perform its work in 180 days, that it would perform its work in "two different
+phases" (id. at 238-42), and that the subcontract work required Jones & Artis to be at the jobsite
+at the beginning of the project to perform the piling work (id. at 252) and to be at the jobsite
+at the end of the project to complete paving work (id. at 253). Mr. Jones did not attempt to tie
+and validate any Jones & Artis performance schedule or plan to any Mel schedule. In sum,
+Jones & Artis never established and validated a performance schedule or plan for the subcontract
+work, including any mobilizations, demobilizations, and usage of field office personnel and
+equipment.
+
+         Beyond failing to establish a performance baseline from which to measure critical path
+delay in its performance, Jones & Artis never established the fact of compensable delaying
+actions for which the District bears cost responsibility. Mr. Jones' conclusory testimony -- that
+Jones & Artis experienced a 77-day delay due to submittal delays on the piling work and some
+unspecified delay attributable to the District's changing grades for the paving work and
+restricting site access -- is unsupported by either specific documentary or testimonial evidence
+(6/24/93 Tr. 198-200, 228-31). This deficiency is compounded by the absence in the record of
+any contemporaneous notice of a delay or claim for delay. Mr. Jones testified that the delays
+occurred throughout the project, from 1986 through termination of its subcontract on September
+30, 1988 (e.g., id. at 233). The first claim, or notice of delay, in the record is the one dated
+April 3, 1992, some three and a half years after Mel's contract was terminated. Even accepting
+that Jones & Artis experienced delay in performing its work, the record simply does not
+substantiate that it suffered any compensable, critical path delay.
+
+       As an alternative, Jones & Artis attempts to bootstrap itself onto the 252-day delay period
+which the Board has determined was a compensable, critical path delay for Mel. The attempt
+must fail. First, that a subcontractor has a work activity that chronologically follows a
+compensable, critical path delay period of the general contractor, does not of necessity mean that
+                                    Vol 44 No. 44 10-31-1997
+  DISTRICT OF COLUMBIA REGISTER
+                                                                                   OCT :5 1 1997
+
+                                               - 25 -          MCI Constructors, Inc., CAB No. D-924
+
+
+the subcontractor experiences the same -- or any -- compensable delay. In the absence of a
+specific and validated performance plan, and persuasive documentary and/or testimonial evidence
+establishing how the critical delays to MCI translated into a compensable injury to Jones &
+Artis, Jones & Artis cannot recover. Jones & Artis did not establish what portion of its grading
+and paving activities were delayed. It also did not show a planned or would:have-cost estimate
+of labor, supervision, and equipment for such grading and paving. The record, as developed
+by Jones & Artis, does not reliably show Jones & Artis' actual commitment of resources to this
+project during MCl's 252-day critical path delay. Finally, Mr. Jones' explanation that he could
+not obtain other work during project delays to absorb home office overhead because of cash flow
+problems (Jones & Artis had "completed a lot of work and had not been paid for it") does not
+by itself demonstrate District responsibility. (6/24/93 Tr. 204-05).
+
+         Jones & Artis states that it incurred $51,725 in inefficiency costs because the District
+ forced it to work in a piecemeal fashion and restricted its right to proceed with the subcontract
+ work, "thereby causing delays and idle personnel and equipment." (MCI Vol. 2, Exhibit 5, Ex.
+ 19). The documentation of inefficiency consists of a single page, listing: (1) various labor
+categories, manhours, and pay rates, and (2) various types of equipment, hours, and equipment
+rates. (Id.). Mr. Jones testified that on "many days" Jones & Artis field personnel and
+equipment would "show up" at the site "to work only to be sent back." (6/24/93 Tr. 206). He
+stated: "We had to send the men back because the District had people, other contractors,
+occupying the work area and . . . we did not have access to the site area."             (ld.). This
+evidence is insufficient to establish causation. Mr. Jones' testimony does not constitute the type
+of reasonably specific evidence necessary to demonstrate causation linking disruptions to the
+activities rendered inefficient. With regard to jobsite access, Mr. Jones' testimony does not
+establish that the District alone bears cost responsibility for whatever instructions Jones & Artis
+was receiving at the jobsite. Finally, the record does not support inefficiency quantum. The
+documentation is not self-explanatory and Mr. Jones did not explain how he derived any of the
+figures. Jones & Artis has furnished no would-have-cost baseline for the activities rendered
+inefficient and no data on actual costs for those activities. Therefore, even if we were to
+conclude that Jones & Artis had proved entitlement, there is a fatal deficiency in quantum
+evidence.
+
+III.   Settlement expenses
+
+        The termination for convenience clause provides that the contractor is entitled to recover
+the reasonable expenses "incidental to the determination of the amount due to the Contractor as
+the result of the termination of the work under the Contract." Article 6, 1 E.2. The District's
+cost principles governing convenience termination settlement costs provides in pertinent part:
+
+       The costs of settlement of the termination (such as accounting, legal, clerical, and
+       similar costs reasonably necessary for the preparation and presentation of
+       settlement claims to the contracting officer) shall be allowable. Indirect costs
+       related to salary and wages incurred as a result of the preparation and
+
+
+
+
+                                            6468
+                                           Vol 44 No. 44 10-31-1997
+
+  DISTRICT OF COLUMBIA REGISTER                                                            OCT   3 1 1991
+                                                  - 26 -              MCI Constructors, IIIC., CAB No. D-924
+
+
+         presentation of settlement claims shall be allowable.
+
+ 27 DCMR § 3318.8. Reasonable expenses incurred in negotiating a convenience termination
+ claim are allowable as are expenses incurred preparing, presenting, and negotiating adjustments
+ in the contract ceiling due to changes. Systems & Computer In/ormation, Inc., ASBCA No.
+ 18458, 78-1 BCA 1 12,946, at 63,138. Expenses incurred in prosecuting a claim or appeal
+ against the government are not allowable settlement expenses. J.E. Robenson Co. v. United
+ States, 437 F.2d 1360, 1364 (Ct. Cl. 1971). In determining the allowability of termination for
+ convenience settlement expenses, such as legal, accounting, and consulting fees, we examine the
+ nature and form of the services rather than simply the point in time when the expenses were
+ incurred. Kalvar Corp. v. United States, 543 F.2d 1298, 1305 (Ct. Cl. 1976); Acme Process
+ Equip. Co. v. United States, 347 F.2d 538, 545-46 (Ct. Cl. 1965).
+
+          MCI seeks settlement expenses under two categories, "related legal expenses" of
+  $180,016.00, and "claim preparation costs" of $131 ,887.00. The "related legal expenses" were
+  incurred by MCI in overturning the wrongful default termination and consist of the following
+  costs: $138,522 in legal fees paid to its outside counsel, $8,847 in fees paid to its scheduling
+  expert, $7,605 in accounting fees paid to Watkins, Meegan, Drury & Co., and an estimated
+  $3,000 in consulting fees to be paid to The Barrington Group. (MCI Exhibit 1-80). The claim
+  preparation costs consist of $26, 109 in legal fees paid to its outside counsel, $41,103 in fees paid
+  to Brower & Company (its scheduling expert), $11,385 in accounting fees paid to Watkins,
+I Meegan, Drury & Co., $10,280 in conSUlting fees paid to The Barrington Group, and $43,010
+  in internal MCI costs. (MCI Exhibit 1-80).
+
+         We address first MCl's request for professional fees labeled as "related legal expenses"
+ which MCI incurred in proceedings to overturn the default termination. Professional fees
+ incurred in prosecuting an appeal to convert a termination for default into a termination for the
+ convenience of the government are not allowable settlement expenses. E.L. David Constr. Co.,
+ ASBCA No. 29225, 89-3 BCA 1 22,140 at 111,437; Paul E. McCollum, Sr., ASBCA No.
+ 23269, 81-2 BCA 1 15,311 at 75,823-24. MCl's reliance on Baijield Indus., ASBCA No.
+ 20006, 76-2 BCA 1 12,096 at 58,103-04, is misplaced because MCI has not shown that the
+ "related legal expenses" were in the nature and form of settlement negotiations with the
+ contracting officer. Indeed, MCI did not make the billing records or invoices a part of the
+ record. Accordingly, the "related legal expenses" are not allowable settlement costs.
+
+         With regard to MCl's request for claim preparation costs, there are five elements making
+ up the total amount claimed. MCI did not introduce into the record the actual invoices. Instead,
+ MCI introduced an exhibit (MCI Ex. 1-80) which summarizes total "claim preparation" and total
+ "legal proceedings" costs for each of the five elements of settlement expenses, i.e., legal fees
+ and expenses charged by MCl's outside counsel, Watt, Tieder & Hoffar; fees and expenses
+ charged by MCl's scheduling consultant, Brower & Company; fees and expenses charged by
+ MCl's outside accounting firm, Watkins, Meegan Drury & Co.; fees and expenses charged by
+ MCl's accounting conSUltant, Barrington Group; and estimated internal costs of MCI personnel
+                                       Vol 44 No. 44 10-31-1997
+ DIS'mICT OF COLUMBIA REGISTER                                                           OCl 3 1 .!oI?
+
+                                               - 27 -             MCI Constructors, IIIC., CAB No. D-924
+
+
+ who worked on claim preparation. (MCI Ex. 1-80, at 1). Dates and descriptions of the services
+ are not set forth in Ex. 1-80 or anywhere else in the record. Pages 2 and 3 of Ex. 1-80 only
+ identify, by month from November 1988 through May 1993, the monthly legal billings of Watt,
+Tieder, & Hoffar allocable as either "claim preparation" or "legal proceedings." Some
+ supporting testimony came from Mr. Gerald Holladay, MCl's controller, who testified that he
+made the determination as to whether billing amounts or costs under each of the five elements
+of settlement costs constituted "claim preparation" or "legal proceedings" costs with the
+assistance of outside counsel. From our review of his testimony, and MCI Ex. 1-80, we are not
+convinced that he had an adequate understanding of the types of legal costs which would be
+allowable costs of preparing, presenting, and negotiating MCl's settlement claim. (E.g., 6/23/93
+Tr. 7-8, 32-34). The one page settlement costs summarj attached to MCl's termination for
+convenience claim (MCI Vol. 2, Exhibit 3, Ex. B, Ex. 7) and the April 14, 1992 MCI letter
+(MCI Vol. 2, Exhibit 5, Ex. 9) do not aid us in making a determination. The fact that the
+District did not properly audit these claimed costs, or, specifically challenge cost items during
+the quantum hearing, does not excuse MCI from presenting adequate and reliable evidence of
+costs.
+
+         With regard to the legal fees of Watt, Tieder & Hoffar, we find that Mr. Holladay's
+  testimony and Ex. 1-80, absent the actual invoices, is insufficient to support the full claim
+ preparation amount of $26, 109. Based on our review of the portions of the record which show
+  the timing of claim preparation, presentation, and attempted negotiation activity by MCl's
+ counsel (MCI Vol. 2, Exhibit 5, Exs. 1, 2, 8, 9, 12-17), and MCI Ex. 1-80, we apply a 15
+ percent reduction to arrive at an allowable amount of $22, 193 for legal fees. With regard to the
+ fees for the scheduling consultant, Brower & Company, we find that Mr. Holladay's testimony
+ and Ex. 1-80, absent the actual invoices, is insufficient to support the full claim preparation
+ amount of $41,103. Based on our review of the record, including the testimony of scheduling
+ consultant (6/24/93 Tr. 69-74), we apply a 50 percent reduction to arrive at an allowable amount
+ of $20,552 for the scheduling consultant services. With regard to the fees of Watkins, Meegan,
+ Drury, & Co., we allow the full amount requested because the record, including Mr. Watkins'
+ testimony, persuades us that the $11,385 amount represents only claim preparation costs. We
+ find that $10,280 amount sought as claim preparation costs of the Barrington Group constitutes
+litigation costs and are not allowable. (6/24/93 Tr. 163, 183). With regard to MCl's internal
+costs, we find that Mr. Holladay's testimony (6/23/93 Tr. 15-19) and the documentation of
+record on the issue (MCI Ex. 1-80; MCI Vol. 2, Exhibit 3, Ex. B, Ex. 7; MCI Vol. 2, Exhibit
+5, Ex. 9) fail to establish a reliable estimate of MCI internal costs incurred in preparing,
+presenting, and negotiating MCl's termination claim. Although Mr. Holladay testified that five
+employees (including himself) performed claim preparation work, MCI has offered no evidence
+on either the number of hours expended by these employees on allowable activities, the figures
+and calculations by which it derived labor rates for these employees, or even the allowable costs
+incurred by each employee. The internal cost total also includes unallowable costs for employee
+time expended on activities other than claim preparation. (MCI Vol. 2, Exhibit 5, Ex. 9).
+Therefore, MCI has not demonstrated its right to MCI internal settlement costs.
+                                             Vol 44 No. 44 10-31-1997
+
+  DISTRICT OF COLUMBIA REGISTER                                                        ocr    3 t 1997
+                                                - 28 -            MCI Construcrors, Inc .• CAB No. D-924
+
+
+        In summary, MCI is entitled to recover a total of $54,130 in settlement costs pursuant
+ to paragraph E.2 of Article 6.
+
+ IV.    Interest
+
+       MCI seeks interest pursuant to D.C. Code § 1-1188.6 at four percent per annum from
+the date the Director of DAS received MCl's appeal of the contracting officer's default
+termination. The District argues that interest should commence on November 8, 1991, which
+is when MCI submitted its termination for convenience settlement claim.
+
+        The interest provision of the Procurement Practices Act recognizes the time value of
+money and in conjunction with equitable adjustment compensation -- here, more broadly,
+termination for convenience compensation -- contributes to making a contractor whole monetarily
+in those areas for which the government bears cost responsibility. In providing the contractor
+interest on amounts found due "from the date the Director receives the claim," the interest
+provision gives the contracting officer and the contractor an opportunity to settle the claim before
+interest begins to accrue. Thus, in the normal equitable adjustment situation or in the context
+of a termination for convenience initiated by the contracting officer, the government does not
+have to shoulder interest costs for a reasonable period during which the contractor and the
+contracting officer attempt to negotiate and settle the claim amount. Only when the contractor
+appeals (or submits its "claim") to the Director does interest begin to accrue on any amounts
+subsequently determined to be due the contractor.
+
+         In this case, the contracting officer initiated a termination for default action against MCI.
+ MCI appealed the default action to the Director, and ultimately appealed to the Board. The
+ requirement of section 1-1188.6 was satisfied when the Director received MCl's "appeal" of the
+contracting officer's default action because, by appealing the default, the contractor contested
+not only the default termination act but also the monetary consequences flowing from that act.
+See A.A. Beiro Constr. Co., CAB No. D-822, 40 D.C. Reg. 4574,4628-29 (1992). Similarly,
+by initiating the 1988 default action, the contracting officer not only initiated a series of default
+termination procedures but also denied any termination for convenience cost recovery. When
+we held in our 1991 entitlement decision that the default action was improper and converted the
+default into a convenience termination, we remanded for a quantum determination. It would be
+unfair to deny the contractor section 1-1188.6 interest during the period of time from MCl's
+challenge of the default action until its submission of the convenience termination cost proposal
+after quantum remand by the Board. Certainly, the implicit statutory purpose of providing the
+contracting officer some reasonable time to consider costs and settlement is better served by
+measuring interest from receipt of the default "claim" rather than receipt of a termination
+proposal after Board remand. To hold otherwise would produce the absurd result of rewarding
+the government for improperly defaulting a contract -- and having it later converted to a
+convenience termination -- rather than terminating for convenience in the first instance. Nor is
+it logical that the date for accruing interest should depend on whether the Board, as a matter of
+procedure, treats the propriety of the default and quantum in a single proceeding as we did in
+                                        Vol 44 No. 44 10-31-1997
+DISTRICT OF COLUMBIA REGISTER                                                          OCT 3 f '997
+
+                                              - 29 -               MCI Constructors, Inc., CAB No. D-924
+
+
+Belro, or bifurcates those issues as we did in this case.
+
+        Accordingly, MCI is entitled to interest on its unpaid contract performance costs (limited
+to the adjusted contract price cap) at four percent per annum pursuant to section 1-1188.6 from
+November 30, 1988, the date that the Director received MCl's claim challenging the default
+action, until paid by the District.
+
+        MCI is entitled also to interest on its settlement expenses. Because MCI incurred its
+settlement expenses during the period from approximately October 1988 through June ' 1992, it
+is not appropriate to award interest using the same date we used for MCl's unpaid performance
+costs. Instead, the District shall pay interest on the settlement expenses at four percent per
+annum commencing from June 30, 1992, by which time termination settlement negotiations had
+ended.
+
+                                        CONCLUSION
+
+       MCI is entitled to recover from the District its Article 6 termination for convenience
+costs amounting to $710,712 for unpaid contract performance costs and $54,130 for settlement
+expenses, plus interest on those amounts pursuant to D.C. Code § 1-1188.6.
+
+       SO ORDERED.
+
+
+
+DATE: June 4. 1996
+
+                                                       A~ministrative Judge
+
+CONCURRING:
+
+
+
+
+Chief Administrative Judge
+
+
+
+
+                                       , 6,172
+

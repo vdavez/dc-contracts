@@ -1,0 +1,286 @@
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+PHOENIX CAPITAL PARTNERS, LLC                        )
+                                                     )           CAB No. P-0938
+                                                     )
+Solicitation No. CFOPD-13-RFQ-025                    )
+
+
+       For the Protester, Phoenix Capital Partners, LLC: Edward J. Tolchin, Ira E. Hoffman;
+Offit Kurman, P.A. For the District of Columbia, Office of the Chief Financial Officer: Robert
+Schildkraut, Jody Harrington; Office of the Attorney General.
+
+      Opinion by Administrative Judge Monica C. Parchment with Administrative Judge
+Maxine E. McBean concurring.
+
+                                               OPINION
+                                            Filing ID 54008345
+
+        This protest arises from the District of Columbia Office of the Chief Financial Officer
+(“OCFO”) contracting officer’s refusal to consider a Statement of Qualifications (“SOQ”)
+submitted 24 minutes after the submission deadline by the Phoenix Capital Partners, LLC
+(“Phoenix”) in response to Request for Qualifications No. CFOPD-13-RFQ-025 (the “RFQ”).
+The protester contends that the OCFO should have considered its SOQ despite its late
+submission. The OCFO maintains that the contracting officer properly rejected Phoenix’s SOQ
+as late. For the reasons set forth herein, we deny the protest.
+
+                                    FACTUAL BACKGROUND
+
+         The Office of Contracts of the OCFO issued Request for Qualifications No. CFOPD-13-
+RFQ-025 on April 25, 2013, in an effort to prequalify prospective contractors for future
+procurements of financial advisory services on behalf of the Office of Finance and Treasury.
+(Agency Report (“AR”) Ex. 2, at 1-3.) The RFQ sought to prequalify prospective contractors in
+four different categories of financial advisory services.1 (Id. ¶¶ B.1.1, C.1, C.2.) Along these
+lines, the RFQ provided detailed requirements that any prequalified vendor would be expected to
+meet for each of the four categories of services. (See generally id. ¶¶ C.3.1-C.3.4.) The RFQ
+made clear, however, that prequalification alone would not commit the OCFO to purchase any
+quantity of services from a vendor. (Id. ¶¶ B.2.3, B.2.5.) Rather, the OCFO would acquire
+services through subsequent procurements, participation in which would be limited to
+prequalified vendors. (Id. ¶¶ B.2.2, B.2.4.)
+
+
+1
+ The four categories listed in the RFQ were: (1) Debt Obligations; (2) Economic Development Financings; (3)
+Management of Real Property, Economic Development and Other Financing Programs; and (4) General Advisory
+Services. (AR Ex. 2 ¶ C.1.2.)
+                                                                                         Phoenix Capital Partners, LLC
+                                                                                                      CAB No. P-0938
+
+        The RFQ directed vendors to submit technical proposals in response to the RFQ that
+identified the categories of services for which the vendor was seeking prequalification. (Id. ¶¶
+L.3.2, L.3.3.1.) The RFQ also specified that offerors that submitted technical proposals were
+required to meet the specific technical criteria set forth in Section M of the RFQ. (Id. ¶¶ L.3.3.2,
+M.3.1.) The initial cover page to the RFQ stated that responses would be received by the District
+until 2:00 p.m. on May 16, 2013. (Id. at 1.) The delivery instructions for proposals in response
+to the RFQ further stated that responses were due “not later than proposal due date as specified
+on page 1 of this solicitation or as amended.” (Id. ¶ L.12.2.C (emphasis in original).)
+Additionally, under the express terms of the RFQ, the District would not consider a late proposal
+unless one of three exceptions applied. (Id. ¶¶ L.8.1, L.8.3.)2 The OCFO amended the RFQ
+twice; however, neither of those amendments modified the May 16, 2013, submission deadline.
+(See generally AR Ex. 3.)
+
+        Phoenix submitted its SOQ in response to the RFQ at 2:24 p.m. on May 16, 2013 -- 24
+minutes after the submission deadline. (AR Ex. 5.) On May 23, 2013, the OCFO contracting
+officer informed Phoenix that the District would not consider its SOQ because it was submitted
+after the submission deadline. (AR Ex. 4 ¶ 9.) Phoenix timely protested the OCFO’s refusal to
+consider its submission by filing the present protest with the Board on May 31, 2013.
+
+         Contentions of the Parties
+
+        Phoenix does not dispute that it submitted its SOQ after the submission deadline, nor
+does Phoenix argue that the late submission was caused by some act on the part of the OCFO.
+(See Protest 2 (“Phoenix was inadvertently delayed in delivering its SOQ.”).) Instead, Phoenix
+maintains that the OCFO should have considered its SOQ despite its late submission. Phoenix
+argues that the RFQ late proposal provisions as well as the District’s procurement regulations
+governing the rejection of late bids and proposals are inapplicable to this case because an SOQ is
+neither a bid nor a proposal for a contract award. (Protester Comments 1-7; Protest 3.) Phoenix
+further argues that the OCFO is not bound by the late proposal regulations, promulgated by the
+District’s Chief Procurement Officer (“CPO”), because the OCFO is not subject to the CPO’s
+authority. (Id.) Phoenix also contends that principles of law and equity require that the OCFO
+consider its SOQ to satisfy the mandate for full and open competition. (Id. at 4.)3
+
+       The District, on the other hand, asserts that even though the OCFO is exempt from the
+CPO’s authority, the OCFO is not exempt from the CPO’s procurement regulations, including
+those concerning late proposals. (AR 3-4.) The District further argues that the late proposal
+provisions in the RFQ apply to preclude acceptance of Phoenix’s late SOQ. (Id. at 4-5.) The
+
+2
+  The exceptions for accepting a late proposal included: 1) the proposal was sent by registered or certified mail not
+later than the 5th calendar day before the date specified for receipt of proposals; 2) the proposal was sent by mail and
+it is determined by the contracting officer that the late receipt at the location specified in the solicitation was caused
+by mishandling by the District; or 3) the proposal was the only proposal received. (Id.) None of the foregoing
+exceptions have been cited by the protester, or recognized by the Board, as applying to the underlying facts in the
+present case.
+3
+   Phoenix also argues that the RFQ did not provide a firm closing date for receipt of responses. (Protester
+Comments 1-2.)
+
+
+
+
+                                                          -2-
+                                                                                    Phoenix Capital Partners, LLC
+                                                                                                 CAB No. P-0938
+
+District also contends that principles of law and equity mandate rejection of Phoenix’s late SOQ
+in order to protect the integrity of the procurement process. (Id. at 5-6.)
+
+                                                DISCUSSION
+
+       The Board exercises jurisdiction over the present protest matter pursuant to D.C. CODE §
+2-360.03(a)(1) (2011).
+
+        The central issue in this protest primarily concerns whether the District violated
+procurement law or regulation by improperly refusing to accept the protester’s SOQ, which was
+submitted late, since the SOQ is not a formal proposal for a contract award.4 In this regard, and
+as noted above, the protester principally argues that there was no requirement in the RFQ, or any
+applicable law, that precluded the District from accepting its SOQ even though it was delivered
+after the submission deadline.
+
+        In addressing the protester’s contentions, we first look to the terms of the RFQ to
+determine whether any express submission deadline provisions are contained therein. We have
+recognized in our earlier decisions that where the protester and the contracting agency disagree
+as to the meaning of solicitation provisions, the Board will interpret the solicitation as a whole
+and in a manner so as to give effect to all of its provisions. See Koba Assocs., Inc., CAB No. P-
+350, 41 D.C. Reg. 3446, 3470 (June 16, 1993); NCS Techs., Inc., B-406306.3, 2012 CPD ¶ 259
+at 3 (Sept. 17, 2012); Colt Def., LLC, B-406696, 2012 CPD ¶ 302 at 7 (July 24, 2012).
+Accordingly, the same contract interpretation principle must apply in analyzing the parties’
+disagreement over the existence of any applicable submission deadline provisions that may be
+present in the RFQ given that its terms and conditions for offerors are very comparable to those
+of a solicitation for a contract award.
+
+        Here, the cover page (page 1) to the RFQ unequivocally states that responses to the RFQ
+would be received by the District until 2:00 p.m. on May 16, 2013. (AR Ex. 2, at 1.) Similarly,
+the supplemental delivery instructions for proposals in response to the RFQ further stated that
+responses were due “not later than proposal due date as specified on page 1 of this solicitation or
+as amended.” (Id. ¶ L.12.2.C (emphasis in original).) The RFQ further stated that it would not
+consider proposals submitted after the submission deadline unless a specific exception applied.
+(Id. ¶¶ L.8.1, L.8.3.)
+
+         Thus, it is fairly evident that all of the foregoing provisions, read together as a whole,
+consistently reiterate to vendors that there was a firm deadline for technical submissions to be
+received and, further, that late submissions in response to the RFQ would not be accepted by the
+OCFO, with very limited exceptions. In other words, it was clearly the intention of the OCFO to
+impose a deadline on submissions in response to the RFQ by repeatedly requiring that offerors
+submit proposals by 2:00 p.m. on May 16, 2013. This established deadline in the RFQ is
+consistent with governing procurement law which requires contracting agencies to establish
+deadlines for submissions in response to an RFQ. D.C. CODE § 2-354.03(f)(2); D.C. Mun. Regs.
+tit. 27, § 1615.4(e) (2013).
+
+4
+  See D.C. Mun. Regs. tit. 27, §§ 1524.1, 1524.3 (2012); D.C. Mun. Regs. tit. 27, §§ 1627.1, 1627.3 (2013). These
+provisions generally provide that bids and proposals received after the time and date designated in the solicitation
+are late and cannot be considered by the contracting agency absent limited exceptions.
+
+
+                                                       -3-
+                                                                                    Phoenix Capital Partners, LLC
+                                                                                                 CAB No. P-0938
+
+        The protester’s attempt to disregard the unambiguous language in the RFQ imposing a
+submission deadline because these submissions are not, in fact, proposals for an actual contract
+award is unpersuasive. The RFQ, interpreted as a whole, notified offerors of the District’s clear
+intent to impose a firm deadline on its acceptance of technical qualification submissions.
+Consequently, based upon a strict reading of the terms of the RFQ alone, the District properly
+rejected the protester’s SOQ when it was delivered after the submission deadline.
+
+         Moreover, in further addressing the protester’s general contention that the SOQ should
+not be treated the same as a late proposal for a contract award requiring rejection, we also look to
+our federal bid protest tribunal counterpart, the Government Accountability Office (“GAO”), for
+guidance. In analogous situations, GAO case law has applied the well-established rule generally
+requiring rejection of late proposals to contract related submissions other than bids and proposals
+for a contract award. See, e.g., Nw. Heritage Consultants, B-299547, 2007 CPD ¶ 93 at 4 (May
+10, 2007) (applying the late proposal rule in finding that agency properly declined to accept
+Architect-Engineer (“A-E”) Qualification Statements submitted after deadline)5; Zebra Techs.
+Int’l, LLC, B-296158, 2005 CPD ¶ 122 at 3 (June 24, 2005) (applying the late proposal rule to
+past performance submissions in holding that protester’s late submission was properly rejected
+by the agency given the solicitation’s mandatory requirement for an earlier submission date). In
+the foregoing cases, GAO opined as to the necessity of applying the late proposal rule to other
+material procurement related submissions, that are not proposals, primarily to alleviate
+confusion, ensure equal treatment of all competitors, and prevent any unfair competitive
+advantage that might accrue where only one firm is allowed additional time to prepare its
+submission. Id. We are persuaded by GAO’s reasoning in this regard, as applied to the instant
+case, and find that it would also be unfair to the other offerors in this disputed procurement to
+allow the protester additional time to prepare and submit its response to the RFQ where all
+offerors responding to the RFQ were equally notified in advance of the submission deadline and
+all but the protester complied with this requirement.
+
+         Thus, while the protester argues that public policy considerations require that the OCFO
+accept its late SOQ submission, we find the opposite to be the case. Specifically, our case law
+has long held that a prospective contractor bears the responsibility for ensuring timely delivery of
+its bid or proposal. See, e.g., Tri Gas & Oil Co., CAB No. P-867, 2010 WL 5776583 at *2 (Dec.
+10, 2010); Ctr. on Juvenile & Criminal Justice, CAB No. P-488, 44 D.C. Reg. 6834, 6836 (June
+16, 1997). Indeed, the Board has recognized that a contrary rule, which would allow a
+prospective contractor to file a late bid or proposal by even a few minutes, would inevitably lead
+to unequal treatment and subvert the procurement process. Denville Line Painting, Inc., CAB
+No. P-292, 40 D.C. Reg. 4640, 4643 (Oct. 22, 1992); Prison Health Servs., Inc., CAB No. P-610,
+48 D.C. Reg. 1540, 1544 (May 24, 2000) (quoting Unitron Eng’g Co., 58 Comp. Gen. 748, 749
+(1979)). Accordingly, we have stated that although the government may lose the benefit of a
+more advantageous proposal under this late submission rule, maintaining the integrity of the
+procurement process is of more importance than any advantageous terms the government may
+receive by considering a late proposal in any single procurement. Denville Line Painting, Inc.,
+
+
+5
+  Similar to the present protester, the protester in Northwest Heritage Consultants unsuccessfully argued that since
+its submissions were not proposals for a contract award, but merely A-E Statements, acceptance and evaluation of its
+submission despite its late receipt caused no hardship to other offerors. Id.
+
+
+                                                       -4-
+                                                                                    Phoenix Capital Partners, LLC
+                                                                                                 CAB No. P-0938
+
+CAB No. P-292, 40 D.C. Reg. at 4643. Hence, given this precedent, we reject the protester’s
+contention that the District violated public policy by disqualifying its late SOQ.
+
+        Lastly, the parties dispute the applicability of the CPO’s procurement regulations
+encompassing the late proposal rules, to the OCFO. The protester argues that the OCFO’s
+statutory exemption from the CPO’s authority also exempts the OCFO from the late proposal
+rules promulgated by the CPO as codified in title 27 of the District of Columbia Municipal
+Regulations.6 (Protester Comments 5.) However, we find it unnecessary to opine on the matter
+of the applicability of CPO’s procurement regulations, in particular, to the procuring agency as
+the Board has otherwise found that the terms of the RFQ and procurement law support the
+OCFO’s rejection of the protester’s late SOQ submission as set forth above. 7
+
+                                                   CONCLUSION
+
+       For the reasons set forth herein, the Board finds that the District did not violate
+procurement law or regulation when it properly rejected the protester’s response to the subject
+RFQ due to its untimely submission. The present protest is, therefore, denied.
+
+
+SO ORDERED.
+
+Date: September 4, 2013                                               /s/ Monica C. Parchment
+                                                                      MONICA C. PARCHMENT
+                                                                      Administrative Judge
+
+CONCURRING:
+
+/s/ Maxine E. McBean
+MAXINE E. MCBEAN
+Administrative Judge
+
+
+
+
+6
+   Under District statute, the OCFO, though subject to the provisions of the Procurement Practices Reform Act
+(“PPRA”), is expressly exempt from the authority of the CPO. D.C. CODE § 2-352.01(b)(1).
+7
+  The Board notes, nonetheless, that the OCFO itself has acknowledged the procurement regulations codified in title
+27 of the District of Columbia Municipal Regulations govern its procurements. See OFFICE OF THE CHIEF FINANCIAL
+OFFICER, OFFICE OF CONTRACTS, http://cfo.dc.gov/page/office-contracts (last visited September 4, 2013).
+
+
+
+                                                       -5-
+                                        Phoenix Capital Partners, LLC
+                                                     CAB No. P-0938
+
+
+
+Electronic Service:
+
+Edward J. Tolchin
+Ira E. Hoffman
+Offit Kurman, P.A.
+4800 Montgomery Lane, 9th Floor
+Bethesda, MD 20814
+
+Robert Schildkraut
+Jody Harrington
+Assistant Attorneys General
+Office of the Attorney General
+441 4th Street N.W., 7th Floor
+Washington, DC 20001
+
+
+
+
+                                  -6-
+

@@ -1,0 +1,590 @@
+                  GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+
+
+APPEAL OF:
+
+       A.S. McGAUGHAN CO., INC.                           )
+                                                          )      CAB No. D-926
+       Under Contract No. 87-0038-AA-2-0-LA               )
+
+
+
+      For the Appellant: Charles F. Mitchell, Esquire. For the Government: Mark D.
+Back, Assistant Corporation Counsel.
+
+      Opinion by Administrative Judge Terry Hart Lee, with Administrative Judges Zoe
+Bush and Benjamin B. Terner concurring.
+
+
+                   OPINION AND ORDER ON MOTION TO DISMISS
+
+       On August 25, 1992, A.S. McGaughan Co., Inc. ("appellant") filed an appeal from a
+written "presumption of denial" of its claims, issued on April 15, 1991, and received by
+appellant on April 22, 1991.
+
+        On October 7, 1992, the District of Columbia ("appellee" or "District") filed a motion
+to dismiss, on the ground that the Board lacks jurisdiction over the appeal based on the
+allegation that the appeal was untimely filed. Citing D.C. Code §l-1188.5(c) and (d), the
+District argues that the 90-day limitation for appeal to the Board runs either from the date
+on which a contractor receives a decision on its claim by the Director, Department of
+Administrative Services (DAS) or from the date on which a failure of the Director to render
+a decision is deemed to be a denial of the claim. Furthermore, relying on the Board's
+decision in Belcon, Inc., CAB No. D-829, June 14, 1990, 38 DCR 3090 (May 1991), the
+appellee argues that in the absence of the DAS decision, the time for appeal begins to run
+from the contractor's receipt of DAS' written presumption of denial, setting forth the
+contractor's right of appeal. As a result, the District contends that the latest date on which
+the appellant should have filed its appeal was July 21, 1991.
+
+        On November 9, 1992, appellant submitted its memorandum of points and
+authorities in opposition to the motion to dismiss. Therein, appellant contends that the
+District's argument is based on two incorrect premises: (1) that the time for appeal to the
+Board begins to run when DAS' failure to issue a decision is deemed to be a denial of the
+claim; and (2) that the April 15, 1991, letter to appellant, notifying it of the status of its
+claim, constituted a final written decision within the meaning of 27 DCMR §3806.7 (July
+1988).
+                                              . 2 -              CAB No D-926, A.S McGaughan Co, Inc
+
+
+       Appellant's argument is based in part on its interpretation of D.C. Code §§1-1189.3
+through 1-1189.5 and the implementing regulations. Specifically, appellant asserts that
+nothing in the Procurement Practices Act of 1985, D.C. Code §§1-1181.1, et seq. (PPA) or
+the implementing regulations provides that the contractor's right to appeal from a "deemed
+denial" of its claim is mandatory or that the 90-day limitation period set forth in D.C. Code
+§l-1189.4(a) begins when the right to appeal from a "deemed denial" of the claim accrues.
+
+       Citing the decision of the United States Court of Appeals for the Federal Circuit in
+Pathman Construction Co. v. United States, 817 F.2d 1573 (Fed. Cir. 1987), and comparing
+the language contained in D.C. Code §l-1188.5(d) with that contained in section 6(c)(5) of
+the Contract Disputes Act of 1978, 41 U.S.C. §605(c)(5) (CDA), appellant contends that the
+"deemed denied" provision of the statute merely authorizes a contractor to file an appeal.
+It does not mandate such an action.
+
+       Appellant further contends that appellee's reliance on Belcon is misplaced because
+not only did the Board defer analysis of D.C. Code §1188.5(d), but it expressly stated that
+the position of the appellant (Belcon) conformed to the weight of authority.
+
+        Finally, appellant states that the April 15, 1991, letter from the Director, DAS,
+advising it of the status of its claim, cannot be considered a final decision which would
+trigger the commencement of the 90-day limitations period. This is so because it does not
+conform to the requirements for a final decision within 27 DCMR §3806.7, supra.
+
+       On November 17, 1992, the District submitted a reply memorandum in support of
+its motion to dismiss. Therein, appellee asserts that appellant mischaracterized the
+District's position and failed to point out the critical differences between the PPA and the
+CDA.
+
+        First, the District states that it did not claim that the April 15,1991, letter from DAS
+to appellant constituted a final written decision. Appellee believes that a final written
+decision by DAS is not relevant to its argument. It reiterated its position, relying on
+Belcon, that the time for appeal began to run from the date of receipt of the April 15, 1991,
+letter which informed appellant of its right to appeal based on a "presumption of denial"
+of its claim.
+
+        Second, the District argues that Pathman and the decisions in accord, which
+interpreted the provisions of the CDA, are distinguishable from the PPA because of the
+intermediate level of review provided in the PPA, and also because the appeal rights are
+different under the CDA.
+
+        Third, the appellee argues that the language in the CDA which is comparable to that
+set forth in D.C. Code §l-1189.4(a) does not take into account the "deemed denied" decision
+scenario contemplated in D.C. Code §l-1189.4(a). In essence, the appellee claims that
+under the CDA, the limitation period for appeal begins to run on a "deemed denied"
+                                                               CAB No
+                                             . 3 -                      V-926< A-S McGaugh.in Co , Inc
+
+
+decision on receipt of a written final decision by the contractor; while under the PPA, actual
+receipt of a written final decision by the contractor is not necessary.
+
+       Finally, the appellee asserts that Belcon adopted a "reasonableness" standard in
+determining the time in which the limitations period begins to run. Contends the District,
+while it may have been reasonable for the contractor in Belcon to have expected a final
+decision after six days of hearing before DAS, appellant here has shown nothing which
+would rebut the conclusion that it failed to assert its rights in a timely manner.
+
+        On November 20, 1992, appellant filed its Reply Memorandum in Opposition to the
+District's Motion to Dismiss. Therein, appellant contends that with respect to the District's
+assertion that a final written decision by DAS is irrelevant to its argument, the appellee
+actually wants the Board to give some "procedural effect" to the April 15, 1991, letter as a
+proper final decision. Appellant claims that nothing in the PPA or the implementing
+regulations permits the Board to create this type of "hybrid" situation.
+
+       Appellant also asserts that the District's attempt to distinguish the two-step appeal
+process under the CDA from the three-step process under the PPA is neither compelling nor
+relevant. Appellant declares that the interpretation of the nearly identical language of both
+statutes is the relevant issue.
+
+       With respect to appellee's argument concerning the introductory language of D.C.
+Code §l-1189.4(a), appellant contends that this language does nothing more than
+acknowledge a contractor's right to appeal from a "deemed denial" of its claim, and that if
+anything, the language indicates that an appeal from a deemed denial is not governed by
+the 90-day limitations period.
+
+       Finally, appellant argues that the facts of this case establish that it meets the
+"standard of reasonableness" enunciated in Belcon.
+
+                                        DECISION
+
+       Section 904(a) of the PPA, D.C. Code §l-1189.4(a), states:
+
+      Except as provided in section 805, within 90 days from the date of receipt of
+      a decision of the Director, the contractor may appeal the decision to the
+      Board, (emphasis added).
+
+      Section 805(c) and (d) of the PPA, D.C. Code §l-1188.5(c) and (d), states:
+
+      Within 90 days of receipt of a claim over $50,000, the Director shall issue a
+      decision, whenever possible taking into account factors such as the size and
+      complexity of the claim and the adequacy of the information in support of the
+      claim provided by the contractor.
+                                                                 CAB No
+                                              . 4 -                       D-y26, A.S McGaughan Co, Inc
+
+
+       Any failure by the Director to issue a decision on a contract claim within the
+       required time period will be deemed to be a denial of the claim, and will
+       authorize the commencement of an appeal on the claim as otherwise provided
+       in this title, (emphasis added).
+
+       The only decision of the Board, or our appellate tribunal, that we can find that even
+broaches an interpretation of sections 904(a) and 805(c) and (d) of the PPA is Belcon, Inc.,
+supra, 38 OCR 3090. There, at pages 3092-3093, the Board stated:
+
+       Although we defer our analysis and decision of whether §l-1188.5(d)
+       mandates a 90-day appeal period, as DPW argues, or merely authorizes an
+       appeal within a reasonable time, Belcon's position, the weight of
+       argumentation lies heavily with Belcon.
+
+The footnote following that statement says:
+
+       Although the PPA was not enacted so as to conform to federal law and
+       precedent, we note that §l-1188.5(d) does use identical language dealing with
+       deemed decisions as that contained in the federal Contract Disputes Act of
+       1978, 41 USC [sic] §605(c)(3) and §605(c)(5). Every court decision and
+       federal government contract law board cited by the parties interprets this
+       language (a deemed decision will 'authorize the commencement of an appeal')
+       as Belcon advocates, (emphasis added).
+
+Id. at 3093.
+
+       Consequently, we will review the comparable language of the CDA and the pertinent
+federal decisions to assist us in rendering our decision in this matter.
+
+       Section 6(c)(l) of the CDA states:
+
+       A contracting officer shall issue a decision on any submitted claim of $50,000
+       or less within sixty days from his receipt of a written request from the
+       contractor that a decision be rendered within that period. For claims of more
+       than $50,000, the contractor shall certify that the claim is made in good faith,
+       that the supporting data are accurate and complete to the best of his
+       knowledge and belief, and that the amount requested accurately reflects the
+       contract adjustment for which the contractor believes the government is
+       liable.
+
+       Section 6(c)(2) states:
+
+       A contracting officer shall, within sixty days of receipt of a submitted certified
+       claim over $50,000--
+                                            . 5 -              CAB No D-926, A.S McGaughan Co, Inc
+
+
+          (A) issue a decision; or
+
+         (B) notify the contractor of the time in which a decision will be issued.
+
+       Section 6(c)(5) states:
+
+       Any failure by the contracting officer to issue a decision on a contract claim
+       within the period required will be deemed to be a decision by the contracting
+       officer denying the claim and will authorize the commencement of an appeal
+       or suit on the claim as otherwise provided in this Act.... (emphasis added).
+
+41 U.S.C. §605(c)(l), (2) and (5). Section 7 of the CDA provides that within 90 days from
+the date of receipt of the contracting officer's decision under section 6, the contractor may
+appeal the decision to any agency board of contract appeals. 41 U.S.C. §606. Section
+10(a)(l) and (3) of the CDA provides that in lieu of an appeal of a contracting officer's
+decision to an agency board, the contractor may bring suit directly on the claim in the
+United States Claims Court, within 12 months from the date of receipt of the decision by
+the contractor. 41 U.S.C. §609(a)(l) and (3).
+
+       Section 903 of the PPA, D.C. Code §1-1189.3, states, in pertinent part:
+
+      The Board shall be the exclusive hearing tribunal for, and shall have
+      jurisdiction to review and determine de novo:
+
+
+
+          (2) Any appeal by an aggrieved party from a determination by the
+       Director which is authorized by this act.
+
+       Section 904(a) of the PPA, D.C. Code §l-1189.4(a), states:
+
+      Except as provided in section 80S, within 90 days from the date of receipt of
+      a decision of the Director, the contractor may appeal the decision to the
+      Board, (emphasis added).
+
+       Section 805(c) and (d) states:
+
+      Within 90 days of receipt of a claim over $50,000, the Director shall issue a
+      decision, whenever possible taking into account factors such as the size and
+      complexity of the claim and the adequacy of the information in support of the
+      claim provided by the contractor.
+
+      Any failure by the Director to issue a decision on a contract claim within the
+      required time period will be deemed to be a denial of the claim, and will
+                                                     . (J .                 CAB No D-926, A.S VfcGaughan Co, Inc
+
+
+         authorize the commencement of an appeal on the claim as otherwise provided
+         in this title, (emphasis added).
+
+B.C. Code §M188.5(c) and (d).
+
+        While there are certainly differences between the two statutes with respect to the
+obligations of the contracting officer to render a decision within a required time period and
+in a particular manner versus the obligations of the Director, DAS to take virtually the
+same actions on a contractor's claim, there is virtually no difference between the statutes
+concerning a contractor's rights where the, statutorily-authorized official fails to issue a
+decision within the required period of time. Indeed, under both the CDA and PPA, where
+such a failure occurs, it is deemed to be a denial of the claim and will authorize
+commencement of an appeal.
+
+        Furthermore, under the CDA, the required time period in which the contracting
+officer must issue a decision (on a certified claim over $50,000) is 60 days. 41 U.S.C.
+§605(c)(2)(A). Under the PPA, that time period for the Director is lengthened to 90 days.
+D.C. Code §l-1188.5(c). Under both statutes, once the authorized official issues a written
+decision on a claim within the respective time limitations, the contractor has 90 days from
+its date of receipt of the written decision to appeal to the board of contract appeals.
+Compare D.C. Code §l-1189.4(a) with 41 U.S.C. §606. However, where no decision is issued
+(and the deciding official does not take advantage of his/her right to an extension of time)i;
+within the required time period, commencement of an appeal is authorized. Compare D.C.
+Code §l-1188.5(d) with 41 U.S.C. §605(c)(5).
+
+        Here, the District argues that section l-1188.5(d) of the D.C. Code authorizes appeal
+where no decision is issued, but only within 90 days of the contractor's receipt of notice that
+no decision will be issued, relying on the language of section l-1189.4(a). Appellant, on the
+other hand, argues that the 90-day time limit of section l-1189.4(a) is applicable only to
+receipt of a written decision from the Director and that the language of section l-1188.5(d)
+does not mandate an appeal but merely permits one, if the contractor so desires.
+
+       We conclude that the language of the PPA, its legislative history and its basic
+purposes show that the 90-day limitations period begins to run only after the Director, DAS
+has issued a written final decision on the contractor's claim. Stated another way, where the
+Director, DAS does not issue a decision within the 90-day statutory time period, a
+contractor is permitted, but not required, to commence an appeal. Pathman Construction
+
+    -^By statute, a contracting officer in the federal sector is required to extend the 60-day time period by
+notifying the contractor of the time within which a decision will be issued on a claim over $50,000, if a
+decision cannot be made within that time period. 41 U.S.C. §605(c)(2)(H). However, the PPA's implementing
+regulations give the Director, DAS the authority (but not a mandate) to extend the time for issuing a decision,
+either by consent of the parties or by a determination by the Director that "compelling reasons" require
+additional time. 27 DCMR §3806.5(a) and (b).
+                                                     . 7                   CAB No D-926, A.S McGaugh.m Co, Inc
+
+
+Co., Inc. v. United States, 817 F.2d 1573, supra.
+
+       The plain language of D.C. Code §l-1188.5(d) provides the contractor with an option,
+or permission, to go forward with an appeal when the Director, DAS has not issued a timely
+decision. Pathman, supra, at 1577; The Vemo Company v. United States, 9 Cl. Ct. 217, 220
+(1985). As stated in Pathman at 1577 and adopted herein, with respect to the Director,
+DAS:
+
+        . . . The provision is designed to enable the contractor to obtain a judicial
+        determination of its claim (or a determination by a board of contract appeals,
+        if the contractor follows that procedure) without awaiting the decision of a
+        contracting officer who has failed to render a decision within the specified
+        time limits. . . .
+
+Furthermore, nothing in the language of section l-1188.5(d) evinces an intent on the part
+of the District of Columbia Council to compel a contractor to use it. Thus, the contractor's
+right to institute an appeal under the "deemed denied" provision is permissive, not
+mandatory.
+
+       In addition, if the District of Columbia Council had intended a contractor to bring
+an appeal within 90 days of the Director's failure to issue a timely decision, presumably it
+would have said so explicitly. For example, section 805(a) of the PPA, D.C. Code §1-
+1188.5(a) provides that all claims by a contractor shall be in writing and shall be submitted
+to the Director for a decision. Similarly, section 805(e)(l), D.C. Code §l-1188.5(e)(l)
+(concerning a contractor's inability to support its claim, attributable to misrepresentation
+of fact or fraud) provides that a contractor shall be liable to the District for a certain
+amount in costs. However, in section 805(d), D.C. Code §l-1188.5(d), the District of
+Columbia Council used the permissive language "will authorize."-7
+
+       As in Pathman, our conclusion is further buttressed by the language in D.C. Code
+§l-1188.5(c) and 27 DCMR §3806.7 (which requires receipt by the contractor of a final
+written decision of the Director within 90 days of the Director's receipt of a claim over
+$50,000). As the Federal Circuit so aptly pointed out:
+
+        'In a "deemed denied" situation, there is no "decision of the contracting
+        officer" that the contractor receives. The concept of "receipt ... of the
+        decision of the contracting officer" involves the actual physical receipt of that
+
+
+    -'To lend support to its decision in Pathman, the Federal Circuit cited the definition of the word
+"authorize" as set forth in Webster's Ninth New Collegiate Dictionary 117 (1985) (cited in Blake Construction
+Co., Inc., VABCA Nos. 2443, 2444, 87-1 BCA 5[19,523) as meaning "sanction", "empower", "justify", all in sense
+permissive. We have no reason to dispute this definition. See Webster's II New Riverside University
+Dictionary 139 (1984) ("authorize" means: [1] "To give authority or power to"; [2] "To approve or permit:
+SANCTION"; [3] "To be sufficient grounds for.").
+                                                       - 8 -                  CAli No D-926, 4.S VlcGaughan Co, Inc
+
+
+         decision by the contractor. . . .'
+
+Pathman, supra, at 1577 citing Turner Construction Company v. United States, 9 Cl. Ct.
+214, 216 (1985). The Federal Circuit went on to say:
+
+         '[t]here can be no ... actual "receipt" of a decision which does not truly exist
+         but whose existence is only "deemed" for the purpose of authorizing suit on
+         the undecided claims.'
+
+In essence, "[t]he 'receipt' of the contracting officer's decision by the contractor is the
+critical event that starts the running of the limitations period." (emphasis added).
+Pathman, supra, at 1577. The legislative history of the PPA of 1985 does not specifically
+address the intent of the District of Columbia Council in enacting the 90-day limitation for
+the Director's decision on claims over $50,000. The only indication of the District of
+Columbia Council's intent of which we are aware is contained in the October 16, 1985,
+COUNCIL OF THE DISTRICT OF COLUMBIA REPORI ("REPORT") which accompanied Bill 6-191,
+"District of Columbia Procurement Practices Act of 1985." As part of the Background and
+Purpose section of the REPORT, there is a brief description of the authority of the Director.
+It states, in part:
+
+        ... The Director has the authority to render decisions on claims arising from
+        an aggrieved contractor, thus providing an administrative mechanism for
+        resolving disputes. Appeals of these decisions are made to the Contract
+        Appeals Board.
+
+        Our review of this "administrative mechanism for resolving disputes", as well as the
+entire PPA, leads us to conclude that the disputes provisions were modeled almost
+exclusively on the CDA of 1978 and that the procurement regulations set forth in Title 27
+of the DCMR were modeled in large measure on the Federal Acquisition Regulations (FAR),
+48 C.F.R. Chapter 1.^
+
+
+    -/In its reply to appellant's opposition to the District's motion to dismiss, the District argues that the PPA
+is distinguishable from the CDA because of the intermediate level of review found in the PPA. Presumably,
+the appellee is referring to a decision by the contracting officer, prior to submitting a formal claim to the
+Director, DAS. That distinction certainly does exist, but it is not found in the statute; and given the dearth
+of legislative history on this "intermediate level of review", we can surmise that the District of Columbia
+Council wished to emphasize administrative resolution over litigation.
+
+         Section 3803 of 27 DCMR sets forth the requirements for a contractor's presentation of its claim to
+the contracting officer. These requirements encompass an attempt at un informal resolution, to submission
+of a formal claim to the contracting officer, to further attempts at resolution, to issuance of a final decision
+by the contracting officer. There is no right to appeal to the Board from a final decision of the contracting
+officer. However, the contractor may appeal thereafter to the Director, DAS within 60 days of receipt of the
+contracting officer's final decision or within 10 days after the 60-day time period in which the contracting
+                                                                                                  (continued...)
+                                                                             CAB No
+                                                      . 9 -                           D-926, A.S McGaughan Co, Inc
+
+
+         Turning again to section 805(c) of the PPA, that section states:
+
+         Within 90 days of receipt of a claim over $50,000, the Director shall issue a
+         decision, whenever possible taking into account factors such as the size and
+         complexity of the claim and the adequacy of the information in support of the
+         claim provided by the contractor.
+
+In comparison, section 6(a)(2) of the CDA provides that for a certified claim over $50,000,
+the contracting officer has within 60 days of receipt of a claim to issue a decision (or to
+notify the contractor when such a decision would be issued). Section 6(a)(4) requires the
+contracting officer to issue a decision within a reasonable time during this 60-day period,
+"taking into account such factors as the size and complexity of the claim and the adequacy
+of the information in support of the claim provided by the contractor."-7 Thus, the
+language of section 805(c) of the PPA is almost verbatim to the language in sections 6(a)(2)
+and 6(a)(4) of the CDA; and outside of the longer period of time for issuance of the
+Director's decision under the PPA versus that given to the contracting officer under the
+CDA, there is nothing in either statute to our knowledge that requires the contractor to
+appeal after the time limit for rendering a decision has expired. Furthermore, we can find
+nothing in the legislative history that would lead us to conclude that the 90-day limitation is
+automatically extended (or relaxed) simply because a case may be large or complex
+or both.-7
+
+
+     -(... continued)
+officer fails to issue a written decision on the formal claim. Id. §§3803.5 and 3804.1.
+
+        Because we are dealing here with the right to appeal to the Board, we fail to see the government's
+point concerning the significance of this level of review.
+
+         It is interesting to note that under our procurement regulations, the contracting officer has 60 days
+in which to issue a decision on a contractor's formal claim, with no requirement or authority to extend that
+60-day time period. This is the same period of time for issuance of a contracting officer's final decision under
+the CDA.
+
+          R.G. Robbins Co., Inc.. ASBCA No. 26521, 82-1 BCA f 15,643 at 77,273-77,274 (wherein the ASBCA
+stated that the "reasonable time" within which the contracting officer must render a decision is more or less
+within the 60-day time period, depending on the facts and circumstances.
+
+    -'The District asks us to apply the "reasonableness standard" enunciated in Belcon to the facts of this
+case, arguing that while it may have been reasonable for the contractor in Belcon to have expected a DAS
+final decision after six days of hearing, appellant here has shown nothing to rebut the conclusion that it failed
+to assert its rights in a timely manner.
+
+         Simply stated, we cannot make sense of this argument. Apparently, Belcon adopted a "reasonableness
+standard" as a "substitute standard" for the period beyond the 90-day time limitation for DAS to issue a final
+decision, where a case may be sizeable or complex and cannot be decided within the statutory time frame.
+                                                                                                (continued...)
+                                                     - 10 -                 CAB No D-926, A.S McGaughan Co, Inc
+
+
+       We must assume that the District of Columbia Council purposely adopted the
+language of the CDA and was well aware of the intent and purpose of the CDA and FAR
+in developing our statute and regulations. Therefore, by reading the statutes in pari
+materia, and in view of the purposes of both statutes and the glaring similarities between
+them, it is most unlikely that the District of Columbia Council intended that the 90-day
+period to file an appeal to the Board begins on the "deemed denial" of a claim,"... which
+by definition the contracting officer never furnished to the contractor and which the
+contractor never received." Pathman, supra, at 1578.
+
+       Moreover, one of the major purposes of the PPA is "[t]o insure the fair and equitable
+treatment of all persons who deal with the procurement system of the District government."
+D.C. Code §1-1181.1 (a) (7). One way of doing so was the establishment of the administrative
+mechanism for the Director to resolve contract disputes. In our opinion, the position
+espoused by the District herein would impede, rather than promote, that purpose.
+Application of the government's position would force a contractor to appeal to the Board
+before it had an adequate chance to resolve the factual and legal issues with the agency
+involved. In this regard, the PPA expressly recognizes that many claims submitted to the
+Director are sizeable and complex and require detailed and protracted analysis before the
+parties can negotiate a settlement. Further, initial submissions may often be inadequate
+and more information is often required before a claim can be resolved.
+
+       Unlike the CDA, however, the PPA does not require the Director to notify the
+contractor if he/she cannot make a decision within 90 days. Neither does the applicable
+provision of the regulations. 27 DCMR §3806.5. In fact, the regulations provide that the
+Director may obtain consent of the parties to extend the statutory 90-day time limit, or
+he/she may determine in writing (with notice to the contractor) that "compelling reasons"
+necessitate a longer period. Nevertheless, if either course of action is taken, and a written
+notice of extension is issued, a claim is presumed denied ". . . if a decision has not been
+issued within sixty (60) calendar days after the expiration of the applicable statutory
+deadline under §3806.4."^ Jd.
+
+        Thus, under the PPA and implementing regulations, a contractor has three options:
+(1) it can wait 90 days for a Director's decision and then appeal to the Board if no decision
+is received; (2) it can wait an additional 60 days beyond the 90-day period, assuming that
+
+
+    -/(...continued)
+Belcon, supra, at 3092. However, Belcon does not at any point indicate the Board's consideration of
+applicability of the regulations which permit the Director to extend the period for issuance of a decision, by
+issuing a written notice of extension based on either consent of the parties or by a written determination of
+"compelling reasons". 27 DCMR §3806.5. This failure to recognize the Director's regulatory authority to
+extend the time period by written notice bodes ill for the \alue of the decision as precedent.
+
+    -/Section 3806.4 of 27 DCMR refers the reader to section 805 of the PPA, which sets a 60-day time limit
+for a decision on claims under $50,000 and a 90-day time limit for a decision on claims over $50,000.
+                                                      - H   -                 CAB No D-926, A.S McGaughan Co, Inc
+
+
+ the Director follows 27 DCMR §3806.5 and then appeal from a "presumed denial"; or (3)
+ it can wait for a written Director's decision, no matter how long it may take.27 All that is
+ necessary to start the 90-day time period running is the Director's issuance of a written
+ final decision on a claim. Absent such a decision, the contractor's options come into play.
+
+       We agree with the Federal Circuit in Pathman that "[t]he government cannot take
+advantage of its own failure to perform its statutory obligations." Id. at 1579. While the
+record does not reflect when appellant herein submitted its claim to the Director, it was at
+least 90 days prior to the April 15, 1991, letter. Furthermore, that letter is clear in two
+regards: (1) a final decision was delayed because of the resignation of the Claims Officer;
+and (2) the notice of the right to appeal was expressly permissive, to wit: ... you may file
+an appeal of the Contracting Officer's decision with the Contract Appeals Board based on
+a presumption of denial of your claim." (emphasis added). Had the appeal right been
+mandatory, the Director would certainly have so stated.
+
+        In its motion to dismiss, the District, placing reliance on Belcon, argues that in the
+absence of a Director's decision, the time for appeal begins to run from the contractor's
+receipt of DAS' written presumption of denial of a claim. This argument necessarily implies
+two things: (1) that the Director is required to notify the contractor in writing of a
+presumption of denial; and (2) that the Director's notice constitutes a final decision,
+appealable to the Board pursuant to D.C. Code §l-1189.4(a). Neither implication has
+merit.-7
+
+       First, neither the statute nor the regulations requires the Director to notify the
+contractor, in writing or otherwise, of a presumption of denial of its claim. Indeed, the
+meaning of the word "presumption" denotes "acceptance" or "belief. In legal parlance, it
+means: "An inference as to the truth of an allegation or proposition based on probable
+reasoning in the absence of or prior to actual proof or disproof." (emphasis added).
+Webster's II New Riverside University Dictionary 982 (1984). Consequently, a "presumption
+of denial" stands on its own; notice of such is incongruous with the word's accepted
+meaning.-7
+
+
+
+    -7Nowhere in the PPA is the Director, DAS given the option of deciding not to issue a decision on a claim.
+
+     -7In its reply to the appellant's opposition to the District's motion to dismiss, the appellee contends that
+it did not claim (in the motion to dismiss) that the April 15, 1991, letter constituted a final written decision
+of the Director, DAS. Appellee went on to declare that a final written decision by DAS is not relevant to its
+argument. If the District actually believes its own argument, then the April 15, 1991, letter is only that--u
+letter advising appellant of the status of its claim--and nothing more. In this regard, the support for the
+District's motion dissolves.
+
+    -/Essentially, under the statute and regulations, there is no such thing as a "deemed denied decision."
+This is so because where a presumption of a denial occurs, there is no decision on a claim, i.e., there is no
+conclusion reached or judgment made on a matter under consideration.
+                                           - 12 -             CAB No D-926, A.S McGaughan Co, Inc
+
+
+        Second, a "presumption of denial" of a claim simply cannot, under the applicable
+regulations, constitute the Director's final written decision. 27 DCMR §3806.7. The
+regulations set out six requirements for the Director's decision. Here, the April 15, 1991,
+letter to appellant, advising it of the status of the claim, simply does not comply with the
+regulatory requirements. Where that is the case, the running of the limitations period is
+not triggered. Vepco, Inc., ASBCA No. 26993, 82-2 BCA 5[15,824; R.G. Robbins Co., Inc.,
+ASBCA No. 26521, 82-1 BCA J[15,643. See Pathman, supra, at 1578.
+
+       Therefore, based upon all of the facts and circumstances and the authorities cited
+herein, the District's motion to dismiss is DENIED; and it is hereby
+
+      ORDERED, that in accordance with Rule 203, the District file its Appeal File, within
+30 days of receipt of this Order; and it is
+
+      FURTHER ORDERED, that in accordance with Rule 204, the appellant shall file its
+complaint with the Board, within 30 days of receipt of this Order; and it is
+
+       FURTHER ORDERED, that in accordance with Rule 203.3, the appellant supplement
+the District's Appeal File, if necessary; and it is
+
+       FURTHER ORDERED, that in accordance with Rule 205, the District file its Answer
+to the appellant's complaint.
+
+
+
+DATE:    December 10, 1992
+                                                        TERRY HART
+                                                        Administrative Judge
+
+
+CONCUR:
+
+
+
+
+       SH
+     Administrative Judge
+
+
+
+#*
+BENJAMIN B. TERNER
+Administrative Judge
+                                          - 13-   CAB No D-926. A.S McGaughan Co, Inc
+
+
+
+
+Copies to:   Charles F. Mitchell, Esquire
+             Dunnells, Duval & Porter
+             2100 Pennsylvania Avenue, N.W.
+             Washington, DC 20037-3202
+
+             Mark D. Back, Assistant
+              Corporation Counsel
+             Public Works Division
+             2000 14th Street, N.W., 6th Fl.
+             Washington, DC 20009
+

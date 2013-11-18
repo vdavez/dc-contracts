@@ -1,0 +1,162 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+
+       M.C. DEAN, INC.                                  )
+                                                        )       CAB No. P-0654
+       Under IFB No. 01-0157-AA-2-0-KA                  )
+
+
+      For the Protester, M.C. Dean, Inc.: Fred A. Mendicino, Esq., Watt, Tieder, Hoffar & Fitzgerald,
+LLP. For Fort Myer Construction Corp.: Christopher M. Kerns, Esq. For the Government: Howard
+Schwartz, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Matthew S. Watson, concurring.
+
+                                             OPINION
+                                        CourtLink Filing ID 829563
+
+        M.C. Dean, Inc., protests the award of a contract to Fort Myer Construction Co., alleging that
+Fort Myer failed to meet the solicitation requirement of having an electrical contractor’s license, that
+the employee designated by Fort Myer in its bid as having the requisite certification for performing
+certain traffic signal work will not actually be performing that work, and that Fort Myer’s bid is
+unrealistically low. The contracting officer determined that Fort Myer recently received the proper
+electrical contractor license, was a responsible contractor, and had the lowest responsive bid. Because
+M.C. Dean has not demonstrated any violation of law, regulation, or the terms of the solicitation, we
+deny the protest.
+
+                                           BACKGROUND
+
+        On March 15, 2002, the Department of Public Works (“DPW”) issued IFB No. 01-0157-AA-2-
+0-KA for FY-02 City Wide Traffic Signal Bulb Replacement. (Agency Report (“AR”), Ex. 1). The IFB
+sought a contractor to furnish all necessary labor, materials, and equipment necessary to replace all
+incandescent vehicular and pedestrian signal heads with light emitting diode (“LED”) modules at all
+signalized intersections and at all mid-block flashing signals or warning devices in the District. The
+proposed contract was for one year, with an option to extend the contract for an additional year.
+
+      Section A of the IFB required the prime contractor to be an electrical contractor licensed and
+bonded in the District. IFB section 19 states:
+
+       A minimum of one of the contractor’s employees must have demonstrated experience in
+       the installation of traffic signal heads. This employee must be at least Level II IMSA
+       Certified, and have experience working in and around the Type 170 microprocessor
+       based solid state traffic signal controller. Proof of certification shall be a requirement for
+       consideration as a responsive bidder. A copy of the employee’s Level II IMSA
+       certification shall be submitted with the contractor’s bid. The contractor will be required
+                                                -2-                          M.C. Dean, Inc., CAB No. P-0654
+
+
+
+       to retain an employee with these minimum credentials during the entire contract. This is
+       the only contractor employee who will be permitted access to the controller cabinet.
+
+(AR Ex. 1, at 11).
+
+        On April 17, 2002, DPW opened three bids. (AR Ex. 2). Fort Myer submitted the lowest priced
+bid in the amount of $7,888,551, and had attached to its bid the Level II IMSA certificate of Mr.
+Michael Holland. (AR Ex. 2, 3). M.C. Dean submitted the next lowest bid in the amount of $9,199,125,
+and attached the Level II IMSA certificate of Mr. Jerome Thomas. (AR Exs. 2, 4).
+
+       On May 1, 2002, M.C. Dean filed its protest with the Board. The District filed its Agency
+Report on May 22, 2002, noting that DPW was still evaluating the bids and had not made a
+determination concerning Fort Myer’s responsibility. For those reasons, the District was unable to
+address the merits of M.C. Dean’s protest grounds.
+
+        Fort Myer responded to the protest on May 31, 2002. Responding to M.C. Dean’s responsibility
+challenge, Fort Myer states that it has been given final approval for its electrical contractor license.
+Addressing M.C. Dean’s claim that the Fort Myer employee designated in its bid as the IMSA Level II
+certified technician will not actually perform the work, Fort Myer states that it will provide the
+appropriate Level II IMSA certified personnel for contract performance. Fort Myer argues that the
+solicitation does not mandate that only the specific employee named in its bid can perform the
+fieldwork under the contract. Addendum No. 2, issued April 2, 2002, contained answers to bidder
+questions raised at and after the pre-bid conference, including the following question tendered by M.C.
+Dean:
+
+       Question:       Will you consider addressing the issue on whether or not the IMSA Level
+                       II person has to be a current employee upon submission of the bid, or a
+                       prospective employee upon award?
+
+       Answer:         Yes. Page 11 and 12, Paragraph 3 of Special Provision 19 states that the
+                       employee’s Level II IMSA certification shall be submitted with the
+                       contractors bid. The employee named on the certificate must be on the
+                       contractor’s payroll when the sealed bid is submitted. This is to affirm
+                       the bid award is not compromised if employment of the certified
+                       employee is not executed.
+
+(Protest, Ex. 2, Addendum No. 2, at 10-11). Fort Myer contends that this provision makes clear that it
+may have an employee other than the designated employee perform fieldwork so long as the employee
+is properly certified. Regarding M.C. Dean’s argument that Fort Myer’s bid is unrealistically low, Fort
+Myer states that it has confirmed that its bid is realistic and has shown the contracting officer how it
+calculated its bid prices. Although it concedes that its bid for pay item 9 (retrofitting signal head
+sections) is considerably lower than M.C. Dean’s bid for the same pay item, Fort Myer points out that
+several other pay items in its bid were over twice as high as M.C. Dean’s. (Fort Myer Response, at 6-
+7). Fort Myer also challenges the pricing estimates contained in the McIntosh affidavit (Protest, Ex. 4)
+submitted by M.C. Dean, arguing that the affiant failed to properly estimate the time required to replace
+a signal head section. (Fort Myer Response, at 5-6).
+                                                -3-                          M.C. Dean, Inc., CAB No. P-0654
+
+
+
+       On June 10, 2002, the District filed the contracting officer’s June 7, 2002 determination and
+findings which states that Fort Myer’s bid was responsive and that Fort Myer was a responsible
+contractor. The District’s determination and findings attached a copy of Fort Myer’s electrical
+contractor license, dated May 29, 2002.
+
+                                            DISCUSSION
+
+       We exercise protest jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        The Procurement Practices Act and the procurement regulations require that the District award
+contracts only to responsible contractors. D.C. Code § 2-303.03(e); 27 DCMR § 2200. Generally,
+licensing is a matter of responsibility, not responsiveness. Diversified Information Systems, Inc., CAB
+No. P-0454, Sept. 4, 1996, 44 D.C. Reg. 6495, 6496; C&D Tree Service, Inc., CAB No. P-0440, Mar.
+11, 1996, 44 D.C. Reg. 6426, 6434-6435. In the present case, the record contains a written
+determination by the contracting officer that Fort Myer is a responsible contractor and possesses the
+proper electrical contractor license required by the solicitation. We see no basis for disturbing the
+responsibility determination.
+
+        Regarding M.C. Dean’s second protest ground, that Fort Myer did not intend to use the Level II
+IMSA certified employee designated in its bid for contract performance, we agree with Fort Myer that
+the contract terms do not require it to use only that designated employee for work involving the traffic
+signal controller. What the contract requires is that the contractor retain an employee with the Level II
+IMSA credentials during the entire term of the contract and that at least one employee who is Level II
+IMSA certified be present whenever access is required to a traffic signal controller cabinet. (AR Ex. 1).
+
+        Finally, M.C. Dean claims that Fort Myer’s bid price is unrealistically low. The record does not
+show that Fort Myer’s bid is below the cost of performance. Even if the evidence supported such a
+finding, we have held that a bid price below the cost of performance is not objectionable for that reason
+alone. C.P.F. Corp., CAB No. P-0521, Jan. 12, 1998, 45 D.C. Reg. 8697, 8700. Whether the contract
+can be performed at a price below the cost of performance is a matter of bidder responsibility. We are
+satisfied from the record that the contracting officer has considered bid pricing when it determined Fort
+Myer to be responsible.
+
+                                           CONCLUSION
+       We have carefully considered each of M.C. Dean’s protest arguments. Having concluded that
+M.C. Dean has not shown that the District violated law, regulation, or the terms of the solicitation in
+evaluating Fort Myer’s responsibility and selecting it for award, we deny M.C. Dean’s protest.
+
+       SO ORDERED.
+
+DATED: July 30, 2002                                  /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Administrative Judge
+                             -4-   M.C. Dean, Inc., CAB No. P-0654
+
+
+
+CONCURRING:
+
+
+/s/ Lorilyn E. Simkins
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

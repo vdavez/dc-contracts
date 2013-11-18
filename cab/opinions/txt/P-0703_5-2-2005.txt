@@ -1,0 +1,201 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+Protest of:
+
+ENTERPRISE FLEET SERVICES                                      )
+                                                               ) CAB No. P-0703
+Under Solicitation No. POKT-2004-B-0080-CM                     )
+
+
+
+        For the Protester: Doug Blanchard, Account Executive, Enterprise Fleet Services. For
+District of Columbia: Howard Schwartz, Esq., Senior Assistant Attorney General and Talia
+Sassoon Cohen, Assistant Attorney General..
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative Judge
+Jonathan D. Zischkau and Administrative Judge Warren J. Nash, concurring.
+
+
+                                    OPINION AND ORDER
+                                     LexisNexis Filing ID 5733222
+
+
+        On October 19, 2004, the Office of Contracting and Procurement (“OCP”) solicited bids
+for a “requirements contract” (IFB No. POKT-B-2004-B-0080-CM (“Solicitation”)) on behalf of
+the Department of Public Works (“DPW”) for lease of sedans, vans and pickup trucks divided
+into line items for 10 types of gasoline and 10 types of alternative fuel vehicles. (Agency Report
+(“AR”) Ex. 1). The Solicitation estimated the District’s requirements for each of the 20
+categories of vehicles totaling 188 vehicles. Bids from four companies, including Enterprise
+Fleet Services (“Enterprise”), stating separate prices for each of the 20 separate vehicle types for
+the base and each of the two option years were opened and made public on November 19, 2004.
+On March 9, 2005, Enterprise protested an expected cancellation of the solicitation Enterprise
+asserted in its protest that cancellation of the solicitation was not warranted.
+
+        On March 28, 2005, 18 days after the protest was filed, the CPO did, in fact, determine to
+reject all bids and cancel the solicitation citing a reduction in estimated need from 42 to 19
+gasoline fueled vehicles and from 146 to 92 alternative fuel vehicles as the reason for the action.
+(AR Ex. 3). The contracting officer found that the District no longer had need for any vehicles in
+14 of the 20 line items. The estimated quantities for 4 of the remaining 6 vehicle types remained
+constant and increased for two vehicle types.
+
+       But for an inherently ambiguous term of the invitation which independently dictates
+cancellation of the solicitation, we would have agreed with Enterprise that the District should not
+have cancelled the entire solicitation.
+                                                        -2-             Enterprise Fleet Services, CAB No. P-0703
+
+
+                                                 DISCUSSION
+
+
+Cancellation
+
+        The Board's jurisdiction over this protest is founded on D.C. Code § 2-309.03(a)(1).
+D.C. Code § 2-303.07 provides that "An invitation for bids, a request for proposals, or other
+solicitations may be cancelled, or all bids or proposals may be rejected, only if it is determined in
+writing by the [Chief Procurement Officer] that the action is taken in the best interest of the
+District government." Our standard of review of a cancellation determination is well settled.
+An invitation for bids may be cancelled only if the CPO determines in writing that the action is
+taken in the best interest of the District government and there is a reasonable basis for
+cancellation. D.C. Code § 2-303.07 (2001); American Consultants and Management Enterprises,
+Inc. CAB No. P-0683, May 17, 2004. While cancellation of a solicitation is within the discretion
+of the CPO, that discretion is limited in an advertised procurement, as in this matter, because
+“[t]he cancellation of an IFB after bid opening tends to discourage competition because it results
+in making all bidders' prices and competitive positions public without award,” Singleton Electric
+Co., CAB No. P-411, Nov. 15, 1994, 42 D.C. Reg. 4888, 4893. The Board, following well
+established Federal procurement precedent, has interpreted the best interests of the District in
+canceling an advertised procurement to require a “compelling” reason for the cancellation. Id.
+The general rule is expressed in the Federal Acquisition Regulation:
+
+          Preservation of the integrity of the competitive bid system dictates that, after bids have
+          been opened, award must be made to that responsible bidder who submitted the lowest
+          responsive bid, unless there is a compelling reason to reject all bids and cancel the
+          invitation.
+
+48 CFR 14.404-1(a)(1).
+
+        The District asserts that the cancellation is supported by the contracting officer’s finding
+adopted by the CPO that the “District’s specifications changed regarding the amount and types of
+vehicles that the District currently requires for leasing.” AR at 3. Considering the solicitation in
+the aggregate, the contracting officer found that the number of gasoline fueled vehicles was
+reduced from 42 to 19 and the number of alternative fueled vehicles from 146 to 92. Although
+all of the solicitation’s individual line items specify vehicles, the Board believes that the line
+items are so dissimilar1 that the changed needs must be considered for each of the individual line
+items,2 not for the aggregate number of vehicles in the total solicitation, particularly since the
+individual line items were to be priced separately. This conclusion is further supported by the
+fact that the solicitation contains no minimum order requirement, allowing the District to place
+orders for single vehicles from individual line items at any time during the term of the contract.
+
+
+1
+    For example, 4 passenger subcompact sedans (item 6) and full-size cargo vans (item 7).
+2
+  In an analogous Federal vehicle procurement, the Comptroller General upheld “GSA[‘s] determin[ation] that its
+needs had changed and, as a result, elected to award the vehicles other than the subcompacts and cancel the
+requirement for the subcompacts.” Chrysler Corp., B-206943, Sept. 24, 1982, 82-2 Comp. Gen. Proc. Dec.¶271.
+                                                        -3-              Enterprise Fleet Services, CAB No. P-0703
+
+
+         Reduction of the estimated quantity required to zero for 14 of the line items clearly
+justifies cancellation of those items.3 On the other hand, there appears to be no support for
+cancellation of the four line items for which the estimated needs are unchanged. Resolicitation
+would permit rebidding for identical items for which bid prices have been made public. The
+increase in estimated quantity of the remaining two line items, gasoline full-size cargo vans (item
+8) from 4 to 7 and gasoline full-size, crew cab pick-up trucks (item 9) from 2 to 5 are
+insignificant for mass-market commercial vehicles.4 Allowing other bidders to undercut
+previously submitted sealed bids for substantially identical line items would not enhance
+competition and fair play and would appear to create an impermissible auction. See, C.P.F.
+Corp., CAB No. P-413, Nov. 18, 1994, 42 D.C. Reg. 4902. But for the inherent solicitation
+ambiguity discussed below, the Board would have found that the cancellation of line items 6-9
+and 12-13 are without reasonable basis.
+
+       In addition to the lack of need for certain vehicle types requested in the solicitation, the
+contracting officer found that the District had an additional need for three types of alternative
+fuel vehicles, totaling 42 additional vehicles, not included in the original solicitation,. Increased
+requirements do not support cancellation of an IFB after opening. 27 DCMR 1530.3 provides:
+
+        After the opening of a bid, an IFB shall not be canceled and resolicited due solely to
+        increased requirements for the items being procured. Award shall be made on the initial
+        IFB and the additional quantity shall be treated as a new procurement.
+
+If additional requirements for items included in a solicitation cannot support cancellation,
+cancellation clearly cannot be justified by the need for items not included in the original
+solicitation.
+
+Solicitation Defects
+
+       Upon review of the solicitation, the Board concludes that there are conflicting provisions
+with regard to the term of the contract requiring correction before a valid contract can be formed.
+Section F.1 entitled “Term of Contract” states:
+
+        F.1.1 The term of this contract shall be for a period of three (3) years from the date of
+        award specified on page 1 of the contract.
+
+        F.1.2 The lease term for each vehicle ordered during the first (1st) year shall be for
+        thirty-six (36) months from the date the vehicle is accepted by the District. Vehicles
+
+3
+  27 DCMR §1530.4(c) specifically authorizes cancellation of an invitation after bid opening when “[t]he supplies
+or services being contracted for are no longer required.”
+4
+  Orders in excess of the estimated quantity may be placed under a requirements contract. The instant solicitation
+provides:
+
+        . . . [t]he estimated quantities stated [in the solicitation] reflect the best estimates available. The
+        estimate shall not be construed as a representation that the estimated quantity will be required or
+        ordered, or that conditions affecting requirements will be stable. They shall not be construed to limit
+        the quantities which may be ordered from the Contractor by the District or to relieve the Contractor
+        of his/her obligation to fill all such orders.” AR Ex. 3, §B.3.
+                                                  -4-             Enterprise Fleet Services, CAB No. P-0703
+
+
+       leased under the second (2nd) year shall be for a 24 months lease term. Vehicles leased
+       under the third (3rd) year shall be for 12 months only. The delivery order, issued to the
+       contractor, will stipulate whether the lease is for a 12, 24 or 36 months lease term.
+
+Section B – SERVICE/DESCRIPTION/PRICE appears to be generally in agreement with
+Section F, except that it refers to the “first base year of the contract.” Section B.1 provides:
+
+       B.1 The Government of the District of Columbia, Office of Contracting and Procurement
+       (OCP) on behalf of the Department of Public Works (the District) is seeking a contractor
+       to provide leased vehicles. The District intends to retain vehicle leased during the first
+       base year of the contract for a period of thirty-six (36) months lease term. Vehicles leased
+       during the second year shall be retained for a period of twenty-four (24) months lease
+       term, and vehicles leased during the third year shall be for a twelve (12) months lease
+       term only.
+
+The term “base year” is normally used in connection with a one year contract followed by
+options. Indeed, the solicitation requests price quotations at the end of Section B only for a one
+year contract term with two option years, as opposed to a three year contract. Similarly, the
+evaluation clause states that:
+
+       F.2.3 The government will evaluate bids for award purposes by adding the total
+       price for all options to the total price for the base year requirement. Evaluation of
+       options will not obligate the government to exercise the option(s).
+
+If the contract were a three year contract, as the term clause clearly states, it would be improper
+to consider only the first of three years in the evaluation. Every contract must, at a minimum,
+establish the price, quantity and length of contract.         The contradictory clauses make it
+impossible for any definitive determination of the length of the contract.
+
+                                            CONCLUSION
+
+        Although the reasons asserted by the contracting officer do not support the canceling the
+solicitation, we conclude that the solicitation must be cancelled in order to correct the
+contradictory provisions dealing with the term of the contract.
+
+       SO ORDERED.
+
+
+May 2, 2005                                                            /s/ Matthew S. Watson
+                                                                 Administrative Judge
+
+
+       /s/ Jonathan D. Zischkau
+Chief Administrative Judge
+
+
+      /s/ Warren J. Nash
+Administrative Judge
+

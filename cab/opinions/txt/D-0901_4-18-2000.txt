@@ -1,0 +1,464 @@
+                            •
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+                                                                          •
+APPEAL OF:
+
+URBAN SERVICE SYSTEMS CORPORATION                                 )
+                                                                  )       CAB No. D-901
+       Under Contract No.0120-RD-PW                               )
+
+
+      For the Appellant, Urban Service Systems Corporation, Stuart C. Law, Esq., Law and
+Murphy. For the Government, Agnes M. Rodriguez, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Jonathan D. Zischkau, concurring.
+
+
+                                        OPINION AND ORDER
+
+        This matter comes before the Board on cross motions for summary judgment as to
+entitlement. The motions request the Board to interpret the terms of the contract.
+
+                                            BACKGROUND
+
+        Urban Service Systems Corporation ("Urban" or "Appellant") was awarded a five-year
+contract to provide trash containers and trash pick-up service at designated locations for 14
+participating District agencies. (Contract, Special Conditions, ~~ 1 and 17). I By its terms, the
+contract was intended to be "a requirements contract with unit firm fixed price based on charge for
+each pick-up.,,2 (Id. at ~ 20)
+
+      The services to be provided under the Contract were divided into 12 "Aggregate Award
+Groups" which could be individually awarded. Prospective bidders were informed that for each
+Aggregate Award Group:
+
+
+        Award, if made, will be to a single bidder in the aggregate for those groups of items
+        indicated by 'Aggregate Award Group' herein. Bidder must quote unit prices on
+        each item within each group to receive consideration. In the event no bids are
+
+
+
+
+        IThe solicitation was initially advertised as an invitation for bids. (IFB No. 8284-AA-23-0-8-RD).
+The IFB was subsequently canceled on January 19, 1989, and a negotiated contract was executed pursuant
+to 25 DCMR § 1601 on January 20, 1989.
+
+        2   By implication, the containers are provided without charge.
+                           •                         -2-
+                                                                           •
+                                                                    URBAN SERVICE SYSTEMS CORP, CAB No D-901
+
+
+        received on all items within the Aggregate Group, award will be made to the lowest
+        bidder meeting specifications, quoting on the greatest number of items therein. 3
+
+(ld at ~28).
+
+        Award Groups II, III, IV and V required 2, 4, 6 and 8 cubic yard trash containers,
+respectively, to be placed at locations within the District. Each item within an award group specified
+a separate location for placement of identically sized containers, however, the number of containers
+varied between items. Urban was awarded all award groups with the exception of A ward Group V,
+8 cubic yard containers, which was awarded to Consolidated Waste Industries ("CWI"). This appeal
+concerns A ward Group IV, entitled "Containerized Collection - 6 Cubic Yard Containers."
+
+         As stated above, although awards were made for entire award groups, each bidder was
+instructed to quote a price for "each item" within the group, that is, a unit price per pick-up at each
+separate location designated as separate items within an aggregate group. Paragraph 37.C.
+specifically directs, with respect to Award Groups III, IV and V, that "[q]uoted unit prices must be
+inserted in the appropriate blanks of the appendix." Appendix IV relating to Award Group IV
+contained 340 separate items. Each item specified a location within the District for placement of
+6 cubic yard trash containers. In addition, each item specified a pickup schedule for the containers
+placed at the location designated in the item, requiring from 1 to 5 pickups per container, per week.
+The appendix contained 340 separate blanks, each requiring entry of an individual "unit price per
+pick-up.,,4 Blanks spaces were only provided to enter prices for the first year of the contract. The
+IFB stated that "[t]he unit price quoted by the contractor for each item or service shall be the same
+for all fiscal years." (ld at ~ 37.F.) The actual price to be paid for services in succeeding years was
+determined by application of a price adjustment clause. (ld at ~ 38).
+
+       Although each of the items within a single award group required identical sized containers,
+there was no requirement that the unit price for each item within the award group must be identical.
+Indeed, if a single price for all containers of a particular size were intended, there would have been
+no need to require each bidder to enter 340 individual prices for the separate items within the Award
+Group IV.5
+
+
+
+
+        3 Since bidders "must quote a price on each item in the award group to receive consideration," the
+application of the last sentence is unclear. It would not appear to be possible to consider a bid which did not
+quote a price on every item. Nevertheless, Urban did quote a price on every item within Aggregate Award
+Group IV.
+
+        4 It appears that the "unit price per pick-up" for each item is intended to be a unit price per pickup
+
+per container consistent with stated price evaluation provision. "The total unit price per pick-up charge is
+arrived at by multiplying the charge per container pick-up x five years x the number of containers x the
+number of annual collections for each location."
+
+        5  Although Urban bid identical amounts for each item within Award Group IV, a separate price was
+stated for each separate item.
+                            •                        -3-
+                                                                          •
+                                                                    URBAN SERVICE SYSTEMS CORP., CAB No D-901
+
+
+       Award Group VI specified 30 cubic yard containers, but differed significantly from Award
+Groups III - IV. Each item in Award Groups III - V designated a specific location for placement of
+each container. Item 1b of Award Group VI, however, provided for placing containers, as required,
+at undetermined locations. The item required containers at "various locations" and states:
+
+        The Department of Public Works requires 30 Cubic Yard Containers at various
+        construction sites during the year. There may be more than one of these projects
+        going at anyone time.
+
+      ~ Award Group VIII differed from the other award groups in that it included a mix of20, 25,
+30 and 40 cubic yard containers. In addition, pick-up schedules were not stated for each item, as is
+the case in other groups. Certain of the items were on a "Per Call Bases [sic] Only."
+
+        After final negotiations, Urban sent a letter agreeing:
+
+        ... that if the District's requirements henceforth, calls [sic] for additional containers
+        in Award Group IV (six cubic yard containers), Urban Services will provide 8 cubic
+        yard containers, but will bill the District at the 6 cubic yard unit price of $14.14 per
+        pickup.
+
+                Finally, Urban Services agrees that if the District decides to reduce the
+        quantities in any of the Award Groups I through IV and VI through XI, by replacing
+        this service and providing Super Cans to service these locations, Urban Services'
+        price for the Super Can collection and disposal service is $1.05 per pick-up.
+
+(Complaint, Exhibit F). The letter, which was accepted by the District, further provides that "[t]his
+letter shall be deemed to be a part of the Contract as if fully written therein." (Id.).
+
+         After Urban began performance, the District determined that the trash generated at certain
+of the locations specified in Award Group IV for which Urban was providing 6 cubic yard containers
+required 8 cubic-yard containers. 6 For those locations, the District orally directed Urban to remove
+the containers it had placed under its Group IV contrace and directed the A ward Group V contractor
+to furnish 8 cubic yard containers under its contract at the same locations. 8 Urban protested these
+terminations to the Contracting Officer asserting that it should be permitted to furnish and service
+collections in 8 cubic-yard containers based on the District's agreement that Urban could substitute
+the larger 8 cubic yard containers for the required 6 cubic yard containers. The Contracting Officer
+
+
+
+        6   No records are available documenting the basis of the determinations.
+
+        7 Since the Board has determined that the District did not have the right to transfer this work, it is
+not necessary to determine whether oral, as opposed to written, notice was proper.
+
+        8  In some instances, an 8 cubic yard container which Urban had placed with the approval of the
+District was replaced by a similar 8 cubic yard CWI container.
+                           •                      -4-
+                                                                       •
+                                                                 URBAN SERVICE SYSTEMS CORP., CAB No D-901
+
+
+responded that the agency's agreement to permit Urban to use 8 cubic-yard containers in place of the
+specified 6 cubic-yard containers (as long as the District was only charged the unit rate of a six
+cubic-yard container) was made as an accommodation to Urban, which had an excess inventory of
+eight-cubic-yard containers. (Complaint, Exhibit C ,2).
+
+                                            DISCUSSION
+
+         The Appellant contends that it was entitled to be the sole provider of trash collection services
+at the locations listed in Award Group IV and its replacement by CWI at any of those locations was
+improper. In essence, Appellant contends that it had a requirements contract for the trash collection
+needs of the District at each of the locations specified in Award Group VI. By directing Appellant
+not to place and service containers at certain locations, the District breached that contract.
+
+       The District contends that Urban, under Award Group IV, was not entitled to be the sole
+provider of trash container services at the specified locations, but rather that Urban was entitled to
+provide for the requirements of the participating District agencies for 6 cubic yard capacity trash
+containers anywhere in the District. As an accommodation to Urban, the District contends that it
+agreed to allow Urban to provide over capacity trash containers. It is the District's position that, if,
+at a particular location originally specified for a 6 cubic yard capacity container, the District
+determined that 8 cubic yard capacity trash containers were required by a participating agency during
+the contract term, the District was required to transfer that item from Urban and place the item with
+the Award Group V contractor, which the District contends was solely entitled to provide
+requirements for 8 cubic yard capacity containers, regardless ofthe fact that Urban agreed to provide
+an 8 cubic yard capacity at no additional cost.
+
+       Although seemingly straightforward, the terms of this contract are ambiguous because
+various provisions of the IFB may be interpreted to be contradictory. Further, administration was
+inconsistent with the interpretation the District now offers of the contract's terms.
+
+        The Board must read the language of a particular contractual provision in the context of the
+entire agreement, United States v. Johnson Controls, Inc., 713 F.2d 1541, 1555 (Fed.Cir.1983), and
+construe the contract so as not to render portions of it meaningless. Fortec Constructors v. United
+States, 760 F.2d 1288, 1292 (Fed.Cir.l985). Thus, we must, if possible, apply an interpretation that
+accords a reasonable meaning to each of the provisions. Hal-Gar Mfg. Corp. v. United States, 351
+F.2d 972, 979 (1965). Finally, where an agreement contains general and specific provisions which
+are in any respect inconsistent, "the provision directed to a particular matter controls over the
+provision which is general in its terms." Hills Materials Co. v. Rice, 982 F.2d 514, 517
+(Fed.Cir.1992).
+
+       The District's position that the Group IV awarded to Urban establishes a requirements
+contract for the provision of 6 cubic yard containers required anywhere in the District, and that the
+contract awarded to CWI for Award Group V establishes a requirements contract for 8 cubic yard
+containers required by participating agencies anywhere in the District is unsustainable. Not only did
+the awards to Urban and CWI not state such terms, the administration of the contracts was not
+consistent with such an interpretation.
+                          •                      -5-
+                                                                      •
+                                                               URBAN SERVICE SYSTEMS CORP, CAB No D-901
+
+
+         No contract exists unless it states all essential terms. See Owen v. Owen, 427 A.2d 933,938
+(D.C. 1981); Second Genesis, Inc. CAB No. 1100, Feb. 4,2000, 11 P.D. 7843. The District did not
+solicit and Urban's contract does not contain a price for placement and servicing of a 6 cubic yard
+container at any location in the District. The Urban contract only contains prices for placement of
+containers at specific locations. If the price offered by Urban was to provide and service a 6 cubic
+yard trash container anywhere in the District, the IFB would have requested a single price for
+placement and collection of such a container. Instead, the contractor was required to enter a separate
+price for each location as a separate item. This was not a minor difference or oversight. Bidders
+were required to enter 340 separate unit prices for Award Group IV alone. As written, prices are
+only stated for trash collection at the locations specifically listed in the individual items of each
+award group. If one were to accept the District's interpretation that it could place orders under
+Award Group IV for a 6 cubic yard container anywhere in the District, it is not clear what p1."ice
+would be paid, since there was no price offered, or accepted, for such a generic placement. In the
+absence of a price to be charged for 6 cubic yard containers other than at the specified locations, the
+contract, without amendment cannot be used to meet such requirements. Award Group IV cannot
+be interpreted as creating a requirements contract for 6 cubic yard containers.
+
+        Although the contract for Award Group V is not before the Board, its terms, except for the
+size and placement of the containers is identical to Award Group IV. The same paragraph soliciting
+bids for Award Group IV is applicable to Award Group V. (Contract, Special Conditions, ~ 37.C.).
+Absent a price term for 8 cubic yard containers at unspecified locations, the contract with CWI
+similarly cannot be interpreted as a requirements contract for 8 cubic yard containers to be placed
+at locations not specified in the contract.
+
+        Had the District intended to enter into a requirements contract for placement of either 6 or
+8 cubic yard containers at any location in the District to be ordered during performance, it certainly
+could have done so as it did in the following Award Group, VI, which requested a price for 30 cubic
+yard containers at "various" locations to be determined during performance. (Contract, Services,
+Award Group VI, lb.).
+
+         From the very start, the District does not appear to have treated any portion of the contact
+awarded to Urban as a requirements contract. A "Requirements Contract ... provides for the filling
+of all actual purchaser requirements of designated District agencies for specific supplies or services
+during a specified contract period, with deliveries to be scheduled by placing orders with the
+contractor as required." 27 DCMR § 2499.1 9 The District did not place any orders under what it
+now claims was a requirements contract. The District assumed that the locations set forth in the
+appendices for which individual prices were required in the bid and incorporated into the contract
+award were the specifications of a definite quantity contract. Even if one were to treat the items in
+the appendix as orders under a requirements contract for the 6 cubic yard containers, the direction
+to cease providing the services which were then placed with the Award Group V contractor did not
+conform with applicable regulations for termination of orders placed under a requirements contract.
+
+
+
+        9 See also 27 DCMR § 2103.5, "The contracting officer shall procure from ... [a requirements]
+contract by placing orders directly with the contractor."
+                              •                   -6-
+                                                                       •
+                                                                URBAN SERVICE SYSTEMS CORP., CAB No D-901
+
+
+ In terminating an order under a requirements contract, the District should first seek a no-cost
+termination. 27 DCMR § 2105.4. By complaining to the Contracting Officer of the oral transfers
+of individual items to CWI, Urban clearly rejected any suggestion of a no-cost termination. In the
+absence of agreement to a no-cost termination, the Procurement Regulations require termination of
+an order for convenience. (ld. at §21 05.3). However, the District denies that it terminated any part
+of the contract. (Answer to Interrogatory 18, p. 14). The District acted in exactly the reverse manner
+of a requirements contract. Instead of placing orders for services under the contract, the District
+assumed that all estimated services were ordered, and then placed negative orders against the
+contra,j::t to terminate portions.
+
+         Other aspects ofthe record are also not consistent with the District's position. Although most
+actions under this contract were oral, Action No.1, which was in writing, further demonstrates that
+the District from the very start did not treat the contract as a requirements contract. The contract was
+entered into on January 20, 1989. Action 1 was signed April 4, 1989.10 Action 1 purports to delete
+an individual item from Award Group III (4 cubic yard containers) of Urban's contract pursuant to
+the "CHANGES clause" (Standard Contract Provisions for Supply and Services, ~18). Ifthe District
+had considered each Award Group within the contract to be a requirements contract for the particular
+size container, action under the Changes clause would be unnecessary. A change would be required
+only if the contract were a definite quantity contract. Under a requirements contract the absence of
+a need for the item merely results in failure to place order, not a change deleting the item.
+
+        Urban's position is more consistent with the terms of the contract than the District's position.
+In essence, it is the position of the Appellant that each item within the award group constitutes a
+requirements contract to pick up containerized trash at a particular location, as necessary. Consistent
+with this interpretation, Urban agreed to provide the larger containers at no additional cost and to
+offer a lower price if super-cans were used at a specific location.
+
+        Treating each item as requiring the District to place and the contractor to accept all orders
+for trash collection at specific locations gives meaning to the general provision stating that a
+requirements contract is intended.
+
+         This interpretation also gives meaning to the 340 specific price provisions for each individual
+item in Award Group IV and allows for consistent application of the clear requirements type terms
+of Award Groups VI and VIII. Since unit prices were established on a "per container, per pick-up"
+basis, the prices could be applied to orders to place containers at varying locations and with varying
+pick-up schedules in Groups VI and VIII..
+
+                                           CONCLUSION
+
+     For the reasons stated, the District's Motion for Summary Judgment as to Entitlement is
+DENIED and the Appellant's Motion for Summary Judgment as to Entitlement is GRANTED.
+
+
+
+
+        10   No effective date is given.
+                            •                       -7-
+                                                                         •
+                                                                  URBAN SERVICE SYSTEMS CORP., CAB No. D-901
+
+
+       The Board finds that the most reasonable interpretation of Award Group IV of Urban's
+contract, giving the greatest consistent meaning to all provisions of the contract, is that it is a
+requirements contract for the trash collection needs of the participating agencies at each of the
+locations included in the individual items within each award group.
+
+        The Board further finds that by transferring locations served by Appellant under A ward
+Group IV to CWI under Award Group V, the District breached its contract with Appellant.
+Appellant Urban Service Systems Corporation is entitled to damages for breach equal to the contract
+price for the items transferred I I for the period of time Urban was excluded from providing the
+servic~, less quantifiable cost savings to Urban as a result of not being required to perform the
+servIces.
+
+        Within 14 days of the date of this order, the appellant shall serve on the District a
+computation of damages in accordance with this opinion. Within 21 days thereafter, the District
+shall advise the appellant of specific disagreements with appellant's computation of damages and
+serve on appellant a draft consent order stating damages of which the District has no disagreement.
+No later than 45 days after the date of this opinion, the parties shall file with the Board a joint
+statement of any continuing disagreements as to computation of damages and a consent order for full
+or partial damages in this matter.
+
+
+        SO ORDERED.
+
+
+
+DATED: April 18, 2000
+                                                 MATTHEW S. WATSON
+                                                 Administrative Judge
+
+
+CONCURRING:
+
+
+
+cXf;.
+ LORI~ E.     0r'
+                SIM      ~40
+Chief Administrative Judge
+
+
+
+
+           II The District has admitted that 29 items were transferred from Urban. (Answer to Interrogatory
+ 7, p. 6). Unless the District can present some documentary evidence as to the dates Urban ceased servicing
+ the locations, the Board will accept Urban's records of the date of breach for each item.
+Facsimi.
+
+-
+T RAN S MIT T A L.-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __                         •
+To:               Stuart C. Law, Esquire                         Fax#: (301) 352-9742
+
+
+                  Agnes M. Rodriguez, Esquire                    Fax#: (202) 727-0431
+
+
+Re:               CAB No. D-901, Appeal of Urban Service Systems Corporation
+                  Opinion and Order
+
+
+Pages:            9, including cover sheet.
+
+
+Date:             April 18,2000
+
+
+
+
+                   The information contained in this facsimile communication is intended only for the use of the
+individual(s) to whom it is addressed and may contain information that is privileged and confidential. If the reader
+of this message is not the intended recipient, you are hereby notified that dissemination, distribution, or copying ofthis
+communication is strictly prohibited, If you have received this communication in error, please notifY us immediately
+by telephone at (202) 727-6597. Thank You.
+
+
+                                                                                                        From the desk of....
+                                                                                                                      ,
+                                                                                             MIAJ. House
+                                                                                             Contract Appeals Board
+                                                                                             717 14th Street, N.W., Suite 430
+                                                                                             Washington, D.C. 20005
+               IOH VERIFICATION
+
+                                            TIME   04/18/2000 15:17
+                                            NAME   DC CAB
+                                            FAX    2027273993
+                                            TEL    2027275597
+
+DATE, TIME                    04/18 15:10
+FAX NO./HAME                  93013529742
+DURATIOH                      00:05:05
+PAGE(S)                       09
+RESULT                        OK
+MODE                          STAHDARD
+                              ECM
+                 ISSION VERIFICATImi   ClL"!::'r1ClT.
+
+
+
+                                                        TIME   04/18/2000 16:23
+                                                        NAME   DC CAB
+                                                        FAX    2027273993
+                                                        TEL    2027275597
+
+ DATE, TIME
+ FAX NO./~~AME
+                                   04/18 16:18
+                                   97270431
+                                                                                  I
+ DURATION                          00:05:34                                       I'
+ PAGE(S)                           09
+ RESULT
+ MODE
+                                   OK
+                                   STANDARD
+                                   ECM
+                                                                                  J
+'-----_._--------
+                        '   •.                                       •
+                GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                       CONTRACT APPEALS BOARD
+                                  717 14th Street, N.W., Suite 430
+                                      Washington, D.C. 20005
+                                          (202) 727-6597
+
+
+                                     Date: April 18, 2000
+
+
+
+TO:          Stuart C. Law, Esquire
+             4012 William Lane
+             Bowie, MD 20715
+
+
+             Agnes M. Rodriguez, Esquire
+             Assistant Corporation Counsel
+             441 4th Street, N .W "' 6th Floor South
+             Washington, D.C. 20005
+
+
+SUBJECT:     CAB No. D-901, Appeal of Urban Service Systems Corporation
+
+
+             Attached is a copy of the Board's opinion and order in the above-referenced matter.
+
+
+
+
+                                                       Clerk
+
+
+
+
+Attachment
+

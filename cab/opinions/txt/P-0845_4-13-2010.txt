@@ -1,0 +1,676 @@
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+      CONTRACT APPEALS BOARD
+
+
+
+               ________________
+
+
+
+                 EXHIBIT 3
+                       to
+             District of Columbia
+              Motion to Dismiss
+
+    Opinion of D.C. Contract Appeals Board,
+     Goel Services, Inc., CAB No. P-0804,
+               February 2, 2010
+
+               ________________
+
+
+
+
+                   Protest
+                     of
+         Urban Service Systems Corp.
+              CAB No. P-0845
+          DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+GOEL SERVICES, INC.                                             )
+                                                                )      CAB No. P-0804
+Under IFB No. DCKT-2008-B-0160                                  )
+
+      For the Protester: Paul V. Waters. Esq., Erin A. Behbehani, Esq. For the District of
+Columbia Government: Alton Woods, Esq., Janice N. Skipper, Esq., Assistant Attorneys General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Jonathan
+D. Zischkau, concurring.
+
+                                              OPINION
+                                           Filing ID 29359455
+
+        Goel Services, Inc. (“Goel”) protests a nonresponsibility determination made by the
+contracting officer regarding the award of a contract to provide hauling and disposal of combustible
+and non-combustible municipal solid waste. Goel alleges that it is responsible and that the District
+did not comply with the provisions of the District’s procurement regulations in making its
+responsibility determination. Goel requests that the Board overturn the contracting officer’s
+determination of nonresponsibility and direct the District to award the contract to Goel, the bidder
+with the lowest evaluated price. The District asserts that the contracting officer properly determined
+Goel nonresponsible because Goel failed to identify sufficient equipment (tractors and trailers) to
+perform the contract; failed to submit verifiable and reliable references of current and past
+performance; and failed to develop a realistic work plan for transporting trash to the landfill. After
+carefully considering the documentary record and the testimony of the witnesses, we conclude that
+the contracting officer did not violate law, regulation, or the terms of the solicitation in determining
+Goel to be nonresponsible. Accordingly, we deny the protest.
+
+                                          BACKGROUND
+
+         On December 2, 2008, the Office of Contracting and Procurement (“OCP”), on behalf of the
+Department of Public Works (“DPW”), issued IFB DCKT-2008-B-0160, in the open market, for a
+contractor to haul and dispose of combustible and non-combustible municipal solid waste including
+tires and white goods. (Agency Report (“AR”) at 3; AR Ex. 1; District’s Findings of Fact and
+Conclusions of Law (“District Brief”) at 2). The IFB required the contractor to (1) transfer the solid
+waste from the Fort Totten and Benning Road solid waste transfer stations and dispose of it at a
+licensed solid waste disposal facility, (2) enter into disposal agreements with a solid waste disposal
+facility and a metal recycling facility, and (3) transport leaves to a composting facility each year
+from November through January. OCP anticipates awarding a multiyear contract for a period of 5
+years. The District estimated its waste tonnage to be 1,021,000 tons per year and its leaf tonnage to
+be 8,000 tons per year. (AR at 3; AR Ex. 1).
+
+       Section L.15 of the IFB sets forth the following standards of responsibility:
+
+       L.15     Standards of Responsibility
+                                              -2-                     Goel Services, Inc., CAB No. P-0804
+
+
+
+
+               The prospective contractor must demonstrate to the satisfaction of the
+               District the capability in all respects to perform fully the contract
+               requirements, therefore, the prospective contractor must submit the
+               documentation listed below, within five (5) days of the request by the
+               District.
+
+        L.15.1 Evidence of adequate financial resources, credit or the ability to obtain such
+               resources as required during the performance of the contract.
+
+        L.15.2 Evidence of the ability to comply with the required or proposed delivery or
+               performance schedule, taking into consideration all existing commercial and
+               governmental business commitments.
+
+        L.15.3 Evidence of the necessary organization, experience, accounting and
+               operational control, technical skills or the ability to obtain them.
+
+        L.15.4 Evidence of compliance with the applicable District licensing and tax laws
+               and regulations.
+
+        L.15.5 Evidence of a satisfactory performance record, record of integrity and
+               business ethics.
+
+        L.15.6 Furnish evidence of the necessary production, construction and technical
+               equipment and facilities or the ability to obtain them.
+
+        L.15.7 Evidence of other qualifications and eligibility criteria necessary to receive
+               an award under applicable laws and regulations.
+
+        L.15.8 If the prospective contractor fails to supply the information requested, the
+               Contracting Officer shall make the determination of responsibility or
+               nonresponsibility based upon available information. If the available
+               information is insufficient to make a determination of responsibility, the
+               Contracting Officer shall determine the prospective contractor to be
+               nonresponsible.
+
+(AR Ex. 1; see 27 DCMR § 2200.4).
+
+        OCP issued Amendment No. 3 to the IFB on January 16, 2009, which provided in relevant
+part:
+
+        1) Add the following paragraph to Section C.1, Scope: The use of sub-contracted
+        vehicles and labor shall not exceed 20% of the total equipment and labor used to
+        haul the solid waste from the District’s transfer stations to the final disposal sites.
+        The District may choose to direct the contractor to haul to: (a) Fairfax County (b)
+        the Contractor’s licensed disposal facility or (c) a combination of both. . . .
+                                              -3-                     Goel Services, Inc., CAB No. P-0804
+
+
+
+
+(AR Ex. 2). In section L.1.2 of the IFB, the District set forth its intention to award a single contract
+to the responsive, responsible bidder with the lowest price. (AR Ex. 1).
+
+       On January 23, 2009, OCP opened thirteen bids. The three lowest bidders were Goel,
+Covitta, and Urban Services. The bids are set forth below in order from lowest to highest bid price
+and evaluated price after application of local and small business preference points, if any:
+
+                                               Actual Bid Price                Evaluated
+                                               5 year Multiyear                Price
+
+       Goel                                    47,576,600                      41,867,408
+       Covitta                                 43,070,000                      43,070,000
+       Urban Services                          49,755,000                      43,784,400
+       Waste Recycling Services                49,952,459                      43,958,156
+       TAC Transport                           51,083,600                      48,018,584
+       AF Developmental/F&L                    56,528,175                      49,744,794
+       Nets, Inc.                              55,117,500                      55,117,500
+       Drew Transport Services                 55,253,750                      55,253,750
+       Consolidated Waste                      55,782,500                      55,782,500
+       Specialty Transportation                56,901.250                      56,901,250
+       Ibex, LLC                               57,720,000                      57,720,000
+       BM Trucking, LLC                        61,300,000                      61,300,000
+       Walson Partners                         82,297,000                      82,297,000
+
+(AR Ex. 3). Goel received 12 preference points under the Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005, D.C. Code § 2-218.01. Goel was the bidder
+with the lowest evaluated price after application of preference points.
+
+        Piyush J. (“PJ”) Goel is the president, CEO, and sole owner of Goel Services, Inc. (Tr. 114,
+193; Goel Ex. E, Part 1). Prabodh K. (“PK”) Goel is PJ Goel’s brother and although he states that he
+is not an owner of Goel Services (Tr. 5), he was Goel Services’ Project Manager. (AR Ex. 22). He
+states that he was tasked to help prepare the bid, prepared all of the responsibility data, and was
+involved with the bid from the beginning. (Tr. 5; AR Exs. 15, 16, 20, 21). PK Goel stated that he is
+also employed by Delaware Cornerstone Builders (“DCB”). (Tr. 5). PJ Goel testified that PK Goel
+spent about 75 percent of his time with Goel Services and 25 percent of his time with the “other
+company” (Tr. 187) which we find more likely than not refers to DCB. Regarding that other
+company, PJ Goel testified that PK Goel was the sole owner and CEO. (Tr. 187-188). Kailash
+(“KC”) Goel, the father of PJ and PK Goel, is listed as the Project Manager (Alternative) for Goel
+Services. (Tr. 197-198; AR Ex. 22).
+
+        OCP sent the three lowest bidders its standard Request for Responsibility Determination
+Data (“RDD”) form on January 27, 2009. The form requested that Goel provide a “Listing of
+current contracts relative to the commodity or services to be provided within the last three (3) years”
+and a “Listing of expired or terminated contracts, within the last two years relative to the commodity
+or services to be provided.” (AR Ex. 5). Although the District originally requested the three lowest
+                                              -4-                     Goel Services, Inc., CAB No. P-0804
+
+
+bidders to return the completed form by February 3, 2009, Goel requested a one day extension which
+was granted by OCP. After reviewing the Goel data submission, OCP requested additional data on
+March 9, 2009. (AR Ex. 6). Goel submitted additional clarification on March 16, 2009. (Protest
+Ex. G, Part 1).
+
+        Because OCP could not establish who owned the equipment Goel proposed to use for the
+contract, OCP requested that Goel provide additional clarification. On March 26, 2009, the
+contracting officer sent Goel an email requesting ownership information for the trailers Goel
+intended to use during contract performance. (AR Ex. 7). In reply, Goel stated that the trailers were
+owned by Covitta, another bidder, but that Goel was leasing the equipment from EnviroSolutions.
+On April 9, 2009, OCP’s Mr. Chandy requested that Goel provide “a copy of the lease agreement
+executed between EnviroSolutions and the owners of the equipment.” (AR Ex. 15). In response,
+Goel on April 17, 2009, provided a letter apparently signed by John Delgadillo on behalf of
+Delgattu, Inc., Covitta, Inc., and John Delgadillo providing “confirmation that the [69] trailers listed
+on the following table are under lease to EnviroSolutions from June 1, 2009 to July 31, 2014. Please
+note the terms of this lease agreement are considered to be confidential.” (AR Ex. 10). A copy of
+the lease was never provided to OCP. OCP, DPW and Solid Waste Management Administration
+representatives conducted a site visit on April 20, 2009, at Goel’s ETW site in Upper Marlboro and
+found:
+
+       An estimated total between 28-30 trailers were on site for review;
+
+       Positive -
+              7 walking floor trailers were available for review
+              21 tipper trailers were available for review
+              Site good for staging or parking trailers
+       Negative –
+              Tags for all 30 trailers not registered in DC (no tax).
+              6 walking floor trailers were damage.
+              Tipper trailers could not be properly tested to determine effective usage.
+              Tractors used at site did not belong to Goel.
+              Company Goel plan to get tractors from will not have 30 tractors available
+              immediately.
+              Company Goel plan to get tractors from DPW do not know if all tractors will
+              be compatible to all trailers reviewed.
+              Drivers present were independents and did not drive for Goel.
+              Because of rain weather many trailers were available to review, would the
+              same had occurred if the weather had been clear.
+
+(AR Ex. 11). Goel provided a letter from two truck dealers offering to sell tractors to Goel. (AR Ex.
+19; Protest Ex. G, Part 1).
+
+        In response to the RDD request for references, Goel provided to OCP a list of five current
+contracts: Solid Waste Transfer & Recycling; Transfer Station & Processing Facility; Metro DC
+Facility & Disposal; Contract # 009759, and; Transportation & Disposal Services, and; five prior
+contracts: Andrews AFB; National Naval Medical Center; Department of the Interior; Mary Switzer
+                                              -5-                     Goel Services, Inc., CAB No. P-0804
+
+
+Building; and Yorktown Naval Station. (District Brief Ex. 29).
+
+        Starting on April 2, 2009, Yorjai Chandy, the purchasing agent/contract specialist, conducted
+a reference check on the five current and five past contract references provided by Goel in its initial
+RDD responsibility submission. (Tr. 261-265; AR Ex. 4 at 3-4; AR Ex. 13 at 2-5). Mr. Chandy
+searched websites in an effort to confirm the information provided to the District by Goel. (Tr. 265).
+The sources Mr. Chandy used for researching the references that Goel listed in its RDD response are
+noted in the Contract Specialist Notes, Memorandum to the File, and the contracting officer’s letter
+to the DSLBD. (AR Ex. 4 at 3-4; AR Ex. 17, at 5-8; AR Ex. 13, at 2-5). Mr. Chandy’s reference
+check reflected that Marc Shaener (reference entitled “Contract #009759”), Bob Gretz (“Transfer
+Station & Processing Facility” – revealed at the hearing to refer to Curtis Creek Recovery, LLC),
+and Ernie DeCasper (“Solid Waste Transfer & Recycling”), listed as current contract references for
+Goel, are employees of EnviroSolutions. (AR Ex. 4 at 3; AR Ex. 17, at 5-6; District Ex. 24). During
+the hearing, Shaener testified that all three references were to companies which were subsidiaries of
+EnviroSolutions. Goel did not reveal in the one-page RDD reference submission to the District the
+fact that the references were affiliated with EnviroSolutions. That is an important omission because
+EnviroSolutions by virtue of the intended lease arrangement with Goel had a significant financial
+interest in the success of Goel in obtaining the contract award. The two other current contract
+references, Kevin Dockett (“Metro DC Hauling & Disposal”) and Bernie Dutz (“Transportation &
+Disposal Services”), were subcontractors for Goel, not owners/firms that had contracted Goel to
+perform services. (Tr. 123-124; AR Ex. 17, at 5-6; AR Ex. 4 at 3). Again, there was no indication
+in the RDD reference submission to this fact. Goel listed Susan Kingsbury as the person to contact
+for two references identified as “National Naval Medical Center” and the “Mary Switzer Building.”
+(District Brief Ex. 29; AR Ex. 4 at 3; AR Ex. 17 at 7-8; Tr. 266-268). Mr. Chandy testified
+respecting his efforts to contact Ms. Kingsbury for a reference:
+
+       A: I was having a problem contacting Susan Kingsbury at the number listed. I
+       called National Naval Medical Center. I was unable to find a person by that name.
+       I contacted Mr. Goel. And it was actually – he clarified it was a wrong number
+       listed. So, when I finally got the right number for Susan Kingsbury actually, she – I
+       was not at my desk. She called my voice mail, left a message. And her voice mail
+       mentioned that she was Susan Kingsman. So I called her back… And I asked her
+       what company she worked for. She said KCG. I asked her what that meant…She
+       said she didn’t know. And I also asked her to verify her name…She said “I’m
+       Susan Kingsbury.” So, I was a little struck by the inconsistency in her name….
+
+       I contacted [name given for] the Mary Switzer Building. Again, Susan Kingsbury.
+       Now, for this one, I didn’t contact Susan Kingsbury again because I assumed it would
+       be pointless…I wasn’t too happy that she was unable to give me her correct name.
+
+(Tr. 266-268). Although the record is not clear on what entity “KCG” stands for (perhaps
+nothing more than the initials of KC Goel), PJ Goel testified that Kingsbury is an employee
+of DCB. PK Goel is the sole owner of DCB and it was PK Goel who prepared the RDD
+reference submission. Yet there is no indication on the reference form that Kingsbury is
+employed by the referenced firm (DCB) owned by PK Goel who is also Goel Services Project
+Manager. Mr. Chandy testified concerning David Henriquez, a listed contact for the
+                                             -6-                     Goel Services, Inc., CAB No. P-0804
+
+
+“Department of Interior” reference provided by Goel:
+
+       I contacted the Dept. of the Interior, David Henriquez…And Mr. Henriquez said he
+       worked for Delaware Cornerstone Builders or DCB. So in the process of doing this, I
+       was having problems with some of the phone numbers. I was getting wrong numbers.
+        I was getting similar numbers. So, when I did my research on Mr. Henriquez, I
+       realized DCB was listed as a company with KC Goel as the director. And I just put
+       that in my notes.
+
+(Tr. 267). Goel has not provided any rebuttal evidence disputing that KC Goel is a director of DCB.
+Mr. Chandy contacted Marcia Laraque, the contact for the reference labeled “Andrews AFB”, at the
+same telephone number that was given for Mr. Henriques (Department of the Interior). (AR Exs. 4,
+13, 29). Mr. Chandy wrote in his notes during his research of references that the telephone number
+at which he called Ms. Laraque and Mr. Henriques is not only the number for DCB, but also for
+G&B Environmental Inc., a company for which PJ Goel is listed as the contact person. (Tr. 265-
+266; AR Exs. 4, 13). Mr. Chandy communicated his concern respecting the references to the
+contracting officer:
+
+       Q: The next one, Yorktown Naval Station was work performed by DCB ?
+       A: I did not contact Nick Skamagos [the reference] who is listed there.
+       Q: Why not?
+       A: I was actually getting conflicting information. …[A]t that point, I presented
+       whatever I had…–with the Yorktown Naval Station. I presented this to the
+       contracting officer saying that --initially, I was very happy.. I was getting good –very
+       good reviews….But, I was having several problems. So I went up to Mr. James
+       Roberts and I gave him the information that I had.
+       Q: What was his reaction?
+       A: He was not too happy because – I wanted to know what to do when I had either
+       erroneous information or clearly wrong information. And he did ask me to note
+       down the sites. I went back and noted the sites. And he said, “Just keep that in the
+       case file.”
+
+ (Tr. 268-269). Chandy noted later in his report of the references that he found that DCB had
+performed work for Yorktown Naval Station. Thus, all of the five past contract references submitted
+by Goel to the District listed contacts who were employed by DCB of which PK Goel was the sole
+owner. Goel never revealed the relationship between DCB and Goel Services. Goel offered no
+rebuttal regarding all of the references. The contracting officer testified that:
+
+       There was concern with the references. I mean, normally, if you ask for references,
+       you are provided references and the person can tell you what their name is where they
+       work at. And some of these references, there …[were] issues with them. So integrity
+       comes into question.
+
+(Tr. 250-251). In the Contract Specialist notes, Mr. Chandy states that:
+
+       As a follow up to the telephonic conversations, during which the stated
+                                             -7-                     Goel Services, Inc., CAB No. P-0804
+
+
+       inconsistencies were noted, OCP on April 9, 2009, asked the references to send a
+       copy of their contracts with Goel. The copies of the contracts would give the
+       Contracting Officer (CO) evidence of the services provided by Goel.
+
+(AR Exs. 4, 13). On April 9, 2009, when Goel learned that OCP had requested copies of contracts
+from Goel’s references, Goel called Chandy to object and directed Chandy to “cease contacting my
+clients.” Goel followed up with the following email to Chandy:
+
+       [W]e consider your request (made directly to our clients) for copies of executed
+       agreements to be beyond the parameters of the transfer station solicitation. Please
+       note, our contracts with current and former clients, are considered confidential. The
+       terms and pricing structure of these agreements are also considered confidential.
+
+       We take exception to providing confidential executed contractual agreements. And,
+       we ask that you cease contact with our clients unless approved by us in writing.
+
+(AR Ex. 8; Tr. 173, 269-270). On April 10, 2009, OCP responded with an email to Goel stating:
+
+       In accordance with the requirements under Section L.15 of the solicitation, the
+       contracting officer must affirm that a potential contractor is in compliance and/or
+       capable of meeting the stated requirements to be deemed responsible. Therefore, the
+       references provided by your company were contacted to obtain information deemed
+       essential to enable the CO to ascertain (1) that there was in fact a contractual
+       relationship and (2) that performance under said agreement was satisfactory.
+
+       Therefore, it is requested that you provide the page/s showing an agreement between
+       the referenced persons/entities and Goel Services, Inc., which would be sufficient
+       evidence of contracts performed, and is necessary for the Contracting Officer to
+       determine responsibility. It would not be necessary for the terms and pricing
+       structure to be revealed.
+
+(AR Ex. 9). On April 28, 2009, Goel’s attorney sent to OCP copies of three (3) redacted contracts
+for Solid Waste Transfer & Recycling, Inc. (“SWTR”), and two new companies, Curtis Creek
+Recovery, LLC (“Curtis”) and ETW LLC (“ETW”). (AR Ex. 14; Tr. 271). Section 3 of each of the
+three redacted contracts with SWTR, Curtis, and ETW state the following:
+
+       The Transporter’s [Goel’s] agreement to provide services for the Supplier pursuant to
+       this contract is voluntary. Nothing herein shall be construed as imposing an
+       obligation on the Transporter to provide services for the Supplier. However, once
+       the Transporter agrees to provide such services, it shall use its best efforts to do so.
+
+(AR Ex. 14). The contracting officer testified during the hearing regarding the three redacted
+contracts as follows:
+
+       Q. Now, when you received these agreements, Mr. Roberts, did this satisfy your
+       request for information on references from Mr. Goel?
+                                             -8-                    Goel Services, Inc., CAB No. P-0804
+
+
+       A. Not at all .… These were voluntary agreements, not contractual documents.
+
+(Tr. 218-219). The signatories on the agreements with SWTR, Curtis, and ETW were illegible, and
+the District was unable to determine the parties to these non-binding agreements. (Tr. 245, 248-249).
+During the hearing, Marc Shaener, an employee of EnviroSolutions, testified that he signed all three
+of the agreements with SWTR, Curtis, and ETW and confirmed that Goel was not obligated to
+provide services under the three agreements. (Tr. 72-73).
+
+        After reviewing the responsibility data, the contracting officer determined that Goel was not
+responsible. On April 22, 2009, the contracting officer sent a memorandum to the Director of the
+Department of Small and Local Business Development (“DSLBD”), regarding the pending
+determination of non-responsibility, in accordance with 27 DCMR § 2202.6. (AR Ex. 13). In the
+memorandum, the contracting officer requested that the DSLBD send to OCP any evidence that it
+deemed relevant to the nonresponsibility determination of Goel. OCP requested that DSLBD submit
+its response within 10 working days. OCP did not receive a response from the DSLBD. (AR at 12).
+The contracting officer’s May 19, 2009, Determination and Finding of Non-Responsibility found
+Goel to be nonresponsible based upon findings that:
+
+       In accordance with 27 DCMR 200.4 and section L.15, Standards of Responsibility in
+       the solicitation, the Contracting Officer and Technical Evaluation Panel reviewed the
+       responsibility determination data submitted by the proposed contractor to determine
+       the contractor’s responsibility prior to award. The information provided was
+       insufficient to determine that the company has the necessary technical equipment, had
+       the necessary experience, had a satisfactory performance record, or had the ability to
+       comply with the required performance schedule.
+
+       The vendor was unable to demonstrate that it owned or could easily obtain the
+       required equipment to perform the required service through a leasing agreement. The
+       information provided indicated that the equipment to be used was either owned or
+       leased by another company.
+
+       A check of the company’s references yielded no information to validate that the
+       company had the experience or performance record in providing the required service.
+        The company asked the District to cease contacting its references. Although copies
+       of contracts were eventually provided by the company’s attorney, the District was
+       unable to determine the vendor’s performance history.
+
+       The proposed operation schedule was considered to be unrealistic by the technical
+       panel given the company’s use of the Shoosmith facility. The schedule would require
+       more trucks.
+
+(AR Ex. 18). Goel filed this protest on May 18, 2009. Goel requested an evidentiary hearing
+regarding its responsibility to perform the contract. The Board held an evidentiary hearing on
+September 9, 2009. The District has not yet awarded a contract under the solicitation. The parties
+presented post hearing briefs to the Board on October 30, 2009.
+                                                -9-                      Goel Services, Inc., CAB No. P-0804
+
+
+                                             DISCUSSION
+
+        We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        The District argues that it properly determined that Goel was nonresponsible for the
+following reasons: (1) Goel failed to identify sufficient equipment (tractors and trailers) to perform
+the contract; (2) Goel failed to provide documentation that it owned sufficient equipment so as not to
+exceed the 20 percent limitation on subcontracting equipment; (3) Goel failed to submit verifiable
+and reliable references and copies of current and prior contracts that would allow the District to
+conclude that Goel had the requisite experience to perform the contract; (4) Goel failed to
+demonstrate to the District during the site visit that Goel had sufficient tractors for the District to test
+and inspect, and; (5) Goel failed to develop a realistic work plan for transporting trash to the landfill.
+
+         Goel contends that the nonresponsibility determination lacks any reasonable basis because:
+(1) the contracting officer improperly refused to conduct discussions with Goel during the
+responsibility process; (2) Goel was not given the opportunity to address any questions regarding its
+ability to perform the contract; (3) the contracting specialist improperly misled Goel regarding the
+purpose of the site visit; (4) the District improperly imposed special standards of responsibility on
+Goel during the responsibility process which are not included in the solicitation; and (5) Goel had
+appropriate equipment, labor, and performance plan to perform the contract work.
+
+        Bidder responsibility is a prerequisite to contract award. D.C. Code § 2-303.03(e). The
+contracting officer must make a written determination of whether the prospective contractor is
+responsible, and in the absence of information clearly indicating that the contractor is responsible,
+the contracting officer shall determine the contractor to be nonresponsible. 27 DCMR §§ 2200.1 -
+2200.3. The general standards of responsibility are set forth in 27 DCMR § 2200.4 and in section
+L.15 of the solicitation. Before making a determination of responsibility, the contracting officer
+shall possess or obtain information sufficient to satisfy the contracting officer that a prospective
+contractor currently meets the applicable standards and requirements for responsibility. 27 DCMR §
+2204.1. Section L.15 requires the prospective contractor to submit the required documentation
+within 5 days of a request from the contracting agency. Besides obtaining information from the
+prospective contractor, the contracting officer should also obtain information on responsibility from
+other sources as appropriate under the circumstances, including, preaward survey reports and
+information from “publications, suppliers, subcontractors, and customers of the prospective
+contractor, financial institutions, government agencies, and business and trade associations.” 27
+DCMR § 2204.5(e). Section L.15.8 of the IFB mirrors 27 DCMR § 2204.4, which provides:
+
+        If the prospective contractor fails to supply the information requested under §2204.3
+        [responsibility information requested by the contracting officer], the contracting
+        officer shall make the determination of responsibility or nonresponsibility based
+        upon available information. If the available information is insufficient to make a
+        determination of responsibility, the contracting officer shall determine the
+        prospective contractor to be nonresponsible.
+
+In making the determination of responsibility, the contracting officer is vested with wide discretion
+and business judgment. Therefore, in reviewing a determination concerning general standards of
+                                             - 10 -                   Goel Services, Inc., CAB No. P-0804
+
+
+responsibility, we will not overturn a finding of responsibility or nonresponsibility unless the
+protestor shows bad faith on the part of the contracting agency or that the contracting officer’s
+determination lacks any reasonable basis. Anchor Construction Corp., CAB No. P-0737, Jan. 9,
+2007, 54 D.C. Reg. 2066, 2068; Ideal Electrical Supply Corp., CAB No. P-0372, Aug. 13, 1993, 41
+D.C. Reg. 3603, 3606.
+
+       As discussed below, we conclude that the contracting officer’s nonresponsibility
+determination is supported by the documentation and testimony in the record.
+
+       Sufficient Equipment to Perform the Contract Work
+
+        The contract work requires the prospective contractor to have tractors, trailers, and the labor
+to operate the equipment in order to perform the hauling services. The record shows that Goel
+intended to sublease 69 trailers from EnviroSolutions who in turn had some type of lease
+arrangement for the trailers with three other entities who owned the 69 trailers. The District
+requested clarification of the initial February 4, 2009 Goel responsibility data submission regarding
+the numbers, ownership, and leasing arrangements (between Goel and EnviroSolutions and between
+EnviroSolutions and the owners) for the trailers by communications dated March 9, March 16,
+March 26, and April 9, 2009. Although Goel provided the District a copy of its lease agreement
+with EnviroSolutions, the District also asked for redacted copies of the lease agreements between
+EnviroSolutions and the owners of the trailers. Goel did not provide those leases because the lease
+terms were considered to be “confidential”, but rather provided a statement from the owners (signed
+by a single person on behalf of the owners) that the trailers were under lease to EnviroSolutions
+through July 2014. Goel also provided to the District an additional lease agreement by which it
+could obtain another 30 trailers if needed for performing the contract work. At the April 20, 2009
+site inspection, 28 trailers were available for inspection but 6 trailers were damaged and 21 others
+could not be properly tested to determine effective usage. The contractor would also need a tractor
+to pull a trailer. The tractors inspected at the site visit were not owned by Goel. Goel states that it
+would purchase new tractors from either of two dealers. Goel said it could purchase a tractor for
+$250,000. The District learned from Goel that the dealers did not have 30 tractors available
+immediately and that Goel did not have any written commitment for specifically identified tractors
+although Goel stated that it would purchase 30 or 35 tractors once Goel received contract award.
+Goel had an average cash balance available of $3.2 million and a $2 million credit line.
+
+        The contracting officer found that the responsibility information as supplemented by Goel
+was insufficient to assure that Goel owned the necessary tractors and trailers or had the ability to
+easily obtain the required equipment to perform the contract. Goel complains that the lease
+arrangement with EnviroSolutions was not a “subcontract.” A contract to provide equipment
+certainly may constitute a subcontract. The paragraph added to Section C.1 of the IFB by
+Amendment No. 3 refers to the use of “sub-contracted vehicles and labor.” There is nothing in this
+language that excludes equipment from being subcontracted equipment, but rather confirms that
+equipment may be subcontracted. Although the record does not clearly indicate the relative values
+for the tractors, trailers, and the labor to assess compliance with the 20 percent subcontracting
+limitation, the subcontracting limitation provision shows that the District wanted a contractor with
+ready access to its own equipment and labor such that the critical and large daily hauling
+requirements of the District would not be jeopardized by a contractor who did not itself have control
+                                             - 11 -                   Goel Services, Inc., CAB No. P-0804
+
+
+over a significant portion of the equipment and labor needed to perform the work. We find from a
+review of the documentation and testimony that the contracting officer reasonably could determine
+that Goel did not demonstrate through its responsibility submissions that it had adequate equipment
+reliably available to perform the work.
+
+        Goel argues that the contracting officer failed to meet with Goel representatives or otherwise
+arrange a meeting to discuss his responsibility concerns. We conclude that the contracting officer
+and the other contracting agency personnel involved in the responsibility process communicated
+adequately with Goel over the course of almost three months to obtain the documentation and other
+information it needed regarding Goel’s equipment. Goel was at times reluctant or refused to provide
+information or directed the contracting agency not to communicate with its subcontractors and
+vendors. The contracting officer is not required to pry responsibility information from the
+prospective contractor. Heller Electric, CAB No. P-0444, Jan. 22, 1997, 44 D.C. Reg. 6784 (Heller
+failed to properly respond to the District’s repeated requests for adequate and current qualification
+data; Heller, not the District, was responsible for coming forward with performance information to
+show that it was experienced and qualified to perform the contract work).
+
+
+       Current and Past Performance
+
+         Goel argues that the evidence does not support the contracting officer's conclusion that Goel
+failed to provide adequate evidence of current and past performance of similar services. We find the
+contracting officer's conclusion amply supported by the record. Section L.I5.5 required the
+prospective contractor to submit in connection with the District's responsibility determination
+adequate evidence of a satisfactory performance record, and record of integrity and business ethics.
+The initial responsibility request form requested Goel to provide a "Listing of current contracts
+relative to the commodity or services to be provided within the last three (3) years" and a "Listing of
+expired or terminated contracts, within the last two years relative to the commodity or services to be
+provided." (AR Ex. 5). Goel was to provide the name of the contracting company, the name of a
+contact at the company who could verify the performance reference, a phone number for the contact,
+a description of the contract work, and the contract amount. (AR Ex. 5). These requests were
+clearly proper requests in order for the contracting officer to fulfill his duties under the District’s
+procurement regulations for determining contractor responsibility.
+
+       In its February 4, 2009 response, as detailed in the findings above, Goel provided a listing of
+5 current contracts and 5 expired or terminated contracts, and identifying contacts with phone
+numbers who could be contacted to verify these performance references. During the verification
+process conducted by OCP's purchasing agent, Yorjai Chandy, and the contracting officer, the
+contracting officer questioned the reliability of the references.
+
+        Goel did not reveal in the one-page RDD reference submission to the District the fact that
+three of five current references were affiliated with EnviroSolutions. That is an important omission
+because EnviroSolutions by virtue of the intended lease arrangement with Goel had a significant
+financial interest in the success of Goel in obtaining the contract award. After Goel refused to
+provide a copy of the contract relating to these references, counsel for Goel provided a copy of three
+"Service Agreements" between Goel and the three subsidiaries of EnviroSolutions. The agreements
+                                             - 12 -                   Goel Services, Inc., CAB No. P-0804
+
+
+do not bind Goel to provide hauling services but rather is a voluntary arrangement by which Goel
+would use “best efforts” to perform the hauling services. The contracting officer reasonably could
+find such an arrangement between Goel and EnviroSolutions not similar to the contracted services
+required under the District’s solicitation. More importantly, the contracting officer had a reasonable
+basis for not finding these “references” to demonstrate a satisfactory performance record. For the
+third and fifth references, the District learned that the references were subcontractors of Goel, not
+the owners/entities contracting Goel to provide hauling services. The contracting officer could
+justifiably question the reliability of all of these references and the accuracy of the descriptions
+provided by Goel.
+
+        Viewing the documentation and testimony, the Board agrees with the contracting officer that
+the five prior contract references are also unreliable for showing Goel’s performance record. All
+five references listed contacts who were employees of DCB, an entity of which PK Goel was the
+sole owner and KC Goel was a director. The contracting officer, when presented with the
+irregularities discovered by Chandy, sought copies of the contracts that the referenced firms had with
+Goel. When Goel (improperly) objected to the contracting officer’s request, the contracting officer
+requested that Goel provide a copy of the contract between each referenced person/entity and Goel.
+Of the ten references, Goel’s attorney produced only the three “Service Agreements” discussed
+above.
+
+        Based on the documentation and testimony, we find the contracting officer reasonably
+concluded that Goel had failed to submit verifiable and reliable references of current and prior
+contracts for work similar to that required under the IFB, such that there was an insufficient record
+of satisfactory performance. Although the contracting officer did not identify that Goel failed to
+show a satisfactory record of integrity and business ethics in his determination and finding of
+nonresponsibility, the results of the investigations into Goel’s references in the responsibility
+submissions might have merited a more thorough analysis of this prospective contractor’s
+disclosures on the subject. Goel’s argument that the contracting officer imposed special standards of
+responsibility on Goel is without merit. The requests for current and past performance information
+were reasonably directed to assisting the contracting officer in fulfilling his duty to make a proper
+responsibility determination regarding whether the prospective contractor has a satisfactory
+performance record under 27 DCMR § 2200.4(c).
+
+       Other Protest Grounds
+
+         Goel argues that the contracting officer had no reasonable basis for concluding that Goel’s
+proposed operation schedule was unrealistic. Goel planned to have each truck make two roundtrips
+per day to the Shoosmith landfill facility to haul District waste. Goel’s project manager testified that
+he conducted a time trial for two roundtrips from the Benning Road Transfer Station to the
+Shoosmith landfill in Chester, Virginia (a 260-mile roundtrip), using a tractor trailer with about 40
+tons of solid waste. The project manager testified that the first roundtrip took a total of five hours
+driving time, and the second roundtrip took a total of about five and half hours driving time because
+the truck was leaving at 4:45 p.m. and there was heavy traffic during the second trip on the drive
+from the District to Shoosmith. The District’s chief of the DPW Solid Waste Administration
+testified that Goel’s plan for two roundtrips to Shoosmith per truck per day was unrealistic given the
+roundtrip distance to be traveled, the operations of the trash transfer facility, and the 5 p.m. closing
+                                             - 13 -                   Goel Services, Inc., CAB No. P-0804
+
+
+time for the transfer stations. The District’s witness testified that the trip to Shoosmith averages 3
+hours each way not counting loading and unloading time. The owner of Shoosmith testified that the
+one-way drive could take 2 ½ to 3 ½ hours depending upon traffic conditions. Even if Goel could
+expedite the unloading at Shoosmith, Goel does not have control over the loading time at the transfer
+stations. We cannot conclude that the contracting officer’s determination lacks a reasonable basis in
+the record. More importantly, it was not unreasonable for the contracting officer to consider Goel’s
+plan as an additional factor in the contracting officer’s determination that Goel did not demonstrate
+reliable access to substantial tractor and trailer equipment to perform the critical daily trash hauling
+requirements.
+
+        Goel argues that the District did not refer its determination of Goel’s nonresponsibility to the
+Department of Small and Local Business Development (“DSLBD”) as required by 27 DCMR §
+2202.6. The evidence clearly shows otherwise. The DSLBD did not respond to the contracting
+officer’s request for information. (AR at 12).
+
+        Goel also argues that the contracting agency representatives misled Goel about the purpose
+and scope of the site visit. Goel contends that the site visit was advertised as only an inspection of a
+sample of Goel’s equipment. PJ Goel’s correspondence asking for the District’s list of attendees
+implied that he himself was attending the site visit on behalf of Goel. We see nothing in the record
+that demonstrates that District representatives misled Goel as to the nature of the site visit. The site
+visit was an opportunity for Goel to further augment its responsibility information and discuss
+concerns and impressions that the program and site team had regarding the responsibility
+submissions between February 4 and the April 20 site visit date, particularly in light of the
+attendance at the site visit of the agency’s purchasing agent and the principal program representative
+who was the contracting officer’s technical representative. Goel did not take advantage of that
+opportunity, and instead faults the contracting officer for failing to engage in discussions and
+meetings with Goel. Goel is correct that the contracting officer may discuss responsibility matters
+and concerns with the prospective contractor but the scope and nature of the contracting officer’s
+task of gathering responsibility information is also a matter committed to the contracting officer’s
+discretion and business judgment. In the present matter, the contracting officer and the contracting
+and program staff that assisted him in this effort, reasonably provided Goel adequate opportunities
+over a nearly three month period to submit accurate and comprehensive information showing the
+contractor’s responsibility.
+
+
+                                          CONCLUSION
+
+       For the reasons discussed above, we sustain the nonresponsibility determination and
+accordingly deny Goel’s protest.
+
+       SO ORDERED.
+
+
+DATED: February 2, 2010                                /s/ Warren J. Nash
+                                                       WARREN J. NASH
+                                                       Administrative Judge
+                             - 14 -   Goel Services, Inc., CAB No. P-0804
+
+
+
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

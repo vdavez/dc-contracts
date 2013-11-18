@@ -1,0 +1,387 @@
+                                                                                                    [7621]
+
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF.                          )
+                                     )                '
+       EDUCATIONAL IN-ROADS,         )
+       a division of SYLVAN LEARNING )                j CAB No. P-552
+       SYSTEMS, INC.                 )               !
+                                               )     ;
+       Under RFP No 028-NS-0-6-X               )     i
+       (Special Education Assessments)         )
+                                               i                   ,
+      For the Protester: Keefe B demons, Esquire, Goodwin, Proctor & Hoar, LLP. For the
+Government. Warren J. Nash, and Chris Malone, Assistants Corporation Counsel.
+
+       Opinion by Chief Administrative Judge Lonlyn E Simkms with Administrative Judge
+Claudia Booker, concurring                    l
+                                               i
+                                    OPINION AND ORDER
+
+        Educational In-Roads, a division of Sylvan Learning Systems, Inc ("In-Roads") protests the
+District of Columbia Public Schools' (DCPS) decision to exclude In-Roads' proposal to provide
+certain educational services to the Division of Special Education under RFP No. 028-NS-0-6-X
+("RFP" or "Proposal") from the competitive range The District filed a motion to dismiss
+challenging the timeliness of the protest We deny the District's motion to dismiss because In-
+Roads filed its protest in accordance with the guidelines given in the RFP. We also find that the
+DCPS's decision to exclude In-Roads' proposal from the competitive range was unreasonable.
+Accordingly, we sustain the protest.
+
+                                         BACKGROUND
+
+        On June 10, 1997, DCPS issued RFP No. 028-NS-0-6-X to engage the services of one or
+more contractors to provide an array of professionals to perform psychological, speech and language
+evaluations and social histories of students for the Special Education Branch of the Public Schools.1
+ In-Roads had been an incumbent provider of these services since 1995. Proposals were originally
+
+
+       'The letter mailed to prospective offerers states-
+
+            [T]he District of Columbia Public Schools Division of Special Education is
+       seeking services of Contractors who can provide the services of qualified state
+       licensed certified school psychologists, clinical psychologists, psychiatrists,
+       neurologists, occupational and physical therapists, social workers, and audiologists
+       to perform initial, triennial and/or requested re-evaluations, and to participate in the
+       admission and review process of special education services beginning July, 1997
+       through August, 1997                          |
+                                                                                                         [7622]
+
+                                               -2-            Educational In-Roads, CAB No P-552
+                                                     I
+due on June 20, 1997. On June 19, 1997, DCPS issued Addendum No. 1 which expanded the
+category of professionals to include speech therapists and changed the date of submission to June
+27, 1997. (Agency Report ("AR"), Exhibit 2). DJCPS issued a second Addendum on June 25,
+specifying the required number of slots that DGPS would need, and informing prospective
+contractors that the contract, including options, would not exceed five years. (AR, Exhibit 3) DCPS
+received 13 proposals on June 27, 1997. (AR, Exhibit 4).
+
+       By memorandum dated June 27, 1997, the Chief of Contract Administration for DCPS
+forwarded to the Director of Special Education, a technical evaluation plan ("TEP") delineating
+responsibilities and providing basic procedures for evaluation committee activities (AR, Exhibit 5).
+ The TEP provides                                    !
+                                                     !
+       Each member of the EC [Evaluation Committee] shall evaluate every technical
+       proposal independently and without consultation with other EC members. Members
+       shall evaluate one proposal at a time, shall assign a numerical score to each
+       evaluation criteria and shall write a narrative justifying that score and identifying
+       strengths and weaknesses Upon completion of the individual evaluations, the EC
+       Chairperson will compile and summarize the independent scores of the committee
+       members and then obtain a consensus score! for each offerer, thus ensuring that the
+       end result represents the consensus scores of the panel as a whole. The EC
+       Chairperson is responsible for the review of numerical scores and narratives to ensure
+       that they are compatible. [Emphasis added ]
+
+        The TEP sets forth the following evaluation criteria: (A) Experience, demonstrated ability,
+and reputation in similar projects - 30 points; (B) Qualifications, experience and competence of key
+and other personnel to undertake project - 30 points; (C) Equipment and facilities available - 10
+points; (D) Cost proposal - 30 points. The evaluation criteria also included the following formula
+which DCPS indicated it would use in the evaluation of offerer's price proposals-
+
+       Lowest Price Proposal           x      30 = Points Awarded
+       Price of Proposal Being Evaluated
+
+        The TEP provides that the competitive range is to include all proposals that have a reasonable
+chance of being selected for award and determined on the basis of cost or price and other factors
+stated in the solicitation (AR, Exhibit 5)
+
+        On July 28, 1997, the Director of Special Education submitted the completed technical
+evaluations to the Contract Administration Chief. The EC consisted of eight members, none of
+whom evaluated all of the proposals. Some EC members evaluated two or three proposals, others
+evaluated five or six, and one evaluated eleven proposals. One proposal was not evaluated by any
+EC member. (AR). The EC members did not evaluate cost or determine the competitive range.
+(AR, Exhibit 7) Two EC members rated In-Roads and based on the average scores of all of the
+offerers, In-Roads was the second highest offerer. (AR, Exhibit 7).
+                                                                                                          [7623]
+
+                                               -3-           Educational In-Roads, CAB No P-552
+
+        On August 29, the Office of Contract Administration requested best and final offers
+("BAFO's") from all offerors by September 3,1997. (Exhibit 8). All thirteen contractors submitted
+BAFO's (See Consensus Matrix for Technical Evaluation, AR, Exhibit 9). Between August, 1997
+and January 1998, there was apparently no activity concerning the selection of an offerer for these
+services. However, in January of 1998, the Special Education Branch conveyed its urgent need for
+these services to the Office of Acquisitions and Contracts Management (OACM).2 (Exhibit 13) A
+Memorandum of Negotiations, dated April 20, 1998, outlines the course of action that DCPS
+undertook. Id Recognizing that the initial evaluation was flawed, DCPS decided that it could
+correct its errors by having another Technical Evaluation Panel made up of three staff members of
+Special Education Division review each proposal.
+
+       The TEP evaluated each proposal using the criteria set forth in the RFP. The TEP discussed
+the proposals, agreed upon a composite evaluation score for each proposal, and established that the
+competitive range was 80 to 100. The second TEP evaluated the proposals as follows
+
+       Firm                             Experience   Qualifications   Equipment       Cost        TOTAL
+
+       JoanE Gildemeister                     27             25               9        27          88
+       Institute for Life Enrichment          27             26               8        22          83
+       Hospital for Sick Children             25             24               6        26          81
+       WATS                                   22             25               6        16          69
+       American Therapy Services              20             24               9        19          72
+       Georgetown Umv Child Development       24             30               10       24          88
+       Riverside Health Care                  24             24               8        24          80
+       Therapist Unlimited                    22             29               6        26          83
+       Blackwood-Elhs & Campbell              25             26               9        23          83
+       Sunspectrum                            27             26               7        24          84
+       Sylvan Learning Systems                24             24               8        16          72
+       Psychological Assessment & Services    10             25               8         6          49
+       Therapy Management Services            9              10               0        16          35
+
+        The second TEP recommended the award of contracts to: (1) Joan Gildemeister
+(2) Institute for Life Enrichment; (3) Hospital for Sick Children; (4) Georgetown University Child
+Development Center; (5) Riverside Health Care; (6) Therapist Unlimited; (7) Blackwood-Ellis and
+Campbell, and (8) Sunspectrum. (AR, Exhibit 9). In a memorandum dated February 27, 1998, the
+Special Education Division requested that the OACA also consider awarding contracts to American
+Therapy Services, In-Roads, and Washington Assessment and Therapy Services, "given the myriad
+of assessments that are in our backlog " (Id)
+
+       On March 16, 1998, the Contracting Officer sent letters to the eight potential awardees
+
+       2
+         The Agency Report contains documents from two different DCPS offices, the Office of
+the Chief Operating Officer/Director of Facilities Contract Administration, and the Office of
+Acquisitions and Contracts Management, which relate to the supervision of the RFP. There is
+no clear distinction between the roles of these Offices. The Board has therefore used the name of
+the Office which appears on the letterhead of the document under discussion.
+                                                                                                     [7624]
+
+                                                              Educational In-Roads, CAB No P-552
+
+requesting that they respond to a second BAFO by March 20, 1998.3 (AR, Exhibit 10). Only seven
+of the eight contractors responded. On March 30, 1998, the Contracting Officer sent another letter
+to the seven potential awardees requesting information on costs and inquired about their definitions
+of the required services While assuring the contractors that DCPS was not attempting to change
+their cost proposals, the letter states.
+
+       As we reviewed the cost proposal, we found that offerers used several definition for
+       the required services. This made cost evaluation difficult. As a way of assuring that
+       everyone uses the same definitions, we are requesting that you provide cost
+       information using the enclosed format.
+       (AR, Exhibit 11).
+
+       Attached tq the March 16 letter is a form requesting information on contractors' hourly cost
+for each type of evaluation and the estimated number of hours per evaluation. The form also
+requests information about the cost of various kinds of consultation services, and other direct costs.
+Id Following submission of the third BAFO, DCPS conducted negotiations with the seven
+contractors. Four of the seven contractors were selected in April, 1998 to provide services DCPS
+determined that they would "best meet DCPS' minimum needs at the best value cost-wise." (AR,
+Exhibit 13). Requirement contracts were executed in May of 1998 with Therapist Unlimited,
+Riverside Health Care, Drs. Blackwood-Elhs and Campbell, and Joan Gildemeister (AR, Exhibit
+14)
+
+        By letter dated March 31, 1998, the Procurement Officer informed the five offerers who
+scored less than 80 points that their proposals were found to be outside the competitive range (AR,
+Exhibit 12) Apparently In-Roads' exclusion from the competitive range was based on its costs
+relative to the other proposals. While its costs rating was low in comparison to other proposals, its
+technical scores were relatively high In-Roads' technical proposal scores were in fact the same as
+Riverside's, one of the eventual awardees By letter dated April 8,1998, In-Roads protested DCPS'
+finding that its proposal was outside the competitive range and requested that the Procurement
+Officer reconsider the decision. Having received no response to its April 8 letter, on May 15,1998,
+In-Road's attorney penned another letter to the Procurement Officer requesting a response by May
+22,1998 Again DCPS did not respond. On May 29,1998, In-Roads filed a written protest with the
+Superintendent of Schools based on the dispute and protest procedures set forth in the RFP (Section
+7 of the General Provisions, Protest, Exhibit A). In-Road's protest received no response from the
+Superintendent. On July 20, 1998, In-Roads filed its protest with the Board. It referred to section
+7 of the General Provisions of the RFP and Title 5 DCMR §§ 3700 et seq , as the basis of its timely
+filing with the Board and described the failure of DCPS to respond in any fashion to its concerns
+about its exclusion from the competitive range.
+
+
+        3
+          The second BAFO sought information on the contractor's* (1) intake, tracking and
+monitoring procedures; (2)quahty control procedures; (3) capacity for bilingual evaluations; (4)
+procedures to inform parents/guardians of the assessments; (5) internal training procedures on
+state and federal standards, and (6) procedures to ensure confidentiality.
+                                                                                                      [7625]
+
+                                               -5-             Educational In-Roads, CAB No P-552
+
+
+
+        Jurisdiction
+
+         In accordance with the Procurement Practices Act, Board Rule 302.2 requires that protests
+other than those concerning improprieties in a solicitation, "shall be filed with the Board not later
+than ten (10) business days after the basis of the protest is known or should have been known,
+whichever, is earlier." 45 DCMR § 1415 (March 13, 1998). The District argues that In-Roads'
+protest was untimely filed with the Board, since it was filed at our offices more thanl 0 days after the
+basis of the protest was known. (Motion of the Distnct of Columbia to Dismiss, or in the Alternative
+Agency Report). The District contends therefore that the Board has no jurisdiction to decide this
+case
+
+         In-Roads filed its protest in accordance with the dispute and protest procedures outlined in
+the RFP, which accords with the dispute and protest regulations found in the Board of Educations
+Regulations, 5 DCMR §§3713 and 3714 (1991). The Board of Education Regulations provide that
+an aggrieved party shall file its protest in writing with the procurement officer within ten days after
+the aggrieved party knows or should have known the facts giving rise to the protest. The provisions
+require the procurement officer to render a written decision within ten days of receipt of the protest
+stating the reasons for the decision. The dispute and protest regulations afford an aggrieved party
+an appeal of the procurement officer's decision to the Superintendent, who shall have 20 days from
+date of receipt of the protest to render a decision. The protester is then afforded 30 days to appeal
+the Superintendent's decision to this Board. In-Roads followed these procedures. In-Roads filed
+its protest with the Board 111 days after DCPS first notified it that its proposal was determined to
+be outside the competitive range, however, it filed its protest with the DCPS' procurement officer
+in less thanl0 days after the procurement officer's March 31 letter
+
+        On April 9,1997, the effective date of the Procurement Reform Amendment Act ("PRAA")
+all departments, agencies, instrumentalities, boards and commissions of the District of Columbia,
+including independent agencies, such as DCPS, became subject to the Procurement Practices Act
+("PPA") and the Procurement Regulations found in 27 DCMR. (See D C Code § 1 -1181.4(a), D C
+Law 11-259 § 101(b), 44 DCR 1423). The Board of Education's protest and dispute regulations
+found in Title 5 are no longer applicable to DCPS solicitations Persons aggrieved by the
+procurement decisions of DCPS are required to file protests directly with the Board. However, In-
+Roads' failure to file its protest directly with the Board does not defeat our jurisdiction.
+
+        We treat the timely filing of protests with the procurement officer of DCPS as the functional
+equivalent of filing with the Board. Fort Myer Construction Corp., CAB No. P-452, July 23,1996,
+44 D.C. Reg. 6476. This result is especially compelling here because the protest was misfiled as a
+result of DCPS's express filing instructions in the RFP, and because the procurement officer failed
+to forward to the Board the misfiled protest, as we explicitly instructed in Fort Myer. The
+procurement officer and the Superintendent decided instead to ignore the offerer's protests. In-
+Roads meticulously followed the protest procedures set forth in the RFP
+
+        The RFP was issued two months after the effective date of the PRAA, which invalidated the
+                                                                                                       [7626]
+
+                                               -6-            Educational In-Roads, CAB No P-55'2
+
+use of the dispute and protest procedures found in 5 DCMR and required the filing of protests
+directly with the Board DCPS had ample time prior to the issuance of the RFP and certainly prior
+to the submission of proposals to delete the incorrect filing procedures and inform offerors of the
+correct filing procedures for protests and appeals We believe it would be inequitable to punish In-
+Roads for DCPS's error. The District's motion to dismiss is denied. Further, DCPS should
+immediately amend, if it has not previously done so, the provisions of any solicitations which it
+issues in order to advise the public of the correct protest and dispute procedures.
+
+       Merits
+
+       In-Roads initially asserted as grounds of protest its exclusion from the competitive range
+based on information that it was ranked in second place among a field of thirteen contractors. In-
+Roads did not know of the irregularities in the initial evaluation in which members of the evaluation
+team evaluated different proposals, and of DCPS's attempt to correct this error by convening another
+technical evaluation panel For the first time, In-Roads learned of possible new grounds of protest
+m the District's Motion to Dismiss /Agency Report In-Roads timely filed its Reply to the District's
+Motion to Dismiss/ Agency Report and asserted new grounds of protest. In-Roads contends that
+DCPS performed a flawed cost evaluation and a flawed technical evaluation4
+
+       Cost Evaluation
+
+       In-Roads claims that DCPS's evaluation of its cost proposal was flawed in several respects.
+Preliminarily, the protester points out that the information on the cost evaluation contained in the
+Agency Report is fragmentary, does not present a clear picture of DCPS's actions in excluding In-
+Roads from the competitive range, or explain why In-Roads received a score of only 16 out of a
+possible 30 points for its cost proposal This in itself is an deficiency in documentation which
+prevents a clear analysis of how the evaluations were reached. However, we have sufficient
+information based on our review of the RFP, the records of the evaluations provided, the Agency
+Report and Protester's Reply, to determine that the second TEP evaluation, which placed In-Roads'
+outside the competitive range, was unreasonable
+
+       In negotiated procurements, agency selection officials have broad discretion in determining
+the manner and extent to which they will make use of the technical and cost evaluation results in
+making their determination. General Servs Engineering, Inc., B-245458, Jan. 9, 1992, 92-1 CPD
+f 44 The record of the agency's action must demonstrate that the agency acted "reasonably and in
+accord with stated evaluation criteria, and not in violation of procurement laws and regulations "
+
+
+       4
+         The District originally notified the Board that it intended to file a response to the Reply
+of Educational In-Roads to Motion of the District of Columbia to Dismiss Protest or, in the
+Alternative, Agency Report However, on the date that the reply was due, the District wrote
+"that we adequately responded to the protester's concerns m our previous Motion to Dismiss"
+(Letter dated October 6, 1998, from Warren J Nash, Assistant Corporation Counsel, to the
+Board)
+                                                                                                     [7627]
+
+                                               -7-            Educational In-Roads, CAB No P-552
+
+Scientech, Inc B-277805.2, Jan. 20 1998, 98-1 CPD f 33. Furthermore, the determination of
+competitive range is primarily a matter of administrative discretion, which we will not disturb absent
+a clear showing that the determination is reasonable Coopers & Lybrand, 66 Comp. Gen. 216
+(1987), 87-1 CPDTf 100, Besserman Corp , 69 Comp Gen. 252 (1990), 90-1 CPD^f 191. However,
+if there is a close question of acceptability or if the noted deficiency is susceptible to correction
+through relatively limited discussions, then the inclusion of the proposal in the competitive range
+is in order. Besserman Corp , 69 Comp Gen. 252, supra
+
+         We find that DCPS's formula for assigning scores to cost proposals was improperly
+employed and resulted in In-Roads' unfair exclusion from the competitive range. Although the
+Agency Report does not explain the scoring of cost proposals, the formula in the RFP indicates that
+points were assigned on the basis of a ratio of the proposed cost to the lowest offered cost. This
+formula presumes that an offerer would propose a "total price" that could be compared with the total
+price of other proposals based on the same services. However, offerers were not required to bid on
+the same items or the same quantity of services. Moreover, there was no uniformity in the definition
+of services to be provided. It was not until after the competitive range determination had been made
+that DCPS sought information from offerers about what they had included in their offers based on
+a common set of definitions and m a consistent format that would permit an accurate evaluation of
+proposed costs The initial cost formula appearing in the RFP was improperly employed for these
+reasons. These factors prevented a true comparison of costs at the time that DCPS made its initial
+determination of competitive range The proposed costs for the thirteen contractors were not based
+on the same assumptions and no meaningful comparison could be made for purposes of determining
+the ultimate cost to the government.5 Rather than clarifying the differences between the proposals,
+the use of the cost evaluation formula which was not based on a common set of definitions, distorted
+the differences and obscured the relative merit of the proposals. DCPS' erroneous cost evaluation
+unfairly disadvantaged In-Roads.
+
+
+
+        5
+         The protester challenged the validity of DCPS's cost evaluation by making a
+comparison of several components of its proposal to other proposals. For instance, In-Roads'
+proposal price of $338 for speech therapy evaluation was within $13 of awardee Riverside's
+price of $325. (Protester's Reply, Exhibit A and Agency Report, Exhibit 13) Riverside and In-
+Roads were the only contractors who proposed a price for a "full evaluation". In-Roads'
+proposed price for full evaluation was $995 while Riverside's price was $890 for full evaluation
+However, Riverside had other costs for travel and materials in the amount of $21,000 which were
+included in In-Roads' proposed price, and extra charges of $65 per hour for parent/teacher and
+DCPS consultation which In-Roads proposed to provide at no cost It is also not clear that DCPS
+confirmed that Riverside's full evaluation included the same components as In-Roads'. The
+Protester pointed out several other anomalies in a comparison of proposed prices between In-
+Roads and several successful awardees which DCPS' perfunctory cost comparison methodology
+produced. Contrary to DCPS' assertion that based on its evaluations the proposals, it received
+the best value or price, it appears that it may not have receive the best value or prices because its
+cost analysis was flawed
+                                                                                                     [7628]
+
+                                                              Educational In-Roads, CAB No P-552
+
+        The competitive range consists of all proposals that have a reasonable chance of being
+selected for award, generally including proposals that are technically acceptable or reasonably
+susceptible of being made acceptable through discussions. Kranco, Inc , B-242579, May 1, 1991,
+91-1 CPD1425. The competitive range is to be "determined on the basis of cost or price and other
+factors, in accordance with the evaluation criteria that were stated in the solicitation." 27 DCMR
+1620 1 Cost or price may emerge, as it did here, as the dominant factor in determining whether
+proposals fall within the competitive range. A flawed determination of cost, which causes an
+otherwise acceptable proposal to be prematurely excluded from the competitive range, is
+unreasonable. The record does not support the agency's conclusion, that at this stage in the
+procurement, In-Roads did not have a reasonable chance for award.
+
+         While In-Roads claims that the technical evaluation was also unreasonably performed, we
+find it unnecessary to review those grounds of protest, since we are satisfied that the protester was
+prejudiced by the actions of DCPS in the evaluation of In-Roads' cost proposal and in In-Roads'
+exclusion from the competitive range based on DCPS's evaluation of its costs. Accordingly, we
+sustain the protest.
+
+         The record indicates that contracts were awarded to four companies in May, 1998. We are
+hesitant to disturb the on-going provision of services to DCPS by terminating those contracts, given
+the difficulties DCPS has had with special education compliance. Yet, we believe that a remedy can
+be devised which does not jeopardize DCPS' efforts to timely perform assessments of students, but
+also^accords with notions of fairness for the protester We, therefore, order that within ten days from
+the date of this decision that the Office of Corporation Counsel arrange a telephone conference with
+the Board, In-Roads and program and procurement officials of DCPS, to discuss possible remedies.
+ Further, we order payment of reasonable bid preparation costs. In-Roads shall prepare those costs
+and present them to DCPS before the date set for the telephone conference.
+
+SO ORDERED.
+
+DATE October 27. 1998
+                                                                   SlivlKlNS
+                                                       Chief Administrative Judge
+
+01
+^-Afrud i£
+CLAUDIA BOOKER
+                 ).~^K
+                     \J^QG   k
+Administrative Judge
+

@@ -1,0 +1,405 @@
+                                                                                                       [5461]
+
+
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+
+APPEAL OF:
+
+        HELLER ELECfRIC CO., INC.                                  )
+                                                                   )        CAB No. D-939
+        Under Contract No. 018-AA-04-0-2-BJ                        )
+
+
+       For the Appellant: Marc S. Zweben, Esquire. For the District of Columbia Public
+Schools: Cecelia E. Wirtz, Esquire and Christopher G. Lipscombe, Esquire.
+
+      Opinion by Administrative Judge Zoe Bush, with Administrative Judges Terry Hart
+Lee and Jonathan D. Zischkau, concurring.
+
+
+                                                 OPINION
+
+       By this appeal, Heller Electric Co., Inc. (Heller), on behalf of its subcontractor
+Associated Builders, Inc. (Associated) and Associated's painting subcontractor P.M. Ballard,
+Inc. (Ballard), requests an equitable adjustment to its contract with District of Columbia
+Public Schools (DCPS) in the amount of $31,334.65 plus interest, for the purchase of
+additional paintY Heller appeals the decision of the Superintendent of Schools, which
+upheld the decision of the contracting officer (A.F. A)Y
+
+
+Findings of Fact
+
+             1.     The contract at issue was for the electrical modernization at River
+Terrace and Noyes Elementary Schools in the amount of $1,199,500.00 and $35,000.00 per
+addendum No.3, for a total of $1,234,500.00. Work was to start on September 8, 1992 and
+to be completed within 270 calendar days or by May 27, 1993. The contract was signed by
+the Superintendent of Schools on November 25, 1992. (A.F. B).
+
+               2.     The parties have jointly stipulated that Heller entered into an oral
+subcontract with Associated in the amount of $352,500.00, for the interior finishing,
+restoration of areas disturbed by the electrical construction, and painting. Heller's bid and
+contract price to DCPS incorporated Associated's bid and subcontract price to Heller. (J.S.
+
+
+   LlBecause the amount of this is appeal is less than $50,000.00, this case has been decided pursuant to D.C.
+Code § 1-1189.4(c), and Board Rule 216, 36 OCR 2709, for Optional Accelerated Procedures. By joint motion
+of September 13, 1993, the parties requested to cancel the hearing set for this matter and instead requested
+a decision on the record, which motion was granted by Board Order of September 14, 1993.
+
+   YDocuments in the appeal file submitted by DCPS are referred to as (AF._).
+                                                                                                       [5462]
+
+
+                                                    -2-                CAB No. D-939, Heller Electric Co., Inc.
+
+4).11 Associated entered into a written painting subcontract with Ballard on January 7,
+1993, in the amount of $69,700.00. (J.A.F 16).1/ Associated's bid and subcontract price to
+Heller incorporated Ballard's bid and subcontract price for the painting. (J.S. 5). Heller's
+subcontract with Associated and Associated's agreement with Ballard were not submitted
+for agency approval, and were not approved pursuant to the general terms and conditions
+of the contract. (J.S. 6).
+
+              3.    Painting requirements are set forth in the specifications, at section
+09900 (J.A.F. 3), and in the contract drawings. Subsection 09900.1.1 provides in part as
+follows:
+
+                                                   ***
+                B.       Paint exposed surfaces whether or not colors are designated in
+                         'schedules', except where a surface or material is indicated not
+                         to be painted or is to remain natural. Where an item or surface
+                         is not mentioned, paint the same as similar adjacent materials
+                         or surfaces. If color or finish is not designated, the Architect
+                         will select from standard colors or finishes available.
+
+Subsection 09900.1.2 provides in part as follows:
+
+                A.       Product Data: Submit manufacturer's technical information,
+                         label analysis, and application instructions for each paint
+                         material proposed for use.
+
+                                                   ***
+                K.       Application: Apply paint in accordance with the manufacturer's
+                         directions. Use applicators and techniques best suited for
+                         substrate and type of material being applied ....
+
+                         1.      Paint colors, surface treatments, and finishes are
+                                 indicated in 'schedules.'
+
+                         2.      Provide finish coats that are compatible with primers
+                                 used.
+
+                         3.      The number of coats and film thickness required is the
+                                 same regardless of application method. Do not apply
+
+
+   :liThe parties submitted to the Board on September 29, 1993, Joint Stipulations of Fact, which are
+hereinafter referred to as (J.S._).
+
+   1.1A joint appeal file, supplementing the District's appeal file, was submitted to the Board on October 1,
+1993, and is hereinafter referred to as (J.A.F._).
+                                                                                             [5463]
+
+
+                                            -3-              CAB No. D-939, Heller Electric Co., Inc.
+
+                            succeeding coats until previous coat has cured. Sand
+                            between applications where required to produce a
+                            smooth, even surface.
+
+                     4.     Apply additional coats when undercoats or other
+                            conditions show through final coat, until paint film is of
+                            uniform finish, color, and appearance ....
+
+              4.     There are two sets of contract drawings affecting the painting, one that
+was issued with the original IFB (J.A.F. 1), and a second set that was issued with Addendum
+No.3 to the IFB. (Id.)
+
+              5.     The original drawings for both schools provided floor plans depicting
+the rooms in each building, at sheets CIE-6 and 7 (River Terrace) and C2E-8 and 10
+(Noyes). The drawings include a "Room Finish Schedule" that provides information
+concerning the work to be performed in the rooms, including demolition, patching, plastering
+and painting. (J.S. 10).
+
+                      The original drawings also set forth "Demolition Notes," "Finish Notes"
+and "General Notes." The Room Finish Schedules include columns for each category of
+notes, and indicate in the columns which notes apply to which rooms. (J.S. 11).
+
+            6.     The "General Notes" column on the original drawings indicates that
+General Note D applies to certain of the rooms in the two schools. General Note D states
+as follows:
+
+                     Finish all new work as required to match adjoining or existing.
+                     (A.F. 4, CIE-6).
+
+               7.     On May 22, 1992, the Agency issued-Addendum No.3 (J.A.F. 2), which
+includes 23 pages of notes and sketches, including deletions, revisions, and additions to the
+specifications, drawings, and general conditions. Addendum No.3 also includes several
+sheets of drawings (J.A.F. 1).
+
+               8.     Addendum No.3 does not specifically refer to or revise the painting
+specifications. Pages 5 and 6 of the 23 pages list certain deletions and changes to drawings
+CIE-6 and 7. Page 15 and 16 of the 23 pages list certain deletions and changes to drawings
+C2E-8 and 10. The 23 pages of Addendum 3 notes and sketches do not reference that there
+are any deletions or changes to the Room Finish Schedules or General Notes shown on the
+original drawings. (J.S. 14).
+
+              9.    Included in the drawings issued with Addendum No.3 are drawing
+CIE-14 and 16 (River Terrace), and C2E-17 and 18 (Noyes). Drawings CIE-14 and C2E-17
+are identified as "Finish Schedule," which provide information concerning painting in
+columns for "Room No.," "Room Name," "Floor," "Base," "Walls," "Column" and "Remarks."
+(J.A.F. 18).
+                                                                                              (5464)
+
+
+                                            -4-              CAB No. D-939, Heller Electric Co., Inc.
+
+            10.     The Addendum 3 drawings do not reference any deletions or changes
+to the Room Finish Schedules or General Notes shown on the original drawings. (l.S. 16).
+Drawings CIE-16 and C2E-18 set forth "Supplemental Finish Schedule and General Notes."
+Supplemental Notes 3 and 12 state as fol1ows:
+
+              3.     Contractor shal1 paint walls in corridors, offices, stairwel1s,
+                     classrooms, lunchrooms, cafeterias, assembly areas and toilet
+                     rooms as indicated in the finish schedule ....
+
+              12.    Contractor shall provide manufacturer's standard color selection
+                     to be reviewed in the field. Colors will be selected by the
+                     architect. Contractor shall coordinate more than one color per
+                     wall where painted wainscots exist. (A.F. 1).
+
+              11.    The prime contract contains the standard Changes clause, Article 3,
+which states that the Contracting Officer:
+
+             ... may at any time ... by written order ... make any change in the work
+             within the general scope of the Contract, including but not limited to
+             changes ... in the Contract Drawings and specifications .... If any
+             change under this Article causes an increase ... in the Contractor's cost
+             of ... the performance of any part of the work under this Contract,
+             whether or not changed by any order, an equitable adjustment shall be
+             made and the contract shall be modified in writing accordingly ....
+             (A.F. B).
+
+               12.    On or about October 31, 1992, Heller forwarded to the Contracting
+Officer a submittal, from Ballard, for agency approval (l.A.F. 14). The submittal included
+a "color deck" of standard colors from the Duron Paint Company, together with an October
+23, 1992 letter from Ballard to Associated (Id.) that states:
+
+              As per the note on the drawings [supplemental note 12, on sheets
+              CIE-16, C2E-18], enclosed is a Duron color deck for the Owner's use
+              and/or selection. However, it should be noted that since we only
+              figured to prime new plaster patches and apply one finish coat to
+              match existing, color selections must closely approximate those existing
+              in order to adequately cover in one coat.
+
+               13.   On or about October 31, 1992, the Contracting Officer sent Heller's
+transmittal, the Duron Color Deck and Bal1ard's October 23, 1992 letter, to DCPS' technical
+department, the Office of Capital Improvements and Construction Services, for input. (l.S.
+18). No response thereto was received.
+
+              14.    On or about February 2,1993, DCPS issued revisions to the Addendum
+3 drawings (drawing sheets CIE-14 and C2E-17) (l.A.F. 18). The revised drawings list two
+colors for River Terrace walls -- Duron's "Yuma Yel1ow" and "Cream Apricot" -- and four
+                                                                                                [5465]
+
+
+                                              -5-              CAB No. D-939, Heller Electric Co., Inc.
+
+colors for Noyes walls -- "Yuma Yellow," "Still Water Blue," "Mint Tone Green," and "Big
+Sur." The revised drawings also add a "Color" column to the finish schedules, under the
+"Room Name" heading, which indicates with which of the colors the rooms are to be
+painted. (Id.)
+
+              15.     By letter to the Contracting Officer's Technical Representative dated
+February 12, 1993 (J.A.F. 19), Heller forwarded a February 9, 1993 letter from Ballard (Id.)
+in which Ballard stated that the "color selected for the walls will not cover the existing colors
+in a one coat application, " and contended that the colors were a change to the contract
+painting requirements.
+
+              16.    By letter to the Contracting Officer's Technical Representative dated
+February 24, 1993 (J.A.F. 20), Heller forwarded a February 12, 1993 letter from Ballard (Id.)
+requesting a Contracting Officer's decision on the dispute over the finish paint color.
+
+              17.     By letter dated March 24, 1993 (J.A.F. 22), the Contracting Officer
+issued her decision denying that the color selection set forth on the February 2, 1993
+drawings was a change, and directing Heller to proceed in accordance with the color
+selection. Heller and Ballard proceeded in accordance with the Contracting Officer's March
+24, 1993 directive, and the painting is virtual1y complete. (J.S. 22).
+
+               lK     By letter of April 7, 1993 (J.A.F. 24), Heller appealed the Contracting
+Officer's decision to the Superintendent on behalf of Ballard. By letter of April 16, 1993,
+the Superintendent upheld the Contracting Officer's decision, and the instant appeal ensued.
+(A.F. A).
+
+                               POSITION OF THE PARTIES
+
+Appellant
+
+        Appellant takes the position that Heller informed DCPS, before the contract was
+signed, of Ballard's interpretation that the new wall finish paint colors were to match the
+existing paint colors and would therefore only require one coat of paint. Appellant urges
+that when DCPS entered into the contract without expressing a contrary view, it was thereby
+bound by Ballard's interpretation, Perry & Wallis, Inc. v. United States, 427 F. 2d 722, 728,
+192 Ct. Cl. 310 (Ct. Cl. 1970); Creswell v. United States, 427 F. 2d 722, 725, 146 Ct. Cl. 119
+(Ct. Cl. 1959).
+
+       Next, Appellant argues that its interpretation of the contract documents must govern
+because its interpretation gives force and effect to all of the contract provisions. Rastall v.
+CSX Transportation, Inc., 574 A. 2d 271, 278 (D.C. App. 1990). Finally, Appellant argues
+that even if DCPS' interpretation is also reasonable, Heller's interpretation should govern
+because DCPS furnished the contract documents. Intercounty Construction Corp. v. District
+of Columbia, 443 A. 2d 29, 32 (D.C. App. 1982).
+                                                                                                       [5466]
+
+
+                                                   -6-                CAB No. D-939, Heller Electric Co., Inc.
+
+DCPS
+
+        DCPS points out that Appellant has cited case law concerning contract principles for
+latent ambiguities in contract language. However, where, as here, there is no ambiguity, the
+wording of the contract controls and resort cannot be had to extraneous circumstances or
+subjective interpretations. Duhame v. United States, 119 F. Supp. 192, 195, 127 Ct. Cl. 679,
+683 (1954). DCPS further argues that Appellant's interpretation fails to give effect to the
+contract language which stated that the architect was to select the paint color. (See F.F.
+10).~ With regard to the contract principle that ambiguities are to be construed against
+the drafter, DCPS argues that because there is no ambiguity, the principle is inapplicable.
+
+
+                                               DECISION
+
+       We can find no merit in Appellant's position.
+
+       To support its argument that only one coat of paint was required by the contract
+documents, Appellant relies on General Note D which states, "Finish all new work as
+required to match adjoining or existing." (See F.F. 6). However the General Notes do not
+address painting specifically on drawing C1E-6.~/ Painting is addressed in the Finish
+Notes)' We do not agree that General Note D limits DCPS to use paint which matches
+
+
+  ,ilFindings of Fact are hereinafter referred to as (F.F._).
+
+  ~The General Notes provide:
+
+       General Notes:
+
+       A       All walls and ceilings should be restored to match original condition prior
+               to commencement of work.
+
+       B.      For mounting heights of new fixtures see specifications.
+
+       C.      All cutting and patching shall be included for completion of this work.
+               Materials shall match adjoining.
+
+       D.      Finish all new work as required to match adjoining or existing.
+
+                                                                                            (AF. D., CIE-6)
+
+  Z'The Finish Notes provide:
+
+       Finish Notes:
+
+       lA      All newly patched and plastered walls are to receive paint finish to match
+               adjacent walls.
+
+       2A      New wall tiles should match existing wall tiles.
+                                                                                               (continued ... )
+                                                                                                          [5467]
+
+
+                                                     -7-                  CAB No. D-939, Heller Electric Co., Inc.
+
+existing colors. Instead, the plain language of the contract requires the contractor to "paint
+walls in corridors, offices, stairwells, classrooms, lunchrooms, cafeterias, assembly areas and
+toilet rooms as indicated in the finish schedule .... " (emphasis added). (F.F. 10). Finish
+schedules were in fact provided by DCPS which set forth information for painting (F.F. 9),
+including the colors to be used for River Terrace and Noyes Schools. (F.F. 14). Further,
+the plain language of the contract states, "Colors will be selected by the architect." (F.F. 10).
+Appellant also can point to no contract language which states that only one coat of paint is
+necessary. To the contrary, the plain language of the contract states, t'[a]pply additional
+coats when undercoats or other conditions show through final coat, until paint film is of
+uniform finish, color and appearance." (F.F. 3).
+
+       We conclude therefore, that there is no ambiguity in the contract language with
+respect to paint colors, or number of coats of paint required. Instead, Appellant has
+advanced an unsupported position with respect to contract interpretation because the
+painting subcontractor Ballard apparently based the bid on its erroneous assumption that
+only one coat of paint was necessary. (See l. Ballard Affidavit, l.A.F. 33). As DCPS has
+correctly pointed out, a contract is not rendered ambiguous by the mere fact that the parties
+disagree as to its meaning, when the disagreement is not based on reasonable uncertainty
+of the meaning of the language used. Perry & Wallis, Inc., 192 Ct. Cl. at 315; Bishop
+Engineering Co. v. United States, 180 Ct. Cl. 411, 416 (1967). Where a contract is not
+ambiguous, the wording of the contract controls its meaning and resort cannot be had to
+extraneous circumstances or subjective interpretations to determine such meaning. Perry &
+Wallis, Inc., 192 Ct. Cl. at 315; Duhame, 127 Ct. Cl. at 683.
+
+        Further we are not persuaded by Appellant that only its interpretation of the contract
+gives force and effect to all of the provisions of the contract. To the contrary, Appellant'S
+interpretation misconstrues or ignores the finish schedules for painting, the paint color
+selected by DCPS, the numbers of coats of paint required, and the authority of the architect
+to select the paint colors. (See P.P. 3, 5, 9, 10). With respect to the contract provision
+which states that the architect shall select the colors (F.F. 10), Appellant asserts that "the
+reason for having the architect make the selection is that there are many gradations of
+similar colors from which to choose, and the architect is responsible for decisions on
+aesthetics." (Appellant's Brief, p. 20). However, there are no contract provisions which limit
+the architect to selecting only gradations of similar colors. Instead, the architect is limited
+only by Subsection 00900.1.1B, which provides, "If color or finish is not designated, the
+Architect will select from standard colors or finishes available." (F.P. 3). However, the
+colors for both River Terrace and Noyes were selected and indicated in the contract
+
+
+  Z! (... continued)
+
+        3A        New painted plaster ceiling should match existing.
+
+        4A        New wood wainscot should match existing wainscot.
+
+        5A        New wood ceiling should be painted to match existing.
+
+                                                                                              (AF. D., CIE-6).
+                                                                                             [5468]
+
+
+                                            -8-              CAB No. D-939, Heller Electric Co., Inc.
+
+documents (F.F. 14). In any event, Appellant's "understanding" of the Architect's role is not
+supported by the contract documents.
+
+         We need not address AppelIant's final argument concerning construing ambiguities
+in its favor because we have found that there is no ambiguity.
+
+       WHEREFORE, the foregoing premises considered, the appeal is hereby DENIED.
+
+
+DATE: November 17, 1993
+
+
+
+
+CONCUR:
+
+
+
+
+JO
+Ad
+                                                                                      [5469]
+.
+                                      -9-             CAB No. D-939, Heller Electric Co., Inc.
+
+
+
+
+    Copies to:   Marc S. Zweben, Esquire
+                 Braude & Margulies, P.e.
+                 1025 Connecticut Ave., N.W., Suite 200
+                 Washington, DC 20036
+
+                 Cecelia E. Wirtz, Legal Counsel
+                 Christopher G. Lipscombe, Legal Counsel
+                 District of Columbia Public Schools
+                 415 12th Street, N.W., Room 1114
+                 Washington, DC 20004
+

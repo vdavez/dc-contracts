@@ -1,0 +1,137 @@
+                               GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                CONTRACT APPEALS BOARD
+PROTEST OF:
+
+Fort Myer Construction Corporation                                    )
+                                                                      )        CAB No. P-0688
+Under Solicitation No. POKA-2003-B-0048-JJ                            )
+
+       For the Protester, Fort Myer Construction Corp.: Joe R. Caldwell, Jr., Esq., O. Kevin
+Vincent, Esq. and Robert J. Wagman, Esq., Baker Botts L.L.P. For the Intevenor, Capitol
+Paving of D.C.: Douglas Datt, Esq., Gavett and Datt, P.C. For the Government: Howard S.
+Schwartz, Esq. and Talia S. Cohen, Esq., Assistants Attorney General.
+
+       Opinion by Administrative Judge Matthew S. Watson with Chief Administrative Judge
+Jonathan D. Zischkau and Administrative Judge Warren J. Nash concurring.
+
+                                                  OPINION
+                                         (LexisNexis Filing ID 3742512)
+
+        Fort Myer Construction Corporation was the second low bidder on each of the two award
+groups of a procurement for paving services. The Lane Construction Corporation was the low
+bidder on each award group. Fort Myer protested against award of both award groups to Lane
+alleging that the solicitation forbids award of both award groups to the same contractor. The
+District asserts that the language of the solicitation does not require award of each of the two
+award groups to different contractors. The Board finds that the language relied upon is, at best,
+ambiguous, and that the ambiguity was apparent prior to bid opening. A protest based upon
+alleged improprieties in a solicitation which are apparent prior to bid opening . . . shall be filed
+with the Board prior to bid opening . . . .” Rule 302.2(a). As the subject protest was filed after
+bid opening, the protest is untimely. Fort Myer’s protest is dismissed.
+
+                                               DISCUSSION
+
+        The subject solicitation was issued December 5, 2003, requesting bids for repairs to
+curbs, gutters, sidewalks, utility cuts, and base pavements citywide. On February 12, 2004, the
+Contracting Officer issued Addendum 3, which, among other changes, requested separate bids
+for work in Wards 1 through 4 and Wards 5 through 8. The addendum added a new Section I.19,
+entitled “Manner of Award” which states:
+
+        It is the District’s intention to make multiple awards to two separate contractors. Award, if made
+        will be to a separate bidder in the aggregate for each group of items indicated by the Aggregate
+        Award Group as listed below. Bidder must quote unit prices on each item within each group to
+        receive consideration. In the event that the District is unable to make an aggregate award, the
+        District may award on an individual basis each item within an aggregate award. NO BIDDER
+        WILL BE AWARDED MORE THAN ONE AWARD GROUP. (Emphasis in original).
+
+        I.19.1 Award Group 1- Wards 1, 2, 3 and 4
+
+        I.19.2 Award Group 2 – Wards 5, 6, 7 and 8.
+
+(Exhibit 1).
+                                                         2         Fort Myer Construction Corp., CAB No. P-0688
+
+
+       Although inartfully worded, the inserted clause clearly provided that the entire citywide
+requirement would not be awarded to a single contractor. The inserted clause divided the
+citywide requirements into two award groups and stated that the District would make awards to
+“two separate contractors.” The clause emphasized its intent by summarizing at the end of the
+paragraph in all capital letters “NO BIDDER WILL BE AWARDED MORE THAN ONE
+AWARD GROUP.”
+
+       On February 26, 2004, the contracting officer issued Addendum 4, which replaced1
+Section I.19 as added by Addendum 3 with a new Section I.19 reading as follows:
+
+        It is the District’s intention to award two separate contracts. Award, if made will be to a separate
+        bidder in the aggregate for each group of items indicated by the Aggregate Award Group as listed
+        below. Bidder must quote unit prices on each item within each group to receive consideration.
+
+        I.19.1 Award Group 1 – Wards 1, 2, 3 and 4
+
+        I.19.2 Award Group 2 – Wards 5, 6, 7 and 8.
+
+(Exhibit 1).
+
+         The revised clause contained in Addendum 4 is less clear than the Addendum 3 clause,
+but, if read alone, it could reasonably be interpreted also to preclude award of both award groups
+to a single contractor. The first sentence of the Addendum 3 clause is modified in the Addendum
+4 clause to state that the District intends to “award two separate contracts” instead of to make
+“multiple awards to two separate contractors.” This modification of the language supports the
+District’s assertion that award was permissible to only one contractor. The second sentence,
+however, remains unchanged. It reads “Award, if made will be to a separate bidder in the
+aggregate for each group.” While the term “separate contracts” in the revised first sentence
+could include two contracts made with a single contractor, or two contracts made with two
+contactors, it is more difficult to read “a separate bidder . . . for each group” in the unchanged
+second sentence as meaning anything other than award to two separate contractors, since it
+would make little sense to refer to each of the bids from the same contractor for each of the
+separate award groups as coming from “a separate bidder.” But the second sentence in
+Addendum 4 cannot be read in isolation. Addendum 4 followed and changed a clause inserted
+by Addendum 3. It is not therefore reasonable to assume the revised clause was not intended to
+make any change from the original clause. An interpretation which gives reasonable meaning to
+an amendment is preferred to an interpretation which renders the amendment superfluous. See,
+Restatement, Second, Contracts § 203, Comment b. This is particularly true where, as here, the
+drafter of Addendum 4 specifically deleted the emphasized notice that “no bidder will be
+awarded more than one award group.” The deletion clearly indicated that the District intended to
+reserve the right to award both award groups to a single contractor. In context, the most
+reasonable interpretation of the Addendum 4 clause is that the District was permitted to award
+both award groups to a single contractor. At best, the language of the clause is ambiguous.
+
+        Fort Myer filed this protest after bid opening. Pursuant to statute and our rules, “[a]
+protest based upon alleged improprieties in a solicitation apparent prior to bid opening . . . shall
+be filed with the Board prior to bid opening . . . .” D.C. Code § 2-309.09 and Rule 302.2(a). “A
+bidder who fails to seek clarification of an ambiguity on the face of a solicitation prior to bid
+1
+  The Board assumes that the new language replaced the previous section of the same designation. The Addendum
+is silent as to whether the original § I.19 was to be deleted.
+                                                            3         Fort Myer Construction Corp., CAB No. P-0688
+
+
+opening risks a contrary interpretation of the allegedly ambiguous provision and is precluded
+from raising such issues to the Board after opening.” Maryland Construction, Inc., CAB No. P-
+0650, Jan. 17, 2002, 50 D.C. Reg. 7398, 7399. Here, the better reading of Addendum 4’s section
+I.19 is that the District retained the right to award both award groups to a single contractor. To
+the extent that the language could be read differently, Fort Myer was obligated to seek
+clarification prior to bid opening. It did not do so. Accordingly, the protest is dismissed as
+untimely.2
+
+
+
+June 16, 2004                                                                    /s/ Matthew S. Watson
+                                                                           MATTHEW S. WATSON
+                                                                           Administrative Judge
+
+Concur:
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+      /s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+
+
+
+
+2
+    In light of the Board’s decision to dismiss the protest as untimely, Protester’s Request for Discovery is denied.
+

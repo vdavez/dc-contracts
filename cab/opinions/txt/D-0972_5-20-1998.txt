@@ -1,0 +1,1109 @@
+                         •
+                    GOVERNMENT OF DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+                                 717 14th Street, N. W., Suite 430
+                                     Washington, D.C. 20005
+                                          (202) 727-6597
+
+
+                                                     Date: May 20, 1998
+
+
+
+
+TO:          Roderic L. Woodson, Esquire
+             Claudette M. Winstead, ill, Esquire
+             Alexander, Bearden, Hairston & Marks, LLP
+             8601 Georgia Avenue
+             Lee Plaza - Suite 805
+             Silver Spring, MD 20910-3437
+
+             Marceline D. Alexander
+             Assistant Corporation Counsel
+             Corporation Counsel
+             441 4th Street, N.W., 6th Floor
+             Washington, D. C. 20001
+
+
+SUBJECT:     CAB Nos. D-971 & D-972, Appeal ofEbone' Inc.
+
+             Attached is a copy of the Board's opinion in the above-referenced matter.
+
+
+
+                                                              ~\'ii'out ~~
+                                                              Clerical Assistant
+
+
+
+
+Attachment
+                          •
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+                                                                     •
+APPEAL OF:
+
+        EBONE, INC.                                           }
+                                                              }       CAB Nos. D-971, D-972
+        Under Contract Nos. 91-0165-AA-2-0-KA                 }          (Consolidated)
+                       and 92-0052-AA-2-0-KA                  }
+
+      For the Appellant: Roderic L. Woodson, Esq., Claudette M. Winstead, II, Esq.,
+Alexander, Bearden, Hairston & Marks, LLP. For the Government: Mark D. Back, Esq., and
+Marceline D. Alexander, Esq., Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+                                             OPINION
+
+        In these consolidated appeals, Appellant, Ebone, Inc., seeks equitable adjustments under
+two contracts, claiming that it suffered compensable delay when the District issued notices to
+proceed with work in early 1993 rather than in late 1992 as anticipated by Ebone. The District
+argues that Ebone itself caused the delayed notices to proceed and that Ebone never complained
+about the delays until well after contract completion and final payment. After the Board conducted
+a hearing on the merits of entitlement and quantum, but before submission of posthearing briefs,
+Ebone moved to dismiss the appeals based on "final decisions" of the agency contracting officer
+issued three months before the Board hearing, purporting to grant Ebone the full amounts sought
+in its original claims filed with the Director of the Department of Administrative Services
+("DAS"). The District argues that the final decisions executed by the agency contracting officer
+are invalid because the contracting officer did not receive prior approval from the Office of
+Corporation Counsel, the District's authorized legal representative in Board appeals. We conclude
+that the agency contracting officer's final decisions issued during the pendency of these appeals
+are invalid because under the then-applicable provisions of the Procurement Practices Act only
+the DAS Director had contracting authority to settle these disputes once Ebone initiated the
+statutory disputes process by filing its claims with the DAS Director. In addition, the Board,
+pursuant to its de novo jurisdiction, has authority to review whether an authorized contracting
+officer's action to settle a dispute pending before the Board is a valid exercise of discretion. Based
+on our review of the hearing testimony and the remainder of the record, we conclude that Ebone's
+claims are frivolous. Accordingly, the appeals are denied.
+
+                                              FACTS
+
+        In 1992, Ebone and the District entered into Contract No. 91-0165-AA-2-0-KA, entitled
+"FY -91 First Supplemental Joint Sealing ContractU (the "SJS ContractU), and Contract No. 92-
+0052-AA-2-0-KA, entitled "FY -92 First Slurry Seal Contract" (the "FSS Contract"). (Joint
+Stipulation of Facts ("JSFU) 1 1).
+                         •                     -2-
+                                                                   •Ebone, Inc., CAB Nos. 0-971,0-972
+
+
+         Ebone's president and only witness, Ms. Belle Vee Gentry, described her expectations
+concerning when Ebone would receive written notice from the District to proceed with the contract
+work. She stated that based on her experience, she anticipated the District taking approximately
+three months, but no more than four months, from the time of bid opening to furnish the
+successful bidder the contract documents for execution. After receiving the contract documents,
+the contractor would require approximately 10 days to obtain signatures from the contractor's
+surety, execute the contract documents, and return them to the District. Then, the District would
+take approximately another 30 days to execute the contract, return an executed version to the
+contractor, and arrange a pre-construction meeting. At the pre-construction meeting, the parties
+would discuss the scheduling of the work, the identity of the government's inspector, and the date
+set for issuing the notice for the contractor to proceed with the contract work. The contractor
+would then prepare for mobilization and within a week or two, sometimes a month, the contractor
+would be ready to start work. Finally, the District would issue the written notice to proceed and
+the contractor would begin contract work. (See, e.g., Tr. 13-14,26, 142-143). Ms. Gentry
+testified that the construction season for the type of work involved in the two contracts generally
+begins on April 1 and ends on November 30. (Tr. 27-32). The FSS contract had a special
+provision which provided that after October 15, the slurry seal compound could not be applied
+when the surface temperature is below 50 degrees Fahrenheit. (0-972 AF Ex. 2, Special
+Provisions, at 10, 1 B; Tr. 32-33, 39-40). For the SJS contract, the manufacturer's specifications
+required inter alia that joint sealing material could not be placed when the temperature was under
+40 degrees Fahrenheit. (D-971 AF Exs. 8, 9; Tr. 185-186, 284-288).
+
+       The SJS Contract
+
+        EOOne has appealed the DAS Director's deemed denial of its claim for delay and impact
+damages arising from a delay in issuing the notice to proceed under the SJS contract. Ebone seeks
+$138,494.54, consisting of $17,983.52 for the "direct cost increase on equipment and materials,"
+$74,186.78 for "extended overhead" for 206 days of delay, and the remainder apparently for
+interest on those amounts. 1 (JSF 1 13; Ebone's May 8, 1996 Supplemental Submission, Ex. 3;
+Tr. 172, 181).
+
+        On January 17, 1992, Ebone submitted a bid on DPW's Invitation for Bids ("IFB") No.
+91-0165-AA-2-0-KA for the SJS contract. (JSF 12). The SJS contract called for Ebone to fill
+cracks in designated roads using a rubber-like sealing compound. (Tr. 139). Ms. Gentry testified
+that she received the draft contract documents on March 31, 1992, and returned the executed
+documents to DPW on April 8, 1992. (Tr. 143-144). The fully executed SJS contract is dated
+June 18, 1992, at its bid price of $500,000.00. (JSF 1 3). The total price is composed of an
+amount of $435,000 for applying the joint sealant (an estimated 250,000 pounds of sealant
+multiplied by a unit price per pound of $1. 74) and $65,000 for maintenance of highway traffic.
+(Tr. 277-279). The contract specified a completion date "within one-hundred eighty (180)
+
+
+1  In its posthearing brief, Ebone states its increased costs as $92,170.30. Unlike for the FSS
+claim, Ms. Gentry did not explain in her testimony why the amount of Ebone's claim under the
+SJS contract increased by $46,324. (Ebone's Initial Posthearing Brief, at 6; cf. Tr. 134-135).
+                         •                     -3-
+                                                                    •Eboni, Inc., CAB Nos. 0-971, 0-972
+
+
+consecutive calendar days after specified starting date." (JSF   1 4).   The contract itself does not
+specify a starting date.
+
+         On August 20, 1992, DPW and Ebone conducted a pre-construction meeting (JSF 15),
+attended by, among others, Ms. Gentry, on behalf of Ebone, Mr. David Blankenship, the
+president of Quality Paving, a subcontractor Ebone was considering for executing the SJS
+contract, and Messrs. William Sebesky and James Williams, DPW inspectors. (Tr. 145-149, 231-
+233). Mr. William Clements, the DPW project engineer in charge of the SJS project, did not
+attend the meeting. (fr.280). Mr. Clements, who is now retired from the District government,
+was the only witness for the District. He testified that the preconstruction meeting normally
+would have been scheduled closer to the June 18, 1992 contract execution date but for a two-
+month delay caused by Ebone. He recalled that Ebone was not ready to start work because Ebone
+was undecided as to whether Ebone itself or a subcontractor was going to perform the sealing
+work. (fr.281-282). Mr. Clements testified that, in the first or second week of September 1992,
+Ms. Gentry informed him that Ebone was in the process of selecting a subcontractor to perform
+the work and that the subcontractor's superintendent would contact him to arrange for a review
+of the equipment and the joint sealing materials. Within about two weeks, the subcontractor's
+superintendent met with Mr. Clements, advising him that the subcontractor could not start work
+until early to mid-October 1992. The subcontractor representative stated that he did not want to
+start the project at that time of the year because of the temperature requirements for applying the
+joint sealing material. (fr. 283-287). After the meeting, Mr. Clements contacted Ms. Gentry,
+telling her what the subcontractor's superintendent had stated to him. Mr. Clements offered
+Ebone the choice of starting work then (and meet the temperature requirements) or waiting until
+spring of the next year. Mr. Clements testified that Ms. Gentry agreed that the best time to start
+work would be in April 1993. (Tr. 288-289).
+
+        At the hearing, Ms. Gentry presented a quite different picture of the events. She testified
+that Mr. Clements inspected Ebone's equipment in July 1992 and found the equipment acceptable.
+ (fr. 145-146, 169-170, 355). She stated that Ebone was prepared to commence work in August
+1992, or earlier, but was prevented from doing so because DPW did not have inspectors available
+to monitor the work. Ms. Gentry stated that she had frequent conversations with Mr. Clements
+and his supervisors before and after the August preconstruction meeting in which she asked when
+Ebone could begin work. She testified that at the end of October or early November, Mr.
+Clements informed her that Ebone would not be able to start the work until spring 1993.
+
+        We credit Mr. Clements' testimony and find that Ms. Gentry's testimony was not credible
+in certain critical areas. In her hearing testimony, Ms. Gentry testified that Ebone had always
+intended that it would supply the labor to place the joint sealant on the roads and intended to
+procure the material and equipment from a supplier. (Tr. 160, 176). She testified that when
+Ebone submitted its bid on January 17, 1992, it had lined up a supplier called Crafco to supply
+the material and equipment. (fr. 167). She asserted that she had the equipment at her facility
+and that Mr. Clements and an assistant of his had come to the facility in July 1992 to inspect the
+equipment. (fr. 170). She testified that Ebone "used a specific supplier/subcontractor's quotation
+                          •                      -4-
+                                                                      • Eboni, Inc., CAB Nos. 0-971,0-972
+
+
+at the time of the bid to bid this particular contract and indicated to them [the supplier] an [intent]2
+to utilize their product in the performance of this contract on award of the contract." (Tr. 175).
+During the line of questioning, counsel directed her attention to two quotations from a supplier
+called Chesapeake Supply & Equipment Company. (Ebone's Supplemental Submission, filed May
+13, 1996, Ex. 6, at 1-2). The first quotation sheet, dated January 28, 1992, identifies "Crafco"
+as the brand name for the joint sealing material and equipment. (Ex. 6, at 1; Tr. 179). Ms.
+Gentry explained that Chesapeake was an authorized distributor for Crafco. (Tr. 359-360). The
+second quotation sheet, dated March 9, 1993, contains new (and higher) price quotations for the
+material and equipment. For its actual performance commencing in April 1993, Ebone apparently
+did in fact procure its material and equipment from Chesapeake according to the March 1993
+quotation from Chesapeake. In presenting Ebone's damages claim, Ms. Gentry was using the two
+price quotations to establish material and equipment price escalation caused by DPW's alleged
+delay in issuing the notice to proceed. (Tr. 177-180, 193). She testified that she would execute
+the signature block on the quotation sheet to lock the supplier into the quoted price. (Tr. 176-
+177). Although the January 28, 1992 quotation sheet in the record does not contain her signature
+in the block calling for acceptance, she stated unequivocally during her direct and cross
+examination that she did accept Chesapeake's January 28, 1992 quotation and that the quotation
+was good until the end of 1992. During cross examination, she stated that a copy of Chesapeake's
+1992 quotation bearing her acceptance signature would be found in a separate file for Chesapeake
+in her office but not in the contract file which she brought with her to the hearing. (Tr. 193-195).
+She never mentioned Quality Paving during any of her testimony in Ebone's case-in-chief.
+
+          The importance of Ms. Gentry's failure to mention Quality Paving during Ebone's case-
+in-chief became clear once Mr. Clements testified for the District. As discussed earlier, he
+testified that in the crucial time between contract execution on June 18, 1992, and October 1992,
+Ebone was considering using a subcontractor named Quality Paving (not Chesapeake as a supplier)
+to furnish not only the equipment and material for the joint sealing work but also the labor to place
+the sealing material on the roadways. Her omission of any mention of Quality Paving during her
+testimony in Ebone's case-in-chief, while emphasizing a role played by Chesapeake, is highlighted
+by her testimony regarding the preconstruction meeting. When first asked who attended the
+August 1992 preconstruction meeting, she could only recall that she and Robert Gentry attended
+for Ebone and Mr. Clements attended for the District. (Tr. 145-146). She omitted mentioning
+that Mr. David Blankenship, the president of Quality Paving, attended the meeting. When her
+counsel presented her with a copy of an attendance sign-in list for the meeting (apparently,
+discovered by the District shortly before the hearing), she testified: "In that meeting, it was
+myself, David Blankenship, Bill Sebesky and Jim Williams, the two inspectors from DPW, and
+some other people from Ebone .... " (Tr. 148-149). Without explaining, she said she would
+have to see the original of the document to confirm the attendees. (Tr. 149). Even after
+identifying Mr. Blankenship's name on the list, she still made no mention of Quality Paving or
+that Mr. Blankenship was Quality Paving's president. When asked whether the subject of the
+meeting related solely to the SJS contract (and did not include the FSS job), she replied: "That
+is what we would have - the individual that accompanied me, that is what we would have been
+
+
+2 Ms. Gentry's use of the word "intent" was mistakenly transcribed as "attempt." (Tr. 175).
+                         •                     -5-
+                                                                   • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+in to discuss, the joint seal." (Tr. 150). The "individual" she was referring to was Mr.
+Blankenship. Based on our review of the remainder of her hearing testimony and the written
+record, we find that she did not want to identify her dealings with Quality Paving in the period
+June 1992 through October 1992 or that the president of Quality Paving attended the August 1992
+preconstruction meeting because that would lend credence to the District's defense that Ebone was
+considering whether to subcontract the SJS contract performance Oabor, equipment, and materials)
+to Quality Paving since Ebone was working during the summer of 1992 on another DPW contract.
+(See District's Prehearing Brief, at 5 & n.2). Similarly, a discussion of her dealings with Quality
+Paving would clearly undermine Ebon6's case built on the premises that: (1) Ebone intended to
+furnish its own labor to perform the contract work, and (2) Chesapeake was Ebon6' s chosen
+supplier of equipment and material. Moreover, Ebon6's delay claim would certainly fail if Mr.
+Clements accurately testified that: (1) Ms. Gentry had called him in September 1992 to arrange
+a meeting between Mr. Clements and a Quality Paving's representative;3 (2) the Quality Paving
+representative advised Mr. Clements that in October 1992 it would be too late in the season for
+Quality Paving to start the work; and (3) Ms. Gentry and Mr. Clements subsequently agreed to
+postpone starting work until spring 1993.
+
+       Ms. Gentry's earlier testimony unraveled when she testified during Ebon6's rebuttal case.
+When asked whether she was familiar with a company called Quality Paving, she said she was.
+(Tr. 355). When asked whether Quality Paving was to be Ebon6's "subcontractor" in the SJS
+contract, she stated:
+
+       These words are used interchangeably -- to me they're not. Quality was my
+       supplier for equipment on the joint seal contract, they're the ones that brought this
+       equipment out for us and the department inspected it in July of '92. And Mr.
+       Blankenship, who is the president and owner of Quality is the one that attended the
+       preconstruction meeting - that [was shown on] the District [attendance] list
+       [which] was [dated] August 20th, 1992.
+
+(Tr. 355). This testimony contradicts her earlier testimony that Chesapeake was Ebon6's supplier
+of equipment and material. She denied being aware of a meeting between representatives of
+Quality Paving and DPW in September 1992. (Jd.). When Ebon6's counsel asked whether a
+statement by a representative of Quality Paving to DPW would prevent Ebone from going forward
+with the contract, Ms. Gentry answered:
+
+       It wouldn't have prevented us from going forward with the contract, but one of the
+       reasons that I don't identify my subs immediately to the District, is because they
+       take a position of management of my business affairs, which is inappropriate in my
+       opinion. Conversation with my subs is not the responsibility of the District. That
+       is business management. Let me finish, please. The point I'm trying to make is,
+       they could have impacted on that particular supplier, equipment supplier at that
+
+
+
+3 Mr. Clements believes that his meeting in September 1992 was with Quality Paving's
+superintendent. He could not recall the superintendent's name.
+                          •                     -6-
+                                                                    •   Ebone, Inc., CAB Nos. D-971, D-972
+
+
+         time, meaning that I would have to use an alternative. . . .
+
+(Tr. 356). When counsel followed up with the question, "[W]ould you have performed the
+contract notwithstanding the statement from Quality Paving?" she replied: "Yes. I was ready to
+go to work at that time.... n (Tr. 357). When asked whether she was stating that Quality Paving
+was also to provide the materials, with Ebone providing the labor, Ms. Gentry replied:
+
+         No, sir. They [Quality Paving] were going to supply the equipment, they, to my
+         knowledge, from my remembrance, they are not a distributor like Chesapeake was,
+         Chesapeake was an authorized distributor of the company that we decided to use
+         the material. They could have been, but I don't recall that they were. They were
+         just the equipment people and we needed an approval on the equipment before we
+         could order the materials . . . .
+
+(Tr.359). Beyond the inconsistencies in Ms. Gentry's hearing testimony,4 we find that the key
+testimony presented by Ms. Gentry at the hearing is directly contradicted by sworn statements she
+made in an affidavit signed by her on February 22, 1995, and filed with the Board on May 8,
+1996. 5 (Supplemental Submission by Ebone Incorporated in Support of Claims for Breach of
+Contract and Equitable Adjustments, Ex. 1). In paragraphs 8-12 of her affidavit, Ms. Gentry
+states:
+
+         8. At the time of bid (January 17,1992), Ebone had arranged for execution on
+         this contract by a sub-contractor, Quality Pavemarking of Alexandria, Virginia.
+
+         9. At the preconstruction meeting held between Ebone and DPW on August 20,
+         1992, Ebone was ready to start work and requested DPW inspection of equipment
+         and materials.
+
+         10. On September 20, 1992, I contacted DPW regarding the inspection and start
+         date as no further action was taken by DPW since the August 20th meeting.
+
+         11. At no time did Ebone agree to a postponement of the start of the SJS Contract.
+
+         12. Because of the delay in issuance of the Notice to Proceed until April, 1993,
+         the sub-contractor selected by Ebone became unavailable due to other work
+         commitments. When Ebone was orally informed during March, 1993 that the
+         Notice to Proceed was to be issued in April, 1993, Ebone determined to execute
+         the contract itself; entered purchase orders for supplies; and, submitted its
+         information to DPW for approval on or about March 30, 1993.
+
+
+
+
+4 There were other contradictions in her hearing testimony which detracted from her credibility.
+
+5   She was not confronted with the affidavit during the hearing.
+                         •                      - 7-
+                                                                     • Eboni. Inc., CAB Nos. 0-971, 0-972
+
+
+Thus, in paragraphs 8 and 12 of her affidavit, she confirms that Quality Paving was Ebone's
+selected "subcontractor,,6 who was to "execute", i. e., perform, the contract work and that Ebone
+determined to execute the contract work itself because Quality Paving "became unavailable due
+to other work commitments." That much was accurate. Throughout 1992, Ebone always intended
+that Quality Paving was going to provide labor, equipment, and materials. Ms. Gentry's case-in
+chief testimony, that in 1992 Ebone intended to furnish its own labor with Chesapeake supplying
+the equipment and material, was not accurate. Her testimony on rebuttal, that she had intended
+Quality Paving to be her "equipment supplier", was not fully accurate. Paragraph 9 of her
+affidavit, where she states that Ebone requested at the August 20, 1992 preconstruction meeting
+that DPW inspect the equipment and materials, also contradicts her hearing testimony that Mr.
+Clements had already inspected her equipment in July 1992.
+
+        We find Mr. Clements' testimony to be credible based on his demeanor on the witness
+stand and the consistency between his testimony and the entire written record. For example, his
+testimony concerning Quality Paving is consistent with those portions of Ms. Gentry's affidavit
+which state that Quality Paving was Ebone's intended subcontractor throughout 1992 and with a
+written report he made to his superiors on April 5, 1993, which states in pertinent part:
+
+       At the pre-construction meeting on 8/20/92, the contractor was in the process of
+       selecting a sub-contractor. In September the contractor had selected a sub-
+       contractor and was ready to start work. However, after meeting with the
+       contractor and the Engineer, it was felt to[o] late in the year to begin joint sealing.
+       The contractor and Engineer agreed to start this contract in the spring of the year
+       1993.
+
+In a report prepared for his superiors after Ebone filed its claim in September 1994, Mr. Clements
+wrote in pertinent part:
+
+       Contractor delayed having pre-construction meeting until 08/20/92. At the pre-
+       construction meeting, the contractor said they were still in the process of selecting
+       a subcontractor, not ready to start work.
+
+       In September [1992], the contractor had selected a subcontractor and was ready to
+       start work. However, after discussions with the contractor, subcontractor and the
+       Engineer, it was felt to[o] late in the year to begin joint sealing (specifications call
+       for 40 degrees and rising before lay down operations can begin). The contractor
+       and Engineer agreed to start this contract in the spring of 1993.
+
+       [L]ater, in December, the contractor notified the Engineer they would perform the
+       lay down operations for the joint sealing contract. They were renting all necessary
+       equipment to perform the work in accordance with DPW specifications.
+
+
+6 Ms. Gentry was careful in distinguishing between her use of the term "supplier" and
+"subcontractor." (E.g., Tr. 355).
+                         •                      -8-
+                                                                   • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+       In March [1993], the contractor requested an inspection and approval of rented
+       equipment. Equipment was inspected and approved March, 1993.
+
+(D-971 AF 8). In contrast (and despite Ms. Gentry's years of District contracting experience)
+there is not a single letter from Ebone to Mr. Clements, his supervisors, or the contracting officer
+notifying DPW that Ebone was ready to start work in 1992, that DPW was unreasonably delaying
+notice to proceed, or that Ebone was incurring costs as a result of DPW delay. (Tr. 163-164).
+
+         DPW transmitted notice to proceed with the SJS contract on April 12, 1993, and thereafter
+EOOne commenced work. (JSF 16; D-971 AF Ex. 8). Ebone performed the SJS contract work
+itself. (D-971 AF Exs. ll-A to ll-F). DPW issued six partial payments between May 5, 1993,
+and October 6, 1993, to Ebone for its work. (JSF 17; D-971 Exs. AF lO-A to lO-F). In a letter
+to Ebone dated November 27, 1993, DPW notified Ebone that all work under the SJS contract was
+completed and in substantial conformance with the contract specifications. (JSF 1 8; D-971 AF
+Ex. 6; Tr. 292-293, 299). DPW issued the final payment for the SJS contract on December 3,
+1993. (JSF 1 7.g; D-971 AF Ex. lO-G; Tr. 298-299).7
+
+         By letter of September 23, 1994, to DPW's contracting officer, Ebone requested
+compensation of $92,169.78 for extended overhead and increases in cost of materials, due to late
+issuance of the notice to proceed under the SJS contract. (JSF 1 9; D-971 AF Ex. 5). The
+September 23, 1994 letter was the first written notification by Ebone of any claim relating to the
+contract. Although Ms. Gentry testified that she gave oral notice to Mr. Clements' supervisors
+as early as the fall of 1992, neither her testimony nor the written record credibly establishes that
+EOOne provided actual notice to the contracting officer of its intent to file a delay claim prior to
+the September 23, 1994 letter. In another claim letter dated September 28, 1994, Ebone identified
+that its claim for extended overhead was based on an alleged 206-day delay to starting work on
+the SJS contract. (JSF 19; D-971 AF 4). DPW acknowledged receipt of Ebone's claim seeking
+additional compensation by letter dated October 17, 1994. (JSF 1 10; D-971 AF Ex. 3). On
+November 30, 1994, Ebone submitted its claim under the SJS contract to the DAS Director. (JSF
+, 11; D-971 AF Ex. 2). On May 30, 1995, Ebone filed a notice of appeal with the Board,
+docketed as CAB No. D-971, based on the DAS Director's deemed denial of its claim.
+
+       The FSS Contract
+
+       EOOne has appealed the DAS Director's deemed denial of its claim for delay and impact
+damages arising from a delay in issuing the notice to proceed under the FSS contract. Ebone
+seeks $132,199.57, consisting of $49,124.09 for the "direct cost increase on materials and
+equipment," $54,294.81 for "extended overhead", and the remainder for interest on those amounts.
+(JSF 130; Ebone's May 8, 1996 Supplemental Submission, Ex. 2; Tr. 69-72, 134-135).
+
+
+
+
+7 Until shortly before the hearing, Ebone never contended that it had not received final payment
+under the SJS contract. Although the joint stipulation is conclusive for establishing final payment,
+the remainder of the written record independently supports the fact of final payment.
+                         •                      -9-
+                                                                    • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+        On May 1, 1992, Ebone submitted a bid on IFB No. 92-oo52-AA-2-0-KA for the FY -92
+First Slurry Seal Contract ("FSS Contract"). (JSF, 14). The FSS contract called for Ebone to
+apply the slurry seal coating to designated asphalt roads to prolong the life of the roads in between
+major renovations and replacement. (Tr. 11). Ms. Gentry testified that she received on August
+26, 1992, a notice of award from DPW, dated August 21, 1992, then received the draft contract
+documents on September 8, 1992, and, on September 24, 1992, returned the executed documents
+to DPW. (Tr. 16-18). The fully executed FSS contract is dated October 14, 1992, at its bid price
+of $435,000.00. (JSF, 15). The price is based on a unit price of $0.87 per square yard of slurry
+seal in place multiplied by an estimate quantity of 500,000 square yards of slurry seal. (D-972
+AF 1, Pay Item Schedule). Like the SJS contract, the FSS contract specified a completion date
+"within one-hundred eighty (180) consecutive calendar days after specified starting date. (JSF II
+
+
+, 16). The contract itself does not specify a starting date. The contract contains a special weather
+requirement that the slurry seal not be applied after October 15 of the year where the surface
+temperature is below 50 degrees Fahrenheit. The parties have stipulated that the District did not
+issue the notice to proceed with work until the following spring, April 12, 1993. Thus, the
+question is: was Ebone ready and willing to commence work after contract execution on October
+14, 1992, but the District prohibited Ebone from getting started in October 1992, or, did the
+parties mutually agree in October 1992 to delay notice to proceed until spring 1993. The answer
+to the question, and thus Ebone's claim for late notice to proceed, rises or falls on the credibility
+of Ms. Gentry (for Ebone) and Mr. Clements (for the District) because their testimony is
+irreconcilable ..
+
+        The essence of Ebone's case is that Ms. Gentry anticipated Ebone going to work soon after
+contract execution and that Ebone would be doing the contract work using its own forces, i. e. ,
+not using a subcontractor:
+
+       Q       So then it's fair to say that Ebone was prepared to go forward to work and
+               anticipated going to work [after the October 14, 1992 date of contract
+               execution]?
+
+       AYes, I anticipated going to work and possibly having no less than 30 to 45
+         days of performance on this contract [during the winter season], maybe
+         more.
+
+       Q       Was Ebone going to perform the Slurry Seal contract itself?
+
+       A       Yes.
+
+       Q       Did it perform the Slurry Seal contract itself, in the end?
+
+       A       Yes.
+                         •                     - 10-
+                                                                    • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+(Tr.28).8
+
+         Mr. Clements, on the other hand, testified that: (1) Ms. Gentry had advised him before
+October 1992 that Ebone was going to be using a subcontractor (Tr. 230-232); (2) Ms. Gentry had
+advised him after contract execution that Ebone was negotiating with a firm called E.E. Lyons
+Construction to be its subcontractor to perform the contract work (Tr. 236); (3) Ms. Gentry and
+he agreed in October 1992 that based on the time of year it would be best to delay notice to
+proceed until the spring of 1993 (Tr. 239-241); and (4) he spoke with Lyons' superintendent in
+the last week of March or first week of April 1993 concerning Lyons' execution of the contract
+work (Tr. 241).
+
+        Based on numerous internal inconsistencies in Ms. Gentry's testimony, inconsistencies
+between her testimony and the record documentation, Mr. Clements' demeanor, and the overall
+consistency between Mr. Clements' testimony and the written record, we credit Mr. Clements'
+testimony and find Ms. Gentry's testimony to be inaccurate in several critical areas.
+
+        With regard to the events in 1992, Ms. Gentry testified that after she had returned the draft
+contract documents to DPW in September 1992, and received the fully executed contract dated
+October 14, 1992, she was expecting to receive a call from Mr. Clements arranging a
+preconstruction meeting in October and then a notice to proceed from DPW that same month.
+(Tr. 19-20). When she did not receive any call, she says she contacted Mr. Clements the week
+she received the executed contract documents to find out when Ebone could start work. She states
+that Mr. Clements responded that the lists identifying the road locations were still being prepared
+by DPW, that he had to get inspectors assigned, and that he would get back to her at a later time.
+(Tr. 20-24). She said that normally she would receive the location lists, the designation ot the
+inspectors, and the start date at a preconstruction meeting. (Tr. 25-26). She stated that there was
+no preconstruction meeting for the FSS contract in 1992 and that the preconstruction meeting held
+on August 20, 1992, related only to the SJS contract. (Tr. 19, 46, 147, 150). Ms. Gentry
+testified that Ebone was prepared to start work at the time the contract was executed on
+October 14, 1992, and that Ebone never indicated to anyone that it was unprepared to go forward
+with the contract work. (Tr. 26-28). She stated that she anticipated getting 30 to 45 days of
+contract work done during the winter season. (Tr. 28). She stated that she continued to call Mr.
+Clements and his superiors advising them that Ebone was anxious to get started prior to "going
+into winter suspension." (Tr. 28-29). She said that sometime around Thanksgiving, in 1992,
+DPW advised her that "we weren't going to be performing the work this year." (Tr. 29-30).
+
+       That Ebone always intended to execute the contract work itself, but was prevented from
+doing so by DPW, was the foundation for her assertion that Ebone was prepared to start work in
+October 1992. After testifying that Ebone intended to do the work itself, she explained the nature
+of her conversations with DPW representatives during the period January 1, 1993, to April 12,
+1993, this way:
+
+
+8 In its posthearing brief, Ebone states that it "performed the contract alone. Tr. 17,28." (Initial
+Post-Hearing Brief, at 8).
+                          •                      - 11 -
+                                                                      • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+
+        [flo solicit our lise so that we could start - actually, to solidify the renegotiations
+        on our material with our suppliers, and to see what materials, if any, we could
+        stock pile or take early delivery on, based on the quantity or volume we were
+        going to achieve on a daily or weekly basis....
+
+(fr. 43). Ms. Gentry's testimony concerning the role of Ebone and its "suppliers", however,
+shifted throughout the hearing. Her initial testimony was at best vague as to what Ebone's
+"suppliers" would be supplying. But she was unambiguous on the point that Ebone was going to
+furnish its own labor to perform the work. It was not until her testimony on material and
+equipment escalation damages that the inconsistencies in Ms. Gentry's testimony on the full scope
+of the role of Ebone's "suppliers" became apparent. First, she stated that she obtained oIlly
+materials and equipment from a "supplier." Later, she was compelled to admit that her payments
+to her "supplier" were essentially all of the direct costs for the contract, i. e., material, equipment,
+and labor costs. However, she did not want to admit that the supplier was really her subcontractor
+who furnished materials, equipment, and labor, because such an admission would undermine her
+claim that Ebone (using its own forces) was ready to begin performance in October 1992. We
+summarize the relevant portions of the written record and hearing testimony below.
+
+        In her initial written claim of 1994 submitted to the contracting officer, she identifies a
+"direct cost increase on equipment and materials" equal to $49,124.09. (D-972 AF 6 (September
+28, 1994 letter), at 3). During the hearing, she testified that this amount represented "the
+difference in actual cost of material and equipment to perform this contract once it was completed
+based on the actual estimated bid of the materials and equipment on that particular contract when
+it was bid." (Tr. 53-54). In a one-page note to her counsel, which Ebone had sought leave
+shortly before the hearing to include in the record, Ms. Gentry identifies three components to the
+$49,124.09 amount: an increase of "material costs" of $34,212.64; increased sales tax, insurance,
+and bonding of $3,352 (Tr. 65); and certain other increased costs equal to $11,559.45, variously
+described as either "equipment rental increase" or "subcontractor, labor & labor expenses." (See
+Ebone's Motion for Leave to File Out of Time Supplemental Materials in Support of its Claim,
+flied August 14, 1996, at 4).10 Although the Board did not admit the document into the record,
+Ms. Gentry's testimony repeatedly referenced the figures identified in that document. (Tr. 49-66,
+72-85). Most of her testimony was directed to the $34,212 component for alleged material
+escalation.
+
+
+
+
+9  She is referring to the list of road locations from DPW which would tell her which roads were
+to receive the slurry seal application.
+
+10 The document is undated, but undoubtedly was prepared by Ms. Gentry shortly before the
+August 12, 1996 filing date of the motion. We refer to the document because it places Ms.
+Gentry's hearing testimony in context and is relevant to the question of credibility. In its
+posthearing brief, Ebone states that the $11,559.45 amount represents increased costs for "rental
+equipment." (Ebone's Initial Posthearing Brief, at 14).
+                         •                     - 12 -
+                                                                   •  Ebone, Inc., CAB Nos. D-971, D-972
+
+
+        Ms. Gentry began by defining the increased material costs as the additional costs for lime,
+aggregate, emulsion, and the "main equipment relative [to] trucking, anything relative to getting
+that material to the company in order to perform thejob." (fr. 54, 57-58). When asked what the
+total invoice amounts were for lime, she replied:
+
+       I cannot tell you the actual invoice amounts for lime. I can tell you the actual total
+       payments to our supplier for that material and equipment . . . .
+
+(fr.55). When asked about the total invoice amounts paid to the supplier of the aggregate, she
+stated:
+
+       That encompasses the aggregate, the lime and emulsion - the actual Slurry Seal
+       machine itself, the trucks and any other tools or incidentals that we utilized to
+       actually make the slurry Seal and to apply the application.
+
+(fr. 56 (emphasis added». This testimony indicates that Ebone had been supplied with not only
+the material (and transportation of that material to Ebon6's facility), but also the equipment-
+the slurry seal machine, the trucks, and any other tools or incidentals - used to combine the
+materials into the slurry seal compound and to apply the slurry seal to the road surfaces. She
+confirmed that a single firm, E.E. Lyons Construction, had supplied all of the materials and
+equipment. (fr. 57-58). At this point she still made no suggestion that Lyons (rather than Ebone)
+furnished the labor for combining the materials and applying it to the road surfaces. As Ms.
+Gentry acknowledged elsewhere, performing the actual project work by furnishing materials,
+equipment, and labor would make Lyons a "subcontractor" not a "supplier." (fr. 96, 355).
+
+        As her testimony developed, Ms. Gentry was unable to identify the actual breakdown of
+material costs, stating that she would have to look at the individual material ticket orders (which
+she did not have at the hearing). (fr. 57-58). But she also testified that the supplier's material
+costs were separately collected under Ebon6's computerized job cost accounting system.
+However, she did not bring those figures or the job cost records to the hearing. (fr. 58, 73-77,
+80-82).
+
+        The repeated thrust of Ms. Gentry's testimony was that each component of the $49,124.09
+claim amount for material and equipment escalation was derived from the "actual hard costs"
+obtained from Ebon6's job cost system. (E.g., Tr. 52-60). For example, she stated that the
+$34,212 figure represented increased cost of materials from its supplier which, she said, was
+derived from material order tickets "for every ton, square yard, cubic yard" of material. (Tr. 55,
+57-58). It became clear during the hearing, however, that Ms. Gentry had calculated the total
+material and equipment escalation amount of $49,124.09 by taking the difference between the
+original unit cost estimate of $0.68 "per square yard for material and equipment" and the $0.75
+"actual cost" per square yard (a difference of $0.07) and multiplying that by the actual amount of
+material put in place, 701,772.77 square yards. (fr. 58-66, 77-78,80; cf Tr. 80-81,93-94, 104-
+106). She repeatedly contradicted herself on Lyons' involvement and what she meant by
+"materials and equipment." During her direct examination, she testified that the original unit cost
+estimate of $0.68 per square yard comprised the cost of material and equipment from her
+                         •                     - 13 -
+                                                                    • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+"supplier." (Tr. 58-59, 61). Then, she testified that the $0.68 per square yard estimate and $0.75
+actual "included everything" to perform and complete the contract:
+
+       [W]e knew our estimated cost to do this contract would be 68 cents per square
+       yard. That included everything. When we completed this contract, the cost had
+       gone up and, in fact had cost us just to perform 75 cents per square yard.
+
+(Tr. 65, 66). Later, she stated: "When we originally bid this contract, the cost that was
+identified, which consisted of all of our equipment and all of our materials to perform this contract
+was -- it included everything except for -- it was 68 cents a square yard." (Tr.77). Still later,
+she said the unit price of doing the work was "a composite of the work force, the equipment and
+the material on the Slurry [Seal contract]. (Tr. 84). During cross examination she stated that the
+total payment to her "supplier" (Lyons) was for "equipment and supplies to do this contract." (Tr.
+94-95). When asked if that constituted all of Ebone's costs, she replied: "No, it wouldn't have
+been all my costs, but it would have been the cost -- the hard cost, yes." (Tr. 95). When asked
+to itemize the total payment to Lyons, she replied that the payment "consists of equipment, all of
+the material and the related incidentals to that equipment to perform [the] contract." (Id.). She
+defined "incidentals" this way: "Well if there was fuel to go into the machine, if there was burlap
+to go on the back, if there was hand rakes or anything relative to that, those are incidentals
+relative to the equipment and materials to do this work." (Id.). When asked whether Lyons was
+"your subcontractor for this contract", she responded: "They were my supplier." (Tr. 96). She
+repeated that Lyons provided equipment, materials, and "incidentals." (ld.). Near the end of the
+cross examination, she said the unit estimate of $0.68 was for "my materials" and "my materials
+and equipment." (Cf. Tr. 98, 107 with Tr. 65).11
+
+         The District presented its case through the testimony of Mr. Clements. Mr. Clements
+testified, and the parties stipulated prior to the hearing, that a preconstruction meeting covering
+the FSS contract was held on August 20, 1992. (JSF 1 17; Tr. 226-232, 0-972 AF 18). Contrary
+to Ms. Gentry's testimony, Mr. Clements stated that the meeting covered both the SJS and FSS
+jobs, even though the FSS contract had not been formally executed by the parties. (Tr. 226-
+228). U He testified that he learned from Ms. Gentry before the preconstruction meeting that she
+intended to use a subcontractor for the FSS contract. (Tr. 230-232, 310-311). The parties did
+
+
+
+11 Although Ms. Gentry initially testified that she had paid her "supplier" $0.75 per square yard
+(her "actual costs"), she later admitted that Ebone had withheld about $20,000 from Lyons. (Tr.
+101-102, 104). In other words, Ebone had not paid Lyons as represented in its claim and in
+Ebone's contract certifications attesting to the payment of subcontractors and suppliers. (Tr. 102-
+104; D-972 AF Ex. 2l-F, at 3).
+
+U   We credit Mr. Clements' testimony on this point. Ms. Gentry never identified any other date
+that a preconstruction meeting was held for the FSS job. The record, including Mr. Clements'
+fIle memorandum and the Apri121, 1993 subcontractor approval request, supports his testimony.
+So too does Ms. Gentry's testimony that DPW issued a notice of award for the FSS contract
+precisely one day after the August 20, 1992 preconstruction meeting. (Tr. 17).
+                         •                     - 14 -
+                                                                    • Ebone, Inc., CAB Nos. D-971, D-972
+
+
+not discuss a starting date for perfonnance because the contract had not been executed. (Tr. 233-
+234). In addition, Ebone was still in the process of selecting a subcontractor. (D-972 AF 18, at
+1, 3; Tr. 265-268). After contract execution on October 14, 1992, Mr. Clements had a
+conversation with Ms. Gentry in which she indicated that Ebone was negotiating with Lyons to
+be the subcontractor. (Tr. 236, 230-231, 309-311). They also discussed the lay down
+temperature for the slurry seal because Ms. Gentry, initially; at least, was thinking of having
+Lyons start work at that time. (fr. 236, 240). After discussing the matter further, Mr. Clements
+and Ms. Gentry agreed, based on the time of year, that it would be better to start the following
+spring. (Tr. 239-243).
+
+         Mr. Clements testified that the next contact with Ebone occurred in March 1993, when he
+asked Ms. Gentry if she had a subcontractor in place. (fr. 243). Mr. Clements met with Lyons'
+superintendent in late March or early April 1993 to discuss the execution of the contract work.
+(fr. 241-242). Ebone submitted a "Subcontractor Approval Request" dated April 21, 1993,
+identifying Lyons as Ebone's subcontractor. That document bears Ms. Gentry's signature. (D-
+972 AF Ex. 18, at 3; Tr. 241). The record also contains the project's daily inspection reports and
+they all identify Lyons as Ebone's subcontractor during the contract performance period. (D-972
+AF Exs. 22-A to 22-E; cf. D-971 Exs. 11-A to 11-F).
+
+        In Ebone's rebuttal case relating to the FSS contract, Ms. Gentry testified that Ebone, at
+the time of bid, did not anticipate using "the subcontractor" to do the work, did not anticipate "the
+use of E.E. Lyons in any capacity," did not anticipate using Lyons as a subcontractor at the time
+of contract execution (October 14, 1992), and was not aware of conversations between DPW and
+Lyons regarding the FSS contract in 1992. (fr. 348-349). When asked whether a representation
+by Lyons, to the effect that Lyons could not go forward with the contract, would have prevented
+Ebone itself from going forward with the contract, she answered:
+
+       No, it would not have prevented Ebone from going forward with the Slurry Seal
+       contract. It could have and there have been instances where it was impacted on the
+       quotation, if you had solicited quotations from them, since they did end up on the
+       contract, which explained why the quotation went up for the year of '93 because
+       they had prior knowledge that we were not going to be able to buy the material
+       from them in the '92 season.
+
+(fr.350). When asked about a price quotation from Lyons in 1992, she responded: "Actually,
+we didn't use their price quotation in 1992." (ld.). Then she admitted that "We had received a
+price quote." (Jd.). When counsel asked again whether "any representation by E.E. Lyons to
+DPW [would] have prevented Ebone from going forward with work on the executed contract,"
+she replied: "We were prepared to go forward with the work on the contract, though any
+conversations that the District had with E.E. Lyons may have impacted any supplie[s] that they
+quoted, but it wouldn't have stopped us from going forward." (fr. 352). She then denied having
+any conversations with Lyons prior to October 14, 1992, adding: "[T]hey were not going to be
+the supplier at that time." (Jd.). When asked when was the first time that she had a conversation
+with Lyons concerning the FSS contract, she replied:
+                         •                    - 15 -
+                                                                   • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+       The answer is I'm sorry, yes, we had talked to E.E. Lyons about supplying us on
+       the contract .... [W]e had talked to E.E. Lyons about being a supplier on the
+       contract. There had been conversations with them. We needed a supplier on the
+       contract prior to August of 1992.
+
+ (Tr. 353). Then she said that her first conversation with Lyons was in October 1992. (/d.).
+Next she stated that E.E. Lyons was not her intended supplier but rather a supplier named General
+Paving, and added:
+
+       But obviously it was somebody - obviously, it was before the executed contract.
+
+
+
+       Yes, we had not decided on who the supplier was. We had not submitted our
+       supplier specifications, yet. We couldn't identify it to the District whom our
+       supplier was. I'm sorry. I'm thinking ahead here. I hadn't decided. How could
+       I tell anybody?
+
+ (Tr. 354). This final answer also corroborates Mr. Clements' testimony that Ebone was not
+prepared to go forward in 1992 because it had not finalized its arrangements with Lyons as its
+subcontractor.
+
+       The written record also supports Mr. Clements' testimony and contradicts Ms. Gentry's
+testimony, beginning with the following stipulated fact:
+
+       After discussions between Appellant [Ebone] and the DPW Engineer [Mr.
+       Clements], the FSS Contract start date was postponed until the Spring of 1993.
+       (D-972 AF 18, 19.)
+
+(JSF 1 18). The Appeal File exhibits cited in the stipulation are reports made by Mr. Clements
+to his superiors. One report, dated April 5, 1993, provides in pertinent part: "The contractor and
+Engineer agreed to start this contract in the spring of 1993. Specifications require 50 degrees and
+rising to properly construct Slurry Seal." (D-972 AF Ex. 19; Tr. 268-269). The other, prepared
+by Mr. Clements after Ebone filed its claim in September 1994, states that: (1) at the
+preconstruction meeting, Ebone advised that it was "still in the process of selecting a
+subcontractor," (2) by October 1992, Ebone still had not selected a subcontractor, and (3) the
+parties agreed that it was too late in the year (1992) to begin and that performance should
+therefore start in the spring of 1993. The report also states that in April 1993, Ebone "notified
+the Engineer they had selected a subcontractor." (D-972 AF Ex. 18; Tr. 264-268). As with the
+SJS contract, Ebone was unable to produce a single written document corroborating Ms. Gentry's
+recitation of the events giving rise to the delayed issuance of the notice to proceed.
+
+        In sum, the record clearly and convincingly demonstrates that in 1992 Ebone intended to
+have a subcontractor, E.E. Lyons, perform the contract work, and that Ebone agreed to delay
+notice to proceed until the spring of 1993.
+                         •                    - 16-
+                                                                   • Ebone, Inc., CAB Nos. D-971, D-972
+
+
+        The record also clearly and convincingly shows that Lyons in fact performed the contract
+work as Ebon6's subcontractor in 1993. Mr. Clements met with Lyons' superintendent in late
+March or early April 1993 to discuss the execution of the contract work. (Tr. 241-242). Ebone
+received an oral notice to proceed with the FSS contract on April12, 1993. (JSF 1 19; D-972 AF
+Exs. 18, 19). Ebone submitted a "Subcontractor Approval Request" dated April 21, 1993,
+identifying E.E. Lyons as Ebon6's subcontractor. (D-972 AF Ex. 18, at 3; Tr. 241). Ebone
+began work on the FSS contract on May 5, 1993. (JSF 121; D-972 AF Ex. 18). The project's
+daily inspection reports uniformly identify Lyons as Ebon6's subcontractor during the contract
+performance period. (D-972 AF Exs. 22-A to 22-E; cf. D-971 Exs. ll-A to ll-F). And, Ms.
+Gentry admitted that the subcontractor payments Ebone made to Lyons covered all of the job's
+direct costs. (Tr. 65, 78, 82, 94-95).
+
+        We also find that Ebone failed to give notice of its claim in a timely manner. Ebone never
+mentioned any impact costs (e.g., increased material and equipment costs) from the alleged delay
+even when it executed two bilateral change orders during the course of contract performance. 13
+In a letter to Ebone dated August 20, 1993, DPW directed Ebone to complete additional slurry
+seal work under the FSS Contract. The increase in the contract price was $139,200.00. (JSF 1
+23; D-972 AF Exs. 13, 14, 16; Tr. 259-263). In a letter to Ebone dated November 15, 1993,
+DPW further directed Ebone to complete additional work under the FSS contract. The increase
+in the contract price was $23,925.00. (JSF 124; D-972 AF Exs. 9, 10, 12; Tr. 253-259). These
+change orders were priced using the contract's unit price. Ebone never asserted in connection
+with these changes that its unit price should be upwardly adjusted to reflect cost increases as a
+result of DPW's alleged delay in issuing the notice to proceed. (Tr.108-113).
+
+        Ebon6' s claim was filed with the contracting officer long after final payment had been
+made. The District argues that the contract's Suspension of Work Clause expressly precludes an
+equitable adjustment claim after final payment has been made. The relevant facts are as follows.
+DPW issued six partial payments between June 7, 1993, and November 16, 1993, to Ebone for
+its work under the FSS contract. (JSF 122; D-972 AF Exs. 21-A to 21-F). In a letter to Ebone
+dated November 27, 1993, DPW notified Ebone that all work under the FSS contract was
+completed and in substantial conformance with the contract specifications. (JSF 1 25; D-972 AF
+Ex. 8; Tr. 252-253). DPW issued the final payment for the FSS contract, in the amount of
+$100.20, on December 3, 1993. (JSF 1 22.g; D-972 AF Ex. 21-G; Tr. 273-276). Ebon6's first
+notice of its delay claim is found in a letter to DPW dated September 23, 1994, that is, nine
+months after final payment. (JSF 126; D-972 AF Exs. 7, 6). During the hearing, Ms. Gentry
+claimed that the final payment of $100.20 had never been paid to Ebone. (Tr. 91-92). We did
+not find this testimony credible. In its submissions to the contracting officer, the DAS Director,
+and the Board, Ebone admittedly never claimed that it had not received final payment (Tr. 92-93).
+Also, in its Eichleay calculations, Ebone computed its allocable overhead using a contract billings
+figure which included the final payment amount. (Ebone's May 8, 1996 Supplemental
+Submission, Ex. 2, at 2). Finally, Ebone and the District jointly stipUlated two months before the
+
+
+13Although Ms. Gentry said that one of the bilateral change orders was really a unilateral change
+order, her testimony was plainly not credible. (Tr. 109-113; D-972 AF Ex. 13).
+                         •                     - 17 -
+                                                                    • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+hearing that final payment had been made. (JSF, 22.g).
+
+        After filing its delay claim with DPW under the FSS contract, Ebone submitted its claim
+to the DAS Director on November 30, 1994. (JSF, 28; D-972 AF Ex. 4). On May 30, 1995,
+EOOne filed a notice of appeal with the Board, docketed as CAB No. D-972, based on the DAS
+Director's deemed denial of its claim. (JSF, 30).
+
+       EOOne presented no job cost records or other financial documentation to support its alleged
+material and equipment escalation or unabsorbed home office overhead. (Tr. 73-77, 81-82, 84-
+85, 121, 123-124; see Board order dated March 26, 1996).
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over the consolidated appeals pursuant to section 903 of the
+Procurement Practices Act, D.C. Law 6-85 (formerly codified at D.C. Code § 1-1189.3 (1992».
+
+       A.      The Delay in Issuing the Notices to Proceed
+
+       Both the SJS and FSS contracts required contract completion within 180 consecutive
+calendar days after an unspecified starting date. The SJS and FSS contracts were executed on June
+18, 1992, and October 14, 1992, respectively. The District issued the notices to proceed for both
+contracts on April 12, 1993. Ebone claims additional material and equipment costs and
+unabsorbed home office overhead as a result of the delays in issuing the notices to proceed.
+
+       The Suspension of Work Clause for the SJS and FSS contracts provides in pertinent part:
+
+               If the performance of all or any part of the work is, for an unreasonable
+       period of time, suspended, delayed or interrupted by an act of the Contracting
+       Officer in the administration of the Contract, or by his failure to act within the time
+       specified in the Contract (or if not time specified, within a reasonable time), an
+       adjustment will be made for an increase in the cost of performance of the Contract
+       (excluding profit) necessarily caused by such unreasonable suspension, delay or
+       interruption and the Contract modified in writing accordingly. However, no
+       adjustment will be made under this Article for any suspension, delay, or
+       interruption to the extent:
+
+               1.     That performance would have been so suspended, delayed, or
+                      interrupted by any other cause, including the fault or negligence of
+                      the Contractor, or
+
+              2.      For which an equitable adjustment is provided or excluded under
+                      any other provision of the Contract.
+
+Standard Contract Provisions (1973), Article 26 (Standard Specifications for Highways and
+Structures (1974)).
+                         •                     - 18 -
+                                                                    • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+        Generally, in order for a contractor to recover for the government's delay in issuing a
+notice to proceed, any additional costs must be recovered under the contract's Suspension of Work
+clause. Triax-Pacific v. Stone, 958 F.2d 351, 354 (Fed. Cir. 1992); Excavation-Construction,
+Inc., ENG BCA No. 3858, 82-1 BCA 1 15,770 at 78,066. Where the contract is silent as to when
+the notice to proceed must be issued, the government has an implied obligation to issue the notice
+to proceed within a reasonable period of time. Manis Drilling, IBCA No. 2658, 93-3 BCA 1
+25,931 at 128,983. The contractor is only entitled to recover under the Suspension clause when
+the government's actions are the sole proximate cause of the contractor's additional loss, and the
+contractor would not have been delayed for any other reason during that period. Triax-Pacific v.
+Stone, 958 F.2d at 354; Merritt-Chapman & Scott Corp. v. United States, 528 F.2d l392, l397
+(Ct. Cl. 1976).
+
+         The record convincingly shows that Ebone was unable to get commitments from its
+intended subcontractors to begin performing the contract work in 1992 and that Ebone agreed with
+DPW to delay issuing the notices to proceed until the spring of 1993. The cause for the notice
+to proceed delay under the SJS contract was Ebone's inability to secure the commitment of its
+intended subcontractor, Quality Paving, to start performance in 1992 after contract execution on
+June 18, 1992. The cause for the notice to proceed delay under the FSS contract was Ebone's
+inability to secure the commitment of its intended subcontractor, E. E. Lyons, to start performance
+in 1992 after contract execution on October 14, 1992. The notice to proceed delay was not the
+fault of the District but, rather, was an accommodation to Ebone itself. See C. Walker Constr.
+Co., VABCA No. 1527, 82-2 BCA 1 15,799 at 78,249 (denying recovery where the parties
+mutually agreed to delay issuance of the notice to proceed); Amcat Corp., ENG BCA No. PC-99,
+95-2 BCA 127,742 at 138,323 (delayed notice to proceed caused by contractor's failure to have
+materials on site in a timely fashion); Manis Drilling, 93-3 BCA 125,931 at 128,983 (delayed
+notice to proceed caused by contractor's failure to timely submit performance bonds).
+
+        Our conclusions follow from our findings that the testimony provided by Ebone's president
+lacked credibility. A substantial amount of testimony, material to resolving the disputed issues
+on appeal, was offered by Ebone concerning its intent in 1992 to furnish its own labor to perform
+the FSS and SJS contract work, its intention only to use "suppliers" for material and equipment,
+and its calculation of alleged delay and impact damages. Although we have attempted to
+harmonize the hearing testimony of Ebone's president - internally, with regard to the affidavit
+of Ebone's president, with regard to testimony of the District's witness, and with regard to the
+written record - we could not do so.
+
+        The PPA provides a remedy against a contractor who is unable to support a claim and the
+inability is attributable to a material misrepresentation of fact or fraud by the contractor:
+
+       If a contractor is unable to support any part of his or her claim and it is determined
+       that the inability is attributable to a material misrepresentation of fact or fraud on
+       the part of the contractor, the contractor shall be liable to the District government
+       for an amount equal to the unsupported part of the claim in addition to all costs to
+       the District government attributable to the cost of reviewing that part of the
+       contractor's claim.
+                          •                    - 19-
+                                                                   • Ebone, Inc., CAB Nos. 0-971, 0-972
+
+
+D.C. Code § 1-1188.5(e)(1). We remand to the District's Chief Procurement Officer to
+determine whether an application for costs is warranted here.
+
+        We also conclude that Ebone's delay claims are barred under the Suspension of Work
+clauses of the SIS and FSS contracts. Ebone's claims arise under the Suspension of Work clause,
+which provides that no claim under the clause shall be allowed:
+
+        1.     For any costs incurred more than 20 days before the Contractor shall have
+               notified the Contracting Officer in writing of the act or failure to act
+               involved (but this requirement shall not apply as to a claim resulting from
+               a suspension order), and
+
+        2.     Unless the claim, in an amount stated, is asserted in writing as soon as
+               practicable after termination of such suspension, delay, or interruption, but
+               not later than the date of final payment under the Contract.
+
+Standard Contract Provisions (1973), Article 26 (Standard Specifications for Highways and
+Structures (1974». Under this Suspension clause we look to see whether the contractor first
+asserted its delay claim no later than the date of final payment under the contract.
+
+        The District issued notice to proceed for both of the contracts on April 12, 1993. Ebone
+received notification of acceptance of its work under the contracts from the District by letters
+dated November 27, 1993. The District made final payment for both contracts on December 3,
+1993, a fact to which Ebone stipulated. Ms. Gentry's subsequent testimony at the hearing that
+EOOne did not receive final payments under the contracts was not credible. Because Ebone first
+asserted its delay claims in September 1994, the claims are untimely.
+
+       B.      The Post-Appeal "Final Decisions"
+
+         On September 20, 1996, approximately one month after the Board's evidentiary hearing,
+Ebone filed two motions asking the Board to stay posthearing briefing and to dismiss the
+consolidated appeals on the ground that Ebone and DPW's contracting officer had previously
+executed settlements fully resolving the claims in dispute. The District opposed the motion on a
+number of grounds, primarily arguing that the agency contracting officer improperly attempted
+to settle the appeals without the knowledge, authority, and approval of Corporation Counsel who
+is representing the District in these appeals.
+
+         The relevant background is this. Ebone filed the captioned appeals on May 30, 1995.
+Counsel for the parties prepared their cases for a hearing scheduled for August 14-15, 1996. On
+August 1, 1996, at what was to be the prehearing conference, District counsel reported that it had
+just discovered that Ebone's principal and the DPW contracting officer were apparently in the final
+stages of consummating a settlement of the appeals, without the knowledge of either counsel, and
+that a "check was about to be cut." In a follow-up conference, District counsel reported that there
+was not going to be a settlement. Ebone's counsel did not dispute that assessment. Final
+preparations were made for the hearing, including a motion by Ebone for leave to supplement the
+                         •                     - 21 -
+                                                                    • Ebone, Inc., CAB Nos. D-971, D-972
+
+
+        EOOne contends that the May 16, 1996 "final decisions" constitute valid settlements of the
+appeals. Ebone argues that the District's Office of Corporation Counsel had no authority to reject
+the settlements entered into by the agency contracting officer. The District argues that the
+purported settlements are invalid because the contracting officer lacked legal authority to settle the
+pending litigation against the District without approval from District counsel. The District also
+argues that Ebone waived its right to have the settlements enforced by failing to raise the issue
+until four months later, and after the Board had conducted the hearing. We agree with the District
+that the May 1996 final decisions of the former DPW contracting officer have no legal effect, but
+our conclusion is based on a different rationale.
+
+        EOOne's appeals were filed with the Board in 1995 under the original PPA provisions of
+D.C. Law 6-85 granting the Board jurisdiction to "review and determine de novo" an appeal·by
+an aggrieved party "from a final decision by the [DAS] Director which is authorized by this
+chapter." D.C. Law 6-85, § 903 (formerly codified at D.C. Code § 1-1189.3 (1992)),,4 To
+review and determine an appeal de novo means that the Board makes findings of fact, based on
+a factual record created through Board proceedings, and makes legal conclusions, based on its
+findings of fact and the applicable law. The Board considers the final decision of the DAS
+Director but any findings of fact or conclusions of law made in the Director's final decision are
+given no presumptive validity. C.P.F. Corp., CAB No. P-413, Nov. 18, 1994,42 D.C. Reg.
+4902,4908; if. Wilner v. United States, 24 F.3d 1397 (Fed. Cir. 1994) (en banc) (holding that
+under the CDA the contractor is entitled to a de novo proceeding and a contracting officer's
+decision is not entitled to a presumption of correctness); 15 Assurance Co. v. United States, 813
+F.2d 1202,1206 (Fed.Cir.1987) (boards have authority to modify or nullify claim amounts
+awarded by the contracting officer); Southwest Welding & Mfg. Co. v. United States, 413 F.2d
+1167, 1184-85 (Ct. Cl. 1969) (the contracting officer's decision is deemed "vacated" when an
+appeal is filed with the agency board).
+
+        In these consolidated appeals, we are reviewing the DAS Director's "deemed denial" of
+EOOne's claims which were submitted to the DAS Director under the authority of section 805(a)
+of D.C. Law 6-85 (formerly codified at D.C. Code § 1-1188.5(a) (1992)). The Director made
+no findings of fact and no conclusions of law.
+
+       Under the PPA disputes resolution scheme applicable to these appeals (and unlike the
+federal CDA scheme), the DAS Director, not the agency contracting officer, is ultimately
+responsible for exercising contract disputes authority for the District government once a claim was
+filed with the Director pursuant to the then-applicable provisions of the PPA. Under those
+provisions, the contractor presents its claim to the DAS Director who conducts an informal
+
+
+
+14 By virtue of the Procurement Reform Amendment Act of 1996, the Board now reviews final
+decisions from contracting officers. D.C. Code § 1-1189.3 (Supp. 1997)
+
+15 Regarding federal contracting officer final decisions, the CDA provides that "[s]pecific findings
+of fact are not required, but, if made, shall not be binding in any subsequent proceeding." 41
+U.S.C. § 605(a).
+                           •                      - 22-
+                                                                       • Ebone, Inc., CAB Nos. D-971 , D-972
+
+
+hearing to review and make a decision on the contractor's claim, even if the contractor had
+previously filed a claim with the agency contracting officer. Thus, under the special review and
+approval authority exercised by the DAS Director under the former PPA disputes resolution
+scheme, an agency contracting officer was not authorized to take unilateral contract actions to
+resolve and settle contract disputes filed with the Director pursuant to former PPA section 805(a)
+without the approval of the DAS Director. See Francis v. Recycling Solutions, Inc., 695 A.2d
+63, 74 (D.C. 1997); Singleton Electric Co., CAB No. P-4ll, Nov. 15, 1994, 42 D.C. Reg. 4888,
+4894. This unique authority of the DAS Director is highlighted in Recycling Solutions, where the
+Court of Appeals held that the DAS Director alone was authorized under the PPA to seek judicial
+review of Board decisions. Id. at 74-75. The PPA's legislative history also supports our
+conclusion that this disputes resolution authority resided in the DAS Director, not the agency
+contracting officer, once a claim had been filed with the DAS Director. 16
+
+       Because there is no indication in the record that the DAS Director approved of the May
+1996 final decisions of the agency contracting officer purporting to modify Ebone's contracts by
+granting Ebone's claims, the final decisions are a nullity.
+
+        There is a second fundamental problem with Ebone's argument that we must give effect
+to these final decisions of the agency contracting officer. The PP A requires that we conduct a de
+novo review of the appealed decision. We carefully consider the rationale offered by a contracting
+officer to support the actions taken in a final decision - along with the remainder of the record
+prepared in the appeal proceedings - but we are not bound by such actions. See Burnside-Ott
+Aviation Training Ctr. v. Dalton, 107 F.3d 854, 858-59 (Fed. Cir. 1997). It is true that under
+the federal disputes mechanism, boards of contract appeals have recognized the authority of a
+contracting officer to settle a dispute while it is pending before the board. See, e.g., E-Systems,
+Inc., ASBCA No. 21091, 79-1 BCA 1 13,806 at 67,700-02 (and cases cited therein).
+Nevertheless, like other actions requiring the exercise of discretion by the contracting officer, the
+determination to settle a claim calls for the exercise of discretion by that official, and such a
+determination during the pendency of an appeal is reviewable by the Board. The federal boards
+and the courts will review determinations particularly committed to the discretion of the
+contracting officer to see whether discretion was abused. See, e.g., Burnside-Ott Aviation
+Training Ctr. v. Dalton, 107 F.3d at 859-60; L&H Constr. Co., ASBCA No. 43833, 97-1 BCA
+
+
+16   In the Council Report for Bill 6-191, which resulted in D.C. Law 6-85, the Council stated:
+
+         In addition, Title VIII of the bill provides for the Director to settle disputes arising
+         from the performance of contracts. The Director is authorized to debar or suspend
+         persons from receiving contracts for specific reasons as set forth. The Director has
+         the authority to render decisions on claims arising from an aggrieved contractor,
+         thus providing an administrative mechanism for resolving disputes. Appeals of
+         these decisions are made to the Contract Appeals Board.
+
+See COMMITTEE ON GOVERNMENT OPERATIONS, REpORT ON BILL 6-191, "DISTRICT OF COLUMBIA
+PROCUREMENT PRACTICES ACT OF 1985" at 4-5 (Oct. 10, 1985).
+                         •                     - 23-
+                                                                   • Ebone, Inc., CAB Nos. D-971, D-972
+
+
+, 28,766 at 143,555-56; 1homos W. Yoder Co., VACAB No. 997, 74-1 BCA , 10,424 at 49,250-
+51. Thus, even if DPW's contracting officer had received the DAS Director's approval to resolve
+Ebone's claims through the May 1996 final decisions, we would still have the authority to review
+those actions. Because of the important policy of encouraging parties to settle disputes pending
+before the Board, it will be rare when we have to conduct a detailed review as we have done for
+the purported settlements here.
+
+        Based on the record developed before the Board, we conclude that the May 1996 final
+decisions do not constitute a proper exercise of discretion. First, the final decisions do not
+identify any facts supporting the contracting officer's conclusions. Second, the contracting officer
+does not identify the documentation that he reviewed in reaching his conclusions. Third, it is most
+likely that the contracting officer was not even aware that the claims were pending before the
+Board and thus the contracting officer did not have the benefit of the documentation, testimony,
+and defenses identified by District counsel. Fourth, as a result of the case presentation by the
+parties, and the testimony given by the witnesses at the Board's evidentiary hearing, it is now
+quite clear that Ebone's claims are frivolous. Finally, it would work a serious injustice to the
+integrity. of the disputes process and to the District government were we to permit Ebone to
+receive unmerited compensation for frivolous claims improperly prosecuted before the Board.
+
+                                         CONCLUSION
+
+       The appeals are denied. The District shall determine whether an application for costs
+pursuant to D.C. Code § 1-U88.5(e)(l) is warranted.
+
+
+DATED: May 20, 1998
+                                                       JO
+                                                       Ad
+
+CONCURRING:
+
+
+
+~4
+LORI       . MKINS
+Chief Administrative Judge
+

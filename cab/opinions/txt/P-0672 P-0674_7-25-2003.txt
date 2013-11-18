@@ -1,0 +1,227 @@
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+        WHITMAN-WALKER CLINIC, INC.             )
+                                                )               CAB Nos. P-0672 and P-0674
+        Under Solicitation No. POHO-2002-C-1752 )
+
+
+       For the Protester, Whitman-Walker Clinic, Inc.: Nicole Greenidge-Hoskins, Esq., Interim
+General Counsel. For the District of Columbia Government: Howard Schwartz, Esq., and Warren J.
+Nash, Esq., Assistants Corporation Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Matthew S. Watson, concurring.
+
+                    ORDER SUSTAINING THE CPO=S DETERMINATION
+                     TO PROCEED WITH CONTRACT PERFORMANCE
+                                        CourtLink Filing ID 2202351
+
+
+        Whitman-Walker Clinic, Inc., filed a motion on July 1, 2003, challenging the June 24, 2003
+determination of the District=s Chief Procurement Officer (“CPO”), pursuant to D.C. Code 2-
+309.08(c)(2), to proceed during the pendency of the captioned protests with performance under a
+contract for centralizing the distribution and dispersal of anti-retroviral and other human
+immunodeficiency virus (“HIV”) related medications. Having reviewed the CPO’s determination and
+findings to proceed with contract performance, and the parties’ pleadings, we conclude that the CPO=s
+determination should be sustained. The determination is supported by substantial evidence that urgent
+and compelling circumstances that significantly affect interests of the District will not permit waiting
+for a decision of the Board on the protests.
+
+                                                BACKGROUND
+
+        In August 2002, the Department of Health issued Solicitation No. POHC-2002-R-1752, seeking
+proposals to centralize the distribution and dispersal of anti-retroviral and other HIV-related
+medications to the approximately 4,600 HIV-infected residents of the District. (Protest (P-0674), at 4;
+Whitman-Walker July 3, 2003 Motion, at 4-5; District July 7, 2003 Response, Exs. 1-2). On May 30,
+2003, the District and Care Pharmacies, Inc., entered into an indefinite delivery/indefinite quantity letter
+contract to provide the HIV medication dispensing services to the HIV population, consisting of
+approximately 3,000 District Medicaid patients and enrollees in a Medicaid HIV demonstration project
+pursuant to section 1115 of the Social Security Act (“1115 Waiver”), and to the approximately 1,600
+qualified District residents participating in the District’s AIDS Drug Assistance Program (“ADAP”).
+(Whitman-Walker Motion, at 4-5; District Response, Exs. 1-2). Previously, Medicaid patients were
+able to receive their medications at any Medicaid-enrolled pharmacy in the District, and ADAP
+participants received their medications exclusively through Care Pharmacies. Under the newly awarded
+contract, ADAP participants will continue to receive their medications from the Care Pharmacies
+                                                    -2-     Whitman-Walker Clinic, CAB Nos. P-0672, P-0674
+
+
+network, but Medicaid recipients will now obtain their HIV medications only through the Care
+Pharmacies network.
+
+        Prior to the new contract, pricing for medications varied significantly depending on whether the
+medication was dispensed to Medicaid recipients or ADAP participants. Under the ADAP, the District
+arranged and paid for the purchase of drugs under pharmaceutical “Prime Vendor Agreements”
+awarded by the United States Department of Defense. The District distributed these drugs to Care
+Pharmacies and paid Care a dispensing fee. As a result, the prices for ADAP-eligible individuals was
+significantly lower than Medicaid retail pricing. (Whitman-Walker Motion, at 5; District Response, Ex.
+2). Using the Federal 340-B Drug Pricing Program, Whitman-Walker states that its medication costs
+are only 2 percent higher than the contract prices the Department of Health pays DOD. The
+Department of Health says the price difference is on the order of 15 percent. (District Response, Ex. 2,
+at 3). Care Pharmacies has been under contract with the District for dispensing medications under the
+ADAP for approximately 10 years. Prior to the recent award to Care Pharmacies, the approximately
+3,000 HIV-positive Medicaid beneficiaries could obtain their HIV and AIDS-related medications from
+any Medicaid-enrolled pharmacy throughout the District, including Whitman-Walker. Whitman-
+Walker states that it provided HIV medication to over 500 of the District’s Medicaid HIV recipients.
+(Whitman-Walker Motion, Chiliade Aff., at 1).
+
+        In its initial protest of the award to Care Pharmacies, filed on June 11, 2003, and docketed as
+CAB No. P-0672, Whitman-Walker challenged the rejection of its best and final offer but did not
+specify any protest grounds because the debriefing process had not been completed. On June 24, 2003,
+the District filed its determination and findings, approved by the CPO, to proceed with contract
+performance while the protest was pending. Mr. Ronald Lewis, the chief executive officer of the
+Department of Health (“DOH”) provided the following facts justifying the continuation of performance:
+
+       The most immediate and critical impact of stopping work on this contract would be on
+       the AIDS Drug Assistance Program (ADAP). The entire ADAP program has begun to
+       transition to the new contract and all current clients are now being served under this new
+       contract, which began June 1, 2003. Interruption will jeopardize the lives of
+       approximately 1,800 persons who are receiving free HIV/AIDS drugs through the
+       program. Without the support of the Pharmacy Network contract services, there is a
+       strong possibility that the ADAP program would be become fee-for-service. Given the
+       cost of the drugs, an interruption of the contract would be devastating to both the clients
+       and to the Department of Health.
+
+       . . . . [T]he Department of Health is expanding its coverage of eligible residents of the
+       District of Columbia who are HIV positive. In recent months, the Medical Assistance
+       Administration [“MAA”], which provides medical assistance (Medicaid) to eligible
+       District residents, conducted an intensive review of pharmacy services provided to HIV-
+       infected beneficiaries. Given the high rate of sub-optimal antiretroviral therapy
+       utilization, the District seeks to improve monitoring, facilitate appropriate patient
+       education and outreach, and develop an HIV pharacotherapy adherence program. To
+       that end, DOH is able to expand HIV/AIDS pharmaceutical service through
+       implementation of the 1115 Waiver.
+       The 1115 Waiver was approved by the Center for Medicaid and Medicare Services
+                                                  -3-     Whitman-Walker Clinic, CAB Nos. P-0672, P-0674
+
+
+       (CMS), a Division of the [U.S.] Department of Health and Human Services, in August
+       [2001]. Section 1115 of the Social Security Act . . . allows state agencies to request a
+       waiver of the usual Medicaid requirements that would otherwise apply for persons who
+       participate in experimental, pilot, or demonstration projects. The 1115 Waiver . . .
+       expands Medicaid eligibility to persons with HIV/AIDS to an array of benefits not
+       otherwise covered by Medicaid. MAA expects to be able to provide coverage to
+       approximately 120-285 HIV infected adults . . . . However, this projection is contingent
+       upon MAA’s ability to administer the expansion without incurring additional cost to
+       MAA’s approved budget. The savings must offset the cost of implementation. Thus,
+       execution of the 1115 Waiver is contingent upon the District’s ability to procure the
+       costly HIV related pharmaceuticals at a substantial discount. The Federal government
+       currently provides matching funds to the District of Columbia at 70 to 30 percent ratios
+       to offset the cost of providing health services to Medicaid eligible recipients. . . .
+
+       Additionally, the CMS has already been advised of the contract award, and CMS
+       formally advised the District that CMS may rescind the Waiver if work stops. This
+       would prevent DOH from providing services to an additional 250 HIV/AIDS clients this
+       fiscal year and another 1,000-plus over the base year plus the four option years of the
+       contract and could possibly create a lapse in the program affecting the 70 to 30 percent
+       matches. This lapse in the program would also create an extreme hardship for the
+       District residents that are HIV infected clients and their families. . . .
+
+        In its motion challenging the determination to proceed with performance, Whitman-Walker
+states that the status quo would be better maintained by requiring the District to enter into a short
+emergency contract with Care Pharmacies similar to the District’s contract with Care that expired on
+June 30, 2003, for covering ADAP participants, and allowing Medicaid eligible patients to continue
+obtaining their medications from Medicaid-enrolled pharmacies, such as the one at Whitman-Walker
+Clinic. Whitman-Walker’s medical director states that the change to an all-Care Pharmacies network
+for ADAP and Medicaid will disrupt treatment regimens for HIV infected individuals:
+
+       The critical component of successful treatment for HIV disease is adherence to
+       prescribed anti-retroviral regimens. In order for treatment to be successful, patients
+       need to take more than 95% of their medication doses. If that level of adherence is not
+       maintained, the HIV virus is able to replicate and to develop resistance not only to the
+       prescribed medications, but also to many other anti-retroviral agents. This resistance
+       has been proven to result in poor clinical outcomes with rapid disease progression and
+       death. . . . In my experience, when HIV-positive patients change pharmacists,
+       adherence is often jeopardized, resistance develops and progression to AIDS and
+       ultimately death hastened. . . .
+
+(Whitman-Walker Motion, Chiliade Aff., at 1). Whitman-Walker states that if it does not continue to
+provide pharmacy services, its ability to offer comprehensive HIV-related care will be compromised.
+
+
+                                              DISCUSSION
+                                                    -4-    Whitman-Walker Clinic, CAB Nos. P-0672, P-0674
+
+
+       The standard for determining whether the District’s Chief Procurement Officer properly may
+override the automatic stay of D.C. Code § 2-309.08(c)(1) is provided in D.C. Code § 2-309.08(c)(2):
+
+       Performance under a protested procurement may proceed, or award may be made, while
+       a protest is pending only if the CPO makes a written determination, supported by
+       substantial evidence, that urgent and compelling circumstances that significantly affect
+       interests of the District will not permit waiting for the decision of the Board concerning
+       the protest. . . .
+
+        Because the stay provision is meant to provide effective and meaningful review of procurement
+challenges before the protested procurements become faits accomplis, we consider whether there will
+be irreparable harm to the protester and whether a corrective award may later be made if the protester is
+successful on the merits of its protest. In B&B Security Consultants, CAB Nos. P-0583 and P-0585, 46
+D.C. Reg. 8626, involving multiple awards for security services at government buildings, we sustained
+a CPO determination to override the automatic stay provided in D.C. Code § 2-309.08(c). Although the
+protester, who had been one of the incumbent contractors, urged us to require the District to extend
+various emergency contracts during pendency of the protests, we did not find maintaining the status quo
+through additional emergency contracts to be a compelling factor under the circumstances.
+
+        Whitman-Walker relies on Dairy Maid Dairy, Inc. v. United States, 837 F. Supp. 1370 (E.D. Va.
+1993), and cases cited therein, interpreting an analogous federal statutory stay provision found in the
+Competition in Contracting Act (“CICA”), for the proposition that the CPO must not only show that
+urgent and compelling circumstances significantly affecting interests of the government justify
+continuing performance of the newly awarded contract, but also that performance by the specific
+proposed contractor is urgent and compelling. The rationale seems to be that simply showing that
+performance of the contract is urgent and compelling would “eviscerate the purpose and effect of the
+stay provision . . . because performance of almost any government contract could conceivably be
+deemed ‘urgent and compelling circumstances.’” 837 F. Supp. at 1378-79. The District argues that the
+approach taken by Dairy Maid is inconsistent with the approach we have taken in interpreting the
+District’s stay provision in D.C. Code § 2-309.08(c). We read Dairy Maid and the cases it cited as
+standing for the principle that a court may examine whether award to a specific contractor is urgent and
+compelling, as part of the overall consideration of urgent and compelling circumstances. But such an
+examination may carry less weight under different facts. In Dairy Maid, the Army had agreed to revise
+and later reissue a protested solicitation and to negotiate a 6-month extension to Dairy Maid’s existing
+contract while the new procurement was being prepared. When a competitor offered to provide the
+Army the 6-month dairy requirement, the Army decided to compete the requirement. After the Army
+awarded the 6-month requirement to the competitor, Dairy Maid protested the award. The new contract
+was substantially identical to the one being replaced (except for duration) and the history of the
+administration of the contract “was replete with instances of contract extensions and reflected that the
+Army in fact had previously stayed award of a virtually identical contract under substantially similar
+circumstances.” 837 F. Supp. at 1378. The court also emphasized that for the award protest, the Army
+had failed to issue a determination identifying urgent and compelling circumstances justifying the
+override and that the terms of Dairy Maid’s existing contract were more favorable than the terms of the
+competitor’s contract. Our case is quite different.
+
+       Here, the new award for HIV medication services differs significantly from the prior scheme.
+                                                   -5-     Whitman-Walker Clinic, CAB Nos. P-0672, P-0674
+
+
+The contract that expired was Care’s contract for providing dispensing services only for ADAP
+participants. Medicaid pharmacy services were not provided by contract. Whitman-Walker provided
+pharmacy services for a portion of the Medicaid population infected with HIV. The purpose of the new
+contract is to centralize the distribution of HIV medication to ADAP participants as well as Medicaid
+recipients, reducing the costs the District pays for HIV medication services, and thereby permitting the
+District to expand the number of clients who receive services through the 1115 Waiver program. The
+District’s decision to proceed with performance of the new comprehensive contract with Care, rather
+than extend a less beneficial contract through an emergency contract action and potentially jeopardize
+its 1115 Waiver, was reasonable. Moreover, Whitman-Walker will not suffer irreparable harm should it
+prevail on its protests, and corrective action may be taken if the protests are sustained.
+
+       Accordingly, we deny Whitman-Walker’s motion challenging the CPO’s determination to
+proceed with contract performance.
+
+       SO ORDERED.
+
+
+DATED: July 25, 2003                                  /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+
+CONCURRING:
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

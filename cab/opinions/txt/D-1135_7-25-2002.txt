@@ -1,0 +1,183 @@
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+        AMERICAN FLAG CONSTRUCTION, INC.                           )
+                                                                   ) CAB No. D-1135
+        Under Contract No. 91-0037-AA-2-0-LA                       )
+
+      For the Appellant: Charles R. Jones, Esq., Jenkins & Jones. For the District of Columbia:
+Mark D. Back, Esq., Section Chief and Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judge Matthew
+S. Watson, concurring.
+
+                                                OPINION
+                                         CourtLink Filing ID 822334
+
+        Appellant American Flag Construction, Inc., had a contract with the District of Columbia to
+provide moving and hauling services to District agencies. After exercising the contract’s first option
+which extended the contract for an additional year, the District allowed the contract to expire at the
+end of the first option year. The District did not exercise the option for the second year because the
+Appellant failed timely to correct certain tax deficiencies. Appellant filed a claim with the
+contracting officer seeking $1,822,917.50 in damages and an order compelling the District to
+exercise the second year option. When the contracting officer denied the claim, Appellant filed its
+appeal here, arguing that the Appellant should have been awarded the second option year or an
+equivalent contract. The District has moved to dismiss for failure to state a claim or, in the
+alternative, for summary judgment. Because we conclude that the contracting officer had no
+obligation to exercise the second year option, the District is entitled to prevail on summary
+judgment.
+
+                                            BACKGROUND
+
+         The relevant facts are not in dispute. In July 1998, the District awarded the Appellant a
+contract to provide moving and hauling services. (Appeal File (“AF”) Ex. 2). The contract was for one
+year, with the District having the option to extend the contract for three one-year option periods. (Id.).
+The District exercised the first option in July 1999, extending the contract for an additional year. (AF
+Ex. 4). By letter of May 31, 2000, the contracting officer notified Appellant that it intended to exercise
+the contract for a second option year. (Statement of Controversy, Appellant’s Ex. 1). The District
+letter states that “[t]his preliminary notice does not obligate the District to actually exercise the option.”
+(Id.). Also on May 31, the District’s Office of Contracting and Procurement faxed to Appellant a tax
+certification affidavit that was to be completed and signed by Appellant and returned promptly to OCP
+to allow the Department of Employment Services and the Office of Finance and Revenue to determine
+whether Appellant had complied with its tax obligations. (AF Ex. 1; Appellant’s Ex. 4). This was part
+of the contracting officer’s effort to determine Appellant’s present responsibility. Appellant did not
+respond. On June 12, 2000, OCP again faxed the tax certification affidavit to Appellant, stating on the
+                                                  -2-         American Flag Construction, Inc., CAB No. D-1135
+
+
+
+fax cover page:
+
+        SEVERAL ATTEMPTS [HAVE] BEEN MADE TO RECEIVE THE TAX
+        CERTIFICATION AFFIDAVIT FROM YOU, BUT TO NO AVAIL. Your tax
+        certification affidavit is required to be evaluated . . . to determine whether your
+        company is in compliance or not. There is not enough time, the contract expires 7-10-
+        00. Please fill out the tax certification upon receiving and return ASAP for the Moving
+        and Services Contract . . . [n]o later than the close of business today.
+
+(AF Ex. 1). Appellant returned the completed affidavit to OCP the same day.
+
+        On June 14, 2000, the contracting officer learned from the Department of Employment Services
+that Appellant was not in compliance with the District’s tax filing and payment requirements. (AF Ex.
+2). By letter of June 14, the contracting officer notified Appellant of its noncompliance with the tax
+requirements and directed Appellant “to take measures immediately by June 21, 2000 to correct the
+noncompliance issues cited in the DOES verification document that is enclosed.” (AF Ex. 2). On June
+29, 2000, OCP learned from the Office of Tax and Revenue that Appellant still was not in compliance
+with the tax filing and payment requirements of District tax laws. (AF Ex. 3). OCP faxed the
+noncompliance notice to Appellant the same day. (Id.). On June 30, 2000, the contracting officer
+informed the Appellant that it still did not comply with District tax laws. The contracting officer
+further warned Appellant that its contract would expire on July 10, 2000, if the Appellant failed to
+either correct the tax deficiency within 5 days or furnished an acceptable explanation for its failure to
+correct the tax deficiency. (AF Exs. 4, 6; Appellant’s Ex. 2).
+
+        In a letter of July 5, 2000, Appellant explained that when it had filed its tax returns it was not
+able to pay the outstanding tax at that time. Appellant’s vice president states in the letter:
+
+        I have made several attempts to contact the Office of [Finance and Revenue] and Dept.
+        of Employment Services to make arrangement for payment. I have left several
+        messages and have yet to receive a return call. I am prepared to make payment today if
+        I can reach someone. Please give me a chance to clear this matter.
+
+(Appellant’s Memorandum in Opposition, Ex. 1). In an affidavit, Appellant’s vice president states that
+she paid the Office of Finance and Revenue all but $300 of its tax liability on July 5, 2000, with the
+remaining amount being paid on July 11, 2000. (Id., Ex. 2). The vice president says further that she
+contacted personnel at the Department of Employment Services on July 5, 2000, but the officials who
+could finalize the compliance papers were on vacation. Appellant did not correct the tax deficiency
+and did not come into tax compliance until after July 10, 2000. (Id., Ex. 2; Appellant’s Statement of
+Controversy ¶ 5).
+
+        The District allowed the contract to expire on July 10, 2000. (Id.; Complaint ¶ 5).
+
+        The Appellant filed a claim with the contracting officer seeking $1,822,917.50 and exercise of
+the second year option. The contracting officer denied this claim and the Appellant appealed here,
+arguing that the District should have exercised the second year option or entered into an equivalent
+                                                  -3-         American Flag Construction, Inc., CAB No. D-1135
+
+
+
+contract with Appellant. The District has moved to dismiss for failure to state a claim or, in the
+alternative, for summary judgment.
+
+                                            DISCUSSION
+
+        We exercise jurisdiction over this appeal pursuant to D.C. Code § 2-309.03(a)(2).
+
+        To be entitled to summary judgment, the District must show that there is no genuine issue of
+material fact and that it is entitled to judgment as a matter of law. Colbert v. Georgetown University,
+641 A.2d 469, 472 (D.C. 1994) (en banc); Willis v. Cheek, 387 A.2d 716, 719 (D.C. 1978). The record
+is viewed in the light most favorable to the party opposing summary judgment. Colbert v. Georgetown
+University, 641 A.2d at 472.
+
+         The key issue in this case is whether the District’s contracting officer was legally obligated to
+exercise the second year option. Appellant argues that because the District employees who prepare tax
+compliance certifications were on vacation during the period from July 5-10, 2000, Appellant has
+demonstrated sufficient cause for its failure to correct its tax deficiency. Appellant concludes that the
+District improperly failed to exercise the second year option. The District argues that a contract option
+is a unilateral right that it may or may not exercise in its discretion. We conclude that the District had
+discretion in deciding whether to exercise the second year option and that it did not abuse its discretion
+by failing to exercise the option.
+
+        The pertinent portion of the contract states the following with regard to the option periods:
+“The District may extend the term of the contract for three (3) one (1) year option periods or any
+portion thereof by written notice to the Contractor before expiration of the contract.” (AF Ex. 2, at 19).
+ The phrase “may extend” indicates that exercise of the option is at the government’s discretion. The
+District’s procurement regulations define an option as “a unilateral right in a contract under which, for
+a specified time, the District may elect to purchase additional quantities or services called for by the
+contract, or may elect to extend the term of the contract.” 27 DCMR § 2099.1. It is well-settled that
+for the type of option involved in the present contract the government has discretion in deciding
+whether to exercise the option, even when the government has provided the contractor preliminary
+notice of its intent to exercise the option. Good Food Services, Inc., CAB No. P-0494, July 8, 1997, 44
+D.C. Reg. 6846, 6847-48 (decision not to exercise an option contract is within an agency’s discretion);
+Government Systems Advisors, Inc. v. United States, 847 F.2d 811, 813 (Fed. Cir. 1988).
+
+        The contracting officer did not abuse her discretion in declining to exercise the second year
+option. The undisputed facts show that the contracting officer repeatedly advised the Appellant to
+correct its tax deficiencies so that it could be found responsible. Despite the warnings, the Appellant
+did not timely correct its tax deficiencies. We can find no fault in the contracting officer’s decision
+not to exercise an option when the contractor failed to demonstrate its present responsibility. Even
+viewing the record in a light most favorable to the Appellant, there is simply no basis for the
+assertion that the District was responsible for Appellant’s delay in resolving its tax deficiency.
+
+       Finally, we reject Appellant’s argument that the District had to exercise the option because
+Appellant provided an adequate explanation for failing to correct its tax deficiency. Even if we
+                                                  -4-         American Flag Construction, Inc., CAB No. D-1135
+
+
+
+could conclude as a matter of law that Appellant provided an adequate explanation (the record does
+not support such a conclusion), its argument would still fail. Where all preconditions have been met
+for the government to exercise an option, the government still is not legally obligated to exercise the
+option. In Government Systems Advisory, Inc. v. United States, the contract provided that the
+government could extend performance only if appropriated funds were available. The contractor
+argued that the government had to exercise the option because appropriated funds were available.
+The Federal Circuit affirmed the trial court’s ruling on summary judgment against the contractor,
+holding that such a contractual stipulation serves as a passive exculpatory provision available to the
+government, not one that obligates the government to exercise the option. 847 F.2d at 813. In the
+present case, when the District requested the contractor to comply with the responsibility conditions,
+the District did not thereby obligate itself to exercise the option if the contractor complied with those
+conditions.
+
+                                           CONCLUSION
+
+       Because we conclude, as a matter of law, that the contracting officer had no legal obligation
+to exercise the second year option, the District is entitled to prevail on summary judgment. The
+appeal is denied.
+
+        SO ORDERED.
+
+DATED: July 25, 2002                                    /s/ Jonathan D. Zischkau
+                                                        JONATHAN D. ZISCHKAU
+                                                        Administrative Judge
+
+
+
+CONCURRING:
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

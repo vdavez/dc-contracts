@@ -1,0 +1,1131 @@
+                                     DISTRICT OF COLUMBIA
+                                    CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+                                                                   )
+Urban Alliance Foundation                                          )       CAB Nos.: P-0886, P-0887,
+Voices of Our Sisters                                              )                 P-0890, P-0891,
+Progressive Educational Experiences in Cooperative Cultures        )                 P-0892
+Higher Development Academy                                         )                 (Consolidated)
+Jobs for America’s Graduates                                       )
+                                                                   )
+Solicitation No. DCCF-2011-R-3963-SDA 2                            )
+
+
+For the protester Urban Alliance: James P. Gallatin, Jr., Lawrence S. Sher, Gregory S. Jacobs, Joelle E.K.
+Laszlo, Melissa E. Beras and Stacy C. Forbes, Reed Smith LLP. For the protester Voices of Our Sisters:
+Kenya Welch, pro se. For the protester Progressive Educational Experience in Cooperative Cultures: Sara
+Stone, pro se. For the protester Higher Development Academy: Deborah Hayman, pro se. For the
+protester Jobs for America’s Graduates: Lawrence P. Block, Dennis Lane, and Thorn Pozen, Stinson
+Morrison Hecker LLP. For the District of Columbia Government: Talia Sassoon Cohen, Assistant
+Attorney General, Office of the Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud,
+Sr., (concurring with separate opinion) and Administrative Judge Monica C. Parchment concurring.
+
+
+                                                OPINION
+                                           Filing ID 42527096
+
+        Urban Alliance Foundation (“Urban Alliance”) has filed a protest challenging its removal from
+the competitive range under a solicitation seeking a contractor to design and implement an in-school
+youth workforce development program to support between 250-500 at-risk youths. (AR at Ex.1, §B.1.)
+Subsequent to the District’s award of the contract to Synergistic, Inc. (“Synergistic”), four other offerors,
+Voices of Our Sisters (“VOOS”), Progressive Educational Experience in Cooperative Cultures
+(“PEECC”), Higher Development Academy (“HDA”), and Jobs for America’s Graduates (“JAG”) filed
+protests with this Board raising additional protest grounds. On September 2, 2011, the Board issued an
+order consolidating the protests. The protesters’ challenges generally concern (a) irregularities with and
+cancellation of a procurement process beginning in September 2010, (b) the District’s failure to evaluate
+the proposals in accordance with the law and the terms of the solicitation, and (c) non-responsibility of the
+awardee, Synergistic. On September 23, 2011, the District filed a motion to dismiss all protests as either
+untimely or for lack of standing.
+
+        We find the protests timely and that the protesters have standing. Further, the Board finds that
+the District’s Office of Contracting and Procurement (“OCP”) failed to follow proper procedures in
+evaluating the proposals. This failure was pervasive and extensive so as to render the final award
+decision arbitrary and capricious. Following are four areas where OCP acted inconsistently in terms of
+the solicitation and in violation of procurement law: (A) failure to disclose mandatory minimum
+requirements, (B) failure to adequately document, (C) failure to evaluate reasonably, and (D) failure to
+conduct a blind evaluation. Taken together, these findings constitute sufficient basis for sustaining the
+                                                                                        Urban Alliance Foundation, et al.
+                                                                                                P-0886, P-0887, P-0890
+                                                                                                        P-0891, P-0892
+
+present protest thus the Board finds it unnecessary to address the responsibility of the awardee at this
+time. However the irregularities of the evaluation process are sufficiently material so as to warrant
+termination of the current contract effective no later than the close of the current school year in June
+2012. To the extent that these services are required by the District for the summer school session of 2012
+and beyond, the District shall issue a request to the twenty-three offerors for revised technical and cost
+proposals for the remainder of the base year and the option years. The District shall evaluate the revised
+proposals in accordance with the law and the terms of the RFP. These consolidated protests are sustained.
+
+                                                 BACKGROUND
+
+         On April 1, 2011, OCP issued a Request for Proposals for Solicitation No. DCCF-2011-R-3963-
+SDA 2 (“RFP”) for a contractor to design and implement a quality, year-round educational program to
+support between 250-500 at-risk youths. 1 (AR at Ex. 1.) Per the RFP, the District intended to issue a
+contract consisting of a base year with four additional option years. (AR at Ex 1, §§ F.1-F.2.4.) The RFP
+was revised six times prior to the deadline for receipt of proposals on June 8, 2011. (Mot. to Dismiss 3.)
+The revisions are as follows: (i) on April 14, 2011, the due date was changed from April 22, 2011, to May
+4, 2011; (AR at Ex. 2) (ii) on April 26, 2011, (Amendment 0001), the due date was extended to May 13,
+2011; (id.) (iii) on May 9, 2011 (Amendment 0002), the due date was extended to May 27, 2011; (id.) (iv)
+on May 18, 2011 (Amendment 0003), the RFP was replaced in its entirety and the due date was extended
+to May 31, 2011; (id.) (v) on May 26, 2011 (Amendment 0004), technical amendments were made to
+certain sections of the RFP and the due date was extended to June 6, 2011; (id.) and (vi) the due date was
+extended for the final time, via E-Sourcing message board, to June 8, 2011, (id.).
+
+Terms of the Solicitation
+
+      Under the Revised RFP, the District of Columbia was divided into two Service Delivery Areas
+(“SDAs”):
+             SDA 1: Wards 1, 2, 3, and 4
+             SDA 2: Wards 5, 6, 7, and 8
+
+                  (AR at Ex. 1, § B.3.1.)
+
+         The RFP stated: “It is the intent of the District to award at least one contract for each of the
+SDAs. The District will award additional contracts based upon program needs and availability of
+funds.” 2 (Id.) Potential offerors were to submit proposals to design and implement a year-round in-
+school youth program to provide services promoting academic achievement, successful graduation,
+awareness of and readiness for post-secondary education, career preparation, and connections to
+employment. (AR at Ex. 1, § C.1.)
+
+        The RFP further stated that the District would award a contract to the responsible offeror(s)
+whose offer(s) is most advantageous to the District (AR at Ex. 1, § M.1.1) based upon the following
+technical evaluation criteria: (1) Price Criterion, 10 points; (2) Technical Approach, 50 points, (3)
+Technical Expertise, 30 points, (4) Past Performance, 10 points. (AR at Ex. 1, §§ M.3.3.1 – M.3.3.4.) The
+evaluation criteria also allowed an additional 10 technical bonus points for in kind/cash match resources
+and 12 points for CBE preference, providing for a maximum 122 total points. (AR at Ex. 1, §§ M.3.4.1,
+M.3.4.2, M.5.)
+
+1
+ This solicitation follows an earlier solicitation issued in September 2010 for the same services. (See, e.g., Urban
+Alliance Protest 3, Aug. 10, 2011.)
+2
+  All protesters in this matter are challenging only the award for SDA 2.
+
+                                                          -2-
+                                                                                Urban Alliance Foundation, et al.
+                                                                                        P-0886, P-0887, P-0890
+                                                                                                P-0891, P-0892
+
+Ratings were to be assigned for each factor according to the scale below:
+
+Numeric Rating    Adjective          Description
+
+       0          Unacceptable       Fails to meet minimum requirements; e.g., no demonstrated capacity,
+                                     major deficiencies which are not correctable; offeror did not address
+                                     the factor.
+
+       1          Poor               Marginally meets minimum requirements; major deficiencies which
+                                     may be correctable.
+
+       2          Minimally          Marginally meets minimum requirements; minor deficiencies which
+                  Acceptable         may be correctable.
+
+       3          Acceptable         Meets requirement; no deficiencies.
+
+       4          Good               Meets requirements and exceeds some requirements; no deficiencies.
+
+       5          Excellent          Exceeds most, if not all requirements; no deficiencies.
+
+
+(AR at Ex. 1, § M.2.)
+
+        According to the Procurement Chronology prepared by Contract Specialist, Crystal Farmer-
+Linder, the minimum solicitation requirements were contained in Sections B.3 (B.3.1, B.3.2, B.3.3),
+C.5.2, and C.5.2.1. (AR at Ex. 2.) These sections provided:
+
+        § B.3            SERVICE DELIVERY AREAS
+
+        § B.3.1          For the purpose of this RFP and the ensuing contracts the
+                         District will be divided into two Service Delivery Areas (SDAs);
+
+                         SDA District 1: Wards 1, 2, 3, and 4.
+                         SDA District 2: Wards 5, 6, 7, and 8.
+
+                         It is the intent of the District to award at least one contract for
+                         each of the SDAs. The District will award additional contracts
+                         based upon program needs and availability of funds.
+
+        § B.3.2          In order for an Offeror to be awarded a contract, the Offeror
+                         must serve the entire SDA and the Offeror must operate
+                         programming at a location within the SDA. The Offeror is not
+                         limited to serving only youth who reside within that SDA and
+                         the District reserves the right to refer eligible youth to any
+                         Offeror awarded a contract who has capacity at the time.
+
+        § B.3.3          If an Offeror submits proposals for both SDAs, and, if the
+                         Offeror is awarded a contract for each SDA, each contract shall
+                         stand alone. The awarded Offeror shall not co-mingle funds,
+
+
+                                                    -3-
+                                                                              Urban Alliance Foundation, et al.
+                                                                                      P-0886, P-0887, P-0890
+                                                                                              P-0891, P-0892
+
+                        personnel, required activities, services or any other contract
+                        requirement between the two contracts.
+
+        § C.5.2         YOUTH POPULATION
+                        The following youth population shall be targeted:
+
+        § C.5.2.1       The Offeror shall provide services to youth who are most likely
+                        to become disconnected. This represents youth who are low-
+                        income individuals, between the ages of 14 and 21, and who are
+                        currently in school (See Section C.3.12 for a definition of the
+                        term “In-School Youth”)
+
+                        (AR at Ex. 1.)
+
+        Subsequently, in the District’s response to this Board’s October 25th request for supplemental
+information, the mandatory minimum requirements were further identified as Sections B.3, C.1, C.5.2,
+C.5.4.2, and C.5.12.9. (District’s Resp. to Order of the Board Dated Oct. 25 ¶ A [hereinafter Resp. to Bd.
+Order].) Notably, the District did not previously identify Sections C.1, C.5.4.2 and C.5.12.9 as mandatory
+requirements in either its Motion to Dismiss or in the Procurement Chronology. (See AR at Ex. 2; Mot.
+to Dismiss 3.) These sections provide:
+
+        § C.1           SCOPE
+
+                        The Government of the District of Columbia (District), Office of
+                        Contracting and Procurement (OCP) on behalf of the Department
+                        of Employment Services (DOES), is soliciting Offerors to design
+                        and implement quality year-round youth workforce development
+                        programs that best meet the needs of District youth and the
+                        provisions of the District of Columbia Youth Employment
+                        Services Initiative Amendment Act of 2005 and the Workforce
+                        Investment Act of (WIA) of 1998. The In-School Year Round
+                        Youth Program, supporting between 250-500 youth, will be
+                        provided to District of Columbia youth who are at-risk of
+                        becoming disconnected.
+
+                        The Offeror shall design and implement a Year Round In-School
+                        Youth Program that shall provide services promoting academic
+                        achievement, successful graduation, awareness of and readiness
+                        for post-secondary education, career preparation, attainment of
+                        measurable technical or occupational skills, and connections to
+                        employment. The program must focus on drop-out prevention
+                        and intervention strategies for youth at-risk of not completing
+                        high school for a maximum of fifty (50) youth ages 14 through
+                        21, for a minimum of ten (10) and a maximum of fifteen (15)
+                        hours per week.
+
+                        During the summer, the program shall provide academic
+                        enrichment, career exploration, employment, job readiness, and
+                        leadership skills training. The summer component shall support
+                        the goal of enhancing the educational and work readiness
+
+                                                   -4-
+                                                                              Urban Alliance Foundation, et al.
+                                                                                      P-0886, P-0887, P-0890
+                                                                                              P-0891, P-0892
+
+                        competencies of youth through innovative learning activities.
+                        Youth ages 14-15 will be permitted to work for up to 20 hours
+                        per week and youth ages 16-21 will be permitted to work for up
+                        to 25 hours per week. Program activities shall conclude by
+                        7:00PM and may include weekend activities and training
+                        sessions.
+
+        § C.5.4.2       All youth served must meet eligibility criteria detailed in
+                        Sections C.5.2 through C.5.2.3.
+
+        § C.5.12.9      For each year that a youth participates in a program, DOES will
+                        provide the youth up to $2,625 for wages and/or stipends. Youth
+                        may receive up to $50 per week for stipends. Youth may receive
+                        wages for work experience for up to 10 weeks a year, for up to
+                        20 hours per week (for youth ages 14-15) and up to 25 hours per
+                        week (for youth ages 16-21). Youth will be paid $7.25 per hour.
+
+                        (AR at Ex. 1, §§ C.1, C.5.4.2, C.12.9.)
+
+         The RFP detailed the evaluation procedure that was to be used to review the proposals of
+offerors. It stated that OCP will “review each proposal to determine its responsiveness. Proposals
+determined to be ineligible or nonresponsive will be discarded.” (AR at Ex. 1, § M.3.6.1.) The
+solicitation further provided that:
+
+                Each proposal determined to be responsive will be evaluated by a
+                technical review team. Teams will evaluate proposals based on the
+                Evaluation Factors for Technical Approach (Section M.3.3.2); Technical
+                Expertise (Section M.3.3.3); Past Performance (Section M.3.3.4); and
+                Technical Bonus Points (M.3.3.5). Team members will represent a range
+                of expertise in youth workforce development and may include DOES
+                staff; other DC agency staff; and professionals from national and local
+                organizations.
+
+                OCP will determine the Price Proposal score based on the evaluation
+                formula as described in Section M.3.3.1. The Price Proposal score will
+                be combined with the Technical Proposal score once the Technical
+                Evaluations have been completed. OCP will also determine whether
+                proposals qualify for Preference Points (M.3.4).
+
+                All proposals will be ranked accordingly.
+
+                (AR at Ex. 1, § M.3.6.2.)
+
+        In response to questions from potential offerors, OCP stated: “The offeror’s proposal should be
+submitted with the offeror’s identity. OCP will redact the offeror’s identity from the submitted proposals
+to ensure a ‘blind’ evaluation process.” (AR at Ex. 1, 30Q.)
+
+
+
+
+                                                   -5-
+                                                                              Urban Alliance Foundation, et al.
+                                                                                      P-0886, P-0887, P-0890
+                                                                                              P-0891, P-0892
+
+The Evaluation of Proposals
+
+        By June 8, 2011, twenty-three offerors submitted proposals in response to the RFP. (Mot. to
+Dismiss 3.) As noted, OCP assured bidders in writing that it would conduct a blind evaluation whereby
+the names of offerors would be removed. (AR at Ex. 1, 30Q.) Between June 13 and June 24, 2011, the
+Technical Evaluation Panel (“Panel”), consisting of three members of DOES, performed independent
+reviews of the initial proposals and created a consensus panel report. (AR at Ex. 2.) According to the
+Procurement Chronology, each proposal was redacted so that the Panel could perform a blind evaluation.
+(AR at Ex. 2.)
+
+        Simultaneously, the Contracting Officer (“CO”) conducted his own review and scoring of each
+proposal. (AR at Ex. 2.) Unlike the Panel, the CO’s review was not blind. (Resp. to Bd. Order ¶ L.) And,
+despite the inconsistency, there is no evidence that the District informed offerors of this change in
+procedure. The three independent scores of the panelists, the Panel’s consensus scores and the CO’s
+scores were tabulated and are provided in the Exhibit entitled “Consolidated Twenty-three evaluations
+and Bid Tabulation Sheet.” (AR at Ex. 3.)
+
+        The evaluation conducted by the Panel resulted in the following:
+
+                (i)   twelve offerors received a higher score than the awardee, Synergistic;
+                (ii)  seven offerors received the same score as Synergistic, including protester Urban
+                      Alliance; and
+                (iii) three offerors received a lower score than Synergistic. (See generally AR at Ex. 3.)
+
+        However, the CO’s evaluation of the same proposals under the same rubric resulted in the
+following:
+
+                (i)   Synergistic received the highest score of any offeror (the CO awarded 29.4 more
+                      points to Synergistic than did the Panel); (see AR at Ex. 3, at 53)
+                (ii) Urban Alliance received 23.8 points less from the CO than it did from the Panel;
+                      (see AR at Ex. 3, at 57)
+                (iii) Bidder J’s individual evaluation sheet was marked as unresponsive and appears
+                      without scores for any of the evaluation factors, (Resp. to Bd. Order at Ex. C) yet,
+                      the CO provided scores for Bidder J in every category for the Bid Tabulation Sheet.
+                      (AR at Ex. 3, at 31-32.)
+
+        According to the District, proposals that “clearly demonstrated an inability to meet one or all of
+the requirements [stated in Sections B.3, C.5.2, and C.5.2.1]” were immediately removed from the
+competitive range by OCP. (AR at Ex. 2.) OCP determined that three offerors were outside the
+competitive range: (i) Marquita Anissa Vaughn Foundation, (ii) Urban Alliance, and (iii) United Planning
+Organization. (AR at Ex. 2.) Specifically, Urban Alliance was said to not meet the minimum
+requirements set forth in Section C.5.2.1. (AR at Ex. 2.)
+
+        A First Round BAFO (“1st BAFO”) was conducted in writing with the remaining twenty offerors,
+beginning July 12th and closing July 15th. (AR at Ex. 2.) Seventeen offerors submitted responses to the 1st
+BAFO. (AR at Ex. 2.) The Procurement Chronology states that “[i]n most cases, offerors responded to
+the noted deficiencies.” (AR at Ex. 2.)
+
+       Citing an inability to reconvene the Panel to review the BAFO proposals in time to meet the
+award deadline, the CO scored the BAFO submissions without the assistance of the Panel. (AR at Ex. 2.)
+
+                                                    -6-
+                                                                              Urban Alliance Foundation, et al.
+                                                                                      P-0886, P-0887, P-0890
+                                                                                              P-0891, P-0892
+
+The District states that the CO reviewed the offerors’ original submissions, the original findings of the
+Panel, and the offerors’ BAFO submissions in evaluating the 1st BAFO proposals. (AR at Ex. 2.) Despite
+the claim that the CO took into account the ratings of the Panel, the technical scores of many offerors
+remained unchanged throughout the CO’s evaluation process. In fact, the scores from the CO’s initial
+review of proposals remained exactly the same for eight out of seventeen offerors. (See AR at Ex.3.)
+
+         Alluding to budgetary concerns in light of the proposed cost of services under the 1st BAFOs, the
+District decided to hold a Second Round BAFO (“2nd BAFO”) with all seventeen remaining offerors. The
+2nd BAFO related to pricing only. (AR at Ex. 2.) The 2nd BAFO instructions provided that the “District
+sought a per participant cost range between $2,500.00 and $4,500.00.” (AR at Ex. 2.) The request for 2nd
+BAFOs was issued July 28, 2011. (AR at Ex. 2.) All seventeen remaining offerors submitted proposals in
+response to the District’s request. (AR at Ex. 2.)
+
+        During the 2nd BAFO review, the Contract Specialist “determined that nine of seventeen BAFOs
+did not meet the [mandatory] requirements of the solicitation and should have been removed from the
+competitive range after the 1st BAFO.” (AR at Ex. 2.) Evidently, the evaluators themselves were unclear
+as to which requirements were mandatory under the RFP.
+
+        Additionally, OCP’s Cost/Price Analyst conducted a review of the 2nd BAFO responses and
+provided findings to the CO. (AR at Ex. 2.) Synergistic’s 2nd BAFO proposed a base year cost of
+$225,017.31 with the cost for option years 1 through 3 at $225,019.88 each. (See AR at Ex. 2.)
+Remarkably, the cost of providing the very same services for option year 4 was offered at $8,118.25, a
+mere 3.61% of the cost of the other years. (See AR at Ex. 2.) While some of the other offerors also
+reduced their prices for option year 4, those that did, reduced the cost for option year 4 by an average of
+45%. (See AR at Ex. 2.) The analysis of Synergistic’s proposal concluded that its proposed budget
+included 72.34% overhead on labor plus fringe benefits and that the rates could not be supported. (Resp.
+to Bd. Order at Ex. H, at 4.)
+
+The Board’s Record
+
+        The record consists of the RFP, Procurement Chronology, Determination and Findings (“D&F”)
+Reports, and other documents submitted by the protesters and the District, including those in the Agency
+Report or in response to a request from this Board. Most notably, the District provided a Bid Tabulation
+Spreadsheet for every offeror that shows each evaluation factor under each evaluation criterion. For each
+evaluation factor, the District provided the individual score of each panelist along with the consensus
+score of the Panel for each factor and for each offeror. The District also provided the CO’s scores and the
+scores following the 1st BAFO. (See AR at Ex. 3.)
+
+         With respect to the individual evaluation sheets of offeror proposals (see Resp. to Bd. Order at
+Ex. C), there are significant gaps in the record and unexplained inconsistencies. For example,
+
+                (1) some evaluations are incomplete, with missing pages; (see id.)
+                (2) there are no evaluation sheets provided for contractors I, K and P;
+                    (see id.)
+                (3) the District provided only one evaluation sheet per bidder (see id.)
+                    yet the Bid Tabulation Sheets show that four individual evaluations
+                    were completed for each bid (three panelist evaluations and one CO
+                    evaluation) (see AR at Ex. 3);
+                (4) all of the evaluation sheets reflect only the CO’s scores; (compare
+                    Resp. to Bd. Order at Ex. C, with AR at Ex. 3)
+
+                                                    -7-
+                                                                                      Urban Alliance Foundation, et al.
+                                                                                              P-0886, P-0887, P-0890
+                                                                                                      P-0891, P-0892
+
+                    (5) there is no record of the Panel’s individual evaluation sheets (with
+                         the exception of the evaluation for Offeror X) 3;
+                    (6) the District provided two different evaluation sheets for Offeror S
+                         and, even though both evaluation sheets were completed by the CO,
+                         different scores appear on each sheet and only one evaluation sheet
+                         matches the scores on the Bid Tabulation Sheet; (see Resp. to Bd. at
+                         Ex. C; see also AR at Ex. 3)
+                    (7) individual evaluation sheets are inconsistent with the Bid
+                         Tabulation Sheet; (compare Resp. to Bd. Order at Ex. C, with AR at
+                         Ex. 3)
+                    (8) in seven instances the scores on the individual evaluation sheet do
+                         not match scores on the Bid Tabulation Sheet; (compare Resp. to
+                         Bd. Order at Ex. C, with AR at Ex. 3)
+                    (9) in three instances the inconsistency is confined to a single
+                         evaluation criterion or a few technical approach factors; (compare
+                         Resp. to Bd. Order at Ex. C, with AR at Ex. 3)
+                    (10) in one instance the CO’s comments in the spreadsheet are consistent
+                         with the comments in the corresponding evaluation sheet; however,
+                         none of the scores match those recorded on the evaluation sheet;
+                         (compare Resp. to Bd. Order at Ex. C, with AR at Ex. 3)
+                    (11) in five instances the Board was unable to locate any scores on the
+                         Bid Tabulation Sheet that reflect those on the evaluation sheet;
+                         (compare Resp. to Bd. Order at Ex. C, with AR at Ex. 3)
+                    (12) the evaluation sheet for one Offeror is completely blank except for
+                         the word “unresponsive” in the header; yet, for this particular
+                         bidder, there are scores from every evaluator for each evaluation
+                         factor; (compare Resp. to Bd. Order at Ex. C, with AR at Ex. 3) and
+                    (13) lastly, the District has been unable to provide sufficient
+                         contemporaneous documentation of the evaluation process. 4
+
+The Protests
+
+         On July 28, 2011, Urban Alliance received notice that it was not in the competitive range. (Urban
+Alliance Protest 2, Aug. 10, 2011.) Urban Alliance filed its protest with this Board on August 10, 2011.
+(Id.) It asserted three grounds for protest based on: (i) alleged irregularities that permeated the
+procurement process from as early as September 2010 when an earlier solicitation was issued for the same
+services; 5 (ii) the District’s cancellation and reissue of a nearly identical solicitation; and (iii) the
+
+
+
+3
+ The evaluation sheet provided for Offeror X corresponds to the set of scores assigned to Evaluator 3 on the Bid
+Tabulation Sheet. (Compare Resp. to Bd. Order at Ex. C, with AR at Ex. 3.) However, the evaluation was
+completed by Crystal Farmer-Linder, the Contracting Specialist. (See Resp. to Bd. Order at Ex. C.) It is unclear
+whether Ms. Farmer-Linder was part of the Panel since at times her scores appear in the CO column on the Bid
+Tabulation Sheets.
+4
+    The D&F Report was completed more than a month after the award to Synergistic. (See AR at Ex. 2.)
+5
+ On December 16, 2010, Urban Alliance was awarded a contract for similar services under the earlier solicitation;
+however, the award was later cancelled on January 14, 2011. (Urban Alliance Protest 3-4.) Protesters have alleged
+that unexplained irregularities started in the earlier procurement and continued through to the present solicitation.
+(See, e.g., Urban Alliance Resp. to Mot. to Dismiss 2, Oct. 4, 2011.)
+
+                                                         -8-
+                                                                                     Urban Alliance Foundation, et al.
+                                                                                             P-0886, P-0887, P-0890
+                                                                                                     P-0891, P-0892
+
+District’s failure to evaluate the proposals in accordance with the law and the terms of the solicitation. (Id.
+at 3-8.)
+
+        On August 12, 2011, the Chief Procurement Officer signed a Determination and Finding to
+Proceed with Award While Protest is Pending. 6 (Letter to Board of Contract Appeals from Howard
+Schwartz, Senior Assistant Attorney General Attach. 1, Aug. 15, 2011.) The District awarded the
+contract to Synergistic on August 12, 2011. (AR at Ex. 5.)
+
+          On August 17, 2011, VOOS and PEECC received notice of award. (VOOS Protest 1, Aug 19,
+2011; PEECC Protest 1, Aug. 24, 2011.) VOOS filed its protest on August 19, 2011, and asserted the
+same three grounds for protest as Urban Alliance. 7 (VOOS Protest 3-7.) On August 24, 2011, PEECC
+filed its protest. PEECC asserted fifteen different bases for protest which fall into two general categories:
+(i) that incomprehensible irregularities occurred during a five month procurement process; and (ii) that the
+District failed to comply with the legal conditions and terms of solicitation. (PEECC Protest 2-5.)
+
+         On August 18, 2011, JAG and HDA received notice of award. (JAG Protest 2, Sept. 1, 2011;
+HDA Protest 2, Aug. 26, 2011.) HDA filed its protest with this Board on August 24, 2011, and alleged
+two bases for protest: (i) that unexplained irregularities permeated the procurement; and (ii) that the
+District failed to evaluate the proposals in accordance with the law and the terms of the solicitation. (HDA
+Protest 4-7.) On September 1, 2011, JAG filed the last of these related protests and asserted the same
+protest grounds as Urban Alliance. (JAG Protest 3-9.)
+
+        On September 2, 2011, the Board consolidated the above-referenced protests. On September 23,
+2011, the District filed its Motion to Dismiss with the Board.
+
+                                                 DISCUSSION
+
+I. BOARD JURISDICTION
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1) (2011).
+
+        A. Timeliness
+
+         The District has argued that the protests are untimely because the protesters were aware of
+alleged procurement irregularities that were said to have occurred prior to June 8, 2011, the deadline for
+receipt of proposals. Under CAB Rule 302.2(a), “[a] protest based upon alleged improprieties in a
+solicitation which are apparent prior to bid opening or the time set for receipt of initial proposals shall be
+filed with the Board prior to bid opening or the time set for receipt of initial proposals.” These
+irregularities, as alleged, generally relate to the cancellation of the earlier solicitation, the cancellation and
+reissue of the RFP, numerous extensions of the due date, and extending the final deadline for receipt of
+
+6
+  On September 6, 2011, Urban Alliance filed a motion challenging the D&F and the Board then requested that the
+parties file briefs on its authority to decide such challenges. The District and Urban Alliance each filed briefs
+affirming the Board’s authority to rule on D&Fs following the Procurement Practices Reform Act of 2010. (See
+District of Columbia Br. to the Contract Appeals Bd. 1-3, Sept. 19, 2011; Urban Alliance Br. on the Authority of the
+Contract Appeals Board to Rule on a Challenge to an Agency’s DNF 1-2, Sept. 12, 2011.) The present Order renders
+moot the challenge to the August 12th D&F.
+7
+  On December 16, 2010, VOOS was awarded a contract for similar services under the earlier solicitation. The
+award was later cancelled on January 14, 2011. (VOOS Protest ¶ 3.)
+
+                                                        -9-
+                                                                                 Urban Alliance Foundation, et al.
+                                                                                         P-0886, P-0887, P-0890
+                                                                                                 P-0891, P-0892
+
+proposals after some offerors had already submitted their proposals. Since these alleged improprieties, in
+particular, were all known to the protesters prior to June 8th, the protest grounds related to these
+irregularities are, in fact, untimely.
+
+          However, in addition, each of the protesters alleged that the District failed to evaluate the
+proposals in accordance with the law and the terms of the solicitation. Although the District has argued
+that the protesters have failed to meet the requirement of CAB Rule 301.1(c) which requires the protests
+to include a clear and concise statement of the legal and factual grounds of the protest, (Mot. to Dismiss
+9) this Board’s precedent has been to read Rule 301.1(c) very narrowly. We have held that “[w]here the
+District believes that a protest ground fails to state a violation of procurement law or regulation or is
+unsupported by the facts, the matter should be addressed through the Agency Report on the merits in the
+first instance and the absence of detailed facts concerning an alleged procurement deficiency in the initial
+protest filing does not necessarily dictate dismissal.” CUP Temporaries, Inc., CAB No. P-0474, 44 D.C.
+Reg. 6841, 6844 (July 3, 1997). Thus, even where a protester’s allegations are mainly conclusory or
+barely supported by fact, where the applicable law and regulations at issue are made reasonably clear, this
+Board must address the allegations on the merits. Unfoldment, Inc., CAB No. P-0435, 44 D.C. Reg. 6377,
+6381 (Sept. 12, 1995).
+
+         In this instance, the law and regulations at issue are reasonably clear due to the protesters’
+allegations of improper evaluation procedures. And, by filing protests within (10) business days of their
+knowledge of the award to Synergistic, the protests, as they relate to the evaluation process, were timely.
+Under CAB Rule 302.2 (b), protests shall be filed with the Board not later than (10) business days after
+the basis of the protest is known or should have been known. In Sigal Construction, CAB Nos. P-0690,
+P-0693, P-0694, 52 D.C. Reg. 4243, 4254 (Nov. 24, 2004), the Board clarified that the (10) day period
+begins when the offeror knows the basis of the protest and the party has become aggrieved due to an
+official action adverse to that party. The Board also held that notice of award is considered an adverse
+official action. Id.
+
+         For Urban Alliance, the adverse official action occurred on July 28, 2011, when it received notice
+that it was not in the competitive range. (See Urban Alliance Protest 2.) It filed its protest with this
+Board on August 10, 2011, well within (10) business days of the District’s adverse official action. With
+respect to the other protesters, notice of adverse official action occurred on either August 17th or 18th
+when they received notice of the award to Synergistic. (See, e.g., VOOS Protest 1.) Each offeror had
+until August 31 or September 1 respectively to file a protest with this Board. JAG filed the last of these
+consolidated protests on September 1, 2011. (JAG Protest.) Accordingly, all protests were timely filed
+with this Board.
+
+        B. Standing
+
+         The District has argued that the protesters are without standing since they are not next in line and
+therefore do not have a reasonable chance of award. (Mot. to Dismiss 7.) This Board has long held that
+in order to have standing a bidder must be next in line for award in order to show that it has suffered, or
+will suffer, direct economic injury as a result of the adverse agency action. Scientific Games, Inc., CAB
+No. P-0294, 41 D.C. Reg. 3666, 3670 (Sept. 24, 1993). However, the Board has also held that protesters
+have standing when challenging the integrity of the manner in which offeror proposals are scored even if
+they are not next in line for award. In CUP Temporaries, Inc., CAB No. P-0474, 44 D.C. Reg. 6841 (July
+3, 1997), the Board held that “[b]ased on the final rankings of the evaluators, it is clear that the Protester
+is ranked third among the offerors on the RFP. Nevertheless, since the Protester challenges the integrity
+of the manner in which the agency officials scored all the offerors the Protester meets the standing
+requirements.”
+
+
+                                                    -10-
+                                                                                       Urban Alliance Foundation, et al.
+                                                                                               P-0886, P-0887, P-0890
+                                                                                                       P-0891, P-0892
+
+
+
+        In this case, the protesters have alleged irregularities in the procurement process and we have
+specifically noted herein a number of evaluation irregularities in the record.8 Under the circumstances,
+the evaluation rankings are not dispositive and the protesters meet the CUP standard for standing.
+
+II. EVALUATION PROCESS
+
+         The Board’s standard of review for proposal evaluations and the related selection decision is
+whether the District’s actions were reasonable, in accord with the evaluation and selection criteria
+identified in the solicitation and whether there were violations of procurement laws or regulations. See,
+Trifax Corp., CAB No. P-0539, 45 D.C. Reg. 8842, 8847 (Sept. 25, 1998); see also Health Right, Inc.,
+D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C.
+Reg. 8612, 8630 (Oct. 15, 1997). In applying this standard of review to this protest, we find that the
+violations of procurement law are sufficiently material such that the selection decision cannot be
+supported based on the evidence submitted for review. Following are four general areas where the Board
+finds the evaluation process inconsistent in terms of the solicitation and in violation of procurement law:
+(A) failure to disclose mandatory minimum requirements, (B) failure to adequately document, (C) failure
+to evaluate reasonably, and (D) failure to conduct a blind evaluation.
+
+         A. Failure to Disclose Mandatory Minimum Requirements
+
+        Urban Alliance alleges that the District’s decision to exclude it from the competitive range was
+based on an improper application of an undisclosed mandatory minimum requirement. 9 (Urban
+Alliance’s Resp. to District’s Mot. to Dismiss 5, Oct. 4, 2011.) Specifically, Urban Alliance points to
+Section C.5.2.1 as the basis for its exclusion from the competitive range. (Urban Alliance’s Comments on
+the AR 4, Oct. 12, 2011.) But it argues that the language of C.5.2.1 is not sufficiently distinct from other
+requirements in the solicitation to set it apart as a mandatory minimum requirement. (Id. at 4-5.)
+
+         We agree. This Board finds that in establishing the competitive range, the District arbitrarily
+identified mandatory minimum requirements that were used to disqualify Urban Alliance and other
+bidders even though such mandatory requirements were never communicated to the offerors either in the
+language of the solicitation or in the subsequent discussions.
+
+         A mandatory minimum requirement is “pass/fail in nature and may lead to the outright rejection
+of a proposal that falls short of what [it] specif[ies].” Banknote Corp. of Am., Inc. v. United States, 56
+Fed. Cl. 377, 382 (2003). Accordingly, procurement practice dictates that “[m]andatory minimum
+requirements must be clearly identified as such within the solicitation so as to ‘put the offerors on notice’
+of the serious consequences of failing to meet the requirement.” Id. Additionally, if one factor in an
+evaluation is predominantly more important than another, this information should be disclosed to
+offerors. Isratex, Inc. v. United States, 25 Cl. Ct. 223, 230 (1992). A procuring agency should provide
+“fullest possible disclosure” of the relative importance of all evaluation factors. Id.
+
+8
+  See our discussion of evaluation irregularities supra pp 7-8.
+9
+  Urban Alliance’s technical proposal stated that its High School Internship Program targets youths ages 16-19.
+(Urban Alliance Resp. to District’s Mot. to Dismiss Ex. A-1, at Part I.B.) The District may have been unclear
+whether Urban Alliance intended to provide services to all of the ages 14-21 youth population; however, this Board
+has held that “if there is a close question of acceptability or if the noted deficiency is susceptible to correction
+through relatively limited discussion, then the inclusion of the proposal in the competitive range is in order.” Educ.
+In-roads, a div. of Sylvan Learning Sys., Inc., CAB No. P-0552, 46 D.C. Reg. 8519, 8525 (October 27, 1998).
+
+
+                                                        -11-
+                                                                                 Urban Alliance Foundation, et al.
+                                                                                         P-0886, P-0887, P-0890
+                                                                                                 P-0891, P-0892
+
+        In the Agency Report, the Contract Specialist states that “[t]he competitive range included those
+offerors whose proposals met the minimum requirements of the solicitation as set forth in the following
+Sections:” B.3.1, B.3.2, B.3.3, C.5.2, and C.5.2.1. (AR at Ex. 2.) In its response to the Board’s October
+25th request for supplemental information, the District put forth not only those previously-identified
+sections, but in addition, Sections C.1, C.5.4.2 and C.5.12.9 were newly-identified as mandatory
+minimum requirements of the solicitation.10 (See Resp, to Bd. Order ¶ A.)
+
+         A review of Section B.3.2 shows that it clearly and plainly states that in order to be awarded a
+contract, the offeror must fulfill that section’s proposal requirement.
+
+                In order for an Offeror to be awarded a contract, the Offeror must serve
+                the entire SDA and the Offeror must operate programming at a location
+                that is within the SDA.
+
+                (AR at Ex. 1, § B.3.2)
+
+        Section C.5.2.1, which has also been identified by the District as a mandatory minimum
+requirement, states:
+
+                The Offeror shall provide services to youth who are most likely to
+                become disconnected. This represents youth who are low-income
+                individuals, between the ages of 14 and 21, and who are currently in
+                school.
+
+                (AR at Ex. 1, § C.5.2.1)
+
+However, Section C.5.2.1 is not distinguishable as creating a mandatory minimum requirement when
+compared to other sections in the solicitation that are similarly phrased with the use of the word “shall”
+but not considered by the District to create a mandatory requirement. For example, the District does not
+consider Section C.5.4.1 to be a mandatory minimum requirement of the solicitation. This section states:
+
+                The Offeror shall conduct preliminary activities to market the year-round
+                program to eligible youth in the community . . .
+
+                (AR at Ex. 1.)
+
+Similarly, Section C.5.5.1 has not been identified as a mandatory minimum requirement yet it states:
+
+                The Offeror shall engage in activities and services related to three
+                components:
+                1. Education;
+                2. Work Readiness and Experience; and,
+                3. Placement and Transition Support.”
+
+                (AR at Ex. 1.)
+
+
+
+10
+  The Procurement Chronology does not include these three sections as a basis for establishing the competitive
+range or as minimum requirements of the solicitation.
+
+                                                    -12-
+                                                                                     Urban Alliance Foundation, et al.
+                                                                                             P-0886, P-0887, P-0890
+                                                                                                     P-0891, P-0892
+
+        Urban Alliance was removed from the competitive range prior to any BAFOs for failure to meet
+the mandatory minimum requirement in the above-referenced Section C.5.2.1. (AR at Ex. 2.) However,
+Sections C.5.4.1 and C.5.5.1 are similarly phrased and those sections are not considered by the District to
+be mandatory minimum requirements. We find that Section C.5.2.1 was not worded so as to put offerors
+on notice of the importance of that section as a mandatory minimum requirement.
+
+         After the 2nd BAFO, protesters JAG and PEECC were removed from the competitive range for
+failing to meet the requirement of Section B.3.1 which states:
+
+                   For the purpose of this RFP and the ensuing contracts the District will be
+                   divided into two Service Delivery Areas (SDAs);
+
+                   SDA District 1: Wards 1, 2, 3, and 4.
+                   SDA District 2: Wards 5, 6, 7, and 8.
+
+                   It is the intent of the District to award at least one contract for each of the
+                   SDAs. The District will award additional contracts based upon program
+                   needs and availability of funds.
+
+                   (AR at Ex. 2.)
+
+It remains unclear which words within this section provide notice of a requirement, let alone a mandatory
+minimum requirement.
+
+         The evaluators themselves appeared to not have a clear understanding of the mandatory
+requirements that would result in offerors being removed from the competitive range. Two bidders11
+failed to meet the mandatory minimum requirement of Section C.5.2.1 yet, inexplicably, were asked to
+submit BAFOs for both the first and second rounds of discussion. (See AR at Ex. 2.) Urban Alliance was
+disqualified prior to the 1st BAFO for failure to satisfy the very same requirement. Therefore some
+offerors were not similarly excluded from the competitive range. (See AR at Ex. 2.) The unequal
+treatment of the offeror proposals seriously violated the District’s procurement law and undermined the
+integrity of the process. See D.C. Code § 2-351.01(b)(4) (2010) (stating that a purpose of the
+Procurement Practices Reform Act of 2010 is to “ensure fair and equitable treatment of all persons who
+deal with the procurement system of the District government”); see also Rockwell Elec. Commerce Corp.,
+B-286201 et al, 2001 CPD ¶ 65 (Comp. Gen. Dec. 14, 2000) (“It is . . . fundamental that the contracting
+agency . . . treat all offerors equally, which includes . . . not disparately evaluating offerors with respect to
+the same requirements.”).
+
+         By way of explanation, the Contracting Specialist states that “[i]t was determined by the
+evaluation panel and the Contracting Officer that proposals submitted by [the Marquita Anissa Vaughn
+Foundation, the United Planning Organization, and Urban Alliance] would require substantial revisions in
+order to be determined acceptable.” (AR at Ex. 2.) This argument lacks credibility. Urban Alliance and
+the awardee, Synergistic, each received the same scores from the Panel. Ultimately, after reviewing the
+2nd BAFOs, the Contracting Specialist determined that nine of seventeen bidders were mistakenly
+identified as being within the competitive range even though they should have been excluded after the 1st
+BAFO for failing to meet the mandatory minimum requirements. (See AR at Ex. 2.)
+
+
+
+11
+     Perry School Community Center and Priority Professional Development.
+
+                                                        -13-
+                                                                                 Urban Alliance Foundation, et al.
+                                                                                         P-0886, P-0887, P-0890
+                                                                                                 P-0891, P-0892
+
+        This Board finds that the protesters were prejudiced by the District’s failure to follow proper
+procedures in evaluating the proposals. Bidders should not have been excluded from the competitive
+range for failing to meet mandatory minimum requirements absent clear notice that failure to address
+those requirements would result in disqualification. With the exception of Section B.3.2, the language of
+the mandatory minimum requirements, as identified by the District, is insufficient to provide appropriate
+notice. Even more importantly, the District did not treat offerors equally in applying mandatory
+minimum requirements, in clear violation of procurement law.
+
+        B. Failure to Adequately Document
+
+         The District submitted the Agency Report to the Board on October 3, 2011. Upon its review, the
+protesters filed a response to the Agency Report challenging OCP’s failure to adequately document its
+source selection decision. (See, e.g., Urban Alliance’s Comments on the AR 8.) We agree that the
+District has failed to offer sufficient documentation of its evaluation process. There is a severe lack of
+contemporaneous documentation to explain or support an overall rational basis for the award decision as
+well as OCP’s decision to exclude offerors from the competitive range.
+
+         This Board has stated that source selection “decisions must be documented in sufficient detail to
+show that they are not arbitrary.” Health Right, Inc., D.C. Health Coop., Inc., & The George Washington
+Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C. Reg. 8612, 8635 (Oct. 15, 1997). This in no way
+means that an agency is required to “retain every document or worksheet generated during its evaluation
+of proposals.” Id. at 8636. However, “[w]here an agency fails to document or retain evaluation materials,
+it bears the risk that there is inadequate supporting rationale in the record for the source selection decision
+and that we will not conclude that the agency had a reasonable basis for decision.” Id. quoting Sw Marine,
+Inc., B-265865, 96-1 CPD ¶ 56 (Comp. Gen. Jan. 23, 1996)). Moreover, the District’s regulations require
+certain documentation in the conduct of a procurement. Most pertinent to this protest, the regulations
+require that where a Technical Evaluation Panel is formed to evaluate proposals, a technical evaluation
+report shall be prepared by the technical official and shall contain the following:
+
+                 (a) The basis for evaluation;
+                 (b) An analysis of the technically acceptable and unacceptable proposals,
+                 including an assessment of each offeror’s ability to accomplish the
+                 technical requirements;
+                 (c) A summary, matrix, or quantitative ranking of each technical
+                 proposal in relation to the best rating possible; and
+                 (d) A summary of findings.
+
+                 D.C. Mun. Regs. tit. 27 § 1618.5 (2002)
+
+         While the District was not required to keep copies of every piece of paper generated throughout
+the evaluation process, the documents submitted to the Board in support of this award are exceedingly
+inadequate. First, there is very little contemporaneous documentation as many items submitted to the
+record were not created until more than a month after the award decision. (See, e.g., AR at Ex. 2.) Cf.
+Trifax Corp., CAB No. P-0539, 45 D.C. Reg. 8842, 8847 (Sept. 25, 1998) (“We accord greater weight to
+contemporaneous evaluation and source selection material than to arguments and documentation prepared
+in response to protest contentions.”). The only truly contemporaneous documentation provided by the
+District are the individual evaluation sheets; a set of five page documents completed by a single evaluator
+for a particular contractor including scores for each solicitation factor and comments of the particular
+evaluator. (See Resp. to Bd. Order at Ex. C.) Where provided, the documentation submitted by the
+District is incomplete. There are no evaluation sheets for contractors I, K, and P, and pages are missing
+
+                                                     -14-
+                                                                                Urban Alliance Foundation, et al.
+                                                                                        P-0886, P-0887, P-0890
+                                                                                                P-0891, P-0892
+
+from some evaluations. (See id.) While three offerors are completely absent from the record, the District,
+with one exception, provided only one evaluation sheet for each of the remaining twenty offerors. (See
+id.) It is important to note that a total of four evaluation sheets should have been provided for each
+individual offeror as the Bid Tabulation Spreadsheet indicates that four individual evaluations were
+conducted for each of the twenty-three offerors, one by the CO and one by each member of the Panel.
+(See AR at Ex. 3.) The one exception is Offeror S. The District provided two evaluation sheets for
+Offeror S. Both were completed by the CO but contain different sets of scores and one set of those scores
+appear on the Bid Tabulation Sheet. Most troubling, the evaluation sheets provided reflect only the CO’s
+scores. (Compare Resp. to Bd. Order at Ex. C, with AR at Ex. 3.) There is no record of the Panel’s
+evaluation sheets.
+
+         Second, the few contemporaneous documents that the District provided are incongruous.
+Specifically, the evaluation sheets at times are inconsistent with the Bid Tabulation Sheet. In seven
+instances the evaluation sheets do not concur with the set of scores on the Bid Tabulation Sheet.
+(Compare AR at Ex. 3, with Resp. to Bd. Order at Ex. C.) Some of these incongruities are minor, though
+still concerning. For example, there is a sub-factor score for Offeror E that does not match the score
+awarded on the individual evaluation sheet; and similarly, Offeror M’s Technical Bonus points do not
+match. (Compare Resp. to Bd. Order at Ex. C, with AR at Ex. 3.) Some inconsistencies, on the other
+hand, are truly problematic. In five instances entire sets of scores on the individual evaluation sheets do
+not match any scores on the Bid Tabulation Sheet. (Compare Resp. to Bd. Order at Ex. C, with AR at Ex.
+3 (Offerors A, H, J, U, & V).) The materials provided do not support a conclusion that a rational and
+lawful evaluation process occurred.
+
+        Whereas this Board will not substitute its judgment for that of the CO with respect to the
+evaluation findings, it cannot blindly accept evaluation findings and a resulting award decision that are
+not reasonably supported by the factual record. Although a Panel is not required to be used, when a Panel
+is convened as in this case, under D.C. Mun. Regs. tit. 27, § 1618.5, a technical evaluation report must be
+completed consisting of the basis for the evaluation, an analysis of the proposals, a quantitative ranking of
+each technical proposal, and a summary of findings. The District failed to provide a technical evaluation
+report as required. Given the inadequacy of the record, the District did not provide sufficient
+documentation to support a finding that the award had a rational basis. Further, in light of the
+inconsistency of the information provided, the Board finds that there is insufficient evidence to support
+the award decision.
+
+        C. Failure to Evaluate Reasonably
+
+         The protesters have alleged that the District failed to evaluate the proposals reasonably and in
+accordance with the terms of the solicitation. (See, e.g., Urban Alliance Protest 8.) They contend that the
+protest should be sustained because the award decision was arbitrary. (See, e.g., id.) The District has
+maintained that it scored the proposals in strict compliance with the evaluation criteria set forth in the
+RFP. (Mot. to Dismiss 10-11.) Upon a review of the record, the Board finds that the evaluation process
+violated procurement law as there is no consistent, discernable standard or approach. The Board
+concludes that the process was arbitrary, unreasonable and not in accordance with the terms of the
+solicitation or the relevant procurement statutes and regulations.
+
+       “In determining the propriety of an evaluation decision, we examine the record to determine
+whether the judgment was reasonable and in accord with the evaluation criteria listed in the solicitation
+and whether there were any violations of procurement laws or regulations.” Health Right, Inc., D.C.
+Health Coop., Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C. Reg. at
+8635. In reviewing an evaluation decision, the Board must consider the totality of the record to determine
+
+                                                    -15-
+                                                                                Urban Alliance Foundation, et al.
+                                                                                        P-0886, P-0887, P-0890
+                                                                                                P-0891, P-0892
+
+if the evaluations are reasonable and “bear a rational relationship to the announced criteria upon which
+competing offerors are to be selected.” Id.
+
+        The terms of the solicitation clearly stated that a technical review team would be used to evaluate
+each responsive proposal. (AR at Ex. 1, § M.3.6.2.) According to the Procurement Chronology, the Panel
+consisted entirely of DOES staff. (See AR at Ex. 2.) The panelists and the CO each independently
+conducted a simultaneous review of the proposals in accordance with the evaluation criteria set forth in
+Section M of the RFP. (AR at Ex. 2.) The CO then reviewed the 1st BAFOs and the 2nd BAFOs without
+assistance of the Panel. (See AR at Ex. 2.)
+
+        A review of the Bid Tabulation Sheet shows that the individual scores of panelists, prior to the
+consensus panel discussion, were often within a comparable range of each other. (See AR at Ex. 3.) For
+example, in the case of Synergistic, the panelists’ individual scores are all within a one point range of
+each other. (See AR at Ex. 3, at 51-53.) After independent review, the Panel met to assign a consensus
+score to each offeror’s bid. (AR at Ex. 2.) The following is a brief summary of the Panel’s findings:
+
+        Proposals receiving scores >Synergistic’s score                             12
+        Proposals receiving scores = Synergistic (7) + Synergistic’sscore (1)        8
+        Proposals receiving scores <Synergistic’s score                              3
+        Total Offerors                                                              23
+
+        The CO’s evaluation of the same proposals according to the same evaluation criteria yielded
+markedly different results. The CO awarded Synergistic’s proposal the highest score of all proposals, in
+part by awarding 29.4 more points to Synergistic’s proposal than did the Panel. (See AR at Ex. 3, at 53.)
+The CO’s scoring also deviated significantly from the Panel’s with respect to Urban Alliance. The Panel
+awarded Urban Alliance’s proposal the same score as it awarded Synergistic’s. (See AR at Ex. 3.) By
+contrast, the CO assigned 23.8 points less to Urban Alliance. (See AR at Ex. 3, at 57.) The result is that
+the two proposals, when reviewed by the three-member Panel, were found to be generally of a similar
+strength. Following the CO’s review, the two proposals were separated by more than 50 points on a 122
+point scale. (See generally AR at Ex. 3). No explanation was provided for the scoring differential
+between the CO and the Panel.
+
+         Therefore, although the District asserts that the CO considered the Panel’s findings throughout,
+there is no evidence to support this assertion. In fact, the record supports an opposite conclusion. In eight
+out of seventeen instances the CO’s scores remained unchanged from his initial review. (See AR at Ex.
+3.) And while the CO was authorized to exercise his own decision-making authority and disagree with
+the Panel, the critical point is that the CO failed to document why he disagreed with the Panel. Under the
+relevant case law, it is not the score per se that determines whether the opinions of lower level evaluators
+were properly considered, but rather the CO’s judgment concerning the difference and the relative merits
+of proposals. Health Right, Inc., D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-
+0507, P-0510, P-0511, 45 D.C. Reg. at 8636. The two evaluations of the same proposal under the same
+criteria diverge by more than 50 points out of a total 122 points. Given that significant disparity,
+certainly, a comment in the Bid Tabulation Sheet was warranted to explain the CO’s decision to maintain
+his initial scores. Without that information, the Board has no way of understanding the CO’s judgment
+and, as a consequence, calls into question any claim that the CO properly considered the Panel’s findings.
+
+         Moreover, although the CO may have found Synergistic’s pricing proposal reasonable, the Board
+notes that the record does not support that same conclusion specifically because the CO failed to account
+for Synergistic’s questionable pricing for option year 4. Under the District’s procurement regulations, it
+is the responsibility of the contracting officer to “evaluate the cost estimate or price [of a proposal], not
+
+                                                    -16-
+                                                                                    Urban Alliance Foundation, et al.
+                                                                                            P-0886, P-0887, P-0890
+                                                                                                    P-0891, P-0892
+
+only to determine whether it is reasonable, but also to determine the offeror’s understanding of the work
+and ability to perform the contract.” D.C. Mun. Regs. tit. 27, § 1618.2 (2002). Synergistic proposed a
+base year cost of $225,017.31 with the cost for option years 1 through 3 at $225,019.88 each. (See AR at
+Ex. 2.) The cost for option year 4, however, is priced at $8,118.25, (see AR at Ex. 2) which represents a
+mere 3.61% of the cost of services for the other years. This calls into question whether Synergistic would
+be able to provide the required services during option year 4 at that stated price. The CO’s analysis
+makes no note of that fact despite this significant variance. Some other offerors also reduced their pricing
+for option year 4; however, those that did, reduced the price for option year 4 by an average of 45%. (See
+AR at Ex. 2.) Besides, in the analysis, the Contract Specialist reviewed Synergistic’s pricing and stated
+that Synergistic’s proposed budget included 72.34% overhead on labor plus fringe benefits and that the
+rates could not be supported. (See Resp. to Bd. Order at Ex. H.) There is no evidence that the CO
+properly accounted for this incongruity when scoring pricing under the solicitation.
+
+        Hence, we find that the CO failed in his duty to properly evaluate the proposals in two significant
+ways. First, as previously discussed, the CO did not properly consider the evaluations and comments
+prepared by the Panel as there is no documentation to support the – oftentimes significant – deviation
+from the Panel’s scores. Second, the CO appears to have at times merely adopted evaluation scores and
+comments written by other individuals (and it is unclear whether such persons are panelists or OCP or
+DOES employees). 12
+
+         The District’s procurement regulations provide that a contracting officer may be assisted by
+others in evaluating proposals. However, where a contracting officer is in fact assisted, he must not
+relinquish his decision-making authority even though it is incumbent upon him to consider the opinions of
+those chosen to assist him. In the past this Board has held that “technical point scores and descriptive
+ratings of lower level evaluators must be considered by the Contracting Officer in making the final
+selection even though he is not bound by those evaluations or recommendations.” Health Right, Inc.,
+D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C.
+Reg. at 8636. At the same time, the procurement regulations clearly state that it is the responsibility of
+the contracting officer to “evaluate each proposal in accordance with the evaluation criteria in the
+solicitation.” D.C. Mun. Regs. tit 27, § 1618.1 (2002). Consequently, this Board has noted that
+“[a]lthough the contracting officer may be assisted in the evaluation by others, . . . the contracting officer
+always remains responsible for the evaluation of proposals.” Health Right, Inc., D.C. Health Coop., Inc.,
+& The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C, Reg. at 8636. Ultimately,
+it is inappropriate for the contracting officer to merely “adopt” evaluation and scoring conducted by
+individuals other than himself. See id. at 8637.
+
+        In this case, the CO appears to have been assisted by individuals other than Panel members. In
+nine instances, three other individuals scored proposals and the scores provided appear as the CO’s scores
+on the Bid Tabulation Sheet. 13 The CO personally completed only eight evaluation sheets. (See Resp. to
+Bd. Order at Ex. C.) All the evaluation sheets provided, whether completed by the CO or one of the three
+other individuals, reflect the scores of the CO on the Bid Tabulation Sheet. (Compare Resp. to Bd. Order
+at Ex. C, with AR at Ex. 3.) It is the CO’s responsibility to review proposals and where scores awarded
+by individuals other than the CO are presented as the CO’s scores, it appears that the CO abdicated his
+
+12
+   Although Stuart Keeler has been identified as the Contracting Officer (AR at Ex. 1), the names of Eloine Evans-
+McNeill, John Deer, and Crystal Farmer-Linder all appear along with the CO on the individual tabulation sheets.
+(See Resp. to Bd. Order at Ex. C.)
+13
+   Eloine Evans-McNeill, John Deer, and Crystal Farmer-Linder completed 12 of the 20 evaluation sheets. (See
+Resp. to Bd. Order at Ex. C.)
+
+
+                                                      -17-
+                                                                                 Urban Alliance Foundation, et al.
+                                                                                         P-0886, P-0887, P-0890
+                                                                                                 P-0891, P-0892
+
+responsibility. There is no explanation in the record for this practice, which as it stands, does not
+constitute a valid exercise of contracting officer judgment.
+
+         The Board finds that the CO acted in an arbitrary and unreasonable manner in failing to evaluate
+offeror proposals in accordance with the law and the terms of the solicitation. He failed to consider the
+findings of the Panel as well as failed to conduct a personal evaluation of all proposals. Given the totality
+of the record, we cannot conclude that the evaluation process was reasonable or rationally related to the
+criteria set forth in the RFP.
+
+        D. Failure to Conduct a Blind Evaluation
+
+        The District has indicated that the CO’s evaluation of the proposals was not blind, that is, at the
+time of his review, the offeror proposals were not anonymous. (AR at Ex. 2.) However, the CO’s failure
+to conduct a blind evaluation violated the express terms of the solicitation. In protests of solicitations and
+awards, the Board conducts a de novo review to determine whether the solicitation or award was in
+accord with the applicable law, regulations and terms and conditions of the solicitation. Recycling
+Solutions, Inc., CAB No. P-0377, 42 D.C. Reg. 4550, 4578 (April 15, 1994). Under CAB Rule 314.1, in
+sustaining a protest, the Board determines whether the solicitation, proposed award, or award complies
+with the applicable law, regulations, or terms and conditions of the solicitation.
+
+        While not addressed specifically in the RFP, in response to questions submitted by potential
+offerors, the District stated that “[t]he offeror’s proposal should be submitted with the offeror’s identity.
+OCP will redact the offeror’s identity from the submitted proposals to ensure a ‘blind’ evaluation
+process.” (AR at Ex. 1, Q.30.) The question and the District’s response were incorporated into the
+revised RFP and became a term of the solicitation. (See id.) Despite affirming that the proposals would
+be evaluated in redacted form to ensure anonymity, the CO performed the evaluations with full
+knowledge of each offeror’s identity. (AR at Ex. 2.) In fact, the Board has reviewed twenty-one
+evaluation sheets and all but seven individual evaluation sheets clearly show the name of the offeror. (See
+Resp. to Bd. Order at Ex. C.)
+
+         There is nothing in the solicitation or in procurement practice to suggest that a contracting
+officer’s review of proposals should not be subject to the very terms of the solicitation whether such terms
+are contained in the RFP or incorporated in the form of the District’s responses to questions submitted by
+potential offerors. The CO’s review was not blind yet offerors were never provided notice of the change
+in review process. And while this violation, by itself, would not necessarily void the award decision, in
+this case, the violation further undermines the integrity of the procurement. A contracting officer’s
+review is at the heart of any evaluation process and yet the District failed to follow its own solicitation
+guidelines in clear violation of procurement law.
+
+Conclusion
+
+         Because the proposal evaluations were unsupported to a substantial degree, the award to
+Synergistic was unreasonable. The Board hereby directs the District to terminate the contract awarded
+under this RFP effective no later than the close of the current school year in June 2012. To the extent that
+these services are required by the District for the summer school session of 2012 and beyond, the District
+shall issue a request to the twenty-three offerors for revised technical and cost proposals for the remainder
+of the base year and the option years. The District shall evaluate the revised proposals in accordance with
+the law and the terms of the RFP. These consolidated protests are sustained.
+
+
+
+                                                    -18-
+                                                                               Urban Alliance Foundation, et al.
+                                                                                       P-0886, P-0887, P-0890
+                                                                                               P-0891, P-0892
+
+SO ORDERED.
+
+DATED: February 15, 2012                                  /s/ Maxine E. McBean
+                                                          MAXINE E. MCBEAN
+                                                          Administrative Judge
+
+
+CONCURRING:
+
+/s/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+
+LOUD, Chief Administrative Judge, concurring.
+
+         I concur with my colleagues that the consolidated protests herein should be sustained. The
+District’s award decision to Synergistic followed an unreasonable and arbitrary evaluation process that
+included, but was not limited to, the removal of Urban Alliance from the competitive range for
+deficiencies (i.e., failure to meet the requirements of Section C.5.2.1) shared by two other bidders who
+were asked to submit BAFOs for the first and second rounds. When coupled with the numerous
+additional inconsistencies in the record (missing individual evaluation sheets, separate CO evaluation
+sheets for the same bidder with different scores on each, an evaluation sheet for one offeror containing the
+word “unresponsive” as to which every evaluator provided a score for each evaluation factor, etc.), the
+clear picture that emerges is of an evaluation process that failed to follow the solicitation terms and
+provisions of law.
+
+        There should now be a growing sense of alarm among the procurement and program
+professionals charged with implementing this aspect of the District of Columbia Youth Employment
+Services Initiative Amendment Act of 2005 and the Workforce Investment Act of (WIA) of 1998
+(DCYES and WIA). Our record shows that there have now been three consecutive solicitations for in-
+school youth services that have not been executed properly, as shown either by delayed solicitations,
+agency cancelled solicitations, or as here through the Board’s cancellation of an award.
+
+          The trail of failed solicitations date back to at least Appeal of Friends of Carter Barron
+Foundation Of The Performing Arts, CAB No. D-1421 (unpublished) (Nov. 15, 2011), wherein the Board
+first learned of the December 16, 2011, award for in-school youth services in Contract No. DCCF-2011-
+R-1000. Appeal of Friends of Carter Barron Foundation, at 4-5 (the Board dismissed the appeal and
+protest on jurisdictional grounds). Through the consolidated cases herein, we now learn that the
+December 16, 2010, awards were cancelled by the District on January 14, 2011. (Urban Protest 3-4;
+VOOS Protest ¶3). Further, we learn that a second solicitation for these same youth in-school services
+was issued on March 31, 2011, and cancelled on May 18, 2011. (Urban Protest, Ex. 2 Procurement
+Chronology; see also Urban Protest at p¶¶8-9.) Finally, the Board has now cancelled the award made
+under the third consecutive District attempt to effectuate the provisions of the DCYES and WIA.
+
+         The services procured through this solicitation have the potential to positively impact life
+outcomes for disconnected youth in Wards 5-8 of the District. I am hopeful that the alarm bells set off by
+this string of troublesome solicitations will now translate into decisive action by the District’s
+procurement professionals to lawfully conduct a solicitation that will enable program professionals to
+
+
+                                                   -19-
+                                                                            Urban Alliance Foundation, et al.
+                                                                                    P-0886, P-0887, P-0890
+                                                                                            P-0891, P-0892
+
+commence the delivery of, and sustain the relationships with youth necessary to successfully effectuate
+the purposes of the Acts noted above.
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+Electronic Service:
+
+James P. Gallatin, Jr. , Esq.
+Lawrence S. Sher, Esq.
+Gregory S. Jacobs, Esq.
+Joelle E.K. Laszlo, Esq.
+Melissa E. Beras, Esq.
+Stacey C. Forbes, Esq.
+Reed Smith LLP
+1301 K Street, NW
+East Tower – Suite 1100
+Washington, DC 20005
+
+Kenya Welch
+Voices of Our Sisters, Inc.
+611 Pennsylvania Avenue, SE
+Washington, DC 20003
+
+Sara Stone
+Progressive Educational Experiences in Cooperative Cultures
+2961A Hunter Mill Road, Suite 801
+Oakton, VA 22124
+
+Deborah Hayman
+Higher Development Academy
+702 15th Street, NE
+Washington, DC 20006
+
+Lawrence P. Block, Esq.
+Dennis Lane, Esq.
+Thorn Pozen, Esq.
+Stinson Morrison Hecker, LLP
+1150 18th Street, NW
+Suite 800
+Washington, DC 20036
+
+Talia Cohen, Esq.
+Janice Skipper, Esq.
+Howard Schwartz, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, NW
+Washington, DC 20001
+
+                                                 -20-
+

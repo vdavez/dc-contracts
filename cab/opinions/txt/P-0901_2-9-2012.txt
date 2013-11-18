@@ -1,0 +1,211 @@
+                  GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                        CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+                                                            )
+ENTERPRISE INFORMATION SOLUTIONS, INC.                      )
+                                                            )      CAB No. P-0901
+Solicitation No. DCKA-2011-G-0182                           )
+
+
+       For the Protester: William W. Goodrich, Jr., Esq., Judith B. Kassel, Esq. For the District
+of Columbia Government: Alton E. Woods, Esq., Assistant Attorney General, Office of the
+Attorney General.
+
+      Opinion by Administrative Judge Monica C. Parchment, with Chief Administrative Judge
+Marc D. Loud, Sr. and Administrative Judge Maxine E. McBean, concurring.
+
+                                           OPINION
+                                      Filing ID #42425982
+
+        Enterprise Information Solutions, Inc. protests the District’s exclusion of its proposal
+from consideration for a contract award based upon its alleged submission of a late proposal.
+The protester contends that the District’s issuance of multiple solicitation modifications to the
+original due date for submission of proposals effectively created an ambiguity with respect to
+any corresponding change to the exact time deadline for receipt of proposals on the required
+submission date.
+
+        The District moves to dismiss this protest as an untimely protest against the terms of the
+solicitation and further asserts that the solicitation was unambiguous and was never modified by
+the District with respect to the original time deadline for receipt of proposals.
+
+       The Board finds this protest to be untimely and the underlying protest allegations to be
+without merit. The protest is dismissed.
+
+                                       BACKGROUND
+
+        The District’s Office of Contracting and Procurement, on behalf of the District
+Department of Transportation, issued Request for Task Order Proposal No. DCKA-2011-G-0182
+(“Solicitation”), on September 28, 2011, through the General Service Administration’s (“GSA”)
+procurement website (“E-Buy”). (Agency Report (“AR”) Ex. 1.) The Solicitation sought a
+contractor to provide automated vehicle pavement data collection services. (Id.) The original
+Solicitation terms specified a closing date and time of October 17, 2011, at 2:00 p.m. (Id.)
+                                                     -2-          ENTERPRISE INFORMATION SOLUTIONS, INC.
+                                                                  CAB No. P-0901
+
+
+       Subsequently, eleven modifications were made to the Solicitation by the District after it
+was issued on September 28, 2011. (AR Ex. 2.) Four of these modifications specifically
+changed the original due date for receipt of proposals under the Solicitation. (Id.) In particular,
+Modification 1 changed the due date for receipt of proposals from October 3, 2011, to October
+17, 2011 1; Modification 7 changed the closing date for receipt of proposals from October 17,
+2011, to October 24, 2011; Modification 8 changed the closing date for receipt of proposals from
+October 24, 2011, to October 28, 2011; and Modification 9 changed the closing date for receipt
+of proposals from October 28, 2011, to November 4, 2011. (Id.) However, none of the
+aforementioned modifications in any way addressed or directed a change to the original time of
+2:00 p.m. stated in the Solicitation by which proposals had to be submitted to the District on the
+required due date.
+
+        The protester submitted its quote to the District on November 4, 2011, at 2:36 p.m. (AR
+Ex. 6.) After submitting its quote to the District, the protester sent a follow-up email to the
+District stating that it had attempted to submit its bid the morning of November 4, 2011, through
+the GSA E-Buy website but had experienced technical difficulties in attempting to make this
+submission. (AR Ex. 4.) In this correspondence, the protester seemingly acknowledged that the
+deadline for proposal submission was at 2:00 p.m. on November 4, 2011, and asked the District
+for the opportunity to have its proposal considered for award despite it being filed after this 2:00
+p.m. deadline:
+
+           We tried to submit [the proposal] on GSA website this morning, and
+           the web site seems to hang upon hitting submit. We found out just
+           after 2pm and I sent you the documents right after.
+
+           Please accept our apologies and I hope the proposal can still be
+           accepted and reviewed based on merits.
+
+(emphasis added). (Id.)
+
+       The District, however, advised the protester that its proposal could not be considered for
+award because it was filed after the 2:00 p.m. deadline on November 4, 2011. (AR Ex. 7.) The
+present protest followed.
+
+                                                 DISCUSSION
+
+       The Board exercises jurisdiction over this protest and its underlying allegations pursuant
+to D.C. CODE §2-360.03(a)(1) (2011).
+
+
+1
+  For unknown reasons, Modification 1 was issued by the District notwithstanding the fact that it was redundant of
+the original Solicitation terms, which had previously designated October 17, 2011, as the due date for receipt of
+proposals.
+                                                      -3-          ENTERPRISE INFORMATION SOLUTIONS, INC.
+                                                                   CAB No. P-0901
+
+
+        The basis for the protester’s present challenge to its exclusion from consideration for the
+contract award is fairly straightforward. The protester contends that the four modifications to the
+Solicitation noted above that specifically changed the deadline for submission of proposals did
+not similarly address or provide an exact new time by which proposals were required to be
+submitted to the District. (Protest; Supplemental Protest 4.) Hence, the protester essentially
+argues that these modifications changing the deadline date for receipt of proposals also
+effectively removed the original time deadline in the Solicitation (2:00 p.m.) by which proposals
+had to be submitted on the specified due date, without ever providing a new time deadline in any
+subsequent modification. (Supplemental Protest 4.) The protester further maintains that this
+created an ambiguity in the Solicitation documents that must be construed against the District as
+the drafter of the documents, as the protester was unable to reach the District for clarification
+about this ambiguous requirement prior to the deadline for receipt of proposals. (Id.)
+
+         In moving to dismiss this action, the District argues that the present protest is untimely as
+it challenges the terms of a solicitation provision as ambiguous and, therefore, was required to be
+filed by the protester prior to the deadline for receipt of proposals in accordance with D.C. CODE
+§2-309.08(b)(1) (2001) 2 and Board Rule 302.2(a). (AR 7.) Additionally, with respect to the
+underlying merits of the protester’s allegations, the District asserts that none of its eleven
+modifications to the Solicitation were intended, or attempted, to change the original time
+deadline for submission of proposals and, thus, the original time deadline remained
+unambiguously the same. (AR Ex. 6.)
+
+        Upon review of the record, and as a fundamental matter in this case, we do not
+conclusively accept the protester’s assertion in this proceeding that it, in fact, believed the time
+deadline for receipt of proposals to be unclear or ambiguous as the result of the multiple
+modifications to the Solicitation that were issued. Indeed, as noted earlier, on the very day that
+proposals were due, the protester sent an e-mail correspondence to the District where it appears
+to acknowledge the 2:00 p.m. deadline for receipt of proposals and the fact that it realized that its
+proposal was not submitted by this time. (AR Ex. 4.) The protester specifically requested that
+its proposal still have the opportunity to be considered for the award because of technical
+difficulties that it allegedly experienced when attempting to submit the document through the
+GSA website. 3 (Id.) Moreover, in no instance did the foregoing e-mail correspondence, sent on
+the due date for proposals, even attempt to assert that the protester did not know or understand
+the deadline by which its proposal had to be submitted to the District. Thus, the protester’s
+
+2
+  D.C. CODE §2-309.08(b)(1) (2001) has been repealed, but this same language is presently codified in D.C. CODE
+§2-360.08(b)(1) (2011).
+3
+  The District counters the protester’s allegation that it had problems attempting to submit its proposal through the
+GSA E-Buy website by virtue of the fact that this website did not report any problems accepting proposals on
+November 4, 2011 through the appropriate system reporting mechanism. (AR 7-8; AR Ex. 8.) The District also
+notes that the Solicitation, in multiple instances, advised offerors that proposals could be submitted directly to the
+District independent of utilizing the GSA website. (AR 8.)
+                                                        -4-          ENTERPRISE INFORMATION SOLUTIONS, INC.
+                                                                     CAB No. P-0901
+
+
+contrary statement, in this proceeding, that it found the Solicitation modifications to have created
+an ambiguity as to the time deadline for receipt of proposals lack veracity.
+
+         Moreover, to the extent that the protester believed that the Solicitation was ambiguous
+with respect to the applicable time deadline for submission of its proposal, it was legally required
+to challenge this alleged ambiguity in advance of the deadline for receipt of proposals. “A
+protest based upon alleged improprieties in a solicitation which are apparent prior to bid opening
+or the time set for receipt of initial proposals shall be filed prior to bid opening or the time set for
+receipt of initial proposals.” D.C. CODE § 2-360.08(b)(1) (2011). 4 Accordingly, in comparable
+situations, the Board has held that “[a] bidder who fails to seek clarification of an ambiguity on
+the face of a solicitation prior to bid opening risks a contrary interpretation of the allegedly
+ambiguous provision and is precluded from raising such issues to the Board after opening.” Fort
+Myer Constr. Corp., CAB No. P-0688, 52 D.C. Reg. 4173, 4197 (Apr. 22, 2005) citing Maryland
+Constr., Inc., CAB No. P-0650, 50 D.C. Reg. 7347, 7398 (Aug. 29, 2003).
+
+        Thus, to the extent that the protester is now representing that it attempted to contact the
+District for clarification regarding this time deadline issue prior to submitting its proposals, it
+would have also been aware of this alleged ambiguity from the face of the Solicitation
+documents prior to the deadline for submission of proposals. Consequently, the protester’s
+failure to protest this matter prior to the deadline for submission of proposals renders the present
+protest untimely.
+
+        Further, the Board also finds the underlying protest allegations in this matter to be
+lacking in merit even if they could be assumed to be timely raised, which they are not. 5 A
+solicitation may be considered ambiguous when it is susceptible to two or more reasonable
+interpretations. Koba Assoc., Inc., CAB No. P-350, 41 D.C. Reg. 3446 (June 10, 1994). In this
+case, however, the four relevant modifications to the Solicitation only expressly modified the
+calendar due date for submission of proposals. (AR Ex. 2.) The modifications did not, on the
+other hand, expressly remove, alter, or even address the original 2:00 p.m. time deadline for
+receipt of proposals stated in the Solicitation. (Id.) Therefore, it is clear, and in no way
+ambiguous, that the original 2:00 p.m. deadline in the Solicitation remained unchanged
+notwithstanding the other multiple changes to the original calendar due date for receipt of
+proposals.
+
+        For the reasons set forth herein, the Board dismisses the present matter as it is an
+untimely protest against the terms of the Solicitation, and finds that the protester was properly
+rejected from consideration for receiving the contract award.
+
+
+4
+ The language of Board Rule 302.2(a) mirrors this statutory language.
+5
+ The Board still opts to address the merits of the underlying allegations in this matter, although the matter is ripe for
+dismissal on the timeliness grounds discussed herein.
+                             -5-     ENTERPRISE INFORMATION SOLUTIONS, INC.
+                                     CAB No. P-0901
+
+
+SO ORDERED.
+
+
+DATED: February 9, 2012            /s/ Monica C. Parchment
+                                   MONICA C. PARCHMENT
+                                   Administrative Judge
+
+
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+
+/s/ Maxine E. McBean
+MAXINE E. MCBEAN
+Administrative Judge
+

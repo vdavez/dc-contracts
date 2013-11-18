@@ -1,0 +1,275 @@
+                           GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+Protest of:
+                                                     )
+B&B SECURITY CONSULTANTS, INC.                       )       CAB No. P-0708
+                                                     )
+Under RFP No. POAM-2004-R-0015-DW                    )
+
+
+       For the Protester, B&B Security Consultants, Inc.: Robert A. Klimek Jr., Esq., Klimek,
+Kolodney & Cassale, P.C. For the Government: Howard Schwartz, Esq., and Jon N. Kulish,
+Esq., Assistant Attorneys General.
+
+       Opinion by Administrative Judge Matthew S. Watson together with Chief Administrative
+Judge Jonathan D. Zischkau, and Administrative Judge Warren J. Nash, concurring.
+
+
+                                          OPINION
+                                  (LexisNexis Filing ID 6225689)
+
+        B&B Security Consultants, Inc. timely filed a protest against award to Hawk One
+Security, Inc., of Contract No. POAM-2004-D-0015-DW for citywide security services at
+District owned and leased facilities that are open to the public. B&B asserts that the award is
+improper on three bases: (1) while the RFP explicitly stated that the District would make four
+distinct determinations for each of the four aggregate award groups, the District made only one
+such determination and awarded a single contract to Hawk One. (Count I); (2) the District had
+discussions/negotiations with Hawk One after the receipt of Best and Final Offers and held no
+such discussions with the other offerors (Count II); and (3) the District’s evaluation of B&B's
+proposal was unreasonable, arbitrary, capricious and irrational (Count III). The District denies
+B&B’s allegations asserting that they are not supported by the facts. The Board agrees with the
+District and denies the protest.
+
+
+                                      BACKGROUND
+
+
+        Solicitation No. POAM-2004-R-0015-DW was issued August 4, 2004, requesting initial
+proposals by September 7, 2004, from small business enterprises. The solicitation requested
+offers for 4 aggregate award groups and provided for evaluation and award to take place in a
+three step process:
+                                                          -2-         B&B Security Consultants, Inc. CAB No. P-0708
+
+
+
+First, a technical evaluation by an evaluation team1 based on the following criteria contained in
+the solicitation:
+
+
+           The technical evaluation criteria are outlined below in descending order of
+           importance. Selection of an offeror for contract award will be based on an
+           evaluation of proposals against the following factors:
+
+           M.5 TECHNICAL CRITERIA 0-60 POINTS
+
+                    M.5.1 EXPERIENCE AND PAST PERFORMANCE 0-40 POINTS
+                    Offeror’s shall detail its experience with providing security services as
+                    required in the RFP. See Paragraph L.3.1.
+
+                    M.5.2 MANAGEMENT CAPABILITY 0-20 POINTS
+                    Offerors shall submit a management and technical plan that will detail its
+                    understanding of the requirements and its approach to successfully provide
+                    services to satisfy the District’s requirements. See Paragraph L.3.2.
+
+Second, a price evaluation as follows:
+
+                    M.5.3 PRICE CRITERIA 0-40 POINTS
+                    The price evaluation will be objective. The offeror with the lowest price
+                    for the base plus option years will receive the maximum points. All other
+                    proposals will receive a proportionately lower total score. The
+                    following formula will be used to determine each offeror's evaluated price
+                    score:
+
+                    Lowest price proposal x 40 = Evaluated Price of proposal being evaluated
+                    price score
+
+           In addition, up to 12 points could be added for local, disadvantaged, resident and
+           enterprise zone businesses (¶ M.10.5), for a possible total of 112 points. Based
+
+
+1
+    ¶ M.1.1 of the solicitation provides:
+
+           The contract will be awarded to the responsible offeror whose offer is most advantageous to the
+           District, based upon the evaluation criteria specified below. Thus, while the points in the
+           evaluation criteria indicate their relative importance, the total scores will not necessarily be
+           determinative of the award. Rather, the total scores will guide the District in making an intelligent
+           award decision based upon the evaluation criteria.
+
+           Upon receipt of proposals, an evaluation team composed of representatives of PSD and such other
+           persons as the CO may designate will evaluate the proposals. Every member will evaluate the
+           proposals based on the evaluation criteria and assign a numerical rating. The CO shall make a
+           substantive independent evaluation of the proposals and shall review the ratings assigned by the
+           evaluation team. The CO shall make a selection decision based on the CO’s independent judgment
+           of the relative merits of the competing proposals.
+                                                      -3-        B&B Security Consultants, Inc. CAB No. P-0708
+
+
+
+        on the technical and price evaluation the offerors shall be ranked based on the
+        evaluation scores.
+
+Third, award shall be made as follows:
+
+        M.2.2 After the District has determined the highest scored offeror for each
+              aggregate award group, the District will then determine whether that
+              offeror is a responsible contractor for that aggregate award group. For
+              each determination of responsibility for each aggregate award group, the
+              District will consider any impact on that offeror’s responsibility of any
+              awards to that offeror under other aggregate award groups.
+
+
+        Nine offerors submitted timely proposals of which three were from entities not qualifying
+as small businesses. The evaluation team reviewed and ranked the proposals after which best
+and final offers (“BAFOs”) were requested from 5 qualified proposers and evaluated2 by the
+evaluation team. After completion of the technical evaluation, the technical point score was
+combined with preference points and the price point score and ranked by the combined score.
+The combined technical, preference and price evaluation resulted in Hawk One being ranked first
+for each award group and B&B being ranked last.3
+
+
+                                                DISCUSSION
+
+
+        Evaluation of individual aggregate award groups
+
+        The Protester asserts that the District violated the terms of the solicitation by utilizing a
+single technical evaluation of each BAFO to rank the proposals for each of the 4 aggregate
+groups, rather than making a separate technical evaluation of each proposal for each aggregate
+group taking into account whether the proposer was awarded earlier aggregate groups. The
+Board disagrees. The technical criteria in the solicitation are generic and identically applicable
+to each of the 4 aggregate award groups. None of the technical criteria relate to capacity which
+would cause different evaluation scores depending on the aggregate groups awarded to a
+particular offeror. The technical evaluation is essentially a determination of responsiveness.
+Evaluation of capacity taking into account award of previous aggregate groups is a separate
+
+
+2
+    Protester questioned whether the BAFOs were actually evaluated (Reply to Agency Report, 4) since the
+attachment to the Business Clearance Memorandum (“BCM”) (AR Ex. 10f), purporting to report the BAFO
+evaluation scores, appears to show the evaluation scores after the BAFOs unchanged from the initial scores. The
+attachment is apparently erroneous. The text of the BCM shows the revised scores resulting from the BAFOs for
+each proposal. (§ 13.8). The BAFO technical scores increased between 1 and 5 points for each of the proposals,
+except the protester’s proposal for which the evaluation was unchanged. (§13.6).
+3
+  In the evaluation, B&B was granted 9 preference points. B&B contends that it is entitled to 12 preference points
+as a local, disadvantaged, resident business located in an enterprise zone. Since B&B’s point score was nearly 20
+points below the next lowest rated proposal, correction would not change the ranking.
+                                               -4-       B&B Security Consultants, Inc. CAB No. P-0708
+
+
+
+determination of responsibility. Dental Benefits Providers, Inc., CAB No. P-0623, Dec. 1, 2000,
+49 D.C. Reg. 3234.
+
+        The language of the solicitation is clear. The evaluation criteria make no distinction as to
+aggregate groups. (¶ M.5). This constitutes the first phase of consideration of proposals. The
+solicitation directs consideration of capacity in the second phase of the consideration of
+proposals. “After the District has determined the highest scored offeror for each aggregate
+award group, the District will then determine whether that offeror is a responsible contractor for
+that aggregate award group. For each determination of responsibility for each aggregate award
+group, the District will consider any impact on that offeror’s responsibility of any awards to that
+offeror under other aggregate award groups.” (¶ M.2.2). It is therefore clear that the same
+technical evaluation is intended to be applied for each offeror to each aggregate group. The
+application of the technical scores is no different than the award of preference points. An offeror
+who is in a disadvantaged category for one aggregate award group is similarly in a disadvantaged
+category for all other aggregate award groups.
+
+        The District appropriately followed the award procedures set out in the solicitation by
+making a single technical evaluation applicable to all 4 aggregate groups and considering
+capacity only with regard to responsibility. The contracting officer made a determination that
+Hawk One has capacity to perform all 4 aggregate groups together. (AR Ex. 10g). Implicit in
+that determination is a determination for each aggregate group sequentially that Hawk One has
+capacity to perform the subject aggregate group together with each previous aggregate group
+awarded. Upon that determination, the solicitation mandates that all four aggregate groups be
+awarded to Hawk One.
+
+
+       Improper discussions with Hawk One
+
+
+       B&B’s assertion that the District preferentially conducted further negotiations with Hawk
+One after receipt of the BAFOs is not supported by the evidence B&B cites. B&B asserts that
+because Hawk One solicited B&B employees on May 2, 2005, to work for Hawk One on the
+new contract, prior to the award of the contract, Hawk One must have improperly had prior
+knowledge of the award. (Complaint, 6-7). The record indicates that the contract was deemed
+approved by the Council on May 9, 2005. (AR Ex. 5). To have been deemed approved, the
+contract must have been submitted to the Council by April 29 (D.C. Code § 1-204.51(b) (2)), and
+the District’s intent to award to Hawk One would therefore have been public record prior to May
+2, 2005. The fact that Hawk One was aware that it was in line for award of all 4 award groups
+on May 2, 2005 does not indicate that there was any improper communication.
+
+        In its reply to the Agency Report, B&B further notes that Hawk One submitted a
+“funding letter” dated January 14, 2005 (AR Ex. 10(g)), well after submission of the BAFOs
+indicating further impermissable negotiations with Hawk One after receipt of its final offer.
+(Reply, 6). Funding capacity is an element of responsibility, not of responsiveness. Financial
+resources were not included in the solicitation’s technical criteria, but rather in the criteria for
+determining responsibility. Section L.17 provides:
+                                               -5-       B&B Security Consultants, Inc. CAB No. P-0708
+
+
+
+       STANDARDS OF RESPONSIBILITY
+
+       The prospective Contractor must demonstrate to the satisfaction of the District the
+       capability in all respects to perform fully the contract requirements, therefore, the
+       prospective Contractor must submit the documentation listed below, within five
+       (5) days of the request by the District.
+
+       L.17.1 Furnish evidence of adequate financial resources, credit or the ability to
+       obtain such resources as required during the performance of the contract.
+
+Documentation of responsibility may be obtained after receipt of offers. (Fort Myer Construction
+Corp., CAB No. P-0685, May 5, 2004; 27 DCMR § 2204.2). The receipt of the funding letter
+after submission of BAFOs was not improper.
+
+
+       Evaluation of B&B’s proposal
+
+
+        Lastly B&B contends that the evaluation was “unreasonable, capricious, irrational and
+arbitrary.” As support for this contention B&B cites 3 areas that the evaluation was incorrect.
+B&B asserts that, although it was entitled to 12 preference points as a Local Business Enterprise,
+Disadvantaged Business Enterprise, located in an Enterprise zone, and District resident owned, it
+was only awarded 9 preference points. (Reply, 5). B&B asserts that the contracting officer’s
+narrative in the Business Clearance Memorandum erroneously fails to recognize that B&B’s
+BAFO submitted an additional reference bringing the number of references to the required 5
+references. (Reply, 7). In addition, B&B asserts that it was the lowest priced offeror, yet did not
+receive award of any award group. (Complaint, 8). Specifically, B&B asserts:
+
+       that it was prejudiced by the determination that it was only in the competitive
+       range for aggregate award group 4. For instance, there was little difference
+       between aggregate award group 3 and 4, and B&B had a price for aggregate
+       award group 3 that was $2,439,611.95 lower that the award made to Hawk One.
+       (A.R.; Ex. 10(b)) The contracting officer was required to make an independent
+       determination and findings for each aggregate award group. Had this been done,
+       B&B’s significantly lower price would have offset Hawk One’s higher technical
+       score as being in the best interest of the District.
+
+(Reply, 7)
+
+        For purposes of this protest, the Board accepts each of the allegations concerning the
+evaluations. Nevertheless, the protest must still be denied. Following the precedents of the
+Comptroller General, we "will not sustain a protest unless the protester demonstrates a
+reasonable possibility that it was prejudiced by the agency's actions, that is, unless the protester
+demonstrates that, but for the agency's actions, it would have had a substantial chance of
+receiving the award." McDonald-Bradley, B-270126, 96-1 Comp. Gen. Proc. Dec. ¶54; see also
+Statistica, Inc. v. Christopher, 102 F.3d 1577 (Fed. Cir. 1996).
+                                              -6-       B&B Security Consultants, Inc. CAB No. P-0708
+
+
+
+        B&B’s total technical score allowing 12, rather than 9 preference points, would have
+been 29. (BCM § 13.8). Hawk One had a technical score, including 9 preference points, of 62.5,
+or a difference of 33.5. (Id.). The maximum price point difference between B&B and Hawk One
+was 1 point. Thus, the respective total point scores combining technical, preference and price
+scores were B&B 69 and Hawk One 101.5. There is no reasonable possibility that had the
+contracting officer realized that B&B submitted an additional reference, its technical score would
+have nearly tripled to overcome Hawk’s 32.5 point advantage.
+
+       The protest is denied.
+
+
+
+July 18, 2005                                                     /s/ Matthew S. Watson
+                                                            Administrative Judge
+
+
+       /s/ Jonathan D. Zischkau
+Chief Administrative Judge
+
+
+      /s/ Warren J. Nash
+Administrative Judge
+

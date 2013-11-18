@@ -1,0 +1,220 @@
+             DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+
+CNA CORPORATION                                       )
+                                                      )      CAB No. P-0826
+Solicitation No: DCKA-2009-B-0193                     )
+
+       For the Protester, CNA Corporation: John C. Cheeks, CEO, pro se. For the District
+of Columbia Government: Alton E. Woods, Esq., Assistant Attorney General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                         OPINION
+                                       Filing ID 29422218
+
+
+        Protester, CNA Corporation, challenges award of a contract and alleges that other
+bidders committed non-collusion affidavit violations. The District filed a motion to dismiss
+the protest, arguing that CNA’s bid was nonresponsive, CNA lacks standing as the fourth
+lowest bidder, and CNA’s protest lacks a clear and concise statement of its legal and factual
+grounds and is frivolous. We agree with the District that CNA’s bid was nonresponsive and
+that its collusion allegations are meritless. Accordingly, we dismiss the protest with
+prejudice.
+
+                                     BACKGROUND
+
+        On August 25, 2009, the Office of Contracting and Procurement (“OCP”) advertised
+Invitation for Bids No. DCKA-2009-B-0193 (“IFB”) for the Citywide Safe Routes to School
+Project in the Washington Times and posted it on its website. The solicitation, issued on
+behalf of the District’s Department of Transportation (“DDOT”), was for multiple contractors
+to provide the installation and reconstruction of small scale safety improvements on roadways
+and at intersections within the District of Columbia. (Motion to Dismiss Ex. 1(a)). Bids were
+due and received on September 28, 2009, as follows:
+
+            1. Anchor Construction                    $2,161,473
+            2. Capital Paving of DC                   $2,341,770
+            3. Fort Myer Construction                 $2,344,870
+            4. CNA                                    $2,376,095.90 as corrected
+            5. Civil Construction                     $2,415,255
+            6. Prince Construction                    $2,440,235
+            7. Omni Excavators                        $2,617,405
+            8. A&M Concrete Corp.                     $2,682,519.35 as corrected
+            9. Potomac Construction Co.               $2,847,280
+                                                -2-                      CNA Corp., CAB No. P-0826
+
+
+(AR Ex. 5). Subsequent to the bid tabulation, the contracting officer informed CNA that a
+mathematical error had been discovered in line 1200 of its bid regarding mobilization, and
+that the amount had been adjusted to the allowable maximum amount of $189,337.90.
+
+         The IFB required that bidders provide a bid security for a period of 90 working days
+after bid opening. The appropriate bid guaranty form was made a part of the bidding
+documents. (Motion to Dismiss Ex. 1 (a)). In the “Instructions to Bidders” section of the
+Standard Contract Provisions for Construction Projects, Article 12, Bond Requirements,
+bidders were informed that no bid will be accepted unless it is guaranteed by a bid bond with
+good and sufficient sureties, a certified check payable to the District Treasurer, negotiable
+United States bonds (at par value), or in an irrevocable letter of credit in an amount not less
+than 5 percent of the bid as a bid guaranty. The “bid bond” submitted by CNA is an unsigned
+letter to CNA from Tobi Wilkins of Quantum Corporate Funding, Ltd., dated September 25,
+2009, stating:
+
+       RE: FY-09 CITY-WIDE SAFE ROUTES TO SCHOOL
+
+       GOVERNMENT OF THE DISTRICT OF COLUMBIA DEPARTMENT OF
+       TRANSPORTATION
+
+       DCKA-2009-B-0193 BID/CONTRACT AMOUNT $3,194,813.00
+
+       OFFER EXPIRES: DECEMBER 25, 2009 @ 2:00 PM EST
+
+       This letter will verify that your letter of credit/factoring line (75%) is, indeed,
+       in place. We will purchase whatever invoices you submit to us that we can
+       verify in writing with your procurement officer that the work you are billing
+       for has been performed and accepted or the services you are billing for has
+       been rendered…dollar amount is correct and they will pay Quantum.
+
+       I am attaching the letter they would have to sign for their perusal and OK.
+
+(Motion to Dismiss, Ex. 6).
+
+        On September 29, 2009, CNA filed its protest, asking the Board to: (1) grant its
+protest based on the “NON-COLLUSION AFFIDAVIT violations” of companies that
+responded to the IFB (except CNA); (2) “dismiss all companies listed who submitted bids by
+engaging or sharing common board of director(s), ownership affiliation, financial interest,
+family relations or Sub Contractor single tier price fixing and violation of non-collusion
+affidavit”; and (3) that “DC OCP/DC DOT release and suspend all affiliated companies listed,
+in violation of the NON-COLLUSION AFFIDAVIT, from bidding on solicitations and
+performing DC Public Works Contracts for a period of seven years each from 09/28/09 to
+12/30/16.” CNA has presented no documents or other evidence to support its allegations.
+
+        On October 19, 2009, the contracting officer, Mr. Jerry Carter, executed a declaration
+respecting the protest stating, in part, that:
+                                                -3-                    CNA Corp., CAB No. P-0826
+
+
+
+
+               5. In two prior protests before the CAB (P-0794 and P-0810), as in this
+       protest, CNA has made the same allegation of collusive bidding by other
+       contractors. In each case, in accordance with 27 DCMR § 1007.2, I requested
+       that CNA provide documents to me to support the allegations. CNA never
+       provided any documents to me to support the allegations.
+
+               6. On May 18, 2009, I attended a meeting with John C. Cheeks,
+       CNA’s CEO, to discuss bids that he had submitted on other solicitations, and
+       to also discuss his allegation of collusive bidding among bidders. The
+       meeting was held at the Office of Contracting and Procurement (OCP) and
+       was also attended by Alton E. Woods, from the District’s Office of the
+       Attorney General. In this meeting Mr. Cheeks told me that he had documents
+       to support all of the allegations and would provide them to me after the
+       meeting. I told Mr. Cheeks that if he provided evidence to me to support the
+       allegations of collusive bidding, that I would investigate the matter and refer
+       the issue to the District’s Chief Procurement Officer, as required by 27
+       DCMR § 1007.2. As of this date, Mr. Cheeks has not provided any
+       information to me to support this assertion.
+
+(Motion to Dismiss Ex. 5).
+
+       On October 19, 2009, the District filed a motion to dismiss. On November 9, 2009,
+CNA responded to the District’s motion to dismiss. On November 30, 2009, the District filed
+a determination and finding to proceed with contract award and performance (“D&F”). On
+December 8, 2009, CNA filed its opposition to the D&F, and a statement at paragraph 3 that:
+“CNA shall continue to file bid protests with the approval of District of Columbia Contract
+Appeals Board each time when CNA is exposed to bid rigging, non-collusion violations,
+discrimination and/or contract steering. . . .”
+
+                                        DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+       A. Responsiveness of CNA’s Bid
+
+       The IFB required that bidders provide a bid security for a period of 90 working days
+after bid opening. The appropriate bid guaranty form was made a part of the bidding
+documents. In the “Instructions to Bidders” section of the Standard Contract Provisions for
+Construction Projects, Article 12, Bond Requirements, bidders were informed that no bid will
+be accepted unless it is guaranteed by a bid bond with good and sufficient sureties, a certified
+check payable to the District Treasurer, negotiable United States bonds (at par value), or in an
+irrevocable letter of credit in an amount not less than 5 percent of the bid as a bid guaranty.
+
+        We have consistently recognized that a bid bond is a material requirement because it is
+a type of security that assures that a bidder will not withdraw its bid within the time specified
+                                                -4-                     CNA Corp., CAB No. P-0826
+
+
+for acceptance and, if required, will execute a written contract and furnish payment and
+performance bonds. The purpose of a bid bond is to secure the liability of a surety to the
+government in the event the bidder fails to fulfill these obligations. When a bidder supplies a
+defective bond, the bid itself is rendered defective and must be considered nonresponsive.
+Nation Capital Builders, LLC, CAB No. P-0761, Nov. 20, 2007, 57 D.C. Reg. 741; NAPA
+Development Corp., CAB No. P-0384, Nov. 19, 1993, 41 D.C. Reg. 3839.
+
+       Clearly, CNA did not submit with its bid a proper surety bond, but rather a letter from
+a company promising to purchase invoices from CNA upon the completion of performance,
+and only if the “procurement officer verifies that the work has been performed.” In this case,
+CNA’s failure to submit adequate bid security in strict accordance with the IFB instructions
+rendered its bid nonresponsive.
+
+       B. Standing
+
+       Because CNA’s bid is nonresponsive, it is not in line for award and therefore lacks
+standing to raise other challenges regarding an award. C.P.F. Corp., CAB No. P-0521, Jan.
+12, 1998, 45 D.C. Reg. 8697, 8699 (the Board will not consider protests by bidders who are
+not next in line for award if the protest is sustained).
+
+       C. Collusion Allegations
+
+        As detailed above, CNA has made a number of vague and unsupported allegations of
+collusion among the other bidders. Although CNA lacks standing, we address these
+allegations so that CNA will not repeat its baseless allegations in the future. Board Rule
+301.1(c) requires that a protest contain “a clear and concise statement of the legal and factual
+grounds of the protest, including copies of relevant documents, citations to statutes,
+regulations, or solicitation provisions claimed to be violated.” In its response to the District’s
+motion to dismiss, CNA merely reargues its allegations of collusion and attaches a listing of
+various named individuals for the other bidders and their relationships with the other bidders’
+representatives. Neither its protest nor its response to the District’s motion to dismiss
+provides support for its collusion allegations. Accordingly, we dismiss this protest ground as
+wholly unsupported and bordering on the frivolous. CNA has raised the issue of collusive
+bidding in two prior protests before the Board (P-0794 and P-0810) and in none of the cases
+has CNA supported its allegations. Both the PPA and the Board’s rules provide for sanctions
+where the Board determines that a protest is frivolous:
+
+       The Board may dismiss, at any stage of the proceedings, any protest, portion
+       of a protest, it deems frivolous. In addition, the Board may require the
+       protester to pay the agency attorney fees, at the rate of $100 per hour, for the
+       time counsel spent representing the agency in defending the frivolous protest
+       or its frivolous parts. If the entire protest is dismissed on frivolous grounds,
+       it may also assess the protester damages for each day the contract was
+       suspended equal to the amount of liquidated damages specified in the
+       contract for late completion of the contract. The Board shall not determine
+       damages, if liquidated damages are not specified in the contract. In addition,
+                                                -5-                  CNA Corp., CAB No. P-0826
+
+
+       counsel for the protester may be suspended or barred from practicing before
+       the Board.
+
+D.C. Code § 2-309.08(g); Board Rule 308.2. Because CNA is represented by its owner, Mr.
+Cheeks, and not by counsel, we will not assess sanctions at this time. However, if CNA were
+to file similar unsupported allegations in the future, we will consider sanctions.
+
+       We dismiss the protest with prejudice.
+
+       SO ORDERED.
+
+DATED: February 5, 2010                               /s/ Warren J. Nash
+                                                      WARREN J. NASH
+                                                      Administrative Judge
+
+CONCURRING:
+
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

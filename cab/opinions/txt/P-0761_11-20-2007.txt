@@ -1,0 +1,135 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+                                                       )
+NATION CAPITAL BUILDERS, LLC                           )
+                                                       )        CAB No. P-0761
+Under IFB No. DCKA-2007-B-0082                         )
+
+      For the Protester, Nation Capital Builders, LLC, Leonard A. White, Esq. For the
+Government: Howard Schwartz, Esq., and Talia Sassoon Cohen, Esq., Assistant Attorneys
+General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                            OPINION
+                                         (Filing ID 17323071)
+
+        Nation Capital Builders, LLC, (“NCB”) filed a protest on August 28, 2007, challenging
+the District’s rejection of its bid for failing to submit a bid bond. NCB argues that it was not
+required to submit a bid bond with its bid and that alternatively the contracting officer should
+waive the bond requirement as a minor informality. On October 23, 2007, the District's Acting
+Chief Procurement Officer ("CPO"), pursuant to D.C. Code § 2-309.08(c)(2), determined that the
+District should proceed with contract performance while the protest is pending. On October 30,
+2007, NCB filed a motion challenging the determination to proceed with performance under a
+recently awarded contract. For the reasons discussed below, we conclude that the CPO's
+determination should be sustained. We further determine that the solicitation required a bid
+bond, NCB did not submit a bond with its bid, and that the contracting officer properly rejected
+NCB’s bid as nonresponsive. Accordingly, we deny the protest.
+
+                                        BACKGROUND
+
+        On June 29, 2007, the Office of Contracts and Procurement issued solicitation IFB No.
+DCKA-2007-B-0082 on behalf of the District Department of Transportation (“DDOT”)
+requesting bids to provide preventative maintenance activities to rehabilitate and maintain
+roadway and roadway assets, within the rights of way on the District’s portion of the National
+Highway System. (Agency Report, Ex. 1). The bid documents set forth a contract base term of
+one year with the possibility of four successive one-year options. Bids were submitted by
+several prospective contractors, including NCB, on August 13, 2007. By letter dated August 15,
+2007, the DDOT contracting officer informed NCB that DDOT declared NCB’s bid non-
+responsive because NCB failed to submit a signed and completed bid bond. (Agency Report, Ex.
+5). NCB protested the determination of non-responsiveness on August 28, 2007. Since the
+protest was filed before award of the contract, an automatic stay of performance went into effect
+pursuant to D.C. Code § 2-309.08(c)(1). By Determination and Findings (“D&F”) dated October
+23, 2007, the Acting CPO determined that urgent and compelling circumstances that
+significantly affect interests of the District would not permit waiting for the final decision of the
+Board concerning the protest.
+                                                -2-      Nation Capital Builders, LLC, CAB No. P-0761
+
+
+
+
+        On October 30, 2007, the protester timely filed a Motion to Challenge the D&F alleging
+that the D&F does not provide substantial evidence of urgent and compelling circumstances that
+“significantly affect interests of the District.” (Motion at 1).
+
+                                          DISCUSSION
+
+        The solicitation at issue seeks a contractor to provide preventive maintenance activities to
+rehabilitate and maintain roadway and roadway assets within the rights of way on the District’s
+portion of the National Highway System. There is no question that providing for the
+maintenance of the roadway and roadway assets is a compelling and urgent requirement of the
+government. In the D&F, the CPO sets forth the District’s compelling need to proceed with
+contract award. According to the CPO, because the District could potentially lose up to 60 days
+of the construction season while it waited for a protest decision, and because waiting on a
+decision could impair the District’s ability to repair city streets before winter, the District could
+not wait to proceed with the preventative maintenance activities. The CPO clearly sets forth a
+compelling need to proceed with preventative maintenance services. For purposes of lifting the
+stay, once a compelling need for the services is shown, whether another contractor can also
+perform is irrelevant. Whitman-Walker Clinic, Inc., CAB Nos. P-0672 and P-0674, July 25,
+2003, 50 D.C. Reg. 7521. Accordingly, we deny NCB’s motion challenging the CPO's
+determination to proceed with contract award.
+
+        Regarding the merits of the protest, NCB alleges that it is now ready to submit a bid bond
+and performance bond so that the District could award the contract to NCB. Although NCB’s
+protest is not a model of clarity, NCB seems to argue that the solicitation did not require a bid
+bond to be submitted with its bid. We assume that NCB is arguing that the District, by
+improperly rejecting NCB’s bid, improperly removed NCB from consideration as the lowest
+bidder for the procurement. The District responds that since the bid bond form was included in
+the IFB, the procurement clearly required the bidder to furnish a bid bond at bid opening.
+
+        NCB alleges that the bid bond form is ambiguous, and that the form allows the bidder to
+produce a bid bond up to 90 days after bid opening. NCB further alleges that in any event, the
+procurement regulations allow the contracting officer to accept a bid without a bid bond, if the
+bid is in the best interests of the District, citing 27 DCMR § 2702.1(b). The District responds
+that the language setting forth the bid bond period is not ambiguous, and that the bid bond form
+requires a bid bond to remain in effect for 90 days after bid opening. Additionally, the District
+responds that the contracting officer cannot waive the bid bond requirement unless the bid meets
+the criteria set forth in 27 DCMR § 2702.1. Section 2702.1 provides that the bid meet the
+requirements for a waiver under one of the other bid bond waiver exceptions of section 2702 and
+that the waiver be in the best interests of the District.
+
+        D.C. Code § 2-305.02(a)(1) provides that “[b]id security shall be required for all
+competitive sealed bids and competitive sealed proposals for construction contracts when the
+price is estimated by the Director to exceed $100,000.” In the IFB, the District set forth an
+estimated price over $100,000, thereby requiring all bidders to submit a bid bond. D.C. Code §
+2-305.02(c) further requires that the District reject a bid that does not include a bid bond when
+                                               -3-      Nation Capital Builders, LLC, CAB No. P-0761
+
+
+
+the IFB requires a bid bond. This Board has noted the well-settled doctrine that in deciding
+whether a bond is defective, we must determine whether the surety would be bound to its surety
+obligation by the bid bond as submitted. See MC Services, Inc., CAB No. P-0570, March 18,
+1999, 46 D.C. Reg. 8582; HR General Maintenance Corp., CAB No. P-0557, February 2, 1999,
+46 D.C. Reg. 8556. There is no question that the District required a bid bond in the IFB.
+Likewise, 27 DCMR § 2702.1 is clear and unambiguous when it requires the contracting officer
+to reject a bid when the bidder fails to comply with the bid security requirements. Therefore,
+since NCB’s bid did not include a bid bond, and since NCB’s bid was not eligible for a waiver of
+the bid bond requirement under any of the other subparts of section 2702, the contracting officer
+properly determined that NCB’s bid was nonresponsive to the IFB.
+
+        In the response to the Agency Report, NCB questioned whether sealed bids for
+construction IDIQ type contracts require bid bonds at bid opening. NCB did not present this
+ground of protest in its protest filing. The District responded by noting that the protester should
+have sought clarification of this alleged impropriety in the IFB by filing a protest before bid
+opening. D.C. Code § 2-309.08(b)(1) provides that “[a] protest based upon alleged improprieties
+in a solicitation which are apparent prior to bid opening … shall be filed prior to bid opening
+….” The District contends that this protest ground is untimely and should be dismissed. We
+agree. Indeed, to the extent that NCB raises new protest grounds in its response to the Agency
+Report, those grounds are untimely and are hereby dismissed.
+
+      Since NCB did not provide a bid bond, the contracting officer properly rejected the bid.
+Accordingly, we deny the protest.
+
+       SO ORDERED.
+
+
+November 20, 2007                                            /s/ Warren J. Nash
+                                                             Administrative Judge
+
+
+       /s/ Jonathan D. Zischkau
+Chief Administrative Judge
+

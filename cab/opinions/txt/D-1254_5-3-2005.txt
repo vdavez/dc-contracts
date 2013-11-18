@@ -1,0 +1,127 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+W.M. SCHLOSSER COMPANY, INC.                           )
+                                                       )       CAB No. D-1254
+Under Contract No. 99-0040                             )
+
+
+       For the Appellant W.M. Schlosser Company: Charlie C.H. Lee, Esq., Kristen A. Bennett,
+Esq., Moore & Lee, LLP. For the District of Columbia Water and Sewer Authority: Frederick A.
+Douglas, Esq., .Monica E. Monroe, Esq., Douglas & Boykin, PLLC.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Matthew S. Watson and Warren J. Nash, concurring.
+
+
+                                            OPINION
+                                     LexisNexis Filing ID 5742822
+
+        Appellant, W.M. Schlosser Company, Inc., filed this appeal on behalf of its subcontractor,
+Tate Fabricating Company, Inc., from an August 25, 2004 final decision of the General Manager of
+the District of Columbia Water and Sewer Authority (“WASA”). WASA has moved to dismiss the
+appeal on the ground that the Board lacks jurisdiction over WASA procurements. We agree with
+WASA that D.C. Code §§ 2-309.03, 2-301.04, and 2-303.20 specifically exempt WASA
+procurements from the Procurement Practices Act (“PPA”) and the Board’s jurisdiction, and
+accordingly we dismiss the appeal.
+
+                                        BACKGROUND
+
+         In 2001, WASA awarded Schlosser Contract No. 99-0040 for the construction of additional
+dewatering facilities at the Blue Plains Wastewater Treatment Plant located in the District of
+Columbia. Schlosser, as prime contractor, issued a subcontract to Tate Fabricating to furnish and
+install certain structural steel and steel deck as well as other miscellaneous metals pursuant to the
+contract. Tate claims that it incurred increased costs as a result of WASA directed changes and
+modifications to the structural steel portion of the project. WASA has promulgated procurement
+regulations at 21 DCMR Chapter 53. Those regulations provide for submitting claims to a
+contracting officer and a second level review of claims by the WASA General Manager. WASA’s
+procurement regulations also contain the following disputes provision:
+
+       21-5361. CONTRACT DISPUTE RESOLUTION
+
+       5361.1 WASA shall attempt to resolve all contract disputes arising under, or relating
+       to, contracts by mutual agreement after informal discussions have taken place
+       between the contractor and WASA.
+                                                -2-                    W.M. Schlosser Co., CAB No. D-1254
+
+
+
+
+       5361.2 The Contracting Officer shall consider the advisability of including a
+       disputes resolutions clause in all contracts. Dispute resolution clauses may require
+       alternate dispute resolution.
+
+         Tate Fabricating submitted a claim to Schlosser, who in turn submitted the claim to WASA’s
+contracting officer. On June 1, 2004, WASA’s contracting officer denied the claim. Schlosser
+sought review of the claim and the contracting officer’s decision by petitioning WASA’s General
+Manager. On August 25, 2004, the General Manager issued a decision denying the claim. On
+November 30, 2004, Schlosser appealed the General Manager’s decision to the Board. Noting that
+there might be a question as to whether we have jurisdiction over the appeal, Schlosser states that it
+also filed simultaneously a complaint in the United States District Court for the District of Columbia
+based on diversity jurisdiction. On December 30, 2004, WASA moved to dismiss the appeal on the
+ground that the Board lacks jurisdiction over WASA procurements. Schlosser filed a motion to stay
+or extend the time to respond to WASA’s motion pending resolution of jurisdiction in the United
+States District Court.
+
+                                           DISCUSSION
+
+       D.C. Code § 2-309.03(b) provides in relevant part:
+
+       Jurisdiction of the Board shall be consistent with the coverage of this chapter [the
+       Procurement Practices Act] as defined in §§ 2-301.04 and 2-303.20, except that the
+       Board shall have the authority to enter into fee-for-service agreements with agencies,
+       departments, boards, commissions, and instrumentalities of the District or other
+       public entities that are not subject to the Board’s jurisdiction.
+
+       Section 2-301.04 provides that the PPA shall apply to all departments, agencies,
+instrumentalities, and employees of the District government except as provided in section 3-303.20.
+Section 3-303.20(j) provides:
+
+       Nothing in this chapter [the Procurement Practices Act] shall affect the District of
+       Columbia Water and Sewer Authority's powers to establish and operate its
+       procurement system and to execute contracts pursuant to Chapter 22 of Title 34. . . .
+
+Chapter 22 of Title 34 contains D.C. Code § 34-2202.14 which provides that “Except as provided in
+§ 2202.17(b) [transition provisions not relevant here], [D.C. Code] § 2-301.01 et seq. [the
+Procurement Practices Act], shall not apply to the [Water and Sewer] Authority.”
+
+        Taken together, these provisions make clear that the Board does not exercise jurisdiction
+over WASA procurements conducted pursuant to WASA’s own procurement system under the
+authority of Chapter 22 of Title 34 of the D.C. Code. Because the procurement at issue here was
+conducted pursuant to WASA’s procurement authority, we lack jurisdiction to consider any appeal
+from the General Manager’s decision on Schlosser’s sponsored claim on behalf of Tate Fabricating.
+See Dixon’s Termite and Pest Control, Inc., CAB No. P-0659, Aug. 7, 2002, 50 D.C. Reg. 7453,
+                                              -3-                   W.M. Schlosser Co., CAB No. D-1254
+
+
+
+7454. Schlosser and Tate Fabricating are not without recourse because, as WASA observes in its
+pleadings, there is at least one forum where Schlosser can seek judicial review of the decision of
+WASA’s General Manager.
+
+       Accordingly, we dismiss the appeal.
+
+       SO ORDERED.
+
+DATED: May 3, 2005                                  /s/ Jonathan D. Zischkau
+                                                    JONATHAN D. ZISCHKAU
+                                                    Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

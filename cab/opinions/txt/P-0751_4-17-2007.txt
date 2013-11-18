@@ -1,0 +1,122 @@
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+SYSTEM “42” INC.                                       )
+                                                       )         CAB No. P-0751
+Under Solicitation No: DCAM-2007-B-0006                )
+
+      For the Protester, System “42” Inc.: Aniema Udofa, President, pro se. For the District of
+Columbia Government: Howard Schwartz, Esq., and Talia S. Cohen, Esq., Assistant Attorneys
+General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                              OPINION
+                                            Filing ID 14517956
+
+       System “42” Inc., the protester, has challenged a contract award to Garcete Construction
+Company for construction of the Ward One Senior Wellness Center, on the ground that Garcete is not
+capable of performing the construction work. The District has filed a combined motion to dismiss and
+Agency Report, arguing that System “42” lacks standing to protest because it is not certified as a small
+business enterprise (“SBE”) in this SBE set-aside procurement, and that on the merits, Garcete was
+properly awarded the contract. We conclude that the solicitation was an SBE set-aside procurement and
+that System “42” has not demonstrated that it was properly certified as an SBE under District of
+Columbia law. Accordingly, we dismiss the protest because System “42” lacks standing.
+
+                                          BACKGROUND
+
+        On November 29, 2006, the Office of Contracting and Procurement (“OCP”), on behalf of the
+Office of Property Management (“OPM”), issued IFB No. DCAM-2007-B-0006, for the construction of
+a new Ward One Senior Wellness Center. There is a dispute between the parties concerning whether
+the solicitation is an SBE set-aside or open market procurement. Centered at the bottom of the title
+page for the specifications, there is text in bold font which reads: “OPEN MARKET.” However, at
+page 1 of the IFB, in block 6, the text “SBE Set-Aside” is checked while the text “Open Market with set
+aside [f]or LSDBE subcontracting” is not checked. Section B.2, entitled “Designation of Solicitation
+for the Small Business Set Aside Market Only”, at page 3, states:
+
+       This Invitation for Bids is designated for certified small business enterprise (SBE)
+       bidders only under the provisions of the “Small, Local, and Disadvantaged Business
+       Enterprise Development and Assistance Act of 2005” (the Act), Title II, Subtitle N, of
+       the “Fiscal Year 2006 Budget Support Act of 2005”, D.C. Law 16-33, effective October
+       20, 2005, as amended.
+
+       An SBE must be certified as small in the procurement category of Building
+       Construction in order to be eligible to submit a bid in response to this solicitation.
+                                             -2-                         System “42” Inc., CAB No. P-0751
+
+
+(Agency Report (“AR”) Ex. 1). System “42” notes in its protest that OCP’s advertising for the
+solicitation in the Washington Times Classified Section and at the OCP website both identify the
+procurement “Market Type” as “Small Business Enterprise Set-Aside.” (System “42” Protest, at 1; AR
+Ex. 10, BCM ¶ 4.2). System “42” never raised any question of an ambiguity in the solicitation being an
+open market or set-aside procurement prior to bid opening. OCP opened five bids on January 5, 2007,
+with bid prices as follows:
+
+               Bidder                         Price
+               CNA                            $1,707,000
+               Monument                       $4,351,000
+               System “42”                    $4,995,000
+               Garcete                        $5,200,000
+               FEI                            $6,057,000
+
+(AR at 4).
+
+       FEI, the highest bidder, filed a protest on January 10, 2007, docketed as CAB No. P-0747,
+challenging the four lower bids. On January 23, 2007, Garcete filed a protest of the same procurement,
+docketed as CAB No. P-0749. Thereafter, OCP determined the bids of System”42” and CNA to be
+nonresponsive because neither provided proof of its certification as an SBE by the District of Columbia
+Small and Local Business Opportunity Commission (“SLBOC”) as required by the IFB. The District
+awarded the contract to Garcete after determining that it was properly certified and was a responsive
+and responsible bidder. On February 20, 2007, we dismissed FEI’s protest because FEI voluntarily
+requested dismissal and Garcete’s protest was moot in light of the District’s award to it. On February
+23, 2007, System”42” filed the instant protest. The District filed its combined motion to dismiss and
+Agency Report on March 15, System “42” filed a one-page response on April 3, and the District filed a
+reply on April 13, 2007.
+
+                                            DISCUSSION
+
+        Considering the solicitation in its totality, the only reasonable interpretation is that the
+solicitation was an SBE set-aside in the procurement category of building construction. Section B.2
+clearly places the solicitation in the SBE set-aside market. Block 6 found on page 1 of the solicitation
+confirms the fact of the SBE set-aside, as do the newspaper and website advertisements noted by
+System “42” in its protest. The “Open Market” label found on the title page of the specifications must
+be seen merely as a typographical error in light of the specific solicitation provisions defining the
+solicitation as an SBE set-aside procurement. System “42” also argues that it is a “small business” in
+accordance with the United States Small Business Administration’s “Small Business and Size
+Guidelines.” This argument misses the mark because federal SBA certification is not determinative of
+District of Columbia SBE certification by the SLBOC. These certification systems are governed by
+their own legislation and regulations. System “42” has provided no evidence that it was, at the time of
+bid opening, certified by the District’s SLBOC as an SBE in the procurement category of building
+construction. System “42” also relies on certifications it says it has with the Maryland Department of
+Transportation, Prince George’s County Minority Program, and the Metropolitan Washington Airport
+Authority. These certifications are not relevant to whether System “42” is an SBE (certified by the
+                                            -3-                        System “42” Inc., CAB No. P-0751
+
+
+District’s SLBOC) in the procurement category of building construction. As there is no indication that
+System “42” was so certified as a District SBE in the appropriate procurement category, it was not
+eligible to bid on this set-aside procurement, and therefore lacks standing to protest. See M&G
+Services, Inc., CAB No. P-0652, May 10, 2002, 50 D.C. Reg. 7419. Accordingly, we dismiss the
+protest for lack of standing.
+
+                                              CONCLUSION
+
+       For the reasons discussed above, we dismiss the protest of System “42” for lack of standing.
+
+       SO ORDERED.
+
+
+DATED: April 17, 2007                                /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+
+CONCURRING:
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

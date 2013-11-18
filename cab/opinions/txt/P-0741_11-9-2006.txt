@@ -1,0 +1,145 @@
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+CAPITOL PAVING OF D.C., INC.                            )
+                                                        )        CAB No. P-0741
+Under IFB No. POKA-2006-B-0090-LJ                       )
+
+      For the Protester: Douglas A. Datt, Esq. For the District of Columbia Government: Howard
+Schwartz, Esq., Senior Assistant Attorney General, and Talia S. Cohen, Esq., Assistant Attorney
+General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                                OPINION
+                                        LexisNexis Filing ID 12877636
+
+         Capitol Paving of D.C., Inc., has protested the District’s solicitation for joint seal, slurry seal,
+and bituminous surface treatment for various roadways in the District of Columbia, arguing that the
+solicitation contains inconsistencies regarding how bids will be evaluated under the small, local, and
+disadvantaged business enterprise (“SLDBE”) preference program as authorized by the Small, Local,
+and Disadvantaged Business Enterprise Development and Assistance Act of 2005, D.C. Law 16-33
+(“SLDBEDA Act”). Capitol Paving argues that while Section M of the solicitation defining the
+evaluation criteria refers to preferences for “longtime resident businesses” (“LRBs”) and resident-
+owned business enterprises, the “LSDBE Certification Package” found in Attachment J.7 of the
+solicitation does not mention either preference. In addition, the preference percentage reductions found
+in section M and Attachment J.7 also differ. Capitol Paving further argues that no award may be made
+based on a LRB preference because (1) there are no regulations implementing the LRB certification
+preference authorized by the SLDBEDA Act, and (2) the LRB certification as a matter of law cannot be
+applicable to any contractor until the year 2012. Apparently because Capitol Paving currently does not
+qualify for the 10 percent LRB certification preference but one of its competitors has recently been
+certified as a LRB (Fort Myer Construction), Capitol Paving argues that employing the LRB preference
+absent any waiver provision would eliminate competition and thus cannot be used in bid evaluations.
+
+        We conclude that the first protest ground relating to the inconsistency between Solicitation
+Section M and Attachment J.7 has been rendered moot because the District issued an amendment
+removing Attachment J.7. Concerning the other protest grounds involving legal arguments challenging
+the use of any LRB preferences in District procurements, we have recently rejected essentially the same
+arguments in Capitol Paving of D.C., Inc., CAB No. P-0736, Oct. 12, 2006. Accordingly, we dismiss
+the protest in part as moot and deny the remaining protest grounds.
+
+                                            BACKGROUND
+
+        On July 28, 2006, the Office of Contracting and Procurement (“OCP”) issued in the open market
+IFB No. POKA-2006-B-0090-LJ with a bid opening date of August 31, 2006. OCP issued the IFB on
+behalf of the District of Columbia Department of Transportation (“DDOT”), for a contractor to provide
+                                              -2-                           Capitol Paving, CAB No. P-0741
+
+
+joint seal, slurry seal, and bituminous surface treatment in order to repair cracks in various roadways in
+the District. (Agency Report (“AR”) Ex. 1). Section J of the IFB lists seven attachments including
+Attachment J.7, the “LSDBE Certification Package.” In accordance with the 2005 SLDBEDA Act,
+Section M of the IFB provides preferences for small, local, disadvantaged, resident-owned, longtime
+resident, and enterprise zone businesses. Specifically, Section M provides, in accordance with the
+SLDBEDA Act, that a ten percent reduction is allowed for a certified longtime resident business.
+Section M, entitled “Evaluation Factors”, contains the following relevant provisions:
+
+       M.1.1 Preferences for Local Businesses, Disadvantaged Businesses, Resident-owned
+       Businesses, Small Businesses, Longtime Resident Businesses, Longtime Resident
+       Businesses, or Local Businesses with Principal Offices Located in an Enterprise Zone
+
+       Under the provisions of the “Small, Local, and Disadvantaged Business Enterprise
+       Development and Assistance Act of 2005” (the Act), Title II, Subtitle N, of the “Fiscal
+       Year 2006 Budget Support Act of 2005”, D.C. Law 16-33, effective October 20, 2005,
+       the District shall apply preferences in evaluating bids or proposals from businesses that
+       are small, local, disadvantaged, resident-owned, longtime resident, or local with a
+       principal office located in an enterprise zone of the District of Columbia.
+
+       M.1 General Preferences
+
+       For evaluation purposes, the allowable preferences under the Act for this procurement
+       are as follows:
+
+       ....
+
+       M.1.1.3 Ten percent reduction in the bid price or the addition of ten points on a 100-
+       point scale for a longtime resident business (LRB) certified by the SLBOC or the
+       DSLBD, as applicable . . . .
+
+(AR Ex. 1). Attachment J.7, the solicitation’s LSDBE Certification Package, contains information and
+forms regarding the District’s preference program. (Protest, Ex. 2). The problem with the package is
+that it appears to be seriously outdated, with some of the documents bearing revision dates in 1999, and
+none of the documents reflecting the major statutory changes made by the 2005 SLDBEDA Act to the
+preference program. On August 15, 2006, Capitol Paving filed the instant protest, pointing out that
+there is no reference in Attachment J.7 to a certification for resident-owned or longtime resident
+businesses.
+
+       On August 21, 2006, OCP issued Amendment No. 2, which deleted Attachment J.7 of the IFB.
+(AR Ex. 1). On August 29, 2006, OCP issued Amendment 3, which extended the bid opening date to
+January 10, 2007. The District filed its Agency Report on September 5, Capitol Paving filed comments
+on September 11, and the District filed a reply on September 19, 2006.
+
+                                            DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+                                              -3-                           Capitol Paving, CAB No. P-0741
+
+
+
+
+        In response to Capitol Paving’s first protest ground alleging inconsistencies between Section M
+and Attachment J.7, the District issued Amendment No. 2 deleting in its entirety Attachment J.7 which
+contained the outdated LSDBE preference program information package. Capitol Paving nevertheless
+urges that this amendment does not moot the first protest ground because removing Attachment J.7
+means that the solicitation no longer provides preference program information and certification and
+waiver application forms to prospective bidders. Capitol Paving’s argument is without merit. The
+package is no more than an informational aid to bidders and its elimination does not render the
+solicitation defective in any respect. Section M provides the evaluation criteria regarding the District’s
+preference program and that content is derived directly from the SLDBEDA Act. Bidders can obtain
+information and forms from the Small, Local Business Opportunity Commission (“SLBOC”) or its
+supporting Department of Small and Local Business Development. Accordingly, we dismiss as moot
+Capitol Paving’s first protest ground.
+
+        Capitol Paving next argues that no award may be made under the challenged solicitation based
+on a LRB preference because (1) there are no regulations implementing the LRB certification
+preference authorized by the SLDBEDA Act, and (2) the LRB certification as a matter of law cannot be
+applicable to any contractor until the year 2012. Apparently because Capitol Paving currently does not
+qualify for the 10 percent LRB certification preference but one of its competitors has recently been
+certified as an LRB, Capitol Paving argues that applying the LRB preference absent any waiver
+provision would eliminate competition and thus cannot be used in this procurement.
+
+        We recently rejected similar arguments in Capitol Paving of D.C., Inc., CAB No. P-0736, Oct.
+12, 2006, where Capitol Paving challenged OCP’s applying a 10 percent preference to Fort Myer
+Construction based on a longtime resident business certification issued by the SLBOC to Fort Myer.
+We sustained the contracting officer’s determination to evaluate Fort Myer’s bid using the LRB
+preference. Although we certainly look forward to the Mayor’s issuance of revised regulations to
+implement the SLDBEDA Act and to replace various regulations that are obsolete, we cannot conclude
+that the current solicitation, in providing preferences pursuant to the SLDBEDA Act, violates the law.
+Accordingly, we deny Capitol Paving’s other grounds for protest.
+
+       SO ORDERED.
+
+DATED: November 9, 2006                                /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+CONCURRING:
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

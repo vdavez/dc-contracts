@@ -1,0 +1,726 @@
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+ACS STATE AND LOCAL SOLUTIONS, INC                       )
+                                                         )         CAB No. P-0740
+Under RFP No: POFA-2006-R-0066                           )
+
+       For the Protester, ACS State and Local Solutions, Inc.: William W. Thompson, Esq., Michael A.
+Branca, Esq., Peckar, Abramson, Bastianelli & Kelley. For the Intervenor, Richard J. Conway, Esq.,
+Robert J. Moss, Esq., Dickstein Shapiro, LLP. For the District of Columbia Government: Howard
+Schwartz, Esq., Jon Kulish, Esq., Assistant Attorneys General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Jonathan D.
+Zischkau, concurring.
+
+                                                OPINION
+                                              Filing ID 14390514
+
+        ACS State and Local Solutions, Inc., (“ACS”) filed a pre-award protest and a supplemental
+protest of a contract award to American Traffic Solutions, Inc. (“ATS”) to provide support,
+maintenance, and improvements to the District’s existing Automated Traffic Safety Enforcement
+Systems (“ATSE”) which consist of red light cameras, and fixed and mobile speed radar camera
+systems. ACS alleges that the District failed to properly evaluate its proposal and ATS’s proposal, that
+ACS was the only offeror that could meet the requirements of the solicitation’s scope of work, that ATS
+should not have received a higher technical evaluation than ACS who was the incumbent contractor,
+that the District’s technical evaluation was unreasonable and arbitrary and not in accordance with the
+evaluation criteria set forth in the solicitation, and that the District failed to properly evaluate the price
+evaluation factor. The District argues that the protests are untimely, that the District properly evaluated
+the proposals under both the technical and price criteria, and that the contracting officer correctly
+determined that ATS’s higher priced proposal was the most advantageous to the District. We conclude
+that the protests were timely filed and that the contracting officer violated no law, regulation, or terms
+of the solicitation in awarding the contract to ATS. Accordingly, we deny ACS’s protests.
+
+                                            BACKGROUND
+
+         The District has operated an automated traffic safety enforcement program, using contracted
+services since 1999, and seeks to continue the current program and expand as new technologies and
+program initiatives become available. The District’s Office of Contracting and Procurement issued the
+Request for Proposals (“RFP”) on February 28, 2006, requiring the prospective contractor to provide
+support and maintenance for the existing ATSE. The RFP set forth a contract base term of two years
+with the possibility of three one-year options. The RFP describes the ATSE system, but the RFP does
+not indicate the manufacturer of the hardware used in that system. According to the protest, the current
+ATSE equipment was manufactured by a company named Gatsometer B.V. (“Gatsometer”), based in
+the Netherlands. The RFP sets forth the performance goals of the ATSE system, and the minimum
+standards for hardware availability and usage. The RFP also set forth the functional requirements for
+all of the hardware and software in the ATSE.
+                                                -2-                  ACS State and Local Solns., CAB No. P-0740
+
+
+        One component of the RFP required fixed-price proposals for the operation, support, and
+maintenance of the existing ATSE system, and another component invited offerors to submit proposals
+for system process improvements, including a “conversion plan for any existing equipment to more
+current technology for automated traffic safety enforcement” (RFP C.1.1.1 – C.1.1.2), under a cost-
+reimbursable pricing structure.
+
+        The RFP in section C.3.7 contemplated under the conversion plan the installation of new red
+light cameras, fixed radar units, and new mobile units with the agreement of the District. The RFP
+required the contractor to agree with the District on the cost of the new installation prior to performing
+work on the new installation. The RFP also set forth requirements for the printing of both red light and
+speeding violations, as well as requirements for transmitting data between the contractor and the
+District.
+
+       The District substantially revised the technical portion of the original RFP through Amendment
+No. A0007, issued May 5, 2006. The amended RFP did not change introductory sections B.1 and B.2
+which provide:
+
+       B.1     The Government of the District of Columbia, Office of Contracting and Procurement,
+       on behalf of Metropolitan Police Department (MPD), is seeking [offerors] to provide support
+       and maintenance for the existing Automated Traffic Safety Enforcement (ATSE) System. Also,
+       [offerors] shall, in their respective proposals, make recommendations to the District for process
+       improvements.
+
+       B.2     The District contemplates award of a multiyear contract with a base period of two (2)
+       years from date of award and three one-year options, and has two separate components: (a) a
+       firm fixed price component with payment based on a monthly fixed rate, and (b) a cost
+       reimbursement component.
+
+The remainder of section B contains the price schedules for the various contract line items:
+
+       B.3     PRICE SCHEDULE FIRM-FIXED PRICE-Based Period
+
+                        Item Description                  Mthly fixed rate         Total/24mts
+
+       CLIN 0001        Provide all Resources
+                        to Operate the ATSE
+                        System (Reference: Sec.C.3)       _____________            ____________
+
+       B.4     COST SCHEDULE-COST REIMBURSEMENT FOR DIRECT COST AS FOLLOWS:
+
+                        Item Description                                           Not-to-exceed
+                                                                                   Total/24mts
+
+       CLIN 0002        Equipment Repair and/or Replace
+                        (Reference: Sec.C.3.1.2.11)                                ____________
+
+       CLIN 0003        Public Information & Education Campaign
+                        (Reference: Sec.C.3.10.2)                                  ____________
+                                                -3-                 ACS State and Local Solns., CAB No. P-0740
+
+
+
+
+       CLIN 0004       V Street Facility Lease Expense
+                       (Reference: Sec.C.3.18)                                    ____________
+
+       Total Not-to-Exceed Amount                                                 ____________
+
+        Section C of the RFP contains the statement of work for the support and maintenance of the
+ATSE system. The reference in CLIN 2 to “Equipment Repair and/or Replace” refers to section
+C.3.1.2.11, which makes clear that the contractor is to repair or replace inoperable ATSE equipment.
+Although ACS mentions only the “repair” aspect (ACS’s Response to Agency Report and Supplemental
+Protest, at 6), the solicitation nowhere limits the awardee only to repairing the existing equipment.
+Replacement is an option and the solicitation does not limit replacement to a specific manufacturer of
+the equipment components. A fair reading of the solicitation shows that the contractor would be
+required to maintain an operable system and meet all of the functional requirements of the equipment
+and system, regardless of the manufacturer. The requirement to repair or replace inoperable equipment
+can also be found in other sections, including sections C.3.2.10 (mobile radar units) and C.3.3.11 (red
+light camera units). Some relevant portions of section C read as follows:
+
+       SECTION C: SPECIFICATION/WORK STATEMENT
+
+       C.1     SCOPE:
+
+       C.1.1   The Government of the District of Columbia Office of Contracting and Procurement,
+               on behalf of the Metropolitan Police Department (MPD), is seeking offerors to
+               provide support and maintenance for the existing Automated Traffic Safety
+               Enforcement (ATSE) System. Also, offerors shall, in their respective proposal, make
+               recommendations to the District for process improvements.
+
+       C.1.1.1 Offerors are invited to submit a proposal that will provide support and maintenance
+               for the existing ATSE system equipment. This RFP provides offerors with the
+               relevant characteristics of the existing equipment, and the service and maintenance
+               requirements for the ATSE system. This information will enable all offerors to
+               respond in a format that makes for a fair comparison and ensures that the proposed
+               solution meets the current system requirements.
+
+       C.1.1.2 Offerors shall make recommendations in their respective proposals based upon their
+               expertise, for process improvements and best practices that could be implemented by
+               the District in support of its ATSE system. To that end, offerors are requested to
+               submit a conversion plan for any existing equipment to more current technology for
+               automated traffic safety enforcement. Offerors are encouraged to provide alternatives
+               and options that may create operational efficiencies, cost savings, service
+               improvements, or enforcement improvements by the District. All suggestions and
+               alternative solutions provided in the proposal will be considered, by the District,
+               during proposal evaluation, but only after the offeror has first responded with a
+               proposal to provide the ATSE system in accordance with the requirements set forth
+               herein. Separate pricing must be provided by the offeror for this part of the proposal
+               in accordance with Section L.22.1 through L.22.3.
+
+       C.2     BACKGROUND
+                                            -4-                  ACS State and Local Solns., CAB No. P-0740
+
+
+
+
+C.2.1      The District of Columbia (hereinafter “the District), Metropolitan Police Department
+           (MPD), seeks to continue operating an automated Traffic Safety Enforcement (ATSE)
+           System, which will deter motorists from running the red light and from exceeding the
+           posted speed limits, and when unsuccessful in deterring, record and cite the registered
+           owners of motor vehicles which fail to comply with traffic light signals and posted
+           speed limits. The District has operated an automated traffic safety enforcement
+           program, using contracted services since 1999, and seeks to continue the current
+           program and expand as new technologies and program initiatives become available.
+
+C.2.1.1 The ATSE system includes all automated red light and radar equipment system
+           required for the enforcement of red light running and speeding violations in the
+           District of Columbia. The ATSE system shall send images of red light running and
+           speeding violations, and the actual violation information to a processing application
+           for the generation of a citation. The citation will be validated by the District, for
+           issuance of a ticket.
+
+C.3        REQUIREMENTS
+
+C.3.1      The contractor shall operate, maintain and service existing hardware and system
+           which include, at a minimum all computer interfaces, software, cameras, flash units,
+           violation detection devices (i.e., loops), and wirings.
+
+C.3.1.2.11The contractor shall be responsible for routine and preventive maintenance of the ten
+           (10) fixed pole radar units. Inoperable equipment shall be repaired or replaced by the
+           contractor, at contractor expense, within forty-eight (48) hours after the District
+           determines the equipment to be inoperable. Should it be determined that the damage
+           is caused due to negligence by the District’s staff or vehicular accidents, the cost for
+           repair or replacement shall be agreed upon as a reimbursable expense to the
+           contractor.
+
+C.3.2      MOBILE RADAR UNITS
+
+           The District’s ATSE system currently includes a total of twelve (12) mobile radar
+           units. Ten (10) mobile radar units are police interceptors and two (2) units are vans.
+           Six (6) of the police interceptors are equipped with cameras that take images using
+           35mm film, and four (4) of the police interceptors and the two (2) van are equipped
+           with digital cameras.
+
+C.3.2.10   The contractor shall be responsible for routine and preventive maintenance of the
+           mobile radar equipment. Inoperable equipment (as determined by the District) shall
+           be repaired or replaced by the next shift change by the contractor, at contractor’s
+           expense. Should it be determined that damage is caused due to negligence by the
+           District’s staff or vehicular accidents, the cost for repair or replacement shall be
+           agreed upon by the District, and submitted by the contractor as a reimbursable
+           expense.
+                                                  -5-                  ACS State and Local Solns., CAB No. P-0740
+
+
+
+
+       C.3.3   RED LIGHT CAMERA UNITS
+
+               The District’s ATSE system currently includes forty-nine (49) red light camera units.
+                Thirty-nine (39) of the units take images using 35mm film, and ten (10) takes images
+               using a digital camera unit.
+
+       C.3.3.11 The contractor shall be responsible for routine and preventive maintenance of the red
+               light equipment. Inoperable equipment shall be repaired or replaced by the
+               contractor, at contractor’s expense within forty-eight (48) hours after the District
+               determines the equipment to be inoperable. Should it be determined that damage is
+               caused due to negligence by the District’s staff or vehicular accidents, the cost for
+               repair or replacement shall be agree upon by the District, and submitted by the
+               contractor as a reimbursable expense.
+
+Section G of the solicitation provides additional information concerning the requirements and
+confirms that the contractor is to repair or replace inoperable ATSE equipment:
+
+       G9.5.2 There are a total of Seventy-one (71) camera units in the red light camera, mobile
+              radar unit and fixed pole radar unit. Twenty-Five (25) are digital camera units and
+              forty-six (46) take images using 35mm film.
+
+               Of the twenty-five (25) digital camera units in the system, Nine (9) are on fixed pole
+               radar units, Six (6) are on mobile radar units (which consist of four (4) police
+               interceptors and two (2) vans, and Ten (10) are for the red light camera units.
+
+               a. If a digital camera unit fails to operate for a period of longer than two (2) calendar
+               days due to the District’s determination of contractor causes, the monthly invoice will
+               be reduced by the District, by an amount calculated by dividing the monthly fee by
+               the number of camera units being serviced from the third calendar day and each day
+               thereafter until the camera is replaced or becomes operational.
+
+               b. If the forty-six (46) cameras which take images using 35mm film fails to operate
+               for a period of longer than two (2) calendar days due to the District’s determination of
+               contractor causes, the monthly invoice will be reduced by the District, by an amount
+               calculated by dividing the monthly fee by the number of camera units being serviced
+               from the third calendar day and each day thereafter until the camera is replaced or
+               becomes operational.
+
+       G9.5.3 If any other components of the camera system such as a pole, (Ref: c.3.3.1) camera
+              housing unit, (Ref: C.3.3.2), flash unit, (Ref: c.3.3.4), digital induction loop detectors,
+              (Ref: C.3.3.5), and the electrical connections (Ref: C.3.3.6) fail to operate for any
+              reason determined by the District to be within the contractor’s control, for a period
+              longer than fourteen (14) calendar days, the monthly invoice shall be reduced on a
+              pro-rata basis on the fifteenth calendar day the unit is out of service and every
+              calendar day thereafter until the entire camera unit is replaced or operational. (Ref:
+              G.9.5.2 for calculation example).
+                                                -6-                 ACS State and Local Solns., CAB No. P-0740
+
+
+The District specified the content it expected in the technical proposals which would be the basis for the
+evaluations of each offeror’s technical approach. ACS alleges errors by the District in evaluating its
+project plan and downgrading its score because of deficiencies identified by the contracting officer and
+the technical panel regarding its plan. Section L provides in relevant part:
+
+       L.25.1 TECHNICAL PROPOSAL
+
+       L.25.1.1 Technical Approach
+
+               (a) Offeror's shall provide a Project Plan in the form of a bar chart that details how it
+               proposes to meet all technical requirements as stated in Sections C.3 through C.16,
+               including a Work Breakdown Structure, staff assignments, start and finish dates, and
+               milestones. Offerors shall also provide a narrative or graphic presentation tied to the
+               Project Plan that fully describes each milestone and details how the milestones will be
+               met, and interdependencies with other milestones, risk management plan and
+               contingency plan to ensure implementation of automated traffic safety enforcement
+               services by September 1, 2006.
+
+               (b) Offerors shall provide a Management Plan detailing its organization structure and
+               project organization, where the Offeror will be located, financial and accounting
+               controls, quality assurance plan, production control plan, and the notice management
+               plan.
+
+                 (i) The Management Plan should describe the means by which Offerors will control
+               and monitor work to ensure that system hardware maintained for users remains
+               operational during regular working hours, the user experience with system applications
+               remains positive, user requests are answered timely and successfully, the automated
+               traffic safety enforcement system and its ancillary applications remain fully operational
+               during regular working hours, and system modifications are made in accordance with
+               user requirements and required timeframe.
+
+
+                 (ii) The Management Plan shall describe the means by which requests for system
+               changes or assigned tasks or work orders will be received and the means by which they
+               will be monitored and tracked.
+
+                 (iii) Offerors proposals shall be responsive to the requirements and be sufficiently
+               clear and efficient and submitted in a timely manner. Offerors should not simply repeat
+               RFP requirements but rather detail fully how the Offeror’s proposed system and
+               services, with necessary modifications will meet the stated requirements.
+
+Technical factors included in Amendment No. A0007 are substantially more detailed than the generic
+technical factors found in the original solicitation:
+
+       M.4.1 TECHNICAL FACTORS
+
+       M.4.1.1 TECHNICAL APPROACH 0-40 POINTS
+                                         -7-                 ACS State and Local Solns., CAB No. P-0740
+
+
+M.4.1.1.1 Offeror's proposal will be ranked on its ability to demonstrate how its proposed
+        Project Plan will meet all technical requirements. Offeror has presented a detailed
+        Project Plan, including a work structure breakdown, staffing plan and milestone
+        schedule that demonstrates the Offeror's ability to meet the requirements stated in
+        Sections C. (0-20 points)
+
+M.4.1.1.2 Offeror's proposal will be evaluated and ranked on the quality of their Management
+        Plan and how the plan details its organization structure, project organization and other
+        required information under Section C. (0-5 points)
+
+M.4.1.1.3 Offeror's proposal will be evaluated and ranked on the comprehensiveness and quality
+        of its Management Plan. Offeror has provided an organization structure, project
+        organization, and quality control plan detailing how the Offeror will effectively and
+        efficiently control and monitor ongoing operation of the automated traffic safety
+        enforcement support services. (0-15 points)
+
+M.4.1.2 OFFEROR'S EXPERIENCE AND PAST PERFORMANCE                                   0-15POINTS
+
+M.4.1.2.1 Past experience in providing automated traffic safety enforcement systems
+        Offeror's proposal will be evaluated and ranked on their ability to demonstrate its past
+        experience providing automated traffic safety enforcement system processing systems
+        similar to that defined in Section C to include imaging (Please reference Sections
+        C.3.4.1), reporting (Please reference Section F), and interface with other systems
+        (Please reference Section C.3.12.1). (0-5 points)
+
+M.4.1.2.2 Past Performance
+        Offerors' will be evaluated and ranked on the quality of its past performance from
+        responses obtained from its references, and its experience in providing similar services
+        within a timeline similar to the timeline required in this RFP. (0-10 points)
+
+M.4.1.3 QUALITY AND RETENTION OF PERSONNEL                                 0-10 POINTS
+
+M.4.1.3.1 Experience with automated traffic safety enforcement system and managing
+        high-volume, production-oriented operations on a similar basis as described in this
+        RFP.
+        Offeror's proposal will be evaluated and ranked based on its ability to demonstrate its
+        key personnel and management experience with automated traffic safety enforcement
+        system services or related experience. Offeror's proposals will also be evaluated and
+        ranked on the level of experience in managing high-volume, production-oriented
+        operations and extent of project management experience of key personnel including
+        knowledge of system applications and services. (0-5 points)
+
+M.4.1.3.2 Ability to retain employees
+        Offeror's proposal will be evaluated and ranked on their ability to demonstrate the
+        retainage of employees, ensure low turnover and ability to retain qualified personnel.
+        (0-5 points)
+                                             -8-                ACS State and Local Solns., CAB No. P-0740
+
+
+       M.4.1.4 SYSTEMS PERFORMANCE IMPROVEMENT                                 0-5 POINTS
+               Offeror's proposal will be evaluated and ranked on their ability to demonstrate
+               operational improvements and cost savings derived from the systems enhancements to
+               the exiting automated traffic safety enforcement system.
+
+         In a meeting on March 13, 2006, ACS informed the District that ACS was the exclusive agent
+for the existing Gatsometer ATSE equipment, and that the District would need to protect Gatsometer’s
+proprietary information, intellectual property, and trade secrets, which included Gatsometer’s software,
+instructions, and operations manuals. According to the protest, the District informed the offerors that
+the District had no control over the software for the system. By Amendment A0010 dated May 22,
+2006, the District informed prospective offerors that the contractor would be required to maintain the
+ATSE system, in spite of any exclusive distributorship that ACS may have with Gatsometer. According
+to ACS, Gatsometer informed the District in May, 2006, that ACS was the exclusive partner of
+Gatsometer in the United States and that their relationship would be continuing. (Protest, Ex. 5).
+Gatsometer further advised the District that it would not support any contractors other than ACS with
+“spare parts, training, intellectual property, equipment manuals or software.” (Id.). The District’s
+contract specialist, Darlene Harkins, had a telephone conversation with Andrew Noble of Gatsometer
+on May 19, 2006, in which Noble advised Harkins that Gatsometer would consider agreeing to work
+with a contractor other than ACS for the maintenance of the District’s ATSE system so long as the new
+contractor was not a manufacturer of competing camera equipment. (AR Exs. 34; 33, ¶ 10). In a
+subsequent telephone conversation with Noble on July 24, 2006, Harkins attempted to confirm
+Gatsometer’s willingness to deal with a contractor other than ACS but Harkins states that Noble this
+time said Gatsometer would not deal with any contractor but ACS as its United States representative.
+(AR Ex. 34).
+
+        ATS, ACS, and two other offerors, submitted proposals to the District by the May 24, 2006,
+proposal due date. ACS points out that its proposal details how it will maintain the existing ATSE
+equipment and that it is uniquely positioned to do the work, being both the incumbent contractor and
+the only firm in the United States authorized by Gatsometer (the cameras are actually manufactured by
+a firm called Robot), to maintain Gatsometer equipment.
+
+         ATS proposed not only to maintain the existing ATSE system but also to upgrade the ATSE
+equipment by initially replacing the Gatsometer software with its own software, and replacing 5 ATSE
+systems with its own Axsis systems. ATS also proposed as part of its process improvements to replace
+all of the existing Gatsometer equipment with its own Axsis equipment.
+
+         The contracting officer assigned a technical evaluation panel with ATSE technical expertise to
+review the proposals, score them, and transmit a consensus evaluation to her based on the technical
+criteria set forth in the RFP. The technical panel conducted its evaluation and submitted a consensus
+report to the contracting officer by letter dated June 5, 2006. The panel concluded that ATS had the
+best technical proposal but that ACS was rated only 4 points lower than ATS. (AR Ex. 15). The
+contracting officer conducted her own independent assessment of the proposals, rating ATS’s technical
+proposal higher than ACS’s proposal. (AR Exs. 16, 17, 24). Discussions were held on June 12 and
+June 14 with ACS and ATS followed by a request for best and final offers (BAFOs) which were
+submitted on June 15 and16, 2006. (AR Ex. 24). By letter of June 20, 2006, the technical evaluation
+panel submitted to the contracting officer its consensus evaluation report regarding the proposals as
+                                               -9-                ACS State and Local Solns., CAB No. P-0740
+
+
+supplemented by the BAFOs. (AR Exs. 23, 15). The panel raised ATS’s consensus ratings for
+technical approach, experience and past performance, and quality and retention of personnel. The panel
+did not change its consensus rating for ACS. (AR Exs. 15, 23, 24). The contracting officer’s
+independent assessment of the BAFOs resulted in an increase of 5 points in her rating of ATS under the
+quality and retention of personnel factor but no change in her rating of the ACS proposal. (AR Exs. 16,
+17, 24). After evaluating the proposals as supplemented by the BAFOs, the contracting officer’s
+technical rating summary shows ATS with an 8 point advantage for technical approach, while ATS and
+ACS had equal numerical ratings for experience and past performance, quality and retention of
+personnel, and system performance improvements. (AR Ex. 24). The contracting officer submitted
+affidavits explaining the evaluation and selection process, and her assessment that ATS had the better
+overall offer, considering the technical and price factors. (AR Exs. 33, 40). We have studied her
+analysis underlying her determination that ATS can perform the services required by the RFP, and we
+find that her determination is neither unreasonable nor arbitrary based on a review of the entire record.
+
+        The contracting officer prepared a Business Clearance Memorandum, dated June 29, 2006,
+recommending award of the contract to ATS, memorializing her evaluation of the proposals and her
+selection decision. She then submitted the contract package to the City Council for approval because
+the value of the contract exceeded $1,000,000. The Council approved award of the contract to ATS on
+July 11, 2006. ACS filed its initial protest on July 25, 2006, alleging technical and price evaluation
+errors. On August 15, 2006, the District filed a motion to dismiss the protest on the ground that the
+protester really was asserting a solicitation impropriety and thus the protest was untimely being filed
+after the closing date for proposals. ACS opposed the motion on the ground that its protest raised issues
+concerning the evaluation and selection, rather than the terms of the solicitation itself. The Board orally
+denied the motion to dismiss and directed the District to file its Agency Report addressing the merits.
+The District filed its Agency Report on November 9, 2006. ACS filed comments on the Agency Report
+and a supplemental protest on November 22, 2006. ACS states that it based its supplemental protest on
+facts included in the District’s Agency Report and accompanying exhibits. The District responded to
+the supplemental protest on December 12, 2006. ACS replied to the District’s response on December
+21, 2006. By Determination and Findings to Proceed (“D&F”) dated December 13, 2006, the District
+determined that it had a compelling need to proceed with contract award, despite the protest. On
+December 20, 2006, the Chief Procurement Officer (“CPO”) signed the Determination and Findings to
+Proceed with Award pending decision on the protest. On December 27, 2006, ACS timely challenged
+the D&F to proceed, alleging that the D&F does not provide substantial evidence that supports award to
+ATS. In addition, ACS asserts that the District has failed to meet its burden of establishing that the
+award to ATS will further an urgent or compelling need of the District. The District filed its reply to
+ACS’s challenge on January 3, 2007.
+
+                                             DISCUSSION
+
+       A. The District’s Motion to Dismiss for Untimeliness
+
+        The District asserts that ACS knew the grounds of its protests before the proposal due date of
+May 24, 2006. According to the District, ACS was required to file its protest when the contracting
+officer refused to amend the solicitation to require the District to award a sole source contract to ACS.
+Therefore, according to the District, the protest is untimely because it was filed more than 10 days after
+ACS knew, or should have known, of the grounds for its protest. However, we think the District has
+                                             - 10 -              ACS State and Local Solns., CAB No. P-0740
+
+
+not properly characterized ACS’s grounds for protest. ACS simply does not argue in its protest that the
+solicitation should have been a sole source award to it. Rather, ACS argues that because of its
+incumbency and its being the exclusive agent for Gatsometer in the United States, it should have
+received the highest technical evaluation, and thus should have been awarded the contract. Further,
+there is no evidence that ACS learned of the proposed award to ATS before it received the notice of
+award on July 11, 2006.
+
+       The District argues that ACS’s contention that the District improperly evaluated the ATS
+proposal to the detriment of ACS, is untimely because ACS failed to allege a specific date by which it
+learned of the facts underlying the allegation, and failed to establish the date and circumstances of its
+coming to know both about the allegedly improper rating of ATS for the Experience and Past
+Performance factor and about the adverse action by the District. The protest record adequately
+demonstrates that ACS first learned of the basis for this protest ground on July 11, 2006. Accordingly,
+we conclude that ACS timely filed its protests.
+
+       B. ACS’s Challenge to the Determination to Proceed
+
+        The contract is for support and maintenance of the existing ATSE. In the D&F, the District
+asserts that providing for the enforcement of traffic speed regulations is a compelling and urgent
+requirement of the District government. According to the District, because the current contract could
+not be extended beyond January 5, 2007, and because the District could not allow the ATSE system to
+become idle (stating that the system has resulted not only in a reduction of the number of red light
+violations, but also a significant reduction in the number of deaths associated with motorists illegally
+entering protected intersections), the CPO determined that it is imperative that the contract be awarded
+to provide continual operations for the ATSE system. We deny the motion challenging the
+determination to proceed because the CPO sets forth a compelling need to continue with ATSE
+services.
+
+       C. ACS’s Arguments that the District’s Selection of ATS was
+          Arbitrary and Unreasonable and Contrary to the Terms of the Solicitation
+
+        We now address, pursuant to D.C. Code § 2-309.03(a)(1), the merits of the protest grounds
+raised by ACS. In the original protest, ACS argues that an award to any offeror other than ACS would
+violate applicable statutes and regulations as well as the terms of the solicitation. The following
+introduction from ACS’s supplemental protest fairly summarizes its contentions:
+
+               The cornerstone of the RFP was the requirement that offerors must demonstrate
+       their ability to support and maintain the existing ATSE. The existing ATSE is the
+       proprietary hardware and software of Gatsometer, and ACS, as the incumbent
+       contractor, is the exclusive licensee of Gatsometer’s products in North America. The
+       RFP further provided that, if an offeror first demonstrated its capability to support and
+       maintain the existing ATSE, then and only then would the District consider proposed
+       “process improvements,” which were worth up to five points in the overall evaluation
+       scheme (out of total possible score of 112).
+
+               The record shows beyond any doubt that the District’s technical team and the
+                                             - 11 -             ACS State and Local Solns., CAB No. P-0740
+
+
+       Contracting Officer improperly elevated proposed process improvements from a minor
+       potential factor under the RFP’s evaluation scheme to the overarching factor in the
+       actual evaluation of proposals. Instead of assigning ATS a low technical score that
+       reflected its clear inability to meet the RFP’s requirements to support and maintain the
+       existing ATSE and assigning ACS a correspondingly higher technical score that
+       reflected its demonstrated ability to meet those same requirements, ATS was awarded a
+       higher score because of its promised process improvements. It is simply impossible to
+       reconcile the District’s evaluation of the proposals with the RFP’s requirements and
+       evaluation criteria.
+
+               This fundamental flaw in the procurement process permeated all aspects of the
+       District’s evaluation. For example, the RFP assigned the majority of the technical merit
+       points to an offeror’s proposal to support and maintain the existing equipment. ACS’s
+       vast experience with the Gatsometer equipment, as compared with ATS’s complete
+       inexperience with the Gatsometer equipment, reasonably should have resulted in ACS
+       receiving a higher score. However, the District’s improper application of the RFP’s
+       evaluation criteria resulted in ATS receiving the higher score. Similarly, the
+       administrative record demonstrates that ACS’s initially high scores for technical merit
+       were downgraded when the process improvement evaluation factor was improperly
+       injected into the evaluation. Further, whereas the District selected ATS based on its
+       process improvements, the District failed to consider the cost of these improvements in
+       its price and cost analyses. Because of the substantial cost of ATS’s process
+       improvements, the true cost to the District of award to ATS was never considered.
+
+(Supplemental Protest, at 2-3). We address in order ACS’s refined protest contentions, found in its
+supplemental protest.
+
+       1. Technical Evaluation of ACS’s and ATS’s Proposals
+
+         ACS alleges that the technical evaluations and scoring of ACS’s and ATS’s proposals were
+arbitrary and unreasonable based on ACS’s vast superiority over ATS in its experience and ability to
+support and maintain the existing ATSE equipment. ACS repeatedly emphasizes that it is the
+incumbent contractor and the exclusive representative of Gatsometer’s products in North America and
+thus is the only contractor capable of maintaining the existing ATSE equipment. ACS believes that it
+was unreasonable for the contracting officer and technical evaluation panel to rate ATS higher by 8
+points in the technical approach evaluation factor unless ATS’s process improvements were improperly
+considered under the technical approach factor.
+
+        We have carefully reviewed the record and conclude that the contracting officer did not violate
+law or the terms of the solicitation in rating ATS superior overall to ACS in the technical evaluation
+factors, including technical approach. The evaluation record prepared by the contracting officer and the
+technical panel might have been more specific and detailed, but, overall we are satisfied from our
+review of the record that the contracting officer properly conducted her own independent analysis of the
+proposals, and we see no unreasonable or arbitrary conduct in her determinations on the technical or
+cost merits of the competing proposals.
+                                              - 12 -              ACS State and Local Solns., CAB No. P-0740
+
+
+        The contracting officer noted in her Business Clearance Memorandum, which memorializes her
+evaluation and selection determinations, the following ATS proposal strengths: a well-documented
+response to the technical requirements, the details of the project plan were clear and well presented,
+extensive experience in automated traffic safety enforcement operations, experience in managing red
+light camera programs of comparable size and complexity, a readable Gantt chart, a comparable
+processing plant, contact information regarding other radar contracts, and an acceptable employee
+retention plan. The contracting officer noted ACS’s strengths as follows: currently providing the
+services to the District as well as to other jurisdictions, responded to the solicitation requirements,
+submitted a Gantt chart, provided “information on how the equipment operation and maintenance
+would operate at new contract conception,” and offered better process improvements. The following
+ACS weaknesses were noted: project plan was not detailed, did not demonstrate work structure, and
+“Gantt chart as well as details of how the operation and maintenance at new contract conception did not
+provide an additional level of information.” While ATS’s BAFO provided additional clarification on
+the experience, quality, and retention of personnel – resulting in an overall increase in ATS’s technical
+score by 5 points, ACS’s BAFO was not evaluated as improving its overall technical rating. The
+contracting officer’s assessment is supported by similar analysis found in the technical evaluation
+panel’s consensus findings. In addition, the contracting officer’s supplemental declaration provides
+ample support for her conclusion that ATS could perform the contract services, without assistance from
+ACS or Gatsometer.
+
+         ACS urges that it is unreasonable and arbitrary for the District to have found a technical
+advantage in ATS’s offer to outweigh the 7.7 point cost advantage for ACS, when considering that ACS
+is the incumbent contractor and exclusive representative of Gatsometer. We agree with the District that
+the protest record adequately supports sustaining the contracting officer’s finding that ATS provided the
+best technical offer and that ATS could perform as required by the solicitation. Although ACS makes
+much of Gatsometer’s refusal to support any contractor but ACS, ATS provided in its proposal a plan to
+service the existing ATSE equipment, repair or replace inoperable equipment, and use either its own
+depot Gatsometer/Robot equipment or its own Axsis equipment as required. As the District correctly
+observes, the solicitation simply does not prohibit an offeror from replacing inoperable equipment with
+functionally equivalent equipment, even if the equipment manufacturer is different. Moreover, ACS
+has not persuaded us that the solicitation requires that specific Gatsometer equipment must be retained.
+
+        ACS complains that the technical evaluation panel and the contracting officer improperly gave
+higher ratings to ATS for the technical approach factor based on ATS’s plan to replace the existing
+Gatsometer and Robot equipment with ATS’s Axsis equipment. In support of its position, ACS argues
+that it was only proper to consider the technical merit of ATS’s proposal to replace the existing
+equipment with the ATS Axsis equipment under the process improvement factor, but not the technical
+approach factor. We do not agree. As part of its maintenance and support services, ATS, like the other
+offerors, had to repair or replace inoperable equipment under CLIN 2. Quite apart from a consideration
+of the benefits of a complete retrofit of all equipment under the process improvement factor, it was
+certainly not contrary to the RFP evaluation factors for the contracting officer and the technical panel to
+consider technical approach advantage to having the existing older equipment replaced as it became
+inoperable with what they considered to be more technically capable equipment, from the standpoint
+not only of performance improvements but also from the standpoint of future maintenance and
+operational servicing improvements.
+                                              - 13 -              ACS State and Local Solns., CAB No. P-0740
+
+
+        ACS argues that neither the contracting officer nor the technical panel adequately documented
+their evaluation. Although the record might have been better documented with more detailed strengths
+and weaknesses, we find the documentation adequate to support the evaluations of the proposals under
+the RFP evaluation factors.
+
+        2. ACS’s Technical Approach and its Project Plan
+
+        ACS argues that the downgrading of its proposal based on its purported failure to include a
+project plan was arbitrary and unreasonable. ACS points to the evaluation panel note in its consensus
+report that ACS’s “Project plan narrative not provided in support of the Gantt chart.” ACS also urges
+that 4 of the 5 technical evaluators changed their general technical approach assessment of ACS on the
+basis of improper influence on the part of the panel’s chair. ACS stated in its proposal under the project
+plan section (AR Ex. 13):
+
+        ACS is uniquely positioned as the District’s existing ATSE vendor. All required field
+        service staff, event processing staff, management team, and all required facilities are in
+        place and operating the District’s ATSE program today. With ACS, there are no new
+        activities to schedule nor is a Project Plan required as the program is fully operational
+        today. . . .
+
+In its BAFO, responding to the contracting officer’s request for project plan narrative, bar chart, details,
+work breakdown structure, staff assignments, milestones, and plans, ACS provided additional
+information as well as a project plan by separate fax apparently after the BAFO submission. However,
+the contracting officer and the technical panel did not increase their technical approach rating of ACS
+based on the BAFO submission. The panel noted that the ACS’s bar chart was unreadable and that the
+narrative was the same as that found in the original proposal. The contracting officer noted that the
+“Gantt chart as well as details of how the operation and maintenance at new contract conception did not
+provide an additional level of information.” (AR Ex. 24). On the other hand, ATS’s initial proposal
+and BAFO were given good ratings for readability and detail. On the record, we see no basis for
+concluding that the evaluations of ATS and ACS on the project plan rendered the overall technical
+approach ratings unreasonable or arbitrary.
+
+        3. The District’s Evaluation pursuant to the RFP Evaluation Criteria
+
+        ACS points to four facts as proving that the District evaluated and scored ACS’s and ATS’s
+proposals inconsistently with the evaluation and selection criteria in the RFP. ACS asserts that the
+District improperly considered system process improvements in ATS’s proposal (conversion of the
+Gatsometer equipment to ATS Axsis equipment) when evaluating ATS’s and ACS’s proposals under
+the technical approach factor. We do not believe that ACS properly distinguishes between ATS’s
+maintenance and service proposal, which includes some initial ATS equipment replacement and ATS’s
+system process improvement proposal to replace all Gatsometer equipment. ACS urges that the
+technical approach factor meant considering the quality and comprehensiveness of the offeror’s
+proposal to support and maintain the existing equipment. But, as discussed earlier, maintaining and
+servicing existing equipment, as defined in the RFP, is not limited to maintaining and servicing
+indefinitely the Gatsometer equipment. The RFP contemplated a contractor maintaining and servicing
+not only the initial Gatsometer equipment, but also newer equipment that a contractor could put in
+                                              - 14 -             ACS State and Local Solns., CAB No. P-0740
+
+
+operation to replace inoperable Gatsometer equipment. Also, ATS proposed some initial replacements
+of Gatsometer equipment with ATS equipment as part of its fixed-price proposal. We agree with ATS
+that perceived technical advantages with ATS’s maintenance upgrades could properly be considered
+under the technical approach factor, and not as part of its systems performance improvement proposal.
+We see no basis for concluding that the District improperly evaluated the proposals on criteria differing
+from those stated in the RFP.
+
+       4. Whether the District should have rejected ATS’s Proposal
+
+        Continuing its earlier argument, ACS argues that the District should have rejected ATS’s
+proposal due to ATS’s alleged failure to propose a plan to support and maintain the existing ATSE
+equipment. We do not find error in the contracting officer’s determination that ATS is capable of
+supporting and maintaining the existing ATSE equipment. ATS’s proposal indicates that ATS has
+access to spare parts needed to repair the District’s existing equipment, whether from its own sources or
+from decommissioning some of the Gatsometer equipment as part of an initial replacement. Further, as
+described earlier, the solicitation does not prohibit a contractor from replacing inoperable existing
+equipment with new equipment from another manufacturer. The contracting officer carefully
+considered ATS’s ability to fulfill the RFP requirements, concluding that ATS was capable of
+maintaining the ATSE equipment. We see no legal basis for rejecting that conclusion.
+
+       5. The District’s Cost Analysis and Price Evaluations
+
+        ACS argues that the District cost analysis and price evaluations were defective because the
+District failed to consider the proposed price for ATS’s process improvements and therefore the true
+cost to the District of an award to ATS. ACS starts with the premise that the ATS proposal
+contemplated a complete conversion of all Gatsometer equipment to ATS equipment, and concludes
+that the District should have included the process improvements pricing in ATS’s proposal in arriving
+at an evaluated price for ATS’s proposal. The problem with ACS’s argument is that it ignores that
+some initial replacements were included in the ATS’s fixed price proposal and replacement of
+inoperable equipment (not due to negligence by the District’s staff or vehicular accidents) would also
+be covered by ATS’s fixed-price proposal. (See AR Ex. 40 ¶ 12). The District properly evaluated the
+price by excluding the cost-reimbursable items under ATS’s process improvement recommendations.
+Accordingly, we deny this basis of the protest.
+
+       6. District’s RFP Price Evaluation to include Option Year Prices
+
+        ACS asserts that the District’s failure to include option year pricing in the price evaluation
+caused the overall evaluation differential to change from 7 points in favor of ACS to 8 points in favor of
+ACS, resulting in a tie between ACS and ATS when computing the overall technical plus price
+evaluation scores. The District admits that the price evaluation incorrectly omitted option year prices
+but that the corrected price evaluation score shows ACS with 7.7 points, leaving ATS an overall score
+of 0.3 points more than ACS. The contracting officer states that the change in pricing would not change
+her overall assessment that the recommended award to ATS was the most advantageous to and in the
+best interest of the District. (See AR Ex. 40 ¶ 10-11). We see no legal error in the contracting officer’s
+conclusion.
+                                            - 15 -             ACS State and Local Solns., CAB No. P-0740
+
+
+       7. Evaluation of ATS’s Experience and Past Performance
+
+         ACS argues that because ATS has no experience in maintaining and operating Gatsometer
+equipment, the contracting officer’s evaluation of ACS and ATS and equivalent scoring of both
+proposals was arbitrary and irrational. ACS argues that ATS has “virtually no experience in
+maintaining and operating ATSE systems.” ACS asserts that the two ATS employees formerly
+employed by ACS had no direct involvement with the District’s ATSE program. The contracting
+officer points out that ATS has supported other state and municipal photo enforcement programs which
+initially had Gatsometer equipment, that ATS had a business relationship with a company that supplied
+spare parts for Gatsometer equipment, and that it had certified Robot camera technicians on its team to
+operate, maintain, and service the existing cameras. (AR Ex. 40). Based on the information provided
+to the District during the proposal phase, we conclude that ACS has not shown that the evaluation of
+experience and past performance was unreasonable or arbitrary.
+
+                                              CONCLUSION
+
+       For the reasons discussed above, we deny ACS’s initial and supplemental protests.
+
+       SO ORDERED.
+
+
+DATED: April 6, 2007                                 /s/ Warren J. Nash
+                                                     WARREN J. NASH
+                                                     Administrative Judge
+
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

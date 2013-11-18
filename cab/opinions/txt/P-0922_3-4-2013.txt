@@ -1,0 +1,873 @@
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+CITELUM DC, LLC                                       )
+                                                      )            CAB No. P-0922
+Solicitation No.: DCKA-2011-R-0150                    )
+
+
+For the protester: Douglas Proxmire and Elizabeth Gill, Patton Boggs, LLP. For the intervenor:
+Lawrence Prosen of Thompson Hine, LLP. For the District of Columbia government: Alton Woods,
+Assistant Attorney General.
+
+Opinion by: Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud,
+Sr. and Administrative Judge Monica C. Parchment concurring.
+
+
+                                                OPINION
+ AND ORDER DENYING THE DISTRICT'S MOTION TO DISMISS WITHOUT PREJUDICE
+                                      AND/OR STAY PROCEEDINGS
+                                             Filing ID #49874586
+
+
+
+        Citelum DC, LLC ("Citelum" or "protester") filed the present protest on July 19, 2012,
+challenging the District's award of the Citywide Streetlight Asset Management Services contract (the
+"Contract") to M.C. Dean, Inc. ("MCD" or "intervenor"). The Board held a telephone conference with
+the parties and intervenor on November 20, 2012, wherein we advised the parties of our preliminary
+conclusion that the record supported a finding that the District's actions in awarding this procurement
+violated procurement laws and regulations. The District thereafter filed a motion to dismiss without
+prejudice or, alternatively, motion to stay based on corrective action. (District's Mot. to Dismiss Protest
+Without Prejudice or Mot. to Stay the Protest Based on Corrective Action [hereinafter District's Mot. to
+Dismiss or Stay] 2.) The protester has filed its opposition thereto while the intervenor has filed its
+response to protester's opposition.
+
+        Upon review of the entire record, we sustain the protest and deny the District's motion to dismiss
+or stay. The District failed to identify a contracting officer ("CO") for this procurement who was
+responsible for exercising oversight of the evaluation process, the CO failed to conduct a cost realism
+analysis prior to the proposed contract award to MCD, and the District failed to treat the offerors equally
+by permitting one offeror, MCD, to take exception to the LED requirement of the Request for Proposals
+("RFP"). Consequently, the District's proposed corrective action does not remedy the improprieties in
+                                                                                             Citelum DC, LLC
+                                                                                             CAB No. P-0922
+
+this procurement. Accordingly, the Board hereby orders the District to undertake the following corrective
+action:
+
+
+          (1) withdraw any proposed award to MCD;
+          (2) designate a CO to perform responsibilities as required by the District's procurement Jaw
+              including, but not limited to, conducting a cost price analysis, ensuring that the evaluation
+              factors are applied equally and consistently to each offeror, and making a source selection;
+          (3) reissue the solicitation, as necessary, to adequately identify the District Department of
+              Transportation's ("DDOT's") minimum contract requirements;
+          ( 4) provide the offerors an opportunity to submit revised proposals, consistent with the
+              solicitation's minimum requirements, in order to conduct new technical and price evaluations
+              of those proposals; and
+          (5) reevaluate the final proposals for technical requirements compliance and pricing in a manner
+              consistent with the terms of the solicitation and relevant procurement laws and regulations.
+
+
+                                              BACKGROUND
+
+
+          On August 9, 2011, the District's Office of Contracting and Procurement ("OCP"), on behalf of
+DDOT, issued Solicitation No. DCKA-2011-R-0150 (the "Solicitation" or "RFP") which sought a
+contractor to perform asset management services to maintain, rehabilitate, and preserve approximately
+70,000 lighting assets and supporting systems within the District of Columbia. (Agency Report ("AR") at
+Ex. 1, §§ B.l-B.l.l.) The District intended to issue a firm-fixed-price contract consisting of a base year
+with four additional option years.      (!d. at § B.2.l.) Award of the contract would go to the offeror
+providing the best value to the District by achieving substantial energy and cost savings while
+maintaining good service quality. (Id.)
+
+
+          The RFP's initial deadline to submit bids was September 9, 2011.         (/d. at § L.3.1.) It was
+subsequently amended four times before submission of the first proposals on October 21, 2011. (AR at
+4.) The amendments are as follows: (i) August 31, 2011, Amendment 1, extended the bid opening date
+to October 6, 2011 (AR at Ex. 1,- Amend. 1); (ii) September 29,2011, Amendment 2, amended the Price
+Schedule, amended Specifications, revised Contract Terms and Conditions, and provided responses to
+questions from prospective offerors (AR at Ex.1, - Amend. 2); (iii) October 3, 2011, Amendment 3,
+extended the proposal submission date to October 14, 2011, amended the Specifications, revised the
+Contract Terms and Conditions, established a deadline to submit questions, and responded to additional
+offeror questions (AR at Ex. 1, - Amend. 3); and (iv) October 11, 2011, Amendment 4, replaced the
+                                                      2
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                  Citelum DC, LLC
+                                                                                                   CAB No. P-0922
+
+RFP's initial CO, Mr. Jerry Carter, with a new CO, Ms. Cora Boykin, amended Specifications, revised
+Contract Terms and Conditions, and responded to additional offeror questions (AR at Ex. 1,- Amend. 4).
+
+
+The Chronology
+
+         This procurement has been the subject of two protests. By way of background, on October 21,
+2011, the first proposals were submitted by Citelum, MCD and W.A. Chester, LLC ("Chester"), which is
+not a party to this protest. 1    (AR at Ex. 3 (1) - Citelum Proposal, Ex. 3 (l) -Technical Proposal -
+Chester, Ex. 4     Dean Proposal - Volume 1, Ex. 7 ( 1).) The proposals were evaluated and scored by
+members of DDOT's proposal evaluation panel ("Panel") between October 21 and 30, 2011. (See AR at
+Ex. 7 (1).)      On October 31, 2011, the Panel convened to adjust the individual scores of the offeror
+proposals - based on discussions of the strengths and weaknesses of each proposal - and average them to
+determine a final score for each offeror. (!d.)         Although concerns were noted with each, the Panel
+determined all of the proposals to be technically acceptable. (Id.) The following evaluation summary was
+documented by the Pane1. 2
+
+
+                              Chester                        Citelum                     MCDean
+ Rank
+ Bid$
+ Price Score
+ Tech Score
+ Total
+
+
+(Id.)
+
+
+         In November 2011, DDOT held oral presentations and clarification discussions with each of the
+offerors. (AR at Ex. 7 (3).) On December 6, 2011, DDOT sent letters to each offeror requesting Best and
+Final Offers ("BAFOs") that were to be submitted no later than 2:00 p.m. on December 20, 2011. (Id.;
+AR at Exs. 6, 6 (1), 8.) The requests for BAFOs included a requirement that the offerors propose the
+
+
+
+
+1
+  Fort Myer Construction, Inc. also submitted a proposal; however, its proposal was submitted after the bid opening
+date and, therefore, found non-responsive so as to preclude Fort Myer Construction from further participation in the
+process.
+2
+  The evaluation memorandum also recommended that the offerors provide clarification on prices, incomplete
+documentation, insufficient references, innovative plan details, and conditions to the proposals. (AR at Ex. 7 (I).)
+                                                         3
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                     Citelum DC, LLC
+                                                                                                     CAB No. P-0922
+
+installation of an extra 30,000 LED lighting fixtures in addition to the initial 2,500 LED requirement in
+the RFP. (AR at Exs. 6, 6 (1).)
+
+
+            The three offerors all submitted BAFOs ("1st BAFOs") on December 20, 2011. (AR at Ex. 8.)
+The Panel met on December 22 and 23, 2011, and January 3, 2012, to evaluate the 1st BAFOs. (Id.) In a
+January 24, 2012, evaluation memorandum to Mr. Carter, the Panel recommended award of the contract
+to Citelum. (AR at Ex. 8.) The following summary was reflected in the evaluation memorandum:
+
+
+                                      Citelum DC                     MC Dean                      WA Chester
+    Rank
+    Bid$
+    Technical
+    Price Score
+    Total
+
+
+(Jd.)
+
+
+            On February 23, 2012, MCD timely filed the first protest in this procurement by challenging the
+                                                                                                                      3
+award to Citelum. (AR at Ex. 10.) On March 21, 2012, the District filed a consent motion to dismiss,
+(AR at Ex. 11), which resulted in the protest being dismissed by the Board on March 23, 2012. MC.
+Dean, Inc., CAB No. P-0906, 2012 WL 4753870 (Mar. 23, 2012). On April 12, 2012, Ms. Courtney
+Lattimore sent letters to each of the three offerors requesting a new BAFO ("2nd BAFO"), (AR at Exs. 13
+(1), 13 (2), 13 (3)), and the three offerors submitted 2nd BAFOs on April27, 2012, (AR at Ex. 17 (1)).
+
+
+            The Panel reviewed the 2nd BAFOs and met on May 4, 2012, to discuss its observations regarding
+the strengths and weaknesses of each proposal. (Id.)             In a letter dated June 15, 2012, Ms. Lattimore
+requested clarifications from Citelum with respect to its 2nd BAFO submission. 4 (Protest at Ex. 6.) She
+
+
+
+
+3
+  The motion to-dismiss provided that the District would undertake the following cmTective action: (i) the District
+would not proceed with the proposed award and rescind the February 7, 2012, notice of award letter sent to Citelum;
+(ii) the District would amend the RFP to ensure that the RFP properly and completely set forth the District's
+minimum needs and contained all required and applicable clauses; (iii) the District would advise each offeror of the
+weaknesses and deficiencies in their initial proposal; and (iv) the District would request BAFOs trom each offeror.
+(AR at Ex. 11.)
+4
+  The Board presumes that DDOT sent similar letters to the other offerors although those letters are not in the record.
+                                                          4
+                              TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                  DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                  Citelum DC, LLC
+                                                                                                   CAB No. P-0922
+
+                                                                                        5
+also asked that Citelum submit its 3rd BAFO ("3rd BAFO") by June 22, 2012.                  (!d.) Between June 22
+and 29, 2012, MCD, Citelum and Chester all submitted revised final BAFOs. (AR at Ex. 26,             ~   32, 34.)
+
+
+           On June 29, 2012, the Panel reviewed and scored the final BAFOs. (AR at Ex. 7 (4).)                      In
+addition, the Panel reviewed the offerors' responses to the clarification letters and scored the price
+proposals. (!d.)
+
+
+Price score summary:
+Offeror            Offeror's Proposed       Offeror's Corrected          Price to be Scored        Price        Rank
+                      BAFO Price               BAFO Price
+
+M.C.
+Dean
+Citelum
+DC
+W.A.
+Chester
+
+
+(!d. at 3.)
+
+
+The resulting technical and price score summary:
+              Rank
+              Offeror
+        Technical Score
+          Price Score
+         Total Score
+
+
+(!d.)
+
+
+
+
+5
+  According to Ms. Lattimore, MCD and Chester submitted their 3rd BAFOs on June 22, 2012. (AR at Ex. 26, ~ 32.)
+But Citelum claims that it did not receive DDOT's June 15 1h request for a 3'd BAFO and, therefore, failed to submit
+a 3'd BAFO by the due date. (!d.) At Citelum's request, DDOT extended the final BAFO submission deadline to
+June 29, 2012, for all offerors. (ld at~ 33.) Thereafter, Citelum alleges that MCD had the opportunity to submit 4
+BAFOs (on June 22 and again on June 29, 2012) whereas Citelum submitted a total of 3 BAFOs. (Protest 28.)
+According to the District, however, MCD was required to retrieve its June 22, 2012, proposal submission and
+resubmit it on June 29, 2012. (District's Comments on Citelum DC, LLC's Supp. Grounds of Protest & Citelum's
+Comments on the District's AR [hereinafter District's Comments on Supp. Protest].)
+                                                          5
+                               TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                       Citelum DC, LLC
+                                                                                                       CAB No. P-0922
+
+Based on the above scores of the final BAFOs, the Panel determined MCD's proposal to be the "best
+value to the District" and it recommended award of the Contract to MCD. 6 (!d.) Notably, the record is
+void of any information that the CO conducted an independent evaluation of the Panel's findings.
+
+
+         Finding itself on the losing side of the award, on July 19, 2012, Citelum filed the instant protest.
+(Protest 1.) In doing so, Citelum enumerated at least eleven grounds for protest. (See Protest; Citelum
+DC, LLC's Supplemental Grounds of Protest & Comments on the Agency Report [hereinafter Supp.
+Protest].) On July 25, 2012, the proposed awardee, MCD, moved the Board to intervene in the protest.
+(Mot. to Intervene 1.)
+
+
+         On September 25, 2012, the District's Chief Procurement Officer filed with the Board a
+determination and finding to proceed with award while a protest is pending ("D&F"). (District of
+Columbia's Determination to Proceed with Contract Performance [hereinafter District's D&F] at Ex. 1.)
+On September 28, 2012, the Board held a telephone conference with the parties wherein it challenged the
+findings set forth in the D&F by the District. Subsequently, the District filed a notice to withdraw the
+D&F. (District of Columbia's Notice to Withdraw District's D&F.) In its Order, the Board stated that it
+                                                                                                   7
+"did not find credible the District's contention that the emergency contract with Chester could not have
+been extended until issuance of the Board's merits decision in this matter." (Order Following the
+District's Notice to Withdraw District's D&F 1.)
+
+
+Terms of the RFP
+
+
+         The RFP set forth the District's requirement for a single contractor to perform asset management
+services for specific lighting assets within the District. (AR at Ex. 1,- RFP, § B.l.) The contractor would
+be required to manage and rehabilitate over 70,000 lighting assets and support systems, the South Capitol
+Bridge electrical system, the Welcome to Washington signs and their structures, and all electrical
+components such as panels and junction boxes that contain equipment and materials covered by the
+Contract. (ld. at § B.1.1.) As such, the District required that its "comprehensive group of assets need to
+be maintained, rehabilitated, administered, and managed effectively to achieve the performance
+
+
+
+
+6
+  The Panel's contract award recommendation, and ail other con·espondence intended for the CO, was issued to Mr.
+Carter notwithstanding his replacement by Ms. Boykin as CO. (AR at Ex. I,- Amend. 4.)
+7
+  Immediately prior to the District's issuance of the D&F, Chester had been providing interim services for lighting in
+the District. (Citelum DC, LLC's Emergency Opp'n to the District's D&F (hereinafter Citelum's Opp'n to District's
+D&F] 3; District's Resp. to Citelum's Opp'n to District's D&F 2.)
+                                                          6
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                              Citelum DC, LLC
+                                                                                              CAB No. P-0922
+
+standards" of the RFP and "[t]he broad scope of the work necessitates both a good management plan and
+a positive partnering relationship." (Id.)
+
+
+         Initially, the RFP requested "proposals which will allow for rapid implementation of LED
+lighting throughout the District," and required the replacement of 2,500 obsolete and defective fixtures.
+(!d. at§ B.l.3.) In a letter to the offerors dated December 6, 2012, DDOT amended the minimum LED
+                                                                                                      8
+requirement by requiring an extra 30,000 LED fixtures in addition to the initial amount of 2,500.         (!d. at
+Exs. 6, 6 (1).)     Therefore, the offerors were ultimately required to propose an upgrade of 32,500 LED
+fixtures. (See id.)   The RFP also required that the proposals "provide enough detail for DDOT to assess
+the price realism of the suggestions." (AR at Ex. 1- RFP, § B.2.1.2.3.)
+
+
+        Section L of the RFP provided specific instructions, conditions and notices that needed to be
+addressed in each offeror's proposaL It also advised potential offerors that "this is a request for proposals
+and not an invitation for bids" and that award would not be based on price alone. (!d. at § L.2.1.) It
+stated that DDOT "reserves the right to hold discussions and seek clarifications prior to award." (Id.)
+
+
+        Section M of the RFP identified the evaluation factors and advised offerors that a contract would
+be awarded "to the offeror whose offer is technically acceptable to DDOT/TOA, and offers the best value
+to the District as determined by the overall score from the evaluation criteria." (Id. at § M.l.) Technical
+proposals were to be rated based upon the extent to which each offeror demonstrated "their experience,
+knowledge and understanding of issues relating to preservation and maintenance of the assets covered by
+[the] RFP." (Id. at§ M.4.1.)
+
+
+Procurement Improprieties
+
+                                                                     9
+        On November 20, 2012, the Board held a teleconference to discuss the status of the protest and
+inform the parties of its preliminary finding that the procurement had not been conducted in a manner
+consistent with the District's procurement laws and regulations. Chief among the Board's concerns was
+the fact that Ms. Lattimore, the alleged CO, had never been appointed CO for the procurement, nor
+fulfilled certain responsibilities required ofthe CO. In fact, she joined DDOT, the procuring agency, well
+
+8
+  Amendment 5, which was issued on April 12,2012, revised Section B.l.3 of the RFP to reflect this requirement.
+(AR at Ex. 14 (1).)
+9
+  The following individuals participated in the telephone conference: Administrative Judge Maxine McBean and
+Chief Administrative Judge Marc Loud for the DC Contract Appeals Board ("CAB"); Douglas Proxmire and
+Elizabeth Gill of Patton Boggs LLP for the protester; Lawrence Prosen of Thompson Hine, LLP for the intervenor;
+and Alton Woods, Jerry Carter and Courtney Lattimore for the District.
+                                                       7
+                              TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                  DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                      Citelum DC, LLC
+                                                                                                      CAB No. P-0922
+
+after the procurement was underway. (AR at Ex. 26.) The record is unclear as to who retained ultimate
+responsibility for ensuring that this procurement complied with the requirements set forth in the D.C.
+Mun. Regs. tit. 27, §§ 1614.2(d), 1618.1-1618.3, 1622.7, 1626.1-1626.3 (2002).
+
+
+          In response to the Board's concerns, the District filed a motion requesting that the Board dismiss
+the present protest without prejudice or, alternatively, stay the protest based on corrective action.
+(District's Mot. to Dismiss or Stay.) Therefore, at issue is whether the corrective action proposed by the
+District remedies certain violations of procurement law and regulation identified by the Board. Although
+this Opinion does not address the merits of each protest ground, it identifies three main areas of
+impropriety and sets forth the appropriate corrective remedy for the procurement.
+
+
+         First, the absence of an identifiable CO to perform responsibilities consistent with the
+requirements of the District's procurement law has created an impropriety that cannot rectify itself
+retroactively, several months after the fact. 10 In other words, the District's failure to timely identify a
+contracting officer is not remedied by a post hoc appointment of an official to rubber-stamp its earlier
+decisions.
+
+
+         Second, the record does not support a finding that certain requirements, such as conducting a cost
+realism analysis, were in fact performed by the CO. In this case, it was not only a legally required step
+given the CO's responsibility of source selection, (D.C. Mun. Regs. tit. 27, §§ 1614.2, 1614.3), it was also
+prudent particularly since MCD's final BAFO consisted of an almost                                                  and
+resulted in a final price                           scored. (Compare AR at Ex. 8, 26 (MCD's original BAFO
+price) with AR at Ex. 21, 2 (MCD's final BAFO price).) MCD's price was reduced notwithstanding its
+own previous statement that Citelum "underbid the project" because its price was less than MCD's then
+price                              Supp. Protest 2, 4-5; AR at Ex. 10, 49 (MCD's Protest).)
+
+
+         Third, the District failed to treat the offerors equally in that it allowed one offeror, MCD, to take
+exception to the LED requirement of the Solicitation. As a result, MCD was able to bid more competitive
+pricing by offering a combination of non-LED and LED lighting. (AR at Ex. 20- Dean Innovation Plan,
+
+
+10
+   A document titled "Contracting Officer's Independent Assessment" was not provided to the Board until
+September 19, 2012, almost one month after the Agency Report had been entered into the record on August 21,
+2012. The Contracting Officer's Independent Assessment document does not disclose the identity of the CO and is
+not signed or dated. (District's Comments on Supp. Protest at Ex. 8.) It also contains information on proposal
+clarifications that still needed to be addressed prior to the review of the third and final BAFOs. (I d.) Therefore, the
+record is void of any documents to establish that the CO conducted a contemporaneous independent analysis of the
+Panel's findings at the conclusion of the final BAFO or otherwise.
+                                                           8
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                      Citelum DC, LLC
+                                                                                                      CAB No. P-0922
+
+§ 1.5 at n.l.) MCD's final BAFO also contained an exception to the Solicitation's LED requirement with
+respect to underlit areas of the District. (!d. at § 1.5.5.1.) Therefore, MCD's proposal benefitted from
+being evaluated under a different, more favorable, technical requirements standard than that adhered to by
+the other offerors which ostensibly resulted in its lower pricing.
+
+
+
+
+The District's Proposed Corrective Action
+
+         The District's proposed corrective action is detailed in its motion to dismiss or stay. In short, the
+District proposes to "not proceed" with a contract award to MCD. (District's Mot to Dismiss or Stay 2.)
+rt seeks to also retroactively amend the solicitation to identifY Ms. Lattimore as the CO and, through her,
+(i) conduct a new cost price analysis, (ii) review the proposals to determine whether offerors were
+evaluated fairly, (iii) describe weaknesses that were identified to each offeror and explain how such
+weaknesses were corrected, and (iv) review whether DDOT applied all of the evaluation factors
+throughout the entire procurement (!d. at 2-3.)
+
+
+         Citelum objects to the District's motion to dismiss or stay on the grounds that the proposed
+corrective action fails to (i) withdraw the July 6, 2012, recommendation for award to MCD, (ii) identify to
+offerors weaknesses in their proposals, (iii) identifY DDOT's minimum requirements, and (iv) provide
+offerors an opportunity to submit revised proposals based on identified weaknesses and minimum
+contract requirements. (Opp'n to the District's Mot to Dismiss/Mot. to Stay 3-4.) Furthermore, Citelum
+contends that the corrective action, as proposed, fails to address the vast majority of its protest issues,
+chief among them being that the District (i) permitted MCD to take exception to the RFP requirements,
+(ii) disclosed to MCD Citelum 's material competitive advantages through technical transfusion, 11 (iii)
+allowed MCD to propose non-LED materials that other offerors were discouraged from offering, (iv)
+failed to follow the evaluation criteria in evaluating the proposals, and (v) accepted MCD's final revised
+proposal despite the absence of a required conflict of interest certification. (!d. at 6-7.)
+
+
+
+
+11
+   Citelum alleges that in a November 9, 2011, meeting, it presented the District with the economic benefits of a
+larger LED deployment, through energy consumption savings and cost of ownership savings, than the District
+contemplated at that time. (Protest 17-20.) It further alleges that, following Citelum 's presentation, the District
+increased the RFP's 2,500 LED requirement to 32,500 LEDs and thereby selectively disclosed Citelum's
+competitive advantage. (ld.) The District denies the allegation and asserts that its realization that it could afford an
+additional 30,000 LEDs was based on the pricing of the proposals and not due to any information obtained from
+Citelum. (AR 9.)
+                                                           9
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                             Citelum DC, LLC
+                                                                                             CAB No. P-0922
+
+           MCD, the expected awardee, objects to protester's opposition to the District's motion to dismiss
+or stay.     (Intervener M.C. Dean, Inc.'s Resp. to Citelum DC, LLC's Opp'n to the District's Mot. to
+Dismiss/Mot. to Stay [hereinafter Intervenor's Resp.].) The principal issue in Intervenor's Response
+relates to its argument that the District should be permitted to devise the appropriate corrective action to
+achieve compliance with the District's procurement laws and regulations. (!d. at 6-7.) In that vein,
+intervenor asserts that the District has conducted multiple rounds of BAFOs and that reopening
+discussions, as advocated by protester, would "undermine the competitive procurement itself." (Id. at 8.)
+MCD also details protester's alleged financial difficulties (which are not relevant to this Board's analysis
+of whether the District conducted the procurement in a lawful manner), (Id. at 2-3), and challenges the
+propriety of protester filing its opposition to the District's motion to dismiss or stay, (Id. at 6). However,
+under Board Rule 116. 1, the Board may, on its own initiative, dispense with procedural provisions of the
+rules for good cause shown (or to expedite a decision). Given the history and complexity of this protest,
+the Board has taken into account the arguments of protester and intervenor in rendering its decision
+regarding the District's proposed corrective action.
+
+
+                                                DISCUSSION
+
+
+Board's Jurisdiction and Standard of Review
+
+           We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(l) (2011).      In sustaining the protest, the issue before the Board is whether to grant the
+District's motion to dismiss or stay in light of the procurement improprieties identified by the Board. As
+noted correctly by intervenor, there is limited precedent from this Board on corrective action-related
+issues. (Intervenor's Resp. 6.) Therefore, as in previous instances, we have referred to decisions by the
+Comptroller General for guidance 12 in setting forth the standard of review.
+
+
+           Intervenor contends that the protester seeks to dictate to DDOT the corrective action that it must
+take rather than permit DDOT to exercise the discretion to which it is entitled in crafting any corrective
+action. (Id. 6.) Intervenor cites Alliant Techsystem, Inc., B-405129.3, 2012 CPD      ~50   (Comp. Gen. Jan.
+23, 2012), for the proposition that "[c ]ontracting officers in a negotiated procurement have broad
+discretion to take corrective action where the agency determines that such action is necessary to ensure a
+fair and impartial competition." (Intervenor's Resp. 7.) It also cites Rel-Tek Sys. & Design, Inc., B-
+280463.7, 99-2 CPD ~ 1 (Comp. Gen. July 1, 1999) to underscore its assertion that, "[a]s a general matter,
+
+12
+   See, e.g., O'Donnell Canst. Co., CAB No. P-0158, 39 D.C. Reg. 4479, 4485 (Mar. 24, 1992); Koba Associates,
+Inc., CAB Nos. P-0344, P-0359, 40 D.C. Reg. 5003, 5013 (Mar. 3, 1993).
+                                                       10
+                             TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                            Citelum DC, LLC
+                                                                                            CAB No. P-0922
+
+the details of implementing ... recommendations for corrective actions are within the sound discretion
+and judgment of the contracting agency." (Intervenor's Resp. 7.) However, Rel-Tek Systems & Design,
+Inc. also stands for the proposition that the agency's manner of compliance will not be questioned "so
+long as it remedies the procurement impropriety that was the basis for the decision's recommendation."
+Id. at *2. Moreover, in a case where the agency's corrective action was found to be unreasonable because
+the agency had failed to conduct a reasonable cost realism analysis of the awardee's proposed costs, the
+Government Accountability Office ("GAO") held that "[s]uch [agency] discretion must be exercised
+reasonably and in a fashion that remedies the procurement impropriety that was the basis for our protest
+recommendation." The Futures Grp. Int'l, B-281274.5 et al., 2000 CPD          ~   148 (Comp. Gen. Mar. 10,
+2000) at *6 (citations omitted). The Board therefore holds that the standard of review of an agency's
+proposed corrective action is whether the agency's discretion is exercised reasonably in a manner that
+remedies the procurement impropriety.
+
+
+The Evaluation Process
+
+
+        In applying the above referenced standard of review to the proposed corrective action, we find
+that the violations of law that occurred in this procurement during the most recent evaluation of proposals
+are sufficiently material so as to sustain the protest yet the District's recommended course of action fails
+to remedy the procurement's improprieties whereby (1) the District failed to identify the CO responsible
+for the procurement, (2) the CO failed to conduct a cost realism analysis prior to the proposed contract
+award to MCD, and (3) the District failed to treat the offerors equally by permitting MCD to take
+exception to the Solicitation's LED requirements.
+
+
+(1) The District Failed to IdentifY the CO Responsible for Conducting the Procurement
+
+
+        The District proposes to retroactively amend the RFP effective March 2012 and recognize Ms.
+Lattimore as the CO. (District's Mot. to Dismiss or Stay 2.) In doing so, the District argues that although
+it had never identified Ms. Lattimore as the CO, she prepared and signed certain documents pursuant to
+D.C. Mun. Regs. tit. 27, §§ 1614.3- 1626.1.     (!d.) Under the District's proposal, Ms. Lattimore would
+review, revise, and amend, if necessary, any documents in the procurement file that require modit1cation.
+(!d.) She would also conduct a new independent cost analysis. (Jd. at 3.) In conducting her analysis, Ms.
+Lattimore would review the proposals to determine whether offerors were evaluated fairly. And, to the
+extent that offerors may have been evaluated unfairly, she would correct such disparity.        (Id.)   Ms.
+Lattimore would note weaknesses that were identified during the various evaluations and include a
+description of each offeror's proposal modification to address or correct the identified weakness. (Jd.)
+
+                                                     11
+                          TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+              DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                               Cite/urn DC, LLC
+                                                                                               CAB No. P-0922
+
+She would also determine whether DDOT' s Panel used all of the evaluation factors throughout the entire
+evaluation process. (Jd.)
+
+
+         Notwithstanding the District's proffered corrective measures, the Board is concerned that a
+solicitation that the District estimates is valued at over $1 00 million was conducted in the absence of a
+correctly identified responsible party as CO. Initially, Mr. Carter was the named CO in the RFP issued
+August 9, 2011. (AR at Ex. 1 - RFP, § 0.5.1.) Amendment Nos. 1 through 4 were signed by Mr. Carter
+as CO, with Amendment No.4 serving to identifY Ms. Boykin as the new CO. (AR at Ex. 1- Amend. 4.)
+However, there are no documents in the record to show that Ms. Boykin performed any CO
+responsibilities 13 and, to the contrary, Amendment Nos. 5 through 7 were executed by Ms. Lattimore for
+Mr. Carter as CO. (AR at Ex. 1- Amend. 7, Ex. 14- Amend. 6, Ex. 16- Amend. 5.) The later issued
+Panel Findings and Recommendations were addressed to Mr. Carter, (AR at Exs. 7, 8, 21), while the
+February 7, 2012, award letter to Citelum was signed by Mr. Carter as CO, (AR at Ex. 9), On September
+19, 2012, the District submitted to the Board supplemental documents to the AR which, for the first time,
+identified Ms. Lattimore as the CO.        (District's Comments on Supp. Protest 8.)            However, Ms.
+Lattimore's declaration of August 20, 2012, appears to refute any argument that her role in this
+procurement was that of CO. (AR at Ex. 26.) Not only does she fail to mention her responsibility as CO,
+in paragraph 29 of her declaration, she states that "the Panel submitted an Evaluation Repott to the CO."
+(/d.)   Lastly, the record bears no evidence that Mr. Carter, the originally-named CO, performed the CO
+duties of analysis, documentation and source selection pursuant to the District's procurement law.
+
+
+         It is well settled that the CO may not abdicate or delegate its responsibilities, 14 yet, the record
+before us supports a finding that the CO's responsibilities were delegated to DDOT's Panel. Although a
+technical evaluation panel can assist the CO in his decision, the CO remains responsible for the evaluation
+of proposals and must conduct his own independent review. See, Urban Alliance Found., CAB Nos. P-
+0886 et al., 2012 WL 4775002 (Feb. 15, 2012).          We have also noted that the CO has "a critical and
+unique role" in the evaluation and selection process and, as such, have held that the CO is ultimately
+responsible for the evaluation and for determining the relative merits of competing proposals. Health
+Right, Inc., D.C. Health Coop., Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-
+0511, 45 D.C. Reg. 8612, 8636 (Oct. 15, 1997). In this case, the record is void of any independent
+evaluation by a CO in clear violation of procurement law.
+
+13
+   In the Business Clearance Memorandum dated July 17,2012, Ms. Boykin is identified as the Contract Specialist.
+(District's Comments on Supp. Protest at Ex. I.)
+14
+    See, B&B Sec. Consultants, Inc. CAB Nos. P-0583, P-0585, 46 D.C. Reg. 8637, 8647 (June 18, 1999);
+RideCharge, Inc., et al., CAB Nos. P-0920, P-0921 (Nov. 9, 2012).
+                                                       12
+                           TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                    Citelum DC, LLC
+                                                                                                    CAB No. P-0922
+
+
+(2) The CO Failed to Conduct a Cost Realism Analysis prior to the Proposed Contract Award
+
+           There is no record ofthe CO having performed and documented a contemporaneous cost realism
+analysis pursuant to D.C. Mun. Regs. tit. 27, §§ 1614.2(d), 1618.1-1618.3, 1626.1-1626.3.                   Indeed,
+the District states that the first cost realism analysis was conducted by members of the Panel on June 29,
+2012, while a second cost realism analysis was performed by the CO after the instant protest was filed.
+(District's Comments on Supp. Protest 3.) Therefore, by the District's own admission, the CO did not
+perform a cost realism analysis until after the District announced the proposed award to MCD. Since the
+District has stated that the technical scores of protester and intervenor were "essentially equal," MCD's
+lower price proposal effectively resulted in MCD being recommended for contract award. (Id. at 12.)
+Taking into account MCD's • • • • pricing adjustment relative to its earlier proposals, 15 the CO
+needed to evaluate MCD's pricing proposal and document that analysis. Yet, Ms. Lattimore, the alleged
+CO at the time, makes no mention of conducting a cost realism analysis prior to the Panel's July 6, 2012,
+recommendation that the District award the contract to MCD. (See AR at Ex. 26.) The relevant District
+of Columbia municipal regulations pertaining to the CO's duty to perform a cost price analysis are as
+follows:
+
+
+                    § 1614.2(d) Ensure selection of the source whose proposal has the
+                                  highest degree of realism and whose performance is
+                                  expected to best meet stated District requirements.
+
+                   § 1618.1 The contacting officer shall evaluate each proposal in
+                                  accordance with the evaluation criteria in the solicitation.
+
+                   § 1618.2       The contracting officer shall evaluate the cost estimate or
+                                  price, not only to determine whether it is reasonable, but also
+                                  to determine the offeror's understanding of the work and
+                                  ability to perform the contract.
+
+
+                   § 1618.3       The contracting officer shall document the cost or price
+                                  evaluation.
+
+
+15
+   Following its initial proposal and suc,secJueJI1t
+price was less than MCD's then price of
+later clarified that its
+
+
+                                                          13
+                             TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                Citelum DC, LLC
+                                                                                                CAB No. P-0922
+
+                 § 1626.1    The contracting officer shall be required to perform a cost
+                             analysis in ...
+
+                             (a) The award of any contract in excess of five hundred
+                             thousand dollars ($500,000)
+
+                 § 1626.2    When cost analysis is required, the contracting officer shall
+                             perform      cost analysis   by   using   the   techniques   and
+                             procedures set forth in this section.
+
+                 § 1626.3    The contracting officer shall verify cost or pricing date (sic)
+                             and evaluate the cost elements, including the following:
+
+                             (a) The necessity for and reasonableness of the proposed
+                             cost, including allowances for contingencies.
+
+                 § 1622.7    The    contracting     officer    shall   prepare    supporting
+                             documentation for the selection decision that shows the
+                             relative differences among the proposals and their strengths,
+                             weaknesses, and risks in terms of the evaluation factors. The
+                             supporting documentation shall include the basis for the
+                             selection.
+
+
+        D.C. Mun. Regs. tit. 27, §§ 1614.2(d), 1618.1 - 1618.3, 1626.1 - 1626.3, 1622.7 (2002)
+(emphasis added)
+
+
+        MCD has asserted that the CO is not required nor expected to "self-perform and complete every
+ministerial task involved with source selection," (Intervenor Comments 3) pursuant to this Board's
+decision in Kidd Int'l Home Care, Inc., CAB No. P-0760, 57 D.C. Reg. 735 (Oct. 5, 2007). However, the
+facts in the present case are readily distinguished from those in Kidd International Home Care, Inc. where
+the CO made an "independent assessment of the (1) technical proposals, (2) BAFOs, (3) TEP [Panel]
+evaluations, and (4) prices .... " Kidd Int'l Home Care, Inc., CAB No. P-0760, 57 D.C. Reg. at 737. In
+this case, pricing was the difference in winning or losing the contract for award yet the CO herein not
+only failed to perform the cost realism analysis, he failed to perform any of the legally-required analyses.
+In light of the above-referenced regulatory requirements, the Board finds that the CO's failure to conduct
+
+
+                                                     14
+                           TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                       Citelum DC, LLC
+                                                                                                        CAB No. P-0922
+
+and document a cost realism analysis of the offerors' proposals prior to contract award constituted a
+violation of procurement taw.
+
+
+(3) The District failed to Treat the Offerors Equally by Permitting One O.ff'eror to take Exception to the
+       Solicitation's LED Requirement
+
+            When the Citywide Streetlight Asset Management Services RFP was issued in August 2011, it
+contained a minimum requirement for 2,500 LED fixtures. (AR at Ex.1, RFP (1) § B.l.3.)                     In its initial
+offer in response to the RFP, Citelum's proposal exceeded the RFP's requested amount of 2,500 LED
+fixtures and included a conversion upgrade of 8,241 LED fixtures and 6,399 CosmoPolis fixtures.
+(Protest 17; AR at Ex. 3          Citelum Proposal, § 2.c.)        In the November 2011 request for clarification of
+the offeror proposals, the District acknowledged that the respective offerors had proposed using non- LED
+fixtures - CosmoPolis by Citelum and Ceramic Metal Halide ("CMH") by MCD - but signaled that it
+"planned to go to energy-efficient LED lighting." (Supp. Protest 23.)                  In fact, even though Citelum had
+met the RFP's then minimum LED requirement, the District indicated to Citelum that the use of non-LED
+lighting in its proposal was "taking DDOT in a different direction that DDOT may not be willing to
+follow." (Protest at Ex. 9.)
+
+
+            On March 21, 2012, the District agreed to set forth its minimum needs for contract award when it
+requested that the Board dismiss MCD's protest without prejudice. (AR, Ex. 11 at 2.) Notwithstanding its
+earlier objecting comment to Citelum on the use of non-LED lighting, 16 the District did not clarify that a
+proposal which included non-LED lighting, such as CosmoPolis or CMH, would meet its minimum
+needs. Nonetheless, the District accepted and recommended for award MCD's offer which not only met
+the District's revised RFP requirement of 32,500 LED fixtures, (AR at Ex. 6), but also included CMH
+lighting in its final BAFO, (AR at Ex. 20
+
+CMH fixtures as a • • • • • • • • •land that the
+• • • • • • • • • • (Id. at n.1.)
+                                                                     ··············t•••
+                                                      Dean Innovation Plan, § 1.5).        MCD stated that it included
+
+
+
+
+            Citelum therefore alleges that the District's November 14, 2011, request for clarification with
+respect to non-LED fixtures resulted in it discontinuing the offer to provide non-LED CosmoPolis
+fixtures. (Supp. Protest 22.) By failing to make clear that it would accept non-LED fixtures in addition
+to LED fixtures, the District failed to establish its minimum contract needs in the revised RFP pursuant to
+its March 21st motion and the Board's dismissal Order of March 23, 2012. Furthermore, when Citelum
+had similarly proposed non-LED fixtures in addition to the RFP's required quantity of LED fixtures, the
+
+16
+     See, November 14, 2011, letter of clarification to Citelum. (Protest at Ex. 9.)
+                                                              15
+                               TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                    Citelum DC, LLC
+                                                                                                    CAB No. P-0922
+
+District expressed an unwillingness to go in that direction [of non-LED lighting]. By accepting MCD's
+proposal, which included non-LED lighting, the District subjected the offerors to unequal treatment in
+violation ofprocurement law. See D.C. Code§ 2-35l.Ol(b)(4) (2011).
+
+         In addition, the District requested that the offerors provide adequate lighting solutions for under lit
+areas in the city. (Intervenor Comments 17-18; Protest at Ex. 9, Ques. 5 g.) MCD responded that-
+
+
+• • • • • • • • • • • • (AR at Ex. 20- Dean Innovation Plan, § 1.5.2.1.1.1.) Specifically,
+MCD's response on the issue of providing lighting in underlit areas of the District contemplated three
+possible scenarios:
+
+
+
+
+(See AR at Ex. 20- Dean Innovation Plan, § 1.5.5.1.)
+
+
+MCD further stated t h a t · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+
+• • • • • • • • • • • • • • • • • • (!d. (emphasis added))                                 In other words, MCD's
+proposal contemplated that M C D · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+
+• • • • •lt::itelum's proposal did not include a similar pricing contingency in its response to the issue
+of providing LED lighting in the District's underlit areas. Therefore, the offerors submitted proposals that
+varied greatly in scope in response to the District's luminance requirements and the District accepted
+MCD's proposal notwithstanding its exception to the Solicitation's LED requirement. 17
+
+
+17
+   In identifying its minimum needs for contract award, the District may either revise the RFP to permit proposals
+that, under certain applications, are not required to utilize LED fixtures or disallow proposals containing exceptions
+to that requirement.
+                                               16
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                  Citelum DC, LLC
+                                                                                                  CAB No. P-0922
+
+         The District's failure to equally apply the Solicitation's LED lighting requirement to the otferors'
+proposals resulted in the offerors responding to and being evaluated under different technical
+requirements standards. As noted in Urban Alliance Found., CAB Nos. P-0886 et al., 2012 WL 4775002
+(Feb. 15, 2012):
+
+
+                   The unequal treatment of the offeror proposals seriously violated the
+                   District's procurement law and undermined the integrity of the process.
+                   See D.C. Code § 2-35l.Ol(b)(4) (2011) (stating that a purpose of the
+                   Procurement Practices Reform Act of 2010 is to "ensure fair and
+                   equitable treatment of all persons who deal with the procurement system
+                   of the District government"); see also Rockwell Elec. Commerce Corp.,
+                   B-286201 eta!, 2001 CPD, 65 (Comp. Gen. Dec. 14, 2000) ("It is ...
+                   fundamental that the contracting agency ... treat all offerors equally,
+                   which includes ... not disparately evaluating offerors with respect to the
+                   same requirements.").
+
+!d.
+
+As stated above, the unequal treatment of offeror proposals violates District law and greatly undermines
+the integrity of the procurement process. The District's proposed corrective action fails to remedy this
+impropriety because it does not allow for new BAFOs from the offerors so as to ensure that they are
+subject to equal technical requirements and evaluation standards.
+
+
+                                                CONCLUSION
+
+
+         Having sustained the protest on the grounds set forth herein, the Board finds it unnecessary to
+address the protester's remaining allegations. However, finding that the District's proposed corrective
+action was not a reasonable exercise of discretion and does not remedy the procurement's improprieties,
+we deny the District's motion to dismiss the protest or stay the proceedings. Therefore, we hereby order
+the District to undertake the corrective action of (i) withdrawing the proposed award to MCD; (ii)
+identifying a CO to carry out those responsibilities required of a CO pursuant to the District's
+procurement law including, but not limited to, D.C. Mun. Regs. tit. 27, §§ 1614.2(d), 1618.1- 1618.3,
+1622.7, 1626.1 - 1626.3; (iii) reissuing the Solicitation, as necessary, to adequately identify DDOT's
+minimum contract requirements; (iv) providing offerors an opportunity to submit revised proposals
+consistent with the Solicitation's minimum requirements 18 in order for the District to conduct new
+technical and price evaluations of those proposals; and (v) reevaluating the final proposals for technical
+
+18
+   We acknowledge intervenor's concern that the parties and intervenor may be prejudiced due to the impermissible
+disclosure of technical and pricing information. However, we remind all who are subject to the terms of the
+Protective Order that they have certified agreement to those terms and are subject to the consequences of violating
+that agreement.
+                                                        17
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+                                                                                                     Citelum DC, LLC
+                                                                                                     CAB No. P-0922
+
+requirements compliance and pricing in a manner consistent with the terms of the Solicitation and the
+relevant procurement laws and regulations. 19
+
+
+SO ORDERED:
+
+DATED: March l, 2013                                                     /s/ Maxine E. McBean
+                                                                         MAXINE E. MCBEAN
+                                                                         Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+Is/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+ELECTRONIC SERVICE TO:
+
+Douglas C. Proxmire, Esq.                                                Alton Woods, Esq.
+Elizabeth M. Gil, Esq.                                                   Assistant Attorney General
+Patton Boggs LLP                                                         Office of the Attorney General
+2550 M Street, N.W.                                                      55 M Street, S.E., i 11 Floor
+Washington, D.C. 20037                                                   Washington, D.C. 20003
+
+Lawrence M. Prosen, Esq.
+Daniel Edwards, Esq.
+Robe11 Lewis, Esq.
+Kyle Baker, Esq.
+Thompson Hine, LLP
+1919 M Street, N.W., Suite 700
+Washington, D.C. 20036
+
+
+
+
+19
+   The protester has additionally requested that the Board order the District to advise offerors of weaknesses in their
+last submitted BAFOs. However, we find that through the successive rounds of BAFOs and clarifications the
+offerors have been provided adequate notice and information with respect to the weaknesses contained in each of
+their previous proposals. The District issued the offerors letters requesting clarifications in November 2011 (MCD
+on Nov. loth, Citelum on Nov. 14th and W.A. Chester on Nov. 171      h); and via requests for BAFOs on June 15,2012
+(to MCD and Citelum). (E-mail from Alton Woods, Esq., Assistant Attorney Gen., DDOT, to Albert Wilcox,
+Admin. Officer, CAB (Nov. 14, 2012, 13:44 EST) (on file with CAB) (cc'ing all parties) at Items B, C.) DDOT
+also responded to questions posed by the offerors. (See, AR at Ex. 1 -Amend. 3, Ex. 1 -Amend. 4, Ex. 1 -Amend.
+7, Ex. 14- Amend. 6.) These requests for clarification and amendments in response to offeror questions addressed
+DDOT's concerns regarding the oflerors' proposals.
+                                                          18
+                            TO BE DISCLOSED ONLY IN ACCORDANCE WITH
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD PROTECTIVE ORDER
+

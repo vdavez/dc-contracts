@@ -1,0 +1,262 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+WILLIAMS, ADLEY & COMPANY, LLP                         )
+  and MVS, INC.                                        )
+                                                       )       CAB Nos. P-0666, P-0667
+Under Solicitation No. DCAE-2003-T-0010                )
+
+       For the Protester Williams, Adley & Company, LLP: Frederick D. Cooke, Jr., Esq., Rubin,
+Winston, Diercks, Harris & Cooke, LLP. For the Protester MVS, Inc.: Stephen M. Seeger, Esq.,
+Quagliano & Seeger, P.C. For the District of Columbia Government: Howard Schwartz, Esq., and
+Warren J. Nash, Esq., Assistants Corporation Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Matthew S. Watson, concurring.
+
+                                              OPINION
+
+         Williams, Adley & Company, LLP (“WAC”), and MVS, Inc., have protested the District of
+Columbia’s award of contracts to Thompson, Cobb, Bazilio and Associates (“TCBA”) and Digital
+Safetynet for project management and related services for the District-wide Health Insurance
+Portability and Accountability Act (“HIPAA”) Implementation Project. The protesters contend that
+TCBA was ineligible to compete in the procurement, TCBA had an unfair competitive advantage
+through access to HIPAA information not available to other offerors, TCBA had a potential
+organizational conflict of interest, the contracting officer improperly amended the solicitation after
+receiving best and final offers, and the contracting officer improperly failed to conduct debriefings
+after the awards. The District has moved to dismiss both protests on the ground that they are moot
+because the District’s Chief Procurement Officer cancelled the solicitation and letter contract awards
+because the proposed definitized contract awards would significantly exceed the $999,999 maximum
+contract amount permitted for task orders under the District of Columbia Supply Schedule. When
+canceling the solicitation, the District also issued a new solicitation for the same services but using
+GSA’s federal supply schedule rather than the District’s supply schedule. The protesters oppose
+dismissal, arguing that the protest issues are not moot because the new solicitation and awards will
+lead to the same protest grounds which are raised in these existing protests and that the protesters are
+entitled to proposal preparation costs incurred in responding to the now cancelled solicitation.
+
+        We conclude that the protesters can raise appropriate protest grounds under the new
+solicitation and awards and there is no good reason to address issues where the underlying
+solicitation has been cancelled. Finally, the protesters have not demonstrated that the District’s
+actions toward the protesters in connection with the cancelled solicitation were arbitrary or
+capricious as required by D.C. Code § 2-309.08(f)(2) to authorize award of proposal preparation
+costs. Accordingly, we dismiss the protests as moot and deny the request for proposal preparation
+costs.
+                                                 -2-          Williams, Adley & Co., CAB Nos. P-0666, P-0667
+
+
+
+
+                                         BACKGROUND
+
+        On October 22, 2002, the District of Columbia’s Office of Contracting and Procurement
+(“OCP”) on behalf of the Office of the Deputy Mayor for Children, Youth, Families and Elders
+issued Solicitation No. DCAE-2003-T-0010 for project management and related services for the
+District-wide Health Insurance Portability and Accountability Act (“HIPAA”) Implementation
+Project. (District’s Motion to Dismiss, filed February 19, 2003). OCP issued a request for task
+order proposals to seven contractors on the District of Columbia Supply Schedule. OCP received
+five proposals in response to the solicitation. After an evaluation of the technical proposals and best
+and final offers, the contracting officer awarded, on January 7, 2003, letter contracts to TCBA for
+contract line item numbers 0001, 0003, and 0004, and to Digital Safetynet for item number 0002.
+
+        On January 21, 2003, WAC filed its protest of the award to TCBA, which was docketed as
+CAB No. P-0666. WAC contended that TCBA was ineligible to compete in the procurement
+pursuant to an OCP directive, because TCBA had participated in a preliminary assessment report
+underlying the solicitation. It also alleged that TCBA had an unfair competitive advantage through
+access to HIPAA information not available to other offerors because of its work under a prior
+District contract. WAC also contends that TCBA has a potential organizational conflict of interest
+with Chartered Health Plan which is a health provider allegedly affiliated with TCBA. WAC claims
+that the contracting officer improperly amended the solicitation to waive the 50 percent LSDBE
+subcontracting requirement after receiving best and final offers but never gave offerors another
+opportunity to update their BAFOs. Finally, WAC states that the contracting officer improperly
+failed to conduct a debriefing after the awards.
+
+       On January 22, 2003, MVS filed its protest of the awards, which was docketed as CAB No.
+P-0667. MVS complained that the contracting officer initially set a date for debriefing but then
+cancelled the debriefing and has never rescheduled it despite repeated requests from MVS.
+
+        On February 19, 2003, the District moved to dismiss both protests on the ground that they are
+moot because the District’s Chief Procurement Officer cancelled the solicitation and letter contract
+awards. The cancellation was necessary, according to the District, because the proposed definitized
+contract awards significantly exceeded the $999,999 maximum contract amount permitted for task
+orders under the District of Columbia Supply Schedule. Paragraph 5 (“Ordering Limitations &
+Information”) of the terms and conditions of the District of Columbia Supply/Service Schedule,
+effective March 2002, provides in relevant part:
+
+       MINIMUM ORDER: The District guarantees the minimum order for each awardee
+       in an amount of $50.00 for the base year only.
+
+       MAXIMUM ORDER: For any task or delivery order, the maximum order limitation
+       shall be no greater than the maximum contract ceiling amount.
+                                              -3-          Williams, Adley & Co., CAB Nos. P-0666, P-0667
+
+
+
+       MAXIMUM CONTRACT CEILING: The maximum contract ceiling for each year
+       is $999,999.00.
+
+(MVS Submission, filed Mar. 12, 2003, Ex. 4). The Determination and Findings to cancel the
+solicitation, dated February 4, 2003, states in relevant part:
+
+       Solicitation Number DCAE-2003-T-0010, Request for Task Order Proposal (RFTP)
+       was issued on October 22, 2002. According to the solicitation, awards would be
+       made against the DC Supply Schedule contracts. Evaluations were complete on
+       December 30, 2002 and an award recommendation was made and approved. Two
+       letter contracts were executed to allow the selected contractors to begin work
+       immediately to meet the fast-approaching compliance deadlines for HIPAA.
+
+       After award of the letter contracts, it was brought to the Contracting Officer’s
+       attention that the proposed contract award amounts, $10M[illion] to Thompson,
+       Cobb, Bazilio and Associates (TCBA) and $1.5M[illion] to Digital Safetynet (DSI),
+       exceeded the maximum contract amount of $999,999.99 for task orders under the DC
+       Supply Schedule terms and conditions. Therefore, the definitized contract awards
+       could not be made against the DC Supply Schedule.
+
+       Based on this, the letter contracts are voidable. The services will be resolicited
+       through a combination of orders from the GSA Federal Supply Schedule and one
+       sole source contract pursuant to D.C. Official Code 2-303.05(a)(3A). New
+       statements of work are to be developed to reflect the current requirements. The
+       effective date of the cancellation of the letter contracts is February 28, 2003.
+
+              ....
+
+       The District has a compelling reason to cancel the RFTP because definitized
+       contracts can not be awarded against the DC Supply Schedule as indicated in the
+       solicitation. An award could not be made based on this mistake in the solicitation.
+
+       In accordance with D.C. Code § 2-303.07, 27 DCMR Section 1615.3, and the
+       findings contained herein, it is hereby determined that the cancellation of the RFTP
+       is in the best interest of the District. . . .
+
+(District of Columbia Motion to Dismiss Protest, Ex. 1).
+
+       On February 4, 2003, OCP issued a Request for Task Order Proposals No. DCAE-2003-T-
+0046 for HIPAA Remediation and Implementation Project under GSA’s federal supply schedule to
+four contractors: Ernst & Young, First Consulting Group, TCBA, and WAC. (District’s Motion to
+Dismiss, at 3, in CAB No. P-0671). The scope of work was changed somewhat from the original
+                                                   -4-           Williams, Adley & Co., CAB Nos. P-0666, P-0667
+
+
+
+solicitation. It appears that contract line item 0002 from the original solicitation was not included in
+the new solicitation because the District gave a sole source award to Digital Safetynet for that work.
+The record of the protests does not indicate any other specific changes. (See MVS Submission, at 1,
+filed Mar. 12, 2003). On February 12, 2003, OCP received proposals from First Consulting Group,
+TCBA, and WAC. The contracting officer selected TCBA as the highest scored offeror. The
+contracting officer also determined that TCBA did not have a conflict of interest based on its
+response to an Organizational Conflict of Interest and Non-Disclosure of Information form that all
+offerors were required to submit with their proposals. On February 28, 2003, the contracting officer
+awarded a GSA letter task order to TCBA. (Id., Exs. 4-5).
+
+       Responding to a Board request made at a status conference on March 5, 2003, MVS
+submitted on March 12 its request for proposal preparation costs and costs of pursing its protest
+pursuant to D.C. Code § 2-309.08(f)(2).
+
+        On March 14, 2003, WAC protested the award to TCBA under the new solicitation, alleging
+that an organizational conflict of interest precluded TCBA from receiving the GSA letter task order.
+ (Protest, CAB No. P-0671). The District filed a motion to dismiss the protest in CAB No. P-0671
+on April 7, 2003. On April 8, WAC filed a consent motion to dismiss the protest and the Board
+dismissed the protest on April 9.
+
+                                             DISCUSSION
+
+        MVS and WAC do not contend that the cancellation of the original solicitation under the
+District supply schedule was improper. Rather, they argue that the cancellation did not moot the
+protest grounds raised by their protests and that they are entitled to proposal preparation costs
+because the District clearly violated the law by issuing a solicitation and conducting a procurement
+when the value of the procurement substantially exceeded the District’s supply schedule maximum
+ceiling amount. Alternatively, the protesters argue that we should recognize an exception to the
+mootness doctrine where the protest issues are ended by a procurement cancellation but the same
+issues will likely be raised again, especially in the present situation where the District procures
+essentially the same services but changes the contracting vehicle from the District supply schedule to
+the GSA supply schedule.
+
+        By canceling the solicitation and the resulting letter contract awards, the District mooted the
+protest grounds raised by the protesters in P-0666 and P-0667. We do not agree with the protesters
+that we should recognize an exception to the mootness doctrine under the present circumstances.
+Requiring a protester to file a new protest for a new solicitation or award following the cancellation
+of an earlier solicitation and award does not unreasonably prevent the Board from meaningfully
+resolving protest issues in a timely manner. By addressing a live procurement rather than a
+cancelled one, the parties will better focus on the actual issues in controversy and the Board avoids
+providing advisory opinions. WAC and MVS had an opportunity to challenge the subsequent
+solicitation under the GSA supply schedule and resulting award to TCBA. WAC filed an award
+protest and raised one of the five issues it had raised in its earlier protest, the organizational conflict
+                                                  -5-           Williams, Adley & Co., CAB Nos. P-0666, P-0667
+
+
+
+of interest issue. However, WAC agreed to a voluntary dismissal of that protest prior to the Board
+making a decision on the merits. Thus, in hindsight, it becomes even clearer that there was no need
+for the Board to address the protest issues raised in the cancelled procurement.
+
+        The protesters argue that they are entitled to proposal preparation costs and costs of pursuing
+their protests in CAB Nos. P-0666 and P-0667. That argument is not mooted by the cancellation
+because if the District acted in an arbitrary or capricious manner toward the protesters, then D.C.
+Code § 2-309.08(f)(2) provides that a protester may receive its reasonable proposal preparation costs
+and costs of pursing the protests. Section 2-309.08(f)(2) provides:
+
+                The Board may, when requested, award reasonable bid or proposal
+        preparation costs and costs of pursuing the protest, not including legal fees, if it finds
+        that the District government’s actions toward the protester or claimant were arbitrary
+        and capricious.
+
+We do not find that the District acted in an arbitrary or capricious manner toward the protesters. The
+District reasonably determined to cancel the solicitation when it discovered that the contract value
+would exceed the maximum contract ceiling amount permitted for a District supply schedule
+contract. Thus, when faced with the two protests, although raising different issues, the District took
+corrective action and made the contracting officer available to address the protest issues during a
+status conference attended by the parties. We agree with the District that any negligence or lack of
+due diligence by the agency in preparing the solicitation and failure to realize that the District supply
+schedule could not be use for a procurement in excess of $999,999 does not rise to the level of
+arbitrary and capricious conduct toward the protesters. The protesters received copies of the
+solicitation, as did other offerors, but never questioned the agency about the District supply schedule
+ceiling amount. Thus, it seems that neither the District nor any of the offerors realized the ceiling
+limitation problem during the procurement and that the problem was first identified only during the
+District’s legal review of the proposed definitized contracts for TCBA and Digital Safetynet.
+
+        In comparable situations, the GAO has denied claims for bid or proposal preparation costs
+where the protest record demonstrated nothing more than agency negligence or lack of due diligence
+leading agencies to cancel solicitations. E.g., Special Systems Services, Inc., B-238168, Apr. 4,
+1990, 90-1 CPD ¶ 359 (inadequate showing of arbitrary or capricious conduct where the agency had
+to cancel its solicitation because it had negligently prepared specifications which “drastically failed
+to include many requirements necessary to meet the agency’s actual minimum needs”); Computer
+Resource Technology Corp., B-218292.2, July 2, 1985, 85-2 CPD ¶ 14 (lack of due diligence or
+carelessness on the agency’s part in allowing the solicitation to be issued or in not canceling it at an
+earlier date does not entitle protester to bid preparation costs since conduct did not rise to level of
+arbitrary or capricious action).
+
+      MVS, in its proposal preparation costs submission, also raises an argument that the District
+improperly proceeded under a sole source procurement with Digital Safetynet for the work formerly
+                                                 -6-          Williams, Adley & Co., CAB Nos. P-0666, P-0667
+
+
+
+required under contract line item number 0002 of the now canceled solicitation. This issue was not
+raised as a ground for protest and is irrelevant to the question of recovering proposal preparation
+costs.
+
+                                          CONCLUSION
+
+        By canceling the solicitation and awards, the District has rendered the protests of WAC and
+MVS moot. We have considered all of the protesters’ arguments for recovering proposal preparation
+costs and costs of pursing their protests, but conclude that the protesters are not entitled to recover
+those costs. Accordingly, we dismiss the protests as moot.
+
+
+       SO ORDERED.
+
+
+DATED: April 14, 2003                                  /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

@@ -1,0 +1,488 @@
+                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+       C.P.F. CORPORATION                                         )
+                                                                  )      CAB No. P-413
+       Under Invitation No. 4110-AA-03-1-DW                       )
+
+
+      For the Protester: Gerald T. Nielsen, Morgan, Lewis & Bockius. For the
+Government: Nancy K. Hapeman and Edward J. Rich, Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Lorilyn E. Simkins and Cynthia G. Hawkins-León, concurring.
+
+
+                                          OPINION
+
+        C.P.F. Corporation ("CPF") protests the award of a contract for janitorial services to
+Jones Construction and Maintenance Company ("Jones"). CPF asserts that Jones' bid was
+unreasonably low, that the contracting officer lacked a reasonable basis for determining
+Jones to be a responsible bidder, and that Jones' was ineligible to receive award and its bid
+was nonresponsive because Jones was not certified under the proper procurement
+category for this set aside solicitation. The District argues that a contracting officer's
+business judgments are accorded wide latitude and the contracting officer's actions here
+were within the bounds of reasonableness. Soon after Jones began contract performance,
+the agency terminated the contract for default based on asserted performance deficiencies.
+ The agency has resolicited for the same services identified in the original solicitation, under
+the assumption that the procurement regulations required resolicitation. As second low
+bidder in the original solicitation, CPF claims that it should receive award under the original
+solicitation and that a resolicitation would contravene the integrity of the sealed bidding
+procedures. We sustain the protest.
+
+                                      BACKGROUND
+
+       The Department of Administrative Services ("DAS") issued Invitation No. 4110-AA-
+03-1-DW (the "IFB") on April 29, 1994, for janitorial services for the Frank D. Reeves
+Municipal Center ("Reeves Center"). (Motion of the District of Columbia To Dismiss the
+Protest ("Motion to Dismiss"), Exhibit 1). The procurement of the janitorial services was the
+responsibility of DAS' Procurement and General Services Administration ("PGA") and was
+being conducted by a contracting officer in PGA's Products and Building Services Division,
+aided by a contract specialist, among others. (Agency Report, Exhibit 2). DAS' Building
+Management Administration ("BMA") is responsible for the operation of janitorial services at
+                                            −2−                     C.P.F. Corp., CAB No. P-413
+
+
+the Reeves Center. (Agency Report, Exhibit 3). It appears that the General Specifications
+and Cleaning Specifications were prepared within BMA's Building Operations Division.
+(Motion to Dismiss, Exhibit 1). The solicitation was set aside for certified small business
+enterprise ("SBE") bidders in the procurement category of "General Services." (Id.).
+
+        On bid opening date, June 7, 1994, 13 bids were opened. Jones was the apparent
+low bidder with a total bid price for the base year and two option years of $350,172 and an
+evaluated price of $325,659.96 after applying preference points. The protester, CPF, was
+the second-low bidder on the IFB with a total bid price of $619,920 and an evaluated price
+of $588,924. The third-low bidder was Rosa's Contracting with a total bid price of $698,184
+and an evaluated price of $663,274.80. The fourth-low bidder was All-Kleen Inc. with a
+total bid price of $839,340 and an evaluated price of $780,586.20.1 For the remaining 9
+bidders, total prices ranged from $864,468 to $1,835,999.64. (Motion to Dismiss, Exhibit
+2).
+
+        Soon after bid opening, the PGA contract specialist for the solicitation contacted
+Jones, requesting that Jones verify its bid. By letter of June 10, 1994, the president of
+Jones replied: "We have carefully reviewed our bid for Janitorial Services at the Reeves
+Center and are prepared to execute the contract at our bid price." (Agency Report, Exhibit
+1). The contracting officer did not obtain any information from Jones with regard to its
+estimated manhours. Although no government estimate had been prepared for the
+solicitation, we are told that the contracting officer and the contract specialist "were aware
+of the estimated cost of performance ($342,000) of the contract with CPF [the incumbent
+contractor] to provide janitorial services at the Reeves Center that ran from October 1,
+1993, to September 30, 1994." (Agency Report at 9 n.2).
+
+
+1
+   In examining the reasonableness of prices, it is useful to note the yearly and monthly
+breakdown for each bid shown by the agency's bid tabulation form: $116,724 yearly and
+$9,727 monthly for Jones, $206,640 yearly and $17,220 monthly for CPF, $232,728 yearly
+and $19,394 monthly for Rosa's Contracting, and $279,780 yearly and $23,315 monthly for
+All-Kleen. (Motion to Dismiss, Exhibit 2).
+                                            −3−                    C.P.F. Corp., CAB No. P-413
+
+
+       By intra-agency memorandum of June 13,2 the contracting officer (acting chief of
+PGA's Products and Building Services Division) transmitted the bid tabulations to BMA's
+Building Operations Division. In a June 21 memorandum, the chief of BMA's Building
+Operations Division advised the contracting officer in pertinent part:
+
+        Note is taken of the fact that the cost to provide the twenty-four (24)
+        mandatory man-hours, Monday through Friday, will consume nearly fifty (50)
+        percent of Jones Construction's monthly bid of $9,727.00. Furthermore,
+        when you consider the additional hours the contractor will have to utilize in
+        cleaning the facility between 5:00 p.m. and 9:30 p.m., we seriously question
+        the low bidder's ability to satisfactorily deliver the services.
+
+        However, should you decide to award to Jones Construction and
+        Maintenance Company, we strongly recommend a thorough check to ensure
+        technical and financial responsibility.
+
+(Agency Report, Exhibit 2). Attached to the June 21 memorandum is a worksheet which
+calculates the cost of the 24-hour mandatory daily manhours at $4,783.58 per month and
+$57,402.96 per year. In a June 21 handwritten transmittal, the contracting officer sought
+advice from her superior, the Administrator of PGA, as follows:
+
+        Wanda, Jones Construction's monthly bid price of $9,727 is enough to cover
+        the payroll ($4,783.58 + 2,000 for cleaning the facility between 5:00 p.m. and
+        9:30 p.m.). Approx[imately] $3,000 would be left for the purchase of
+        supplies, insurance & profit. I think we should give him a chance provided a
+        responsibility determination is made. Ch[arlene]
+        CPF is the next low bidder. Please advise.
+
+(Agency Report, Exhibit 2). It appears that the contracting officer relied on BMA's cost
+estimate for the 24 daily mandatory hours. On the other hand, there is no evidence in the
+record as furnished by the District to support the contracting officer's $2,000 estimate for
+the nighttime cleaning -- i.e., the cleaning between 5:00 p.m. and 9:30 p.m. -- which is in
+addition to the 24 daily mandatory manhours. Unknown to the contracting officer at the
+
+2
+    The District has not included the June 13 memorandum in the record.
+                                           −4−                     C.P.F. Corp., CAB No. P-413
+
+
+time of this transmittal, her estimate of $2,000 for the nighttime cleaning was significantly
+understated. In a handwritten response to the contracting officer annotated on the same
+transmittal, and, apparently, on the same day, the PGA Administrator stated:
+
+       Charlene: Agreed. BMA's concerns are not sufficient to not award to Jones.
+       Please proceed with the award action process.
+
+(Id.). In another transmittal one day later, June 22, the contracting officer wrote:
+
+       Diane, Ed David stated that most of the cleaning will be performed at night.
+       He stated that approx[imately] 156 daily M[an] H[ou]rs were needed for night
+       cleaning. I told Wanda what he said which was not spelled out in their
+       [BMA's] memo. Anyway, Wanda said they [BMA] have not presented
+       anything materially to prevent award to Jones. Do a resp[onsibility]
+       determination, call their references, & check on their tax info before
+       awarding.
+
+(Id.). This additional information from Mr. David, an employee in DAS' BMA, that
+approximately 156 manhours were required each day for night cleaning -- in addition to the
+24 daily mandatory manhours -- should have alerted the contracting officer to her initial
+significantly understated cost estimate for nighttime cleaning. The 156 manhour estimate
+for the nighttime cleaning hours,3 along with the procurement history for janitorial services
+at the Reeves Center,4 not to mention the fact that the next higher group of bids were
+significantly higher than Jones', should have put the contracting officer on notice that
+something was seriously wrong with her $2,000 estimate for nighttime work in particular
+and Jones' bid in general. Even assuming only 100 hours were required for each nighttime
+
+3
+  The District does not challenge the accuracy of the 156-hour estimate and it does not
+appear to be unreasonable. It would appear from the information in the record that the
+night cleaning itself would consume at least 120 manhours. We are told that GSA's
+standard rate for cleaning office facilities is 2,500 square feet per hour per person, the
+Reeves Center contains approximately 379,250 square feet of occupiable space to be
+cleaned under the solicitation's requirements (Motion to Dismiss, Exhibit 1), and the
+daytime activities include cleaning approximately 75,000 square feet. That would mean
+that approximately 300,000 square feet remain to be cleaned during each nighttime shift,
+which, at the cleaning rate of 2,500 square feet per hour, yields approximately 120
+manhours of work.
+4
+  Besides the $342,000 one-year price, the prior contract specified a 184-hour daily
+mandatory minimum for all cleaning and utility work at the Reeves Center. (Protester's
+Reply to the Agency Report, Exhibit B).
+                                             −5−                       C.P.F. Corp., CAB No. P-413
+
+
+cleaning, the monthly or yearly minimum cost for just that portion of the work (using the
+mandatory wage and fringe benefits rates and labor burden rates) is at least double Jones'
+monthly or yearly bid price for all work required by the solicitation.
+
+        In a letter of June 22, Jones responded to a June 13 letter5 from the contracting
+officer that requested data for determining responsibility. (Agency Report, Exhibit 3). The
+response from Jones indicates that the company has been performing maintenance
+services for approximately three years. The response also contained an income statement
+for the year ending December 31, 1993, showing total revenue of $811,326, total operating
+expenses of $833,140, negative net income of $55,589 for 1993 and a negative retained
+earnings of $42,829 at the beginning of 1993. (Id.). Another document showed negative
+cash flow. (Id.).
+
+       On July 8, the contracting officer executed a Determination and Findings For
+Contractor's Responsibility. (Agency Report, Exhibit 3). Item 3 of the D&F, entitled
+"Estimated Fair and Reasonable Cost," contains simply the $116,724 bid price found in
+Jones' bid. There is no objective evidence in the D&F or in the rest of the record which
+provides a reasonable basis for such a determination. The information contained in Exhibit
+2 of the agency report constitutes not only insufficient evidence to support finding Jones'
+bid price to be reasonable, the information supports finding Jones' price to be
+unreasonable. The record demonstrates that the contracting officer's estimate of $2,000 for
+nighttime work was clearly unreasonable and unsupported. The same can be said for the
+$3,000 which the contracting officer apparently felt "would be left for the purchase of
+supplies, insurance & profit." In reviewing the record as a whole, we are compelled to find
+that the contracting officer never conducted a meaningful analysis of either manhour
+estimates or costs by which to judge the reasonableness of Jones' bid price, and therefore
+could not make a credible determination that Jones' bid price was reasonable. On the
+contrary, the record before us demonstrates that Jones' bid was unreasonably and
+unrealistically low. In view of the significant below cost bid offered by Jones, and the
+financial condition of Jones as revealed by the record, we find that there was insufficient
+information to support the contracting officer's determination of responsibility.
+
+        On the same date that the D&F was executed, July 8, the contracting officer made
+
+5
+    The District has not included this June 13 letter in the record.
+                                           −6−                     C.P.F. Corp., CAB No. P-413
+
+
+award to Jones for the base year period of August 11, 1994 through August 10, 1995. CPF
+received notice of the award on July 14, and filed its protest on July 22, claiming that the
+award to Jones should be cancelled because Jones' bid was so low that the contracting
+officer could not have reasonably determined Jones to be a responsible bidder. CPF
+requested inter alia that the Board order the District to cancel Jones' contract and have the
+award directed to CPF as the low responsive and responsible bidder.
+
+        It was not long before the problem of Jones' unreasonably low bid manifested itself.
+Jones began performance in August 1994. On September 2, 1994, DAS sent a "cure
+letter/show cause notice" to Jones concerning deficiencies in its performance, threatening
+default termination if the deficiencies were not corrected. (Agency Report at 6). After
+obtaining an extension of time within which to respond to the protest, the District, on
+September 12, filed with the Board a motion to dismiss, stating that the protest should be
+dismissed as moot because the District was in the process of terminating Jones' contract
+for default. On September 19, the District issued a letter terminating Jones' contract for
+default based on an asserted failure to correct performance deficiencies. (Id. at 3).
+
+        On September 15, 1994, the District issued Invitation For Bid No. 4262-AA-03-1-DW
+for a 120-day emergency contract for janitorial services for the Reeves Center. On
+September 20, the District awarded the 120-day emergency contract to Rosa's Contracting
+(the third low bidder under the original solicitation), at a monthly price of $16,500 (Agency
+Report, Exhibit 4), which is about $3,000 per month less than it had bid under the original
+solicitation and about $700 less than CPF had bid under the original solicitation.
+
+        On September 26, 1994, CPF filed its opposition to the District's motion to dismiss
+on the ground that terminating Jones' contract did not afford the complete relief requested
+by CPF in its protest. CPF asserted that the District was intending to resolicit rather than
+award a contract to it under the original solicitation. CPF claimed that recompeting not only
+places an additional administrative burden on the agency but also would result in an illegal
+auction by forcing CPF to recompete after its price had been revealed in the original
+competition. On September 28, 1994, the agency issued a new solicitation for janitorial
+services for the Reeves Center. There are no substantive differences between the new
+solicitation and the original solicitation. (Agency Report at 12; Agency Report, Exhibit 7).
+At the Board's request, the agency has twice extended bid opening, first to November 14,
+1994, and most recently to November 22, 1994.6
+
+       The Board denied the District's motion to dismiss the protest during a conference
+with the parties on October 20, 1994, and directed that the District file an agency report by
+October 28 addressing the responsibility issue raised by the protest. (October 21, 1994
+
+6
+    The Board appreciates the contracting officer's cooperation.
+                                           −7−                     C.P.F. Corp., CAB No. P-413
+
+
+Order and Report on Telephone Conference). During the October 20 conference, the
+Board also inquired as to why the agency had decided to recompete for the same
+requirements found in the original solicitation. The District replied that the contracting
+officer believed that the District's procurement regulations regarding default termination
+required a new solicitation. The Board requested that the District address the issue in its
+agency report and to advise the Board as to whether there are any other grounds for
+resoliciting rather than awarding under the original solicitation (e.g., some requirements
+have changed, original bids are stale or not considered reasonable). The Board directed
+the protester to respond to the agency report by November 4, 1994. The parties timely filed
+their papers. In addition to filing its response to the agency report, the protester also has
+moved to amend its protest to add as an additional ground that Jones was ineligible to
+receive award of the contract because it was not certified under the District's Equal
+Opportunity for Local, Small and Disadvantaged Business Enterprises Act in the category
+of "General Services" as called for by the solicitation. The protester states that it first
+learned of this ground for protest when it received the agency report. The motion is timely,
+has not been opposed, and is granted.7
+
+       In its agency report, the District contends that the contracting officer properly
+determined that Jones was a responsible bidder and that broad discretion is given a
+contracting officer in determining the responsibility of a potential contractor. The District
+states that "the contracting officer and the contract specialist examined the bid of Jones
+and determined, through bid verification and other means, that Jones was capable of
+performing the contract at the price bid." (Agency Report at 8-9). With regard to the
+reasons for conducting a resolicitation, the District argues that the contracting officer
+believed in good faith that she did not have the discretion to make an award under the
+original solicitation and that 27 DCMR § 3716.4 required a resolicitation.
+
+
+7
+  In view of our conclusion infra that the contracting officer's responsibility determination
+with regard to Jones cannot be sustained, we will not address this additional protest ground
+advanced by CPF.
+                                             −8−                     C.P.F. Corp., CAB No. P-413
+
+
+                                        DISCUSSION
+
+       The Board has jurisdiction over this protest pursuant to D.C. Code § 1-1189.3.
+
+A.     The Responsibility Determination
+
+      Bidder responsibility is a prerequisite to award pursuant to an IFB. D.C. Code § 1-
+1183.3(e). A responsible bidder is "a person who has the capability in all respects to
+perform fully the contract requirements, and the integrity and reliability which will assure
+good faith performance." Id. § 1-1181.7(40).
+
+        The procurement regulations require that the contracting officer shall determine
+whether a prospective contractor is responsible and whether the prices offered are
+reasonable. 27 DCMR § 1540.1. The regulations also require that the contracting officer
+make award only to responsible contractors, that the contracting officer make a
+responsibility determination in writing prior to award, and that in the absence of information
+clearly indicating that the prospective contractor is responsible, the contracting officer shall
+make a determination of nonresponsibility. 27 DCMR §§ 2200.1-2200.3. The same
+regulations also set forth responsibility criteria. Id. § 2200.4. If the contracting officer
+determines that the price bid by a prospective contractor is so low as to appear
+unreasonable or unrealistic, the contracting officer may determine the prospective
+contractor to be nonresponsible. Id. § 2200.5. In order to make a responsibility
+determination, the contracting officer must possess or obtain information sufficient to
+demonstrate that the prospective contractor currently meets the applicable responsibility
+standards and requirements. Id. § 2204.1. If the available information is insufficient to
+make a determination of responsibility, the contracting officer shall determine the contractor
+to be nonresponsible. Id. § 2204.4.
+
+        The parties correctly identify our standard for reviewing a contracting officer's
+responsibility determination. Under the Procurement Practices Act, our review of agency
+actions is de novo and thus there is no presumption of agency correctness. D.C. Code § 1-
+1189.3; Ideal Electrical Supply Corp., CAB No. P-372, Aug. 13, 1993, 41 D.C. Reg. 3603,
+3606 (and cases cited therein). Nevertheless, because a responsibility determination
+requires the contracting officer to exercise business judgment, 27 DCMR §§ 2200, 2204,
+we accord the contracting officer broad discretion in this determination, consistent with well-
+settled procurement law principles and procurement regulation that the contracting officer
+"shall have wide latitude to exercise business judgment." 27 DCMR § 1003.4; Ideal
+Electrical Supply Corp., 41 D.C. Reg. at 3606; Dixon's Pest Control Services, Inc., CAB No.
+P-401, Apr. 6, 1994, 42 D.C. Reg. 4528, 4529. Consequently, we will not overturn a
+determination of responsibility unless a protester can show fraud or bad faith, a bidder's
+failure to adhere to definitive responsibility criteria, or that such a determination lacked a
+reasonable basis. Dixon's Pest Control Services, Inc., 42 D.C. Reg. at 4529; Ideal
+                                             −9−                      C.P.F. Corp., CAB No. P-413
+
+
+Electrical Supply Corp., 41 D.C. Reg. at 3605-06. An affirmative determination of
+responsibility is based on information available at the time the contracting officer makes the
+decision. J&L Contract Services, Inc., CAB No. P-313, Oct. 2, 1992, 40 D.C. Reg. 4565,
+4567; Group Insurance Administration, Inc., CAB No. P-309-B, Sept. 4, 1992, 40 D.C. Reg.
+4485, 4517, aff'd, No. 92-12406 (Super. Ct. Apr. 25, 1994).
+
+        We have sustained agencies' nonresponsibility determinations where a bid was
+unreasonably or unrealistically low. J&L Contract Services, Inc., CAB No. P-313, Oct. 2,
+1992, 40 D.C. Reg. 4565 (sustaining contracting officer's determination that bidder was
+nonresponsible because bid was so low that bidder could not meet the minimum wage and
+fringe benefit costs necessary to provide the required services); Top Service Construction,
+Inc., CAB No. P-409, July 12, 1994, 42 P.D. 4628 (sustaining determination of
+nonresponsibility where the bid was significantly below government estimates and omitted
+and understated other costs of performance). On the facts presented by the record here,
+we conclude that the contracting officer had no reasonable basis for an affirmative
+determination of responsibility. All of the objective data available to the contracting officer -
+- the manhour and cost information from the agency's administration most familiar with
+janitorial service operations, the procurement history, and the significant discrepancy
+between Jones' low bid and the group of next higher bids -- pointed to the conclusion that
+Jones' bid was unrealistically low. The District correctly argues that simply because Jones'
+bid price was below its cost of performance, that does not automatically mean that Jones is
+nonresponsible. Citing Oshkosh Truck Corp., B-252708.2, Aug. 24, 1993, 93-2 CPD ¶ 115,
+Cobarc Services, Inc. -- Reconsideration, B-252359.3, Aug. 3, 1993, 93-2 CPD ¶ 74, and
+Crestmont Cleaning Service & Supply Co., B-254486, Dec. 22, 1993, 93-2 CPD ¶ 336, the
+District argues that even if a bid is below cost, it is not legally objectionable, and that
+whether the contract can be performed at the price bid is a matter of responsibility.
+Although we agree with that general principle, on the facts here we conclude that the
+contracting officer did not have legally sufficient information upon which to make an
+affirmative determination of responsibility.
+
+        At a minimum, the information available should have suggested to the contracting
+officer to conduct a more careful review of Jones' bid, including, for example, a request for
+information concerning Jones' estimates of manhours and costs. See 27 DCMR § 2204;
+Contract Services Co., 66 Comp. Gen. 468 (1987), 87-1 CPD ¶ 521 (where contracting
+officer still believed low bid to be mistaken in spite of verification, bidder should have been
+requested to provide sufficient explanation and/or documentation to assure contracting
+officer that bid as confirmed was correct). The intra-agency memoranda and transmittals
+suggest that the contracting officer did not fully appreciate that the responsibility
+determination is an affirmative determination and that a lack of sufficient information to
+establish responsibility dictates a finding of nonresponsibility. 27 DCMR § 2200.3.
+Although we do not think that the contracting officer's comment of "giving him [Jones] a
+chance" was the sole or dominant reason for the responsibility determination, such a factor
+                                            − 10 −                   C.P.F. Corp., CAB No. P-413
+
+
+is simply not part of the responsibility equation. Considering the magnitude of Jones'
+below-cost bid, and the financial documentation of record, notwithstanding Jones's three-
+year history of satisfactory performance, we cannot find reasonable support for determining
+Jones to be financially responsible or capable of meeting the performance requirements for
+purposes of this solicitation.
+
+B.     The Remedy
+
+        Because Jones was not a responsible bidder, contract award to it was improper. We
+need take no action with respect to the contract since the District already has terminated
+Jones' contract. The issue before us is whether resolicitation should continue, as the
+District urges, or whether the agency should make award under the original solicitation, as
+urged by CPF.
+
+        Our reading of the District's position is that the contracting officer believed that she
+had no authority to make an award under the original solicitation after the default
+termination of Jones' contract, based on her reading of 27 DCMR §§ 3716.4, which states
+that: "Except as provided in §§ 3716.5 and 3717 [surety takeover agreements], the
+contracting officer shall use the procedures set forth in chapters 15 [procurement by
+competitive sealed bidding] and 16 [procurement by competitive sealed proposals] of this
+title, whichever is applicable, to repurchase the terminated supplies or services, or any
+additional requirements needed." 27 DCMR § 3716.5 provides in relevant part: "[I]f
+supplies or services are required immediately, the contracting officer may reprocure the
+required supplies or the services on an emergency basis in accordance with the provisions
+of chapter 17 [sole source and emergency procurements] of this title. . . ." In its agency
+report, the District argues that 27 DCMR § 3716.4 does not permit reinstating an original
+solicitation after a contract has been awarded and where the contract subsequently has
+been terminated for default. In support, it cites Interstate Forestry, Inc., AGBCA No. 89-
+114.1, 91-1 BCA ¶ 23,660, for the proposition that "an award of a contract under a
+solicitation effectively cancels the original bids, making a resolicitation rather than award to
+the second lowest bidder appropriate in a termination for default situation." (Agency Report
+at 12 n.4).8 On the other hand, the District states elsewhere in its agency report that it
+would not "foreclose reinstatement of the solicitation in certain specific circumstances after
+a termination for default." (Agency Report at 13 & n.5). The District does not articulate
+what those specific circumstances might be. We can also discern from the agency report
+an argument that the contracting officer has broad discretion to decide how to reprocure the
+services, and her decision here should not be disturbed.
+
+
+8
+  We have reviewed Interstate Forestry but have been unable to find any support for the
+proposition for which it is cited by the District.
+                                            − 11 −                   C.P.F. Corp., CAB No. P-413
+
+
+        First, we do not read 27 DCMR § 3716.4 as precluding reinstatement of the original
+solicitation. Section 3716.4 simply requires the contracting officer to reprocure through
+competitive means. Reinstating the original solicitation to select the lowest responsive and
+responsible bidder is, in fact, a selection meeting the sealed bidding requirements of
+chapter 15. Neither party has argued and the record offers no basis for finding that the
+original solicitation failed to attract competitive bids.
+
+        Second, and more importantly, we must consider the posture of this case when
+considering the appropriate remedy. The protest was filed after award to Jones. The
+protester challenged the award and requested that it receive award as the lowest
+responsive and responsible bidder. The agency terminated Jones' contract after the
+District filed its motion to dismiss, and after that, the agency decided to issue a new and
+duplicative solicitation. Under these circumstances there can be no question that we have
+jurisdiction to afford appropriate relief with regard to the original solicitation. D.C. Code §§
+1-1189.3, 1-1189.8. Contrary to the District's position that contract award effectively
+cancels the original bids, our Board and the Comptroller General have ruled that improper
+awards may in appropriate circumstances be set aside, bids reinstated, and award made to
+the lowest responsive and responsible bidder. See, e.g., Ideal Electrical Supply Corp., 41
+D.C. Reg. at 3608-09; Singleton Electric Co., CAB No. P-411, Nov. 15, 1994, 42 P.D. 4888,
+4901; Architectural Window Systems, Inc., B-213799, Mar. 19, 1984, 84-1 CPD ¶ 326. In
+Ideal, we terminated a contract for the convenience of the District and directed the agency
+to award to the next low responsive and responsible bidder. In Singleton, we determined
+that a cancellation action was improper, and directed that original bids be reinstated and
+award be made to the lowest responsive and responsible bidder. In Architectural Window
+Systems, the Comptroller General sustained an award to the original low bidder on the
+basis of a revived bid -- following termination of a contract previously awarded to the
+protester.
+
+        In the current protest, the same considerations for protecting the integrity of the
+sealed bidding process dictate that original bids be reinstated and award made to the
+lowest responsive and responsible bidder. Architectural Window Systems, 84-1 CPD ¶
+326. All the bids in the original solicitation have been revealed. The agency's requirements
+have not changed. The District has not suggested that the bid prices from the original
+solicitation are stale or unreasonably high. In fact, the District has not offered any
+substantive reason for resoliciting. We cannot see how impartiality and fair play for
+competitive sealed bidding would be furthered by allowing bidders another opportunity to
+better the prices of their competition. See B-154483, Oct. 30, 1964. Finally, making award
+under the original solicitation will avoid additional administrative costs associated with
+conducting an unnecessary resolicitation.
+
+        Accordingly, we sustain the protest, and we direct the District to cancel the new
+solicitation, reinstate the bids under the original solicitation, and make award to the lowest
+                                     − 12 −           C.P.F. Corp., CAB No. P-413
+
+
+responsive and responsible bidder.
+
+      SO ORDERED.
+
+
+DATE: November 18, 1994                        /s/ Jonathan D. Zischkau
+                                              JONATHAN D. ZISCHKAU
+                                              Administrative Judge
+
+
+CONCURRING:
+
+
+ /s/ Lorilyn E. Simkins
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+/s/ Cynthia G. Hawkins-León
+CYNTHIA G. HAWKINS-LEÓN
+Administrative Judge
+

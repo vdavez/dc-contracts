@@ -1,0 +1,223 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+RBK LANDSCAPING & CONSTRUCTION, INC.                          )
+                                                              )   CAB No. P-0753
+Under IFB No. DCHA-2007-B-0002                                )
+
+       For the Protester: Mr. Keith Lomax, President, pro se. For the District of Columbia
+Government: Howard Schwartz, Esq., Senior Assistant Attorney General, and Talia S. Cohen,
+Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 15303956
+
+
+        RBK Landscaping & Construction, Inc., has protested the District’s responsibility
+determination of the awardee, Community Bridge, Inc., and the nonresponsibility determination
+of RBK, regarding a solicitation to provide comprehensive landscape maintenance and
+management services for approximately 450 acres of land at 72 recreational centers and facilities
+in the District. The contracting officer determined RBK nonresponsible for failing to show inter
+alia financial capacity, adequate staffing for the job, compliance with District tax laws, adequate
+equipment to perform the work, and ability to obtain a surety bond. RBK argues that it has
+adequate financial resources, staff, and equipment, and that it complies with District tax laws and
+provided evidence that it could obtain a bond. We sustain the nonresponsibility determination on
+the record presented, concluding that RBK has not demonstrated that the contracting officer’s
+determination lacked a reasonable basis. The evidence in the record supporting Community
+Bridge’s responsibility is unrebutted. Because the contracting officer did not violate either the
+law or the terms of the solicitation, we deny the protest.
+
+                                        BACKGROUND
+
+        On January 22, 2007, the Office of Contracting and Procurement (“OCP”) issued in the
+open market IFB No. DCHA-2007-B-0002, on behalf of the Department of Parks and Recreation
+(“DPR”), for a contractor to provide comprehensive landscape maintenance and management
+services for approximately 450 acres of land at 72 recreational centers and facilities in Wards 1
+through 8. (Agency Report (“AR”) Ex. 3). Bidders were to bid fixed-unit prices that would
+result in a requirements contract with total amounts based on estimated quantities of work. (AR
+Ex. 3). The bid opening date was February 5, 2007. Six bidders responded with bids and OCP
+performed an initial bid tabulation based on an evaluation of bid prices that was later determined
+to be erroneous. The initial bid tabulation showed the following order of evaluated prices from
+lowest to highest: Horton & Barber, IIU Consulting, Community Bridge, Inc., RBK
+Landscaping, KC Home Improvement, and Turf Center Lawns. (AR at 3-4; AR Ex. 6). The
+OCP contract specialist and the contracting officer’s technical representative made site visits to
+the bidders’ facilities, including RBK’s facility. (AR at 4; AR Ex. 13).
+                                               -2-               RBK Landscaping, CAB No. P-0753
+
+
+
+
+       On February 9, 2007, OCP sent all bidders a letter requesting responsibility data. (AR
+Exs. 13, 14). RBK responded to the request by furnishing a package consisting of approximately
+23 pages. (AR Ex. 15). The RBK submission has no index and only partial indications of which
+documents were meant to respond to the various categories of responsibility data requested by
+the contracting officer. The RBK documentation is comprised of the following: insurance
+information, a 1-page “Analysis of Operating Procedures” composed by its president, a 1-page
+balance sheet as of October 31, 2006, a 2-page profit and loss statement for the period January
+through October 2006, an inventory of equipment and vehicles, a list of current and past contract
+work with the District Government, and a Dun & Bradstreet report.
+
+        On February 21, 2007, the contracting officer determined Horton & Barber and IIU
+nonresponsible. (AR at 4). On the same date, the contracting officer determined Community
+Bridge a responsible bidder. (AR at 4; AR Ex. 10). On March 5, 2007, Horton & Barber
+protested the District’s determination of its nonresponsibility. We denied that protest on May 25,
+2007. On March 19, 2007, the District awarded the landscape and maintenance contract,
+Contract No. DCHA-2007-C-0002, to Community Bridge.
+
+        On March 26, 2007, RBK filed the instant protest. On or about March 30, 2007, OCP
+discovered that section B, CLIN 3, of the solicitation contained an incomplete format for
+calculating the total estimated amount of the bid extensions. When OCP revised the bid
+tabulation based on properly extending the bid prices, the order of the lowest to the highest
+bidders changed, with RBK becoming the third lowest bidder, followed by Turf Center and
+Community Bridge (AR at 5-6), with the corrected evaluated prices and order as follows:
+
+          Bidder                     Bid Price for Base         Evaluated Bid Price
+                                     Year and Four
+                                     Option Years
+                                     (Estimated Amounts)
+          1. Horton & Barber         $7,794,019.50              $6,858,737.16
+
+          2. IIU Consulting          $10,217,403.85             $9,359,141.93
+
+          3. RBK Landscaping         $11,771,969.58             $10,359,333.23
+          Construction
+          4. Turf Center Lawns       $12,200,900.00             $12,200,900.00
+
+          5. Community Bridge        $13,385,668.60             $12,342,925.02
+
+          6. KC Home                 $15,119,490.00             $14,907,817.14
+          Improvement
+
+(AR at 6). Because the contracting officer had previously determined Horton & Barber and IIU
+nonresponsible, RBK became the low bidder if it was found responsible. On May 9, 2007,
+however, the contracting officer determined RBK nonresponsible. (AR at 6; AR Ex. 9). Turf
+Center withdrew its bid, leaving Community Bridge, the awardee, as the lowest responsible
+                                                -3-              RBK Landscaping, CAB No. P-0753
+
+
+
+bidder. (AR at 6; District’s May 21, 2007 Supplement to the Agency Report). The May 9
+nonresponsibility determination provides in relevant part:
+
+      1. Lack of Financial Capability - . . . . The requested information was analyzed
+      by the OCP Cost Price Analyst. Based on the Financial Statement Analyses dated
+      04/10/2007, attached to this D&F, the Contracting Officer determined that RBK
+      does not have the financial capability for a project of this magnitude. Critical
+      findings in this report include:
+
+           •          The financial statements provided were for the ten months ended
+                      10/31/06 and un-audited or reviewed. As such, they did not provide
+                      a full year’s financial activity and are not current.
+           •          According to RBK’s balance sheet, at 10/31/2006 they had only
+                      $40,605 in cash. There was no additional information provided by
+                      them regarding lines of credit or access to additional sources of
+                      capital.
+           •          The COTR for DPR has estimated that they will need a minimum of
+                      60 days funds, approximately $300,000 in cash based on their bid
+                      price for CLIN003 alone, and assuming an operating profit margin of
+                      20%. Based on this, the bidder does not appear to have adequate
+                      financing to absorb a contract of this size.
+
+      2. Comply with Required Performance Schedule - . . . . The bidder’s response to
+      the Contracting Officer’s request for information reflected notable discrepancies:
+      According to RBK’s employment data (Schedule D), RBK currently has 28
+      employees, while his listing of [current] employees attached to his First Source
+      Employment Agreement shows 6 current employees. . . .
+               ....
+
+      4. Compliance with DC licensing and tax laws - . . . . As of 02/2/07, RBK was
+      “not in compliance with the tax filing and payment requirements of the District of
+      Columbia Unemployment Tax Laws.”
+
+      5. Production Equipment, Supplies, and Facilities – . . . . The Contracting Officer
+      and the Contract Specialist conducted a site visit of RBK on 02/10/07. RBK
+      requested that the group travel to the site of one [of] its (non-LSDBE)
+      subcontractors, Chapel Valley Landscaping in Woodbine, Maryland. At the site,
+      RBK explained that the majority of the equipment belonged to the subcontractor,
+      although he pointed out certain items that belonged to them. The Contracting
+      Officer and Contract Specialist, using an equipment checklist provided by the
+      COTR, did not see any vehicles, trucks or trailers on the premises. They cannot
+      perform the contract without vehicles and trailers to transport equipment from
+      Woodbine, Maryland to the District of Columbia. . . .
+
+      6. Evidence of Obtaining a Performance Bond - The bidder provided no evidence
+      that they were being given “favorable consideration for a surety bond”, as
+      requested in the Contracting Officer’s letter dated 02/10/07.
+                                                -4-                RBK Landscaping, CAB No. P-0753
+
+
+
+
+(AR Ex. 9). Attached to the D&F is a February 28, 2007 tax verification response from the
+Department of Employment Services indicating that RBK is not in compliance with the tax filing
+or payment requirements of the District’s unemployment tax laws.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        RBK argues that it has the financial capability to perform the contract, noting that it
+performed the “same contract in 2006 without financial complications by employing a $350,000
+working capital line of credit as needed to underwrite the District’s payment timing, which at
+times was very delayed.” (Comments on Agency Report, at 1). Regarding staffing, RBK urges
+that the reference to the reduced staffing in the First Source Agreement reflected its employment
+“in the off season” and should not have been considered as a negative factor. Regarding
+equipment and vehicles, RBK states that it offered the same items that it used in successfully
+performing the 2006 contract. RBK states that it has timely paid its unemployment taxes and
+timely filed its returns but has introduced no evidence that it was in tax compliance as of the date
+of the determination of nonresponsibility. RBK points out that it had its bonding agent send a
+bonding letter directly to OCP but there is no evidence in the record of that letter. Finally, RBK
+argues that the contracting officer’s D&F of nonresponsibility is invalid because in the final line
+of the document, the name “Unicorn Landscaping Services” is mentioned rather than RBK.
+
+        We sustain the contracting officer’s determination that RBK did not demonstrate
+adequate financial capacity to perform the contract. The financial statements were not current
+and complete, rendering it impossible for the contracting officer to have a reasonable
+understanding of the company’s financial position. For a contract of the size at issue here, the
+contracting officer reasonably doubted the company’s ability to finance the significant work
+required by the solicitation. On staffing and equipment, we see no legal error in the contracting
+officer’s determination based on the meager record presented by RBK. The only evidence
+submitted by RBK was that found in the package submitted to the contracting officer in response
+to the responsibility data request. For the same reason, RBK has failed to rebut the findings and
+determination by the contracting officer regarding the lack of a bonding letter. Argument by the
+protester’s representative in RBK’s comments on the Agency Report does not constitute
+evidence. Finally, the contracting officer’s reference to “Unicorn Landscaping Services” in the
+final sentence of the D&F is simply a typographical error. The repeated references to RBK
+throughout the D&F convincingly show that the nonresponsibility determination was directed to
+RBK, not “Unicorn Landscaping Services.”
+
+        RBK argues that Community Bridge, the awardee, should have been found
+nonresponsible. The determination and findings of contractor responsibility, dated February 21,
+2007, adequately support the contracting officer’s determination. Unsupported allegations by the
+protester’s representative of poor past performance on the part of Community Bridge are
+insufficient to rebut the determination.
+                                                -5-               RBK Landscaping, CAB No. P-0753
+
+
+
+
+                                        CONCLUSION
+
+       RBK has not shown that the contracting officer’s determination of RBK’s
+nonresponsibility violated law or the terms of the solicitation. We find that the record adequately
+supports the findings of the contracting officer regarding RBK’s nonresponsibility and
+Community Bridge’s responsibility. Accordingly, for the reasons discussed above, we deny
+RBK’s protest.
+
+       SO ORDERED.
+
+DATED: June 20, 2007                                  /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+CONCURRING:
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

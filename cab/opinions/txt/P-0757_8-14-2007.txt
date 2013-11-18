@@ -1,0 +1,163 @@
+             DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+GINICORP                                              )
+                                                      )     CAB No. P-0757
+Under Solicitation No. GAGA 2007-I-0012               )
+
+        For the Protester GiniCorp: George A. Hawkins, Esq., Peterson Noll & Goodman
+PLC, and Virginia Master, CEO, Ginicorp. For the District of Columbia Public Schools:
+Edward C. Dolan, Esq., and Michael McGill, Esq., Hogan & Hartson, L.L.P., and Aaron E.
+Price, Sr., Esq., Attorney-Advisor, DCPS.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                          OPINION
+                                       Filing ID 15938473
+
+
+        In an April 23, 2007 letter, received and docketed at the Board on April 27, 2007,
+protester GiniCorp challenges the award to Tandem Conglomerate, LLC (“Tandem”) of a
+contract for resources and staff to maintain a program within the District of Columbia Public
+Schools (“DCPS”) called “DC STARS.” The District filed its initial Agency Report on June
+11, 2007, more than 20 days late. After substitution of counsel, the District filed a combined
+motion to dismiss and supplemental Agency Report on July 11, 2007. DCPS asserts that the
+Board should dismiss the protest because DCPS’s contracting officer informed GiniCorp’s
+executive, Mr. Michael Masters, in January 2007 that DCPS had decided to exclude GiniCorp
+from the competitive range, and GiniCorp did not file its protest until April 27, 2007. We
+agree with DCPS that GiniCorp’s protest was filed long after it was informed of its exclusion
+from the competition. Accordingly, we deny the protest.
+
+                                     BACKGROUND
+
+        DCPS issued solicitation No. GAGA 2007-I-0012 in November 2006, for the
+procurement of information technology services and consulting in the implementation of the
+DC STARS student records information system. Three offerors (GiniCorp, Tandem, and
+Tecknomic) submitted timely proposals on November 20, 2006. A technical evaluation panel
+examined the proposals. In December 2006, the panel determined that GiniCorp’s proposal
+was technically unacceptable, containing numerous deficiencies, and that it should not be
+included in the competitive range. The contracting officer agreed with the panel’s assessment
+and excluded GiniCorp from the competitive range and continued to evaluate the remaining
+two proposals. The contracting officer states that he informed GiniCorp’s Michael Masters of
+this decision in a telephone conversation in January 2007:
+                                              -2-                     GiniCorp, CAB No. P-0757
+
+
+       Because GiniCorp was determined to not be in the competitive range, I
+       informed GiniCorp through a January 2007 telephone conversation with
+       Michael Masters of GiniCorp and through a January 2007 e-mail that GiniCorp
+       had been excluded from the competition and that it would not be considered
+       for an award. The call was very brief and Mr. Masters did not seem upset. . . .
+
+(July 12, 2007 Toorie Affidavit (Corrected) ¶ 8). DCPS has not located a copy of the email
+Toorie states that he sent to GiniCorp. The only evidence presented by GiniCorp on this
+factual issue is the following statement of Michael Masters:
+
+       The DC Public Schools had not contacted GiniCorp during the previous five
+       (5) months concerning its evaluation of GiniCorp’s proposal nor had it verified
+       any of GiniCorp’s references. GiniCorp received no notices from the DC
+       Public Schools requesting discussions or presentations to the DC Public
+       Schools. GiniCorp received no notification for any best and final offer request.
+
+(June 13, 2007 Masters Affidavit ¶ 8). This affidavit was filed several weeks before the
+Toorie affidavit was filed by DCPS. GiniCorp responded on July 18 with legal argument
+responding to Toorie’s July 12 corrected affidavit and DCPS’s July 11 supplemental Agency
+Report and motion to dismiss on timeliness, but GiniCorp never submitted any evidence
+directly and unequivocally rebutting Toorie’s statement that he had a brief conversation with
+Masters sometime in January 2007 in which he informed Masters that GiniCorp was excluded
+from the competition. Masters’ statement in his affidavit that DCPS “had not contacted
+GiniCorp during the previous five (5) months” is ambiguous as to timing and thus is not
+unambiguously inconsistent with Toorie having a telephone conversation with Masters
+between January 1 and January 12, 2007. GiniCorp had adequate opportunity to persuasively
+rebut Toorie’s statement but failed to do so. On the evidence presented, we find that Toorie
+communicated to Masters in January 2007 that GiniCorp was excluded from the competition.
+
+        The contracting officer ultimately selected Tandem for award and DCPS entered into a
+letter contract with Tandem on March 15, 2007. DCPS definitized that contract on April 23,
+2007. The Board received GiniCorp’s protest on April 27, 2007.
+
+         In its protest, GiniCorp’s chief executive officer, Virginia Masters, states that
+GiniCorp learned about the contract award to Tandem from an IBM employee assigned to the
+same work. Masters states that GiniCorp requested a meeting with Kevin Green, the
+subsequent DCPS contracting officer, two weeks before the date of its April 23, 2007 protest
+letter, i.e., on April 9, 2007. GiniCorp states that Mr. Green refused to meet with GiniCorp.
+GiniCorp then mailed its protest and was received by the Board on April 27, 2007.
+
+        DCPS filed its initial Agency Report on June 11, 2007, more than 20 days late.
+Shortly thereafter, DCPS engaged outside counsel to represent it. DCPS filed a combined
+supplemental Agency Report and a motion to dismiss the protest on July 11, 2007. DCPS
+asserts that GiniCorp’s protest, filed on April 27, 2007, was filed more than 10 days after it
+knew or should have known of the basis of its protest, and therefore, the protest should be
+                                                -3-                      GiniCorp, CAB No. P-0757
+
+
+dismissed as untimely. On July 18, 2007, GiniCorp filed a motion to strike DCPS’s July 11
+submission and in the alternative addressed the merits of the DCPS filing.
+
+                                         DISCUSSION
+
+        We begin by addressing the threshold issue of whether GiniCorp’s protest was timely
+filed. The Procurement Practices Act provides that protests, other than challenges to the
+terms of a solicitation, “shall be filed no later than ten (10) business days after the basis of
+protest is known or should have been known.” D.C. Code §2-309.08(b)(2). See Sigal
+Construction Corp., CAB No. P-0690, et al., Nov. 24, 2004, 52 D.C. Reg. 4243, 4253-54;
+Professional Recruiters, Inc., CAB No. P-0700, Dec. 21, 2004, 52 D.C. Reg. 4258, 4259-60.
+
+        In the motion to dismiss, DCPS asserts that GiniCorp filed its protest more than 10
+days after the date in January 2007 that the contracting officer, by telephone and email,
+informed GiniCorp that its proposal was no longer in the competitive range. GiniCorp moved
+to strike DCPS’s motion to dismiss, asserting that DCPS could not file a motion to dismiss
+after DCPS had already filed a late Agency Report. DCPS’s supplementation of the deficient
+initial Agency Report was entirely consistent with our order on July 11 for such
+supplementation. Nothing in our order or in our rules prohibited DCPS from including a
+motion to dismiss on timeliness in this submission. GiniCorp did not request additional time
+to respond to the submission and we cannot conclude that GiniCorp was prejudiced by the
+supplemental submissions of DCPS. Indeed, we find merit in DCPS’s argument that
+GiniCorp untimely filed its protest.
+
+         Although the protest record was extended unnecessarily by DCPS’s failure to file its
+initial June 11 Agency Report in a timely manner, and further by DCPS’s failure to raise the
+timeliness issue in that submission, DCPS cured its inadequate June 11 submission when its
+newly retained outside counsel filed the supplemental pleadings on July 11 and July 12, 2007.
+The protest record also has been hampered by DCPS’s failure to locate and file a copy of the
+email message which Toorie states he sent to Masters in January 2007. Notwithstanding
+DCPS’s poor record keeping on this procurement, a situation we expect will not be repeated
+in the future, we find that the uncontradicted statement by Toorie that he informed Masters by
+telephone in January 2007 that GiniCorp had been excluded from the competition, renders the
+April 27 protest of GiniCorp untimely. As we found above, nothing in Masters’ affidavit
+directly and unambiguously contradicts Toorie’s recollection of the January telephone
+conversation. Because GiniCorp filed its protest on April 27, 2007, more than 10 business
+days after learning of its exclusion from the competition in January 2007, GiniCorp’s protest
+is untimely.
+
+       We have concerns about the methods used by DCPS to notify unsuccessful offerors
+about significant procurement actions. In this matter, the original contracting officer, no
+longer employed by DCPS, notified the offeror by telephone and email that the offeror had
+been excluded from the competitive range. The contracting officer should have documented
+contemporaneously his actions in the contract file, not leaving it to an affidavit after a protest
+has been filed. Moreover, contracting officers should notify bidders and offerors in writing
+                                             -4-                     GiniCorp, CAB No. P-0757
+
+
+and without delay when making determinations such as to award or not to consider further a
+firm’s bid or offer.
+
+                                     CONCLUSION
+
+       For the reasons discussed above, we dismiss GiniCorp’s protest as untimely filed.
+
+
+DATED: August 14, 2007                             /s/ Warren J. Nash
+                                                   WARREN J. NASH
+                                                   Administrative Judge
+
+CONCURRING:
+
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

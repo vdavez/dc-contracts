@@ -1,0 +1,299 @@
+District of Columbia Regis'fer                                                                                     JUN 1 0 1994
+
+
+                                 GOVERNMENT OF THE DISTRICf OF COLUMBIA
+                                       CONTRACT APPEALS BOARD
+
+
+
+             PROTEST:
+
+                     SCIENTIFIC GAMES, INC.                                    )
+                                                                               )        CAB No. P-294
+                     Under Contract No. DC-91-001                              )
+
+
+
+                    For the Protestor: David P. Towey, Esquire, and Joseph J. Petrillo, Esquire. For the
+             Government: Anne Cauman and Nancy Hapeman, Assistants Corporation Counsel. For
+             the Intervenor, G-Tech Corporation: Robert P. Watldns, Esquire.
+
+                  Opinion by Administrative Judge Cynthia G. Hawldns-Le6n, with Administrative
+            Judges Zoe Bush and Terry Hart Lee concurring.
+
+
+                                                            OPINION
+
+                    On August 16, 1991, Scientific Games, Inc. ("Protestor" or "Scientific Games") timely
+            filed the instant protest of the award of a contract for instant or "scratch off' ticket
+            production under Request for Proposal No. DC-91-001 by the District of Columbia Lottery
+            and Charitable Games Control Board ("District" or "Lottery Board"))! The awardee of this
+            contract is G-Tech Corporation ("G-Tech").
+
+                   Scientific Games alleged the following: (1) the Lottery Board failed to disclose both
+            the identity of the offerors and any justification for the award of the contract; and (2) the
+            choice of G-Tech as the awardee is neither appropriate nor justifiable.
+
+                    In its October 10, 1991 response Y to the District's Agency Report, which had been
+            filed on September 16, 1991, Protestor presented eight (8) addition~l allegations. The Board
+            granted the District's motion to dismiss those allegations.~1 The Board limited the scope
+            of the protest to two issues as follows: (1) whether the Lottery Board properly determined
+            G-Tech to be responsible in carrying out security measures as required by the modified
+
+
+               lIThe Lottery Board is an independent agency of the District of Columbia. This protest of an action of an
+            independent agency is properly before the Board pursuant to Board Rule 101.8, 36 DCR 2686 (1989).
+
+               ~/By an Order dated October 3, 1991 (Bush, AJ), the Board granted Protestor's Motion for an Enlargement
+            of Time to file its comments to the Agency Report. Thus, Protestor's comments were filed in a timely manner.
+
+              :YOrder and Opinion, issued March 11, 1992 (Terner, AJ (retired)).
+
+
+
+
+                                                          3666
+District of Columbia RegIster                                                                                             JUN f 0 1994
+
+
+                                                                    -2-                    CAB No. P·294, Scientific Games, Inc.
+
+             contract document(s); and (2) whether the Lottery Board awarded the contract to the lowest
+             and most technically competent bidder as required by D.C. Code § 2-2536(b) (1988).1'
+
+                   G-Tech intervened in the proceeding and filed its comments on the Agency Report
+             on September 30, 1991.
+
+                    As an independent government agency, the Lottery Board is not subject to the
+            Procurement Practices Act of 1985, D.C. Code § § 1-1181 et seq. (1992) ("PPA"). Pursuant
+            to Section 4 of D.C. Law 3-172, D.C. Code § 2-2536, the Lottery Board has promulgated its
+            own procurement regulations. See 36 DCR 6681 et seq. (September 22, 198Q). Certain
+            portions of the D.C. Procurement Regulations, 27 DCMR § § 1000 et seq. (1988), are
+            incorporated in the Lottery Board's procurement regulations. Specifically, the Lottery
+            Board's definition of "responsible bidder or offeror" in section 2099 of its procurement
+            regulations (36 DCR 6706) tracks the definition in the PP A. Compare D.C. Code § 1-
+            1181. 7( 4). In addition, the Lottery Board has adopted the responsibility provision of the
+            D.C. Procurement Regulations. See § 2014.1 of Lottery Board Regulations. (36 DCR
+            6691).
+
+                                                       FINDINGS OF FACT
+
+                    1.      On March 25, 1991, the Lottery Board issued Request for Proposals No. DC-
+            91-001 (flRFPfI) for the production of instant lottery tickets, including the manufacture of the
+            instant tickets, lottery consultation and validation. (Exhibit 1)Y
+
+                    2.     On March 29, 1991, the Lottery Board issued Amendment No.1 to the RFP
+            changing the date of the pre-proposal conference from April 12, 1991, to April 9, 1991.
+            (Exhibit 2). On April 17, 1991, the Lottery Board issued Amendment No.2 to the RFP
+            amending several sections of the RFP. (Exhibit 3). On the same date, the Lottery Boarci
+            also issued responses to questions raised at the pre-proposal conference. (Exhibit 4).
+
+                    3.     The Lottery Board received timely proposals from three offerors, G-Tech,
+            Scientific Games, and Dittler Brothers, prior to the April 25, 1991 4:30 p.m. deadline.
+            (Exhibits 5, 6, and 7).
+
+                   4.     After preliminary evaluation of the three proposals, the Lottery Board held
+            separate telephone conferences with each of the offerors concerning their proposals.
+            (Exhibits 11, 12, and 13). As a result of the telephone conferences, the offerors were
+            requested to submit Best and Final Offers ("BAFOsfl) by May 25, 1991.
+
+
+              :Yln light of the fact that the procedural history of this case is rather tortuous and, for the most part, has
+           been previously reported, the Board, in this opinion, will not repeat the procedural history in its entirety. Id.
+
+              ~/Unless otherwise specified, all exhibits referred to are exhibits to the initial "Agency Report of the District
+           of Columbia" filed with the CAB on September 16, 1991.
+
+
+
+
+                                                            3667
+District of Columbia Register                                                                               JUN 10 19M
+
+
+                                                          -3-               CAB No. P-294, Scientific Games, Inc.
+
+                   5.    The RFP established evaluation criteria for both technical and price aspects
+            of the proposals and provided the maximum possible points available in both areas. The
+            price accounted for 50 points and the technical score accounted for 80 points. The
+            maximum possible points available were 130 points. (Exhibit 1, sec. 2.1, as amended by
+            Exhibit 3).
+
+                   6.      Technical proposals and BAFOs were evaluated by a four member committee.
+            (Exhibit 13). The proposals and BAFOs were evaluated in accordance with the evaluation
+            factors of the RFP. (Exhibits 1 and 13). The technical evaluation committee's report
+            indicates that all three offerors met the Lottery Board's minimum needs and that Scientific
+            Games had the highest technical score by a slight margin. In summarizing the results of the
+            evaluation, the report stated: "All of the offerors demonstrate the ability to provide the
+            Agency with instant ticket production services. However, based on the points awarded the
+            technical proposal, Scientific Games has a slight edge over the others." The final average
+            technical scores were:
+
+                            Scientific Games            75.8
+                            G-Tech                      72.9
+                            Dittler Brothers            72.1
+
+            (Exhibit 13, including attached Evaluation Report for Instant Ticket Production, dated May
+            24, 1991).
+
+                    7.     The price proposals were evaluated by the Lottery Board's Financial Officer.
+            After submission of BAFOs, G-Tech had submitted the proposal with the lowest price. The
+            final price scores were:
+
+                            G-Tech                      50.0
+                            Dittler Brothers            41.2
+                            Scientific Games            33.7
+
+            (Exhibit 13).
+
+                   8.       With technical scores and price scores added together, the final total scores
+           were:
+
+                            G-Tech                      122.9
+                            Dittler Brothers            113.3
+                            Scientific Games            109.6
+
+           (Exhibit 13)
+
+                  9.     With the highest total score, G-Tech became the recommended awardee.
+           (Exhibits 13 and 14A).
+
+
+
+
+                                                    3668
+DisIrict of Columbia RegiSter                                                                               JUN 1 0 1994
+
+
+                                                         -4-                CAB No. P-294, Scientific Games, Inc.
+
+                   10.    The RFP provided the Lottery Board with the option of conducting a pre-
+             award survey of the production facility of the recommended awardee. (Exhibit 1, sec. 2.4,
+             as amended by Exhibit 3).
+
+                     11.    On June 6, 1991, representatives of the Lottery Board conducted, as part of
+             the responsibility determination, a pre-award survey of G-Tech's ticket production facilities
+             in Providence, Rhode Island. (Exhibits 13 and 14A). The survey team consisted of Sylvia
+             Kinard, Contracting Officer and Acting Executive Director of the Lottery Board; a Lottery
+             Board member; the Security Chief of the Lottery Board; and the Automated Information
+             Systems Chief pf the Lottery Board. (Exhibit 14A). The survey showed that G-Tech's
+             security system was accurately described in G-Tech's proposal and that overall the system
+             was good. However, the survey indicated four areas where the Lottery Board's Security
+             Chief wanted minor modifications to enhance the system. G-Tech agreed to make the
+             requested modifications. The requested modifications did not involve modifications of
+             aspects of the security system evaluated in terms of the Lottery Board's minimum needs as
+             stated in the RFP. (Exhibits 14A and 14).
+
+                   12.     On June 25,1991, the Contracting Officer issued a Determination and Findings
+             ("D&P') of G-Tech's responsibility and at the same time approved the recommended
+            contract award to G-Tech. (Exhibits 13 and 14A). In issuing the D&F of Contractor's
+            Responsibility, the Contracting Officer had reviewed considerable information about G-Tech.
+            The information reviewed included: two positive references from satisfied customers for
+            whom G-Tech had provided instant lottery tickets and related administrative and marketing
+            support; evidence of G-Tech's extensive experience in providing instant tickets in foreign
+            countries; significant financial information; and a Security Inspection Report. (Exhibit 14A).
+            The Contracting Officer had also reviewed the technical and price evaluations of the
+            proposals and a comparison of G-Tech's proposed prices with those of an existing contractor
+            in recommending award of the contract to G-Tecil. (Exhibits 13 and 14A).
+
+                   13.     On that same date Karen Rooths, Procurement Officer of the Lottery Board,
+            formally presented the responsibility determination and recommendation of award to the
+            Lottery Board. (Exhibits 13 and 14A; Exhibit 1 to Protestor's Opposition to the District's
+            Motion to Dismiss New Allegations). The Lottery Board had some questions about the
+            responsibility determination and G-Tech's security system. (Exhibit 1 to Protestor's
+            Opposition to the District's Motion to Dismiss New Allegations).
+
+                   14.    On June 28, 1991, at the request of the Contracting Officer, Ms. Rooths
+            presented to the Lottery Board further information concerning G-Tech's responsibility. This
+            information included confirmation that G-Tech agreed to make all recommended minor
+            modifications to the security system prior to award. On receipt of this information, the
+            Lottery Board voted unanimously to award the contract to G-Tech. (Exhibit 1 to Protestor's
+            Opposition to the District's Motion to Dismiss New Allegations).
+
+
+
+
+                                                  3669
+District of Columbia Register                                                                                 JUN , 0 1994
+
+
+                                                          -5-                 CAB No. P·294, Scientific Games, Inc.
+
+                    15.   On August 5, 1991, the Lottery Board sent letters to the other offerors
+            notifying them of the recommended award to G-Tech. (Exhibits 15 and 16).
+
+                  16.    On August 9, 1991, the Lottery Board awarded Contract No. DC-91-001 to G-
+            Tech. The minor modifications to the security system made pursuant to the responsibility
+            determination were memorialized in the contract. (Exhibit 17).
+
+                    17.   On August 15, 1991, the Lottery Board sent letters to the other offerors
+            notifying them of the award to G-Tech and of their right to request a debriefing. (Exhibits
+            18 and 19).
+
+                    18.    On August 16, 1991, Scientific Games filed the instant protest with the Board.
+
+
+                                                      DECISION
+
+                    As the facts demonstrate, Scientific Games was third in line for the contract award.
+            (Finding of Fact No.8). Consequently, it is not in line for the award of the contract should
+            the protest be sustained and, therefore, is not an interested party for purposes of the Board's
+            jurisdiction. See Unfoldment, Inc., CAB No. P-358, 6 P.D. 5399 (September 17, 1993);
+            O'Donnell Construction Company, CAB No. P-340, 40 DCR 5063 (April 2, 1993); MTI
+            Recyc. A Joint Venture, CAB P-287, 40 DCR 4554 (October 10, 1992).
+
+                    In its Agency Report, the District stated that Scientific Games' allegations of G-Tech's
+            nonresponsibility are "not based on or supported by any evidence. . ., and are merely
+            speculative and should be totally disregarded .... " (Agency Report at 5). The Board
+            agrees.
+
+                  Therefore, even if Scientific Games were an interested party and had standing to
+           bring this protest, Scientific Games has failed to prove by a preponderance of the evidence
+           that the responsibility determination of the contracting officer should be overturned. See
+           Penta grid Communication & Engineering, CAB No. P-331, 40 DCR 5041 (March 22, 1993);
+           Androsphinx Oeaning Service, Ltd., CAB No. P-113, 38 DCR 2989 (October 30, 1989). In
+           addition, the Board's reversal of an affirmative determination of responsibility would require
+           that the protestor prove possible fraud or bad faith on the part of government officials or
+           that the determination lacks any reasonable basis. See Ideal Electrical Supply Corp., CAB
+           No. 372, 6 P.D. 5346 (August 13, 1993); Theodor Arndt GmbH & Co., B-237180, 90-1 CPD
+           ! 64 (1990). The Board finds that Scientific Games has failed to meet any of these
+           requirements.
+
+                   The Protestor alleged that certain documents have been withheld by the District the
+           release of which would enable the Protestor to more accurately determine whether the
+           District had properly awarded the contract. The Board has received copies of all
+           documents, a listing of all exhibits, and reasons for non-disclosure, if any, in accordance with
+
+
+
+
+                                                    3670
+District of Cofumbia Register                                                                               JUN 1 0 1994
+
+
+                                                         -6-                CAB No. P-294, Scientific Games, Inc.
+
+             Board Rule 305.3. (See Agency Report, Index of Exhibits). Our review reveals no reason
+             for further disclosure to the Protestor of documents relating to trade secrets held by G-Tech
+             or that may provide a competitive advantage to Scientific Games. The purpose of the
+             limited discovery procedure is not to allow unspecified and uncharted "fishing expeditions"
+             by the Protestor into confidential documents in search of grounds for their protests.
+
+                   Therefore, based upon the facts, legal precedent and reasoning as set forth above,
+            the protest is DISMISSED, with prejudice.
+
+
+            DATE:       september 24, 1993
+                                                                      CYNTHIA G. HAWKINS-LEON
+                                                                      Administrative Judge
+
+
+
+
+            CONCUR:
+
+
+
+
+                                                 . 3671.
+

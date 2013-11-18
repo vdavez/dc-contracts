@@ -1,0 +1,186 @@
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+APPEALS OF:
+
+DOXA, INC.                                 )
+                                           )
+Under Contracts regarding                  )          CAB Nos. D-1284 and D-1285
+D.C. PSC Formal Case Nos. 766, 945,        )
+982, 991, 1002, 1009, 1017, 1023, and 1026 )
+
+
+      For the Appellant DOXA, Inc.: Mr. Karl Richard Pavlovic, pro se. For the District of
+Columbia Office of People’s Counsel: Barbara L. Burton, Esq., Assistant People’s Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+
+                    OPINION ON MOTION FOR RECONSIDERATION
+                                    LexisNexis Filing ID 13264100
+
+       Appellant DOXA, Inc., moves for reconsideration of the Board’s decision dismissing
+DOXA’s appeals seeking interest penalties for late contract payments pursuant to the Quick Payment
+Act (“QPA”), D.C. Code §§ 2-221.01 to 2-221.06 (2001), against the District of Columbia Office of
+People’s Counsel (“OPC”) which is statutorily within the District of Columbia Public Service
+Commission (“PSC”). In our decision, we held that the QPA and the Procurement Practices Act
+(“PPA”) do not apply to OPC because it enjoys the same exemption from the QPA and PPA as the
+PSC. DOXA argues that we incorrectly concluded that OPC remains exempt from the QPA and
+PPA after the Procurement Reform Amendment Act of 1996 expanded the scope of the QPA and
+PPA to include “independent agencies” of the District Government. DOXA also argues that our
+decision contradicts our earlier decision in Curtis Chevrolet, CAB No. D-1116, Jan. 25, 2001, where
+we held that the District of Columbia Housing Authority was subject to the QPA. As discussed
+below, we see no legal error in our holding that the OPC is not subject to the QPA. Accordingly, we
+deny the motion for reconsideration.
+
+                                        BACKGROUND
+
+        DOXA performed consulting services for the Office of People’s Counsel relating to Public
+Service Commission Formal Case Nos. 766, 945, 982, 991, 1002, 1009, 1017, 1023, and 1026 before
+the Public Service Commission from 1999 through 2005. DOXA payment invoices submitted to the
+Office of People’s Counsel were paid, although many payments were made more than 30 days after
+the invoice date. In September 2005, DOXA submitted claims to OPC for interest penalties pursuant
+to the Quick Payment Act on the invoices which were paid late. OPC made no decision respecting
+the QPA claims, and on December 23, 2005, DOXA filed notices of appeal with the Board based on
+OPC’s deemed denials of its claims. OPC moved to dismiss the appeals on the basis that OPC is not
+                                                -2-                  DOXA, Inc., CAB Nos. D-1284, D-1285
+
+
+
+subject to the QPA. We agreed and dismissed the appeals.
+
+                                          DISCUSSION
+
+        DOXA does not dispute that if the Public Service Commission is exempt from the QPA, then
+the Office of People’s Counsel is also exempt. This conclusion follows from a review of Chapter 8
+of Title 34 of the D.C. Code where OPC is created within the PSC:
+
+       There is hereby established within the Public Service Commission of the District of
+       Columbia, established by § 34-801, an office to be known as the Office of the
+       People’s Counsel. The Office shall be a party, as of right, in any investigation,
+       valuation, revaluation, or proceeding of any nature by the Public Service
+       Commission of or concerning any public utility operating in the District of
+       Columbia.
+
+D.C. Code § 34-804(a).
+
+       DOXA argues in its motion for reconsideration that we incorrectly concluded that OPC
+remains exempt from the QPA and PPA after the Procurement Reform Amendment Act of 1996
+(“PRAA”), D.C. Law 11-269, 44 D.C. Reg. 1423, expanded the scope of the QPA and PPA to
+include “independent agencies” of the District Government. DOXA cites the following language
+from the section-by-section analysis of the Council’s Report on Bill 11-705, The Procurement
+Reform Amendment Act of 1996, dated September 24, 1996, at 9:
+
+       Title III – (j) Section 310 amends D.C. Code §§1-1171 and 1-1175 (Quick Payment
+       Act) to make the quick payment provisions applicable to all District agencies and
+       recognizes the Director’s centralized role in the procurement system.
+
+Section 310 of the PRAA replaced the phrase “other than an independent agency” with “including,
+unless otherwise provided, an independent agency” as shown in the current Definitions section of the
+QPA, D.C. Code § 2-221.01 (emphasis added):
+
+              (3) “District agency” means any office, department, division, board,
+       commission, or other agency of the District government, including, unless otherwise
+       provided, an independent agency, required by law or by the Mayor or the Council to
+       administer any law or any rule adopted under the authority of a law. For the
+       purposes of this definition, the term “independent agency” means any agency of
+       government not subject to the administrative control of the Mayor and includes, but
+       is not limited to, the Superior Court of the District of Columbia, District of Columbia
+       Court of Appeals, Council of the District of Columbia, Board of Elections and
+       Ethics, Armory Board, Zoning Commission, Convention Center Board of Directors,
+       District of Columbia Board of Education, and Public Service Commission.
+
+However, the PRAA did not amend any other relevant portions of the QPA. Thus, D.C. Code § 2-
+221.02, which identifies the District agencies required to pay QPA interest penalties, was left
+                                                -3-                   DOXA, Inc., CAB Nos. D-1284, D-1285
+
+
+
+unchanged by the PRAA, and provides in relevant part (emphasis added):
+
+       (a)(1) In accordance with rules and regulations issued by the Mayor of the District
+       of Columbia (“Mayor”), each agency of the District of Columbia government
+       (“District”), under the direct control of the Mayor, which acquires property or
+       services from a business concern but which does not make payment for each
+       complete delivered item of property or service by the required payment date shall
+       pay an interest penalty to the business concern in accordance with this section on the
+       amount of the payment which is due.
+
+DOXA asserts that the phrase “under the direct control of the Mayor” remains in the QPA “due to an
+oversight in the task of conforming the QPA as amended by the PRAA.” (Motion for
+Reconsideration, at 9). Subsection (b)(1A), added by Title IX, Section 902(a)(2) of D.C. Law 12-
+175, Mar. 26, 1999, 45 D.C. Reg. 7193, 7201-02, states that “[e]ach contract executed pursuant to
+Chapter 3 of Title 2 shall include in the solicitation a description of the contractor’s rights and
+responsibilities under the chapter.” Although subsection (a) contains the qualifying language
+(“under the direct control of the Mayor”), subsections (d) and (e) – relating to contractor-
+subcontractor payments – do not qualify the term “District agency.” D.C. Code § 2-221.03 –
+relating to discount interest penalties – also refers to “District agencies” without the qualifying
+language found in section 2-221.02(a)(1). Section 2-221.04 provides for the filing of QPA claims
+and appeals to the Contract Appeals Board for “interest penalties which a District agency has failed
+to pay in accordance with the requirements of §§ 2-221.02 and 2-221.03 . . . .”
+
+        Certainly the QPA legislation, as amended by the PRAA, is not a model of clarity.
+Nonetheless, the limited question before us is whether the changes effected by the PRAA in 1997
+removed the QPA exemption for the Public Service Commission (and thus for the Office of People’s
+Counsel). We concluded in our decision that the exemption was not removed, but in view of the
+motion for reconsideration, we elaborate on our rationale. First, DOXA cannot be correct that the
+PRAA expanded the QPA applicability to all “independent agencies” as that term is defined in D.C.
+Code § 2-221.01(3) because some of the “independent agencies” – such as the Superior Court and
+the Court of Appeals – cannot be covered absent Congressional authorization. The Council
+recognized such exceptions by including the phrase “unless otherwise provided” in the “District
+agency” definition. The case of the Public Service Commission is analogous to that of the courts
+because the Commission’s plenary contracting authority was authorized by Congress, see Act of
+Mar. 4, 1913, 37 Stat. at 994, ch. 150, sec. 8, para. 95, and this authority has never been revoked by
+Congressional legislation. Second, the fact that the Council exempts the PSC from the PPA in D.C.
+Code § 2-303.20(l) supports the conclusion that the Council had no intention of questioning the
+PSC’s plenary contracting authority as provided by Congress.
+
+        In its motion, DOXA mistakenly suggests that the Board held that OPC is exempt from the
+QPA because it is exempt from the PPA. As elaborated above, we held that OPC is exempt from the
+QPA because Congress has provided plenary contracting authority to the PSC and thereby to OPC.
+Elsewhere in its motion, DOXA argues that the Board erred in concluding that the PPA exemption
+for the PSC is a “blanket” exemption. Again, for the reasons already stated, the PSC is exempt
+because Congress has provided it with independent contracting authority. In addition, DOXA
+                                               -4-                  DOXA, Inc., CAB Nos. D-1284, D-1285
+
+
+
+incorrectly asserts that none of the exemptions in section 2-303.20 are complete exemptions from the
+PPA, as are found in section 2-301.04(a). Although some exemptions, such as the one for the
+District of Columbia Housing Authority, are partial exemptions, others are complete exemptions
+such as the one for the Sports Commission.
+
+        Finally, DOXA argues that our decision is inconsistent with our prior decision in Curtis
+Chevrolet, CAB No. D-1116, Jan. 25, 2001, where we held that the District of Columbia Housing
+Authority (“DCHA”) was subject to the QPA. DCHA is quite different from the PSC and OPC
+because DCHA’s contracting authority was not created by Congressional authorization. The
+contract between Curtis Chevrolet and DCHA was entered into at a time when DCHA was subject to
+the PPA, see D.C. Law 13-105, effective May 9, 2000, 47 D.C. Reg. 1325, 1352, and, as we held,
+also subject to the QPA. DCHA did not argue that it was exempt from the QPA under the Council’s
+“as otherwise provided” qualification in D.C. Code § 2-221.01(3). Our other QPA decisions are
+consistent with this approach. See, e.g., Owen E. Jackson, CAB No. D-1114, Mar. 31, 2005, 2005
+DCBCA Lexis 2 (QPA applicable to DCPS subsequent to PRAA); HRGM Corp., CAB No. D-1201,
+Aug. 19, 2003, 52 D.C. Reg. 4131 (same); Unfoldment, Inc., CAB No. D-1062, Mar. 20, 2002, 50
+D.C. Reg. 7404 (QPA applicable to D.C. Child and Family Services Agency); cf. Hood’s
+International Foods, Inc., CAB No. D-0996, Feb. 20, 1998, 45 D.C. Reg. 8742 (QPA not applicable
+to DCPS prior to PRAA); Lutheran Social Services, CAB No. D-1030, July 8, 1998, 45 D.C. Reg.
+8779 (QPA applicable to Commission on Mental Health).
+
+       For the reasons discussed above, we deny DOXA’s motion for reconsideration.
+
+       SO ORDERED.
+
+DATED: December 22, 2006                             /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+
