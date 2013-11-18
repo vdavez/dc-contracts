@@ -45,17 +45,15 @@ function get_file_info (filename) {
   return f;
 }
 
+/--
 function load_text_file (filename) {
-	var f = "";
-	$.ajax({
-		url: filename,
-		async: false,
-		dataType: 'txt'
-		success: function (data) {
-			f = data;
-		}
+	var f = String(filename);
+	$.get(f, function (data) {
+		document.getElementById("preview_container").innerHTML = data;
+		alert = data;
 	});
 }
+--/
 
 </script>
 	</head>
@@ -71,7 +69,7 @@ function load_text_file (filename) {
 		<div id="results_container"></div>
 		<div id="preview_container"></div>
 
-<!-- This is where I'm going to pull the -->
+	<!-- This is where I'm going to pull the txt file-->
 
 	</body>
 </html>
