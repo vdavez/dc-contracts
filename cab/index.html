@@ -22,7 +22,7 @@ function get_results () {
 		fname = 'raw/' + row + '.json';
 		case_info = get_file_info (fname);
 		out = out + "<li>";
-		out = out + '<a href="' + fname + '">' + case_info + '</a>';
+		out = out + '<a href="' + case_info[1] + '" target="_blank">' + case_info[0] + '</a>';
 		out = out + "</li>";
 	}
 	out = out + "</ul>";
@@ -30,17 +30,31 @@ function get_results () {
 }
 
 function get_file_info (filename) {
-  var f = "";
+  var f = [];
   $.ajax({
   	url: filename,
   	async: false,
   	type: 'get',
   	dataType: 'json',
   	success: function(data){
-  		f = data.description;
+  		f.push(data.description);
+  		opinion_text = 'opinions/txt/' + data.case_number + '_' + data.date_filed.replace(/\//g,"-") + '.txt';
+  		f.push(opinion_text);
   	}
   });
   return f;
+}
+
+function load_text_file (filename) {
+	var f = "";
+	$.ajax({
+		url: filename,
+		async: false,
+		dataType: 'txt'
+		success: function (data) {
+			f = data;
+		}
+	});
 }
 
 </script>
@@ -56,5 +70,8 @@ function get_file_info (filename) {
 		</div>
 		<div id="results_container"></div>
 		<div id="preview_container"></div>
+
+<!-- This is where I'm going to pull the -->
+
 	</body>
 </html>
