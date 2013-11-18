@@ -1,0 +1,1258 @@
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+UNFOLDMENT, INC.                            )
+                                            )       CAB No. D-1062
+Under Contract No. 7KGC09                   )
+
+
+      For the Appellant: Kemi Morten, Esq., and Brian Lederer, Esq. For the Appellee: Chad
+Copeland, Esq., Assistant Attorney General, Office of the Attorney General.
+
+      Opinion By: Chief Administrative Judge Marc D. Loud, Sr., with Administrative Judges
+Monica C. Parchment, and Maxine E. McBean, concurring.
+
+                            DECISION AND MEMORANDUM OPINION
+                                                Filing ID #51151706
+
+        This is a dispute action brought by Unfoldment, Inc. (Unfoldment or appellant) against
+the D.C. Child and Family Services Agency (CFSA or appellee) alleging bad faith failure to pay
+contract minimums, bad faith racial animus, and termination for convenience. The allegations
+pertain to appellant’s 1997 contract with CFSA to provide residential group home services to
+District youth. The Board conducted a trial from March 23-31, 2010, eliciting testimony from
+over a dozen witnesses called by the appellant1. The District did not call any witnesses. Upon
+review of the entire record herein, and for the reasons set forth more fully below, appellant’s
+claims are dismissed for lack of merit.
+
+                                                BACKGROUND
+
+       This case has a long and convoluted 15 year history of litigation before our Board, on
+appeal to the D.C. Court of Appeals, in federal district court, and back on remand to our Board.
+During this period, the parties have litigated numerous claims, and have also settled much of
+their original dispute2. Before the Board presently are appellant’s three surviving claims.
+Although the history of this case has been set forth previously in Unfoldment, Inc. v. D.C.
+Contract Appeals Bd., 909 A.2d 204 (D.C. 2006), such additional background and procedural
+posture as requires retelling for purposes of disposition is set forth below.
+
+        In June 1997, Unfoldment and CFSA3 entered into a $1.8 million contract, the terms of
+
+1
+  The trial was conducted by a previous Board panel; none of whom are presently members of the Board. The
+present Board panel has reviewed the trial transcript, appeal file, appeal file supplement, hearing exhibits, post
+hearing briefs, and the entire record herein in rendering this decision.
+2
+  To date, the parties have settled appellant’s original claims for unpaid invoices and contract minimums. Notice of
+Dismissal With Prejudice Regarding Unfoldment’s Claim For Unpaid Invoices (Aug. 21, 2003); Notice of Dismissal
+With Prejudice Regarding Unfoldment’s Contract Minimums Claim (Sept. 11, 2007).
+3
+  At all times material hereto, CFSA was an independent receivership of the D.C. government. On October 1, 2001,
+CFSA’s status reverted back to an agency of the District government. Appeal of Unfoldment, CAB No. D-1062, 50
+                                                       -2-                    Unfoldment, Inc., CAB No. D-1062
+
+
+
+which required the appellant to provide continuing residential group home care services to
+District youth between the ages of nine to 21. Unfoldment, 909 A.2d at 206; Appeal File 1 (AF).
+The base year contract term was July 1, 1997, to June 30, 1998. Id. at 206, n.1. The contract
+included four possible one-year options. Appeal of Unfoldment, CAB No. D-1062, 50 D.C. Reg.
+7404 (Mar. 20, 2002); AF 1, 16-17. After two brief contract extensions at the end of the base
+year, CFSA notified Unfoldment in an October 28, 1998, letter that “we will not renew the
+option to contract for further services through your agency effective 60 days from the date of this
+letter.” 909 A.2d. at 207; AF 6. Unfoldment appealed CFSA’s non-renewal (and other matters
+described below) to our Board on October 30, 1998. Appeal File Supplement (AFS) 137.
+
+        The enduring longevity of this case can be attributed to two central issues disputed by the
+parties from the very beginning. First, the parties have championed directly opposite theories
+regarding how their contract ended in 1998 (termination versus expiration). Second, the parties
+have contested the issue of whether monies were due on the contract for “unpaid invoices” at the
+time of the termination/expiration.
+
+        In particular, Unfoldment has consistently disputed that the parties’ contract “expired” at
+the end of the base year. Appellant has always contended that its contract was terminated by
+CFSA for default after a June 1998 performance evaluation concluded that Unfoldment
+performed the contract poorly.4 In this regard, appellant’s key claims have been for default5 and
+convenience terminations,6 as well as for bad faith.7 CFSA, on the other hand, has always
+asserted that the parties’ contract expired under its own terms. Mot. To Dismiss The Compl., Or
+In The Alt., For Summ. J. 3, 6-10 (Nov. 30, 2001); Resp’t District of Columbia’s Trial Mem. 6,
+31-34 (Aug. 2, 2010).
+
+       Further, from the very beginning, Unfoldment has asserted claims for unpaid invoices of
+two types: “actual” and “adjusted.” By “actual” invoices, appellant refers to invoices it
+submitted during the contract period for services provided to youth actually placed in
+Unfoldment’s care. The total amount claimed by appellant for these invoices fluctuated over
+time, but ranged from a low of “$100,000” to a high of “$350,000.”8 By “adjusted” invoices,
+appellant refers to invoices it submitted during the contract period for contract minimum
+payments.9 Similarly, the amount claimed by appellant for adjusted invoices has fluctuated over
+
+
+D.C. Reg. 7404, 7405 (March 20, 2002).
+4
+  Compl. ¶ 40 (Dec. 4, 1998); Am. Compl. ¶¶ 15, 44, 45, 55 (Oct. 17, 2001); Third Am. Compl. ¶¶ 107-109, 120,
+125 (Oct. 29, 2008).
+5
+  Compl. ¶40; Am. Compl. ¶21.
+6
+  Am. Compl. ¶80; Third Am. Compl. ¶140.
+7
+  Compl. ¶67; Am. Compl. ¶90; Third Am. Compl. ¶139.
+8
+  Appellant’s claim letter alleged unpaid invoices and interest claims totaling $350,000. AFS 137. Appellant’s
+initial complaint alleged unpaid invoices and interest totaling $220,000. Compl. ¶¶ 65, 67. Appellant’s amended
+complaint alleged damages for unpaid invoices and interest “in an amount as yet undetermined in excess of
+$100,000”. Am. Compl. ¶73.
+9
+  The Appellant’s claim for adjusted invoices/ contract minimums is found as follows: Compl. ¶24; Am. Compl.
+¶27; Third Am. Compl. ¶¶66, 67, 137(b); see also Appellant’s Opp’n to Gov’t Mot. to Dismiss, or, in the Alt., for
+Summ. J. ¶28 (Dec. 19, 2001); Appellant’s Post Trial Br. 32-33. We use the terms “adjusted” invoices and “contract
+minimums” interchangeably herein. The appellant uses the terms interchangeably in its pleadings, and the Board’s
+March 20, 2002, decision discusses “minimum contract payments” under the heading titled, “Adjusted invoices”.
+                                                        -3-                     Unfoldment, Inc., CAB No. D-1062
+
+
+
+the years.10 CFSA, on the other hand, historically denied that it owed payments on either invoice
+type (actual or adjusted). Agency Answer and Mot. To Dismiss 13 (Jan. 22, 1999).
+
+        In 2002, the Board took its first step toward resolving the case upon issuance of its
+decision in Unfoldment, 50 D.C. Reg. 7404. In Unfoldment, our ruling addressed both key
+issues, i.e., whether unpaid invoices were due appellant at the time the contract ended, and
+whether the parties’ contract expired or was terminated by appellee. With respect to unpaid
+invoices, we ruled that Unfoldment had a right to pursue its claim for actual unpaid invoices, but
+not for the adjusted ones, i.e., the contract minimum invoices. Id. at 7409. With respect to
+appellant’s adjusted invoices, the Board ruled that “the contract had no minimum, only a
+maximum, and the contract only permits payment for the actual number of youth who were
+placed in Unfoldment’s facilities” Id.
+
+        With respect to contract expiration, we dismissed appellant’s claims for default and/or
+convenience terminations, holding that “the contract expired under its own terms”. Id. at 7409.
+In addition, we dismissed all of appellant’s other claims, noting that “[n]o other claims which
+Unfoldment has presented hold any merit.” Id. at 7411. Thus, appellant’s bad faith claims and a
+host of marginal claims were dismissed as “irrelevant to what is material in the case.” Id. at
+7408-7410 (also dismissing appellant’s claims for mitigation of damages, close out costs, refusal
+to pay settlement costs, defamation, interference with contractual relations, and attorneys’ fees).
+
+        The immediate effect, therefore, of the Board’s 2002 decision was to reduce appellant’s
+entire action to a single claim for recovery of its “actual” unpaid invoices. The Board’s
+simplification of claims was only temporary, however, because Unfoldment filed an immediate
+petition for review with the D.C. Court of Appeals. The case remained on appeal for the next
+four years. While pending appellate review, the parties settled appellant’s “actual” invoices claim
+but not its claims for the adjusted invoices, contract termination, and bad faith.11
+
+         In 2006, the D.C. Court of Appeals issued a twofold ruling on the Board’s 2002 decision.
+First, the court rejected our dismissal of appellant’s contract minimum claim. 909 A.2d 204, 206.
+Second, the court affirmed our dismissal of appellant’s remaining claims, including its claims for
+contract termination, and all of its bad faith claims except as to contract minimums. Id. (“we
+affirm the CAB’s decision regarding Unfoldment’s other claims”). As regards appellant’s
+contract minimum claim, the Court remanded it to the Board to determine the exact minimum
+placement requirement under the 1997 contract, the compensation due appellant based on the
+minimum, and whether CFSA’s failure to pay contract minimums amounted to bad faith.12 In
+
+10
+   The adjusted invoices that appellant purportedly submitted to CFSA during the 17 month contract period averaged
+$108,554 per month. AFS 19-35. Appellant’s post-hearing brief identifies $89,450/monthly as the minimum
+required payment under the contract. Appellant’s Post Trial Br. 32-33.
+11
+   In 2003, appellant’s claims for the actual unpaid invoices and interest were dismissed by the Board with prejudice
+following settlement by the parties. Notice of Dismissal with Prejudice Regarding Unfoldment’s Claim for Unpaid
+Invoices (Aug. 21, 2003).
+12
+   Explaining its reasoning, the court noted the following: “It is clear from these documents [RFP, etc.], which are
+incorporated into and made part of the contract, that the contract stated a minimum placement requirement, that
+CFSA was bound to pay Unfoldment at least for that minimum, and that CFSA should have obligated the amount of
+budget authority needed to cover the minimum placement requirement. Failure to pay the minimum during the initial
+one-year period of the contract constitutes a breach of Unfoldment’s contract”. 909 A.2d at 212.
+                                                         -4-                      Unfoldment, Inc., CAB No. D-1062
+
+
+
+2007, the parties settled the contract minimum claim, but expressly excluded its bad faith
+component from the settlement.13 As a result, the sole remand issue before our Board as of 2007
+was whether CFSA’s failure to pay the contract minimum amounted to bad faith.
+
+        In 2008, however, the appellant filed a third amended complaint containing five counts of
+alleged breach by appellee. Appellant’s Third Am. Compl. (Oct. 29, 2008). Since appellant’s
+third amended complaint largely reasserted claims already dismissed by the Board in 2002, we
+dismissed most of the counts as either previously “settled,” “abandoned,” or “dismissed” by the
+Board … and affirmed by the Court [of Appeals].” Order on The District’s Mot. to Dismiss
+Unfoldment’s Third Am. Compl., CAB No. 1062, September 24, 2009. However, the Board
+allowed appellant to revive two previously dismissed claims: convenience termination and bad
+faith breach of contract. As to each, we ruled that new evidence not available prior to 2008
+warranted an additional review. Id.
+
+        The “new evidence” allegedly uncovered by appellant in 2008 consisted of two types.
+The first category of new evidence related to appellant’s contract termination claim. As to such,
+appellant contended that two December 2000 CFSA staff documents and a 2008 affidavit by
+CFSA’s former Deputy Receiver corroborated its theory of a default termination that was later
+converted by CFSA into a convenience termination. Appellant’s Opp’n to Gov’t Mot. to
+Dismiss, Mot. for Partial Summ. J. and Mem. of P. & A. in Support Thereof and Mot. for Rule
+11 Sanctions 5 (Dec. 20, 2008) (hereafter “Appellant’s Opp’n to Gov’t Mot. to Dismiss”).
+Appellant contended that the above information became available for the first time in 2008.14
+
+        The second type of “new evidence” relied upon by the appellant pertained to its
+previously dismissed bad faith claims. As to such, appellant contended that two white former
+CFSA contract officials with responsibility for Unfoldment’s contract acted with “racial animus”
+toward it. Appellant’s Opp’n to Gov’t Mot. to Dismiss 8. Appellant asserted that it discovered
+the alleged racial animus sometime “[f]ollowing the Court of Appeals remand” through the case
+of Mintz v. D.C., C.A. No. 00-0539 (D.D.C. May 30, 2006).15 Appellant’s Opp’n to Gov’t Mot.
+to Dismiss 8. Appellant asserted that Mintz established that the two officials were found to have
+held “racial animus” against two of their African American co-workers in an unrelated
+employment discrimination lawsuit. Id. As a result, the Board allowed Unfoldment’s renewed
+bad faith claim and noted that the question of whether there was a nexus between the allegations
+in Mintz and the alleged racial animus instantly would be resolved by the Board as part of the
+merits disposition.16
+13
+   Notice of Dismissal With Prejudice Regarding Unfoldment’s Contract Minimums Claim (Sept. 11, 2007).
+14
+     Appellant’s Opp’n to Gov’t Mot. to Dismiss 5 (“Unfoldment obtained evidence that [CFSA] terminated
+Unfoldment’s contract for cause; namely for failing to cure the deficiencies cited by John Oppedisano [and] … [i]n
+September 2008, Unfoldment learned for the first time that [CFSA] converted the default termination to a
+termination for the government’s convenience”.) The two CFSA staff documents were written by “Yolanda
+McKinley” (management analyst to the CFSA Deputy Receiver), and according to appellant were not known until
+“a December 5, 2008, documents request” to CFSA. Id. at 6. The affidavit from the former CFSA Deputy Receiver
+was executed on September 16, 2008. AFS 109.
+15
+   See http://www.gpo.gov/fdsys/pkg/USCOURTS-dcd-1_00-cv-00539/pdf/USCOURTS-dcd-1_00-cv-00539-0.pdf.
+16
+   Specifically, the Board stated that “(1) [it] would consider whether the decision in the [Mintz case] has any
+estoppel or preclusive effect on the question of racial discrimination or animus on the part of [the CFSA contract
+officials], and (2) the District is not precluded from offering evidence to refute any preclusive effect from the Mintz
+case…” Order on The District’s Mot. to Dismiss Unfoldment’s Third Am. Compl., Appeal of Unfoldment, CAB
+                                                       -5-                    Unfoldment, Inc., CAB No. D-1062
+
+
+
+        Therefore, in summary, there are now three claims pending before the Board relative to
+Unfoldment’s 1997 contract with CFSA. The first issue (on remand) is whether the appellee’s
+failure to pay mandatory contract minimums amounts to bad faith. The second issue is whether
+“new evidence,” principally the two referenced December 2000 CFSA staff documents, shows
+that the parties’ contract was terminated for convenience as opposed to expiring under its own
+terms. The final issue is whether CFSA engaged in bad faith racial animus regarding its
+monitoring, evaluation, and payment under the parties’ contract.
+
+                                                DISCUSSION
+
+       We exercise jurisdiction over this matter pursuant to D.C. Code § 2-360.03(a)(2)
+(2011).17
+
+        The recitation of facts stated in the background, discussion, and conclusion sections
+constitutes the Board’s findings of fact in accord with D.C. Mun. Regs. tit. 27, § 214.2 (2002).
+Additionally, rulings on questions of law, and mixed questions of fact and law are set forth
+throughout our decision.
+
+I. Appellant’s Remand Claim for Bad Faith Non-Payment of Contract Minimums
+
+        On remand from the decision of the D.C. Court of Appeals in Unfoldment v. D.C., the
+remaining issue is whether appellee’s failure to pay the contract minimum amounts to bad faith.
+Appellant’s essential argument is that CFSA refused to pay the contract minimum because of
+“racial animus.” Our review on remand, therefore, focuses solely on whether appellant has
+established that the government acted with bad faith racial animus in failing to pay contract
+minimums.
+
+        The general rule is that public officials are presumed to act in good faith in the
+performance of their duties. See, e.g., AMI Risk Consultants, Inc., CAB No. P-0900, 2012 WL
+4753867 (May 25, 2012); C&E Services, Inc., CAB No. P-0874, 2011 WL 7402965 (May 19,
+2011); Goel Services, Inc., CAB No. P-0862, 2010 WL 5776589 (Sept. 24, 2010). Proof of a
+public official’s bad faith requires “well nigh irrefragable evidence,” which requires a showing
+of some specific intent to injure the appellant. Goel, CAB No. P-0862; C&E, CAB No. P-0874.
+Moreover, recovery for bad faith under a contract also requires that a contractor show a “direct
+connection between the alleged bad faith action and an express or implied contractual obligation
+or contract term.” Innovative (PBX) Tel. Servs., Inc. v. Dep’t of Veterans Affairs, CBCA 44,
+CBCA 45, CBCA 46, CBCA 576, 08-1 BCA ¶ 33,854 (Apr. 30, 2008); Innovative (PBX) Tel.
+Servs., Inc. v. Dep’t of Veterans Affairs, CBCA 12, 07-2 BCA ¶ 33,685 (Sept. 27, 2007). So
+long as a genuine, reasonable difference exists between the parties, it cannot be said that one
+party or the other is acting in bad faith. Innovative Tel Servs., 08-1 BCA ¶ 33,854 (addressing
+allegations that government officials denied payment to contractor in bad faith and for racially
+discriminatory reasons).
+
+No. D-1062.
+17
+  Prior to April 8, 2011, the Board exercised jurisdiction pursuant to D.C. Code § 2-309.03(a)(2) (2001). Prior to
+2001, the Board would have exercised jurisdiction pursuant to D.C. Code § 1-1189.3 (1981).
+                                                        -6-                     Unfoldment, Inc., CAB No. D-1062
+
+
+
+
+        The burden with respect to proving bad faith is on the appellant and well nigh
+irrefragable proof, is required to rebut the presumption of governmental good faith.18 Goel, CAB
+No. P-0862; C&E, CAB No. P-0874; Kora and Williams Corp., CAB No. D-839, 41 D.C. Reg.
+3954, 4120 (Mar. 7, 1991). Well nigh irrefragable proof amounts to clear and convincing
+evidence. Sword & Shield Enterprise Security, Inc. v. Gen. Servs. Admin., CBCA 2118, 12-1
+BCA ¶ 34,922 (Aug. 19, 2011) (citations omitted). Clear and convincing evidence is “evidence
+which produces in the mind of the trier of fact an abiding conviction that the truth of a factual
+contention is “highly probable.” Sword & Shield, 12-1 BCA ¶ 34,922; Innovative (PBX) Tel.
+Servs., 08-1 BCA ¶ 33,854.
+
+        We turn now to appellant’s contention that CFSA’s refusal to pay contract minimums
+during the contract period was due to racial animus. Appellant’s evidence in this regard is
+threefold. First, appellant contends that the two white CFSA contract officers denied
+Unfoldment’s bid on a separate and unrelated 1997 contract due to “race.” Appellant’s Post Trial
+Br. 32-33. Second, appellant contends that CFSA paid contract minimums to a white vendor in
+an unrelated contract for youth assessment services. Id. at 32-33. Finally, the appellant cites the
+racially discriminatory conduct attributed to the two CFSA contract officers in the Mintz
+decision, as well as co-worker testimony that the two men were heard using racially derogatory
+remarks toward CFSA’s African American employees. Id. at 9-11, 21-22. We have reviewed the
+record herein and find that appellant’s racial animus evidence is not sufficient to rebut the
+presumption of good faith as regards the remand claim. We address appellant’s three contentions
+below.
+
+         First, Unfoldment contends that CFSA’s racial animus is demonstrated by its 1997 award
+to five white vendors of a contract to provide therapeutic foster care to teen mothers and their
+babies. Appellant’s Post Trial Br. 32-33. In this regard, Unfoldment’s Executive Director
+testified that CFSA awarded the teen mothers contract to five lower ranked white vendors,
+despite Unfoldment having submitted the “number one ranked” and “best value” bid. Hr’g Tr.
+vol. 6, 1628:13-1629:13, Mar. 31, 2010. According to appellant, the reason for the award to the
+white vendors was “racial animus” and “bad faith.” Id. This argument is completely devoid of
+merit, as the record does not support a finding that Unfoldment submitted the highest ranked
+proposal in the teen mothers’ procurement.
+
+        John Oppedisano, a CFSA contracting official, testified that Unfoldment’s proposal made
+the competitive range and warranted further BAFO (best and final offer) review. Hr’g Tr. vol. 4,
+1226:14-1229:9, Mar. 29, 2010. Oppedisano’s testimony is consistent with appellant’s
+contemporaneous characterization of its proposal as being “within the competitive range” and
+noting that CFSA requested that it submit a “best and final offer.” Compl. ¶5, fn. 1, Dec. 4, 1998.
+
+18
+   Appellant’s reliance on Tecom v. U.S, 66 Fed. Cl. 736 (2005) is misplaced. Appellant’s Post Trial Br. 14-15.
+Tecom held, inter alia, that irrefragable proof is required to prove bad faith only where the government official’s
+alleged conduct is fraudulent or quasi-criminal. Tecom at 769. Tecom suggested that all other types of governmental
+bad faith could be proven by the lower “substantial evidence” test. Id. The federal claims court is not an appellate
+authority over our Board, and numerous post-2005 Board cases have not lowered the evidentiary standard in cases
+alleging bad faith. See AMI Risk Consultants, Inc.,; C&E Services, Inc.,; Goel Services, Inc. (cited supra).
+Additionally, the federal Civilian Board of Contract Appeals does not follow Tecom on this point. See, e.g., AFR v.
+HUD, CBCA 946, 09-2 BCA ¶ 34,226.
+                                                       -7-                     Unfoldment, Inc., CAB No. D-1062
+
+
+
+Further, in Unfoldment’s formal protest of the teen mothers award, the Board’s decision noted
+that while Unfoldment’s proposal was initially ranked within the competitive range, its “BAFO
+appears to show a reduction in the number of units being offered from 24 to 12” resulting in
+Unfoldment’s non-selection by CFSA. Unfoldment, Inc., CAB No. P-0843, 2010 WL 8444974
+(Nov. 2, 2010). Thus, appellant’s argument is devoid of such supporting evidence as meets the
+“clear and convincing” standard required to rebut the presumption of good faith herein.
+
+       Unfoldment next contends that CFSA’s racial animus is demonstrated by its approval of
+contract minimum payments of $41,458.33 per month to a white vendor (Managed Health
+Services) under a separate contract. Appellant’s Post Trial Br. 32-33. This argument is both
+unsupported by the record, and premised upon a false analogy. There is nothing in the record
+before the Board that demonstrates that CFSA paid Managed Health Services a monthly
+minimum of $41,458.33 (or any amount). Appellant did not offer any testimony on this issue at
+the hearing.19 The exhibits to which appellant cites on this point do not address the issue and
+were apparently cited in error.20
+
+        Moreover, it is irrelevant to the instant matter that Managed Health Services may have
+received contract minimum payments. The Managed Health Services contract was a different
+procurement than the instant group home contract. As represented in appellant’s brief, CFSA’s
+Managed Health Services contract entailed conducting assessments of CFSA youth placed in
+out-of-state residential facilities. Appellant’s Post Trial Br. at 32-33. Appellant’s comparison of
+two different contracts without first establishing that each contained the same (or substantially
+similar) contract minimum clause(s) is meaningless, and falls well below the required “clear and
+convincing” standard.
+
+        Finally, Unfoldment contends that CFSA’s racial animus is demonstrated by the allegedly
+discriminatory conduct of Jim Osborne and John Oppedisano. Appellant’s Post Trial Br. 20-21.
+Osborne and Oppedisano were CFSA staff assigned to the Unfoldment contract. Osborne was
+hired by CFSA in 1997 and served as contract specialist for the Unfoldment contract. Hr’g Tr.
+vol. 2, 371:5-373:20, Mar. 24, 2010. Oppedisano was hired by CFSA in September 1996 as a
+contract specialist on the Unfoldment contract, and served as contract administrator, contract
+chief, and contract director before leaving CFSA around May 1, 1998. Hr’g Tr. vol. 4, 989:18-
+20, Mar. 29, 2010; Hr’g Tr. vol. 4, 989:20-990:8, Mar. 29, 2010; Hr’g Tr. vol. 4, 996:7-10,
+Mar. 29, 2010; Hr’g Tr. vol. 2, 373:15-374:9, Mar. 24, 2010. Appellant contends that due to
+racial animus, “Oppedisano (and later Osborne) refused to approve the minimum order invoices,
+insisting that Unfoldment [sic] invoice was entitled to payment only for the actual number of
+client referrals.” Appellant’s Post Trial Br. 20-21, 32-33.
+
+        To substantiate its claims that the two officials acted with racial animus, the appellant
+cites (1) the hearing testimony of Christine Wheeler (Wheeler) and Mary Jo Childs (Childs), and
+(2) the racial animus allegations lodged against Oppedisano and Osborne in Mintz v. D.C., an
+19
+   The only testimony of record regarding Managed Health Services pertains to whether CFSA paid it $77,500 for
+start-up costs. Hr’g Tr. vol. 1, 87:14-88:8, Mar. 23, 2010. The issue of CFSA funding start-up costs for Managed
+Health is irrelevant to the three issues presently before the Board.
+20
+   Appellant erroneously cites “AFS 168:1662¶A” as support. Appellant’s Post Trial Br. 32. The cited reference is a
+three page report on a meeting held between CFSA officials and Unfoldment to resolve the instant matter. AFS 168.
+The report does not mention Managed Health Services.
+                                                        -8-                      Unfoldment, Inc., CAB No. D-1062
+
+
+
+unrelated employment discrimination lawsuit. Appellant’s Post Trial Br. 20-21, 32-33. Wheeler
+and Childs served as contract administrator and compliance officer, respectively, during the
+period of Unfoldment’s contract. Hr’g Tr. vol. 1, 201:22-202:1, Mar. 23, 2010; Hr’g Tr. vol. 2,
+349:1-13, Mar. 24, 2010. Neither witness, however, offered testimony that substantiates
+Unfoldment’s contention that Oppedisano and Osborne acted with racial animus toward African
+Americans generally, or toward Unfoldment in particular.
+
+        Wheeler testified that she became a contract manager at CFSA sometime in 1997 after
+Unfoldment had already been awarded the instant contract. Hr’g Tr. vol. 2, 362:10-363:11, Mar.
+24, 2010. During her employ as contract manager, Ms. Wheeler supervised two contract
+specialists (neither of whom had any responsibility for the Unfoldment contract). Hr’g Tr. vol. 2,
+363:16-364:18, Mar. 24, 2010. Likewise, Ms. Wheeler did not herself have any responsibility
+for the Unfoldment contract although she was familiar with it. Id.; Hr’g Tr. vol. 2, 362:19-21,
+Mar. 24, 2010. Wheeler testified that she did not have “firsthand knowledge” of any CFSA
+officials that either “negatively targeted” Unfoldment or treated it differently because of race.
+Hr’g Tr. vol. 2, 579:13-580:1, Mar. 24, 2010. Wheeler also testified that during her tenure
+working with the two men, “[she] did not hear them ever use any inappropriate language.” Hr’g
+Tr. vol. 2, 405:19-406:4, Mar. 24, 2010. Childs testified that she did not see any evidence of
+racial animus by Osborne, and that she started working at CFSA after Oppedisano had already
+left the agency. Hr’g Tr. vol. 1, 300:18-20, Mar. 23, 2010. Thus, neither witness’ testimony
+rebuts the presumption of good faith herein, nor substantiates Unfoldment’s racial animus
+contention.
+
+        Although neither witness had personal knowledge of any racial misconduct by the two
+officials, both Wheeler and Childs testified that they were aware of racial animus allegations
+against the two by third parties. Wheeler testified that she heard one CFSA employee assert that
+Oppedisano/Osborne had racial animus. Hr’g Tr. vol. 2, 407:2-409:18, Mar. 24, 2010. Childs
+also testified that she heard “murmurings” about racial animus by Oppedisano and Osborne, and
+“rumors” of their “bias” against CFSA’s African American employees. Hr’g Tr. vol. 1, 284:19-
+285:6, Mar. 23, 2010; vol. 1, 299:4-7. See also Appellant’s Post Trial Br. 21. These hearsay
+accounts do not constitute clear and convincing evidence of racial animus.
+
+        Although hearsay can be used to meet the higher “clear and convincing” evidentiary
+burden required to demonstrate bad faith, the expectation in this jurisdiction is that the hearsay
+will be “buttressed by otherwise admissible evidence to meet the standard.”21 Lynch v. U.S., 557
+A.2d 580, 582 (D.C. 1989). Under the guidance of Lynch, we find that the hearsay testimony of
+Wheeler and Childs fails to establish by clear and convincing evidence that Oppedisano and
+Osborne exhibited racial animus towards Unfoldment. The hearsay statements were contradicted
+by live testimony, were not corroborated, and were not sworn. First, Oppedisano testified that he
+neither treated Unfoldment differently than other contractors nor targeted it. Hr’g Tr. vol. 4,
+21
+    In administrative proceedings where the evidentiary burden is substantial evidence, hearsay may meet the
+required burden depending upon “whether the declarant is biased, whether the testimony is corroborated, whether
+the hearsay statement is contradicted by direct testimony, whether the declarant is available to testify and be cross-
+examined, and whether the hearsay statements were signed or sworn”. Compton v. District of Columbia Bd. of
+Psychology, 858 A.2d 470, 477 (D.C. 2004)(citations omitted). As noted, however, the evidentiary burden required
+to prove a public official’s bad faith is “clear and convincing.”
+                                                        -9-                     Unfoldment, Inc., CAB No. D-1062
+
+
+
+1209:11-1210:4, Mar. 29, 2010. Second, the hearsay statements were not corroborated, as even
+Wheeler and Childs did not view Oppedisano and Osborne as having racial animus. Third, the
+hearsay statements were not sworn, having been described by Childs as “murmurings” and
+“rumors.” Under these circumstances, the hearsay statements are not buttressed by otherwise
+admissible evidence, and do not meet the required clear and convincing evidentiary standard.
+
+        Appellant’s final contention as to Wheeler’s testimony is that it shows CFSA’s bad faith
+by demonstrating that Oppedisano and Osborne held an “unreasonable hostility” toward
+Unfoldment. Appellant’s Trial Br. 21. We disagree. Wheeler’s testimony at the trial on this
+matter was very inconclusive and short of the required clear and convincing evidentiary standard.
+At trial, Wheeler adopted a statement in her pretrial affidavit22 wherein she characterized
+Oppedisano and Osborne as holding an unreasonable hostility toward Unfoldment. Hr’g Tr. vol.
+2, 531:15-16, Mar. 24, 2010. However, Wheeler contradicted herself by also testifying that
+neither Oppedisano nor Osborne were hostile to Unfoldment. Hr’g Tr. vol. 2, 516:4-10; 532:17-
+536:4. Wheeler further testified that the hostility her affidavit referred to was manifested in a
+notice to cure letter to Unfoldment written by a CFSA contract monitor23 in February 1998. Hr’g
+Tr. vol. 2, 511:15-516:19, Mar. 24, 2010. In response to a question from the Board, Wheeler
+further explained that “when I say hostility, I kind of felt as though they [Oppedisano and
+Osborne] weren’t listening.” Hr’g Tr. vol. 2, 531:15-533:5. Taken as a whole, Wheeler’s
+numerous and contradictory statements regarding “unreasonable hostility” are not clear and
+convincing evidence that Oppedisano, Osborne or other CFSA officials exhibited bad faith
+“unreasonable hostility” toward appellant.
+
+        Finally, Unfoldment contends that Oppedisano’s and Osborne’s racial animus was
+established in the case of Mintz v. D.C., and that the District is collaterally estopped from
+refuting the findings.24 Appellant’s Post Trial Br. 21-22. We do not find Unfoldment’s argument
+persuasive, and hold that the doctrine of collateral estoppel does not apply instantly.
+
+       In Mintz, two African American CFSA contract specialists alleged that Oppedisano and
+Osborne engaged in vulgar sexual and racial workplace conduct and retaliation, creating a hostile
+work environment. Mintz, C.A. No. 00-0539 at 1-4 (D.D.C. May 30, 2006). Both employees
+reported the behavior to Oppedisano’s direct supervisor. Id. Reginald Mintz, hired by CFSA in
+September 1996, served as the key complainant and eventually filed a formal EEO complaint. Id.
+4. Mintz was subsequently terminated by CFSA on November 21, 1996; while still in his three-
+month probationary period. Mintz filed suit against CFSA in 2000, and later amended the suit in
+2004 to name the District as a defendant. Mintz’s amended complaint contained counts for racial
+discrimination and retaliatory termination. Id.
+
+
+22
+   AFS 110 16, ¶90.
+23
+   At all times material to Unfoldment’s claim, Marvarene Williams served as a CFSA contract monitor assigned to
+the Unfoldment contract. Hr’g Tr. vol. 3, 903:14-905:7, Mar. 25, 2010. Her duties included, inter alia, conducting
+weekly inspections of Unfoldment’s group homes. Hr’g Tr. vol. 3, 909:3-15, Mar. 25, 2010. Although Wheeler
+initially testified that Williams’ exhibited “hostility”, she later re-characterized Williams’ report language as
+“harsh”. Hr’g Tr. vol. 2, 493:8-496:10; 518:19-519:4.
+24
+   Appellant also asserts that the “Board ruled [at a March 2010 pretrial conference] that the Mintz Court’s findings
+of racial animus … are binding under the theory of collateral estoppel” and CFSA is “precluded from refuting
+them”. Appellant’s Post Trial Br. 11. We have reviewed the record, but have not found any such Board ruling.
+                                                          -10-                     Unfoldment, Inc., CAB No. D-1062
+
+
+
+       Selwyn Darbeau was the second CFSA employee and he brought several tort and contract
+claims alleging that he was retaliated against for supporting Mintz in the alleged workplace
+incidents. Id. 5. In 2005, both plaintiffs moved for summary judgment, and filed the required
+Statement of Material Facts Not in Dispute containing numerous vulgar racial and sexual
+comments attributed to Oppedisano and Osborne.25 Id. 1.
+
+         The District filed both an opposition to the plaintiff’s motion, and its own cross-motion
+for summary judgment. The District’s opposition, however, failed to include a contravening
+statement of facts in dispute as required by D.D.C. Local R. Civ. P. 56(e).26 The court construed
+appellee’s failure to file an opposing statement of facts as an admission that Oppedisano and
+Osborne uttered the racially and sexually reprehensible comments, and granted summary
+judgment to Mintz on the racial discrimination count. Id. 1, 7. Thusly, appellant now seeks to
+use its favorable Mintz summary judgment ruling for preclusive effect herein.
+
+         The collateral estoppel doctrine “renders conclusive in the same or a subsequent action
+determination of an issue of fact or law when (1) the issue is actually litigated and (2) determined
+by a valid, final judgment on the merits; (3) after a full and fair opportunity for litigation by the
+parties or their privies; (4) under circumstances where the determination was essential to the
+judgment, and not merely dictum.” K.H., Sr. v. R.H., 935 A.2d 328 (D.C. 2007) (citations
+omitted). Where a plaintiff seeks to estop a defendant from relitigating issues which the
+defendant previously litigated and lost against another plaintiff, the doctrine is referred to as
+offensive collateral estoppel. Id. at 333 (citing Newell v. D.C., 741 A.2d 28, 36 (D.C. 2009)
+(other citations omitted). Application of the offensive collateral doctrine requires a two-step
+inquiry. First, the trial court must determine whether a case meets the traditional requirements for
+invoking collateral estoppel. Modiri v. 1342 Rest. Grp., Inc., 904 A.2d 391, 395 (D.C. 2006). In
+so doing, the previously resolved issue must be identical to the one presented in the current
+litigation; similarity between issues is insufficient. Hutchinson v. D.C. Office of Emp. Appeals,
+710 A.2d 227, 236 (D.C. 1998).
+
+
+        In the second step of the analysis, the court considers the fairness of applying collateral
+estoppel to the facts of the case. Modiri, 904 A.2d at 395. While non-mutual collateral estoppel
+is permitted in the District, the doctrine is applied with some caution because “it presents issues
+relating to the potential unfairness to a defendant.” Newell, 741 A.2d at 36 (citations omitted). In
+considering whether the doctrine is being applied fairly, the District has developed a variety of
+factors for consideration:
+
+
+
+
+25
+   For example, Oppedisano is revealed to have used a racial slur to refer to Mintz specifically and to blacks
+generally. Mintz, C.A. No. 00-0539 at 2 (D.D.C. May 30, 2006). Osborne and Oppedisano are also alleged to have
+made vulgar sexual and pedophilic comments to Mintz. Id.
+26
+   “[…] When a motion for summary judgment is made and supported as provided in this Rule, an adverse party
+may not rest upon the mere allegations or denials of the adverse party's pleading, but the adverse party's response, by
+affidavits or as otherwise provided in this Rule, must set forth specific facts showing that there is a genuine issue for
+trial. If the adverse party does not so respond, summary judgment, if appropriate, shall be entered against the
+adverse party.”
+                                                -11-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+       (1) whether the first suit was for a trivial amount while the second was for a large
+       amount;
+
+       (2) whether the party asserting the estoppel could have effected joinder between himself
+       and his present adversary, but did not do so;
+
+       (3) whether the estoppel is based on one of conflicting judgments, another of which is in
+       defendant's favor;
+
+       (4) whether there are significantly different procedural advantages available to the
+       defendant in the second suit which could affect the outcome;
+
+       (5) whether application of the doctrine would be unfair to the defendant under the
+       circumstances;
+
+       (6) whether the defendant had a full and fair opportunity to litigate;
+
+       (7) whether the defendant had the incentive to defend vigorously in the first suit;
+
+       (8) whether the defendant had the ability to foresee additional litigation;
+
+       (9) Treating the issue as conclusively determined would be incompatible with an
+       applicable scheme of administering the remedies in the actions involved;
+
+       (10) The prior determination may have been affected by relationships among the parties
+       to the first action that are not present in the subsequent action, or apparently was based on
+       a compromise verdict or finding;
+
+       (11) Treating the issue as conclusively determined may complicate determination of
+       issues in the subsequent action or prejudice the interests of another party thereto;
+
+       (12) The issue is one of law and treating it as conclusively determined would
+       inappropriately foreclose opportunity for obtaining reconsideration of the legal rule upon
+       which it was based;
+
+       (13) Other compelling circumstances make it appropriate that the party be permitted to
+       relitigate the issue.
+K.S., Sr. v. R.H., 935 A.2d 328, 333-334 (D.C. 2007) (citing Ali Baba, Inc. v. WILCO, Inc., 482
+A.2d 418, 423 (D.C. 1984); Restatement (Second) of Judgments, § 29 (1982)) (other citations
+omitted).
+                                                -12-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+         Based on consideration of the above, the Mintz summary judgment ruling is not entitled
+to preclusive effect in the instant matter. The traditional requirements for invoking collateral
+estoppel have not been met, and it would be unfair to apply the doctrine on the facts of this case.
+First, the issues in the present litigation are not identical to those in Mintz. In Mintz, the court
+decided whether Oppedisano and Osborne engaged in employment discrimination against Mintz
+and Darbeau from September 1996 to November 1996. In the instant matter, the issue is whether
+the CFSA officials exhibited racial animus against Unfoldment from July 1, 1997, to October
+1998, as relates to contract termination, payment, and administration. Neither the facts, the
+timelines, nor the legal issues in the two cases overlap. In addition, it would be unfair to apply
+collateral estoppel instantly because the Mintz Court’s racial discrimination finding against
+Oppedisano/Osborne was based on a procedural technicality (i.e., the District’s failure to file a
+Statement of Material Facts In Dispute with its opposition). For these reasons, we rule that the
+doctrine of collateral estoppel does not apply instantly.
+
+        In summary, the appellant has failed to establish that CFSA’s non-payment of contract
+minimums (through its two contract officials) was due to racial animus. Therefore, we conclude
+that appellant’s evidence regarding the teen mothers and babies contract award, its allegations
+that white vendors received contract minimum payments, its reliance upon the hearsay testimony
+of Wheeler and Childs, and its failed attempt to apply collateral estoppel through Mintz, are
+insufficient to rebut the presumption of good faith by CFSA. Moreover, as we note below, it
+appears from our record that CFSA’s non-payment of contract minimums was likely based not
+on “racial animus,” but rather on a genuine belief that the parties’ contract did not include a
+minimum payment requirement. In other words, a genuine, reasonable interpretation difference
+appears to have existed between the parties, and neither party was acting in bad faith when
+pursuing its own understanding of the contract. Cf. Innovative Tel Servs., 08-1 BCA ¶ 33,854.
+
+        With respect to contract payment, we note that the parties’ agreement included the
+following Article XIV:
+
+        ARTICLE XIV.           CONTRACT TYPE AND PRICE
+        A. This is an indefinite quantity contract with fixed unit pricing and a
+        maximum contract ceiling amount, with payments based on the documented
+        delivery of the specified units of service.
+
+        b. The specified unit of service shall be a child/day for which the Contractor shall be
+        paid a fixed per diem rate for each day that a child is in residence at the
+        Contractor’s facility.
+
+AF 1.
+
+         CFSA interpreted the above language to impose a “maximum,” but not minimum order
+requirement. See, e.g., Agency Answer and Mot. to Dismiss 14, (Jan. 29, 1999). Oppedisano
+testified that he did not know what the minimum payment invoices alluded to. Hr’g Tr. vol. 4,
+1097:20-1099:5, Mar. 29, 2010. Similarly, Osborne testified that he was not sure what was
+                                                        -13-                    Unfoldment, Inc., CAB No. D-1062
+
+
+
+meant by the phrase minimum contractual payment.27 Hr’g Tr. vol. 4, 1278:22-1279:5, Mar. 29,
+2010. That CFSA (Oppedisano/Osborne) did not interpret Article XIV to impose a contract
+minimum is reasonable, as payments thereunder are expressly tied to the actual performance of
+services (i.e. “the documented delivery of the specified units of service”). See also, Unfoldment,
+909 A.2d at 211 (stating that the parties’ contract “does not mention a minimum placement
+requirement”) (emphasis added).
+
+        However, CFSA was not alone in interpreting the instant contract to require payment for
+actual services only. The record suggests that Unfoldment appeared to share this same
+interpretation. This is evident through Unfoldment’s interpretation of the parties’ contract to
+require a “modification” in order for minimum payments to be made. Two letters written by
+Unfoldment’s Executive Director on February 11, 1998, evidence such an interpretation.
+
+        In the first letter, Unfoldment’s Executive Director asks the agency to “favorably
+consider a request that will allow us to receive a minimum payment, irrespective of the number
+of CFSA referrals” pursuant to an attached modification request. AFS 65. The second
+Unfoldment letter (i.e., the referenced attachment) specifically proposes a “modification of our
+contract” on terms that would have allowed Unfoldment to bill a minimum monthly order of
+“80% of the maximum slots or 24 youth”. AFS 66. The attachment also notes that the parties’
+existing contract permits “payments based on the documented delivery of the specified units of
+service times a fixed per diem rate of $157.89.” Id. These two letters suggest that Unfoldment
+did not believe it was entitled to minimum payments under the parties’ existing contract, but
+could receive such payments if a modification were approved by CFSA.28 It follows then, that
+CFSA’s non-payment of contract minimums was consistent with both parties’ understanding of
+their contract at the time.29
+
+        Although the Court of Appeals later found a legal duty to pay contract minimums, the
+duty arose not from clear language in the parties’ contract, but from a synthesis of contract
+minimum language appearing in several disparate documents incorporated into the contract by
+the standard contract provisions. Unfoldment, 909 A.2d at 209-213. More specifically, these
+externally incorporated documents included CFSA’s Request for Proposals (RFP) language
+requiring a “minimum number of … one hundred [children]… for the Continuing Care Group
+Home” at § A.3.b, and appellant’s BAFO of “not less than 18 male youth ages 11-21.” Id. 211.
+Other source documents that were incorporated into the parties’ contract and found to undergird
+the requirement for a minimum payment included (1) the parties’ Standard Contract Provisions,
+(2) the CFSA Policy Handbook § 10220.00, and (3) the District’s procurement regulations at
+
+
+27
+   That Oppedisano and Osborne may not have been knowledgeable regarding the minimum payment requirement is
+not completely surprising. Ernestine Green, the CFSA General Receiver at all times material hereto, testified further
+that the decision regarding whether minimum payments were made to Unfoldment was not Oppedisano’s [or
+Osborne’s], but rather Milton Grady (the agency Deputy Receiver). Hr’g Tr. vol. 1, 91:10-92:16, Mar. 23, 2010.
+28
+   There is neither an indication in our record, nor a contention by the appellant, that CFSA ever approved the
+modification.
+29
+   At the hearing, neither party fully explored the impact of the February 11, 1998, letter on appellant’s claim that
+bad faith was the reason for CFSA’s non-payment of contract minimums. CFSA’s then General Receiver was cross-
+examined by Unfoldment regarding the letter, but Unfoldment’s questions pertained to whether Oppedisano had
+authority to approve the modification request. Hr’g Tr. vol. 1, 90:3- 92:16, Mar. 23, 2010.
+                                                         -14-                     Unfoldment, Inc., CAB No. D-1062
+
+
+
+D.C. Mun. Regs. tit. 27, §§ 2103.3, 2416.10, 2416.11. Id. 30
+
+        Thus, we conclude that Unfoldment has not established that appellee’s non-payment of
+the contract minimums was done in bad faith. Accrediting CFSA its presumption of good faith
+and not finding clear and convincing evidence to the contrary, we dismiss appellant’s remand
+claim for bad faith non-payment of contract minimums.
+
+II. New Evidence Regarding Whether CFSA Terminated the Contract For Convenience
+
+        The next issue we consider is whether “new evidence” shows that the appellant’s contract
+was terminated for convenience. The Board’s March 20, 2002, decision rejected appellant’s
+termination claim and was affirmed in Unfoldment, 909 A.2d 204. Thus, the doctrine of res
+judicata31 would normally preclude relitigation. Appellant’s contention, however, that “new
+evidence” supports its termination claim has resulted in the Board’s reconsideration of this issue.
+
+        We construe the Board’s Order granting appellant leave to renew its termination claim as
+an exception to res judicata pursuant to D.C. Mun. Regs tit. 27, § 117.1(b) (2002).32 Although
+there is no record of appellant having filed a motion to reconsider based on the newly discovered
+2008 evidence, the Board’s renewed jurisdiction over previously dismissed claims is properly
+considered as relief under a Rule 117.1(b) motion. Cf. Forgotson v. Shea, 491 A.2d 523, 528
+(D.C. 1985).
+
+        The legal standard associated with newly discovered evidence requires that by due
+diligence the evidence could not have been presented to the Board prior to the rendering of its
+decision. Order on Mot. for Reconsideration, Unfoldment, Inc., CAB No. D-1062, 2002 WL
+1839991 (July 30, 2002).33 Newly discovered evidence does not encompass evidence not
+previously discovered because of “lack of due diligence” or evidence that “was readily capable
+of being learned ... in the course of conducting pretrial discovery....” Forgotson, 491 A.2d at 528
+(citations omitted).
+
+        Based on the legal standard noted above, the only evidence proffered by appellant that
+qualifies as “new” is the two CFSA staff memoranda produced for the first time in discovery in
+2008. These memoranda pertain to a December 11, 2000, meeting between the parties, and were
+cited by the appellant in persuading our Board to allow limited relitigation of appellant’s
+
+30
+   These provisions pertain to indefinite quantity contracts, and generally require (1) the District to order the
+minimum stated in such contracts, and (2) required the contract officer to obligate sufficient budget authority to
+cover the minimum requirement.
+31
+   Res Judicata provides that “a final judgment on the merits of a claim bars relitigation in a subsequent proceeding
+of the same claim between the same parties or their privies.” EDCare Management, Inc. v. DeLisi, 50 A.3d 448
+(D.C. 2012). The doctrine applies to administrative agency proceedings that are the equivalent of judicial
+proceedings. Oubre v. D.C. Dep’t of Emp’t Servs., 630 A.2d 699, 703-704 (D.C. 1993). The Board’s proceedings
+are judicial in nature. See, e.g., Board rules authorizing motions practice, discovery, subpoenas, hearings, decisions,
+and remedies (inter alia). D.C. Mun. Regs. tit. 27, §§110, 112, 114, 211, 214, 314.
+32
+   The Board rule is analogous to D.C. Super. Ct. R. Civ. P. 60(b). In construing D.C. Mun. Regs. tit. 27 §117(b)
+therefore, the Board is guided by our own precedent as well as precedent of the District of Columbia courts
+construing its analogous rules. D.C. Mun. Regs tit. 27, §100.6 (2002).
+33
+   The cited Order pertains to appellant’s 2002 reconsideration motion regarding the Board’s dismissal of the instant
+claims.
+                                                        -15-                    Unfoldment, Inc., CAB No. D-1062
+
+
+
+termination claim.34 Accordingly, we address Unfoldment’s contention that the two CFSA staff
+documents prepared by Yolanda McKinley (McKinley) demonstrate that Unfoldment’s contract
+was terminated for convenience. The remainder of appellant’s proffered evidence will not be
+considered.35
+
+        Thus, we address only Unfoldment’s contention that the two CFSA staff documents
+prepared by McKinley demonstrate that Unfoldment’s contract was terminated for convenience.
+McKinley was a management analyst for the CFSA Deputy Receiver, whose duties included
+taking minutes of certain meetings. Hr’g Tr. vol. 3, 709:12-710:12, Mar. 25, 2010. McKinley
+took notes of a December 11, 2000, meeting between CFSA officials and Unfoldment. Hr’g Tr.
+vol. 3, 711:8-16, Mar. 25, 2010. McKinley did not testify at the trial.
+
+        The two McKinley memoranda were written following the December 11, 2000, meeting
+between the CFSA Deputy Receiver, Unfoldment’s Executive Director, and members of their
+respective staffs. The first memorandum is dated December 11, 2000, and is titled, “Meeting
+Synopsis Report.” The memorandum indicates that the meeting was called at the request of
+Unfoldment to reach agreement to “withdraw her complaint [in CAB No. 1062] filed with the
+DC Contract Appeals Court” in exchange for CFSA’s agreement to “reinstate her [group home]
+contract with the Agency and pay a revised settlement amount balance of $680,000 to
+Unfoldment.” AFS 168, ¶¶ 3, 5. The background section of the synopsis states, in pertinent part,
+that the group home contract was “not renewed at an option point, and … later terminated for the
+convenience of the government [on October 31, 1998].” Id. 1.
+
+       The second McKinley memorandum references the December 11 meeting and requests
+that a CFSA staffer schedule a follow-up meeting with the Unfoldment Executive Director to
+“discuss program services that she is capable of delivering to our client population.” AFS 169.
+This second memorandum states that “[CFSA] terminated the Unfoldment … contract on
+October 31, 1998, for the convenience of the government.” Id.
+
+        We have reviewed the McKinley memoranda and appellant’s arguments relating thereto,
+and find that they do not meet the evidentiary test as regards appellant’s convenience termination
+claim.36 The December 11 synopsis is an inadmissible settlement proposal, and the December 12
+
+34
+   See Appellant’s Opp’n to Gov’t Mot. to Dismiss 5, 8 and discussion supra at p.4.
+35
+    The appellant’s post-hearing brief attempts to support its convenience termination claim with numerous
+documents/affidavits that were available to it prior to the Board’s March 20, 2002, dismissal decision. Appellant’s
+Post Trial Br. 7-8. We do not consider such as “new evidence,” and find that they exceed the scope of our
+September, 24, 2009, Order (“[w]e will consider Unfoldment’s claim that new evidence shows that the contract was
+terminated for convenience.”). Order on the District’s Mot. to Dismiss Unfoldment’s Third. Am. Compl. 3. For
+example, appellant has attempted to support its convenience termination claim with affidavits from one of its own
+attorneys, litigation documents from a lawsuit to which it was a party (This End Up), checks made payable to
+Unfoldment by CFSA, correspondence between CFSA and Unfoldment, and numerous other documents that were
+either available before our 2002 dismissal decision, or could have been available with due diligence. Thus, except as
+noted herein, none of the documents referenced in Appellant’s Post Trial Br. at 7-8 qualify as “new evidence” under
+Board Rule 117.1(b). These include AFS 111, 112, 135, 137-139, 141-144, 146-147, 148, 149, 150, 151, 153, 155-
+159, 160, 161-163.
+36
+   Although appellant’s bad faith claims must be established by clear and convincing evidence, its convenience
+termination claim need only meet the lower preponderance of the evidence standard. D.C. Mun. Regs. tit. 27,
+                                                 -16-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+memorandum is of little probative value. Accordingly, appellant’s “new evidence” fails to
+establish that CFSA terminated Unfoldment’s contract for default and later converted it to a
+convenience termination.
+
+        It is well settled that a settlement proposal cannot be used to prove liability for a claim or
+its amount. Unfoldment v. CAB, 909 A.2d at 213; Goon v. Gee King Tong, Inc., 544 A.2d 277,
+280 (D.C. 1988) (other citations omitted). In addition, “statements made by a party during
+compromise negotiations should also be excluded to encourage unfettered dialogue in such
+negotiations, as to further the underlying policy favoring out-of-court settlement of disputes.”
+544 A.2d at 280 (citing Pyne v. Jam. Nutrition Holdings Ltd., 497 A.2d 118, 128 (D.C. 1985).
+Finally, the substance of the inquiry to determine whether a document is inadmissible is whether
+the document and the statements therein are made in the context of an “apparent dispute” or
+“apparent difference of view” as to either the validity or amount of a claim. Id.
+
+        The December 11 “synopsis” meets all of the criteria of an inadmissible settlement offer,
+including the fact that the meeting occurred in the context of a very clear “dispute” (i.e., the
+instant Unfoldment claim filed with our Board on October 30, 1998). In addition, the meeting
+was convened at Unfoldment’s request to explore “resolution of pending claim … for monetary
+damages and restoration of terminated contract.” AFS 168. During the meeting, Unfoldment
+offered to withdraw its Board claim in exchange for contract reinstatement and a monetary
+payment. Id. 2 ¶¶ 3,5. Thus, the synopsis records a very clear Unfoldment settlement offer and is
+not admissible.
+
+       The December 12 memorandum does not contain a settlement offer or proposal. The
+memorandum requests that a CFSA staffer meet with Unfoldment to discuss contract
+opportunities with the agency, particularly as pertains to “boys with special needs”. AFS 169.
+The memorandum notes the December 11 meeting between CFSA and Unfoldment (discussed
+above), and states that “the Agency terminated the Unfoldment, Inc. contract on October 31,
+1998, for the convenience of the government”. Id. The statement in the memorandum that the
+Unfoldment contract was “terminated for convenience” is unsubstantiated and of little probative
+value.
+
+
+        In determining what weight to give to a piece of evidence, we first assess its probative
+value, i.e., whether the evidence is reliable and trustworthy. One way to make this determination
+is to see if there is any contemporaneous documentary evidence corroborating the evidence. In
+this regard, unsubstantiated assertions do not constitute proof or evidence. See, e.g., In re
+Maggie's Landscaping, Inc., ASBCA Nos. 52462, 52463, 04-2 BCA ¶ 32,647 at 161,569 (June 2,
+2004); M.A Mortenson Co., ASBCA Nos. 53105, et al., 04-2 BCA ¶ 32,713 at 161,845 (Aug. 17,
+2004); Technocratica, ASBCA Nos. 46567, et al., 99-2 BCA ¶ 30,391 at 150,226 (May 4, 1999);
+Grady & Grady, Inc., ASBCA No. 48629, 96-1 BCA ¶ 28,025 at 139,917 (Oct. 27, 1995).
+
+
+      We note that McKinley’s December 2000 memorandum is not a contemporaneous
+document, and was written over two years after CFSA’s “termination for convenience” allegedly
+
+§120.1 (2002).
+                                                       -17-                   Unfoldment, Inc., CAB No. D-1062
+
+
+
+occurred (i.e., October 31, 1998). Moreover, there is no contemporaneous written record of (1)
+Unfoldment ever submitting a convenience termination claim to a CFSA contracting officer, or
+(2) a CFSA contracting officer issuing a final convenience termination decision. The Board
+noted in 2001 that Unfoldment never submitted a claim to the CFSA contracting officer. Order
+on Mot. To Dismiss, Unfoldment, CAB No. D-1062 (October 23, 2001) (holding that Board
+jurisdiction herein did not require that Unfoldment first submit claims to the CFSA contracting
+officer because “it is quite clear [that] the decision would be “unfavorable”). Additionally, the
+contracting officer alleged by Unfoldment to have converted its default termination testified that
+he did not prepare a written decision nor was he aware of a written decision. H’rg Tr. vol. 3,
+713:19-714:16, Mar. 25, 2010. These record gaps in contemporaneous documentary evidence
+diminish the probative value of McKinley’s December 12 memorandum, and severely undermine
+its conclusory statement that “the Agency terminated the Unfoldment, Inc. contract on October
+31, 1998, for the convenience of the government.”
+
+        Finally, we note that the appellant called the purported contracting officer to testify at the
+hearing (former Deputy General Receiver Milton Grady) (hereafter Deputy Receiver). The
+Deputy Receiver testified that appellant’s contract was terminated for default on October 31,
+1998, by a letter from CFSA’s General Receiver. Hr’g Tr. vol. 3, 688:22-690:20, Mar. 25, 2010.
+He testified further that he converted the default into a convenience termination sometime on or
+around December 12, 1998. Hr’g Tr. vol. 3, 688:22-690:5, Mar. 25, 2010; Hr’g Tr. vol. 3,
+690:10-692:20; Hr’g Tr. vol. 3, 703:15-704:13. We are neither persuaded by the Deputy
+Receiver’s testimony that Unfoldment’s contract was terminated for default, nor convinced that a
+later conversion to a convenience termination ensued.
+
+        First, there is no probative evidence that Unfoldment’s contract was terminated for
+default. The General Receiver37 testified that she allowed the contract to expire on its own
+terms. Hr’g Tr. vol. 1, 128:6-140:16, Mar. 23, 2010. The General Receiver’s testimony is
+supported by a contemporaneously issued October 28, 1998, letter bearing her signature, which
+states that “[W]e will not renew the option to contract for further services through your agency
+effective 60 days from the date of this letter.” Unfoldment, 909 A.2d at 207: AFS 98. The
+General Receiver’s letter is clear by its own terms, and was undertaken pursuant to Article
+XVI(A) of the parties contract (setting a one year contract term and authorizing, but not
+compelling, the exercise of options thereafter). AF 1, 16-17. By comparison, the Deputy
+Receiver was on extended sick leave at the time of contract expiration and was not directly
+involved in CFSA’s non-renewal decision. Hr’g Tr. vol. 3, 798:11-17; 803:12-14, Mar. 25, 2010.
+The Deputy Receiver would have recommended renewal had he not been on leave, Hr’g Tr. vol.
+3, 817:8-818:7, Mar. 25, 2010, but the decision to allow the contract to expire was taken by his
+superior, the agency’s General Receiver. Hr’g Tr. vol. 1, 128:6-140:16, Mar. 23, 2010.
+
+        Second, we have noted the dearth of contemporaneous documentary evidence
+corroborating the Deputy Receiver’s testimony. There is no written default termination. There is
+no written conversion of the alleged default termination. The CFSA’s October 28th non-renewal
+letter evinces no indicia of having been issued by CFSA as a default termination. AFS 98. For
+
+
+37
+  The General Receiver’s official title was “Federal Court Appointed Receiver”. Hr’g Tr. vol. 1, 41:9-11, Mar. 23,
+2010.
+                                                       -18-                   Unfoldment, Inc., CAB No. D-1062
+
+
+
+example, it was not preceded by a cure notice, does not use “termination for default”
+phraseology, and does not reference Article XXII of the parties’ contract.38
+
+
+       Finally, we note that the Board’s jurisdiction over the instant claim vested on October 30,
+1998; a full month before the date the Deputy Receiver testified that his determination was made.
+It is well settled that a contracting officer lacks the jurisdiction to issue a final decision on a
+claim after it has been appealed to the Board. See, Keystone Plus Constr. Corp., CAB No. D-
+1358, 2012 WL 554443 (Jan. 27, 2012) (noting that the Federal Circuit has held that filing an
+appeal divests contracting officers of the jurisdiction necessary to issue a final decision) (citing
+Sharman Co. v. U.S., 2 F.3d 1564 (Fed. Cir. 1993) (other citations omitted); Fairfield Scientific
+Corp., ASBCA No. 21151, 78-1 BCA ¶ 13,082. In the instant case, it is conceded that if
+appellant ever submitted its purported convenience termination claim to CFSA, it occured “after
+Unfoldment’s complaint had been filed with the Board” (emphasis added). Hr’g Tr. vol. 6,
+1619:20-1620:6, Mar. 31, 2010. Additionally, it is conceded that the CFSA contracting officer
+made his purported favorable decision thereon after Board jurisdiction vested.39
+
+        Thus, we have reviewed appellant’s termination claim in light of its proffered “new”
+evidence, and nonetheless find that the parties’ contract expired under its own terms. The
+General Receiver testified that she allowed the contract to expire on its own terms. Hr’g Tr. vol.
+1, 128:6-140:16, Mar. 23, 2010. The General Receiver’s testimony is supported by a
+contemporaneously issued October 28, 1998, letter bearing her signature, which states that “[W]e
+will not renew the option to contract for further services through your agency effective 60 days
+from the date of this letter.” Unfoldment, 909 A.2d at 207. The General Receiver’s letter is clear
+by its own terms, and was undertaken pursuant Article XVI(A) of the parties’ contract (setting a
+one year contract term and authorizing, but not compelling, the exercise of options thereafter).
+AF 1, 16-17.
+
+        We find that the two December 2000 CFSA letters do not establish by a preponderance of
+the evidence that Unfoldment’s contract was default terminated and later converted into a
+convenience termination. Furthermore, we find that the Deputy Receiver’s testimony also does
+not establish that Unfoldment’s contract was default terminated and later converted by him into a
+convenience termination. The parties’ contract expired under its own terms.
+
+III. Bad Faith/Racial Animus Claims Pertaining To Contract Payment, Management and
+Monitoring
+
+        Finally, we consider whether CFSA engaged in bad faith racial animus and/or bad faith
+hostility regarding its monitoring, evaluation, and/or payment under the parties’ contract. The
+Board’s September 24, 2009, Order provided that we would consider these allegations pleaded in
+Unfoldment’s third amended complaint expressly as provided below:
+
+38
+   Article XXII is titled, “TERMINATION FOR DEFAULT OR CONVENIENCE”. AF 1, at 20. The Board expects
+that the General Receiver would have referred to the contract’s default termination clause if she had intended the
+October 28 letter to be a default termination.
+39
+   Appellant’s third amended complaint alleged that CFSA issued its convenience termination decision on October
+13, 2000. Appellant’s Third Am. Compl. 13, ¶¶ 125-126.
+                                                -19-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+                       1. Paragraph 139 subparts (a), (b), (c) and (d);
+                       139. The Agency exhibited bad faith in its dealings with
+                       Unfoldment, as evidenced by…
+
+                       a. CFSA and its personnel unreasonably exhibited hostility,
+                       bad faith and racial animus against Unfoldment;
+
+                       b. CFSA and its personnel abused their discretion in
+                       issuing,   managing,     monitoring,   evaluating and
+                       terminating/not renewing Unfoldment’s contract;
+
+                       c. CFSA and its personnel in bad faith issued a legally
+                       insufficient and improper cure notice and unreasonably
+                       suspended client referrals to Unfoldment;
+
+                       d. CFSA and its personnel refused to pay Unfoldment’s
+                       invoices in bad faith creating severe financial hardship for
+                       Unfoldment;
+
+        As we have noted, public officials are presumed to act in good faith and well-nigh
+irrefragable proof is required to rebut the presumption. AMI Risk Consultants, Inc., CAB No. P-
+0900, 2012 WL 4753867 (May 25, 2012). We have reviewed appellant’s allegations and record
+evidence in light of the required evidentiary standard, and find that appellant’s additional bad
+faith claims are without merit. We address each allegation below.
+
+ CFSA and its Personnel Unreasonably Exhibited Hostility, Bad Faith and Racial Animus
+                                against Unfoldment
+
+       We have previously noted that the evidence herein does not establish that CFSA officials
+committed bad faith toward Unfoldment through either racial animus or unreasonable hostility.
+See discussion supra pp. 7-12. We will not repeat our discussion here, but affirm our earlier
+discussion and holding in this regard.
+
+    CFSA and its Personnel Abused their Discretion in Issuing, Managing, Monitoring,
+          Evaluating and Terminating/Not Renewing Unfoldment’s Contract
+
+       1. Bad Faith Issuance of Unfoldment’s Contract
+
+        In this regard, the appellant alleges that CFSA (through Osborne) added more onerous
+provisions to Unfoldment’s contract than those of white vendors. Appellant’s Post Trial Br. 27,
+29. The appellant does not cite to the transcript to identify testimony in support of this assertion.
+Apart from appellant’s conclusory statements, we do not find evidence that CFSA treated the
+appellant differently than white vendors. Absent clear and convincing evidence to the contrary,
+the presumption of good faith accorded CFSA prevails.
+
+       2. Bad Faith Monitoring of Unfoldment’s Contract
+                                              -20-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+
+         Appellant also alleges that CFSA ordered its contract monitor (Marvarene Williams) to
+conduct weekly, unannounced inspections of Unfoldment’s Anacostia group homes. Appellant’s
+Post Trial Br. 38, 39. Appellant further contends that the monitor held a “racial/cultural” bias
+because she believed that wards should not be placed in “public housing communities.”
+Appellant’s Post Trial Br. 38. We do not find in the record before the Board that the appellant
+has established that CFSA monitored its contract in bad faith. The parties’ contract specifically
+permits CFSA to conduct “announced or unannounced” visits to Unfoldment’s facility. AF 1,
+Article VIII (B). In addition, the parties’ contract provides that CFSA “will make routine and
+random site visits to the Contractor’s facilities to check to see that they are maintained in a
+material condition conducive to the operation as a home” for District children. AF 1, Article IV
+(D). While weekly monitoring visits probably took place, CFSA (through Oppedisano) testified
+that it was not unique to Unfoldment. Hr’g Tr. vol. 4, 1112:6-1113:15, Mar. 29, 2010.
+
+       3. Bad Faith Evaluation of Unfoldment’s Contract
+
+         Appellant also alleges that Oppedisano approved bad faith performance evaluations
+prepared by subordinate CFSA employees Chainie Scott [and others] in April 1998 and June
+1998. Appellant’s Post Trial Br. 35. Further, appellant alleges that Oppedisano inserted a false
+April 9, 1998 Evaluation Report into Unfoldment’s file. Appellant Post Trial Br. 59. The falsity
+alluded to by appellant was an alleged paragraph finding that that Unfoldment “consistent[ly]
+fail[ed] to timely submit Unusual Incident Reports” regarding youths. Appellant’s Reply Trial
+Br. 10. We find that these allegations are not supported in our record. The appellant has not
+provided clear and convincing evidence to support this allegation. We also note that appellant’s
+post-hearing brief does not direct the Board to transcript testimony or other evidence supporting
+this allegation.
+
+       4. Bad Faith Terminating/Not Renewing Unfoldment’s Contract
+
+        As noted herein, appellant’s longstanding theory of this case is that CFSA terminated its
+contract for failure to cure deficiencies highlighted in a June 1998 Performance Evaluation
+Report. Appellant’s Post Trial Br. 7-8. We previously dismissed this claim in 2002. In 2006, the
+Court of Appeals affirmed our dismissal of this claim. In this decision, we have already
+discussed and concluded that appellant’s “new evidence” does not establish that the parties’
+contract was default terminated. As we noted, the parties’ contract expired on its own terms.
+ Similarly, we have concluded that appellant’s circumstantial and hearsay evidence does not
+establish that Oppedisano and Osborne exhibited bad faith racial animus toward Unfoldment.
+Therefore, we affirm our discussion and holding herein, and conclude that the evidence is not
+clear and convincing that appellant’s contract was terminated in bad faith.
+
+          CFSA (and its Personnel) in Bad Faith issued a Legally Insufficient
+ and Improper Cure Notice and Unreasonably Suspended Client Referrals to Unfoldment
+
+       1. Legally Insufficient and Improper Cure Notice
+
+       As regards the instant allegation, appellant argues that CFSA (acting through
+                                                       -21-                   Unfoldment, Inc., CAB No. D-1062
+
+
+
+Oppedisano) issued a bad faith cure notice to Unfoldment on February 26, 1998, which
+contained a number of already corrected deficiencies, 67 deficiencies fabricated by Oppedisano,
+and false accusations that Unfoldment failed to timely file Unusual Incident reports pertaining to
+two youth.40 Appellant’s Reply Trial Br. 2-3, 6, 10-11, 40, 55. The appellant further contends
+that the bad faith information in the cure notice was later incorporated into two adverse
+Performance Evaluations41 recommending the non-renewal of Unfoldment’s contract.
+Appellant’s Reply Trial Br. 2-3, 6, 10-11. In addition, appellant contends that once it corrected
+all deficiencies, Oppedisano did not rescind the letter or notify Unfoldment that it was in
+compliance. Appellant’s Post Trial Br. 58.
+
+        To charge CFSA with manipulating the cure notice process to further a purported hidden
+agenda of forcing Unfoldment into default is to charge CFSA with bad faith. Per our discussion
+herein, such a showing requires “well nigh irrefragable proof.” In this case, the evidence does
+not meet the required standard. Apart from Unfoldment’s conclusory statement that deficiencies
+were “fabricated,” etc., the record provides no evidence to support Unfoldment’s theory of a bad
+faith termination launched by a hidden agenda cure notice. In this regard, Oppedisano testified
+that he issued a cure letter in February 1998 with the intent of terminating Unfoldment’s contract
+if the deficiencies were not cured. Hr’g Tr. vol. 4, 1006:22-1007:16, Mar. 29, 2010. The
+deficiencies were cured, however, and Oppedisano did not take steps to terminate Unfoldment’s
+contract during his employment with CFSA. Hr’g Tr. vol. 3, 795:11-796:6, Mar. 25, 2010.
+Before leaving CFSA employment around May 1998, Oppedisano informed his superiors that
+Unfoldment had corrected all deficiencies. Hr’g Tr. vol. 3, 795:11-796:6, Mar. 25, 2010.
+
+         2. Unreasonable Suspension of Client Referrals To Unfoldment
+
+        Appellant also alleges that Oppedisano ordered a freeze in contract referrals in February
+1998 and did not lift the freeze until after deficiencies were corrected on March 30, 1998.
+Appellant’s Post Trial Br. 54, 63. Again, there is no record evidence to support a finding of bad
+faith refusal by Oppedisano to refer clients to Unfoldment during the contract period. In fact, the
+evidence indicates that a separate CFSA official made program decisions regarding the
+placement of children with group homes. Sondra Jackson testified that she was the Deputy
+Receiver for Programs during Unfoldment’s contract period, and that she supervised social
+workers and had responsibility for the placement of children. Hr’g Tr. vol. 1, 163:12-164:3, Mar.
+23, 2010. Ms. Jackson testified that she could not remember if she suspended referrals to
+Unfoldment in 1998. Hr’g Tr. vol. 1, 167:21-168:1, Mar. 23, 2010. There is no evidentiary
+support for a bad faith finding as to this allegation. We also note that appellant has not directed
+the Board to the transcript testimony supporting its allegation of bad faith suspension of client
+referrals.
+
+
+40
+   There were two incidents as to which CFSA contended Unfoldment failed to submit timely reports. The first
+incident involved a youth allegedly “scratched” by a dog in August 1997. Appellant’s Post Trial Br. 40. The second
+incident involved a youth who was alleged to have been abused sexually by another youth. Appellant’s Reply Trial
+Br. 10. Both the cure notice and the two performance evaluations noted that Unfoldment failed to submit timely
+reports following the incidences. Whether Unfoldment submitted its incident reports timely was disputed at the
+hearing. There was no evidence, however, that CFSA’s mention of the deficiency in the cure notice and the annual
+performance report was the product of bad faith.
+41
+   The adverse evaluation reports were issued on April 9, 1998, and June 9, 1998, respectively.
+                                               -22-                Unfoldment, Inc., CAB No. D-1062
+
+
+
+
+                    CFSA and its Personnel Refused to Pay Unfoldment’s
+         Invoices in Bad Faith Creating Severe Financial Hardship for Unfoldment
+
+         Appellant also alleges that Osborne and Oppedisano ignored requests pertaining to, and
+failed to pay invoices for, specialized wrap around services for behaviorally challenged youth.
+Appellant’s Post Trial Br. 28, 51; Appellant’s Reply Trial Br. 2. We find that the record does not
+support the allegation that CFSA non-payment of invoices was done in bad faith. Ms. Jackson
+testified that all of CFSA’s vendors were not being paid timely. Hr’g Tr. vol. 1, 170:19-20, Mar.
+23, 2010. Similarly, CFSA’s General Receiver (Ernestine Green) testified that CFSA’s problem
+with timely payments was agency-wide and not unique to Unfoldment. Hr’g Tr. vol. 1, 156:16-
+157:7, Mar. 23, 2010. In fact, Ms. Green testified that her tenure resulted in CFSA setting up a
+process to pay all vendors in a more timely manner. Id. Thus, there is no evidence that CFSA
+targeted Unfoldment for the non-payment of invoices.
+
+        With respect to appellant’s specific contention that “wraparound services” were not paid,
+the record is equally void of support for a finding of bad faith. The former CFSA Administrator
+(Jesse Winston) testified that “wraparound services” are akin to one-on-one babysitting type
+services for a certain number of hours per day. Hr’g Tr. vol. 3, 888:21-889:8, Mar. 25, 2010. The
+CFSA Administrator testified that “wraparound services” were not included in Unfoldment’s
+group home contract. Hr’g Tr. vol. 3, 889:17-891:7; Hr’g Tr. vol. 4, 1147:6-8, Mar. 29, 2010
+(testimony of Oppedisano corroborating that group home contracts did not include a provision
+for wrap around services). We find no reference to wraparound services in the parties’ contract.
+AF 1. Thus, to the extent that wraparound invoices were not paid herein, we do not find that bad
+faith caused the non-payment.
+
+IV. Miscellaneous Claims
+
+        In addition to the above, the appellant’s post-hearing briefs assert numerous other bad
+faith claims that are not properly before our Board. Each of the additional claims was pleaded in
+one or more of appellant’s previous complaints and rejected by our Board’s September 24, 2009,
+Order:
+
+       Paragraph 137, containing subparts (a)-(n), constitute Count 1 of Unfoldment’s
+       third amended complaint. Unfoldment agrees that the allegations in these
+       subparts have appeared in its original and first amended complaints and that the
+       allegations have either been previously settled or dismissed by the Board in its
+       March 20, 2002 decision and affirmed by the Court of Appeals. To the extent that
+       some of the allegations found in these subparts were raised only in the original
+       complaint and not in the first amended complaint, those allegations were
+       abandoned by Unfoldment and cannot be resuscitated now, 10 years later.
+
+Order at 3. Accordingly, we will not consider numerous allegations that appellant has raised in
+its briefs. We find that these allegations were either previously settled, dismissed by the Board
+and affirmed by the Court of Appeals, or abandoned. Therefore, we will not consider the
+following allegations raised by the appellant:
+                                        -23-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+(1) Osborne forwarded the cover letter of Unfoldment’s contract for signature, but failed
+to include the Articles containing the scope of work, thus depriving appellant of the
+opportunity to “negotiate” contract terms. Appellant’s Post Trial Br. 30. This previously
+dismissed allegation was pleaded in ¶137(a) of appellant’s third amended complaint, and
+¶10 of its original complaint.
+
+(2) Osborne refused to pay Unfoldment’s start-up costs while paying a white vendor’s
+$77,500 in start-up costs. Appellant’s Post Trial Br. 31, 32. This previously dismissed
+allegation was pleaded in ¶137(i) of appellant’s third amended complaint.
+
+(3) Oppedisano refused to modify Unfoldment’s contract to allow it to offer group home
+services at an eight-bed Virginia location after one of its DC properties was
+damaged by fire. Appellant’s Post Trial Br. 33. We find that this allegation is beyond
+the scope of the Board’s September 24, 2009, Order.
+
+(4) CFSA failed to hold mandatory pre-placement conferences and evaluations
+concerning youth placed in its care. Appellant’s Post Trial Br. 42-43. This previously
+dismissed allegation was pleaded in ¶137(g) of appellant’s third amended complaint, ¶90
+of its first amended complaint, and ¶16 of its original complaint.
+
+(5) CFSA placed underage children with Unfoldment requiring specialized treatment
+without providing necessary services and refused to pay invoices for approved
+specialized services. Appellant’s Post Trial Br. 44. This previously dismissed allegation
+was pleaded in ¶¶137(d) and 137(j) of the appellant’s third amended complaint.
+
+(6) Oppedisano breached the Contract Performance Standards provision and imposed
+unfair performance standards without Unfoldment’s knowledge. Appellant’s Post Trial
+Br. 45. This previously dismissed allegation was pleaded at ¶ 27 of appellant’s amended
+complaint, and exceeds the scope of the Board’s September 24, 2009, Order.
+
+(7) CFSA failed to provide “new vendor” training and technical assistance offered to
+other vendors. Appellant’s Post Trial Br. 47. Appellant’s previously dismissed “new
+vendor” training allegation was pleaded at ¶16 of its complaint. Appellant’s “technical
+assistance” allegation exceeds the scope of the Board’s September 24, 2009, Order.
+
+(8) Oppedisano retaliated for Unfoldment’s request for wraparound services
+by requesting authority to issue a default termination. Appellant’s Post Trial Br. 51. This
+previously dismissed allegation was pleaded at ¶ 67 of appellant’s complaint.
+
+(9) CFSA required Unfoldment to spend $14,000 to replace sound windows
+and doors. Appellant’s Post Trial Br. 56. This previously dismissed allegation was
+pleaded in appellant’s complaint at ¶19 and its first amended complaint at ¶42.
+
+(10) Oppedisano cited Unfoldment for hiring staff with criminal records for whom he’d
+previously granted waivers. Appellant’s Post Trial Br. 60. This allegation is beyond the
+scope of the Board’s September 24, 2009, Order.
+                                                -24-                 Unfoldment, Inc., CAB No. D-1062
+
+
+
+
+       (11) spoiliation, retaliation, and equal access to justice act attorneys’ fees claims.
+       Appellant’s Post Trial Br. 73-75. These previously dismissed allegations were
+       pleaded at ¶¶ 25-26 and 107 of appellant’s amended complaint, and/or were previously
+       dismissed by the Board. In addition, these allegations are beyond the scope of the Board’s
+       September 24, 2009, Order.
+
+V. Conclusion
+
+        We dismiss appellant’s claims with prejudice. The appellant has not established that
+CFSA’s non-payment of contract minimums was due to bad faith. The appellant’s new evidence,
+and the record before the Board, does not establish that CFSA terminated appellant’s contract for
+default, and later converted the default into a convenience termination. Rather, the record shows
+that the parties’ contract expired under its own terms. Finally, the appellant did not establish that
+CFSA acted in bad faith as alleged in ¶139 (a)-(d) of the appellant’s third amended complaint.
+
+SO ORDERED.
+
+DATED: March 14, 2013                                  /s/ Marc D. Loud, Sr.
+                                                       MARC D. LOUD, SR.
+                                                       Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Monica C. Parchment                                /s/ Maxine E. McBean
+MONICA C. PARCHMENT                                    MAXINE E. MCBEAN
+Administrative Judge                                   Administrative Judge
+
+
+Electronic Service to:
+
+Kemi Morten
+3003 Van Ness Street, NW., Suite W228
+Washington, D.C. 20008
+
+Brian Lederer, Esq.
+Law Offices of Brian Lederer
+3003 Van Ness Street, NW., Suite W228
+Washington, D.C. 20008
+
+Chad Copeland, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 6th Floor South
+Washington, D.C. 20001
+

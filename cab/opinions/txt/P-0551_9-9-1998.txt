@@ -1,0 +1,421 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       A.L. EASTMOND AND SONS, INC.                            )
+                                                               )       CAB No. P-551
+       Under IFB No. DCPS-I-98063-OC                           )
+
+
+      For the Protester: Michael E. Geltner, Esq., Geltner & Associates, P.C. For the Government:
+Howard S. Schwartz, Esq., Warren J. Nash, Esq., and H. Christopher Malone, Esq., Assistants
+Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+                                             OPINION
+
+        A.L. Eastmond and Sons, Inc., protests the award of a contract to the high bidder, Kewanee
+Boiler Manufacturing Co., made because Eastmond and the second low bidder failed to include bid
+bonds in their bids. Eastmond argues that the solicitation’s Amendment No. 1 which inserted a bid
+bond requirement was superseded by written responses to questions which indicated that a bid bond
+was not required. The District has moved to dismiss the protest on the ground that the District of
+Columbia Financial Responsibility and Management Assistance Authority (“Authority”) executed
+the contract award on behalf of the District of Columbia Public Schools (“DCPS”) thus rendering
+any protest beyond the reach of the Procurement Practices Act and our jurisdiction. We conclude
+that we properly exercise protest jurisdiction because the procurement was conducted by DCPS, the
+PPA and the solicitation made protests subject to Board jurisdiction, and the Authority did not
+amend the solicitation to alter the bidders’ protest rights. On the merits, we conclude that DCPS did
+not violate law or regulation in rejecting the two low bids as nonresponsive for failing to include bid
+bonds. Accordingly, we deny the protest.
+
+                                               FACTS
+
+        On May 27, 1998, DCPS issued IFB No. DCPS-I-98063-OC, to procure boilers and boiler
+installation services for various schools located in the District of Columbia. (District’s August 11,
+1998 Submission (hereafter “District’s Supplement”)). DCPS also issued a companion solicitation,
+IFB No. DCPS-I-98064-OC, for the construction services needed to install the new boilers (being
+supplied under the 98063 solicitation) in the schools.
+
+        On the first page, the solicitation refers to the terms and conditions “by the District of
+Columbia Public Schools” and that award is to be completed by DCPS and executed by a
+contracting officer on behalf of DCPS. Section A.1 states that it “is the District of Columbia Public
+School’s (DCPS) intent to procure boilers and boiler installation services and/or assign the contract
+in whole or in part to a District of Columbia Public Schools’ construction contractor(s) to procure
+boilers and boiler installation.” Section A.3 states that the contract will be managed as follows:
+                                               −2−                   A.L. Eastmond & Sons, CAB No. P-551
+
+
+
+       a) The District of Columbia Public Schools (DCPS) is the Owner;
+       b) The U.S. Army Corps of Engineers (COE) is the Contract Administrator; and
+       c) Sverdrup Facilities, Inc. is the Construction Manager.
+
+Sections E.2, F.2, and G.2 provide that DCPS was to be responsible for all aspects of contract
+administration, performance evaluation, inspection, and final acceptance of the work. Pursuant to
+Sections G.1 and G.2, DCPS was responsible for payment of invoices, including progress payments
+and final payment. Indemnity, warranty, and liquidated damages rights were to be exercised by
+DCPS pursuant to Section H. Section I.7 makes clear that the contract was to be funded by DCPS
+appropriated funds and that DCPS’ “obligation under this contract is contingent upon the availability
+of appropriated funds from which payment for contract purposes can be made.” DCPS was also the
+responsible District entity under the Suspension of Work, Changes, Default, Excusable Delays
+clauses. The Contract Disputes clause, Section I.15, provides that the DCPS CEO/Superintendent is
+responsible for issuing a final written decision on any dispute relating to a contract which is not
+resolved by informal discussions between the contracting officer and the contractor. The clause
+provides that the contractor may appeal the CEO/Superintendent’s decision to the Contract Appeals
+Board.
+
+       Section L.1, entitled “Bid Submittal Instructions,” stated that bids were to be submitted in
+two separate envelopes, one envelope containing submittal requirements of Sections J, K, and L, and
+another envelope containing, among other things, the bid’s “Front page” and “your firm’s bid
+guarantee.”
+
+        The record indicates that a pre-bid conference was held on June 4, 1998.1 Although Mr.
+Omor Igiehon, the manager responsible for preparing Eastmond’s bid, was concerned “in the early
+stage of the procurement” about “whether bonds would be required” neither he nor anyone else
+raised the issue of the bid, payment, or performance bonds at the pre-bid conference.2 (Eastmond
+Brief, filed August 12, 1998, Ex. 1, ¶ 3 (Aff. of Omor Igiehon)). Mr. Igiehon states that on one
+occasion he spoke with Mr. Terry Hernson, an employee of DCPS’ capital projects office,
+
+1
+  Although the document entitled “Answers to Questions [for] Pre-bid Conference June 4, 1998”
+identifies the 98064 solicitation by number, a copy of this document in the District August 11, 1998
+Submission bears a hand correction indicating the 98063 solicitation. The content suggests that it
+refers to the 98063 solicitation.
+2
+  The record does not indicate whether a representative from Eastmond attended the pre-bid
+conference.
+                                                −3−                    A.L. Eastmond & Sons, CAB No. P-551
+
+concerning bond requirements, and was told that the subject “would be addressed when DCPS sent
+out its amendment to the IFB and that DCPS was going to require a performance bond, but not a bid
+bond, from the boiler supplier.” (Id.).
+
+        In a June 8, 1998 letter to DCPS’ Mr. Hernson, Complete Boiler Systems (“CBS”), a
+prospective bidder, sought a number of clarifications regarding the 98063 solicitation. Concerning
+the construction contractor who ultimately would be successful under the 98064 solicitation, CBS
+asked whether the construction contractor would be “providing a materials bond covering the boilers
+assigned.” Concerning the 98063 solicitation, CBS asked: “What form of bid guarantee is required
+with this solicitation?” In a June 9, 1998 letter to the DCPS contracting officer, another prospective
+bidder under the 98063 solicitation, Union Boiler Works, Inc., stated:
+
+       Section L.1(b) refers to bid guarantee. We can find no requirement for a bid
+       guarantee. We would not expect same inasmuch as this solicitation is under the
+       Service Contract Act. Please clarify.
+
+On June 15, 1998, DCPS issued Amendment No. 1 to the 98063 solicitation. Mr. Igiehon of
+Eastmond states that he received an envelope on June 18, 1998, which contained Amendment No. 1
+(Protest, Ex. 2) and also written answers to questions submitted by potential bidders (Protest, Ex. 3).
+ (Igiehon Aff. ¶ 5). Item 6 of the Amendment states: “Section J is changed to add the Performance
+Bond Form 0073 attached herein as Attachment J-13.” (Protest, Ex. 2). Item 19 states: “The
+contractor will be required to submit Performance Bonds and Payment Bonds as specified in the
+Notice to Proceed Letter.” Item 20 states:
+
+       Bid bond: (Applicable only if bid/contract is $25,000.00 or greater). Each bidder
+       shall submit with its bid a Bid Bond (DCPS FORM 0072) with good and sufficient
+       surety or sureties acceptable to DCPS, or other security as provide[d] in FAR
+       52.0228-0001, Bid Guarantee, in the form of five percent (5%) of the bid price or
+       acceptabilities of individuals proposed as sureties. One individual surety is adequate
+       support for a bond, provided the unencumbered value of the assets pledged by the
+       individual surety equal or exceed the amount of the bond. The contracting officer
+       shall consider the number and amount of other bonds upon which a proposed
+       individual surety is based, and the status of the contracts for which such bonds were
+       furnished, in determining the acceptability of the individual surety. Instruction on
+       the form DCPS FORM NO. 0072 shall be followed.
+
+Item 21 replaced Section L.1.1 with the following: “Bids shall be submitted in one envelope.”
+
+       Item 16 changed Section I to incorporate by reference the “Rules of the District of Columbia
+Board of Education, Title 5, D.C. Municipal Regulations, Sections 3700 et seq., ‘Procurement and
+Negotiated Service Contracts.’” (Protest, Ex. 2). Item 17 added to Section I a number of new
+clauses, including the following:
+
+       PROTEST RESOLUTION BY THE PROCUREMENT OFFICER
+
+       Complaint to Procurement Officer. Complainants should seek resolution of their
+                                                −4−                   A.L. Eastmond & Sons, CAB No. P-551
+
+       complaints initially with the Procurement Officer or the office that issued the
+       solicitation. Such complaints may be made in writing.
+
+       Filing of Protest. Protests shall be made in writing to the Procurement Officer, and
+       shall be filed in duplicate within ten (10) days after the protestor knew or should
+       have known of the facts giving rise thereto. A protest is considered filed when
+       received by the Procurement Officer. Protests filed after the ten (10) day period shall
+       not be considered, except where a waiver has been granted the protester by the D.C.
+       Public Schools due to extenuating circumstances.
+
+The “Responses to Pre-Bid Questions” document, which Eastmond received in the same envelope
+with Amendment No. 1, is dated June 16, 1998. There is no language in the Amendment which
+incorporates the written responses to questions. The most that can be said is that the written
+responses clarify the original solicitation and direct the bidders to the Amendment for changes to the
+original solicitation. With regard to CBS’ question concerning construction contractor bonding, the
+written responses provide the following:
+
+       Each construction contractor will be responsible for 4 schools. Each construction
+       contractor is responsible for providing a performance, payment and bid bond for the
+       entire value of his/her bid price. The boiler supplier is responsible for providing a
+       payment bond for the entire value of his/her bid price.
+
+With regard to CBS’ question concerning a bid bond or bid guarantee for the boiler supplier, the
+document provides the following answer: “The Boiler supplier is responsible for a Performance
+bond. See Amendment for details.” With regard to Union Boiler Works’ question concerning a bid
+guarantee, the document provides the following answer: “Bid guarantee not required.” With regard
+to a performance bond, the document states: “A Performance Bond is required for this contract.”
+
+         Three bids were submitted under the 98063 solicitation and opened on June 19, 1998.
+Eastmond bid $1,969,000, Rockmill Steel Products bid $2,124,965, and Kewanee bid $2,167,640.
+(District’s Supplement, Bid tab sheet). Eastmond and Rockmill did not include bid bonds with their
+bids while Kewanee included a bid bond on a commercial form. (Id., Synopsis of Procurement
+dated July 10, 1998). The record indicates that Kewanee filed a protest with the contracting officer
+(Procurement Officer) challenging the bids of Eastmond and Rockmill for lack of bid bonds. The
+Corps of Engineers asked Eastmond to verify its bid on June 24, 1998. After reviewing Kewanee’s
+protest and receiving legal and contract advice from various government representatives, the
+contracting officer concluded that the lower bids of Eastmond and Rockmill were nonresponsive
+based on the lack of a bid bond and that Kewanee’s higher bid was nevertheless responsive and
+reasonably priced. In an amendment to the 98064 construction solicitation issued on July 8, 1998,
+by the Corps of Engineers on behalf of DCPS, prospective construction contract bidders were
+advised that Kewanee would be the boiler supplier under the 98063 solicitation. Eastmond learned
+of this amendment on July 10 and apparently filed a protest with the contracting officer challenging
+the presumed award to Kewanee and rejection of Eastmond’s bid for lack of a bid bond. On July 9,
+the contracting officer executed a determination finding Kewanee to be a responsible bidder, its bid
+to be responsive, and its bid price to be reasonable. (District’s Supplement, Determination of
+Responsibility/Responsiveness and Reasonableness of Price). On July 15, 1998, Eastmond filed its
+                                               −5−                    A.L. Eastmond & Sons, CAB No. P-551
+
+protest with us.
+
+        On July 17, 1998, Mr. Richard P. Fite, the District’s Chief Procurement Officer, executed a
+contract with Kewanee under the 98063 solicitation. (District’s Supplement, Solicitation, Offer, and
+Award for Supplies and/or Services). In making the award, Mr. Fite used inter alia the bid cover
+page from Kewanee’s bid and the revised pricing package from Amendment No. 1. Several changes
+were made to the bid cover page for the contract award. First, the heading “District of Columbia
+Public Schools” which appeared just above the title “Solicitation, Offer, and Award for Supplies
+and/or Services” on the original solicitation cover sheet, was crossed out. Second, the block on the
+form indicating that DCPS had issued the solicitation was modified by adding the following
+information:
+
+       Award Issued By:
+       DC Financial Responsibility and Management
+       Assistance Authority (DCFRA)
+       One Thomas Circle, NW, Suite 900
+       Washington, DC 20005
+
+Third, the line at the bottom of the form which originally read “Award (To be completed by the
+District of Columbia Public Schools)” was annotated by replacing “District of Columbia Public
+Schools” with “DCFRA.” Fourth, the contract number is stated as “DCFRA# 98-C-025.” Fifth, the
+award amount was changed from $2,167,640 to $2,162,640. Finally, the contracting officer’s
+signature block was changed by replacing the heading, “District of Columbia Public Schools,” with
+“DC Financial Responsibility Authority.”
+
+       On July 17, 1998, Mr. Fite (on behalf of the Authority) and Kewanee executed Modification
+0001 to Contract No. DCFRA# 98-C-025. (District’s Supplement, “Modification of Contract”). The
+modification states:
+
+       This contract is entered into by the District of Columbia Financial Responsibility and
+       Management Assistance Authority (“Authority”) on behalf of District of Columbia
+       Public Schools. The Authority is authorized by Section 103 of Public Law 104-8,
+       the District of Columbia Financial Responsibility and Management Assistance Act of
+       1995 (the “Act”), to enter into contracts for the purpose of carrying out its
+       responsibilities, which include assisting the District Government in avoiding
+       interruptions in the delivery of services. The Authority is not subject to the DC
+       Procurement Practices Act, or any other laws or regulations governing procurement
+       by the District Government. The Contractor will have a direct relationship with the
+       District Government. The Authority may assign all rights and obligations under the
+       contract to the District Government.
+
+The modification deletes the Contract Disputes clause, Section I.15, with the following:
+
+       In the event of a disagreement or dispute regarding any matter covered by this
+       Agreement, which is not disposed of by mutual agreement, the Contracting Officer
+       shall, at either party’s request, issue a Contracting Officer’s decision on the matter,
+                                                −6−                    A.L. Eastmond & Sons, CAB No. P-551
+
+       which both parties shall comply with. If the Contractor does not comply with that
+       decision, it may pursue whatever remedies it may have. In such event, each party
+       shall be responsible for all costs it incurs as a result of such action.
+
+The modification also states that “Notwithstanding any other provision in this contract, the Authority
+is not subject to the following laws: ‘Assignment of Claims Act,’ ‘Contract Disputes Act of 1978,’
+‘Prompt Payment Act.’” The modification adds that “[e]xcept as modified herein, all other terms
+and conditions of the above-numbered contract remain in full force and effect.”
+
+        On July 22, Eastmond moved the Board for an order, pursuant to the automatic stay
+provisions of the Procurement Practices Act, prohibiting the District from taking any procurement
+actions pending resolution of the protest. Only July 24, the District moved to dismiss the protest on
+the ground that the Authority, not the District government, is the contracting entity for the boiler
+supply and installation work. On August 5, the Board held a telephone conference with Eastmond
+and the District. Pursuant to that conference, the District filed documents but no brief on August 11
+and Eastmond filed a brief on August 12.
+
+                                           DISCUSSION
+
+       A. Jurisdiction
+
+        The District argues that the Authority has taken over the boiler procurement and that it — not
+DCPS — awarded the contract to Kewanee. According to the District, because the Authority is the
+contracting agency, and the Board lacks authority to consider protests of awards by the Authority,
+the Board must dismiss the protest. Eastmond argues that the Authority’s power to enter into
+contracts pursuant to section 103 of Public Law No. 104-8 is not applicable to the DCPS solicitation
+here, where the solicitation was issued and conducted by and for DCPS, and contract performance
+will be administered and funded by DCPS.
+
+        The District correctly notes that Congress has delegated broad powers to the Authority and
+has exempted the Authority from review by the Mayor or the City Council and the District’s
+Procurement Practices Act. See Pub. L. No. 104-8, Apr. 17, 1995, §§ 102(c), 108. Section 103(g),
+entitled “Authority To Enter Into Contracts,” provides that the “Executive Director [of the
+Authority] may enter into such contracts as the Executive Director considers appropriate (subject to
+the approval of the Chair) to carry out the Authority’s responsibilities under this Act.” Regardless of
+whether the award made by the Authority to Kewanee comes within the terms of section 103(g), we
+conclude the Authority’s award action and bilateral modification affect resolution of contract
+performance disputes, not solicitation and award protests.
+
+        All aspects of the solicitation and procurement leading up to award were conducted by the
+DCPS contracting officer, known also as the DCPS Procurement Officer. At the time DCPS issued
+the solicitation, the Procurement Reform Amendment Act of 1996, D.C. Law 11-259, made DCPS
+procurements subject to the Procurement Practices Act, D.C. Code § 1-1181.4(a) (Supp. 1998), and
+protests of those procurements subject to Board jurisdiction, id.§ 1-1189.3(a)-(b). Amendment No.
+1, issued several days prior to bid opening, demonstrates that the solicitation and any award under
+the solicitation was subject to the Board’s protest jurisdiction. Amendment No. 1 incorporated the
+                                                 −7−                    A.L. Eastmond & Sons, CAB No. P-551
+
+protest procedures of 5 DCMR Chapter 37 which provide for filing of protests with the DCPS
+Procurement Officer, followed by CEO/Superintendent review, followed by Contract Appeals Board
+review.3 Amendment No. 1 continues to show procurement authority being exercised by DCPS. At
+no time prior to award did the Authority issue a solicitation amendment taking control over the
+procurement or eliminating protest rights of bidders. Nor has the Authority suggested that it
+intended to deprive bidders of their protest rights when it executed the contract on behalf of DCPS.
+Therefore, based on the record presented to us, it is clear that Board protest jurisdiction was intended
+and never revoked. A reading of Modification 001 of the contract awarded to Kewanee indicates
+that the modification was directed to contract performance disputes, not solicitation or award
+protests.
+
+       B. Merits
+
+        Eastmond argues that its bid should not have been deemed nonresponsive based on a failure
+to submit a bid bond with its bid. Although Eastmond’s contracting official saw the bid bond
+requirement contained in Amendment No. 1, he concluded that a bid bond was not required because
+(1) DCPS had not supplied the bid bond form, DCPS Form No. 0072, with the Amendment, while it
+did supply the performance bond form, DCPS Form No. 0073; (2) DCPS would not have asked
+bidders (who were known to be out of town) to provide a bid bond on such short notice without
+including the form; (3) the written responses to the pre-bid questions, which specifically referenced
+Amendment No. 1 and post-dated it, constituted an amendment of the solicitation and made clear
+that DCPS did not want a bid bond, only a performance bond; and (4) the second low bidder also
+interpreted the solicitation as not requiring a bid bond.
+
+        Eastmond’s strongest argument is that the written responses to the pre-bid questions
+constituted an amendment of the solicitation, and thus, effectively amended Amendment No. 1 by
+
+3
+  By virtue of the revisions to the PPA effected by the Procurement Reform Amendment Act, the
+appeal and protest procedures set forth in the Board of Education regulations at 5 DCMR Chapter 37
+no longer apply to DCPS procurements. There is no provision for agency-level protests in the PPA
+as amended. Although erroneous in some regards, the protest procedures incorporated by the
+solicitation correctly identify the Board as the protest forum.
+                                                −8−                   A.L. Eastmond & Sons, CAB No. P-551
+
+eliminating the bid bond requirement. We conclude that the written responses did not constitute an
+amendment and therefore did not have the effect of eliminating the bid bond requirement clearly
+specified in Amendment No. 1. In the present case, the responses to the pre-bid questions were
+furnished to the bidders at the same time as Amendment No. 1. Amendment No. 1 cannot be read as
+incorporating by reference the written responses. Both the disclaimer at the beginning of the written
+responses and the repeated references in the written responses directing bidders to Amendment No. 1
+demonstrate that the original solicitation and Amendment No. 1 were meant to be the official and
+controlling documents for defining the terms and conditions. The written responses to the pre-bid
+questions served at most as a clarification of technical requirements. It was also not reasonable to
+rely on the written responses as eliminating the bid bond requirement because of the ambiguities and
+inconsistencies in the responses themselves. For example, in response to CBS question 27, the
+document states that the construction contractor must provide a performance bond, a payment bond,
+and a bid bond and that the boiler supplier must provide a payment bond. Then, in response to CBS
+question 30, the document states that the boiler supplier is responsible for a performance bond and is
+directed to Amendment No. 1 for “details.” In response to Union Boiler’s question 8 which states
+that it can find no requirement for performance and payment bonds, the written response states that a
+performance bond is required. Thus, we do not find that it was reasonable to place any reliance on
+these responses or the “bid guarantee not required” response in the face of Amendment No. 1, which
+clearly requires a bid bond with the bid and performance and payment bonds as specified in the
+notice to proceed letter.
+
+        Eastmond’s other reasons for not submitting a bid bond do not add any material support to its
+position. That Amendment No. 1 did not include a copy of the bid bond form, while including the
+performance bond form, is not compelling. We do not see why a bidder could not obtain a copy of
+the bid bond form by facsimile or other timely means even one day before bid opening and have the
+surety properly execute the form in time for submission with its bid. Nor was it reasonable to rely
+on the oral indication from a DCPS representative who was not the contracting officer and given
+prior to Amendment No. 1. Moreover, the DCPS representative advised Eastmond’s representative
+that the subject of bonds would be addressed in a forthcoming DCPS amendment. Considering
+together all of Eastmond’s reasons for not submitting a bid bond, it was not reasonable to conclude
+that the bid bond requirement spelled out in Amendment No. 1 was either wrong or had been
+superseded.4
+
+         The GAO precedent cited by Eastmond does not compel a different conclusion. In Essex
+Electro Engineers, Inc., B-232675, 89-1 CPD ¶ 44, the GAO concluded that a transcript of a pre-bid
+conference was part of an amendment where the transcript “was attached to, referenced in, and
+explicitly made a part of [the amendment].” In the present case, the written responses to the pre-bid
+4
+   We also place no weight on the asserted comment by the CPO after Eastmond’s protest had been
+filed that a bid bond requirement was not intended. The intent of DCPS’ contracting officer here is
+most reliably gleaned from the written action of the contracting officer, namely Amendment No. 1.
+                                                −9−                    A.L. Eastmond & Sons, CAB No. P-551
+
+questions were neither attached to, referenced in, or explicitly made a part of Amendment No. 1. As
+described above, the written responses indicated to bidders that they had to look to Amendment No.
+1 and the original solicitation for the controlling terms and conditions. Because the written
+responses were sent out in the same envelope with Amendment No. 1, the contracting officer could
+have decided to expressly incorporate the written responses into the Amendment. He did not do so.
+
+        Alternatively, Eastmond argues that if the written responses did not amend the solicitation,
+they rendered it ambiguous. Eastmond cites, among others, Phil Howry Co., B-245892, 92-1 CPD ¶
+137, for the proposition that specifications must be sufficiently definite and free from ambiguity as
+to permit competition on an equal basis and that an ambiguity exists if a solicitation requirement is
+subject to more than one reasonable interpretation when read in the context of the solicitation as a
+whole. We agree with that legal proposition. It does not apply here, however, because the original
+solicitation, as amended by Amendment No. 1, does not create an ambiguity concerning the
+requirement for a bid bond. To the contrary, Amendment No. 1 explicitly requires a bid bond
+requirement. Phil Howry and the other cases cited by Eastmond involved conflicting solicitation
+terms. In our case, a solicitation term found in Amendment No. 1 is in conflict with a written
+response to a pre-bid question, but that written response is not a part of the solicitation.
+
+        In our view, the fact that both the apparent low bidder and second low bidder failed to
+include bid bonds means only that both bidders mistakenly relied on an erroneous response to a
+bidder question. Undoubtedly, if DCPS had been more careful in reviewing the written responses to
+bidder questions prior to mailing them to bidders, and had removed the incorrect response indicating
+that a bid bond was not required, then Eastmond would have followed the direction given by
+Amendment No. 1 and supplied a bid bond. Even after receiving the protests, the contracting officer
+might have decided that it was in the government’s best interest to cancel and reissue the solicitation
+under an expedited schedule. The contracting officer did not do so and we have no basis in the
+record for concluding that his exercise of discretion was unreasonable. See Phil Howry Co., 92-1
+CPD ¶ 137.
+
+        Finally, Eastmond argues that bid bond submitted by Kewanee did not comply with the
+solicitation requirements. We do not agree. Although Kewanee did not use DCPS Form No. 0072,
+its bid bond provided DCPS the same legal protection as the DCPS form in the event of default.
+Eastmond’s argument that the bid bond is ineffective for lack of a power of attorney is without merit.
+ The bond is executed by two persons on behalf of the surety and the signatures are supported by
+standing resolutions of the corporation and an incorporated power of attorney and certificate of
+authority.
+
+                                          CONCLUSION
+
+       Eastmond’s protest is denied.
+
+
+DATED: September 9, 1998                        /s/
+                                                       JONATHAN D. ZISCHKAU
+                                                       Administrative Judge
+                             − 10 −   A.L. Eastmond & Sons, CAB No. P-551
+
+CONCURRING:
+
+
+/s/
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+/s/
+PHYLLIS W. JACKSON
+Administrative Judge
+

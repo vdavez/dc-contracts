@@ -1,0 +1,163 @@
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+SYSTEMS ASSESSMENT & RESEARCH, INC.                              )
+                                                                 )    CAB No. P-0738
+Under Solicitation No. GAGA-2006-R-0176                          )
+
+
+        For the Protester: Julian H. Spirer, Esq., and Brian M. Lowinger, Esq., Spirer & Goldberg, P.C.
+For the District of Columbia Public Schools: Aaron E. Price, Sr., Esq., Attorney-Advisor, District of
+Columbia Public Schools.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+
+                 OPINION DENYING MOTION FOR RECONSIDERATION
+                                            Filing ID 15179746
+
+
+        Systems Assessment & Research, Inc. (“SAR”), now represented by counsel, moves for
+reconsideration of the Board’s decision of September 21, 2006, 54 D.C. Reg. 2033, dismissing SAR’s
+pro se protest of the award of a contract to Columbus Educational Services, LLC, as a special
+education services provider to assist the District of Columbia Public Schools (“DCPS”) in the
+implementation of a consent decree entered in the federal class action lawsuit, Blackman v. District of
+Columbia, et al., 97-CV-1629 (D.D.C.) (“Blackman consent decree”). In our decision, we held that the
+protest should be dismissed because the federal court in Blackman exempted DCPS from the
+Procurement Practices Act (“PPA”) for procurements implementing the Blackman consent decree, and
+the solicitation at issue clearly implemented the consent decree and the PPA exemption. As discussed
+below, we see no legal error in our holding that the solicitation is not subject to the PPA, and that the
+Board has no protest jurisdiction over an award challenge. Accordingly, we deny the motion for
+reconsideration.
+
+                                            DISCUSSION
+
+        SAR does not contend that we erred in finding that the solicitation implemented the Blackman
+consent decree. We stated in our decision that DCPS “issued Solicitation No. GAGA-2006-R-0176 for
+the procurement of special education instructional and related services to assist in the implementation
+of the Blackman consent decree.” 54 D.C. Reg. at 2033. SAR contends rather that DCPS did not elect
+to waive the procurement laws in the solicitation as authorized in the Blackman consent decree.
+Further, SAR argues that the exemption provided in the Blackman consent decree applies “only to the
+procurement laws treating the contracting process” but is “not intended to wrest authority from the
+Board to review the contracts from the perspective minimally of due process and fundamental
+fairness.” (Motion for Reconsideration, at 1-2). The Blackman court entered an interim order
+providing in pertinent part:
+                                                  -2-                              SAR, Inc., CAB No. P-0738
+
+
+       Ordered that pending final approval of the Consent Decree, in order to implement the
+       preliminary approved Consent Decree, the [District of Columbia Government is] not
+       bound by the D.C. Procurement Practices Act or any other District or federal law
+       relating to procurement, or any regulations thereunder.
+
+54 D.C. Reg. at 2033. The final consent decree contains identical language. Although SAR focuses on
+the “not bound by” language in the consent decree as meaning something less than a complete
+exemption from the PPA, we cannot agree with its analysis. The language of the clause
+unambiguously provides a complete exemption from the PPA, and, therefore, from our jurisdiction
+pursuant to the PPA, if DCPS chose to elect the exemption. We concluded that the terms of the
+solicitation clearly showed that DCPS elected the exemption provided by the Blackman consent decree.
+There are at least 8 references in the solicitation to the Blackman litigation or the consent decree:
+Solicitation Synopsis and Section B.1 (“[DCPS] is seeking a qualified provider of Special Education
+Services to provide a variety of Special Education Personnel to assist in the implementation of the
+Blackman-Jones Consent Decree”); Section C.1.1 (“On December 19, 2005, the [District Government]
+and [DCPS], and the Plaintiffs in the Blackman-Jones class action lawsuit entered into a new consent
+Decree . . . .”); Section C.1.2 (referring to the filing of the Blackman-Jones lawsuits in 1997); Section
+C.1.3 (indicating that as a result of the Blackman-Jones lawsuits, DCPS seeks a qualified contractor to
+recruit and hire 46 special education professionals); Section C.2.8.1 (“The Contractor shall ensure
+[that] assessments and IEP’s meet the Blackman-Jones Consent Decree performance measures. To
+view the Consent Decree and the performance measures visit the DCPS website….”); Section C.4.4
+(“The standards for performance are based on the performance measures for assessments outlined in
+the DCPS Blackman-Jones Action Plan.”); and Section C.4.7.1 (“Responsibilities shall include …
+collection and evaluation of data for performance measures required by the Consent Decree . . . .).
+
+        Section L of the solicitation, entitled “Instructions, Conditions and Notices to Offerors,”
+contains Sections L.6 and L.8 but significantly omits Section L.7. As noted in our decision in Banks, et
+al., CAB Nos. P-0743, P-0744, Jan. 9, 2007, 54 D.C. Reg. 2060, the missing DCPS standard
+solicitation provision in Section L.7 is entitled “Proposal Protests” and provides:
+
+       Any actual or prospective bidder, offeror, or contractor who is aggrieved in connection
+       with the solicitation or award of a contract, must file with the D.C. Contract Appeals
+       Board (Board) a protest no later than 10 business days after the basis of the protest is
+       known or should have been known, whichever is earlier. A protest based on alleged
+       improprieties in a solicitation which are apparent prior to the time set for receipt of initial
+       protests shall be filed with the Board prior to bid opening or the time set for receipt of
+       final proposals. . . .
+
+54 D.C. Reg. at 2062. The incorporation of L.7 in Banks confirmed that DCPS did not invoke the
+Blackman consent decree waiver of the PPA and thus we had jurisdiction in that case to consider
+protests of the awards. Id. In the present case, however, the omission of the protest provision, coupled
+with the repeated references in the solicitation to implementing the Blackman consent decree,
+demonstrate the intent of DCPS to be exempt from the PPA and thus from the Board’s protest
+jurisdiction. We recommend for future procurements, where DCPS intends to invoke the Blackman
+consent decree’s procurement law waiver, that the contracting officer expressly invoke the
+procurement law waiver in the solicitation.
+                                                 -3-                             SAR, Inc., CAB No. P-0738
+
+
+
+
+        SAR also contends that DCPS “explicitly subjected the solicitation to the PPA” by including
+Solicitation Section I.1. (Supplement to Motion for Reconsideration, at 2), which provides:
+
+       The Standard Contract Provisions for use with District of Columbia Government Supply
+       and Services Contracts dated November 2004, (Attachment J.1) the District of Columbia
+       Procurement Practices Act of 1985, as amended, and Title 27 of the District of Columbia
+       Municipal Regulations as amended are incorporated as part of the contract resulting from
+       this solicitation.
+
+This provision states that the PPA is applicable to the contract resulting from the solicitation. It does
+not make the PPA applicable to the solicitation itself.
+
+        Finally, SAR argues that the contracting officer effectively amended the solicitation to
+incorporate Board protest jurisdiction through an email sent to SAR’s representative. Attached to the
+Motion for Reconsideration is an exhibit containing two emails. The first email, dated June 23, 2006,
+was sent from Mr. Don Early of SAR to the contracting officer, Ms. Glorious Bazemore, and contains
+the following: “[SAR] is formally submitting an official protest to subject contract. Please review the
+attached documents and contact me if there are any questions. . . .” (Motion for Reconsideration, Ex.
+1). Ms. Bazemore responded by email later on the evening of June 23, stating:
+
+       Any actual or prospective offeror or contractor who is aggrieved in connection with the
+       solicitation or award of a contract, must file with the D.C. Contract Appeals Board
+       (Board) a protest no later than 10 business days after the basis of the protest is known . .
+       . . The protest shall be filed in writing, with the Contract Appeals Board . . . . The
+       aggrieved person shall also mail a copy of the protest to the Contracting Officer for the
+       solicitation. DCPS will not take any action on this informal notification.
+
+(Id.). SAR contends that this communication “invoked the jurisdiction of the Board and bound both
+the Board and SAR to the use of the Board to resolve any dispute.” We believe that the contracting
+officer made an inadvertent error in suggesting that SAR should follow the protest procedures found in
+the standard solicitation protest provision (Section L.7) because, as we have discussed above, DCPS
+intentionally omitted Section L.7 as part of invoking the Blackman consent decree’s procurement law
+waiver. Although the contracting officer’s informal email responded to SAR’s equally informal email
+“protest”, there is no evidence that the contracting officer intended her email to constitute an
+amendment of the solicitation and a repudiation of DCPS’s earlier election of the Blackman consent
+decree’s procurement law exemption. DCPS subsequently confirmed its intent to rely on the Blackman
+exemption in its Agency Report by stating as a defense to the protest that “the United States District
+Court in [Blackman] waived the procurement laws of the District of Columbia as they apply to
+implementation of the Blackman/Jones Consent Decree.”
+                                           -4-                          SAR, Inc., CAB No. P-0738
+
+
+
+
+      For the reasons discussed above, we deny SAR’s motion for reconsideration.
+
+
+      SO ORDERED.
+
+DATED: June 11, 2007                             /s/ Jonathan D. Zischkau
+                                                 JONATHAN D. ZISCHKAU
+                                                 Chief Administrative Judge
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

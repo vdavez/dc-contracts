@@ -1,0 +1,60 @@
+<html>
+	<head>
+
+<script src="js/jquery-1.10.1.min.js"></script>
+<script src="js/lunr.js"></script>
+<script type="text/javascript" charset="utf-8">
+
+$(window).load(load_index);
+
+function load_index () {
+	$.getJSON('index.json', function (d) {
+	index = lunr.Index.load(d);
+	alert('ready')
+})};
+
+function get_results () {
+	var search_terms = document.forms["search_form"]["search_term"].value;
+	var results_list = index.search(search_terms);
+	var out = "<ul>";
+	for (i in results_list) {
+		row = results_list[i].ref;
+		fname = 'raw/' + row + '.json';
+		case_info = get_file_info (fname);
+		out = out + "<li>";
+		out = out + '<a href="' + fname + '">' + case_info + '</a>';
+		out = out + "</li>";
+	}
+	out = out + "</ul>";
+	document.getElementById("results_container").innerHTML=out;
+}
+
+function get_file_info (filename) {
+  var f = "";
+  $.ajax({
+  	url: filename,
+  	async: false,
+  	type: 'get',
+  	dataType: 'json',
+  	success: function(data){
+  		f = data.description;
+  	}
+  });
+  return f;
+}
+
+</script>
+	</head>
+	<body>
+		<div id="header"></div>
+			<h1>Search the CAB's precedential opinions</h1>
+		<div id="search_box">
+			<form name="search_form" onsubmit="get_results()">
+				<input type="text" name="search_term">
+				<input type="button" value="submit" onclick="get_results()">
+			</form>
+		</div>
+		<div id="results_container"></div>
+		<div id="preview_container"></div>
+	</body>
+</html>

@@ -1,0 +1,678 @@
+                           •                                                 •
+                                       GOVElU"MENT OF THE DISTRICT OF COLUMBIA
+
+                                 CONTRACT APPEALS BOARD
+                                          71714"" STREET, N.W., SUITE 430
+                                             WASHINGTON,D.C.20005
+
+
+                                                      ***                        TELEPHONE   (202) 727-6597
+                                                                                 FACSIMILE   (202) 727-3993
+
+
+                                                January 8, 2001
+
+
+
+TO:   Ralph O. Turner, President & CEO
+      Trifax Corporation
+      4121 Minnesota Avenue, N.E.
+      Washington, DC 20019
+
+      Marc D. Loud, Esquire
+      Loud & Loud Law Office
+      7826 Eastern Avenue, N.W., Suite 311
+      Washington, DC 20012
+
+      Frank Ukoh, President
+      IIU Consulting Institute, Inc.
+      703 Edgewood Street, N .E.
+      Washington, DC 20017
+
+      Warren J. Nash, Esquire
+      Chris Malone, Esquire
+      Howard S. Schwartz, Esquire
+      Assistants Corporation Counsel
+      441 Fourth Street, N.W., 10th Flooor
+      Washington, DC 20001
+
+
+             SUBJECT:        CAB No. P-624 (Protest Of: Trifax Corporation)
+
+      Attached is a copy of the Board's Opinion sustaining protest.
+
+
+
+
+                                                                                         438
+                           GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                  CONTRACT APPEALS BOARD
+                                                                       •                                     [8086]
+
+
+
+
+PROTEST OF:
+
+        TRlFAX CORPORATION                               )
+                                                         )       CAB No. P-624
+        Under IFB No. HCOC 157329                        )
+
+
+        For the Protester: Ralph O. Turner, President and CEO,pro se, and Mark D. Loud, Esq. For
+the Intervenor, IIU Consulting Institute, Inc., Frank Ukoh, President,pro se. For the Government:
+Howard Schwartz, Esq. and H. Chris Malone, Esq., Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Administrative Judges Jonathan
+D. Zischkau and Phyllis Jackson, concurring.
+
+
+                                               OPINION
+
+         Trifax Corporation ("Protester" or "Trifax") protested against the award of a contract for the
+services of two Pediatric Registered Nurses to IIU Consulting Institute, Inc. ("IIU") pursuant to IFB
+No. HCOC157329, alleging that the District (1) failed to timely notify unsuccessful bidders,
+including protester, of the award to IIU; (2) improperly accepted a bid in an amount which failed to
+cover minimum compensation and benefit requirements; (3) failed to disclose the lowest cost only
+criteria for selecting the awardee; (4) failed to follow the stated cost analysis criteria; and (5) failed
+to publicly open the bids at the time, date, and place designated in the IFB. The District filed a
+Motion to Dismiss ("Motion") alleging that the protester lacked standing and that the protest was
+untimely, or, in the alternative an Agency Report ("AR"). The District now concedes that its
+argument for lack of standing is without foundation and that the protester has standing to bring this
+protest. We conclude that protest claims 1 and 5 are untimely, while claims 2,3 and 4, are timely.
+
+        Upon consideration of the Agency Report, and further responsive pleadings, we find that the
+proper criteria for bid evaluation were stated and used. Thus, claims 3 and 4 of the protest are
+denied. As to Claim 2 concerning responsiveness, however, the we find that the bid submitted by
+the IIU was not responsive and that award to IIU was therefore invalid. The protest is sustained and
+the District is directed to cancel the contract with IIU as void ab initio.
+
+
+
+
+                                                                                                       439
+                                                     ~-----~--
+
+
+
+
+                                                   -2-
+                                                                      • Tn/ax CorporatIOn, CAB No. P-624
+                                                                                                             [8087]
+
+
+
+
+                                          BACKGROUND
+
+        On April 4, 2000, the Contracting Officer, Office of Contracting and Procurement (OCP),
+for the Department of Health (DOH) issued IFB No. HCOC 157329 ("IFB") soliciting bids to
+provide "two professional Registered Nurses to conduct home visiting service to children ". enrolled
+in the Birth to Eight (0-8) Project." (AR, Ex. 1, § C.l). The contract is an indefinite delivery,
+indefinite quantity contract with payment based on a fixed unit price for each hour of service. (Jd.
+§§ B & C.I).
+
+       On May 5, 2000, the Contracting Officer issued Amendments 1 and 2. Amendment 1
+extended the bid closing date to May 12,2000. CAR, Ex. 2). Amendment 2 responded to questions
+posed by prospective bidders. CAR, Ex. 3).
+
+        On May 12,2000, the Contracting Officer received bids from, among others, Trifax, IIU,
+Motir Services, Inc. (Motir) and Horton & Barber CH & B). CAR, Ex. 4). The bids were opened
+publicly at the time, date and place designated in the IFB. (AR, Ex. 5).
+
+        H & B submitted the lowest bid. (AR, Ex. 6). On May 24, 2000, the Contracting Officer
+requested that H & B provide certain information to determine H & B's responsibility. (AR, Ex. 7).
+On May 25,2000, H&B responded in part to the Contracting Officer's request, providing only a list
+of contracts previously held and did not respond to other items of the request. (AR, Ex. 8). The
+Contracting Officer rejected the bid of H & B stating that: (a) H & B failed to submit all of the
+information requested to determine responsibility, (b) H & B failed to submit the Tax Certification
+with its bid, and (c) H & B failed to acknowledge Amendment 1 which extended the date for
+submission of bids. (AR, Ex. 9).
+
+       IIU submitted the next low bid. (AR, Ex. 4). On May 31, 2000, the Contracting Officer
+requested that IIU provide certain information to determine its responsibility. (AR, Ex. 10). IIU
+provided the information on June 6, 2000. (AR, Ex. 11)
+
+        The Contracting Officer determined that: (a) the award of the contract to lIU for these
+services was in the best interest of the District, (b) the prices bid by IIU were fair and reasonable, (c)
+IIU is responsible, and (d) the failure by IIU to submit cost and pricing data was waived as a minor
+informality. (AR, Ex. 9). On June 29, 2000, the Contracting Officer awarded the contract to IIU.
+(AR, Ex. 12). At award, the Contracting Officer reduced the maximum number of hours for the base
+year in the IIU bid from 1386 hours to 1236 hours and the total base year price from $74,566.80 to
+$66,496.80. (AR, Ex. 12).
+
+       The Bid Tabulation prepared by the Contracting Officer showed Motir as the next apparent
+low bidder behind IIU. (AR, Ex. 6). Trifax was shown as the 4th low bidder. (Jd.).
+
+      Due to administrative error, notice of award to IIU was not given to unsuccessful bidders
+immediately after award. (AR, Ex. 16). On July 26, 2000, Trifax notified the Contracting Officer
+
+
+
+
+                                                                                                      440
+                                                 -3-
+                                                                    • Trz(ax Corporation, CAB No. P-624
+                                                                                                          [8088]
+
+
+
+
+that it had learned that another bidder had been awarded the contract and requested a debriefing.
+(AR, Ex. 13). After receiving no response, on August 11,2000, Trifax submitted a second request
+for debriefing. (AR, Ex. 14).
+
+        On August 11, 2000, the Contracting Officer notified Trifax and the other unsuccessful
+bidders of the award to lIU. (AR, Ex. 15). On August 17,2000, the Contracting Officer notified
+Trifax that the debriefing it requested was scheduled for August 22, 2000. (AR, Ex. 17).' The
+debriefing was held on August 22. On August 30, 2000, Trifax filed this protest with the Board.
+
+
+                                           DISCUSSION
+
+                                         Motion to Dismiss
+
+         On September 20, 2000, the District filed a Motion to Dismiss the protest on two bases.
+First, that Trifax lacks standing to protest because another bidder, Motir, had submitted a bid which,
+while higher than the successful bid, was lower than Trifax's bid, placing Motir, not Trifax, in line
+for award if the protest were successful. The Board has consistently held that an unsuccessful bidder
+not in line for award is not an aggrieved party and thus lacks standing to bring a protest. Secondly,
+the District contends that the protest was not timely. Protester submitted a Response to the District's
+Motion to Dismiss ("Response"). The District submitted a Reply to the Response ("District Reply").
+lIU, as an Intervenor, submitted a pleading captioned "Motion to Dismiss" which was in the nature
+of a reply to the Response and has been considered as such by the Board.
+
+Standing
+
+        Trifax did not protest against award to Motir. In general, the Board will find a lack of
+standing if the protester does not protest against the award to another bidder, whose bid, while higher
+than the successful bid, is lower than the protester's bid. See Barcode Technologies, Inc., CAB No.
+P-524, Feb. 11, 1998, 45 D.C. Reg. 8723. However, as part of the Agency Report submitted
+together with its Motion to Dismiss, the District submitted the Bid Abstract Form prepared at the bid
+opening by Sonja White, Program Specialist, listing the contents of each bid. (AR, Ex. 4). The Bid
+Abstract states that Motir's bid, as submitted, did not contain "pricing for option year 3 or 4."
+Failure to submit a bid on each option makes the Motir bid nonresponsive on its face. (AR, Ex. 1
+(Contract §M.2.3)) The bid abstract's note that pricing for option years 3 and 4 was not submitted
+by Motir is not consistent with the Bid Tabulation, (AR, Ex. 6), which showed prices allegedly bid
+by Motir for option years 3 and 4. Upon review of the procurement documentation, the Board
+requested an explanation of the clearly contradictory record. The District, upon investigation, stated
+that the bid prices shown in the Bid Tabulation are erroneous and were the result of a clerical error.
+The District admits that Motir's bid was not responsive and therefore not in line for award. (District
+Reply, at 15-16).
+                                                  -4-
+                                                                      •Trifax Corporation, CAB No. P-624
+                                                                                                            [8089]
+
+
+
+
+        Notwithstanding that Trifax did not assert in its protest that the bid submitted by Motir was
+nonresponsive, the District is estopped from raising Motir's lower bid in opposition to Trifax's
+standing if evidence or knowledge in the District's possession unequivocally shows that Motir's bid
+was not responsive, and thus not properly in line for award. By submission of a pleading to the
+Board, a party certifies that, to the best ofthe party's knowledge, information and belief, formed after
+inquiry reasonable under the circumstances, the allegations have evidentiary support and that the
+defenses or other legal claims are warranted. See Sup. Ct. Rules ofCiv. Proc. Rule 11 (b). "The
+Board does not believe that the allegation as to standing in the Motion to Dismiss was intentionally
+erroneous or otherwise wrongfully made, however, once it is known that the record unequivocally
+shows that District procurement personnel, namely the procurement specialist, had actual knowledge
+of facts contradicting the pleading, the pleading must be withdrawn regardless of whether it is
+challenged by the protester. It is incumbent on the Board, sua sponte, to raise an issue oflaw when
+unequivocal facts which would have precluded filing of the pleading became apparent. The Board
+has treated that part of the District's Motion to Dismiss raising the standing issue as withdrawn.
+
+Timeliness
+
+Claims 1 and 5
+
+        The Procurement Practices Act provides that protests, other than as to the terms of the
+solicitation, "shall be filed no later than ten (10) business days after the basis of protest is known or
+should have been known." D.C. Code § 1-ll89.8(b)(2). With regard to the first claim of the protest
+that the contracting officer failed to timely notifY unsuccessful bidders, including protester Trifax,
+of the award to nu, Trifax was aware of the delayed notification no later than August 15, 2000,
+when it received the written notice of award to nu. (Protest at 1). With regard to the fifth claim of
+the protest, that the contracting officer failed to publicly open the bids at the time, date, and place
+designated in the IFB, Trifax should have been aware of any such issue on the date the bids were
+opened, May 12,2000. (AR, Ex. 6).
+
+        The subject protest was filed with the Board on August 30, 2000, clearly several months after
+the bid opening, May 12,2000, and 11 business days after August 15,2000, when Trifax received
+formal notice of the contract award. Consequently these protest issues are untimely.
+
+Claims 2, 3 and 4
+
+        With regard, however, to claims 2, 3 and 4 of the protest, that the Contracting Officer
+improperly accepted a bid in an amount which failed to cover minimum compensation and benefit
+requirements (claim 2), failed to disclose the lowest cost only criteria for selecting   <-
+                                                                                          ~
+                                                                                             the awardee
+(claim 3) and failed to follow the stated cost analysis criteria (claim 4), there is no wafthat Protester
+could have known the bases for its protest until after the debriefing by the contracting officer which
+did not occur until August 22, 2000. (AR, Ex. 17).
+
+
+
+
+                                                                                              442
+                                                     -5-
+                                                                          • Trifax CorporatIOn, CAB No. P-624
+                                                                                                                   [8090]
+
+
+
+
+        Anyone hearing a reading of the bids at bid opening would have heard the IIU bid read at the
+prices and maximum hours originally submitted by lIU totaling $375,619, including option periods.
+That bid price would not have indicated that the bid failed to cover minimum compensation.
+However, during the award process, the maximum number of hours was reduced for IIU, but not for
+any other bidder. It was not until the debriefing on August 22, 2000, that Trifax could have learned
+the actual contract award for a total price of $367,549, including option periods, based on the
+reduced number of hours. The District, however, at that time failed to advise Trifax that the
+reduction in price resulted from a reduction in the maximum number of hours in the contract signed
+with IIU. Indeed, even in the Agency Report to the Board, the District failed to note the reduction
+in hours in comparing bids received. Both the Bid Tabulation CAR, Ex. 6), and the Motion at page
+4 show the lower price for the IIU bid without any indication that the hours used to compute the lIU
+bid total were fewer than the hours used to compute the total price for comparison purposes of each
+of the other 7 bids. Notwithstanding the change in hours, the ranking ofthe bidders did not change,
+although the lower price in the contract awarded to IIU made it appear, if one was unaware of the
+reduced hours, that IIU had not committed itself to comply with the wages set in the wage
+determination and was thus nonresponsive. Trifax had no way of knowing, even when it submitted
+its protest, that the number of hours had been reduced causing it to believe that less than the
+minimum wage determination would be paid. 1
+
+        Similarly, Trifax could have had no way of knowing the basis of bid evaluation until the
+debriefing took place. Since the protest was filed 8 days after the debriefing, claims 3 and 4 are
+timely.
+
+        The Motion to Dismiss the protest as untimely is granted as to claims 1 and 5 and denied as
+to claims 2, 3 and 4.
+
+                                        Merits of Claims 2. 3 and 4
+
+Claims 3 and 4
+
+         The protester alleges that the Contracting Officer failed to disclose the lowest cost only
+criteria for selecting the awardee, claim 3, and failed to follow the stated cost analysis criteria, claim
+4. The instant solicitation was conducted by competitive sealed bidding through an Invitation for
+
+
+
+         1 It does not appear from the record that even counsel for the District could have known of the
+reduction in hours in making the award to lIU. The Finding (AR, Ex. 9) prepared by the Contracting Officer
+two days before the District filed its Motion to Dismiss referred to the lower price computed on the basis of
+the reduced number of hours as "the lowest price submitted by a responsive and responsible bidder." In fact,
+that price was never submitted by lIU or any other bidder. A subsequent Finding by the Contracting Officer,
+(District Reply, Ex. 2), not signed until November 2, 2000, over a month after the protest was filed, finally
+acknowledged that the number of hours had been reduced on the day of award "because the Department of
+Health advised the Contracting Officer that there were insufficient funds, only $66,520, avai lable for the base
+year."( ~2 p. 6)
+
+
+                                                                                                         443
+                                                   -6-
+                                                                      • Trifax CorporatIOn, CAB No. P-624
+                                                                                                             [8091]
+
+
+
+
+Bids. By definition, the only evaluation criteria for a responsive bid to an invitation for bids is price,
+either lowest line item price or lowest evaluated price. Section M.3 of the IFB (AR, Ex. 1) makes
+this clear providing, in part:
+
+        Evaluation for Award
+
+        The contract will be awarded to the lowest responsive responsible bidder by line item
+        or in total whose bid is most advantageous to the District, based on the total price of
+        for the Base Year and Option Years.
+
+(See also §M.2.1)
+
+       The record indicates that, as to the evaluation of bids, the Contracting Office explicitly
+followed the evaluation prescribed in the solicitation. Claims 3 and 4 of the protest must therefore
+be denied.
+
+Claim 2
+
+         The pro se protest questioned the determination by the Contracting Officer that IIU was
+responsible and that its bid was responsive, alleging that the award price indicated that the contractor
+was not intending to be bound by the minimum wage determination included as a requirement of the
+contract. (AR, Ex. 1 (Standard Contract Provisions §30(c)(I))). The protester's basis for its
+allegation was that, based on the maximum number of hours of service which could be called for by
+the District, IIU's total bid price did not indicate that IIU could cover the required minimum wage
+costs.
+
+        In response to Protester's allegation, the Agency Report showed that IIU was, in fact,
+committed to pay the required minimum wages and demonstrated that, as a result of the
+unannounced reduction in the maximum number of nursing hours to be procured, the award price
+was fully consistent with adherence to the wage determination. 2 The allegations of the protest were
+reasonably made because of the reduction in maximum number of hours was unknown to the
+Protester or any other bidder and not immediately apparent in the procurement record.
+
+        Protest claims must be read broadly, See Mine Safety Appliances Company, B-242379, Nov.
+27, 1991, particularly when the procurement record has not clearly set forth the actions of the
+contracting officer. Maintenance of the integrity of the procurement system requires that, when any
+issue of responsibility or responsiveness have been raised in a protest, particularly in a protest filed
+pro se, the Board consider all issues relating to responsiveness which are immediately apparent in
+
+
+
+
+       2 The Board has serious concerns as to the appearance of impropriety raised by amending the
+procurement terms for one bidder without offering the same amended terms to other bidders. However,
+because the ranking of bids was not changed by the amendment, the error, if any, was harmless.
+
+
+
+                                                                                                         444
+                                                   -7-
+                                                                       • Tn/ax CorporatIOn, CAB No. P-624
+                                                                                                              [8092]
+
+
+
+
+the record, regardless of whether or not the protester has explicitly raised the specific aspect of
+responsiveness.
+
+        The solicitation provided, among other requirements:
+
+        SECTION J - LIST OF ATTACHMENTS
+
+        J.4             Tax Certification Affidavit
+
+
+
+                                                  ***
+        L.1S            KEY PERSONNEL
+
+        L.lS.l          The offeror shall set forth in its Bid on an attached sheet in Section
+                        III the names and reporting relationships of the key personnel whom
+                        the offeror will use to perform the work under the proposed contract.
+                        Their resumes shall be included in an attached folder and turned in
+                        with their Bid. Their resume will state the total number of hours each
+                        will devote to the contract.
+
+        L.lS.2          The personnel specified in the contract are considered to be essential
+                        to the work being performed hereunder. Prior to diverting any of the
+                        specified key personnel for any reason, the Contractor shall notify the
+                        Contracting Officer at least thirty (30) calendar days in advance and
+                        shall submit justification (including proposed substitutions) in
+                        sufficient detail to permit evaluation of the impact on the contract.
+                        The offeror shall not reassign these key personnel or appoint
+                        replacements without written permission from the Contracting
+                        Officer.
+
+       The Agency Report plainly documented that IIU's bid, as received, did not meet either of
+these requirements.    The bid abstract noted concerning IIU's bid that "no resumes [were]
+submitted." (AR, Ex. 6). Upon review of the original IIU bid attached as Exhibit 12 to the Agency
+Report, the Board observed, in addition, that, although lIU submitted two tax certifications, one
+dated May 12 and the other dated June 22,2000, neither was fully completed. 3 (AR, Ex. 12).
+
+
+
+        3 There is no indication as to why two differently dated certifications were included with the bid.
+Nevertheless, both forms left blank lIU's Unemployment Insurance Account Number and both forms failed
+to indicate whether Employer Withholding, Corporation Franchise, Personal Property or the Arena/Public
+Safety fees were either "Current" or "Not Current." On October 5,2000, during the course this proceeding,
+nu supplied its Unemployment Insurance Account Number and indicated that it was obligated to pay and
+was in fact current for each of the taxes. (nU Letter dated October 5, 2000, attached as Attachment 3 to
+
+
+
+                                                                                                               445
+                                                     -8-
+                                                                         • Trifax Corporation, CAB No. P-624
+                                                                                                                 [8093]
+
+
+
+
+          The fact that the information was required by the IFB is not dispositive of the question of
+responsiveness. "[M]erely stating that a requirement is a responsive matter will not suffice to make
+it so. In all cases, the rationale underlying the responsiveness characterization must establish a
+"material" term to the invitation for bids." Forrester Constructors, Inc., CAB 1987, 1 P.D. 74, 83
+(note 6).
+
+        In order for the District to accept a bid, the bid must be responsive. It is a long established
+principle of formal advertising that the responsiveness of a bid is determined on the basis of that bid
+as submitted, and not on the basis of information provided after opening. Id. at 78-79. If the failure
+oflIU to submit the required information with its bid rendered the bid nonresponsive, the award to
+IIU was improper.
+
+Tax Certification
+
+        While the District admits that the tax certifications submitted by IIU were incomplete, citing
+our holding in J & R Roofing Co., Inc., the District correctly asserts that "submitting the tax
+certification affidavit is a matter of responsibility, not responsiveness." CAB No. P-548, March 22,
+1999,46 D.C. Reg. 3691, 3698. The position of the District ignores the second part of the holding
+that matters of responsibility may be resolved "up to the time of award." (Id. at 3698). The record
+shows that the tax certification was not completed by IIU prior to award. 4 It was not until the issue
+was raised in this proceeding that IIU provided complete the tax compliance information. (Response,
+Ex. 3).
+
+       The contracting officer is charged with responsibility to possess or obtain information
+concerning responsibility that is current at the time the determination of responsibility is made. The
+procurement regulations provide:
+
+               Before making a determination of responsibility, the contracting officer shall
+        possess or obtain information sufficient to satisfy the contracting officer that a
+        prospective contractor currently meets the applicable standards and requirements for
+        responsibility set forth in this chapter.
+
+27 DCMR § 2204.1.
+
+       At the time the award was made the Contracting Officer had no basis to conclude that IIU
+was in compliance with its District tax obligations. The two tax certification documents in the
+
+
+
+District letter of the same date).
+
+        4 The District also asserts that, in any event, "[a] tax certification affidavit is not required for a
+contract that is less than $100,000," (Response 13), citing 27 DCMR 2204.6. Although the certification may
+not have been required, when a certification actually submitted casts doubt on compliance by the bidder, the
+contracting officer has an obligation to inquire further. (See 27 DCMR 2204.8).
+
+
+
+                                                                                                           446· ,
+                                                    -9-
+                                                                        • Trifax CorporatIOn, CAB No. P-624
+                                                                                                                [8094]
+
+
+
+
+possession of the Contracting Officer were plainly incomplete. The Board recognizes that the
+determination of a prospective contractor's responsibility is the duty of the contracting officer and
+that that official is vested with "wide latitude to exercise business judgment." Kidd Int 'I Home Care
+Services, Inc., CAB No. P-547, Sept. 15, 1998,45 D.C. Reg. 8835, 8839. Therefore, in reviewing
+a determination concerning general standards of responsibility, we will not overturn a finding of
+responsibility or nonresponsibility unless the determination lacks any reasonable basis." Ideal Elec.
+Supply Corp., CAB No. P-372, Aug. 13, 1993,41 D.C. Reg. 3603. In this matter, the Contracting
+Officer had no basis when he made the award to determine whether the contractor was in compliance
+with District tax laws. In such a circumstance, the Board will review an unsupported determination
+of responsibility.
+
+       During the course of this proceeding, IIU presented evidence that it was actually in
+compliance with items it had left blank on the tax certificate. (Response, Ex. 3). We therefore
+conclude that, although unsupported in the contract record at the time of award, the determination
+oflIU's responsibility by the Contracting Officer was not incorrect.
+
+
+Key Personnel
+
+       It is undisputed that IIU did not submit the resumes of key employees with its bid as required
+by the solicitation. The Bid Tabulation prepared at bid opening specifically noted "no resumes
+submitted." (AR, Ex 4). Although it was considered significant enough to note the absence of
+resumes at the time of bid opening in the Bid Abstract which normally identifies only questions of
+responsiveness, the District contends that "a resume is a matter of responsibility that may be
+submitted up to the time of award." (Response, 14).
+
+         This matter presents difficulties in interpretation because the District has included in a
+formally advertized solicitation (lFB) a provision dealing with key employees of a type normally
+included in a negotiated solicitation (RFP)5. (See e.g., "Key Personnel" clause to be in inserted in
+"all solicitations and resultant cost-reimbursement contracts" contained in 48 CFR 352.270-5). The
+specific provision included in this solicitation not only requires the submission of resumes, but
+makes the named individuals a required term of the contract unless substitution is agreed to by the
+contracting officer. We believe that the solicitation, as written, makes the resumes a matter of
+responsiveness. Responsiveness concerns whether a bidder has unequivocally offered to provide
+supplies or services in conformity with the material terms and conditions of the solicitation;
+responsibility refers to the bidder's apparent ability and capacity to perform all of the contract
+requirements. See Skyline Credit Corporation, B-209193, March 15, 1983,83-1 CPD 257.
+
+
+
+
+        5 Indeed, the clause uses the term "offeror" which normally refers to a respondent to a soiic;,tation
+for a negotiated procurement, as opposed to the term "bidder" which normally refers to a respondent to a
+formally advertised solicitation.
+
+
+
+                                                                                                         447
+                                                  -10-
+                                                                      •Trifax CorporatIOn, CAB No. P-624
+                                                                                                            [8095]
+
+
+
+
+       The District cites two opinions of the Comptroller General, Owl Resources Company, B-
+210084, Apr. 29 1983,. and Science Applications, Inc., B-193479, Mar. 8,1979, which hold that
+requirements to submit resumes are matters of responsibility and not responsiveness. These
+decisions are distinguishable from the instant case. In each ofthe cited cases, the solicitation merely
+required the submission of resumes, but did not contain any specific requirement that the named
+individuals be utilized in performance. The Comptroller General has expressed greater importance
+of submission of resumes when the named individuals will be mandated for performance.               <
+
+
+
+
+              Offeror "bait and switch" practices, whereby an offeror's proposal is favorably
+       evaluated on the basis of personnel that it does not expect to use during contract
+       performance, have an adverse effect on the integrity of the competitive procurement
+       system and provide a basis for rejection of that offerors' proposal. ... This does not
+       mean that substitution of employees after award is prohibited; such substitution is
+       unobjectionable where the offeror acted reasonably and in good faith. (Citations
+       omitted).
+
+Hornet Joint Venture, B-258430, Feb. 22, 1995.
+
+        Rather than merely showing the availability of qualified personnel, which would be an aspect
+of responsibility, the solicitation makes employment of the named individuals a material contract
+term. In addition, the solicitation emphasizes the importance the District attached to naming the key
+employees by requiring, not only that they be listed and their resumes supplied, but also that each
+"resume will state the total number of hours each will devote to the contract." Although in the
+context of negotiated procurements, the Controller General has clearly indicated that where
+employment of named individuals is required by the contract terms, failure to name those individuals
+and show that they are committed to employment before award renders a proposal nonresponsive
+and the proposer ineligible for award. Essex Corporation, B-246536, June 25, 1992, presented
+a situation similar to the instant matter. "[I]n its final revised proposal, [the awardee had] advised
+[the contracting agency] that it would wait until after its proposal had been evaluated, and after it had
+been awarded a contract, to advise the agency which key personnel it intended to use on the
+contract." The Comptroller General sustained a protest against the award stating:
+
+
+                 [The awardee's] initial proposal failed to include letters of intent for all but
+        two of the personnel it proposed to fill the key positions. Despite the agency's clear
+        request during discussions that: "for any proposed personnel for which written
+        assurances were not provided in your proposal, please provide letters of intent for
+        such personnel," [The awardee] elected not to comply with this requirement.
+        Accordingly, [the awardee's] final revised proposal should have been rejected for
+        failing to comply with a material requirement of the solicitation.
+
+
+
+
+                                                                                                            448
+                                                   -11-
+                                                                        •Tnfax CorporatIOn, CAB No. P-624
+                                                                                                               [8096]
+
+
+
+
+        In the instant matter IIU also refused to identify the specific nurses who would provide the
+services. The District concedes that IIU did not identify the specific nurses who would be employed
+under the contract, but rather that "IIU states that the seven registered nurses [it listed] were just
+some of its nurses." (Response, at 7). Notwithstanding the specific contract provision that the nurses
+should both be named and the time each would devote to the contract, in the Contracting Officer's
+revised Determination he determined, contrary to the contract terms that:
+
+
+       IIU had shown that it had the ability to provide licensed registered nurses. IIU had
+       provided licensed nurses under three contracts in Maryland. IIU has more than seven
+       licensed registered nurses available. The Contracting Officer concluded that if IIU
+       could provide registered nurses in Maryland, IIU could provide registered nurses
+       licensed in the District.
+
+(Response, Ex. 2 at 4).
+
+
+        It is apparent that the procurement integrity issue raised by the Comptroller General in the
+Hornet case is relevant here. Although the Contracting Officer's Determination relies on the seven
+registered nurses listed by IIU prior to award, when IIU began performance none of the listed nurses
+was assigned to performance of the contract. 6 No assertion has been made that IIU ever requested
+substitution, or that the Contracting Officer has ever even considered the substitutions.
+
+        The Board takes no position as to whether the key employee designation and requirement to
+name the nurses is a minimum need of the District. The Board must assume that by the specific
+insertion of the clause in the contract was a determination of the minimum need and cannot be
+ignored. The clause expressed a material term of the contract "considered to be essential to the work
+being performed." The initial bid submitted by IIU did not commit itself to this term and was
+therefore nonresponsive and ineligible for award. 7
+
+
+
+
+        6 The seven nurses listed were Registered Nurses Cain, Ulu, Milbourne, Thomas, Joplin, White and
+Butler. (AR, Ex. 11). The nurses assigned to the contract were Registered Nurses Cobb, Steel and Sumpter.
+(Response, Ex. 2).
+
+         7 Even if the requirement were considered to be an issue of responsibility which could be fulfilled
+
+up to the time of award, nu never made such a proffer prior to award.
+
+
+
+
+                                                                                                           449
+                                                  -12-
+                                                                     • Tnfax CorporatIOn, CAB No. P-624
+                                                                                                            [8097]
+
+
+
+
+          The protest is sustained. The District is directed to cancel the contract with IIU as void ab
+initio.
+
+
+SO ORDERED
+
+
+DATED: January 8, 2001
+                                                         MATTHEW S. WATSON
+                                                         Administrative Judge
+
+
+CONCURRING:
+
+
+
+
+J~N~ZIS~
+Administrative Judge
+
+
+
+
+                                                                                                      CJ'
+
+
+
+
+                                                                                                   450
+

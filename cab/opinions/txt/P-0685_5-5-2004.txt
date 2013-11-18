@@ -1,0 +1,143 @@
+                                 GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                 CONTRACT APPEALS BOARD
+PROTEST OF:
+
+Fort Myer Construction Corporation                                       )
+                                                                         )        CAB No. P-0685
+Under Solicitation No. POKA-2003-B-0048-JJ                               )
+
+
+      For the Protester, Fort Myer Construction Corp.: Joe R. Caldwell, Jr., Esq., O. Kevin
+Vincent, Esq. and Robert J. Wagman, Esq., Baker Botts L.L.P. For the Government: Howard S.
+Schwartz, Esq. and Talia S. Cohen, Esq., Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson with Chief Administrative Judge
+Jonathan D. Zischkau and Administrative Judge Warren J. Nash concurring.
+
+                                                    OPINION
+                                            LexisNexis Filing ID 3531737
+
+        Fort Myer Construction Corporation was the second low bidder on each of the two award
+groups of a procurement1 for road repair services. The Lane Construction Corporation was the
+low bidder on each award group. Fort Myer protests against award to Lane alleging that Lane’s
+bid was nonresponsive due to a failure to include a notarized subcontracting plan as part of its
+bid.2 The District responds that failure to submit a subcontacting plan is a matter of
+responsibility which may be cured after bid opening and not a matter of responsiveness required
+to be complete at the time of bid opening. The Board agrees with the District and finds the low
+bid to be responsive. Fort Myer’s protest is denied.
+
+                                                BACKGROUND
+
+        The facts are not in dispute. On December 5, 2003, the Office of Contracting and
+Procurement (“OCP”) issued Solicitation No. POKA-2003-B-0048-JJ (“IFB”) on behalf of the
+District’s Department of Transportation for repairs to curbs, gutters, sidewalks, utility cuts, and
+
+1
+   Fort Myer’s own bid was rejected by the contracting officer as nonresponsive for failure to quote a price for one
+pay item. Fort Myer protests this rejection. In light of the Board’s holding that award to the low bidder is proper, it
+is not necessary to determine whether Fort Myer’s bid was responsive to resolve this protest. Fort Myer has filed a
+subsequent protest (CAB No. P-0688) against award of both award groups to Lane. In the event the Board
+determines that award of both award groups to the same contractor violates the terms of the solicitation, the issue of
+the responsiveness of Fort Myer’s bid will be ripe for decision.
+2
+  Capitol Paving of D.C. was the third low bidder. Fort Myer asserts that Capitol’s bid is also nonresponsive for
+the same reasons as Lane’s. Although Capitol also did not submit a subcontracting plan, the issue of the
+responsiveness of Capitol is not identical to the responsiveness of Lane. Section M.B. of the solicitation, which
+requires the subcontracting plan, incorporates § M.C. Section M.C.’s requirements apply only to “any contractor
+seeking a preference on the basis of proposed subcontracting . . . .” Capitol is itself a certified local business
+enterprise and is not required to seek preference on the basis of proposed subcontracting. In light of the Board’s
+holding , it is not necessary to determine whether Capitol properly claimed its LBE status.
+                                                         2    Fort Myer Construction Corp, .CAB No. P-0685
+
+
+base pavements. (Agency Report (“AR”) Ex. 1). Section M.B. of the IFB provided that the
+contractor must either be a local, disadvantaged or resident business enterprise, or subcontract 50
+percent of the dollar value of the contract to such an enterprise. Section M.B. further required
+that the contractor “shall submit with its bid or proposal a notarized statement detailing its
+subcontracting plan.” (Id.).
+
+        On March 5, 2004, Fort Myer and two other bidders timely submitted bids in response to
+the IFB. (AR Ex. 2). In lieu of a subcontracting plan, Fort Myer submitted a notarized statement
+that it was a local business enterprise and therefore not required to submit a subcontacting plan.
+As part of its notarized statement, Fort Myer included a certification that it would perform 99%
+of the contract work and an agreement to liquidated damages in the event that it violated the
+certification.3 Each of the bidders signed their bids accepting all of the terms of the solicitation
+without reservation and agreed to perform “in strict accordance with the terms of the solicitation.
+. . .” (Block 19), however, neither of the two low bidders included a subcontracting plan or
+statement of any sort concerning the set-aside requirements with their bids or otherwise
+specifically acknowledged the subcontracting requirements. Upon opening the bids, the District
+initiated a pre-award review of Lane as the apparent low bidder, requesting, among other items, a
+subcontracting plan. On March 17, 2004, Lane submitted a subcontracting plan which complied
+with the contract requirements.4
+
+                                                 DISCUSSION
+
+        “Generally, a requirement that bidders list subcontractors in their bids involves a matter
+of responsibility because it relates to the agency's need to evaluate the subcontractors'
+qualifications or the bidders' ability to meet equal employment opportunity and minority
+business requirements.” A. Metz, Inc., B-213518, April 6, 1984, note 2, 84-1 Comp. Gen. Proc.
+Dec. ¶ 386, 1984 U.S. Comp. Gen. LEXIS 1326. Notwithstanding the general rule, however, a
+qualification requirement may become an element of responsiveness if specific notice of the
+requirement is given and bidders are cautioned that failure to deliver the required item with the
+bid may result in rejection of the bid. See Welsh Construction Co, B-183173, Mar. 11, 1975.
+1975 U.S. Comp. Gen. LEXIS 2351. No such notice and caution was given in the subject
+solicitation. Indeed, the language of the solicitation can be read to the contrary. Section M.B.
+states that “[o]nce the plan is approved by the contracting officer, changes will only occur with
+the prior written approval of the contracting officer” implying that the bidder may make changes
+after submission of the bid, but prior to approval by the contracting officer. If the subcontracting
+plan was essential to a responsive bid, the plan would be final upon submission and no changes
+3
+   The procurement regulations provide that “if a solicitation contains LBE or DBE requirements, it shall also
+contain a liquidated damages clause in the event that a prime contractor fails to make good faith efforts to comply
+with its plan.” (27 DCMR 804.9) The subject solicitation technically complies with the regulation, however, the
+amount of liquidated damages is so trivial as to make the provision meaningless. The solicitation provides for
+liquidated damages of “twenty-five dollars ($25)” for each day that the contractor is in violation of the
+subcontracting requirements. This amounts to a maximum of $9,125 if the contractor were in violation for a full
+year. The subcontracting plan submitted by the low bidder estimates the total value of subcontracts as $4,870,059
+for the first year. This penalty for violation of the set-aside requirements is hardly likely to be an incentive to
+comply with the contract terms.
+4
+    Lane subsequently amended its subcontracting plan on March 23, 2004.
+                                                          3    Fort Myer Construction Corp, .CAB No. P-0685
+
+
+could be permitted after bid opening. The Board notes that the procurement regulation requires
+that the subcontracting plan be “notarized.” (27 DCMR § 804.9). While this requirement may
+underscore the importance5 of the plan, the Board does not find that notarization makes the
+required plan an element of responsiveness.
+
+        By signing the bid without reservation, Lane committed itself unequivocally to the terms
+of the contract, including the 50% set-aside subcontracting requirement. C&D Tree Service, Inc.,
+CAB No. P-0295, Nov. 2, 1993, 41 D.C. Reg. 3691, 3696-97; 1993 DCBCA LEXIS 342. The
+Board finds that Lane’s bid was responsive and that the District could properly receive the
+subcontracting plan after receipt of bids in order to determine Lane’s responsibility. The protest
+is denied.
+
+
+
+
+May 5, 2004                                                          /s/ Matthew S. Watson
+                                                               MATTHEW S. WATSON
+                                                               Administrative Judge
+
+Concur:
+
+
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+
+      /s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+
+
+
+
+5
+  Other than distinguishing the document from other required submissions, notarization appears to be of little legal
+effect.
+

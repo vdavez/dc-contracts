@@ -1,0 +1,182 @@
+                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+HORTON & BARBER CONSTRUCTION SERVICES, LLC                             )
+                                                                       )
+Solicitation No.: DCKA-2012-B-0037                                     )      CAB No. P-0907
+                                                                       )
+
+
+For the Protester: Herman W. Barber, pro se. For the District of Columbia Government: Alton E.
+Woods, Esq., Assistant Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud,
+Sr., concurring.
+
+                                                OPINION
+
+                                            Filing ID 45740397
+
+         Horton & Barber Construction Services, LLC (“H&B” or “protester”) filed a protest on March 8,
+2012, challenging the requirements set forth in the Invitation for Bids Solicitation No. DCKA-2012-B-
+0037 (“IFB” or “Solicitation”). The Office of Contracting and Procurement (“OCP”) for the District’s
+Department of Transportation (“DDOT”) issued the IFB for “construction services to replace and repair
+sidewalk pathways throughout the District in all eight Wards.” (District’s Mot. to Dismiss 2.) H&B
+alleges that it is unreasonable and contrary to the District’s procurement practices to include the
+requirement for a bid bond in the Solicitation. (Protest 1.) The District contends that the protest is
+untimely because – although it alleges improprieties in the Solicitation which were apparent prior to bid
+opening – the protest was filed after the time set for receipt of bids on March 2, 2012. (District’s Mot. to
+Dismiss 4.) The Board finds that the protest was in fact untimely filed and, for this reason, we dismiss the
+protest.
+
+                                            BACKGROUND
+
+        On February 9, 2012, OCP issued an IFB for “a contractor to provide emergency sidewalk repair/
+replacement.” (District’s Mot. to Dismiss Ex. 1, § B.1.) The Solicitation was advertised on OCP’s
+website and in the Washington Examiner. (District’s Mot. to Dismiss Ex. 9.) The advertisement in the
+Washington Examiner included notice that a 5% bid guarantee would be required with each bid. (Id.)
+The IFB was revised twice prior to the deadline for receipt of bids: (i) on February 15, 2012, the District
+extended the bid submission date from February 29, 2012, to March 2, 2012, (District’s Mot. to Dismiss
+Ex. 1(a)) and (ii) on February 16, 2012, the IFB was amended to include the unit amounts for certain
+quantities (District’s Mot. to Dismiss Ex. 1(b)).
+
+         In sections C.1.1 and I.2, the IFB incorporated DDOT’s “Standard Specifications for Highways
+and Structures” (“SSHS”). (District’s Mot. to Dismiss Ex. 1, §§ C.1.1, I.2.) Article 12 (A) of the SSHS
+states, “[o]n all bids of $100,000 or more, security is required to insure the execution of the contract. No
+bid will be considered unless it is so guaranteed.” (District’s Mot. to Dismiss Ex. 2.)
+                                                                  Horton & Barber Construction Services, LLC
+                                                                                            CAB No. P-0907
+
+        On February 15, 2012, the Contracting Officer (“CO”) held a pre-bid conference wherein he
+discussed the requirement for a bid guarantee. (District’s Mot. to Dismiss Ex. 8.) Herman Barber, CEO
+of H&B, attended the pre-bid conference. (District’s Mot. to Dismiss Ex. 10.) On March 2, 2012, ten
+bidders, including protester, responded to the IFB. (District’s Mot. to Dismiss Ex. 4.) Protester and six
+other bidders failed to include a bid guarantee in their bid submission. (District’s Mot. to Dismiss Exs. 4,
+8.)
+
+        On March 5, 2012, H&B sent an email to Bernetha Armwood, an employee of the Department of
+Public Works (“DPW”), to protest the Solicitation’s requirement that each offeror’s bid include a bid
+guarantee. (District’s Mot. to Dismiss Ex. 5.) In its email, H&B argued that a bid guarantee should not be
+required because the proposed contract was a requirements contract with no specified amounts. (Id.) The
+CO forwarded H&B’s email to the Contract Appeals Board (“CAB”) where the protest was
+acknowledged and docketed on March 8, 2012. (District’s Mot. to Dismiss Exs. 6, 7.) On April 4, 2012,
+the District filed a “Determination and Findings to Proceed with Contract Award while a Protest is
+Pending” (“D&F”). Protester challenged the D&F in a motion filed April 9, 2012.1 (See H&B Mot. to
+Dismiss D.C. Request to Proceed [hereinafter “H&B Mot. to Dismiss”].)
+
+                                               DISCUSSION
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1)(2011).
+
+        One of the threshold issues for this Board to examine prior to considering the merits of a protest
+is whether the protest has been filed timely in accordance with the statutory requirements and Board
+Rules. The statutory requirements pertaining to timeliness are codified in D.C. Code § 2-360.08(b)(1)
+and (2) and are similar to those contained in the Board Rules as set forth in D.C. Mun. Regs. tit. 27, §§
+302.2(a), 302.2(b) (2002). The statute provides:
+
+             (b)(1) A protest based upon alleged improprieties in a solicitation which are
+                   apparent prior to bid opening or the time set for receipt of initial
+                   proposals shall be filed prior to bid opening or the time set for receipt
+                   of initial proposals.
+
+               (2) In cases other than those covered in paragraph (1) of this subsection,
+                   protests shall be filed not later than 10 business days after the basis of
+                   the protest is known or should have been known, whichever is earlier.
+
+             D.C. Code § 2-360.08.
+
+               In its protest, H&B alleges that the IFB’s bid bond requirement was improper because “it is a
+requirements contract, and the actual total of work to be provided has not yet been determined.” (Protest
+1.) However, the District claims that the protest is untimely because, from the onset, H&B was aware of
+any alleged irregularities contained in the Solicitation. (District’s Mot. to Dismiss) First, the Solicitation
+included a bid guarantee requirement in Article 12(A) of the SSHS which states that “no bid will be
+considered unless it is so guaranteed.” (District’s Mot. to Dismiss Ex. 2.) Second, the advertisement in
+the Washington Examiner included notice that a 5% bid guarantee would be required with each bid.
+(District’s Mot. to Dismiss Ex. 9.) Third, the CO discussed the requirement for a bid guarantee during the
+pre-bid conference, (District’s Mot. to Dismiss Ex. 8) which was attended by H&B’s CEO (District’s
+                                                            
+1
+  The present Order renders moot the April 4, 2012, D&F and protester’s challenge of April 9, 2012.
+ 
+
+                                                      2
+         
+                                                                  Horton & Barber Construction Services, LLC
+                                                                                            CAB No. P-0907
+
+Mot. to Dismiss Ex. 10). Therefore, prior to the March 2, 2012, deadline for submission of bids, it was
+clearly apparent to the protester that the Solicitation included a requirement for a bid guarantee. That
+being the case, H&B needed to file its protest prior to bid opening on March 2, 2012. Instead, on March
+5th, H&B emailed a protest to DPW which was docketed by CAB on March 8th. As a result, protester
+failed to meet the referenced statutory requirement concerning timeliness as set forth in D.C. Code § 2-
+360.08(b)(1).
+
+        In NetSystems Corp., CAB No. P-0841, 2010 WL 3947582 (Apr. 28, 2010), the Board held that
+where the protest was based upon the solicitation’s alleged contradictions to the D.C. Code, the District
+properly rejected the bid as untimely because protester did not file the protest until after bid opening.
+“NetSystems' protest relates specifically to the terms of the solicitation, and should have been filed prior
+to bid opening.” Id. Similarly, in Nation Capital Builders, LLC, CAB No. P-0761, 57 D.C. Reg. 000741,
+000743 (Nov. 20, 2007), the Board held that, “[t]he protester should have sought clarification of this
+alleged impropriety in the IFB by filing a protest before bid opening” (in response to protester’s question
+concerning whether sealed bids for construction IDIQ type contracts require bid bonds at bid opening).
+More recently, this Board held that, “protests challenging the propriety of a solicitation term that is
+apparent prior to bid opening must be filed prior to bid opening.” Elite People Protective Services, Inc.,
+CAB No. P-0898, 2012 WL 554445 (Jan. 9, 2012).
+
+         In its challenge to the D&F, protester asserts that it does not object to any of the terms issued in
+the Solicitation. (H&B Mot. to Dismiss.) Protester claims instead that the “protest is based on the
+Districts use of DCMR 27-2416 and its incorrect determination of the evaluated bid price being utilized as
+the actual bid price.” (Id.) However, the protest is very clearly based on the Solicitation’s bid
+requirement. As such, “protester’s failure to protest this matter prior to the deadline for submission of
+proposals renders the present protest untimely.” Enterprise Info. Solutions, Inc., CAB No. P-0901, 2012
+WL 554446 (Feb. 9, 2012). Finding that the protest allegations are untimely filed, the Board will not
+determine the merits of this protest.
+
+                                             CONCLUSION
+
+        For the reasons discussed above, we dismiss the present protest as untimely.
+
+SO ORDERED.
+
+
+DATED: August 6, 2012                                     /s/ Maxine E. McBean
+                                                          MAXINE E. MCBEAN
+                                                          Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+
+
+
+Electronic Service:
+
+
+                                                     3
+         
+                                                 Horton & Barber Construction Services, LLC
+                                                                           CAB No. P-0907
+
+Horton W. Barber, CEO
+Horton & Barber Construction Services, LLC
+3127 Martin Luther King Jr. Avenue, SE
+Washington, DC 20032
+
+Alton E. Woods, Esq.
+Assistant Attorney General
+Office of the Attorney General
+2000 14th Street, NW, Sixth Floor
+Washington, DC 20009
+
+
+
+
+                                             4
+        
+

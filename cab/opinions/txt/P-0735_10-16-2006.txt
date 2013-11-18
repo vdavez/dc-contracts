@@ -1,0 +1,289 @@
+                          GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+URBAN SERVICE SYSTEMS CORPORATION                              )
+                                                               )      CAB Nos. P-0735, P-0739
+Under Solicitation No. DCAM-2005-B-0027                        )
+
+         For the Protester: Shelley D. Hayes, Esq. For the Intervenor, TAC Transport LLC: Kristen E.
+Ittig, Esq., Holland & Knight LLP. For the District of Columbia Government: Howard Schwartz, Esq.,
+Talia S. Cohen, Esq., Assistant Attorneys General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Jonathan D.
+Zischkau, concurring.
+
+                                 OPINION DENYING PROTESTS
+                                      LexisNexis Filing ID 12641245
+
+        Urban Service Systems Corporation has filed two protests concerning the long-delayed award of
+three aggregate award groups for trash collection and recycling services to TAC Transport LLC
+("TAC"), challenging the award of a 9 percent bid preference reduction to TAC’s August 2005 bid
+prices and alleging that TAC failed to meet its “contractual requirement to commit to using certified
+local, small, and disadvantaged firms (LSDBEs) as subcontractors for 35% of the work.” Similar issues
+were raised by Urban in a prior protest it filed on September 13, 2005, in CAB No. P-0714, challenging
+an anticipated award to TAC. In CAB No. P-0714, we denied Urban’s challenge to the 9 percent
+preference given to TAC on the record which showed that the Department of Small and Local Business
+Development (“DSLBD”) made a determination for provisional certification of TAC on August 30,
+2005. We concluded that the contracting officer could rely on the provisional certification as of bid
+opening that same day, August 30, in granting TAC the 9 percent bid preference.
+
+        The District has moved to dismiss the current protests on the grounds that the new protests are
+untimely and that the Board previously considered and decided against Urban on the same issues raised
+here. We conclude that the protests are timely. The factual differences are that we now know that the
+preference certifying authority, the Small, Local Business Opportunity Commission (“SLBOC”) denied
+recertifying TAC into the LSDBE program at its meeting in November 2005, and that the provisional
+certification expired in December 2005. Given the nearly 9-month period from bid opening to award,
+and the fact that the SLBOC denied TAC’s recertification approximately 2 months after bid opening,
+we question the contracting officer’s decision not to seek new bids, and evaluate on the firms’ current
+LSDBE status. Nevertheless, we conclude that the contracting officer did not violate the law,
+regulations, or the terms of the solicitation in deciding to award to TAC on the basis of the bids opened
+on August 30, 2005. Because bids are evaluated as of bid opening date, in this case August 30, 2005,
+TAC was properly certified through a provisional certification and entitled to a 9 percent reduction in
+its bid prices as we previously held in CAB No. P-0714. We also conclude that there is no legal
+infirmity in the contracting officer’s determination that TAC satisfied the 35 percent LSDBE
+subcontracting requirement. Having carefully considered each of Urban’s arguments, we deny the
+consolidated protests.
+                                                -2-                              Urban Service Systems Corp.,
+                                                                                   CAB Nos. P-0735, P-0739
+
+
+                                            BACKGROUND
+
+        We summarize from our findings made in CAB No. P-0714 and supplement them as relevant to
+our resolution of the current protests. On June 3, 2005, OCP issued Solicitation No. DCAM-2005-B-
+0027 (“IFB”) on behalf of the Office of Property Management for a contractor to provide all containers,
+equipment, personnel, management, recordkeeping, and other reporting services necessary to perform
+pick-up services for the collection of trash and recyclables from District Government owned and leased
+buildings and non-residential housing units located in the District and the State of Maryland. (Agency
+Report (“AR”) Ex. 1). The IFB provided for seven separate award groups, numbered I through VII.
+Through amendment, bid opening was extended to August 30, 2005. (AR Ex.1).
+
+        Section M.1.a. of the solicitation provides preference points for a prime contractor that is a local
+business enterprise (“LBE”), disadvantaged business enterprise (“DBE”), resident business ownership
+enterprise (“RBO”), or development zone enterprise (“DZE”) certified by the SLBOC. Although the
+solicitation refers to the Local Business Opportunity Commission and its supporting Office of Local
+Business Development, the City Council enacted the Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005 (“SLDBEDA Act”) effective as temporary
+legislation on July 22, 2005, which made substantial changes to the preference program, renamed the
+certifying agency from the Local Business Opportunity Commission (“LBOC”) to the SLBOC, and
+renamed the SLBOC’s supporting agency from the Office of Local Business Development (“OLBD”),
+to the Department of Small and Local Business Development (“DSLBD”).
+
+        Section M.1.c (AR Ex. 1) provides as follows:
+
+        Under the provisions of 27 DCMR 801.2(b), 39 DCR 5571 (July 24, 1992), thirty-five
+        percent (35%) of the total dollar value of this contract has been set aside for
+        performance through subcontracting with local business enterprises, disadvantaged
+        business enterprises, or resident business ownerships. Any Prime Contractor responding
+        to this solicitation shall submit with its bid or proposal a notarized statement detailing
+        its subcontracting plan (See Clause C.1, Subcontracting Plan and Clause C.2, Liquidated
+        Damages). Once the plan is approved by the Contracting Officer, changes will only
+        occur with the prior written approval of the Contracting Officer.
+
+       On August 30, 2005, bids were opened from six bidders including Urban and TAC. Both TAC
+and Urban submitted bids for all seven award groups. TAC’s bid contained a temporary certification
+acknowledgement letter dated August 30, 2005, issued by the DSLBD/OLBD, because the SLBOC had
+not met during August 2005 to consider TAC’s pending application for its LSDBE recertification (it
+had previously been certified but that certification expired on August 12, 2005). OCP applied a 9
+percent LSDBE preference reduction to the bids of TAC and Urban. As tabulated, TAC was the
+apparent low bidder for Award Groups I, III, VI, and VII, while Urban was the apparent low bidder for
+Award Groups IV and V. If TAC had not received the 9 percent LSDBE preferences, Urban would
+have been the low bidder additionally on Award Groups I and VII. Because Award Group VII was
+ultimately cancelled from the solicitation, the only award at issue here is Award Group I.
+
+        On September 13, 2005, Urban filed a protest, docketed as CAB No. P-0714, challenging any
+                                               -3-                             Urban Service Systems Corp.,
+                                                                                 CAB Nos. P-0735, P-0739
+
+proposed award to TAC on the ground that TAC was not a responsible bidder, TAC did not provide
+with its bid a proper subcontracting plan, and TAC was not entitled to a 9 percent LSDBE preference
+because it was a multi-million dollar firm located principally in Maryland rather than the District.
+While the protest was pending, OCP conducted a pre-award survey of TAC and Urban on October 5-7,
+2005. OCP also examined the responsibility of TAC’s subcontractor, Jerome L. Taylor Trucking, Inc.
+(“JLT Trucking”).
+
+         On November 8, 2005, the SLBOC held one of its regular monthly meetings to consider pending
+applications for certification and recertification, including TAC’s recertification application. According
+to the transcript of the hearing provided by Urban in the current protest proceedings, the SLBOC denied
+recertifying TAC under the LSDBE program because it found the preponderance of business functions
+occurring outside of the District. The transcript seems to indicate that TAC’s recertification had come
+to the SLBOC at its October 20, 2005 meeting but the matter was deferred to the subsequent November
+2005 meeting. We were not aware of the SLBOC’s November 8 denial of recertification when we
+issued our decision in CAB No. P-0714 on November 15, 2005. In our decision, we held that the
+August 30, 2005 temporary certification letter constituted a provisional certification under the
+SLDBEDA Act and that the contracting officer properly relied on the provisional certification in
+applying a 9 percent preference reduction to TAC’s bid. We also held that the issue of TAC’s
+subcontracting plan was a matter of responsibility that may be addressed up to the time of award and
+that Urban’s challenge of TAC’s responsibility was premature because the contracting officer had not
+made a responsibility determination.
+
+        After our decision, OCP continued its responsibility investigation of TAC. Based on revisions
+to TAC’s subcontracting plan during December 2005, the contracting officer determined that TAC’s
+revised subcontracting plan met the 35 percent subcontracting requirements. (AR Ex. 8). A proposed
+contract award to TAC was submitted in February 2006 to the Council for approval, but it was
+subsequently withdrawn by the Mayor on March 7, 2006. (AR Ex. 8). Additional responsibility data
+was obtained by OCP relating to TAC and its subcontractor, JLT Trucking, including that JLT Trucking
+would perform approximately 37 percent of the work under Award Groups I, III, and VI. After Award
+Group VII was cancelled from the solicitation on March 16, 2006, the contracting officer concluded
+that TAC was a responsible bidder for Award Groups I, III, and VI. (AR Ex. 8, 11).
+
+        On May 2, 2006, Urban filed a motion for a preliminary injunction with the Superior Court to
+prevent the award of any proposed contract to TAC of Aggregate Award Groups I, III, and VI. (AR Ex.
+12). On May 12, 2006, the Office of the Mayor submitted to the Council a new proposed contract for
+awarding Award Groups I, III, and VI to TAC. On May 24, 2006, Urban filed a temporary restraining
+order with the Superior Court to enjoin the Council from approving the proposed contract but the Court
+denied Urban’s motion. (AR Exs. 12, 14). On May 25, 2006, the proposed contract to TAC was
+deemed approved by the Council. (AR Ex. 8). On June 7, 2006, Urban filed the first of its two protests
+docketed as CAB No. P-0735. On June 22, 2006, the Chief Procurement Officer determined to proceed
+with performance during the protest proceedings. On June 22, 2006, the District awarded the contract
+to TAC for Award Groups I, III, and VI. (AR Ex. 13). On July 10, 2006, Urban filed a second protest,
+docketed as CAB No. P-0739, challenging TAC’s receiving a 9 percent LSDBE preference reduction
+for bid evaluation purposes, and asserting that Urban was entitled to a 12 percent LSDBE preference,
+that TAC’s bid was nonresponsive for failing to include a valid subcontracting plan, and that TAC was
+not a responsible bidder because JLT Trucking is not capable of performing 35 percent of the contract
+                                                -4-                             Urban Service Systems Corp.,
+                                                                                  CAB Nos. P-0735, P-0739
+
+work.
+
+                                             DISCUSSION
+
+        Timeliness
+
+         The District argues that we should dismiss the consolidated protests because Urban failed to file
+the protest in CAB No. P-0735 within 10 business days of the time that it knew or should have known
+of the basis of the protest. The District relies on the statement in Urban’s protest that “[u]pon learning
+that the Mayor’s Office had submitted the contract . . . to the Council for approval, on May 4, 2006,
+Urban filed a motion for preliminary injunction. . . .” According to the District, because Urban knew
+the grounds of protest no later than May 4, 2006, and received notice of an adverse action by an official
+in connection with the proposed award at the latest by May 4, 2006, Urban had until May 18, 2006, to
+file a protest. Since the protest was not actually filed until June 7, 2006, it was untimely. The District
+adds that the protest issues in P-0739 are substantially the same as those raised in P-0735 and thus both
+protests must be dismissed. Urban responds that it filed its motion for preliminary injunction on May 4,
+2006, acting on information and belief, but not on actual knowledge, seeking to preclude the awarding
+of any additional contracts under the solicitation while the Superior Court case was pending. Urban
+states that it received no official notice that the District was awarding Award Group I to TAC and had
+only unsubstantiated comments from the contract specialist that Urban was “no longer in line for Award
+Group I.” (Urban’s July 21, 2006 Opposition Memorandum, at 5-6). Urban contends that it was not
+until May 23, 2006, that it finally was able to confirm with the Council that the Mayor’s Office had
+transmitted to the Council for approval a proposed contract award to TAC. (Id. at 6).
+
+         With regard to timeliness of a protest in connection with an award, the 10-business day period
+stated in D.C. Code § 2-309.08 begins when the bidder or offeror knows or should have known the
+basis of its protest and the party has become aggrieved in connection with the award by an official
+action adverse to it. See Sigal Construction Corp., CAB No. P-0690 et al., Nov. 24, 2004, 52 D.C. Reg.
+4243, 4254 (and cases cited therein). In Sigal, we concluded that the protester knew the bases for its
+protest and became aware of an official action by the contracting officer adverse to it when it learned of
+the Mayor’s submission to the Council for approval of a proposed award to another contractor. We
+held that Sigal’s protest was untimely because it was filed more than 10 business days after its actual
+notice that a proposed award had been submitted to the Council. Sigal did not receive a formal notice
+of the proposed award being transmitted to the Council, but it discovered from Council sources about
+the submittal and actively lobbied the Council against approving the award. In the present matter,
+Urban did not receive any formal notice from the contracting officer of the transmittal to the Council of
+the proposed award to TAC. Nor did it acquire actual notice of the Council submittal. Urban’s
+representative had communications by telephone with the contract specialist prior to the transmittal, but
+those oral communications merely indicated that Urban was not in line for award. There was no
+communication from the contracting officer or the contract specialist notifying Urban that the proposed
+award had been transmitted to the Council. Certainly, if the contracting officer had sent a written notice
+to all bidders that a proposed award to TAC had been submitted to the Council for approval, such a
+notice would constitute official action. Indeed, we recommend that contracting officers in the future
+always inform bidders promptly when a proposed award (requiring Council approval) has been
+transmitted to the Council. In the present matter, the first official notice sent to any of the bidders was
+sent by OCP after the Council review period had ended. Urban received actual notice of the transmittal
+                                                -5-                             Urban Service Systems Corp.,
+                                                                                  CAB Nos. P-0735, P-0739
+
+to the Council on or about May 23, 2006, and it filed its protest on June 7, 2006, which is within 10
+business days. Accordingly, Urban timely filed its protest. Therefore, we properly exercise
+jurisdiction pursuant to D.C. Code § 2-309.03(a)(1) to reach the merits of the protest.
+
+       TAC’s Entitlement to a 9 Percent Preference Reduction
+
+        In CAB No. P-0714, we held that TAC was entitled to the 9 percent preference reduction based
+on a provisional certification of TAC made by the DSLBD/OLBD on August 30, 2005, which was also
+the date of bid opening. The only factual differences between P-0714 and the current consolidated
+protests are that we now know that after bid opening the SLBOC denied recertifying TAC into the
+LSDBE program at its meeting on November 8, 2005, after considering the testimony from TAC’s chief
+executive officer. In addition, the provisional certification expired in December 2005 by virtue of D.C.
+Code § 2-218.62(b) (Supp. 2006), which provides that a provisional certification “shall not last for more
+than 120 days.” Given that 9 months elapsed from bid opening on August 30, 2005, until award on
+June 22, 2006, and the fact that the SLBOC denied TAC’s recertification in November 2005, the
+contracting officer should have amended the solicitation to obtain new bids, and evaluate prices on the
+firms’ then-current LSDBE status, but we conclude that the contracting officer did not violate the law,
+regulations, or the terms of the solicitation in deciding to award to TAC on the basis of the bids opened
+on August 30, 2005. Because bids are evaluated as of bid opening date, and August 30, 2005, is the bid
+opening date, TAC was properly certified through a provisional certification and entitled as of that date
+to a 9 percent reduction in its bid prices, as we previously held in CAB No. P-0714. Thus, for the only
+award group at issue, Award Group I, TAC has the lowest evaluated bid.
+
+        Urban understandably challenges the now-expired provisional certification and asks us again to
+independently review the certification of TAC to protect the integrity of the procurement. We declined
+to do so in CAB No. P-0714 because the exceptional circumstances provoking such a review were not
+present. Urban Service Systems Corp., CAB No. P-0714, at 6, Nov. 15, 2005; see also Capitol Paving
+of D.C., Inc., CAB No. P-0736, Oct. 12, 2006; C&D Tree Service, Inc., CAB No. P-0440, Mar. 11,
+1996, 44 D.C. Reg. 6426, 6433-6439. As of August 30, 2005, the DSLBD/OLBD made a provisional
+recertification of TAC which we held to entitle TAC to a 9 percent bid preference. Urban successfully
+challenged the recertification of TAC before the SLBOC, however, the denial of recertification
+occurred on November 8, 2005, well after bid opening. Because the law is clear that preferences are
+determined for price evaluation purposes at the time of bid opening, C&D Tree Service, Inc., CAB No.
+P-0440, Mar. 11, 1996, 44 D.C. Reg. at 6435 (and cases cited therein), the subsequent denial cannot
+retroactively changed the bid price evaluations as of August 30, 2005. We cannot give retroactive
+application to the SLBOC’s denial of TAC’s recertification for the same reason that we cannot give
+retroactive application to Urban’s newly received 12 percent bid preference made effective October 20,
+2005, because the bids at issue here were opened on August 30, 2005. While the Council has the power
+to amend the LSDBE program by requiring bidders to be certified not only at bid opening for
+evaluation purposes but also at the time of contract award, we cannot do so. The contracting officer had
+it in her power to resolve the dilemma caused by TAC’s recertification denial by amending the
+solicitation and seeking new bids from the bidders. For reasons that are not apparent, she did not follow
+this course. Under our statutory scope of review, we determine whether the contracting officer’s
+actions in awarding to TAC based on the original bids violated the law or the terms of the solicitation.
+We have carefully considered the facts but find that the contracting officer did not violate the law or the
+solicitation in awarding to TAC based on the original bids.
+                                                -6-                              Urban Service Systems Corp.,
+                                                                                   CAB Nos. P-0735, P-0739
+
+
+        Subcontracting Plan with JLT Trucking
+
+       Urban reasserts its contention from CAB No. P-0714 that TAC’s bid is nonresponsive since
+TAC failed to provide a valid subcontracting plan indicating that a minimum of 35 percent of the work
+would be performed by a LSDBE certified subcontractor. Urban also claims that Jerome L. Taylor
+Trucking is “in actuality the ‘Roll-off Division’ of LSI, that Mr. Taylor is the Operation [sic] Manager
+for LSI, that LSI is located in Maryland and that LSI is not a certified LSDBE firm in the District.”
+(CAB No. P-0735 Protest, at 21). Finally, Urban claims that TAC is nonresponsible because JLT
+Trucking is not capable of performing 35 percent of the contract work.
+
+        We stated in our decision in CAB No. P-0714 that the subcontracting plan requirement is a
+matter of bidder responsibility and not responsiveness. Thus, the subcontracting plan was not required
+in the original bid. The contracting officer obtained an initial and revised subcontracting plan from
+TAC and a declaration confirming that JLT is currently operating and a validly certified LSDBE firm.
+The contracting officer analyzed the subcontracting data and concluded that JLT Trucking was validly
+certified, a minimum of 35 percent of the work was subcontracted to JLT, and JLT has the facilities and
+equipment making it capable of performing the subcontract work. (See AR Exs. 5, 8, 11, and 15).
+Under the record as supplemented through the consolidated protests, we conclude that there is no basis
+for determining TAC’s bid to be nonresponsive or for TAC to be nonresponsible based on the revised
+subcontracting plan.
+
+                                            CONCLUSION
+
+       We have considered all of the contentions raised by Urban in its consolidated protests, but we
+conclude that the contracting officer did not violate the law or the terms of the solicitation in awarding a
+contract to TAC. Accordingly, we deny Urban’s protests.
+
+        SO ORDERED.
+
+DATED: October 16, 2006                                 /s/ Warren J. Nash
+                                                        WARREN J. NASH
+                                                        Administrative Judge
+
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

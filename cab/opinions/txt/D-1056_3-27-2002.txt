@@ -1,0 +1,306 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+       MCI CONSTRUCTORS, INC.                                  )
+                                                               )       CAB No. D-1056
+       Under Contract No. 91-0037-AA-2-0-LA                    )
+
+       For the Appellant: J. Jonathan Schraub, Esq., Robert E. Draim, Esq., Schraub & Company,
+Chtd. For the District of Columbia: Jack M. Simmons, III, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judge Matthew
+S. Watson, concurring.
+
+                                             OPINION
+                                      CourtLink Filing ID 609146
+
+        Appellant MCI Constructors, Inc., seeks compensation on behalf of a sub-tier contractor,
+Saftronics, Inc., in the amount of $272,735, plus interest, for additional material and labor supplied
+on a contract after the District of Columbia Water and Sewer Authority (“WASA”) rejected
+Saftronics’ interpretation of the specifications that harmonic distortion was to be measured at the
+primary side (4,160 Volts) of WASA’s transformers rather than the secondary side (480 Volts) of the
+transformers. Because we conclude that Saftronics interpretation was reasonable, WASA’s rejection
+was a change to the contract entitling Appellant to compensation for the change. We find Appellant
+entitled to $251,118, plus interest on that amount pursuant D.C. Code § 2-308.06.
+
+                                             FINDINGS
+
+        The relevant facts are not in dispute. In February 1993, MCI was awarded Contract No.
+91-0037-AA-2-0-LA by the District’s Department of Public Works, Water and Sewer Utility
+Administration (the predecessor in interest to WASA) to make specified improvements to the
+secondary treatment facilities at the Blue Plains Wastewater Treatment Plant located in the District of
+Columbia. (Stipulations of the Parties ¶¶ 1-2, filed November 16, 1999). The total contract price was
+in excess of $10 million.
+
+        MCI, the general contractor on the Blue Plains project, issued a subcontract to Prince
+Georges Contractors, Inc. ("PGC") to provide certain mechanical supplies required under the Prime
+Contract. (Stipulations ¶ 3). PGC issued a subcontract to Ingersoll-Dresser Pump Company ("IDP")
+for pumps, motors, variable frequency drives (“VFDs”), and related supplies and services needed for
+the Blue Plains project. (Stipulations ¶ 4). In May 1993, IDP issued two purchase orders, Nos.
+33-0922642 and 33-092644, totaling $725,000, to Saftronics for the necessary VFD systems and
+related supplies and services. (Stipulations ¶ 4; Tr. 75; Appellant's Exhibits (AEX) 19-20).
+                                                 -2-                  MCI Constructors, Inc., CAB No. D-1056
+
+
+
+        The Prime Contract specifications were prepared for the District by Greeley and Hansen, an
+engineering firm located in Maryland. (Stipulations ¶ 5). Section 11006 of' the specifications set forth
+the requirements related to the VFD systems. Section 11006.05.A.2.d. states:
+
+        Individual or simultaneous operation of the adjustable frequency drives on any
+        common bus shall not contribute more than 5 percent additional harmonic voltage
+        distortion to the bus in accordance with IEEE [Standard] 519. Each drive shall have
+        either an a-c input line harmonic filter or a transformer to limit the harmonic
+        distortion. The harmonic filter shall be connected to the line side of the drive through
+        a contactor.
+
+(AEX 3).
+
+        The 1992 version of IEEE Standard 519, entitled “IEEE Recommended Practices and
+Requirements for Harmonic Control in Electrical Power Systems,” is 100 pages in length and
+contains 14 sections. (AEX 2). The Introduction (Section 1) to IEEE 519 states that it is to be used
+for guidance in the design of power systems with nonlinear loads. Nonlinear devices include static
+power converters such as adjustable speed drives. According to IEEE 519, nonlinear loads change
+the nature of the ac (alternating current) power current resulting in the flow of harmonic currents in
+the power system that can cause interference with communication circuits and other types of
+equipment. (AEX 2, at 7). Because harmonic voltage and current distortion is undesirable, devices
+such as harmonic filters and transformers are used to limit the harmonic distortion.
+
+        Section 10 of IEEE 519, entitled “Recommended Practices for Individual Consumers,”
+describes current distortion limits that apply to individual consumers of electricity while Section 11
+describes the quality of electricity that the utility (producer) should furnish to the consumer. Section
+10 states in pertinent part:
+
+               These limitations are for the benefit of all parties involved. This
+       recommendation . . . focuses on the point of common coupling (PCC) with the
+       consumer-utility interface. . . . It would be ideal if it were possible to control
+       harmonics to such an extent that harmonic effects . . . were nil at every point in the
+       entire system encompassing the consumer’s own circuit, the utility circuit, and other
+       consumers’ circuits. In reality, however, economic factors and the effectiveness of
+       the harmonic control must be balanced; and some harmonic effects are unavoidable
+       at some points in the system. The recommendation described in this document
+       attempts to reduce the harmonic effects at any point in the entire system by
+       establishing limits on certain harmonic indices (currents and voltages) at the point of
+       common coupling (PCC), a point of metering, or any point as long as both the utility
+       and the consumer can either access the point for direct measurement of the harmonic
+       indices meaningful to both or can estimate the harmonic indices at point of
+       interference (POI) through mutually agreeable methods. Within an industrial plant,
+       the PCC is the point between the nonlinear load and other loads.
+                                                    -3-                  MCI Constructors, Inc., CAB No. D-1056
+
+
+
+(AEX 2, at 75).
+
+        The key issue in this case is whether specification section 11006.05.A.2.d, in conjunction with
+IEEE 519, requires that the amount of harmonic voltage distortion be measured on the primary
+(4,160V) side of the main transformers (as Saftronics argues) or on the secondary (480V) side of the
+transformers (as WASA argues). There is no question that Saftronics’ proposed equipment and filters
+met the 5 percent harmonic distortion requirement when measured on the 4,160V side of the
+transformers but did not meet it when measured on the 480V side. Ultimately, WASA required
+Saftronics to meet the 5 percent requirement on the 480V side, and Saftronics now seeks recovery of
+the additional costs it incurred in providing additional filtering equipment to meet that requirement.
+
+        Prior to publication of the District’s specifications, in about 1990, Mr. Kohn of Greeley
+prepared calculations for the District which (according to the District’s Gregory Bloomstein)
+expressly identified the point of calculation for harmonic analysis as the 480 Volt bus of the main
+transformers. (Tr. 291). Unfortunately, the District did not provide this document to the bidders or
+their suppliers and it was never made available to MCI or its subcontractors, including Saftronics.
+At the hearing, the Board was informed that the document had been lost. (Tr. 287-288).
+
+       At the pre-bid meeting in March 1992, attended by 43 individuals, including representatives of
+WASA, Greeley, and Metcalf & Eddy (WASA’s construction manager for the project), as well as
+prospective bidders, subcontractors, and suppliers, no one raised any question concerning the meaning
+or interpretation of specification section 11006.05.A.2.d. (Stipulations ¶ 8). Nor did the
+representatives of WASA, Greeley, or Metcalf discuss or clarify the meaning of section
+11006.05.A.2.d.
+
+        Prior to submitting its bid, Saftronics personnel reviewed the specifications, including section
+11006.05.A.2.d., as well as IEEE 519, which is referenced in that section. (Tr. 32, 36-37). Based
+upon its review of the documents, Saftronics satisfied itself that it was designing components for the
+Blue Plains project in accordance with section 11006.05.A.2.d and IEEE 519. (AEX 11, 13-17).
+
+        The materials proposed by Saftronics, including the use of 3 percent input line reactors, were
+consistent with Saftronics' analysis that the calculation of harmonic distortion was to be taken on the
+4,160V side of the transformers. (Tr. 65). In the electrical engineering industry, a reactor such as the 3
+percent input line reactor falls within the definition of “filter” or “harmonic filter.” (Stipulations ¶ 13).
+Section 3.1 (Definitions and Letter Symbols) of IEEE 519 defines “filter” as a “generic term used to
+describe those types of equipment whose purpose is to reduce the harmonic current or voltage flowing
+in or being impressed upon specific parts of an electrical power system, or both.” (AEX 2, at 9).
+
+       Following contract award, Saftronics was obligated to submit to WASA a preliminary
+harmonic analysis pursuant to section 11006.03.B.9 of the specifications. (Stipulations ¶ 10). In
+August 1993, Saftronics delivered a preliminary harmonic analysis to WASA. Metcalf & Eddy
+responded by requesting a revised analysis showing all variable frequency drives running
+simultaneously. Saftronics retained Mr. Conrad St. Pierre, one of the experts who testified for
+Saftronics at the hearing, to prepare the revised harmonic analysis. Saftronics asked Mr. St. Pierre to
+                                                 -4-                 MCI Constructors, Inc., CAB No. D-1056
+
+
+
+perform a harmonic analysis in accordance with IEEE 519, without specifying the point at which he
+should take the measurement. Mr. St. Pierre independently determined that the calculation should be
+taken at the 4,160V side of the transformers. (Tr. 207-209). Mr. St. Pierre’s analysis was
+transmitted to WASA in November 1993. (Stipulations ¶ 12). His calculations showed harmonic
+distortion of 2.8 and 3.6 percent on the 4,160V side of each transformer using a total of 42 separate
+3-percent reactors proposed by Saftronics. Without the filters, the harmonic distortion would have
+been 6.2 and 7.8 percent, which amounts are in excess of the 5 percent contract limitation. (Tr. 213-
+215).
+
+          Based on the undisclosed Greeley study which called for measuring at the 480V side of the
+transformers, a consultant hired by Metcalf, acting on behalf of WASA, rejected the revised
+harmonic analysis. Metcalf then issued a written directive for WASA requiring that Saftronics
+“provide harmonic analysis that shows the voltage harmonic distortion at common buses 480 volts
+. . . to comply with the requirements of 5% limit of harmonic distortion. The 480 VAC buses shall
+be considered as points of common coupling (PCC) in accordance with the Specification Section
+11006.05.A.2.d and IEEE 519. . . .” (AEX 22). This was the first notice to Saftronics identifying the
+480V side of the transformer as the point of calculating harmonic distortion under section
+11006.05.A.2.d. (Tr. 80). Despite a number of meetings, the contracting parties were unable to
+resolve the disputed interpretation. Saftronics ultimately complied with WASA’s directions and
+provided additional design and filtering equipment to satisfy the 5 percent harmonic distortion
+limitation at the 480V side of the transformers. (Tr. 82-83).
+
+        On July 29, 1994, Saftronics requested a change order for the increased costs incurred as a
+result of WASA’s interpretation of section 11006.05.A.2.d. In an August 13, 1995 letter, WASA
+stated that Saftronics’ change order request was unjustified. Saftronics responded to that letter on
+September 21, 1995. (AEX 31). In a letter dated October 3, 1995, MCI forwarded Saftronics
+September 1995 response to WASA’s contracting officer, requesting a final decision. The
+contracting officer has never issued a final decision. On September 18, 1998, MCI filed an appeal
+with the Board from the deemed denial arising from the contracting officer’s failure to respond to
+MCI’s October 3, 1995 request for a final decision. (Stipulations ¶ ¶ 19-22).
+
+       At the Board hearing, Saftronics introduced the testimony of two experts in the field of
+harmonic distortion and the interpretation of IEEE 519: Mr. Ray Stratford and Mr. Conrad St. Pierre.
+Both of these experts supported Saftronics' determination that section 11006.05.A.2.d called for the
+harmonic calculation to be taken at the primary side (4,160V) of the transformers.
+
+         Mr. Stratford is a licensed professional engineer who helped pioneer studies and techniques in
+the area of harmonics. (Tr. 137-142). Mr. Stratford developed original techniques for analyzing
+harmonic distortion, and he was instrumental in the development of the IEEE standards. (Id.) He was
+Chairman of the Static Power Converter Committee of the IEEE in the early 1970s when the
+Committee initiated work on an harmonic standard, through 1981, when the Committee established the
+first harmonic distortion standards. (Tr. 138-140). Mr. Stratford was then Co-Chairman of the IEEE
+working group that produced the 1992 version of the IEEE standard applicable in this case. (Tr. 142).
+                                                   -5-                  MCI Constructors, Inc., CAB No. D-1056
+
+
+
+Mr. Stratford has taught numerous industry courses relating to harmonics and industrial power systems,
+and has written extensively throughout his professional career on topics including harmonic distortion.
+
+         Mr. Stratford explained that IEEE 519 sets certain criteria for the current and voltage quality
+that the producer, i.e., the utility, must produce, as well as to limit the amount of harmonic distortion
+that a user inserts back into the power system. (Tr. 157-158). According to Mr. Stratford, IEEE 519
+identifies the point of common coupling as the point at which the utility is furnishing power to the user.
+(Tr. 158-159). Mr. Stratford testified that in the case of the Blue Plains project, “I would interpret …
+that this would be at the 4160-volt level, where the utility is feeding power into this section of the plant
+at 4,160 volts.” (Tr. 159, 181).
+
+         Saftronics’ other expert, Mr. Conrad St. Pierre, has performed numerous harmonic analyses
+(between 20 and 40) since 1985 and has taught seminars and written extensively in the area of
+harmonics and other topics. (Tr. 202-206). Mr. St. Pierre concurred with Mr. Stratford's opinion
+concerning the meaning and intent of IEEE 519 and that Saftronics properly measured harmonic
+distortion at the 4,160V side of the main transformer. Mr. St. Pierre independently determined that the
+calculation should be taken at the 4,160V side and he concluded that Saftronics’ proposed system
+satisfied the 5 percent harmonic distortion limit. (Tr. 207-209, 212-215).
+
+        WASA’s expert, Mr. Robert Mathisen, appears to have less experience in the area of harmonics
+than Mr. Stratford and Mr. St. Pierre. (Tr. 353-355). Mr. Mathisen agreed with Saftronics’ experts
+that Section 10 of IEEE 519 has to do with the condition of the electric current returning to the utility
+and that too much harmonic filtering may have a detrimental effect on the power system due to
+interactions. (Tr. 309-311). Nevertheless, Mr. Mathisen focused on the sentence in Section 10 of IEEE
+519 which states: “Within an industrial plant, the PCC is the point between the nonlinear load and
+other loads.” He believes that Blue Plains is an industrial plant and therefore this exception in IEEE
+519 applies to the case here and requires measuring harmonic distortion at the 480V side of the
+transformers. No one disputes that the 480V bus is the point between the nonlinear loads and other
+loads in this section of the Blue Plains facility. Mr. Stratford stated that the intent of the “industrial
+plant” exception was to provide a limited exception for a large industrial plant that has its own utility
+section within the plant. (Tr. 162-163). Mr. Stratford did not believe that the exception applied to Blue
+Plains because it does not have such a utility section within it. We find Mr. Stratford’s testimony to be
+credible.
+
+        The District argues that Appellant bears responsibility for not seeking clarification of the
+contract language which it says is ambiguous. Mr. Mathisen testified for WASA that he found
+ambiguities in the contract documents that required a prudent bidder or supplier to seek clarification
+from WASA concerning inter alia the meaning of section 11006.05.A.2.d. On the other hand, Mr.
+Mathisen testified that he would not need to specify which bus should be used for the harmonic
+distortion measurement because “to . . . [him] it’s very clear in IEEE 519 that the bus is the 480 volt
+bus.” (Tr. 357). We conclude that the language was not patently ambiguous such that a prudent
+contractor should bear responsibility for seeking clarification. See, e.g., United States v. Turner
+Construction Co., 819 F.2d 283, 285-86 (Fed. Cir. 1987).
+                                                  -6-                 MCI Constructors, Inc., CAB No. D-1056
+
+
+
+        Based on our review of the specification, IEEE 519, and the testimony of the experts, we find
+that Saftronics reasonably interpreted the specification at section 11006.05.A.2.d as indicating that the
+calculation of harmonic distortion be taken on the primary (4,160V) side of the transformers rather than
+on the secondary (480V) side. The District’s suggestion that the 4,160V side is not the point of
+metering with the utility is irrelevant because the record demonstrates that Saftronics’ equipment met
+not only the 5 percent limit at the 4,160V side but also would satisfy the same distortion requirement at
+higher voltage points upstream from the transformers in question. We do not need to find the District’s
+interpretation of section 11006.05.A.2.d to be unreasonable, because as drafter of the specification, it
+bears responsibility for not drafting the specification to clearly indicate that it wished the measuring
+point to be at the 480V side of the transformer. Restatement (Second) of Contracts § 206 (1979). The
+specification as written does not require the measurement at the 480V bus and the District never
+disclosed to bidders the Greeley pre-bid study indicating the design engineer’s concept of calculating
+harmonic distortion at the 480V bus. Accordingly, Appellant is entitled to recover its increased costs of
+performance for complying with WASA’s directive to calculate harmonic distortion at the 480V side of
+the transformer and to provide additional services and equipment to meet the more stringent
+requirements.
+
+         For the most part, quantum is not disputed. At the start of the hearing, Appellant sought
+$236,542, consisting of Saftronics’ material costs of $156,617, direct labor of $16,560, engineering of
+$11,961, plus mark-ups for Ingersoll Dresser Pump Company, MCI, and bond and warranty. During
+the hearing, Appellant revised its quantum to $272,735, by adding an additional amount of $16,560 to
+direct labor and $11,961 to engineering (plus associated increases in the mark-ups on these amounts) in
+order to include labor burden. We find that a more reasonable amount for burden is $6,624 for direct
+labor and $4,784 for engineering. Thus, Saftronics’ total costs equal $196,547. Adding mark-up for
+Ingersoll Dresser Pump ($29,482), MCI ($22,603), and bond and warranty ($2,486), yields a total
+quantum of $251,118 for the contract change. At the hearing, the District’s witness challenged the
+amount of the credit ($12,000) for the 3 percent reactors which Saftronics did not ultimately use. (DEX
+M). We find that the record produced by Saftronics adequately supports the amount of the credit.
+
+         In a final argument, the District argues that we lack jurisdiction over the appeal because MCI
+never filed an appeal with the former Director of the Department of Administrative Services, prior to
+filing its appeal with the Board. This argument is not well taken. The disputes process was amended
+by the Procurement Reform Amendment Act of 1996, D.C. Law 11-259, 44 D.C. Reg. 1423 (Mar. 14,
+1997), which eliminated the intermediate step of appealing to the DAS Director from a denial or
+deemed denial of a claim by the contracting officer. See Eboné, Inc., CAB Nos. D-0971, D-0972,
+May 20, 1998, 45 D.C. Reg. 8753, 8773 & n.14. By the time MCI filed its claim, there was neither a
+DAS Director nor a statutory procedure for appealing to the DAS Director. The District also relies on
+27 DCMR § 3803.5 (1988) to support the obsolete DAS Director appeal procedure and the timing of an
+appeal from a deemed denial. We hold that section 3803.5 has been superseded by amendments to the
+PPA. When faced with changes in the statutory disputes process and government procurement
+reorganizations, we ask whether the change has deprived a party of any substantive rights. In this case,
+only procedural rights, not substantive rights, have been implicated. Fry & Welch Associates, CAB No.
+D-0821, July 31, 1999, 44 D.C. Reg. 6859, 6876-77. MCI properly followed the applicable disputes
+procedures when in filed its appeal directly with the Board in 1998.
+                                             -7-                MCI Constructors, Inc., CAB No. D-1056
+
+
+
+
+                                       CONCLUSION
+
+        MCI is entitled to $251,118, plus interest on that amount pursuant D.C. Code § 2-308.06,
+starting from October 3, 1995.
+
+       SO ORDERED.
+
+DATED: March 27, 2002                              /s/ Jonathan D. Zischkau
+                                                   JONATHAN D. ZISCHKAU
+                                                   Administrative Judge
+
+
+
+CONCURRING:
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

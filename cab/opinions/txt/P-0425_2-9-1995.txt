@@ -1,0 +1,307 @@
+                <&ouernment of tlte IDistrirt of Qtolumbia
+                                                              •
+                              CONTRACT APPEALS BOARD
+                           717 14TH STREET, N.W., SUITE 430
+                                WASHINGTON, DC 20005
+
+                                                                  120217276597
+
+
+
+
+                                                   DATE:      February 9, 1995
+
+
+
+
+TO:          Michael J. Cohen, Esquire
+             W.M. Schlosser Company, Inc.
+             2400 51st Place
+             Hyattsville, MD 20781-1396
+
+             Warren J. Nash
+             Assistant Corpor~tion Counsel
+             441 4th Street, N.W., Suite 1060
+             Washington, D.C.  20001
+
+
+SUBJECT:     CAB No. P-425, Protest of W.M. Schlosser Company, Inc.
+
+      Attached is a copy of the Board's opinion in the above-referenced matter.
+
+
+
+
+                                                   ~ou~ ~ou..SL
+                                                   Clerical Assistant (Typist)
+
+
+
+
+Attachment
+                                                                                             [6059]
+
+
+                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       W.M. SCHLOSSER COMPANY, INC.                        )
+                                                           )      CAB No. P-425
+       Under Invitation No. 9469-94-AI-23-HC               )
+
+
+      For the Protester: Michael J. Cohen, Esquire. For the Government: Warren J. Nash
+and Howard S. Schwartz, Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Lorilyn E. Simkins and Cynthia G. Hawkins-LeOn, concurring.
+
+
+                                          OPINION
+
+        W.M. Schlosser Company, Inc. ("Schlosser"), the only bidder under Invitation No. 9469-
+94-AI-23-HC, protests the District of Columbia's determination that Schlosser's bid was
+nonresponsive because of a defective bid guarantee. Schlosser also challenges the District's
+decision to cancel the IFB and to reissue the solicitation under Invitation No. 5164-95-Al-23-
+DM. The District asserts that the contracting officer properly determined that Schlosser's bid
+guarantee was defective and that the contracting officer reasonably determined that bid
+cancellation and resolicitation were warranted. We sustain the protest.
+
+                                            FACTS
+
+        On October 3, 1994, the Department of Public and Assisted Housing ("DPAH") issued
+Invitation for Bids ("IFB") No. 9469-94-AI-23-HC in the open market to modernize the Eastgate
+Gardens apartments. (Agency Report ("AR") Exhibit 1). DPAH issued the IFB to eight
+vendors. On November 7, 1994, protester submitted the only bid received by DPAH. (AR
+Exhibit 2). The instructions to bidders are set forth in a form furnished by the U.S. Department
+of Housing and Urban Development ("HUD"). (AR Exhibit 1). Paragraph 9 of the instructions
+deals with bid guarantees and provides in pertinent part:
+
+       All bids must be accompanied by a negotiable bid guarantee which shall not be
+       less than five percent (5 %) of the amount of the bid. . . . The bid guarantee may
+       be . . . a bid bond secured by a surety company . . .. Failure to submit a bid
+       guarantee with the bid shall result in the rejection of the bid. . .. "
+
+The cover sheet for Schlosser's bid is a DPAH standard form entitled "Bid Form Construction
+Contract". (AR Exhibit 2, Attachment B). One line on the Bid Form reads: "Enclosed is bid
+guaranty consisting of 5% of the total amount bid. Bid Bond Certified'Check' Other" (Jd.).
+The words "Bid Bond" are circled. The form is executed by Schlosser's president. The bid also
+contains a 2-page form entitled "Bid Bond (Construction)" which is another standard DPAH
+[6060]
+
+
+
+                                                          -2-                    W. M. Schlosser Co .• CAB No. P-425
+
+
+         form. (Schlosser Reply, Exhibit A). The bid bond form identifies the IFB, the bidder, the
+         surety, and is executed by Schlosser and the surety. The following blocks (as completed by
+         Schlosser) also appear on the bond:
+
+                           TYPE OF ORGANIZATION (X)
+                                  oINDIVIDUAL                o      PARTNERSHIP
+                                  oJOINT VENTURE              IX!   CORPORATION
+
+                           STATE OF INCORPORATION           Maryland
+                           PENAL SUM OF BOND
+
+                           AMOUNT NOT TO EXCEED
+                           (MILLIONS)   1   (fHOUSANDS)   (HUNDREDS)   1   (CENTS)   1 5 % OF BID
+
+
+                           BID IDENTIF1CATION
+
+                           BID OPENING DATE               INVITATION NO.
+                               11-02-94                    9469-94-Al-23-HC
+
+
+         Although Schlosser entered the requested corporate and bid identification information in the top
+         two and bottom blocks, neither Schlosser nor the surety entered any amounts or made any
+         markings on the other blocks relating to the amount of the bid bond. Printed portions of the
+         bond below these blocks contain, inter alia, the following language:
+
+                [T]he principal and Surety(ies) hereto, are firmly bound to the District of
+                Columbia Government ... in the above penal sum for the payment of which we
+                bind ourselves . . . .
+
+         Five instructions appear on page 2 of the bid bond but none of them give any directions on
+         filling out the blocks reprinted above.
+
+                 On November 18, 1994, the contracting officer executed a Determination and Findings
+         for Cancellation which indicated that because the bid bond of Schlosser did not contain a face
+         value the bid was rejected as nonresponsive. (AR Exhibit 3). The rejection of the bid and
+         cancellation of the IFB were approved by the Director of the Department of Administrative
+         Services ("DAS") on November 21, 1994. (Id.). DPAH resolicited the requirements by
+         reissuing the IFB (under Invitation No. 5164-AI-23-DM) on November 21, 1994. Bid opening
+         was scheduled for January 13, 1995.
+
+                 On December 7, 1994, Schlosser filed its protest, alleging that its bid was responsive
+         because the bid bond was for the penal sum of five percent of the bid as required by the IFB.
+         Schlosser requested that it receive contract award under the original IFB and that the new IFB
+         be cancelled. On December 20, 1994, the District advised the Board that bid opening for the
+         resolicitation was to be extended to January 27, 1995. Pursuant to a Board order of December
+         20, the District filed an agency report on January 6, 1995, and the protester filed a reply on
+         January 17, 1995.
+                                                                                              [6061]
+
+
+
+                                               -3-               W.M. Schlosser Co .• CAB No. P-425
+
+
+        In its agency report, the District argues that the bid bond is clearly defective because:
+(1) no penal sum is identified in the appropriate box; (2) no "Amount Not To Exceed" is listed
+in the appropriate boxes; and (3) the "5% of Bid" box is not checked off. Noting GNIJ
+Enterprises, Inc., CAB No. P-1l8, Sept. 28, 1990,38 D.C. Reg. 3125, where we held that, in
+accord with 27 DCMR § 2702.2, it was improper for a contracting officer to reject the bid of
+the sole bidder where the only basis for rejecting the bid was the bidder's failure to furnish a
+bid bond, the District contends that the contracting officer had a reasonable basis for rejecting
+Schlosser's bid because HUD's "Procurement Handbook for Public Housing Agency's (PHAs)
+and Indian Housing Authorities (lHAs) , " Handbook 7460.8 Rev-l (Jan. 1993), requires rejection
+of a bid where a bid bond is defective.
+
+        In its January 17 reply to the agency report, Schlosser urges that the bid bond on its face
+sets forth the penal sum as "5% of Bid" and there was no requirement for checking off the box
+containing that notation. Schlosser also points to the bid form's indication of a bid guarantee
+consisting of "five percent of the total amount bid." Schlosser has attached an affidavit from
+the bonding agent who prepared and signed the bond on behalf of the surety stating that her
+understanding was that the bond was in the amount of five percent of the bid. Schlosser
+contends that 27 DCMR § 2702.2 and our ruling in GNIJ control the outcome here because the
+provision from the HUD Procurement Handbook relied upon by the District requires a bid
+guarantee of five percent "unless otherwise required by state or local laws or regulations."
+
+                                         DISCUSSION
+
+       The Board has jurisdiction over this protest pursuant to D.C. Code § 1-1189.3 (1992).
+
+        The Procurement Practices Act generally requires bid security (e.g., a bid bond) for all
+competitive sealed bids and competitive sealed proposals for construction contracts when the
+price is estimated by the District to exceed $100,000. D.C. Code § 1-1185.2(a)(l); 27 DCMR
+§ 2701.2. The procurement statute and regulations also specify that a bid bond shall be in an
+amount equal to at least five percent of the amount of the bid or price proposal. D.C. Code §
+1-1185 .2(b); 27 DCMR § 2701.4. The statute provides that if an invitation requires a bid bond,
+and a bidder does not comply -- i.e., by failing to submit a bid bond or by submitting a defective
+bid bond -- then the bid must be rejected unless, pursuant to the procurement regulations, it is
+determined that the bid fails to comply in a non substantial manner with the security
+requirements. D.C. Code § 1-1185.2(c). Certain enumerated exceptions to the general
+mandatory requirement for bid security are contained in 27 DCMR § 2702. Under 27 DCMR
+§ 2702.2, if a bidder fails to comply with the bid security requirements, but is the only one who
+submitted a bid, the bid may be accepted and the contracting officer shall require the furnishing
+of the bid security before the contract is signed.· In GNIJ, we held that it was improper for
+the contracting officer to reject a bid where there was only one bidder and where the sole basis
+for rejection was the bidder's failure to provide a bid bond. We stated that there had to be some
+other reasonable basis for rejection. 38 D.C. Reg. at 3127-28.
+
+
+• The District's exceptions to the bid security requirements, such as 27 DCMR §2702.2, have
+their counterparts in the Federal Acquisition Regulation. See, e.g., 48 C.F.R. § 28.101-4(c)(l).
+[6062]
+
+
+
+                                                        -4-                W.M. Schlosser Co., CAB No. P-425
+
+
+                 Citing HUD's Procurement Handbook, the District contends that HUD's procurement
+         policy set forth in Chapter 4 of the Handbook requires all bidders to submit a bid bond in the
+         penal sum of five percent and that a failure to do so requires rejection of the bid. 2 (AR at 5;
+         AR Exhibit 4). According to the District, this procurement policy provides the "reasonable
+         basis" for rejection required by GNlJ. We do not agree. Chapter 4 of HUD's Procurement
+         Handbook expressly provides that a number of its requirements are not to override state or local
+         law. The bid guarantee requirement is one such requirement. For construction contracts
+         exceeding $100,000, paragraph 4-16.E.1.a states: "24 CFR 85.36 provides that contractors shall
+         be required to submit the following, unless otherwise required by State or local laws or
+         regulations: (1) a bid guaranty from each bidder equivalent to 5 % of the bid price .... " (AR
+         Exhibit 4, at page 4-12 (emphasis added». In addition, the introduction to Paragraph 4-16 of
+         the Handbook states. "The required bond or guaranty is described in the sample procurement
+         policy statement in Appendices 1, 2 and 3 based on HUD regulations." Appendix 1, entitled
+         "Sample Statement of Procurement Policy for Public Housing Agencies," like Paragraph 4-
+         16.E.1.a of the Handbook, requires in Section III.C.5 that bidders submit a bid guarantee equal
+         to five percent of the bid price "unless otherwise required by State or local laws or regulations. "
+         (Protester's Reply, Exhibit E). There can be no question that District procurement law makes
+         an exception to the requirement for bid security at the time of bid where only one bidder submits
+         a bid. The Federal Acquisition Regulation contains the same exception to bid security
+         requirements where there is only one bidder, see 48 C.F.R. § 28.101-4(c)(l), and the
+         Comptroller General of the United States has even ruled that a local housing agency's decision
+         to waive bid security requirements in connection with a HUD-funded project was fully in accord
+         with federal law and regulation. Ed Davis Construction, Inc., B-216353, Feb. 22, 1985,85-1
+         CPD 1226.
+
+
+
+         2   Paragraph 4-16 of HUD' s Procurement Handbook, at page 4-11, provides in relevant part:
+
+                 A.     Bid guarantee.
+
+                        1.     A bid guarantee or bid bond is submitted by the
+                               bidders with their bids and assures that, if awarded
+                               the contract, the bidder will accept and perform the
+                               contract and not attempt to withdraw or otherwise
+                               disavow the contract and will execute such
+                               contractual documents as may be required within
+                               the time specified . . . .
+
+                        2.     If the contractor does attempt to renege on the
+                               contract, the surety for the bond is required to step
+                               in and take over performance of the contract, or the
+                               check tendered may be cashed. . .. If the bid
+                               guarantee is not submitted with the bid, the
+                               [housing agency] shall reject the bid . . . .
+                                                                                               [6063]
+
+
+
+                                               -5-                W.M. Schlosser Co., CAB No. P-425
+
+
+       Accordingly, the contracting officer should not have determined Schlosser's bid to be
+nonresponsive even if the bid bond was defective. 3
+
+        The protest is sustained. The District shall award the contract under the original
+invitation to Schlosser assuming it is found to be responsible. The reissued solicitation,
+Invitation No. 5164-AI-23-DM, shall be cancelled.·
+
+       SO ORDERED.
+
+
+
+DATE: February 9. 1995
+                                             J~.zIscAU
+                                             Administrative Judge
+
+CONCURRING:
+
+
+
+
+~~Ib.~~JM
+  E.
+LORIL        SIMKINS
+Chief Administrative Judge
+
+
+
+
+~.~>-~
+CYNTHIA G. HAWKINS-LE6N
+Administrative Judge
+
+
+
+3 With regard to the issue of whether Schlosser's bid bond is defective, we are satisfied from
+the record that the bid bond sets forth a penal sum of five percent of the bid. No specific dollar
+amounts are set forth in the,"Penal Sum of Bond" block or t.he "Amount Not To Exceed" block.
+We agree with the protester that the "5% of Bid" block indicates a bond in the required amount
+of five percent of the bid. The lack of a check mark or other indication in the "5% of Bid"
+block does not lead us to a contrary conclusion. The bid instructions neither suggested nor
+required such a marking. In the absence of a specified penal sum or NTE amount which
+contradicts the indication of "5 % of Bid", this particular bid bond form identifies a bid security
+amount of five percent of the bid. Because we are of the view that the surety here would be
+held liable for five percent of the bid (if the bidder defaulted), the bid bond is not defective.
+
+• On January 26, 1995, the clerk orally advised the parties of the Board's decision to sustain
+the protest.
+

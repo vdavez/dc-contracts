@@ -1,0 +1,179 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+CORINTHIAN CONTRACTORS, INC.                          )
+                                                      )       CAB No. P-0812
+Under IFB No. DCKA-2009-B-0090                        )
+
+       For the Protester: Timothy J. McEvoy, Esq., Cameron McEvoy PLLC. For the District of
+Columbia Government: Alton E. Woods, Esq., Assistant Attorney General. For the Intervenor:
+Christopher M. Kerns, Esq., Fort Myer Construction Corp.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 26493845
+
+
+        Corinthian Contractors, Inc., the apparent low bidder under a solicitation for certain
+reconstruction work on Pennsylvania Avenue, SE, has protested the contracting officer’s
+decision to reduce its bid amount for mobilization to the maximum amount permitted by section
+612.02 of the Standard Specifications for Highways and Structures which was incorporated into
+the solicitation. We conclude that the contracting officer was required by the terms of the
+solicitation to reduce Corinthian’s bid amount for mobilization to the maximum permitted by
+section 612.02 of the Standard Specifications. If Corinthian believed that the solicitation
+contained an unreasonably low mobilization maximum, it should have brought that issue to the
+attention of the contracting officer prior to bid opening. Accordingly, we deny the protest.
+
+                                      BACKGROUND
+
+        On May 4, 2009, the District’s Department of Transportation (“DDOT”) Invitation for
+Bids (“IFB”) No. DCKA-2009-B-0090 was advertised in the Washington Times and posted on
+the Office of Contracting and Procurement (“OCP”) website. (Agency Report (“AR”) Ex. 1).
+The IFB was for the reconstruction of Pennsylvania Avenue, SE, from 200 Feet West of 27th
+Street, SE, to Southern Avenue, SE. (Id.). From May 6, 2009, to June 10, 2009, five
+amendments were issued to the IFB, none having any bearing on this protest. On June 12, 2009,
+bids were received and opened from six bidders with the evaluated bids with Certified Business
+Enterprise preferences adjusted as follows:
+
+       Name:                                                  Total Bid:
+
+       1. Corinthian Contractors, Inc.        -               $23,464,629.65
+       2. Fort Myer Construction Corp.        -               $25,182,540.26
+       3. Civil Construction, LLC.            -               $25,582,048.70
+       4. Capitol Paving of DC, Inc.          -               $27,332,237.90
+       5. Rustler Construction, Inc.          -               $29,676,271.49
+       6. Tompkins Builders, Inc.             -               $29,968,820.96
+                                                 -2-          Corinthian Contractors, CAB No. P-0812
+
+
+        On June 15, 2009, the contracting officer certified and signed a tabulation of the bids.
+(AR Ex. 2). On June 16, 2009, the contracting officer sent a letter (AR Ex 3) to Corinthian
+indicating that the contracting officer had discovered a mathematical error in Corinthian’s bid
+regarding mobilization and that the bid amount of $2,653,310.00 for mobilization had been
+adjusted to the allowed maximum amount of $1,203,231.48 as required by section 612.02 of the
+Measure and Payment portion of DDOT’s Standard Specifications for Highways and Structures
+2005 (Revised 2007), which is incorporated into the IFB (Appendices Index, at ii (AR Ex. 1, Part
+4)). Section 612.02 provides in relevant part:
+
+       Payment for Mobilization will be made at the contract lump sum price, subject to
+       allowable limits under this section, which payment will include all operations and
+       expense needed to mobilize, remobilize and demobilize. Lump sum price for
+       Mobilization shall not exceed applicable amounts determined as follows:
+
+       Original Contract Total                Maximum Lump Sum
+       Including Mobilization                 for Mobilization
+       More Than To and Incl.
+
+       $0              $200,000               10% of Contract Total
+       $200,000        1,000,000              $20,000 plus 7.5% (of
+                                              Contract Total minus $200,000)
+       $1,000,000                             $80,000 plus 5% (of
+                                              Contract Total minus $1,000,000)
+
+       If the lump sum shown in the Pay Item Schedule for any bid for Mobilization
+       exceeds the allowable amount shown in the table above, the District reserves the
+       right to adjust the amount and total bid accordingly when checking bids. Said
+       adjustment will in no way invalidate bids. . . .
+
+(AR Ex. 7). The contracting officer informed Corinthian that the total price of its bid had been
+adjusted from $23,464,629.65 down to $22,014,551.13. The letter requested that Corinthian
+acknowledge the changes by signing the letter and returning a signed copy to the contracting
+officer. (AR Ex. 3). Corinthian did not sign the letter acknowledging the adjustment, and by
+letter of the same date, took exception to the revised price for mobilization and to the adjustment
+to the total contract price. (AR Ex. 4). Corinthian argued that since the project was being
+funded by the American Recovery and Reinvestment Act, federal requirements supersede the
+cited District requirements. On June 17, the contracting officer sent a letter to Corinthian
+requesting responsibility data. (AR Ex. 5). On June 18, 2009, the contracting officer received a
+second letter from Corinthian, arguing that the price adjustment was unfair and that it could not
+perform the contract for the adjusted price. (AR Ex. 4(a)). On June 23, 2009, Corinthian
+provided the responsibility data to the contracting officer. (AR Ex. 6). On June 25, 2009,
+Corinthian filed this protest with the Board challenging the mobilization price reduction and the
+overall contract price reduction. Corinthian requests that the District be required either to accept
+the original bid price or permit Corinthian to adjust the bid by reducing the mobilization amount
+and commensurately increasing other line items in its bid. Fort Myer intervened on June 30,
+2009. On July 15, 2009, the District filed its Agency Report, and filed a determination and
+                                                  -3-          Corinthian Contractors, CAB No. P-0812
+
+
+finding to proceed with contract performance on July 24, 2009. Corinthian thereafter filed
+comments on the Agency Report.
+
+
+                                               DISCUSSION
+
+          We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1).
+
+        The sole issue presented is Corinthian’s contention that the District had discretion not to
+reduce the mobilization price and that the contracting officer’s decision to reduce Corinthian’s
+bid price was arbitrary and capricious. Corinthian contends that the following standard
+specification provision provides the contracting officer with discretion in deciding whether to
+reduce the contract price due to an excessive mobilization bid:
+
+          If the lump sum shown in the Pay Item Schedule for any bid for Mobilization
+          exceeds the allowable amount shown in the table above, the District reserves the
+          right to adjust the amount and total bid accordingly when checking bids. Said
+          adjustment will in no way invalidate bids.
+
+(AR Ex 7). (emphasis added). Citing D.C. Code § 2-301.01, Corinthian states that the
+Procurement Practices Act requires that the procurement law should “be liberally construed to
+promote its underlying purposes and policies” and that penalizing the low bidder by reducing the
+bid amount is contrary to public policy. Corinthian argues that the contracting officer should
+have considered whether the bid presented an “undue risk” to the government.
+
+          We disagree with Corinthian. The standard specification mobilization price limitation
+states:
+
+          Payment for Mobilization will be made at the contract lump sum price, subject to
+          allowable limits under this section, which payment will include all operations and
+          expense needed to mobilize, remobilize and demobilize. Lump sum price for
+          Mobilization shall not exceed applicable amounts determined as follows . . . .
+
+(AR Ex. 3). (emphasis added). This standard, using “shall” and not “may”, provides the
+contracting officer no discretion to accept a higher mobilization price. The portion of section
+612.02 cited by Corinthian merely gives the contracting officer the right to adjust the
+mobilization bid item after bid opening in connection with award. Corinthian has not
+demonstrated that any federal provision expressly supersedes or contradicts the provisions found
+in section 612.02. Accordingly, Corinthian’s reliance on the American Recovery and
+Reinvestment Act is misplaced.
+
+        The adjustment requested by Corinthian, adding the excess mobilization amount to other
+line items after bid opening has been specifically considered and rejected by the Board in
+Corman Construction, Inc., P-0217, 39 D.C. Reg. 4235 (1991). In that matter, Corman made an
+arithmetical error in calculating the appropriate amount of mobilization, pursuant to the then-
+governing section 104.07(C) of the District of Columbia Department of Highways and Traffic
+Standard Specifications for Highways and Structures (1974). The language of section 104.07(C)
+                                               -4-          Corinthian Contractors, CAB No. P-0812
+
+
+essentially mirrors that of the current section 612.02 of the DDOT Standard Specifications for
+Highways and Structures. Corman contended that the error should be corrected by maintaining
+the total bid amount and increasing other items to make up for the reduction of the excess
+amount from the mobilization item. The Board held that the interpretation used by the District
+was correct, that “the mistake may be corrected by decreasing the total bid by the excess amount
+in the Mobilization item”, denied the protest, and permitted Corman to withdraw its bid.
+
+                                       CONCLUSION
+
+        The solicitation clearly limited the mobilization amount and provided the contracting
+officer the right to adjust the mobilization bid item to the maximum allowable amount. The
+contracting officer’s action was consistent with the solicitation and the law. Accordingly, we
+deny the protest.
+
+       SO ORDERED.
+
+
+DATED: August 7, 2009                                /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

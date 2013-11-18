@@ -1,0 +1,266 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+SECURUS TECHNOLOGIES                                    )
+                                                        )              CAB No. P-0784
+Under Solicitation No. DCTO-2008-B-0217                 )
+
+
+       For the Protester, SECURUS Technologies: Mr. John Viola, pro se. For the District of
+Columbia Government: Howard Schwartz, Esq., Senior Assistant Attorney General, and Robert
+Schildkraut, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                             OPINION
+                                           Filing ID 23001117
+
+
+        SECURUS Technologies has protested the District’s solicitation for a contractor to provide
+inmate telephone services at the District of Columbia Department of Corrections. SECURUS argues
+that the inclusion of video-visitation systems with the inmate telephone services required by the
+solicitation will add unnecessary costs to each offeror's proposal, causing the offerors to inflate the
+rates that parties pay for calls. Further, SECURUS argues that the RFP is potentially in conflict with
+D.C. Law 13-280 which prohibits the imposition of commissions or surcharges on inmate telephone
+service rates. Finally, SECURUS contends that the weight the District assigned to the price factor in
+its evaluation criteria is inconsistent with D.C. Law 13-280. Because we conclude that the District’s
+decision to include video-visitation systems is neither unreasonable, irrational, nor contrary to D.C.
+Law 13-280, and that the solicitation evaluation weightings also do not violate D.C. Law 13-280, we
+deny the protest.
+
+                                         BACKGROUND
+
+        On June 25, 2008, the District's Office of Contracting and Procurement (“OCP”) issued RFP
+No. DCTO-2008-R-0217 on behalf of the Department of Corrections (“DOC”) for a contractor to
+provide inmate telephone services at the District of Columbia Department of Corrections Detention
+Facility (“CDF”). (Agency Report (“AR”) Ex. 1). The contractor would be responsible for
+providing labor, materials, and equipment necessary to furnish, install, and maintain a coinless,
+collect call, commissary account debit-type telephone system appropriate for inmate use. (AR Ex. 1,
+RFP § 3.C). The RFP stated that all proposals had to be submitted by July 24, 2008.
+
+        OCP issued Amendment 1 to the RFP on July 21, 2008. (AR Ex. 1). This amendment
+provided answers to various questions submitted by prospective offerors and extended the closing
+date of the RFP until August 14, 2008. OCP issued Amendment 2 to the RFP on July 29, 2008.
+(AR Ex. 1). Amendment 2 changed section C.3.12 of the RFP to require that 3 telephones on each
+housing unit have video capability to offer inmates video conferencing/video-visitation access, and
+that the contractor provide 54 video-visitation terminals at the CDF visitor center for video
+                                                -2-             SECURUS Technologies, CAB No. P-0784
+
+conferencing/video-visitation use. (AR Ex. 1). Amendment 3 to the RFP was also issued on August
+20, 2008. Amendment 3 answered a question regarding whether the telephones in each unit would
+also be able to function as video visitation phones. Amendment 4 to the RFP was issued on
+September 9, 2008. This amendment addressed additional questions from prospective offerors, and
+extended the closing date of the RFP until September 26, 2008. (AR Ex. 1).
+
+        On September 9, 2008, SECURUS filed a protest with the Board. The basis of the protest is
+that: (1) the inclusion of video-visitation phones in the RFP was improper and in conflict with D.C.
+Law 13-280, and (2) the evaluation criteria for price established too low a weight (20 points out of
+112) relative to the weight for the technical criteria, contrary to D.C. Law 13-280.
+
+        SECURUS requests that the RFP be modified to eliminate the video-visitation component,
+and that the RFP be amended so that the price factor accounts for at least 50 percent of the final
+scoring in each offeror's proposal in order to provide a scoring mechanism that will assure an award
+that complies with DC Law 13-280. On September 23, 2008 OCP issued Amendment 5 to the RFP
+extending the closing date of the RFP until October 10, 2008. (AR Ex. 1). On September 29, 2008,
+the District filed its agency report. Exhibit 2 of the District’s agency report, a September 25, 2008,
+declaration of Thomas Hoey, Director of the Office of Management Information and Technology
+Services for the DOC, responds to the protest grounds as follows:
+
+       6.       The use of video visitation phones is considered best practice in the
+       correctional field today. With video visitation phones inmates can do visits right
+       from the housing unit; there is no need for escorts and the security strength on the
+       housing unit can be maintained rather than compromised.
+       7.       In addition, corrections agencies are setting up visitation centers outside the
+       facility, so visitors don’t have to pass through the walls to talk to the inmate. This
+       saves staff, and most importantly, eliminates contraband from the facility. So, there
+       is an overriding public safety imperative to use video visitation phones.
+       8.       Video visitation will greatly expand opportunities for inmates to visit with
+       friends and family, with access potentially available during all out of cell time seven
+       days per week. Research has shown that frequent social contacts can lower stress
+       and tension levels within the inmate population. This in turn contributes to greater
+       safety and security for inmates and staff alike.
+       9.       The District is not charging a surcharge, commission, or other financial
+       imposition that is in addition to legally established rates for local or long-distance
+       telephone service.
+       10.      The DOC is seeking to obtain quality service for the least cost to the
+       individual party paying for the telephone call by an inmate. In order to balance the
+       need for quality service and low price the District made a determination that (20)
+       twenty points out of a maximum total of one hundred twelve (112) points used in
+       evaluating each proposal be based upon the offeror’s total price for the base and
+       option years.
+       11.      Access to phones and video visitation capability under DOC’s latest initiative
+       is very important to the inmate population. DOC seeks to avoid frequent and/or
+       prolonged delays in access caused by inferior quality equipment or poor service
+       responsiveness. The audio and visual quality of the connection is important as well.
+                                                -3-             SECURUS Technologies, CAB No. P-0784
+
+       Problems in these areas can lead to higher tension levels, verbal conflicts, assaults
+       and even multi inmate disturbances. Enormous security risks are at stake in the jail’s
+       maximum security environment.
+
+        In a September 30, 2008 declaration (Exhibit 1 of the District’s response to SECURUS’
+comments on the agency report), Mr. Hoey expands upon his earlier declaration and responds to the
+allegation that the video-visitation system should have been separately procured by DOC:
+
+       It would not be realistic, nor in the District’s best interests, both technically and
+       economically, to conduct two separate procurements. The integrated video-
+       visitation/telephone system originally specified is preferred and is dependent upon
+       the technology from the inmate telephone service to function. The video-visitation
+       system is not a stand alone product that will work independently of the inmate
+       telephone system. The system that is being procured is in fact one piece of
+       equipment. Further, it is important that the video-visitation/inmate telephone system
+       be awarded to the same vendor in order to increase operational effectiveness. Since
+       the systems are so intertwined, it is essential that implementation and administration
+       of the systems be handled by one party because of economies that can be achieved
+       and the government’s desire to avoid needless disruption of inmate housing units.
+       Multiple contractors working in each of the housing units would place a greater
+       strain on security personnel which could create an unsafe environment for inmates
+       and personnel. Moreover, inmates, their families, and taxpayers are spared the total
+       overhead cost associated with separate procurements, which is considerable. The
+       additional cost for two procurements could easily exceed $100,000.
+
+(District’s October 31 Response, Ex. 1 ¶ 6.).
+
+                                           DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        SECURUS argues that the inclusion of video-visitation phones in the inmate telephone
+services RFP will add unnecessary costs to each offeror's proposal, causing the offerors to inflate the
+rates that inmates and called parties pay for collect and debit calls. Further, SECURUS argues that
+the RFP is potentially in conflict with D.C. Law 13-280 which prohibits the imposition of
+commissions or surcharges on inmate telephone service rates.
+
+        SECURUS' argument that the video-visitation phones are unnecessary to achieve the
+District's desired goals raises the question of the District's determination of its minimum needs for
+this procurement. SECURUS faces a difficult burden. The District has the primary responsibility
+for determining its minimum needs and the method of accommodating them. See In re Prison
+Health Services, Inc., CAB No. P-0610 (reconsideration), June 22, 2000, 48 D.C. Reg. 1556, 1557.
+We have recognized that government procurement officials, since they are the ones most familiar
+with the conditions under which supplies, equipment, or services have been used in the past and how
+they are to be used in the future, are generally in the best position to know the government's actual
+needs. Consequently, we will not question an agency's determination of its actual minimum needs
+                                                 -4-              SECURUS Technologies, CAB No. P-0784
+
+unless there is a clear showing that the determination has no reasonable basis. See Mell, Brownell &
+Baker, CAB No. P-0615, Jan. 18, 2001, 49 D.C. Reg. 3321, 3324-25; Beretta U.S.A. Corp., CAB
+Nos. P-0144, P-0177, Aug. 23, 1990, 38 D.C. Reg. 3098, 3120-3121; G. Koprowski, B-400215, Aug.
+12, 2008, 2008 U.S. Comp. Gen. LEXIS 150; Ray Service Company, B-217218, May 22,1985, 85-1
+CPD ¶ 582.
+
+        We conclude that the factual record reasonably supports the contracting agency’s need to
+include video-visitation phones in the solicitation. DOC's Director of Management Information and
+Technology Services explains in his declaration that video-visitation phones provide important
+security, safety, and cost benefits for the inmate phone service: (1) the video-visitation phones are
+considered best practice in the correctional field today, (2) with video-visitation phones, inmates can
+conduct visits right from the housing unit, and there is no need for escorts and the security strength
+of the housing unit can be maintained rather than compromised, (3) by setting up a visitation center
+outside the facility, visitors will not have to enter the secure prison facility to talk to inmates, thus
+saving staff and eliminating the potential transfer of contraband, and (4) video visitation will greatly
+expand opportunities for inmates to visit with family and friends, with access potentially available
+during all out-of-cell time, seven days per week and research has shown that frequent social contacts
+can lower stress and tension levels within the inmate population. (AR Ex. 2). SECURUS has made
+no effective showing to the contrary.
+
+        We see no basis for SECURUS’ other argument that including the video-visitation system
+would result in a 60 percent commission on calling rates, in conflict with D.C. Law 13-280, which
+regulates telephone charges in correctional institutions. D.C. Law 13-280 was codified as D.C. Code
+§ 24-263.01 (Telephone charges in penal or correctional institutions), § 24-263.02 (Prohibited
+charges in government contracts), and § 24-263.04 (Operator-assisted calls). The relevant language
+regarding this issue can be found in D.C. Code §§ 24-263.01 and 24-263.02:
+
+        § 24-263.01. Telephone charges in penal or correctional institutions,
+
+        (a) Notwithstanding any other District of Columbia law, no telephone service
+        provider shall charge a customer a rate for operator-assisted calls made from a penal
+        or correctional institution in the District of Columbia in excess of the maximum rate
+        determined by the Public Service Commission of the District of Columbia.
+
+        (b) No penal or correctional institution in the District of Columbia shall charge a
+        surcharge, commission, or other financial imposition that is in addition to legally
+        established rates for local or long-distance telephone service.
+
+        § 24-263.02. Prohibited charges in government contracts.
+
+        In any contract to which the District of Columbia is a party that is for the holding or
+        incarceration of persons charged or convicted in the Superior Court of the District of
+        Columbia, such contract shall prohibit surcharges, commissions, or other financial
+        impositions that are in addition to the legally established rates for calls made by any
+        inmate subject to the contract. The District of Columbia government shall seek to
+        obtain quality service for the least cost to the individual party paying for the
+                                                 -5-              SECURUS Technologies, CAB No. P-0784
+
+        telephone call by an inmate subject to the contract.
+
+        There is no evidence that the solicitation requires charging “a customer a rate for operator-
+assisted calls made from a penal or correctional institution in the District in excess of the maximum
+rate determined by the Public Service Commission of the District.” In addition, there is no evidence
+that the solicitation at issue here will cause the District to charge a “surcharge, commission, or other
+financial imposition that is in addition to legally established rates for local or long-distance
+telephone service.” Under section 24-263.02, as we read it, the contract must affirmatively prohibit
+the charging of surcharges and commissions beyond the legally established rates. SECURUS has
+not persuaded us that the District’s requirement for the video-visitation system violates the
+prohibition on assessing improper surcharges or commissions.
+
+         SECURUS further argues that the weight the District assigned to the price factor in its
+evaluation criteria is inconsistent with D.C. Law 13-280. The RFP's price criterion provides that
+each offeror's proposal would be scored and ranked based upon a maximum112 points. (AR Ex. 1).
+An offeror can receive a maximum of 80 points for its technical proposal, a maximum of 20 points
+for its price proposal, and a maximum of 12 preference points. (AR Ex. 1). The relevant language
+in § 24-263.02 states: “The District of Columbia government shall seek to obtain quality service for
+the least cost to the individual party paying for the telephone call by an inmate subject to the
+contract.” SECURUS contends that the RFP should have established a minimum of 50 percent of
+the offeror's overall evaluation score for the price criterion. Clearly, the statute does not require any
+specific percentages for price or technical evaluation criteria in a District solicitation. We conclude
+that the stated evaluation criteria do not violate D.C. Law 13-280. SECURUS has not shown that
+the agency’s allocation of technical and price evaluation points violates any other District laws. The
+DOC Director of Office of Management Information and Technology Services explains in his
+declaration that: “DOC seeks to avoid frequent and/or prolonged delays in access caused by inferior
+quality equipment or poor service responsiveness. The audio and visual quality of the connection is
+important as well. Problems in these areas can lead to higher tension levels, verbal conflicts,
+assaults and even multi inmate disturbances. Enormous liability risks are at stake in the jail's
+maximum security environment.” (AR Ex. 2). Under our deferential standard of review of the
+business judgments of agency officials regarding the establishment of evaluation criteria and the
+allocation of points among those criteria, we find that the criteria are neither unreasonable nor
+irrational.
+
+        In its comments on the District’s agency report, SECURUS argues that the District should
+not bundle two distinct systems, i.e., the inmate telephone system and the video-visitation system, in
+the same procurement. We agree with the District that this argument is not supported by the facts.
+According to the DOC, the system being procured is really one integrated system, not two separate
+systems and it would not be in the best interest of the District, both technically and economically, to
+conduct two separate procurements. The DOC states that the video-visitation system is dependent
+upon the technology from the inmate telephone service to function, the video-visitation system is not
+a stand alone product that will work independently of the inmate telephone system, the system that is
+being procured is in fact one piece of equipment, and it is important that the video-visitation system
+and inmate telephone system be awarded to the same vendor in order that administration of the
+systems be handled by one vendor because of economies that can be achieved and the District's
+desire to avoid needless disruption to inmate housing units. (Response, Ex. 1). We find that the
+                                                -6-             SECURUS Technologies, CAB No. P-0784
+
+District has justified its procuring the video-visitation system and inmate telephone service together
+since the District has shown that the systems are dependent on each other, and technical and
+financial economies will be achieved by not separately procuring the systems. See Nautical
+Engineering, Inc., B- 309955, Nov. 7, 2007, 2007 CPD ¶ 204; Boehringer Ingelheim Pharm., Inc.,
+B-294944.3, B-295430, Feb. 2, 2005, 2005 CPD ¶ 32.
+
+        We have considered each of the grounds raised by SECURUS but find that the solicitation
+violates no District law. Accordingly, we deny the protest.
+
+       SO ORDERED.
+
+DATED: December 19, 2008                              /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

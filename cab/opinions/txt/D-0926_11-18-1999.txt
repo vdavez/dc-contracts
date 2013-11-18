@@ -1,0 +1,680 @@
+                  GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+APPEAL OF.
+
+        A S McGAUGHAN, CO , INC                                )
+                                                               )       CAB No. D-926
+       Under Contract No. 87-0038-AA-2-0-LA                    )
+
+                         <
+      For the Appellant, A. S. McGaughan, Co., Inc.. Robert J. Sciaroni, Esq For the
+Government. Martin D. Beck, Assistant Corporation Counsel
+
+      Opinion by Administrative Judge Matthew S Watson, with Chief Administrative
+Judge Lonlyn E. Simkins and Administrative Judge Jonathan D. Zischkau, concurring
+
+                                             OPINION
+
+        This appeal presents a claim1 for $24,839 10 of additional costs incurred to repair an
+electrical duct bank which sustained damage allegedly as a result of a third-tier
+subcontractor's reliance on information claimed by a second-tier subcontractor to have been
+received from a District inspector that there were no live electric circuits within the duct
+The information proved to be erroneous. We deny Appellant's appeal
+
+                                         BACKGROUND
+
+        Appellant, A,S McGaughan Company, Inc. ("McGaughan" or "Appellant") entered
+into a contract with the District of Columbia Department of Public Works ("DPW") in the
+total amount of $30,725,000 00 which included, among other items, removal or relocation
+of sub-surface electric utilities and construction of two utility tunnels traversing the site of
+the Blue Plains Wastewater Treatment Plant ("the facility")
+
+        Within the path of the planned utility tunnels were existing underground electric
+utility duct banks. Removal of these existing electric duct banks was required in order to
+proceed with excavation for the tunnels to be constructed. Although some of the duct banks
+to be removed were unused, certain of the duct banks contained high voltage electric lines
+which were still energized.
+
+        1
+         The original Complaint included 31 separate claims for equitable adjustments contained in
+paragraphs 6-27 of Appellant's Complaint The parties settled all but the subject claim and appellant
+withdrew all claims except for the claim alleged in paragraph 27 of the Complaint Notice of Paitial
+Dismissal filed June 7, 1993
+                                            -2-                A S McGaughan, Co Inc , CAB No D-926
+
+
+        During the entire period of contract performance, the facility continued in full
+operation, with utility service maintained without interruption. Previously abandoned utility
+structures could be demolished at any time. The Contract obligated Appellant to protect all
+active utility structures, whether they were to remain in place or to be relocated, and, to
+maintain the operation of the utility structures to be relocated until the replacement structures
+were built Only after the contractor had completed the new utility structure would the
+electric service be moved, and the utilities switched from the existing lines to the new lines
+without interruption. The contractor was not authorized the demolish the original utility
+structures until the new electric lines were energized and the replaced electric lines
+deenergized.. The contract drawings indicated which electric lines were to remain in place,
+which were to be relocated, and which, although present on the site, had been previously
+deenergized and abandoned. The damaged duct bank was shown in the drawings as
+containing electric lines to be relocated.
+
+      In order to perform the contract, McGaughan subcontracted with Len Parker
+Mechanical and General Contractors, Inc. ("Len Parker") for civil and mechanical work.
+Len Parker further subcontracted with John J. Kirlin, Inc ("Kirlin") to install a temporary
+24-inch water dilution- line. Kirlm, in turn, subcontracted with Gebhardt, Inc ("Gebhardt")
+to perform the excavation and backfill for the temporary water line McGaughan
+subcontracted all of the electrical work to John Miller Electric Co., Inc. ("Miller Electric")
+
+       The District had three inspectors on site, each of whom had a particular trade
+specialty. John Piagno was the senior resident inspector and supervisor, as well as the
+plumbing and piping specialist, Elvin Lewis was the electrical specialist, J Alberto
+Morales was the civil and mechanical specialist The three on-site inspectors reported to
+James Ward, the DPW Project Manager. In addition, certain senior personnel of the
+District's former Water and Sewer Utility Administration ("WASUA") had responsibilities
+which interfaced with the contract performance. Dal C Van Dolsen, Branch Chief of the
+water treatment facility's Electrical Maintenance Branch, was responsible for de-energizing
+and energizing electrical circuits
+
+       On February 16, 1988, while excavating for the water line, Gebhardt personnel
+encountered a concrete obstruction which appeared to be an electrical duct bank The
+excavation personnel could not determine with certainty from the exterior of the obstruction
+what the concrete encased, and, if it contained electrical wiring, whether that wiring was live
+or abandoned. Gebhardt immediately stopped excavation. The Gebhardt Field Supervisor
+contacted the supervisor for the next tier contractor, Kirlin, who in turn contacted the on-site
+District inspectors. Only the civil and mechanical specialist was on site at that time
+                                             -3-                AS McGaughan, Co Inc, CAB No D-926
+
+        Although the parties disagree as to what transpired thereafter, for the purposes of this
+decision, the Board accepts the facts as stated by Appellant's witnesses. The Kirlin foreman
+and Mr Morales, the District's civil and mechanical inspector, reviewed the contract and
+as-built drawings of the facility which were located in the inspector's office. Neither the
+Kirlin foreman nor Mr. Morales consulted Miller Electric, the Appellant's electrical
+subcontractor, or Mr Van Dolsen, the facility employee responsible for de-energizing and
+energizing electric lines. Appellant alleges that Mr. Morales advised the Kirlin foreman
+that the duct bank which had been uncovered was abandoned and could be demolished
+immediately. That information proved erroneous Although there is conflicting evidence
+as to what the inspector advised, there is no dispute that the duct bank was actually in use
+at the time. When Gebhardt personnel began the demolition of the duct bank, they struck
+a high voltage electric line causing an explosion.
+
+       On September 5, 1990, McGaughan filed a claim for an equitable adjustment under
+the Changes Clause of the Contract to compensate it for the cost of repairing the damage
+caused to the duct bank as a result of the explosion. (Appeal File ("A.F ") 4 3) By letter
+dated November 5, 1990, the Alternate Contracting Officer denied the claim. (A F 3 1).
+McGaughan appealed the denial to the Department of Administrative Services ("DAS")
+Based on a written-presumption of denial issued by the Director of DAS, pursuant to 27
+DCMR §3806,6, the contractor filed this appeal.2
+
+                               POSITIONS OF THE PARTIES
+
+       Appellant contends that "the District's inspector viewed the site and informed
+McGaughan's sub-subcontractor that the existing utility was out-of-service and could be
+removed. McGaughan and its sub-subcontractors followed the normal procedure for
+ascertaining whether the utility was in service or could be removed            McGaughan
+contends that it acted prudently and reasonably in relying upon information provided by the
+inspector. When the inspector gave the approval to demolish the duct bank, this ultimately
+resulted in additional costs to McGaughan because it had to repair the damaged electrical
+lines. McGaughan should be compensated for those added costs incurred solely due to
+erroneous information supplied by the inspector " (Appellant's Post-Hearing Brief at 1-2)
+
+      The District contends that the inspector never advised the Appellant's second-tier
+subcontractor "that the electrical duct bank ... had been abandoned" and that McGaughan,
+through its subcontractors, specifically Miller Electric, "should have known whether the
+
+       2
+         By letter dated April 15, 1991, the Acting Director of DAS informed McGaughan of its
+right to file its claim as a deemed denial with the Board, since the "Claims Officer handling this,
+matter had resigned "
+               .   ,                  '   i    -4-                 A S McGaughan, Co Inc , CAB No D-926
+
+feeders in the electrical duct bank had been'deenergized." (District's Post- Hearing Brief,
+at vin) In the alternative, the District contends that "even if such advice had been given by
+the District's inspector, . . . [the advice] would in no way bind the District or release
+McGaughan from liability . . [since] the Contract specifically precludes the District's
+inspectors from directing McGaughan' s work . . . [and] the facts and circumstances here do
+not justify application of the theory of implied authority. "( Id)
+
+                                     FINDINGS OF FACT3
+
+1.     A.S. McGaughan Company, Inc., entered into Contract No. 87-003 8-AA-2-0-LA,
+dated October 5, 1 987, with the District of Columbia Department of Public Works ("DPW")
+for demolition and construction of various structures and utilities at the Wastewater
+Treatment Plant Central Maintenance Facility. (A.F. 1.1).
+
+2      The Special Provisions of the Contract provide, in part
+
+       1 . Scope of Work- Work under this Contract consists of furnishing all labor,
+       services, materials, tools, plant, insurance, and equipment needed for the
+       construction, proper performance, and completion of the work in the manner
+       and within the time hereinafter specified m strict accordance with the
+       Drawings, Specifications, and other Contract documents, per directions and
+       to the satisfaction of the Engineer, and at the agreed prices.
+
+
+              The following listing of the items of work included in this Contract is
+       offered as a general guide only. It is not intended to determine the limitations
+       of obligations under the Contract, the Contract Drawings and specifications
+       being the sole determination of that. The items are
+
+
+               B. Selective removal/relocation of various subsurface utilities and
+               construction of two utility tunnels traversing the construction site
+
+
+
+       2. Contract Drawings The location, general characteristics, and principal
+       details of the work are indicated on drawings identified as Job No. PA-X18
+
+       3
+         In references to testimony, the names of witnesses are shown in paienthesis with Appellant's
+witnesses m regular type and Government witnesses in italicize type
+                                    -5-               AS McGaughan, Co Inc , CAB No D-926
+
+titled, Central Maintenance Facility, Wastewater Treatment Plant, 5000
+Overlook Avenue, S W., Washington, D.C.
+
+       These drawings comprise the Contract Drawings or "Drawings" for the
+project. Reference drawings illustrating details which may apply to this project
+are on file in the Water and Sewer Utility Administration, Department of
+Public Works.
+
+The Drawings are organized as follows.
+
+               Volume 1 - This set of Drawings, titled - Central Maintenance
+       Facility, demolition and Utility Relocation - Volume 1, describes the
+       work outlined in Item . . . B . . of Paragraph No 1 of these Special
+       Provisions.
+
+
+       20. Utility Relocations Existing utilities which are to be relocated or
+       modified have been shown according to available data. Plans, profiles
+       and details for the intended relocation or modification and
+       specifications are included in the Contract Documents, however, the
+       Contractor shall satisfy himself by performing test pits and any other
+       investigations as he shall deem necessary, so as to determine the exact
+       locations of existing piping prior to commencing any work.
+
+
+       21 Test Pits Underground utilities are shown as far as possible in their
+       actual positions, however, their exact locations are not guaranteed. The
+       Contractor shall test pit each and every underground utility to
+       determine its exact location. This work shall be performed well in
+       advance of proposed underground work and all interferences shall
+       immediately be brought to the attention of the Engineer
+
+
+
+That General Requirements of the Contract provide, in part.
+
+Ill Definitions - The intent and meaning of the following, whenever they
+appear in the Contract Documents, shall be interpreted as follows'
+                                           -6-               A S McGanghan, Co Inc , CAB No D-926
+
+           Engineer - The Chief, or Resident Engineer, of the Construction
+           Management Division of the Department of Public Works limited by
+           the special duties entrusted to them.
+
+
+    XL Engineer's Authority - The Engineer will be the sole judge of the intent
+    and meaning of the drawings, specifications, and other Contract documents
+    and his decisions thereon and his interpretations thereof shall be binding on
+    all parties
+
+                                            *t*   *T*   T*
+
+
+
+    XII. Inspectors' - Inspectors 'are authorized to inspect all work and materials
+    furnished. Such inspection may extend to all or any part of the work and to the
+    preparation and manufacture of Contract materials Inspectors are authorized
+    to reject material and to suspend work pending appropriate action by the
+    Engineer on the question at issue. Inspectors are not authorized to revoke,
+    alter, enlarge, relax, or release any Contract requirement nor to approve or
+    accept any portion of the work. Inspectors will not act as foremen or perform
+    other duties for the Contractor nor interfere with the Contractor's management
+    of the work. Advice from inspectors in no way binds the Engineer and the
+    District nor releases the Contractor from Contract requirements.
+
+    Drawing DC-1 A4, Note 5, provides, in part.
+
+
+
+           All services to the Laboratory Building and Chemical Building remain
+           until temporary facilities or relocated facilities are available
+
+    Drawing C-5 shows the duct bank which was encountered (Guido Tr 24-5).
+
+    Drawing E-l, Note 5, provides*
+
+           In each of the following pairs of feeders, one feeder shall be maintained in
+           service at all times:
+
+                                            * ,* *
+           I.      SP-49 & SP-84
+
+     The drawings are contained in A F 2
+»
+                                        -7-              A S McGanghan, Co Inc , CAB No D-926
+
+
+
+
+7.    Drawing E-12 describes the route followed by the existing Feeder SP-49 as:
+
+            From          To            Existing
+                                        Route
+
+
+            ASS#2         Chemical      G, F, EV1, EV10, EV7 & 12
+            CUB.2B15      Building
+
+
+             Construction Note 13 on Drawing E-12 shows the replacement Feeder SP-49
+      as having the following route'
+
+
+
+                   EV1,EV10, EV6&EV7
+
+
+      Construction Note 14 provides
+
+            Once the replacement feeder segments are installed, the following
+            procedure, fully coordinated with and approved by the District shall be
+            followed:
+
+             1.    The existing feeder shall be deenergized
+             2.    The replacement segment shall be spliced to the existing segment to
+                    be reused.
+             3.    The feeder shall be tested and returned to service.
+             4.    The existing segment not reused shall be removed.
+
+8.    McGaughan subcontracted construction of above-ground facilities to Len Parker
+      (GuidoTr. 18, Itani Tr. 95).
+
+9.    Len Parker subcontracted "everything underground," except electrical work, to
+      Kirlin. (GuidoTr. 18).
+
+10.   Kirlin subcontracted excavation work to Gebhardt. (Guido Tr 19)
+                                           -8-                A S McGaughan, Co Inc , CAB No D-926
+
+11.   McGaughan subcontacted electrical work to Miller Electric (Guido Tr 39, Itani Tr
+      94).                    ;
+                                                 '                i
+
+12.   The District's contracting officer was the Director of the Department of Public
+      Works, John E. Touchstone. (A.F. 1.1 )
+
+13    The District's Engineer was the Chief of the DPW Office of Engineering Services,
+      Ken Donnelly. (Ward Tr. 119)..
+
+14.   The District's Project Manager was James C. Ward. (Ward Tr. 119).
+
+15.   The District had 3 on-site inspectors. John Piagno was the senior resident inspector
+      and supervisor, and the plumbing and piping specialist (Guido Tr 37, 40, Morales
+      Tr. 179); Elvin Lewis was the electrical specialist (Guido Tr 41, Morales Tr 179);
+      J. Alberto Morales was the civil and mechanical specialist. (Guido Tr. 41; Morales
+      Tr. 178).
+
+16.   McGaughan and DPW agree that the only point of contact between the contractor and
+      subcontractors and District officials was through the inspectors (Guido Tr. 34) The
+      contractor and subcontractors were not allowed direct access to the Engineer. Access
+      was controlled by the inspectors, who the contractor and subcontactors believed acted
+      as representatives of the Engineer, and the Project Manager. (Guido Tr. 36).
+
+17.   McGaughan or its subcontractors would initially raise questions to the inspectors who
+      would provide an answer or, if uncertain, would raise the issue with the Project               t
+      Manager The Project Manager "would normally work it out with the inspectors "
+      (Warder. 125) If McGaughan disputed the Project Manager's decision, the issue
+      would be transmitted to the Engineer. (WardTr. 124)
+
+18    The contractor "preferred] to go to [Inspector Elvin] Lewis if there was an electrical
+      problem." (Guido Tr. 41).
+
+19.   The inspectors had in their trailer office at the site "as built"' drawings of the facility
+      which were not part of the contract documents. (Guido Tr. 33) Such drawings are
+      apparently examples of the "[rjeference drawings illustrating details which may apply
+      to this project [which] are on file in the Water and Sewer Utility Administration,
+      Department of Public Works" noted in the Contract ("Reference Drawings") See
+      Finding of Fact ("FF") 2, above.
+                                          -9-               A S McGaughan, Co Inc , CAB No D-926
+
+20    Mr. Lewis, the electrical specialist, was "in charge to insure that . conduit . are
+      deenergized." (Morales Tr 1 84, Van Dolsen Tr. 206) He also maintained records
+      regarding the status of electric circuits. (MoralesTr
+
+21    Dal C. Van Dolsen, the Branch Chief of the Electrical Maintenance Branch of
+      WASUA was responsible at Blue Plains for "deenergizing and energizing [electric]
+      circuits." (Van Dolsen Tr. 202).
+
+22    Mr Van Dolsen had blueprints from the original construction of the electrical duct
+      banks which were not part of the contract documents. (Van Dolsen Tr.205) The
+      blueprints were similar to other as-built drawings and were apparently examples of
+      the Reference Drawings. (See FF 2 and 19, above).
+
+23    Miller Electric, Appellant's electrical subcontractor, had dealt with Mr. Van Dolsen
+      earlier in performance of the contract concerning damage to another energized
+      electric line within the same duct bank involved in this appeal. (Van Dolsen Tr 206).
+
+24.   Victor F. Guido, Jr was a general foreman in charge of mechanical work for Kirhn.
+      (Guido Tr. 1 8) He was responsible for excavation of the 24-inch dilution water line
+      (Guido Tr. 46)
+
+25.   The contractor dug "test pits" in order to determine the actual location of
+      underground electric lines existing on the site. (Guido Tr. 21).
+                                                             i
+26.   On February 16, 1988, when excavating for the 24-inch water line, subcontractor
+      Gebhardt encountered a buried concrete structure which its personnel assumed to be
+      an electrical duct bank. (Guido Tr. 24, 3 1).
+
+27    Although the contract did not require the contractor to receive approval before
+      demolishing an unused electric line, Kirlin personnel made it a practice to confirm
+      the identity and status of an electric line with the inspectors before demolishing the
+      line, regardless of how clearly the line was shown on the drawing. "[E]ven if we saw
+      one on the drawing that said dead line, we still checked with [the inspectors] prior to
+      tearing it out." (Guido Tr. 24).
+
+28.   Mr Guido sought the assistance of John Piagano, the District's senior inspector, in
+      identifying the structure. However, Mr. Piagano was not in the on-site trailer at the
+      time Mr. Lewis, the District's electrical specialist, was similarly not in the trailer at
+      the time. Mr. Morales, the District's civil and mechanical specialist, was the only
+                                           -10-          '    AS McGaughan, Co fnc , CAB No D-926
+
+      District representative in the on-site trailer at the time Mr. Guido sought assistance.
+      (Guido Tr. 32)
+
+29    When a problem arose in performance of the job where the relevant inspector was not
+      available, the other inspectors would "help out with the situation." (Guido Tr 37,
+      Morales 1r
+
+30.   Mr. Guido and Mr. Morales together reviewed the contract and earlier "as-built"
+      drawings (Guido Tr. 22 and 31); located the interfering duct on each set of drawings
+      (Guido Tr. 57); and "came to the conclusion that there was a duct bank which was
+      abandoned " (Guido Tr 59>)
+
+31    Mr. Guido did not consult McGaughan's electrical subcontractor, Miller Electric,
+      (Guido Tr. 54), even though another electric line, SP-71, contained in the same duct
+      bank had been damaged earlier in performance of the contract and repaired by Miller
+      Electric. (Van Dolsen Tr. 206).
+                                 '      i
+32    Neither Mr. Guido nor Mr. Morales consulted the District's electrical inspector Mr.
+      Lewis, or his records (Morales Tr. 181); nor did they consult Mr. Van Dolsen, the
+      District employee responsible for deenergizing electric circuits, or review the detailed
+      electrical Reference Drawings which were maintained in his office ( Van Dolsen Tr
+      207).
+
+33.    Acting on the erroneous information that the duct bank which had been encountered
+       was abandoned, Gebhardt personnel began demolition. Almost immediately, the
+       equipment struck a live electric wire causing an explosion and extensive damage to
+       the circuits in the duct bank. (Johnson Tr. 68).
+
+
+
+        A contractor is entitled to an equitable adjustment of the contract price if a condition
+affecting performance is materially different from the conditions depicted by the District in
+the contract documents, or otherwise officially communicated to the contractor. This appeal
+raises the issue of whether, under the specific circumstances of this matter, a factually
+incorrect statement of a District inspector as to the location and status of an electric line
+constitutes a contractually binding statement of the site condition, upon which the contractor
+may rely, and for which the contractor is entitled to an equitable adjustment. The Board finds
+that the Appellant could not, under the circumstances of this matter, rely on the factual
+statement of the civil/mechanical inspector who gave erroneous information as to the status
+of an electrical line. Accordingly, the appeal is denied, with prejudice
+                                           -11 -             AS McGaughan, Co Inc , CAB No D-926
+
+       The Appellant contends that its subcontractor requested "the inspector to fill in a gap
+in information" and that "McGaughan and its subcontractors were entitled to rely upon the
+information provided by the inspector since this is the type of information which had
+routinely been provided by the inspector pursuant to his normal duties." Appellant asserts
+that past practice on the project established a procedure whereby McGaughan and its
+subcontractors inquired of the inspectors as to the condition and location of utilities it
+unearthed. McGaughan and Kirlin assert that they reasonably and properly relied upon the
+information supplied by the inspector. Appellant's Posthearmg Brief at 8.
+
+        The District contends that "[ujnder the terms of the Contract, no         advice [by an
+inspector] can bind the District " District Posthearmg Brief, p 18 The Contract General
+Requirements provide that "[t]he Engineer will be the sole judge of the intent and meaning
+of the drawings, specifications, and other Contract documents and his decisions thereon and
+his interpretations thereon shall be binding on all parties." General Requirements U XI The
+General Requirements further provide that ". . . [inspectors will not act as foremen or
+perform other duties for the Contractor . . . . Advice from inspectors in no way binds the
+Engineer and the District nor releases the Contractor from Contract requirements." K XII
+(FF 3). On this basis, the District contends that it is not liable for any statement made by an
+inspector, and thus is not responsible for the cost of repairing the damage caused by the
+erroneous information.
+
+Implied Authority of a Subordinate Employee
+
+        It is clear from the Contract General Requirements that inspectors did not have actual
+authority to bind the District. The inspectors also lacked apparent authority, since the
+doctrine of apparent authority is inoperative to bind the Government to acts of its agents who
+exceed their authority. Jascourt v United States, 521 F.2d 1406, 207 Ct Cl. 955 (1975)
+Although a literal reading of Section XII of the General Requirements, the clause defining
+the authority of inspectors, declares that a statement by an inspector could never bind the
+District, this Board has, consistent with federal Boards of Contract Appeals and the Federal
+Circuit "upheld the premise that broad warnings and general exculpatory language do not
+shift the liability resulting from positive representations made by the government and relied
+upon by the contractor." James A Federlme, Inc , CAB No. D-834 (Dec. 15, 1993), 41
+D C Reg. 3853, 3863; see Morrison-Knudsen Company, Inc v United Slates, 397 F.2d
+826, 841-2,184 Ct.Cl. 661,686-7 (1968). However, "such limitations are not meaningless"
+and, to be disregarded, require a showing that the Government, at least by implication, gave
+the representative authority to act. Inet Power, NASABCA No. 566-23, 68-1 BCA 1)7020
+at 32441 "Such authority may be implied when considered an integral part of specific
+duties assigned to a government employee " Dot Systems, Inc , DOTCAB No. 208, 82-2
+BCA 1)15,817 at 95,786. Authority may also be implied when the inspector is the key
+                                           -12-      •       AS McGaughan, Co Inc , CAB No D-926
+
+Government person with regard to the performance of the contract         Urban Pathfinders ,
+Inc , ASBCA No. 23134, 79-1 BCA 1(13,709 at 67,260.
+
+        In the instant case, DPW, by its actions, vested authority in subordinate employees
+to exercise the authority specifically granted, in the Contract to the Engineer The parties
+agree that the inspectors and Project Manager controlled access to the Engineer.
+McGaughan's subcontractor testified that its only contact with District officials was through
+the inspectors, who acted as representatives of the Engineer. (FF 16). The District's
+personnel testified that the Engineer was inaccessible to contractors Mr. Ward, trie
+District's Project Manager, in response to a question from the Board as to which matters
+"would go to [the.Engineer] or would [be worked out]... with the inspectors," testified that
+he "would normally work it out with the inspectors. Only if it became an issue with the
+contractor where we didn't agree on a issue, maybe it would go up to Mr. Donnelly for a
+decision. If there was no dispute, normally it wouldn't " (FF 17). Clearly, the District
+cannot limit the contractor's access to the Engineer and then deny the authority of
+government personnel assigned to take action necessary for the contractor to perform. To
+do so would make it impossible to perform the contract. The authority of representatives
+assigned to act on behalf of the District must be implied to be sufficiently broad to permit
+expeditious action by the employee in performing the employee's delegated responsibilities
+ Urban Pathfinders , Inc , 79-1 BCA at 67,260
+                                      i             ,       '          i
+        The Board therefore concludes that, notwithstanding the contractual provisipn that
+the sole authority to interpret the contract drawings and specifications is vested in the
+Engineer, and the contractual disclaimer of any authority of the inspectors to bind the
+District, the District's restrictions on the contractor's access to the Engineer necessarily
+implies the authority of others to act in the Engineer's stead The practice of the District of
+ assigning other officials to render interpretations necessary to perform the requirements-of
+the Contract vests the Engineer's authority in those subordinate employees to the extent of
+their assignments.
+
+       The authority implied to a subordinate employee can be no greater than the authority
+actually vested in the superior employee Futher, the authority must be essential to the
+performance of the contract and may not be utilized solely for the convenience or benefit of
+the contractor .without value to the District. Further, the authority exercised by the
+subordinate employee must be within the clear scope of the subordinate employee's
+assignment.
+
+       No government official has the authority to gratuitously relieve a contractor of a
+contractual responsibility. WRB Corporation, 183 Ct.Cl. 409, 461 (1968). Appellant's
+clami is grounded on a statement by a District inspector that there were no live electric
+                                                 -13-                AS McGanghan, Co Inc , CAB No D-926
+
+
+circuits within a duct bank encountered in excavating for a new water line. Determination
+of the location of energized electric lines was the contractual responsibility of the Appellant
+under paragraphs 20 and 21 of the Special Provisions - (FF 2)
+
+        Indeed, the contractor testified that it did "Jest pit" the area. (FF 25). The incident
+giving rise to the claim occurred during underground excavation work. The duct bank was
+shown on Drawing C-5 (FF 5), and should have been located and its contents identified
+through the required test pit process prior to beginning any underground work, in
+accordancei with the general requirement of paragraph 21, to locate each and every
+underground utility. (FF 2). In addition, the feeder which was encountered, SP-49, was
+specifically identified in Drawing E-12 as an electric utility to be relocated, bringing it
+within the separate requirement of Paragraph 20 that the contractor shall "satisfy himself
+as to the exact location of the line "prior to commencing any work " (FF 2)
+
+        The contractor was further on notice that Feeder SP-49 was likely to be energized.
+Drawing E-12 clearly stated that Feeder SP-49 runs to the Chemical Building (FF 7)
+General Note 5 on drawing DC-1A provides that "all services to the Laboratory Building
+and Chemical Building remain until temporary facilities or relocated facilities are available."
+(FF 4). General Note 5 of drawing E-l further requires that "in each of the following pairs
+of feeders, one feeder shall be maintained in service at all times. . . SP49 & SP84." (FF
+6). At a minimum, all lines specifically required to be maintained in service should have
+been identified by the contractor prior to beginning excavation. The contractor claimed to
+be unaware of the identity of the electric line it encountered, which was one of the lines
+identified in the contract drawings as feeding the Chemical Building, and specifically
+indicated as one of a pair of lines required to be maintained in service. This indicates that
+either the contractor's test pit procedure was inadequate, or, if the encountered line had been
+identified in the test pit process, that the information was not communicated to the
+excavation subcontractor.
+
+        The contractor's obligation to accurately locate, identity and determine the active
+status of the underground utilities by specific procedures, and the consequent liability for
+failure to do so, cannot be transferred to the Government by requesting assistance from a
+Government representative.5 As opposed to the required procedure for energizing or
+
+        5
+           The specific requirements to "test pit each and every underground utility" and the duplicativ.e
+requirement to locate every utility required to be relocated distinguishes this case fioin the Federhne
+case In Federhne, this Board held that a general requirement that the contractor verify the "location of
+utilities well in advance of conducting construction operations" would not absolve the District from
+liability resulting from a material discrepancy in the depth of a ductbank specifically stated on the
+contract drawings That case concluded that a contractor in preparing a bid could not reasonably be
+expected to include a contingency for errors in the contract documents , In the instant matter, however,
+                                                -14-                A S McGaughan, Co Inc , CAB No D-926
+
+deenergizing lines which requires a joint effort by the contractor and the District,
+identification of the utilities is within the sole responsibility of the contractor. (FF 7) The
+fact that a government official gave, or attempted to give, the information or assurance
+requested by the contractor does not change the responsibility for its accuracy or justify
+reliance upon the information. If the contract places sole responsibility on the contractor to
+obtain the requested information, then the government has no obligation to the Appellant
+in this respect. Even a specifically authorized official giving such information "is rendering
+a gratuitous courtesy to the [Appellant], rather than discharging a contractual obligation that
+rested upon the [government]. The [government] is mot chargeable . ; in connection with
+an act which is not required by the contract, which is done for the benefit of the contractor,
+and which is taken advantage of by the contractor." WRB Corporation, 183 Ct.Cl. 409,461
+(1968).
+
+        If the law were to the contrary, a contractor could avoid responsibility for its own
+work by attempting to verity every determination it makes with a District representative. In
+fact, the subcontractor testified that it regularly did just that, seeking approval of the District
+prior to undertaking any demolition, even if the documents were clear that demolition was
+required. (FF 27).
+
+Availability of Information
+
+       Even if identification of the underground'Utilities were not the responsibility of the
+contractor, reliance upon additional information provided by a Government representative
+is only appropriate if the information is not in the possession of the contractor and is not
+otherwise available to the contractor. Townsco Contracting Co , ASBCA No 13742, 71-2
+BCA ^|8962. The duct bank in question is shown on,several of the drawings (FF 5-6), and
+both its existing route and relocated route are specifically described by landmarks on
+Drawing E-12. (FF 7). Upon encountering the duct bank, the subcontractor sought an
+interpretation of the drawings by an inspector. (FF 28). Although the record indicates that
+the inspectors had a set of reference drawings showing details not contained in the contract
+drawings, there is no indication that the earlier drawings were not available to the contractor.
+(FF 19). Indeed, such drawings are noted in the contract itself. (FF 2) At the hearing in
+this matter, the, line which was damaged was clearly identified on the contract drawings
+without referring to the Reference Drawings. (FF 5) There was no evidence that the
+Reference Drawings were necessary to identify the damaged line or had any relevance to the
+
+
+bidders were required to include in their bid prices provision for a test pit process to locate each and
+every utility, as well as each utility being relocated or modified Further, in Federaline, the error was
+contained in bid documents upon which the contractor could be expected to rely in pieparmg its bid,
+while in the instant matter, the alleged erroneous information was not given until well into performance
+          ,                                 -15-              A S McGaughan, Co Inc, CAB No D-926
+
+question of whether a line was currently energized. The contractor had no special concern
+as to the identity of the line which was damaged. It was the regular practice of the contractor
+to seek assurance from an inspector even if the specifications were clear. The information
+on the drawings was all that the contractor needed in order to properly identify the duct bank
+in question and to determine for itself whether it could be safely removed. By its
+gratuitously seeking the assurance of an inspector, the contractor cannot transfer the risk of
+an error in interpretation from itself to the government.
+
+        Beyond consulting the contract documents, the excavation subcontractor could have
+resolved its question by consulting Appellant's electrical subcontractor. Note 13 of Drawing
+E-12 provides that the contractor will "install replacement feeder segment" for a portion of
+the existing SP-49 feeder, the line which was damaged, and specifically designates the
+segments of SP-49 to be replaced. Note 14 requires a detailed procedure for deenergizing
+the existing feed and splicing in the replacement line. Such work clearly required the
+contractor to locate the feeder line to be partially relocated. McGaughan had subcontracted
+all of the electrical work to Miller Electric. (FF 11). Miller Electric had been working on
+the project for at least several months when the incident occurred, and had previously
+repaired another electric line, SP-71, contained in the same duct bank, which had been
+damaged earlier in contract performance (FF 23). Although there is no evidence in the
+record as to the exact knowledge Miller Electric possessed, it can be presumed that Miller
+was aware of the location and status of the electric lines which it was to relocate, particularly
+when it had recently worked on a circuit within the same duct bank. McGaughan and its
+excavation subcontractor are chargeable with knowledge possessed by the electrical
+subcontractor, Miller Electric See Edward L KolbarCo , ASBCA No. 15520, 73-2 BCA
+T| 10063. Nevertheless, neither McGaughan nor the excavation subcontractor attempted to
+ consult Miller Electric. This failure precludes reasonable reliance on information supplied
+ by the Government inspector.
+
+Scope of Inspector's Assignment
+                      a
+
+
+       To justify reliance on advice of a government representative, the facts and
+circumstances of performance must imply the authority of the individual subordinate
+employee to speak on behalf of the government Merely seeking the opinion of any
+government representative is not sufficient, even if the government representative responds
+to the request and provides information. In this matter, Appellant contends that it could
+properly rely on information provided by any one of the three inspectors. We conclude that
+it was unreasonable for the excavation contractor to rely on information from the inspector
+specializing in civil and mechanical trades with regard to an electrical question. Appellant's
+witnesses agreed that the division of authority among the three inspectors was clearly
+understood. One inspector was^the supervisor and plumbing and piping specialist, one was
+                                           -16-              AS McGaughan, Co Inc , CAB No D-926
+
+Mr Piagno, the senior inspector, nor Mr. Lewis, the electrical inspector, was present when
+the incident occurred. (FF 28). Appellant sought the assistance of Mr. Morales, the civil at)d
+mechaniqal specialist, who was the only inspector on site at the time. (FF 28). Appellant's
+witness candidly testified that Mr Morales was not his first choice in seeking clarification
+of an electrical question. (FF18 and 28). Appellant also did notseek direction from Mr Van
+Delsen (FF 33), the Branch Chief of the Electrical Maintenance Branch who had the
+responsibility to energize and deenergize the electric utility lines.
+
+                  .   /               CONCLUSION
+
+         We have carefully considered and rejected the Appellant's arguments that it was
+justified in relying on information received from Inspector Morales that the electric line it
+encountered was not activated, and that the District was responsible for the resulting damage
+when the inspector's statement proved to be in error We conclude that the Appellant was
+ itself contractually responsible for determining the identity and status of electric lines and
+that no District official could gratuitously assume this obligation; that the correct
+ information was available in the contract documents and was most likely known to
+ Appellant's electrical subcontractor, and that the official from whom the Appellant received
+ the erroneous information did not have the authority to transmit that information on behalf
+ of the District. Accordingly, Appellant's appeal is denied.
+
+
+
+DATED: November 18. 1999
+                                                          Matthew S. Watson
+                                                          Administrative Judge
+
+CONCURRING:
+
+
+
+          E. SIMKINS
+                              J
+Chief Administrative Judge
+
+
+
+J N A T H A N D. ZESCHKAU
+Administrative Judge
+

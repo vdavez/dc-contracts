@@ -1,0 +1,281 @@
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+44 D.C. Reg. 6378
+
+PROTEST OF:
+
+       UNFOLDMENT, INC.                              )
+                                                     )      CAB No. P-435
+       Under RFP No. 5090-AA-NS-3-CW                 )
+
+      For the Protester: Kemi Morten, Esq., and Brian J.H. Lederer, Esq. For the Government:
+Edward Rich and Anne Cauman, Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Lorilyn E. Simkins and Phyllis W. Jackson, concurring.
+
+                             ORDER ON MOTION TO DISMISS
+
+        Unfoldment, Inc., has filed a protest regarding Department of Administrative Services
+("DAS") emergency solicitation No. 5090-AA-NS-3-CW. Unfoldment argues that the
+solicitation fails to meet competition requirements, constitutes an improper sole source
+procurement aimed at the incumbent contractor, A.L. Nellum and Associates, Inc. ("Nellum"),
+and fails to satisfy program requirements dictated by prior judicial orders. The protest also
+alleges bias in the selection and award process which resulted in an award to Nellum. The
+District has moved the Board to dismiss the protest on the grounds that the protest is untimely as
+to some issues and fails to set forth a clear statement of the law and facts as to other issues. We
+dismiss in part and deny in part the protest.
+
+                                             FACTS
+
+        On April 14, 1995, DAS issued emergency solicitation No. 5090-AA-NS-3-CW in the
+open market requesting proposals for drug abuse services for residential treatment and an
+aftercare program for the Department of Corrections. (District's Motion to Dismiss, Exhibit 1).
+The emergency solicitation, authorized by an April 3, 1995 determination and findings by the
+Director of DAS, was sent to three prospective offerors. (Id., Exhibit 2).
+
+       On April 19, 1995, DAS issued Amendment No. 1 to the solicitation extending the
+submission date for proposals. On April 24, 1995, DAS issued Amendment No. 2 which added a
+clause and contained responses to 23 questions submitted by Unfoldment. On April 27, 1995,
+DAS received offers from Unfoldment and Nellum. (Id., Exhibit 2). Nellum's proposal received
+a score of 355 while Unfoldment's received a score of 185. In addition, the contracting officer
+determined that Unfoldment's offer was technically unacceptable. (Id.) On May 30, 1995, DAS
+awarded Contract No. 5090-AA-NS-3-CW to Nellum based on its high score (and presumably
+because Unfoldment's proposal was determined to be technically unacceptable). Unfoldment
+received a notice from DAS on June 5, 1995 that Nellum had received the award.
+                                                 2                     Unfoldment, Inc., CAB No. P-435
+
+
+        Unfoldment filed a "Notice of Appeal" with the Board on June 14, 1995, which we
+deemed to be a protest. In its protest, Unfoldment challenges "the solicitation process, the
+selection process and the contract award" and alleges:
+
+       bias in the solicitation, selection and award of the contract; utilization of improper
+       solicitation set-asides that favor minority for profit businesses and discriminate
+       against minority nonprofit organization; use of inappropriate and unconstitutional
+       evaluation procedures and possible violations of the D.C. Procurement Practices
+       Act and procedures.
+
+Perhaps confusing the rules governing disputes with the rules governing protests, Unfoldment
+indicated that it would later file a "complaint." The Board conducted a telephone conference
+with the parties on June 30 to clarify the Board's rules and the protest issues. During the
+conference, the Board learned that Unfoldment had not received a debriefing despite its request
+for one. In a June 20 order, the Board directed that Unfoldment receive a debriefing and
+supplement its protest. On July 17, the Board ordered the District to furnish relevant documents
+requested by Unfoldment. Thereafter, the District provided Unfoldment with responsive
+documents.
+
+        On July 28, 1995, Unfoldment filed a "Supplemental Protest" identifying six protest
+grounds: (1) DAS' decision to use a solicitation for competitive sealed proposals in lieu of
+competitive sealed bids is not supported by the written justification required by statute; (2) DAS'
+market survey violated the competition requirements of D.C. Code § 1-1183.12; (3) the
+procurement constituted an improper sole source procurement directed to Nellum; (4) the
+solicitation was improperly designed and prepared; (5) DAS' determination and findings
+supporting the need for an emergency solicitation violate D.C. Code § 1-1183.12 and 27 DCMR
+§§ 1710.2 and 1710.3; and (6) DAS violated 27 DCMR § 1710.6 by failing to initiate a separate
+non-emergency procurement action at the same time that the emergency procurement was made.
+
+        On August 18, 1995, the District moved to dismiss the protest, as supplemented, on the
+grounds that (1) in violation of Board Rule 302.1(c), Unfoldment has failed to set forth a clear
+and concise statement of the legal and factual bases for its protest, and (2) those portions of the
+protest challenging the solicitation itself are untimely. Unfoldment opposes the District's
+motion, repeating allegations set forth in its prior submissions and arguing that it has not
+received an adequate document production from the District.1
+
+
+1
+   We grant Unfoldment's motion for leave to file out of time its opposition. Unfoldment's
+request for additional documents is denied. First, the Board held a telephone conference with the
+parties shortly after the District produced its documents on July 24 and neither then nor at any
+time up to Unfoldment's July 28 deadline for supplementing its protest did it move to compel.
+Unfoldment was obliged to obtain whatever documents it needed in sufficient time to meet the
+July 28 deadline. Therefore, its current request, and the "reservation" of a right to further
+supplement its protest upon receiving additional documentation (which was contained in its July
+28 submission) are unavailing and disregard the Board's scheduling order. Second, the types of
+documents that Unfoldment claims it has not received are ones either that the District states do
+                                                  3                     Unfoldment, Inc., CAB No. P-435
+
+
+                                          DISCUSSION
+
+       The Board's protest jurisdiction is governed by D.C. Code §§ 1-1189.3(1) and 1-
+1189.8(a)-(c).
+
+        Generally, to satisfy the 10-working-day statutory limitation for a challenge to the terms
+of the solicitation, D.C. Code § 1-1189.8(b), the protest must be filed with the Board on or before
+the closing date for proposals. See, e.g., Technical Resolution Corp., CAB No. P-393, Mar. 22,
+1994, 41 D.C. Reg. 4138, 4141-42; Associated Tool Co., 71 Comp. Gen. 359, 361, 92-1 CPD ¶
+376. Plainly, all of Unfoldment's challenges directed at the solicitation itself, raised well after
+the closing date for proposals, are untimely. Therefore, the following protest grounds are
+dismissed: bias in the solicitation; improper solicitation set-aside favoring minority for-profit
+businesses; inappropriate and unconstitutional evaluation procedures; improper use of
+competitive sealed proposals rather than competitive sealed bids without written justification;
+improper market survey; improper design and preparation of the solicitation; determination and
+findings fail to support an emergency solicitation; and failure to initiate a separate non-
+emergency procurement action at the same time that the emergency procurement was made. See,
+e.g., Precision Signal, Inc., B-250852.2, Apr. 12, 1993, 93-1 CPD ¶ 309 (objection to
+solicitation's evaluation factors untimely when raised after closing time for proposals); ASOMA
+Instruments, Inc., B-251674, Apr. 13, 1993, 93-1 CPD ¶ 317 (complaint that RFP should have
+been issued as a small business set-aside had to be raised prior to closing date for proposals);
+Professional Performance Development Group, Inc., B-252322, June 9, 1993, 93-1 CPD ¶ 447
+(allegations that RFP omitted certain provisions required by FAR, that certain provisions
+restricted competition, and that changes caused by a solicitation amendment indicate bias, had to
+be raised prior to closing date); White Water Assocs., Inc., B-253825, Aug. 26, 1993, 93-2 CPD ¶
+126 (decision to replace set-aside solicitation with unrestricted solicitation had to be challenged
+prior to closing date).
+
+        The remaining protest grounds, i.e., the agency was biased in the selection and contract
+award, the selection process was treated as a sole source procurement, and the agency engaged in
+illegal "evaluation procedures", refer to the actual conduct of the evaluation, selection, and
+award, rather than the content of the solicitation. Therefore, these allegations do not fall as
+untimely allegations of solicitation improprieties.
+
+        The District argues that we should not even reach the merits on these protest grounds
+because Unfoldment's protest fails to set forth a clear and concise statement of the legal and
+factual grounds as specified in Board Rule 302.1(c).2 Although the District treats Board Rule
+
+
+
+
+not exist or that in any event relate to protest grounds that were filed untimely.
+2
+  Board Rule 302.1, 36 D.C. Reg. 2711 (1989), provides in relevant part that all protests shall be
+in writing, addressed to the Board, and shall include: "A clear and concise statement of the legal
+and factual grounds of the protest, including copies of relevant documents, and citations to
+statutes, regulations or contract provisions claimed to be violated. . . ."
+                                                     4                 Unfoldment, Inc., CAB No. P-435
+
+
+302.1(c) in a way that one might employ Rule 12(b)(6)3 of the Superior Court Rules of Civil
+Procedure in a motion for judgment on the pleadings, Board Rule 302.1(c) does not serve the
+same purpose that Rule 12(b)(6) does in an action before the Superior Court. Rule 302.1 is
+meant to advise protesters of the expected form and content of a protest, so that the protester
+identifies the legal and factual grounds of the protest for the Board and the agency and its
+counsel. It does not speak to raising a defense to a claim for relief in a pleading, although we
+have on some occasions cited Board Rule 302.1(c) when dismissing a case for failure to state a
+claim.
+
+        The issue of whether a protest fails to state a claim must be considered first with regard to
+our statutory mandate to "promptly decide whether the solicitation or award was in accordance
+with the applicable law, regulations, and terms and conditions of the solicitation." D.C. Code §
+1-1189.8. That leads us to determine (1) which laws, regulations, and solicitation terms are
+applicable to the protest issues, and (2) whether there is a preponderance of record evidence to
+support a protester's claim that the agency has violated applicable law, regulations, or solicitation
+terms.
+
+        We must also consider the nature of a protest and our administrative protest procedures.
+Our protest procedures contemplate that the Board generally will base its decision on a record
+consisting of the protest submission, an agency report, a response to the agency report,
+documentation made a part of the record by the parties, and, where appropriate, testimony given
+at a hearing or through deposition. Our expectation of specificity in the initial protest submission
+must take into account that the protester may often have little more than the benefit of the
+solicitation documentation, its observations as a participant in the procurement, and a debriefing.
+Sometimes, as was the case here, the protester may not even have received a debriefing.
+Therefore, the absence of detailed facts concerning an alleged procurement deficiency in the
+initial protest filing does not necessarily or usually dictate a dismissal. Many protests are
+
+3
+    Rule 12(b) (1995 ed.) states in relevant part:
+
+
+
+         Every defense, in law or fact, to a claim for relief in any pleading, whether a
+         claim, counterclaim, cross-claim, or 3rd-party claim, shall be asserted in the
+         responsive pleading thereto if one is required, except that the following defenses
+         may at the option of the pleader be made by motion: . . . (6) failure to state a
+         claim upon which relief can be granted . . . . If, on a motion asserting the defense
+         numbered (6) to dismiss for failure of the pleading to state a claim upon which
+         relief can be granted, matters outside the pleading are presented to and not
+         excluded by the Court, the motion shall be treated as one for summary judgment
+         and disposed of as provided in Rule 56, and all parties shall be given reasonable
+         opportunity to present all material made pertinent to such a motion by Rule 56.
+
+
+
+See also Fed. R. Civ. Proc. 12(b).
+                                                 5                     Unfoldment, Inc., CAB No. P-435
+
+
+presented to the Board for decision based only on a written record. In such cases, the parties
+usually are able to obtain a decision on the merits in less time than it might take for a court to
+resolve a Rule 12(b)(6) motion or a summary judgment motion under Rule 56.
+
+        That is not to say that the District may not move to dismiss a protest in lieu of filing its
+agency report. Board Rule 306.1 authorizes an agency to file a dispositive motion in lieu of
+filing the agency report, but generally such a motion will be based on a jurisdictional defect
+rather than on a failure of the protester to state a claim for relief under the procurement law. The
+Board itself may summarily dismiss a protest when it is "invalid on its face, or untimely filed, or
+otherwise not for consideration." Board Rule 308.1. The Board infrequently invokes this
+procedure and only with an abundance of caution. Cf. McBryde v. Amoco Oil Co., 404 A.2d 200,
+203 (D.C. 1979) ("it is only where the facts material to a cause of action are shown to be
+undisputed, and those facts so established indicate an unequivocal right to judgment favoring a
+party that summary disposition will be permitted"). Where protest allegations are vague or
+unclear, the Board often will have a conference with the parties soon after the protest is filed in
+order to identify the protest issues. Where the District believes a protest ground fails to state a
+violation of procurement law or regulation or is unsupported by the facts, the matter should be
+addressed through the agency report on the merits in the first instance. Otherwise, the intended
+fast-track nature of the protest procedures is frustrated. Where the agency believes that some of
+the protest grounds are jurisdictionally defective while others are unclear or unsupported, it
+makes good sense to file an agency report which both requests dismissal for allegations which it
+believes are jurisdictionally defective and addresses the merits of the remaining protest
+allegations on appropriate legal or factual grounds.
+
+         In the present case, the remaining protest allegations are not so obviously invalid on their
+face to merit dismissal. Although the allegations are mainly conclusory and barely supported
+with facts, they make reasonably clear the applicable law and regulations at issue, and thus we
+must address the allegations on their merits. The District, in fact, properly treats the merits by
+pointing to specific factual or legal inadequacies of the remaining protest grounds. By including
+exhibits with its motion to dismiss, such as the solicitation and relevant procurement
+documentation, the District has supplied the Board with sufficient evidence to rule on the merits
+of the remaining allegations. Unfoldment has had three opportunities to make its record: in the
+initial protest, in the supplement, and in a response to the District's motion.
+
+       Based on a review of the record, it is clear that Unfoldment has not met its burden of
+proof on the remaining allegations. Although Unfoldment's factual presentation is rather
+unorganized, it sets forth the following support for its allegations: the agency failed to include
+Unfoldment in the market survey conducted prior to issuance of the solicitation even though it
+had provided services in the past and had indicated interest in providing such services again; its
+drug treatment program is superior to the Nellum's program; Nellum's program does not meet
+standards set by federal court remedial orders; and Unfoldment's proposed program cost is lower
+than Nellum's. Unfoldment's claim that its program is "better" than the awardee's ignores the
+evaluation criteria established in the solicitation to rate the offers. Unfoldment does not
+                                                 6                     Unfoldment, Inc., CAB No. P-435
+
+
+challenge the actual evaluations and scoring of its proposal.4 Unfoldment also does not
+challenge that its proposal was technically unacceptable for failing to address several required
+areas of proficiency. See Precision Signal, Inc., 93-1 CPD ¶ 309, at 3 & n.1. Unfoldment does
+not specifically identify how Nellum's proposed program fails to meet standards set by any
+federal court order or how such an alleged failure affected evaluation under this particular
+solicitation. Further, Unfoldment fails to show that either its or Nellum's cost proposal was
+improperly scored under the solicitation's evaluation criteria. Finally, the agency's failure to
+include Unfoldment in the initial market survey does not standing alone, or with the record as a
+whole, approach the kind of evidence needed to show bias on the part of agency officials.
+
+       The protest is dismissed in part and denied in part.
+
+       SO ORDERED.
+
+
+DATE: September 12, 1995                       /s/
+                                              JONATHAN D. ZISCHKAU
+                                              Administrative Judge
+
+CONCURRING:
+
+/s/
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+/s/
+PHYLLIS W. JACKSON
+Administrative Judge
+
+
+
+
+4
+  As discussed above, any challenge at this point to the solicitation's evaluation criteria and their
+relative weighting would be untimely.
+

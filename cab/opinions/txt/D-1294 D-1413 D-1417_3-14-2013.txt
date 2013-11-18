@@ -1,0 +1,1656 @@
+                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+CIVIL CONSTRUCTION, LLC                           )
+                                                  )   CAB Nos. D-1294, D-1413, and D-1417
+                                                  )
+Under Contract No. POKA-2004-B-0018-JJ            )
+
+       For the Appellant, Civil Construction, LLC: Robert A. Klimek Jr., Esq., Leonard C.
+Bennett, Esq., Klimek & Casale, P.C.; Christopher M. Kerns, Esq. For the District of Columbia:
+Brett A. Baer, Esq., Office of the Attorney General.
+
+      Opinion by Administrative Judge Monica C. Parchment with Chief Administrative Judge
+Marc D. Loud, Sr. and Administrative Judge Maxine E. McBean concurring.
+
+                                            OPINION
+                                         Filing ID #51146070
+
+
+        These consolidated appeals arise under a contract for the reconstruction of a six block
+span of paved street-way, on F Street, in the northwest corridor of the District of Columbia. It is
+undisputed by the parties that, after the initial contract award, the District subsequently modified
+the terms of this contract to significantly alter the order in which the Appellant was required to
+perform the sequence of the project’s construction activities under the contract’s original traffic
+maintenance plan. However, the parties dispute the resulting delay impact to the project, and
+associated quantum of damages incurred by the Appellant, arising from this change order. In
+this regard, the present action initially arises from the Appellant’s appeal of the contracting
+officer’s decision to only grant a 90 day time extension and $204,000.00 in additional
+compensation to the Appellant in connection with the subject change order issued by the District
+that modified the sequence of the project construction activities. The Appellant also appeals
+from the deemed denial of its claims seeking unabsorbed overhead incurred under its extended
+contract performance in connection with this same contract change.
+
+        We sustain the appeal, in part, and find the Appellant entitled to a time extension of 166
+days arising from the subject District-ordered change, as well as related damages from the
+District associated with the Appellant’s increased labor, equipment, and overhead costs arising
+from the same change order. The District shall compensate the Appellant for these cost items in
+accordance with the damage amounts awarded by the Board herein.
+
+                                     FINDINGS OF FACT
+
+1.      On March 1, 2005, the District Department of Transportation (“DDOT”) entered into
+Contract No. POKA-2004-B-0018-JJ with Civil Construction, LLC (“Civil” or “Appellant”) for
+the reconstruction of F Street, N.W., between 17th and 23rd streets (the “F Street Project”) in the
+amount of $4,592,285.72. (Appeal File (“AF”) Ex. B.2.) Contract performance was to be
+completed within one year. (See Hr’g Tr. 97:3, 324:19, 881:19.)
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+2.       F Street is a two-lane roadway for eastbound only traffic and is bordered by residential,
+commercial, educational, and governmental buildings. (Stipulated Fact (“SF”) 2.) The F Street
+Project entailed a full reconstruction effort that included upgrading all of the underground
+utilities, reconstruction of the street curb and lighting, as well as replacing the landscaping and
+signage. (Hr’g Tr. 881:7.) The reconstruction effort involved replacement of underground
+utilities—including water lines, storm drains, and electrical duct banks—along the six city blocks
+on F Street between 17th and 23rd Streets. (Hr’g Tr. 176:7-178:1.) Additionally, the F Street
+Project involved reconstruction of the sidewalk, gutter, and roadway structures. (Id.)
+
+3.      Under the Contract’s Maintenance of Traffic specifications, contract drawings 56-61,
+Civil was directed by the contract terms to restrict access to one lane of traffic at a time. (See
+Appellant’s Hr’g Ex. 39.) In particular, the Maintenance of Traffic specifications divided the F
+Street Project into two phases, with construction work to be completed along the south side of F
+Street in the first phase followed by the north side in the second phase. (Id.)
+
+4.      Consistent with the Contract’s Maintenance of Traffic specifications, Civil’s baseline
+schedule1 included a plan to complete the project in four phases: (1) complete the underground
+utility work along the north side of F Street; (2) complete the underground utility work along the
+south side of F Street; (3) perform street-level maintenance along the south-side lane; and (4)
+complete street-level maintenance on the north-side lane. (SF 4; Appellant’s Expert Report2 Ex.
+2.) Civil planned to perform work along the north side of F Street first, rather than the south
+side, in order to accommodate the work required in replacing the water lines. (Hr’g Tr. 107:8-
+110:20, 173:4-174:3.) This change, however, was a small variance to the contract specifications
+and did not affect the overall cost or completion date of the contract. (Hr’g Tr. 107:21.)
+
+5.     The Appellant further divided each phase of the contract into a sequence of smaller jobs;
+each to be performed by a different utilities or construction crew. (Hr’g Tr. 176:18-179:22.)
+The Appellant sequenced the F Street Project so that the first crew would begin work on one city
+block and consecutively move on to the next block, while another crew would follow suit. (Hr’g
+Tr. 178:16-180:7.) The crew working on the water line would begin work first, followed by the
+crew working on the storm drains, and then the electrical crew. (Hr’g Tr. 176:18-179:1.) These
+crews would be followed by crews working on the sidewalk and curb, the crew excavating the
+roadway, and lastly the crew doing the asphalt work. (Hr’g Tr. 177:15-179:8.)
+
+6.      Under the Appellant’s baseline schedule, Civil planned to have multiple crews working
+simultaneously throughout the entire six blocks of the F Street Project, from 23rd Street to 17th
+Street as each entire side (north and south) of these streets were, respectively, restricted from
+traffic access. (Hr’g Tr. 86:13-87:4, 180:3-182:21.) This approach was consistent with, and
+anticipated by, the Maintenance of Traffic specifications.3 (See Appellant’s Hr’g Ex. 39.)
+
+
+
+
+1
+  Appellant submitted its initial baseline schedule to the District for approval on May 9, 2005. (SF 3.)
+2
+  Appellant’s Expert Report was entered into evidence as Appellant’s Hearing Exhibit 41.
+3
+  This interpretation of the F Street Project specifications was confirmed through the testimony of Civil’s employees
+(Hr’g Tr. 70:12-20, 86:1-87:21, 169:8-171:5); an employee of Fort Myer Construction (which had been a competing
+bidder for the contract) (Hr’g Tr. 682:3-18); and the Contracting Officer (Hr’g Tr. 881:6-882:19).
+
+                                                        -2-
+                                                                                    Civil Construction, LLC
+                                                                       CAB Nos. D-1294, D-1413, and D-1417
+
+7.     The District issued a Notice to Proceed on April 25, 2005, authorizing the Appellant to
+begin work on May 9, 2005, and establishing an original contract completion date of May 8,
+2006. (SF 5, 7.)
+
+8.      On May 7, 2005, Civil placed 2,172 linear feet of concrete barrier along F Street in
+anticipation of contract performance. (SF 6; see also Hr’g Tr. 185:1-7.)
+
+Change Order
+
+9.      Immediately after Civil placed the concrete barrier, the neighboring community began
+objecting to the anticipated disruption the planned construction would cause. (Hr’g Tr. 89:10-22,
+185:12-186:4, 882:9.) The District verbally instructed Civil to remove most of the concrete
+barrier that it had erected and only perform the contracted work in two-block increments so that
+more of F Street would be accessible to traffic as the contract work progressed. (Hr’g Tr. 89:18-
+22, 186:8-14.) Moreover, on May 19, 2005, less than two weeks after Civil began its contract
+performance, the Contracting Officer (“CO”) issued a written letter, pursuant to Article 3 of the
+Standard Contract Provisions, limiting the phasing of the F Street Project to only permit the
+construction work to be performed two blocks at a time for the remaining duration of contract
+performance (hereinafter “Change Order”). (AF Ex. B.3.) In his letter, the CO specifically
+referenced the Maintenance of Traffic drawings that were incorporated into the contract terms.
+(Id.)
+
+10.    By a letter dated May 24, 2005, the Appellant acknowledged receipt of the CO’s May 19,
+2005, Change Order. (AF Ex. C.5.) In its acknowledgement letter, the Appellant stated that the
+two-block restriction would materially change the nature of the project and thus drastically
+increase the duration and associated costs. (Id.) Accordingly, the Appellant requested that a
+formal change order be negotiated to reflect the increased duration and costs arising from this
+change mandate. (Id.)
+
+11.     The new two-block construction restriction in the Change Order limited the work space
+available to the Appellant’s various crews, which in turn reduced productivity as crews had to
+perform smaller tedious tasks continuously throughout the project instead of consecutively
+progressing Civil’s work through the entire length of F Street (17th to 23rd streets) as originally
+planned. (Hr’g Tr. 110:12-112:19, 270:1-272:2.) Productivity was also reduced as crews were
+required to start and stop work along the length of the project in two-block increments, which
+resulted in additional mobilizations and demobilizations by the Appellant beyond what was
+anticipated by the baseline schedule. (Hr’g Tr. 190:1-191:3.) These added inefficiencies
+consequently increased the costs associated with performance. (Hr’g Tr. 240:2-20, 268:1-
+272:19.)
+
+12.      The Appellant submitted a “good faith estimate” of the anticipated cost impact of the
+two-block restriction on July 15, 2005, along with a revised schedule on July 21, 2005.
+(Appellant’s Hr’g Exs. 4, 5.)4 In this submission, Civil initially estimated that the two-block
+restriction would extend the original date of contract completion by 18 months, and thus would
+result in the contract not being completed until December 24, 2007. (Appellant’s Hr’g Ex. 4 at
+4
+  Appellant’s Hearing Exhibits 4 and 5 are also included in the record as Appeal File Exhibits C.6-1 and C.7,
+respectively.
+
+                                                    -3-
+                                                                                        Civil Construction, LLC
+                                                                           CAB Nos. D-1294, D-1413, and D-1417
+
+35; Appellant’s Hr’g Ex. 5 at 119.) The Appellant reiterated its May 24, 2005, request that a
+formal change order be negotiated to reflect the impact of the two-block restriction that had been
+imposed by the District. (Appellant’s Hr’g Ex. 4 at 35.)
+
+13.     Furthermore, the Appellant estimated that its contract costs would increase by an
+additional $2,375,275.18 due to extra costs it would incur in connection with the newly-added
+two-block construction restriction. (Appellant’s Hr’g Ex. 4 at 40.) The estimate included
+anticipated increased costs for labor, equipment, materials, field supervision, safety, additional
+work, and other associated costs. (Appellant’s Hr’g Ex. 4 at 40-58, 71-75.) Additionally, the
+estimate included additional subcontractor costs, including Civil’s electrical subcontractor,
+Central Armature Works, Inc. (“Central Armature”), and an unidentified asphalt subcontractor.
+(Appellant’s Hr’g Ex. 4 at 59-62, 68.) The Appellant’s estimate, however, specifically did not
+include extended home office costs. (Appellant’s Hr’g Ex. 4 at 35.) In support of its estimate,
+the Appellant also included a detailed breakdown of its costs as originally bid. (Appellant’s Hr’g
+Ex. 4 at 76-114.)
+
+14.    By a letter of August 10, 2005, Civil received a letter from a consultant for the District,
+Terence Wright, informing Civil that its July 21, 2005, schedule had been rejected, in part
+because the schedule did not reflect the current as-built status of the F Street Project. (AF Ex.
+C.9.)
+
+15.      Subsequently, on August 12, 2005, almost three months after the Change Order was
+issued, Civil entered into a subcontract with Fort Myer Construction Corporation (“Fort Myer”)
+to perform the required asphalt work on the F Street Project. (Appellant’s Hr’g Ex. 31.) The
+subcontract contained unit prices and a specified quantity for, inter alia, base and surface
+asphalt. (Appellant’s Hr’g Ex. 31 at 359.) The unit prices in this subcontract expressly included
+the cost of any mobilizations that Fort Myer would incur to complete the project. (Appellant’s
+Hr’g Ex. 31 at 357; Hr’g Tr. 683:14-17, 762:5-22.) The subcontract expressly incorporated
+Civil’s prime contract with the District but, inexplicably, did not incorporate the two-block
+restriction in the Change Order that the District had previously issued on May 19, 2005.5 (See
+Appellant’s Hr’g Ex. 31 at 363-64.)                 Fort Myer only anticipated that 10
+mobilizations/demobilizations would be required to perform the subcontract. (Hr’g Tr. 687:2-
+690:12, 762:19.)
+
+16.     By September 8, 2005, Civil had completed work on the north side of F Street between
+23rd Street and 21st Streets. (AF Ex. C.11 at 3.) Civil completed work along the south side of F
+Street between 23rd Street and 21st Streets on or about December 12, 2005. (Id. at 4.)
+
+17.    After finishing work between 23rd Street and 21st Street, Civil began work on the north
+side of F Street between 20th Street and 18th Street. (Hr’g Tr. 103:11-104:20.) Civil was
+required to temporarily bypass the block between 21st Street and 20th Street due to dormitory
+
+
+
+5
+  The subcontract specifically included a provision under which the parties were to indicate any modifications made
+to the prime contract prior to the execution of the subcontract. (Appellant’s Hr’g Ex. 31 at 364.) While this
+provision referenced wage determinations and equal opportunity requirements, it made no mention of the May 19,
+2005, Change Order. (See Id.)
+
+                                                       -4-
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+construction/renovation work being performed by a third party, Donohoe Construction, on behalf
+of the George Washington University (“GWU”).6 (Hr’g Tr. 105:2-7.)
+
+Rescission of the Change Order
+
+18.     While Civil was performing work on the north side of F Street between 20th and 18th
+Streets, the CO rescinded the May 19, 2005, Change Order, by a letter dated January 19, 2006,
+largely as the result of its recognition of the resulting performance impact upon Civil’s project
+schedule. (Appellant’s Hr’g Ex. 34; Hr’g Tr. 256:16, 890:5-891:7.) This letter expressly
+rescinded the two-block restriction immediately, although it still required that Civil submit a
+revised schedule to the District for review and approval prior to starting work on the 1700 block
+of F Street. (Appellant’s Hr’g Ex. 34.)
+
+19.     On March 7, 2006, Civil submitted a revised schedule to the District (“Revised Schedule
+#3”). (Hr’g Tr. 245:5-246:19, Appellant’s Hr’g Ex. 11.) The revised schedule included Civil’s
+actual progress through February 22, 2006, and set a new completion date of June 2, 2007, for
+the project. (Appellant’s Hr’g Ex. 11.)
+
+20.    The Appellant did not begin work on the 1700 block of F Street immediately after
+submitting the March 7, 2006 schedule; rather the Appellant interpreted the CO’s January 19,
+2006, directive as requiring District approval of the revised schedule prior to proceeding with
+work on that block.7 (Hr’g Tr. 246:5-247:19.)
+
+21.      The District rejected Civil’s Revised Schedule #3 on March 15, 2006. (AF Ex. C.17.)
+The District took issue with four activities that were added to the critical path and the additional
+duration of five activities, which added up to an additional 112 working days. (Id.) The District
+also claimed that the schedule did not reflect the current status of activities. (Id.)
+
+22.      The Appellant resubmitted Revised Schedule #3 on March 20, 2006. (Appellant’s Hr’g
+Ex. 17 at 193-204.) In its resubmission, the Appellant included a narrative defending those
+elements of its schedule that the District previously found problematic and which were the basis
+for its rejection of Civil’s earlier version of the Revised Schedule #3 that had been submitted on
+March 7, 2006. (Appellant’s Hr’g Ex. 17 at 194.)
+
+23.    In response to Civil’s resubmission of Revised Schedule #3, on April 5, 2006, another
+consultant for the District, Alpha Corporation, issued a report (the “Alpha Report”) analyzing the
+propriety of Appellant’s Revised Schedule #3. (Appellant’s Hr’g Ex. 17.) In summary, the
+Alpha Report identified 14 different aspects of Civil’s revised schedule that it deemed either
+inaccurate, incomplete, and/or requiring further details. (Id. at 183-84.) Moreover, the Alpha
+Report concluded that, as of February 22, 2006, the F Street Project was delayed 90 calendar
+days as a result of the Change Order which imposed the two-block construction restriction for
+
+6
+  Civil first learned of this ongoing work during an October 12, 2005, progress meeting, according to the meeting
+minutes. (Appellant’s Expert Report Ex. 7 at 65.) At a November 30, 2005, progress meeting, Civil was informed
+that the dormitory construction for GWU would not be complete until about late April or early May 2006.
+(Appellant’s Expert Report Ex. 8 at 169.)
+7
+  John Constantino, Civil’s general superintendent, testified, however, that the Appellant never stopped work on the
+F Street Project. (Hr’g Tr. 275:15-276:4.)
+
+                                                       -5-
+                                                                                      Civil Construction, LLC
+                                                                         CAB Nos. D-1294, D-1413, and D-1417
+
+the performance of the contract.8 (Id. at 182.)        The Alpha Report also created a new
+performance schedule for the contract with a completion date of August 7, 2006. (Id. at 223-31.)
+
+24.    On or around April 7, 2006, the Appellant was instructed by District representatives to
+proceed with work on the 1700 block without an approved schedule. (Hr’g Tr. 119:17-120:15,
+250:2-9.)
+
+25.    On April 10, 2006, the District rejected Civil’s Revised Schedule #3. (AF Ex. C.18.)
+The District provided numerous bases for rejecting this schedule, which appear to be based upon
+the conclusions in the Alpha Report, and also included a new contract completion date of August
+7, 2006, for the project. (Cf. AF Ex. C.18, with Appellant’s Hr’g Ex. 17 at 183-185.)
+
+26.     On April 27, 2006, Civil responded to the District’s April 10, 2006, letter and disagreed
+with the 14 areas of concern raised by the District as the basis for its rejection of Civil’s Revised
+Schedule #3. (AF Ex. C.20.) In this regard, the Appellant advised the District that its rejection
+of the revised schedule was based upon a lack of background information about the project and
+an attempt to artificially reduce the duration of the project. (Id. at 1.) By way of example, Civil
+disagreed with the District’s conclusion that Civil’s revised schedule showed no planned work
+activities between certain periods of time by pointing to specific work activities that were
+occurring within the timeframes at issue. (Id.) In another instance, Civil defended its claimed
+winter shutdown periods and claimed that certain activities could not be completed during cold
+weather. (Id.)
+
+Civil’s Performance after Rescission of the Change Order
+
+27.     At no point during Civil’s performance of the F Street Project did the District approve
+Civil’s work schedule. (Hr’g Tr. 152:2, 187:7, 933:9-13.) Civil, however, continued to perform
+on the F Street Project without stopping work. (Hr’g Tr. 275:7-276:4.) Civil completed
+construction along the north side of F Street on or about July 10, 2006.9 (See Appellant’s Expert
+Report 14; Hr’g Tr. 443:14-445:2 (Feb. 29, 2012).)
+
+28.      Civil also worked on two additional F Street projects concurrent with its work for the
+District. From July 11 through July 17, 2006, Civil worked on excavating a communications
+duct bank for GWU between 21st and 20th Streets. (Appellant’s Hr’g Ex. 24 at 262-66.) The
+work for GWU was done under a separate contract and had to be performed concurrently with
+the F Street Project due to the District of Columbia’s five-year moratorium on digging along
+newly constructed roads that would have otherwise precluded GWU from having this work done
+for a five year period after the contract was completed. (Hr’g Tr. 260:4-262:17, 282:1-14.)
+
+29.    Civil also worked on an additional duct bank under contract with the federal General
+Service Administration (“GSA”) between 17th and 18th Streets because GSA also sought to
+have this work completed before the five year moratorium on newly constructed roads would
+
+8
+  The Alpha Report also speculates that some of the delay may have been due to concurrent delay caused by Civil.
+(Appellant’s Hr’g Ex. 17 at 182.) However, the Alpha Report contains no support for that assertion.
+9
+  The document supporting this date appears to be taken from a District Inspector’s daily report that was not
+included in the record. However, it is consistent with the daily reports that were included in the record. (See
+Appellant’s Hr’g Ex. 24 at 260-62.)
+
+                                                     -6-
+                                                                                          Civil Construction, LLC
+                                                                             CAB Nos. D-1294, D-1413, and D-1417
+
+temporarily preclude its ability to have this work done at a later time. (Hr’g Tr. 262:1-17.) This
+construction lasted from August 17, 2006, through September 27, 2006. (See generally
+Appellant’s Hr’g Ex. 24; Hr’g Tr. 267:14-297:12.) This work for GSA was extended beyond its
+original completion date, in part, due to work stoppages at the direction of the Secret Service.
+(Hr’g Tr. 241:5-244:12.)
+
+30.  Civil substantially completed performance on the F Street Project on December 20,
+2006—a project duration of 591 days. (SF 15.)
+
+Civil’s Claims
+
+31.    On April 27, 2006, the Appellant submitted its first claim to the CO requesting a final
+decision on its July 15, 2005, request for a formal change order. (AF Ex. C.19.)
+
+32.     At some point thereafter, the CO scheduled a meeting with the Appellant to discuss its
+April 27, 2006, claim. (Hr’g Tr. 129:7, 145:3, 930:2.) The CO subsequently halted this meeting
+based upon his belief that negotiation efforts with the Appellant regarding its claim would be
+futile. (Hr’g Tr. 129:7-130:15, 931:2-3.)
+
+33.     Subsequently, on June 16, 2006, the CO issued a final decision denying the majority of
+the Appellant’s April 27, 2006, claim. (AF Ex. A.1.) The CO’s decision, however, granted Civil
+a 90 day time extension to complete the contract by August 6, 2006. (Id.) The CO also awarded
+Civil an additional $204,000.00 in compensation for its damages and extended jobsite overhead
+costs arising from the Change Order.10 (Id.) The CO’s decision expressly noted that this time
+extension and additional compensation to the Appellant were granted as damages resulting from
+the Change Order that altered the original construction work phasing requirements in the
+Maintenance of Traffic plans incorporated into the contract. (Id.)
+
+34.     On June 19, 2006, the CO issued a formal change order reflecting his final decision on
+Appellant’s April 27, 2006 claim, which granted some compensation to Civil in connection with
+the Change Order. (AF Ex. B.4.) This change order expressly included unabsorbed home office
+costs (including unabsorbed field and home office costs) in the $204,000.00 compensation
+awarded to Civil. (Id.)
+
+35.    Civil appealed the CO’s June 16, 2006, final decision to this Board on September 6,
+2006. (Sept. 6, 2006, Notice of Appeal.) We docketed the appeal as CAB No. D-1294.
+
+36.    On August 23, 2007, Fort Myer submitted a request for an equitable adjustment to Civil
+in the amount of $40,894.26 seeking damages related to additional mobilizations and
+demobilizations, which it performed which it claims were beyond the scope of the contract.
+(Appellant’s Hr’g Ex. 40.) Specifically, Fort Myer’s request for an equitable adjustment
+included the cost of 13 additional mobilization/demobilization efforts (in addition to the 10 that
+Fort Myer had originally anticipated) at $1700.00 per mobilization, additional supervisory
+expenses, inefficiency expenses, and increased labor and material costs, which it claims to have
+incurred as the result of the District’s Change Order. (Id.)
+
+
+10
+     Civil has been paid the $204,000.00 awarded in the CO’s final decision. (Hr’g Tr. 146:19-147:7)
+
+                                                         -7-
+                                                                                          Civil Construction, LLC
+                                                                             CAB Nos. D-1294, D-1413, and D-1417
+
+37.    On August 3, 2010, the Appellant submitted a claim to the CO seeking unabsorbed
+extended home office overhead costs for the 90 day period between May 8, 2006, and August 6,
+2006, in the amount of $108,900.00 using the Eichleay formula.11 (Nov. 8, 2010 Notice of
+Appeal.)
+
+38.    On August 12, 2010, Civil similarly submitted a second claim for unabsorbed overhead
+using the Eichleay formula for the 122 day period between August 7, 2006, and December 9,
+2006, in the amount of $147,620.00. (Nov. 18, 2010 Notice of Appeal.)
+
+39.     Civil appealed to this Board from the deemed denials of both of these overhead claims
+after the CO failed to issue a final decision on these two claims. (Nov. 8, 2010 Notice of Appeal;
+Nov. 18, 2010 Notice of Appeal.) We docketed the appeals as CAB No. 1413 and CAB No. D-
+1417, respectively. We consolidated the Appellant’s three appeals relating to the F Street project
+on June 2, 2011.
+
+40.     The Appellant filed an amended complaint with regard to the consolidated appeals on
+February 21, 2012. The Amended Complaint seeks an equitable adjustment in the amount of
+$1,033,014.61. (Am. Compl. 6.) This amount includes $324,508.26 for its Field Labor Increase;
+$198,659.28 for its Equipment Increase; $16,849.80 for Additional Scheduling Requirements;
+$227,503.26 for Extended Field Overhead Increases; $205,523.58 for Extended Home Office
+Overhead Increases; and also includes a combined amount of $59,970.43 on behalf of its
+electrical and asphalt subcontractors (Central Armature and Fort Myer, respectively).12 (Am.
+Compl. 6-7.)
+
+The Appellant’s Calculation of Delay Impacts
+
+41.     The Board conducted a four day hearing on the merits in these consolidated cases
+beginning on February 28, 2012, based primarily upon the Appellant’s appeal from the CO’s
+denial of its April 27, 2006, claim.
+
+42.      At the hearing, the Appellant employed an expert, Scott A. Galbraith, to provide a report
+and various schedules, with his corresponding testimony, to substantiate the Appellant’s claimed
+delay impact and damages arising from the District’s issuance of the Change Order immediately
+after it began performance of the contract. Galbraith relied upon several primary resources in
+making his delay and impact findings, and his damage calculation. In particular, Galbraith
+reviewed the following materials to corroborate his findings as to the events that occurred during
+contract performance: 1) project schedules that Civil submitted to the District; 2) daily contract
+performance reports internally generated by the District; 3) Civil’s July 15, 2005, cost estimate
+
+11
+   The Eichleay formula was originally set forth by the Armed Services Board of Contract Appeals in Eichleay
+Corp., ASBCA No. 5183, 60-2 BCA ¶ 2688 (July 29, 1960) to equitably determine the allocation of unabsorbed
+overhead incurred due to government-caused delay. Nicon, Inc. v. United States, 331 F.3d 878, 882 (Fed. Cir.
+2003). “The Eichleay formula requires three steps: 1) to find allocable contract overhead, multiply the total
+overhead cost incurred during the contract period times the ratio of billings from the delayed contract to total
+billings of the firm during the contract period; 2) to get the daily contract overhead rate, divide allocable contract
+overhead by days of contract performance; and 3) to get the amount recoverable, multiply the daily contract
+overhead rate times days of government-caused delay.” Wicham Contracting Co. v. Fischer, 12 F.3d 1574, 1577 n.3
+(Fed. Cir. 1994).
+12
+   The Amended Complaint also sought $1,000.00 representing the unpaid balance on the contract. (Am. Compl. 6.)
+
+                                                        -8-
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+for the project; 4) the CO’s final decision; and 5) documents produced by the District during the
+course of this litigation. (Appellant’s Expert Report 3-4; see also Hr’g Tr. 396:10-402:1.)
+Moreover, Galbraith’s report compared, inter alia, Civil’s original base line schedule (a forward-
+looking schedule) with as-built data as of February 21, 2006, and with Civil’s final as-built
+schedule. (Id. at 266.)
+
+43.     As part of his analysis, and as discussed further below, Galbraith identified delays to
+Civil’s performance of the contract within four specific periods of performance using a critical
+path method (“CPM”) time impact analysis. (Appellant’s Expert Report 12-18; Hr’g Tr. 409:18-
+410:15.) Because the CO’s Final Decision, and the Alpha Report upon which it was based,
+covered delays incurred through February 21, 2006, Galbraith’s CPM analysis was limited to the
+period from February 22, 2006 until substantial completion of the project.13 (See Id. at 12.)
+
+        Impact Period No. 1 (February 22, 2006 through March 7, 2006)
+
+44.     The first delay impact period identified by Galbraith covers the period February 22, 2006,
+through March 7, 2006, when Civil first submitted Revised Schedule #3.14 (Appellant’s Expert
+Report 12-13; Hr’g Tr. 535:12-536:22.) As an initial matter, Galbraith determined that, as of
+February 22, 2006, the F Street Project was already delayed by 140 calendar days.15 (Id. at 11;
+Hr’g Tr. 408:7-412:15.) This 140 day delay period, as determined by Galbraith, is the numerical
+difference between when the project was originally scheduled to be completed on May 8, 2006,
+and the date which Galbraith subsequently projected the contract to be completed on September
+25, 2006, as discussed below. (Appellant’s Expert Report 11; Hr’g Tr. 412:2-7.) Galbraith
+attributed the entire 140 day delay as due to the Change Order’s two-block restriction. (Id. at 19;
+see also Hr’g Tr. 403:11.)
+
+45.     In arriving at the determination that there was a 140 day delay, Galbraith began by
+reviewing Civil’s Revised Schedule #3, which contained the as built data through February 21,
+2006. (Appellant’s Expert Report 7-8; see also Hr’g Tr. 413:16-414:5.) For purposes of
+comparison, Galbraith then recreated the schedule generated by the Alpha Report using the
+report’s seven recommendations, which led the District to determine that the contract’s new
+completion date was August 7, 2006. (Id. at 9.) Galbraith, however, found that Alpha’s
+schedule was flawed because it did not restore Civil’s original sequencing of performing utility
+work activities before street level work activities within a given block and on a given side of F
+Street. (Id. at 9-10; see also Hr’g Tr. 568:5-570:19.) In particular, the schedule contained in the
+Alpha Report shows utility work and street-level work being performed at the same time.
+(Appellant’s Hr’g Ex. 17 at 223-24, 229-30.) However, in order to create a schedule consistent
+with the intent of Civil’s original work sequence plan, Galbraith added relationships and
+predecessors to certain activities in the Alpha schedule to restore Civil’s planned sequencing to
+
+13
+   At the time of the District’s rescission of the two-block work area restriction in January 2006, Civil’s work zone
+was established along the north side of F Street between 20th and 18th Streets. See supra finding 18.
+14
+   The expert noted that by the end of 2005 Civil had completed utilities and street work through base paving
+activities from 23rd Street to 21st Street on both the north and south sides of F Street. (Appellant’s Expert Report
+6; see also Hr’g Tr. 254:7 (John M. Constantino testifying that this was the first section worked).)
+15
+   The February 22, 2006, date indicates that the data leading up to this date is based on Civil’s as-built schedule,
+and is the same February 22, 2006 “data date” used in Civil’s March 7, 2006, Revised Schedule #3. (Hr’g Tr. 411:9;
+Appellant’s Hr’g Ex. 11.)
+
+                                                        -9-
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+complete the contract. (Appellant’s Expert Report 10-11; Hr’g Tr. 569:10-570:19.) With these
+changes, Galbraith established a new schedule showing all work completed on September 25,
+2006, 140 days after the original May 8, 2006, completion date. (Id. at 11, 255-61; Hr’g Tr.
+536:2-536:8.)
+
+46.     Galbraith also determined that Civil was delayed an additional 14 days between February
+22, 2006, and March 7, 2006, when it was precluded from working between 17th and 18th streets
+because it was preparing a revised contract performance schedule for approval by the District
+before it fully mobilized onto the project again, as required by the CO’s January 19, 2006, letter.
+(Appellant’s Expert Report 12-13; Hr’g Tr. 416:11-420:20.)
+
+        Impact Period No. 2 (March 8, 2006 through July 17, 2006)
+
+47.     Galbraith identified a second impact period between March 8, 2006, and July 17, 2006,
+which covers the period between Civil’s submission of its revised schedule and when Civil
+actually started performing the Phase 2 utility activities on the south side of F Street between
+21st Street and 17th Street. (Appellant’s Expert Report 13; Hr’g Tr. 430:7-430:10.) In other
+words, Galbraith defined this impact period to include the completion of the north side of F
+Street (through base paving) from 21st Street to 17th Street. Galbraith determined that during
+this time period, Civil had incurred an additional 33 calendar days of delay. (Id. at 13-15; see
+also Hr’g Tr. 430:7-430:16.) Galbraith assigned 32 calendar days of delay during this period to
+Civil for failing to mobilize on the 1700 block of F Street until April 8, 2006, without a District-
+approved schedule despite having submitted a revised schedule to the District for approval after
+the Change Order was rescinded. (Id. at 15; see also Hr’g Tr. 430:20-431:1.)
+
+48.     Further, Galbraith determined that during this same time period Civil’s progress on the
+contract was also impacted by many other critical delays, totaling 22 calendar days of delay, for
+which Civil was not responsible including: 1) delay attributable to Secret Service stop work
+orders (1 calendar day); 2) weather impacts after original contract completion date (13 calendar
+days);16 3) traffic switch from north to south side of F Street (1 calendar day); and 4) additional
+duct bank work required for GWU (7 calendar days).17 (Appellant’s Expert Report 15; see also
+Hr’g Tr. 435:2-450:13.) Galbraith, however, determined that Civil was able to overcome 21 of
+these overall 54 calendar days of delay during this period and, therefore, that Civil was only
+responsible for 11 of the total 33 total critical delay days during this timeframe.18 (Id.) At the
+hearing on the merits in this matter, this expert testified extensively about his basis for these
+finding of delays in delay impact period No. 2 that were attributable to Civil and others. (See
+generally Hr’g Tr. 429:17-450:13.)
+
+
+
+
+16
+   The 13 days of weather impact include 11 days of adverse weather and 2 days as a conversion from work days to
+calendar days. (Appellant’s Expert Report 14; see also Hr’g Tr. 436:12-437:11.)
+17
+   While Galbraith found that Donohoe Construction’s work for GWU delayed Civil’s work for 79 days during this
+period, he determined that this delay was not along the critical path of the project. (Appellant’s Expert Report 14;
+see also Hr’g Tr. 431:12.)
+18
+   Galbraith determined the ultimate 33 delays of delay based upon subtracting Civil 21 day “credit” for overcoming
+delays during this time period from the original 54 days of delay which Galbraith found to have occurred during this
+time period. (Appellant’s Expert Report 14-15; Hr’g Tr. 448:4-449:7.)
+
+                                                       - 10 -
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+        Impact Period No. 3 (July 18, 2006 through September 27, 2006)
+
+49.     The third delay impact period identified by Galbraith ranged from the period of July 18,
+2006, through September 27, 2006, beginning after Civil completed its prior duct bank work for
+GWU on the south side of the 2000 block of F Street. (Appellant’s Expert Report 15; see also
+Hr’g Tr. 447:19-449:7.) This third period in Galbraith’s analysis encompassed Civil’s start of
+Phase 2 utilities activities along the south side of F Street between 21st Street and 17th Street to
+the start of Phase 3 street-level work along the south side of F Street between 18th and 17th
+Streets. (Id.) During this period, Galbraith attributed 40 days of delay to others because of the
+additional duct bank installation work that Civil was required to do under a separate contract
+with the GSA, which was a critical impact to the project schedule.19 (Id. at 16; see also Hr’g Tr.
+447:19-449:7.) In culmination, as of September 28, 2006, the project was 87 calendar days
+behind its forecasted critical path, of which 14 calendar days were accounted for in the first
+impact period, 33 calendar days were accounted for in the second delay impact period, and 40
+days of delay were included from delay impact period No. 3. (Appellant’s Expert Report 16; see
+also Hr’g Tr. 447:19-449:7.)
+
+        Impact Period No. 4 (September 28, 2006 through Substantial Completion)
+
+50.     The final period identified by Galbraith, from September 28, 2006, through December 20,
+2006, covers Civil’s start of Phase 3 street-level activities and concludes with the placement of
+surface asphalt paving and striping activities for the entire length of the project (i.e., substantial
+completion of the contract). (Appellant’s Expert Report 17-18; see also Hr’g Tr. 409:1-409:18.)
+Galbraith attributed five delay days in this period to the District consisting of a November 8,
+2006, weather delay and four days of delay due to the Thanksgiving holiday.20 (Id. at 18; see
+also Hr’g Tr. 539:19-540:19.) However, Galbraith credited Civil with overcoming 6 days of
+delay, resulting in a net gain of 1 day during this period. (Id.)
+
+        Total Impact
+
+51.      Between the four identifiable delay impact periods on the project noted above, Civil’s
+expert, in referencing findings in his expert report, testified that the project was delayed for a
+total of 226 days. (Hr’g Tr. 408:7-22, 455:9; see also Appellant’s Expert Report 19.) Of this
+total of 226 delay days, Galbraith concluded that 169 of these delay days were attributable to the
+District as the result of its issuance of the Change Order which changed the original construction
+traffic sequencing requirements in the contract. (Hr’g Tr. 540:12-541:17.) These 169 days of
+delay include 140 days of delay which Galbraith determined had been caused by the District
+after it issued the Change Order on May 19, 2005, through February 21, 2006. (Hr’g Tr. 538:4-
+541:17.) It also includes the 14 days of delay which Galbraith attributed to the District for
+requiring that Civil prepare and submit Revised Schedule #3 after the two-block restriction was
+rescinded before it could resume work on the project, and also another 1 day delay arising from
+the requirement that Civil switch the traffic barrier for the work zone from the north side to the
+
+19
+   Although Galbraith determined that issues with Pepco and Washington Gas delayed Civil by 12 days and 11 days,
+respectively, he concluded that neither of these delays were on the critical path. (Appellant’s Expert Report 16-17.)
+20
+   On cross examination, Galbraith testified that the Thanksgiving holiday delay should be attributed to the
+additional duct bank work under Civil’s contract with the General Services Administration. (Hr’g Tr. 539:19-
+540:11.)
+
+                                                       - 11 -
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+south side of F Street on July 10, 2006.21 (Id.; see also Appellant’s Expert Report Ex. 19 at 266.)
+Also, Galbraith included in the total 169 delay days attributed to the District another 14 days of
+delay because of adverse weather conditions which Civil encountered, which stopped work for
+14 days, during the extended contract performance period.22 (Hr’g Tr. 540:1-541:4.)
+
+The Appellant’s Damages Calculation
+
+52.     Galbraith, in his expert report, ultimately determined that, based upon the delay days
+attributable to the District, that Civil is entitled to $1,060,273.4523 in additional compensation
+resulting from the two-block restriction mandated by the May 19, 2005, Change Order.
+(Appellant’s Expert Report 25; Hr’g Tr. 479:5.) Galbraith arrived at this figure by computing
+several different areas of costs. (Id. at 19-25; see also Hr’g Tr. 479:2-480:18.)
+
+53.     In calculating increased labor and equipment costs, Galbraith created an estimate based
+on a daily rate using Civil’s as-bid labor costs as submitted in support of its July 15, 2005, good
+faith estimate. (Appellant’s Expert Report 20-22; see also Hr’g Tr. 468:9-469:20.) According to
+Galbraith, the actual costs could not be determined because no portion of the F Street Project was
+unimpacted by the two-block restriction, which precluded him from alternatively performing a
+calculation of extended labor damages based upon actual labor costs. (Id. at 20.)
+
+        Labor Costs
+
+54.    With regard to labor costs, Galbraith determined that Civil was entitled to an additional
+$351,766.83. (Appellant’s Expert Report 21; see also Hr’g Tr. 465:18-468:2.) Using Civil’s as-
+bid labor and burdened labor costs, Galbraith established a daily labor rate of $2,021.65.24 (Id.)
+Galbraith multiplied this by the 17425 delay days he had attributed to the District, resulting in his
+$351,766.83 estimate in Appellant’s alleged increased field labor costs.26 (Id.)
+
+55.     On cross examination, the District questioned Galbraith as to why he used 350 days
+rather than 365 in deriving the daily rate. (Hr’g Tr. 542:10-544:18.) Galbraith testified that he
+21
+   Galbraith, nonetheless, found that the delays which occurred as the result of Civil performing duct bank work for
+GWU (7 calendar delay days) and the Secret Service (40 calendar delay days) under separate contracts were non-
+compensable. (Hr’g Tr. 532:9.)
+22
+   Galbraith, however, admitted during the hearing that his expert report contained a typographical error in that, in
+several instances there were narratives stating that the District was responsible for 174 delay days instead of 169
+delay days identified in other sections of the expert report. (Hr’g Tr. 541:9-542:9.)
+23
+   At trial, Galbraith submitted a revised expert report in which he determined that the Appellant was owed
+$1,060,273.45, an increase from the $1,033,014.61 claimed in his initial expert report. (Appellant’s Expert Report
+25.) This revision stems from a correction made to his labor cost calculation discussed below. (See Hr’g Tr. 394:1-
+395:1.)
+24
+   Civil’s as-bid labor and burdened labor costs totaled $909,528.86. (Appellant’s Hr’g Ex. 4 at 76.) Galbraith
+subtracted from this amount $201,952, which represents Civil’s foreman costs, giving an adjusted as-bid labor costs
+of $707,576.86. (Appellant’s Expert Report 21; see also Hr’g Tr. 395:20-396:1.) Galbraith then divided by 350
+days for “planned on-site duration” to establish a daily labor rate of $2,021.65. (Id.)
+25
+   See supra note 22.
+26
+   Originally, Galbraith subtracted $256,784.00 as representing foremen labor costs. (Appellant’s Expert Report 21;
+see also Hr’g Tr. 465:18-468:2.) This number represents the actual foremen labor costs incurred. (Hr’g Tr. 393:15-
+394:21.) Upon discovering the error, Galbraith went through Civil’s as-bid cost report and totaled the various
+foremen labor items, which totaled $201,952. (Hr’g Tr. 465:2-466:8.) Using the original figure, Galbraith had
+calculated a daily labor rate of $1,864.99 and a total amount owed of $324,508.26. (Appellant’s Expert Report 21.)
+
+                                                       - 12 -
+                                                                                            Civil Construction, LLC
+                                                                               CAB Nos. D-1294, D-1413, and D-1417
+
+used 350 days because under Civil’s original baseline schedule 350 days was the original
+duration that Civil planned to be on the project until it was completed. (Hr’g Tr. 466:16, 543:5-
+544:18.)
+
+          Equipment Costs
+
+56.    Galbraith also determined that Civil was due an additional $198,659.28 in equipment
+costs. (Appellant’s Expert Report 22; see also Hr’g Tr. 469:3-470:3.) Using a similar
+methodology, Galbraith established a daily equipment rate of $1,141.72, utilizing Civil’s as-bid
+equipment costs as a baseline.27 (Id.) Galbraith multiplied the adjusted daily rate by 17428
+calendar delay days, resulting in $198,659.28 for the Appellant’s estimated compensable
+equipment overrun. (Id.)
+
+57.     The actual cost data, however, which the Appellant introduced at the hearing, set forth
+that Civil’s actual incurred equipment costs for the project were $563,372.88 for owned
+equipment and $28,126.12 for rented equipment. (Appellant’s Hr’g Ex. 25 at 304-05.) Using
+this actual cost data, the Board calculates that Civil incurred $591,499.00 in equipment costs.
+
+         Scheduling Costs
+
+58.     Upon Galbraith’s request, Daniel Mullally, Civil’s Chief Financial Officer, generated its
+accounts payable report for CPM scheduling. (Hr’g Tr. 306:16; Appellant’s Hr’g Ex. 36.) The
+report showed invoices for CPM scheduling from two subcontractors, Contractors Engineering
+Services and McDonough Bolyard Peck, Galbraith’s employer. (Appellant’s Hr’g Ex. 36.)
+Contractors Engineering Services submitted 12 invoices, approximately 1 per month, beginning
+April 2005, through September 2006, for a total of $6,790.00. (Id.) McDonough, submitted 5
+invoices from August 2006 through August 2007, with the first invoice for $10,000.00 and all 5
+totaling $18,466.20. (Id.)
+
+59.     According to Galbraith, Civil anticipated providing the District with 12 schedules
+throughout the performance period. (Hr’g Tr. 473:11.) Civil estimated the cost of each schedule
+to be $450.00. (Appellant’s Hr’g Ex. 4 at 69.)
+
+60.     Galbraith determined that Civil incurred an               additional $15,318.00 in scheduling costs.
+(Appellant’s Expert Report 23; see also Hr’g Tr.                  473:12-473:15.) Galbraith arrived at this
+amount by adding the Civil Engineering Services                   invoices and the three 2006 McDonough
+invoices and subtracting $5,400.00 representing the               cost of the 12 schedules planned under the
+original contract. (Hr’g Tr. 472:12-473:15.)
+
+
+
+
+27
+   Civil’s original bid included $449,850.60 in equipment costs. (Appellant’s Hr’g Ex. 4 at 76.) Again using 350
+days, Galbraith determined a daily rate of $1,285.29. (Appellant’s Expert Report 22; see also Hr’g Tr. 469:3-470:3.)
+Galbraith then divided the 350 planned days by the 591 day total duration of the project to arrive at an estimated
+59.22% in use rate. (Id.; see also Hr’g Tr. 469:3-20.) Galbraith multiplied the daily rate by the in use percentage to
+arrive at a $761.15 in use daily rate. (Id.) Galbraith determined an idle rate of half the in use rate, or $380.57. (Id.)
+Galbraith then added the two for an adjusted daily equipment rate of $1,141.72. (Id.)
+28
+   See supra note 22.
+
+                                                         - 13 -
+                                                                                           Civil Construction, LLC
+                                                                              CAB Nos. D-1294, D-1413, and D-1417
+
+         Field Overhead
+
+61.     Galbraith, using a daily rate of $1,307.49,29 determined that Civil was entitled to an
+additional $227,503.26 for field overhead by multiplying the daily rate by the 17430 days of
+delay he attributed to the District. (Appellant’s Expert Report 24; see also Hr’g Tr. 467:8.) This
+calculation was largely based upon internal corporate data that was provided to Galbraith by
+Civil’s Financial Officer, Daniel Mullally.
+
+62.     Mullally testified as to various documents he prepared in support of the Appellant’s
+request for field overhead costs. Mullally’s testimony described Civil’s payroll documents
+which showed it incurred $580,457.60 for its foremen and project managers.31 (Hr’g Tr. 302:8-
+306:19.) Mullally further testified as to the accuracy and completeness of the internal cost data
+supporting its field office and safety officer costs. (Hr’g Tr. 333:17-336:11.) This cost data
+established that during the contract period, Civil paid $136,690.56 in salary and benefits for a
+safety officer. (Appellant’s Hr’g Ex. 38 at 1.) Civil, however, only allocated 20 percent of the
+safety officer’s salary, $27,338.11, to the F Street Project. (Id.) Civil’s cost data further showed
+that during the contract period Civil incurred $44,165.00 in rent for its field office and other
+general conditions costs. (Id. at 4.)
+
+         Extended Home Office Overhead
+
+63.    Mullally testified at length as to his calculations concerning Civil’s incurred extended
+home office overhead costs under the Eichleay formula and the data supporting his calculations
+because the Appellant also seeks to recover these costs. (Hr’g Tr. 323:7-333:2; see also
+Appellant’s Hr’g Ex. 37.) Galbraith independently reviewed the same actual billings and
+overhead cost information provided by Mullally and concluded that extended overhead costs
+were due to Civil based upon a daily rate of $1,187.17, for a total of $205,523.58. (Appellant’s
+Expert Report 25; see also Hr’g Tr. 478:18-479:1.)
+
+Subcontractor Claims
+
+         Central Armature Works
+
+64.      Central Armature was an electrical subcontractor for Civil in support of the F Street
+project and is also seeking delay damages in this action through its prime contractor, Civil.
+Civil’s original request to the District for the issuance of a formal Change Order on July 15,
+2005, to cover its increased performance costs associated with the two-block construction
+restriction include estimated increased costs for its electrical subcontractor for the project,
+Central Armature, in the amount of $101,582.00. (Appellant’s Hr’g Ex. 4 at 59-62.) However,
+
+29
+   In deriving this figure, Galbraith added 20 percent of the safety officer’s salary and benefits, $27,338.11, with the
+payroll costs of Civil’s foremen, superintendents and other supervisors, $580,457.60, for a total of $607,795.71.
+(Appellant’s Expert Report 24; see also Hr’g Tr. 476:13-477:7.) Galbraith then applied a 20 percent markup for
+overhead and profit for a total of $729,354.85. (Id.) Galbraith then added $31,959 in rent and $11,412.41 in other
+field office costs for a total of $772,726.26. (Id.) Lastly, Galbraith divided the $772,726.26 figure by 591 days to
+derive the $1307.49 daily rate.
+30
+   See supra note 22.
+31
+   The Board received extensive testimony from the witness verifying this cost data, introduced as Appellant’s
+Hearing Exhibit 35, however, this document was not formally moved into evidence by the Appellant.
+
+                                                        - 14 -
+                                                                                       Civil Construction, LLC
+                                                                          CAB Nos. D-1294, D-1413, and D-1417
+
+this original amount being claimed by Central Armature was later significantly reduced to
+$19,215.11, and then to $15,696.85, as set forth in the expert report. (Appellant’s Expert Report
+23; see also Hr’g Tr. 809:20-810:16.)
+
+65.     In outlining Central Armature’s claimed damages in his expert report, Galbraith did not
+perform a detailed analysis of Central Armature’s claimed costs, but, instead, seemingly just
+accepted these claimed costs from Central Armature in the amount of $19,215.11, and only made
+minor adjustments consistent with Civil’s compensable days of delay to arrive at the $15,696.85
+figure. (Appellant’s Expert Report 23; Hr’g Tr. 471:1-22.)
+
+66.     At the hearing in this matter, Charles Redding, an electrical superintendent for Central
+Armature, provided testimony regarding the basis of this subcontractor claim. Redding,
+however, could offer no testimony regarding the basis for the downward adjustment in Central
+Armature’s original claim from $101,582.00 to $19,215.11, nor could he identify any contract
+related documents or other information that could provide the cost details underlying the
+damages claimed by Central Armature related to the F Street project. (See generally Hr’g Tr.
+803:2-813:13, 819:1-820:20.)
+
+        Fort Myer Construction
+
+67.     Fort Myer was another subcontractor that supported the F Street Project by providing
+asphalt related services. Fort Myer is seeking additional compensation under its subcontract with
+the Appellant for 13 additional mobilizations, which it alleges that it was required to perform as
+a result of the Change Order requirements. In determining the amount owed to Fort Myer,
+Galbraith adjusted the labor and material escalation figures contained in Fort Myer’s August 23,
+2007, Request for Equitable Adjustment to reflect his finding of 17432 delay days that were
+compensable to Civil. (Appellant’s Expert Report 23, Hr’g Tr. 471:3-14.) Performing this
+calculation, Galbraith downwardly adjusted Fort Myer’s $40,498.26 claimed amount to
+$38,821.72. (Appellant’s Expert Report 23; see also Hr’g Tr. 740:1-16.)
+
+68.     Fort Myer’s underlying August 23, 2007, Request for an Equitable Adjustment identified
+23 days on which it mobilized to perform work on the F Street Project. (Appellant’s Hr’g Ex.
+40.) Fort Myer requested $1700.00 for each mobilization and corresponding demobilization for
+13 of the 23 days, for a total of $22,100.00. (Id.) Fort Myer further requested $1,430.00 in
+additional supervisory costs for the 13 additional days. (Id.) Fort Myer also sought $6,045.00 in
+inefficiency costs. (Id.) Fort Myer stated that it incurred a 4% escalation in labor costs, at
+$3,824.47. (Id.) Lastly, Fort Myer sought $7,494.79 as a 3% escalation in material costs. (Id.)
+
+69.      At the hearing, Ralph Kew, a vice president of Fort Myer, stated that Fort Myer needed to
+increase its claimed amount from $38,821.72 to $106,217.26. (Hr’g Tr. 740:1-6.) First, Kew
+testified that Fort Myer had discovered an additional 3 daily reports that showed that Fort Myer
+mobilized for work on 26 days for the F Street Project, instead of the 23 days used in its August
+23, 2007, Request for an Equitable Adjustment. (Hr’g Tr. 695:2-19.) Kew then testified that Fort
+Myer had audited its finances and determined that the cost of each mobilization was $3,926.76.33
+
+32
+  See supra note 22.
+33
+  Appellant’s Hearing Exhibit 26, however, indicates a mobilization cost of either $3,926.76 or $4,749, depending
+on the work performed.
+
+                                                     - 15 -
+                                                                                       Civil Construction, LLC
+                                                                          CAB Nos. D-1294, D-1413, and D-1417
+
+(Hr’g Tr. 698:1-703:22; see also Appellant’s Hr’g Ex. 26.) Kew further stated that Fort Myer
+was seeking costs for 42 mobilizations, treating mobilizations and demobilizations separately
+and subtracting the 10 anticipated mobilization/demobilizations. (Hr’g Tr. 707:14-708:8.)
+
+70.     Kew further testified that based on audited costs, Fort Myer’s additional supervisory
+costs for the F Street Project were $3,802.56. (Hr’g Tr. 713:13-720:19.) Kew also testified as to
+a document allegedly supporting labor escalation costs of $3,824.47.34 (Hr’g Tr. 723:2-727:17.)
+Lastly, Kew testified, using randomly chosen dates from an asphalt index, that a 3 percent
+materials cost increase of $7,494.79 was reasonable, which he applied to the amounts being
+claimed by Fort Myer. (Hr’g Tr. 730:1-738:7; see also Appellant’s Hr’g Ex. 28.) Based upon
+these factors, Kew testified that Fort Myer’s total mobilization costs should be $91,095.48.
+(Hr’g Tr. 710:22.)
+
+The District’s Contentions
+
+71.     The District only offered one witness at the hearing, Contracting Officer Jerry Carter, to
+discuss the impact to the Appellant in connection with the District’s Article 3 Change Order.
+The CO testified that the Article 3 change to the maintenance of traffic impacted Civil’s
+schedule. (Hr’g Tr. 887:2-8.) The CO, however, testified that the two-block restriction only
+delayed the project by 90 days. (Hr’g Tr. 887:16-20.) CO Carter also testified that he believed
+that upon lifting the two-block restriction in his January 19, 2006 letter, Civil was immediately
+free to begin work on the 1700 block of F Street. (Hr’g Tr. 897:13-898:17, 919:7-920:21.)
+
+72.     CO Carter testified that he did not know the basis for computing the $204,000.00 amount
+that he awarded to the Appellant in his final decision, which assessed the overall delay impact to
+contract performance caused by the Change Order. (Hr’g Tr. 940:2-20.) The CO, however, did
+testify that this amount included extended overhead costs. (Hr’g Tr. 908:12.) Moreover, the
+District offered no additional witnesses at the hearing to validate the basis for its contention that
+the Appellant was entitled to only $204,000.00 for the Change Order, nor did the District
+produce any witnesses to present oral or written testimony to refute the expert findings made by
+Galbraith regarding the cause of critical project delays.
+
+                                              JURISDICTION
+
+        The Board has jurisdiction to hear any “appeal by the contractor from a final decision by
+the contracting officer on a claim by the contractor, when such claim arises under or relates to a
+contract.” D.C. CODE § 2-309.03(a)(2) (repealed 2011).35 The District argues, however, that the
+Board lacks jurisdiction because a proper claim was not submitted to the CO. (Dist.’s Post Hr’g
+Br. 12-15; see generally Dist. Trial Mem.) The District’s argument rests on the Appellant’s
+failure to certify the claim underlying CAB No. D-1294; the District argues that such failure
+
+34
+  However, this document was not introduced into evidence.
+35
+   The Procurement Practices Reform Act of 2010 (“PPRA”) repealed the District of Columbia Procurement
+Practices Act of 1985 (“PPA”), as amended by the Procurement Reform Amendment Act of 1996 and codified at
+D.C. CODE § 301.01 et seq., and amended and recodified the District’s procurement statutes at D.C. CODE § 2-
+351.01 et seq. effective Apr. 8, 2011. Procurement Practices Reform Act of 2010, D.C. Law. No. 18-371, 58 D.C.
+Reg. 1185 (Feb. 11, 2011). However, as all the appeals at issue were filed prior to the enactment of the PPRA, the
+PPA, as amended, applies to all issues in these consolidated appeals, including our jurisdiction.
+
+                                                      - 16 -
+                                                                                           Civil Construction, LLC
+                                                                              CAB Nos. D-1294, D-1413, and D-1417
+
+renders the Appellant’s claim defective.36 (Dist.’s Post Hr’g Br. 12-15; see generally Dist. Trial
+Mem.) According to the District, such certification was required by D.C. CODE § 2-303.08 and
+by the terms of the contract. (Dist. Trial Mem. 2-4.)
+
+        Under federal procurement law, the Contract Disputes Act (“CDA”) requires contractors
+to certify claims over $100,000.00. 41 U.S.C. § 7103(b) (2011 Supp.) (formerly 41 U.S.C. §
+605(c)). In interpreting this certification requirement, federal courts and boards have held that
+lack of a CDA certification deprives the contracting officer and boards of contract appeals of
+jurisdiction over a claim. Tecom v. United States, 732 F.2d 935, 937 (Fed. Cir. 1984); Red Gold,
+Inc. v. Dep’t of Agric., CBCA No. 2259, 12-1 BCA ¶ 34,921 (July 6, 2011); Tefirom Insaat
+Enerji Sanayi ve Ticaret A.S., ASBCA No. 56,667, 11-1 BCA ¶ 34,628 (Nov. 29, 2010). We
+have noted, however, that the District’s procurement statutes do not include language
+comparable to the CDA “mandating that contract dispute claims be certified to the CO in the
+same manner.” Flippo Constr. Co., CAB No. D-1422, Order on Mot. to Dismiss 2 (Mar. 29,
+2012) (unpublished); see also D.C. CODE § 2-308.05 (prescribing the procedure for submission
+of claims by a contractor against the District).
+
+         The District’s reliance on D.C. CODE § 2-303.08 is misplaced.37 D.C. CODE § 2-
+303.08(a) requires a contractor to submit cost or pricing data for contract awards and
+modifications over $100,000.00 and to certify that such cost or pricing data is “accurate,
+complete, and current as of a mutually determined specified date.”38 On its face, the foregoing
+legal provision explicitly requires a contractor to submit certified cost or pricing data to directly
+support a contract, a change order, or a contract modification. This provision does not, on the
+other hand, expressly include, or even address, dispute “claims” within the categories of contract
+related submissions requiring a supporting cost or pricing certification. Cf. D.C. MUN. REGS. tit.
+27, § 3899.1 (2004) (defining a claim as a written demand “seeking, as a matter of right, the
+payment of money in a sum certain the adjustment or interpretation of contract terms, or other
+relief arising under or relating to the contract.”). Consequently, the requirement for certified cost
+or pricing data in D.C. CODE § 2-303.08 is inapplicable to contractor claims.
+
+       For the foregoing reasons, the Board finds that a lack of claim certification does not
+deprive the Board jurisdiction over the present appeals and the motion to dismiss is denied.
+Thus, the Board has jurisdiction over the present appeals pursuant to D.C. CODE § 2-
+309.03(a)(2).
+
+                                                  DISCUSSION
+
+       The Appellant seeks an equitable adjustment to cover the increased costs that resulted
+from the District’s imposition of the two-block restriction to the F Street Project in the CO’s May
+19, 2005, Change Order. (Appellant’s Post Hr’g Br. 3.) To receive an equitable adjustment, a
+contractor must show three elements—liability, causation, and resultant injury. Wilner v. United
+
+36
+   The Board notes that the contested certification appears in the Appellant’s claims underlying CAB Nos. D-1413
+and D-1417.
+37
+   The District also relies on Article 7(A)(a)(5) of the Standard Contract provisions; however, the District notes that
+this provision is derived from the certification requirement in D.C. CODE § 2-303.08(a). (Dist. Trial Mem. 2.)
+38
+   We have recognized that this requirement is derived from the federal Truth in Negotiations Act, 10 U.S.C. §
+2306a. See Careers & Co., CAB No. P-0525, 45 D.C. Reg. 8734, 8737-38 (Feb. 13, 1998).
+
+                                                        - 17 -
+                                                                                           Civil Construction, LLC
+                                                                              CAB Nos. D-1294, D-1413, and D-1417
+
+States, 24 F.3d 1397, 1401 (Fed. Cir. 1994); Servidone Constr. Corp. v. United States, 931 F.2d
+860, 861 (Fed. Cir. 1991). The Appellant has the burden of proving its entitlement to an
+equitable adjustment by a preponderance of the evidence. A.S. McGaughan Co., CAB No. D-
+884, 41 D.C. Reg. 4130, 4135 (Mar. 16, 1994). The Board considers the contracting officer’s
+final decision in reviewing a contractor’s claim, but the Board’s review is de novo and the
+factual findings of the contracting officer are not attributed any presumed validity. See Ebone,
+Inc., CAB Nos. D-971, D-972, 45 D.C. Reg. 8753, 8773 (May 20, 1998).
+
+Entitlement
+
+        Under the original Maintenance of Traffic Specifications in the contract, Civil was
+permitted to work on all six blocks of the F Street Project concurrently. (Findings of Fact (“FF”)
+3, 6.) In accordance with these specifications, Civil planned to utilize multiple crews
+simultaneously progressing through all six blocks of F Street, largely one side of the street at a
+time. (FF 5-6.) By restricting the Appellant to a construction sequence of activities of two
+blocks at a time, the District substantially disrupted the Appellant’s originally planned sequence
+of work, which led to performance inefficiencies and delays. (FF 11.) Indeed, the CO admitted
+that this change in the maintenance of traffic specifications in the contract impacted the
+Appellant’s schedule, which ultimately led the District to issue a formal change order granting
+some relief to the Appellant. (FF 71.) Thus, these basic facts alone are sufficient for the
+Appellant to be entitled to an equitable adjustment under the Changes Clause. See H.E. Johnson
+Co., ASBCA No. 48248, 97-1 BCA ¶ 28,921 (Oct. 9, 1996) (disruption to contractor’s sequence
+of work sufficient for entitlement to an equitable adjustment.)
+
+        Nonetheless, while the District concurs that there was an impact to Civil resulting from
+the Article 3 Change Order, to recover delay damages, Civil must demonstrate the extent of the
+delay and the causal link between the District’s actions and the extended delay period claimed by
+the contractor. Essex Electro Eng’rs, Inc. v. Danzig, 224 F.3d 1283, 1295 (Fed. Cir. 2000). In
+determining the length of the delay resulting from the two-block restriction, we are cognizant of
+the fact that the Appellant performed the entirety of the contract without an approved schedule.
+(FF 27.) The District argues that the absence of an approved schedule precludes the Appellant
+from recovery.39 (Dist. Post Hr’g Br. 17-18.)
+
+        Typically, to properly demonstrate delay on a project, a CPM schedule must be kept
+current and reflect delays as they occur. Preston-Bradley Co., VABAC Nos. 1892 et al., 87-1
+BCA 19,649 (Mar. 3, 1987). The critical path method is an efficient means of organizing and
+scheduling a complex project consisting of numerous but interrelated smaller projects. Haney v.
+United States, 676 F.2d 584, 595 (Ct. Cl. 1982). The subprojects are classified as to duration and
+order of precedence. Id. Items determined to be on the critical path are those that if not
+performed on schedule will delay the entire project. Id. Accordingly, determining the critical
+path is crucial because only work along the critical path has an impact on project completion.
+Fortec Constructors v. United States, 8 Cl. Ct. 490, 505 (1985) (quoting G.M. Shupe, Inc., 5 Cl.
+Ct. 662, 728 (1984)).
+
+
+39
+  In support of its argument, the District cites a clause in the contract requiring Civil to submit and regularly update
+a CPM schedule. (Dist. Post Hr’g Br. 18.)
+
+                                                        - 18 -
+                                                                                          Civil Construction, LLC
+                                                                             CAB Nos. D-1294, D-1413, and D-1417
+
+        While the Board recognizes that Civil did not maintain an up to date CPM schedule at
+any point during contract performance, this failure largely stemmed from the disagreement
+between the parties as to the impact of the two-block restriction. (See FF 19-26.) Without an
+approved baseline schedule reflecting the two-block restriction’s impact on the phasing for the
+project, we fail to see how Civil could have provided the updates that the District argues were
+necessary for Civil to support its claim. Accordingly, Civil’s inability to get an approved
+schedule does not automatically preclude its entitlement to compensatory delay damages,
+particularly where Civil’s expert presented the Board with a detailed CPM analysis through an
+expert report. See Fortec Constructors, 8 Cl. Ct. at 506.
+
+        In preparing this CPM analysis, the Appellant’s expert reviewed Civil’s original baseline
+schedule as well as as-built data. (FF 42.) His analysis took into account numerous categories of
+contemporaneous contract and performance documents to corroborate his findings. (FF 42.)
+Further, the expert’s analysis accounted for all delays to the project (critical and non-critical), not
+simply those caused by the District. (FF 44-51.) Accordingly, the Board finds that the
+Appellant’s expert presented credible evidence and testimony, as part of his CPM analysis, to
+explain many of the events that occurred during the performance of the contract that resulted in
+delays after the issuance of the May 19, 2005, Change Order. See SAE/Americon-Mid Atlantic,
+Inc. v. Gen. Servs. Admin., GSBCA Nos. 12,294 et al., 98-2 BCA ¶ 30,084 (Oct. 23, 1998) (“the
+device of comparing the as-built progress with the original planning is a worthy and time-
+honored method of identifying critical delays”); see also States Roofing Corp., ASBCA No.
+54,860, 10-1 BCA ¶ 34,356 (Jan. 12, 2010) (“A credible CPM time impact analysis should take
+into account all of the impacts to the project.”).
+
+        More strikingly, the District elicited no testimony from this expert on cross examination,
+or testimony from the District’s single witness, that contradicted or refuted any of the expert’s
+findings regarding the delay period that occurred, and the party that was responsible for the
+delay. The District’s sole witness, Contracting Officer Jerry Carter, was even unable to testify as
+to the basis for his conclusion that the Appellant should only be given a 90 day extension in
+connection with the performance impact arising from the Change Order. Consequently, based
+upon the Board’s review of the expert findings, as corroborated by the record in this case, we
+also find that Appellant is entitled to compensable delay damages beyond the 90 days granted by
+the District in the June 16, 2006, Contracting Officer’s Final Decision, as discussed further
+below.
+
+Actual Delay Days40
+
+         Both the Appellant’s Expert Report and the Alpha Report (prepared on behalf of the
+District prior to this litigation) treat the overall delay to the Appellant’s performance of the
+contract up until February 22, 2006, as resulting from the two-block restriction imposed by the
+Change Order. (FF 23, 44.) Pursuant to the District’s directive following its rescission of the
+two-block restriction, the Appellant submitted Revised Schedule #3 on March 7, 2006.
+However, as the expert determined based upon the as-built data, the contract was already delayed
+by 140 days at the time that Civil was told to submit this revised schedule in connection with the
+
+40
+  Though we use the term “delay” in discussing the time extension that the Appellant is entitled to, we reiterate that
+the Appellant’s entitlement derives from the Changes Clause.
+
+                                                       - 19 -
+                                                                             Civil Construction, LLC
+                                                                CAB Nos. D-1294, D-1413, and D-1417
+
+rescission of the two block restriction. (FF 44-45.) Therefore, as a preliminary matter, the
+Appellant attributes an initial 140 day delay to the District’s Change Order requirement.
+
+        As described herein, the District’s consultant issued the Alpha Report which rejected the
+Appellant’s Revised Schedule #3 and, alternatively, asserted that the project was only delayed by
+90 days, up until February 22, 2006, as the result of the Change Order. (FF 23.) This assessment
+by Alpha of only a 90 delay appears to be the basis for the formal change order granting Civil a
+90 day extension of time, and $204,000.00 in delay costs associated with the Change Order. (FF
+25, 33.) The District, however, provided no further testimony or evidence to support the
+conclusory statements in the Year 2006 Alpha Report, which appears to be the only basis for
+limiting Civil’s recovery for compensable delay days arising from the Change Order. Moreover,
+we find merit to the expert’s findings that the Alpha Report was flawed in that it did not adhere
+to Civil’s original sequencing of work in determining the extent of the delay caused by the two-
+block restriction. While the Appellant was to perform underground utility work prior to any
+street-level work under its original phasing plan, the Alpha Report scheduled utility and street-
+level work concurrently. (FF 4, 45.) The Appellant’s expert, on the other, reviewed the
+Appellant’s Revised Schedule #3 and established a projected, remaining schedule for the project
+which restored the original sequence of work activities. (See FF 45.) We, therefore, accept the
+Appellant’s contention that the contract was delayed 140 days by the District by the time it was
+asked to prepare a new schedule after the District rescinded the two-block restriction.
+
+       The Alpha Report also suggested that Civil may have concurrently delayed the project,
+but the District provided no further evidence or testimony at the hearing to support this claim.
+(Appellant’s Hr’g Ex. 17 at 182.) Because concurrent delay is in the nature of an affirmative
+defense, the District bears the burden of establishing a concurrent delay. MCI Constructors, Inc.,
+CAB No. D-924, 44 D.C. Reg. 6444, 6458 (June 4, 1996). The Alpha Report’s purely
+speculative suggestion regarding a contractor caused delay is insufficient to establish a
+concurrent delay defense. John Driggs Co., ENGBCA Nos. 4926 et al., 87-2 BCA ¶ 19,833
+(May 18, 1987).
+
+        In addition to the 140 days of delay caused by the District, and as discussed above, we
+also agree with the Appellant’s expert in attributing an additional 14 days of delay to the two-
+block restriction to reflect the period that the District prevented Civil from fully mobilizing on
+the project by first requiring that it develop and submit Revised Schedule #3 to the District after
+the two-block restriction was rescinded. (FF 46.) Despite the CO’s testimony to the contrary,
+(FF 71,) a plain reading of CO’s January 19, 2006, letter rescinding the two-block restriction
+shows that Civil was required to submit a revised schedule to the District before progressing
+forward with work on the 1700 block of F Street. (FF 18.) Civil submitted its revised schedule
+on March 7, 2006. (FF 19.) There is no allegation by the District that Civil unduly delayed in
+submitting its schedule.
+
+        The Appellant also claims 14 additional delay days due to adverse weather conditions
+that occurred during the extended period that Civil was required to work on the project because
+of District-caused delays. (FF 48, 50.) Where government-caused delays push a contractor into
+periods of adverse weather, the contractor may recover damages for such weather delays. J.D.
+Hedin Constr. Co. v. United States, 347 F.2d 235, 253-55 (Ct. Cl. 1965); DTC Engineers &
+Constructors, LLC, ASBCA No. 57,614, 12-1 BCA ¶ 34,967 (Mar. 9, 2012); Charles G.
+
+                                              - 20 -
+                                                                             Civil Construction, LLC
+                                                                CAB Nos. D-1294, D-1413, and D-1417
+
+Williams Constr., Inc., ASBCA No. 42,592, 92-1 BCA ¶ 24,635 (Dec. 9, 1991). We have
+already found that the two-block restriction delayed the F Street Project and pushed back the
+completion date until September 25, 2006. The Appellant presented evidence through its expert
+establishing that it was delayed for 11 days due to adverse weather between the original May 8,
+2006, completion date and the new projected completion date of September 25, 2006. (FF 48
+note 15.) These weather impacts were corroborated by the daily inspector report which were
+presented by the Appellant and made part of the record at trial.41 We, however, find that the
+expert’s opinion that the Appellant should be granted an additional 2 days of delay for weather
+because of the need to convert 4 individual weather impact days—May 15, 2006, June 12, 2006,
+and July 5-6, 2006—from workdays to calendar days is unfounded. The delay period in this
+matter is being calculated based upon calendar days and, thus, there is no basis for creating a
+distinction, and additional recovery, to the Appellant by creating an additional conversion based
+upon any of the 11 weather impact days which the Board has recognized herein as a District
+caused delay. We also find that the District’s Change Order is not the proximate cause of the
+November 8, 2006, weather delay as the Appellant offered no meaningful evidence that this was
+the case.
+
+         Additionally, we find that the Appellant is further entitled to an additional day of delay
+resulting from the July 10, 2006, switch from the north to the south side of F Street. The
+Appellant originally planned to complete all work on the north side before switching to the south
+side. (FF 4.) Due to the two-block restriction, on or about September 8, 2005, Civil shifted from
+the north to the south side between 23rd and 21st Streets. (FF 16.) But for the two-block
+restriction, the Appellant would not have incurred the additional July 10, 2006, delay day
+resulting from this switch.
+
+        In summary, the Board finds that the Appellant is entitled to 166 compensable days of
+delay resulting from the two-block restriction. We accept: (1) the Appellant’s attribution of 140
+days of delay, through February 22, 2006, to the District; (2) the additional 14 days of delay
+between February 22 and March 7, 2006, resulting from the schedule restriction on the Appellant
+prior to commencing work on the 1700 block of F Street; (3) 11 days for the Appellant’s claim of
+weather delay; and (4) the Appellant’s claim of 1 day of delay for the July 10, 2006, additional
+switch from the north to south side of F Street. The Board finds that these are the only delay
+days which the Appellant has proven are attributable to the actions of the District.
+
+Delay Damages
+
+       Equitable adjustments are corrective measures that serve to keep a contractor whole when
+the District modifies a contract. Perdomo & Assocs., Inc., CAB No. D-802, 41 D.C. Reg. 3898,
+3908 (Jan. 10, 1994); Grunley Constr., Inc., CAB No. D-910, 41 D.C. Reg. 3622, 3638 (Sept. 14,
+1993). An equitable adjustment should reflect “the difference between what it would have
+reasonably cost to perform the work as originally required and what it reasonably cost to perform
+the work as changed.” District of Columbia v. Org. for Envtl. Growth, Inc., 700 A.2d 185, 203
+(D.C. 1997); Gilbane-Smoot/Joint Venture, CAB No. D-885, 40 D.C. Reg. 4954, 4983 (Feb. 18,
+1993). The Board has held that this requires that the contractor’s costs be reasonable; however,
+the standard of reasonable costs must be viewed in light of the particular contractor’s costs.
+
+41
+     See Appellant’s Hr’g Ex. 24 at 253-61.
+
+                                              - 21 -
+                                                                              Civil Construction, LLC
+                                                                 CAB Nos. D-1294, D-1413, and D-1417
+
+Grunley Constr., Inc., CAB No. D-910, 41 D.C. Reg. at 3639. The party claiming entitlement to
+an equitable adjustment has the burden of proving the amount to which it is entitled. Org. for
+Envtl. Growth, 700 A.2d at 203; Reliable Contracting Grp., LLC v. Dep’t of Veterans Affairs,
+CBCA No. 1539, 11-2 BCA ¶ 34,882 (Nov. 16, 2011). The party must prove the amount with
+sufficient certainty such that the determination of the amount will be more than mere
+speculation. Reliable Contracting, CBCA No. 1539, 11-2 BCA ¶ 34,882. While the proof of
+damages need not be exact, some convincing, reasonable basis must be advanced. Twigg Corp.
+v. Gen. Servs. Admin., GSBCA Nos. 14,386 et al., 00-1 BCA ¶ 30,772 (Feb. 11, 2000).
+
+       The preferred method of establishing the amount of an adjustment is through the
+submission of actual costs. Org. for Envtl. Growth, 700 A.2d at 203; Perdomo & Assocs., CAB
+No. D-802, 41 D.C. Reg. at 3908. However, where the contractor does not accumulate actual
+cost data and the actual costs attributable to a change cannot be reasonably identified, the
+contractor may use estimates to quantify its increased costs. Perdomo & Assocs., CAB No. D-
+802, 41 D.C. Reg. at 3908; Reliable Contracting, CBCA No. 1539, 11-2 BCA ¶ 34,882; Envtl.
+Safety Consultants, Inc., ASBCA No. 53,485, 05-1 BCA ¶ 32,903 (Mar. 8, 2005). The
+Appellant’s Amended Complaint lists 6 areas of costs. (FF 40.) We address each ad seriatim.
+
+   a. Labor
+
+        As discussed herein, the Appellant’s expert report and testimony established the ongoing
+impact resulting from the two-block restriction mandated by the May 19, 2005, Change Order.
+These facts were also corroborated by the testimony of the Appellant’s witnesses, Steve Salehi
+and John Constantino. In totality, the facts confirm for the Board that the District imposed the
+two-block restriction at the very start of the performance period. (FF 7-9.) The Change Order
+did not change the work to be done, but it altered the way that Civil was allowed to perform the
+required work. (FF 3, 5-6, 9, 11.) Rather than working on 6 blocks concurrently as planned, the
+two-block restriction added inefficiencies resulting in multiple additional demobilizations. (FF
+6, 11.) The expert’s report explains that the general difficulty in establishing actual labor costs
+for this project arises when attempting to determine whether specific periods of labor should be
+viewed as deriving from the original contract work or from the two-block restriction. (FF 53.)
+In this regard, the expert report provided several reasons why Civil was unable to calculate its
+actual labor costs arising from the two-block restriction, largely due to inefficiencies in the
+manner in which work was performed because of the Change Order requirements. (Appellant’s
+Expert Report 20.)
+
+        In light of the lack of information on actual labor costs incurred on the project, the
+Appellant’s expert prepared an estimate of the increased labor costs resulting from the delay
+period. (FF 53-54.) The Appellant’s expert derived the estimate by taking the total as-bid labor
+costs divided by 350 days to arrive at a daily rate, which he then multiplied by the number of
+delay days that the expert found that the Appellant had incurred due to the actions of the District.
+(FF 54.) The Board has previously held that the computation of daily rates is a recognized
+measure of direct costs where it is impractical to derive actual cost data. MCI Constructors,
+CAB No. D-924, 44 D.C. Reg. at 6462-64.
+
+       The Board finds that the formula which the expert applied in this case to derive an
+appropriate daily labor rate was acceptable given the lack of actual cost data related to additional
+
+                                               - 22 -
+                                                                                         Civil Construction, LLC
+                                                                            CAB Nos. D-1294, D-1413, and D-1417
+
+labor hours incurred by the Appellant as a result of the two-block restriction. However, the
+Board finds that the expert’s use of 350 days instead of 365 days as the originally planned
+contract performance period is an inaccurate baseline for the formula. In this regard, we find that
+utilizing the full original contract term is a fairer measure of the Appellant’s costs. Using the
+365 days originally allotted for Civil’s contract performance, we derive a burdened labor daily
+rate of $1,938.57,42 which should be multiplied by the compensable delay period (166 days)
+caused by the District to calculate the additional, and total, labor compensation to which Civil is
+entitled to recover from the District. Accordingly, the District shall compensate the Appellant
+$321,802.62 for additional labor costs incurred by the Appellant due to the Change Order.
+
+     b. Equipment
+
+        Similarly, based upon the delays caused by the District on this project, the expert derived
+a daily rate for the Appellant’s equipment costs by using Civil’s as-bid daily equipment rate
+costs as a baseline for this methodology. A contractor is entitled to recover additional equipment
+costs incurred in performing work for an additional period beyond what it would have had to
+perform but for a government-caused delay. MCI Constructors, CAB No. D-924, 44 D.C. Reg.
+at 6464. The Appellant’s expert estimated its daily equipment rate to be $1,141.72 for the delay
+period by using Civil’s as-bid daily equipment rate as the baseline for this calculation, but then
+adjusting that rate to account for time during which the project equipment would be in use or
+idle. (FF 56.)
+
+        In the case of the Appellant’s project equipment, however, the Appellant introduced
+evidence at the hearing that showed the actual equipment costs that it incurred for the project.
+Specifically, the Appellant’s own cost accounting data shows that throughout the project Civil
+incurred $591,499.00 in equipment costs and its Project Superintendent testified at the hearing
+that these were, in fact, its actual equipment costs. (FF 57.) As noted above, the actual cost
+method is the preferred method of proving the amount of an adjustment. Org. for Envtl. Growth,
+700 A.2d at 203. The actual cost method provides the Board with a contractor’s documented
+expenses and therefore ensures that the amount of an adjustment is equitable and not a windfall
+for the contractor or government. Advanced Eng’g & Planning Corp., ASBCA Nos. 53366,
+54044, 05-1 BCA ¶ 32,806 (Nov. 19, 2004) (citing Dawco Constr., Inc. v. United States, 930
+F.2d 872, 882 (Fed. Cir. 1991)). While using estimates is an acceptable method, estimates are
+generally only accepted in the absence of actual cost data. Bergman Constr. Corp., ASBCA No.
+15,020, 72-1 BCA ¶ 9411 (Apr. 13, 1972) (“[E]stimates are a preferred method of pricing
+equitable adjustments only where actual costs are not available.”); see also Reliable Contracting,
+CBCA No. 1539, 11-2 BCA ¶ 34,882 (noting that “evidence of actual costs is more compelling
+proof of damages” than estimated costs). Accordingly, actual costs should be used where
+available. See Advanced Eng’g & Planning Corp., ASBCA Nos. 53366, 54044, 05-1 BCA ¶
+32,806 (accepting the contractor’s estimate for a portion of its claim, but using actual cost rates
+derived from a DCAA audit where such rates were provided); see also Bergman Constr. Corp.,
+ASBCA No. 15,020, 72-1 BCA ¶ 9411 (rejecting both contractor and government estimates
+where the estimates did not conform to the available actual cost data).
+
+
+42
+  We arrived at this figure by dividing the $707,576.86 in as-bid labor costs (see supra note 24) by the original 365
+day duration of the project.
+
+                                                       - 23 -
+                                                                              Civil Construction, LLC
+                                                                 CAB Nos. D-1294, D-1413, and D-1417
+
+       Because actual cost data is available to establish the Appellant’s actual equipment costs,
+we reject its alternative methodology for determining a daily equipment rate based upon the
+Appellant’s as-bid equipment rate. We believe that the actual cost rate is the proper measure in
+determining Civil’s increased equipment costs over the delay period. Consequently, in order to
+derive the most accurate equipment daily rate, the Appellant’s total equipment costs
+($591,499.00) must be divided by the entire 591 day duration of the project, which establishes
+that Civil incurred a daily equipment cost rate of $1,000.84 for the delay period of the contract.
+Therefore, the Appellant is entitled to recover from the District its equipment costs that it
+incurred based upon the foregoing equipment rate of $1,000.84 as multiplied by the delay period
+(166 calendar days) caused by the District on this project. As a result, the District shall
+compensate the Appellant in the amount of $166,139.44 for these additional equipment costs,
+which the District caused the Appellant to incur due to the Change Order.
+
+   c. Scheduling
+
+        The Appellant is not entitled to any additional compensation arising from scheduling
+costs. The Appellant originally planned on submitting 12 schedules to the District at a cost of
+$450.00.00 per schedule, or $5,400.00 total. (FF 59.) This function appears to have been
+satisfied by the Appellant’s subcontractor Contractors Engineering Services, which submitted 12
+invoices for scheduling services concurrent with Civil’s contract performance at a cost of
+$6,790.00. (FF 58.) The fact that the Appellant may have underestimated its scheduling costs,
+by not accounting for typical contract changes, cannot be a basis for shifting the resulting loss to
+the District. See Org. for Envtl. Growth, 700 A.2d at 203.
+
+        Additionally, the Appellant has not shown that the scheduling services provided by
+McDonough Boyland Peck were required under the contract. Rather it appears that McDonough
+was retained in order to prosecute the present appeals. McDonough was not retained until
+August 2006, well into Civil’s performance under the F Street contract and after the CO’s final
+decision. (FF 58.) The first invoice was for $10,000.00, a sum substantially greater than the
+total amount charged by Contractors Engineering Services. (FF 58.) Moreover, McDonough
+employs the Appellant’s expert. (FF 58.) Professional fees incurred in prosecuting an appeal
+from a contracting officer’s final decision are not allowable costs. See MCI Constructors, CAB
+No. D-924, 44 D.C. Reg. at 6469. Therefore, the Board determines that Civil may not recover
+for services provided by McDonough Boyland Peck in prosecuting these appeals.
+
+   d. Field Overhead
+
+        Field overhead costs, also referred to a jobsite overhead or general conditions costs, are
+direct costs that can be attributed to the performance of a specific contract. AMEC Constr.
+Mgmt., Inc. v. Gen. Servs. Admin., GSBCA No. 16,233, 06-1 BCA ¶ 33,177 (Jan. 24, 2006);
+Young Enters. of Ga., Inc. v. Gen. Servs. Admin., GSBCA No. 14,437, 00-2 BCA ¶ 31,148 (Oct.
+19, 2000). We have stated that one way to measure such costs is to divide the total general
+conditions costs incurred on a project by the total number of days on the project in order to
+derive a daily rate, and then multiply the number of compensable days by the daily rate. MCI
+Constructors, CAB No. D-924, 44 D.C. Reg. at 6464. Using this approach, the Appellant’s
+expert determined that the Appellant was entitled to recover at a daily rate of $1,307.49. (FF
+
+
+                                               - 24 -
+                                                                                           Civil Construction, LLC
+                                                                              CAB Nos. D-1294, D-1413, and D-1417
+
+61.) The Board, however, finds that a portion of the Appellant’s claim field overhead costs are
+unsubstantiated and, therefore, do not support recovery at the foregoing daily rate.
+
+        The Appellant’s expert, in calculating the field overhead rate, found that Civil had
+incurred a total of $43,371.41 including field office rent cost ($31,959) and field office supplies
+and phone costs ($11,412.41) for a total field office overhead cost of $43,371.41. (FF 61 note
+26.) Notwithstanding, the actual company back-up cost data provided by Civil, and relied upon
+by the expert, to support these field office overhead costs total an amount higher than what the
+expert included in the expert report for these same costs items ($44,165.50). (FF 62.) The
+expert acknowledged this cost discrepancy between his expert report and Civil’s internal back-up
+data, but never explained or reconciled these differing costs so that his report could be fully
+substantiated on this issue at the hearing:
+
+         And if I look at Page 3 of the Job Cost Detailed Transaction Report, the total
+         shows $44,165.50 which is a little bit more than the $43,371.41 shown in my
+         report. So, presumably there are things in here that were not included in my
+         calculation.
+
+(Hr’g Tr. 475:12-17)
+
+Thus, given the Appellant’s failure to clarify the discrepancy between its internal cost records
+and the ultimate amount set forth in the expert report for its field office overhead costs in the
+amount of $43,371.41, the Appellant failed to meet its burden of showing the accuracy of these
+particular costs, which it allegedly incurred.
+
+          In order to substantiate its extended field overhead costs, the Appellant also provided the
+Board with evidence of the payroll costs for project supervision which it incurred for the F Street
+Project in the amount of $580,457.60, as well as its costs for a field safety officer in the amount
+of $27,338.11. (FF 62.) The Appellant’s Chief Financial Officer provided extensive testimony
+to explain the basis for these payroll calculations and the total of $607,795.71, which it incurred
+in field safety officer and field supervision costs, which the Board accepts as valid.43 (FF 62.)
+The Board, however, finds that the 20 percent markup, which the Appellant’s expert applied to
+these field safety officer and supervision costs is unallowable as it would improperly result in
+double recovery to the Appellant based upon the separate overhead recovery being granted to the
+Appellant below. Dividing the $607,795.71 in field supervision costs by the 591 days of total
+duration of the F Street Project, we find that the Appellant is entitled to recover from the District
+its field overhead costs at a daily rate of $1,028.42, which should be multiplied by the 166 days
+attributable to the District to calculate the total field overhead costs, for which the Appellant is
+entitled to be compensated by the District. Consequently, the District shall compensate the
+Appellant in the amount of $170,717.72 for these additional field overhead costs, which the
+District caused the Appellant to incur due to the Change Order.
+
+
+43
+   While the Appellant did not formally introduce its payroll summary document (Appellant’s Hr’g Ex. 35) into
+evidence at the hearing, it was clearly its intention to do so. Moreover, prior to allowing Appellant’s Chief Financial
+Officer to testify regarding the substance of this document, the Board heard and overruled the District’s objections
+to this document being introduced and relied upon by the Appellant at the hearing for purposes of meeting its burden
+of proof. (Hr’g Tr. 310:17-322:19) For these reasons, the Board hereby admits the document into the record.
+
+                                                        - 25 -
+                                                                              Civil Construction, LLC
+                                                                 CAB Nos. D-1294, D-1413, and D-1417
+
+   e. Extended Home Office Overhead
+
+       1. The Notice Requirement of the Changes Clause Does Not Preclude the Appellant
+          from Recovering Extended Home Office Overhead
+
+        The Appellant’s claims in D-1413 and D-1417 seek recovery of its home office overhead
+costs during the extended performance period. (FF 37-38.) The District argues that the
+Appellant should be barred from recovery because the claims were submitted more than 5 years
+after the May 19, 2005, Change Order was issued and therefore the Appellant violated the notice
+requirement of the changes clause. (Dist. Post Hr’g Br. 19-20.)
+
+        It is well settled in government contract law that notice provisions are read liberally and
+will not bar a contractor’s claim unless the government is prejudiced by the late notice. See, e.g.,
+Walsh/Davis Joint Venture v. Gen. Servs. Admin., CBCA No. 1460, 11-1 BCA ¶ 34,737 (Apr.
+11, 2011); Flathead Contractors, LLC, AGBCA Nos. 2005-130-1, 2005-131-1, 06-1 BCA ¶
+33,174 (Jan. 18, 2006); Grumman Aerospace Corp., ASBCA Nos. 48,006 et al., 03-1 BCA ¶
+32,203 (Mar. 14, 2003); Powers Regulatory Co., GSBCA Nos. 4468 et al., 80-2 BCA ¶ 14,463
+(Apr. 30, 1980). The government bears the burden of establishing that it was prejudiced; this
+burden cannot be met by mere allegation but must be supported by evidence in the record.
+Grumman Aerospace, ASBCA Nos. 48,006 et al., 03-1 BCA ¶ 32,203; see also Walsh/Davis,
+CBCA No. 1460, 11-1 BCA ¶ 34,737 (“the claim will be heard unless the Government can prove
+it was prejudiced by the late notice”); Big Chief Drilling Co. v. United States, 15 Cl. Ct. 295, 303
+(1988) (“the government has the burden of proving that the untimeliness caused prejudice to its
+case”). This Board has adopted this federal standard regarding the interpretation of notice
+requirements. Org. for Envtl. Growth, CAB No. D-850, 49 D.C. Reg. 3353, 3354 (Apr. 13,
+2001), rev’d on other grounds, 806 A.2d 1225 (D.C. 2002).
+
+        In the seminal case of Hoel-Steffen Construction Co. v. United States, the Court of
+Claims stated that to adopt a “severe and narrow application of the notice requirements … would
+be out of tune with the language and purpose of the notice provisions, as well as [a] concern that
+notice provisions … not be applied too technically and illiberally where the Government is quite
+aware of the operative facts.” 456 F.2d 760, 767-68 (1972). Accordingly, the government can
+be placed on notice where the contracting officer has actual or imputed knowledge of the
+pertinent facts. See CATH-dr/Balti Joint Venture, ASBCA Nos. 53,581, 54,239, 05-2 BCA ¶
+33,046 (Aug. 17, 2005); A.R. Mack Constr. Co., ASBCA No. 50,035, 01-2 BCA ¶ 31,593 (Sept.
+18, 2001).
+
+         The Board finds that the District was on notice of the Appellant’s claims in two ways.
+First, soon after the Appellant had placed concrete barriers along the entire six blocks of the F
+Street Project, the neighboring community began objecting to the anticipated disruption the
+construction would cause. (FF 8-9.) In response to the complaints, the CO imposed the two-
+block restriction, specifically citing the Changes Clause. (FF 9.) Therefore, the District knew
+(or at least should have known) that it was altering the Appellant’s sequence of work, which
+could give rise to a claim. Indeed, within five days of the CO’s imposition of the two-block
+restriction, the Appellant furnished the CO with written notice that the change would materially
+alter the nature of the project and drastically increase costs and requested a formal change order
+to reflect the additional costs. (FF 10.) This notice was followed by a July 15, 2005, estimate of
+
+                                               - 26 -
+                                                                                      Civil Construction, LLC
+                                                                         CAB Nos. D-1294, D-1413, and D-1417
+
+costs arising from the two-block restriction, in which the Appellant estimated that direct costs
+would increase by $2,375,275.18. (FF 12-13.) Though the Appellant stated that extended home
+office costs were not included in the estimate, (FF 13,) the Appellant did not waive its right to
+recover those costs.
+
+        Further, assuming arguendo that the Appellant was required to specifically notify the
+District that it was seeking extended home office overhead costs, the District has not alleged,
+much less shown, any prejudice. In the formal modification issued three days after his final
+decision, the CO stated that the $204,000.00 in additional compensation included unabsorbed
+home office costs. (FF 34.) At the hearing, the CO reiterated that the $204,000.00 he awarded
+to the Appellant included extended overhead costs. (FF 72.) Absent any prejudice to the
+District, the Appellant is not precluded from asserting its claims for extended overhead costs in
+this action.
+
+        2. The Eichleay Formula is Not the Appropriate Method of Determining the Appellant’s
+           Recoverable Extended Overhead Costs
+
+       The Appellant seeks to recover its unabsorbed home office overhead costs for the
+extended project period pursuant to the Eichleay formula. (FF 37-38, 63.) The Eichleay formula
+was first introduced by the Armed Services Board of Contract Appeals in Eichleay Corp.,
+ASBCA No. 5,183, 60-2 BCA ¶ 2,688 (July 29, 1960). The Eichleay formula allocates overhead
+costs “pro-rata because they cannot ordinarily be charged to a particular contract.” Wickham
+Contracting Co. v. Fischer, 12 F.3d 1574, 1579 (Fed. Cir. 1994) (citing Eichleay Corp., ASBCA
+No. 5,183, 60-2 BCA ¶ 2,688) (quotation marks omitted). Use of the Eichleay formula is
+appropriate where a government caused-delay has “reduced the stream of direct costs in a
+contract.” C.B.C. Enters., Inc. v. United States, 978 F.2d 669, 674 (Fed. Cir. 1992).
+
+        However, the Eichleay formula does not automatically apply to all claims for unabsorbed
+or extended home office overhead costs. Rather, both the Board and the Federal Circuit have
+held that a contractor must satisfy certain prerequisites before the Eichleay formula may be
+applied. See, e.g., MCI Constructors, Inc., CAB No. D-924, 44 D.C. Reg. 6444; Melka Marine,
+Inc. v. United States, 187 F.3d 1370 (Fed. Cir. 1999); P.J. Dick, Inc. v. Principi, 324 F.3d 1364
+(Fed. Cir. 2003). For example, in MCI Constructors, the Board held that in order to justify using
+the Eichleay formula for calculating its daily rate of unabsorbed home office expenses, a
+contractor must show that: “(1) the government has caused a compensable delay or suspension;
+(2) the delay or suspension interrupts or reduces the stream of income from payments for
+contract direct costs; and (3) it was unable to absorb a fair share of its home office overhead
+costs during the delay or suspension period.”44 MCI Constructors, CAB No. D-924, 44 D.C.
+Reg. 6444 at 6456. Similarly, the Federal Circuit has held that calculating extended home office
+overhead costs using a daily rate, pursuant to the Eichleay formula, is an “extraordinary remedy
+which is specifically limited to contracts affected by government caused suspensions, disruptions
+and delays of work.” C.B.C. Enters., 978 F.2d at 675.
+
+
+44
+   The Board notes, however, that, in the past, it has not consistently analyzed whether the above (or similar
+elements) have been met before applying the Eichleay formula to calculate a contractor’s unabsorbed home office
+costs. See, e.g., Prince Constr. Co., Inc., CAB No. D-1127, 50 D.C. Reg. 7498 (May 12, 2003); A.A. Beiro Constr.
+Co., CAB No. D-822, 50 D.C. Reg. 7349 (Jan. 3, 2002).
+
+                                                     - 27 -
+                                                                                       Civil Construction, LLC
+                                                                          CAB Nos. D-1294, D-1413, and D-1417
+
+        In the years since MCI Constructors, the Federal Circuit has held that, “before using the
+Eichleay formula to quantify damages,” the contractor must meet three prerequisites.45 Nicon,
+Inc. v. United States, 331 F.3d 878, 883 (Fed. Cir. 2003) (emphasis added). First, the contractor
+must show that there was a government-caused delay of uncertain duration. Id.; Melka Marine,
+187 F.3d at 1375. Second, the contractor must also show that the delay extended the time of
+performance (or alternatively that it incurred additional costs because it would have completed
+its performance earlier). P.J. Dick, 324 F.3d at 1370. Third, the contractor must show that it
+was required to remain on standby, and thus unable to take on additional work to mitigate
+damages. Melka Marine, 187 F.3d at 1375; Interstate Gen. Gov’t Contractors, Inc. v. West, 12
+F.3d 1053, 1056 (Fed. Cir. 1993). Where the contractor makes a prima facie showing that it
+meets these prerequisites the burden of production shifts to the government to show that “it was
+not impractical for the contractor to take on replacement work.” P.J. Dick, 324 F.3d at 1370;
+Melka Marine, 187 F.2d at 1375.
+
+        Although neither party questions the propriety of using the Eichleay formula, the Board
+finds it inappropriate to use the Eichleay formula to calculate the Appellant’s recoverable
+overhead costs. Specifically, the Appellant fails to meet the third prerequisite for using the
+Eichleay formula—that is, the standby prong. The Federal Circuit has stated that the standby
+prong, properly understood, focuses on “suspension of work on the contract.” Interstate Gen.,
+12 F.3d at 1057. Here, the record shows that while work was delayed due to the Change Order,
+it does not show that the Appellant was forced to suspend performance.46 In addition, the
+Appellant has not alleged that it was required to standby for any indefinite extended period of
+time as a result of the District’s May 19, 2005, Change Order. Rather, the Appellant asserts that
+at no point did it stop work on the contract. (FF 27.) When a contractor continues to perform a
+substantial amount of work on a contract, the contractor is not on standby and use of the Eichleay
+formula is improper. P.J. Dick, 324 F.3d at 1373-74. Accordingly, use of the Eichleay formula
+here is inappropriate.
+
+       The Eichleay formula is simply a method of allocating overhead costs and is not a matter
+of legal entitlement. Nicon, 331 F.3d at 889 (Newman, J., concurring); see also id. at 883
+(discussing the use of the Eichleay formula to quantify damages). Where a contractor meets the
+Eichleay prerequisites, the Eichleay formula is the exclusive method for calculating extended
+home office overhead costs.47 Young Enters., GSBCA No. 14,437, 00-2 BCA ¶ 31,148 (citing
+Melka Marine, 187 F.3d. at 1374-75; Wickham Contracting, 12 F.3d at 1574). But, where
+contract changes do not require a contractor to suspend work, the contractor may recover a fixed
+percentage markup of direct costs incurred. Cmty. Heating & Plumbing Co. v. Kelso, 987 F.2d
+1575, 1581-82 (Fed. Cir. 1993).
+45
+   This number has varied somewhat between cases, though there is broad agreement as to the particulars. For
+example, P.J. Dick, supra, expands the three elements to four, while Melka Marine, supra, compresses the analysis
+to a mere two elements.
+46
+   On the contrary, Appellant worked on duct banks for both GWU and GSA concurrently with portions of the F
+Street Project. (FF 28-29)
+47
+   The language of some Federal Circuit decisions suggests greater exclusivity in using the Eichleay formula. See,
+e.g., Melka Marine, 187 F.3d at 1374-75 (“The Eichleay formula is the only means approved in our case law for
+calculating recovery of unabsorbed home office overhead.”); Wickham Contracting., 12 F.3d at 1575 (the Eichleay
+formula “is the only proper method of calculating unabsorbed home office overhead. No other formula may be
+used.”). We note, however, that this language is to be read “in light of the factual context in which they arose.”
+Nicon, 331 F.3d at 884.
+
+                                                      - 28 -
+                                                                                       Civil Construction, LLC
+                                                                          CAB Nos. D-1294, D-1413, and D-1417
+
+        While we have used the term “delay” as a term of convenience throughout this opinion,
+the Appellant’s entitlement to additional costs derives from the Changes Clause of the contract;
+and our granting the Appellant an additional 166 days is a pure contract extension. With regard
+to pure contract extensions, use of a percentage markup to calculate recoverable overhead costs
+is appropriate.48, 49 See Cmty. Heating & Plumbing, 987 F.2d at 1582; Program & Constr.
+Mgmt. Grp., Inc. v. Gen. Servs. Admin., GSBCA No. 14,149, 99-2 BCA ¶ 30,579 (Sept. 30,
+1999) (citing C.B.C. Enters., 978 F.2d 669), aff’d on reconsideration, 00-1 BCA ¶ 30,771 (Jan.
+27, 2000). Therefore, we grant the Appellant’s entitlement to also recover a reasonable
+percentage markup on its direct costs, as recoverable overhead, and remand the issue of quantum
+for these overhead costs to the parties to negotiate a reasonable fixed percentage markup formula
+according to which the Appellant shall be compensated by the District.
+
+          Subcontractor Claims
+
+        1. Central Armature Works Has Failed to Demonstrate Its Claimed Costs
+
+        The Appellant has failed to prove the amount to which it is entitled in regard to the
+Appellant’s claim on behalf of Central Armature. The Appellant seeks $15,696.85 in recovery,
+which is a downward adjustment from $19,215.11, consistent with Appellant’s days of delay.
+(FF 64.) This $19,215.11 figure is, in turn, a downward adjustment from Central Armature’s
+original $101,582.00 July 6, 2005, estimate. (FF 65.) During its testimony, Central Armature
+was unable to provide the Board with details on how any of these amounts were calculated or
+what cost factors were included in these calculations. For this reason, the Board finds that the
+Appellant’s claim for costs on behalf of Central Armature are unsubstantiated and cannot be a
+basis for recovery in this matter.
+
+        2. The District is Not the Cause of Fort Myer’s Claimed Costs.
+
+        With regard to the Appellant’s claim on behalf of Fort Myers, the Board notes that the
+Appellant did not enter into its subcontract with Fort Myer until August 12, 2005, almost three
+months after the District’s May 19, 2005, Change Order, yet it did not incorporate the Change
+Order into this subcontract. (FF 15.) Information pertaining to the Change Order was available
+to Fort Myer before it executed its subcontract agreement with the Appellant so as to put it on
+notice that the Contract had been modified to include a two-block restriction on construction
+work. Nonetheless, Fort Myer’s inexplicably appears to have negotiated subcontractor rates with
+the Appellant based upon a minimal number of mobilizations and demobilizations that obviously
+did not account for the Change Order that was issued by the District several months earlier.
+
+48
+   In at least one previous decision, the Board has allowed a contractor to recover overhead costs of 10%, using a
+fixed percentage markup of direct costs. See A.A. Beiro Constr. Co., Inc. CAB No. D-822, 40 D.C. Reg. 4574 (Oct.
+15, 1992) (granting appellant a 10% fixed markup for overhead). Similarly, the ASBCA has allowed home office
+overhead costs ranging from 5.87 to 12.3%. See, e.g., Fru-Con Constr. Corp., ASBCA No. 55197, 07-2 BCA ¶
+33,197 (October 4, 2007) (upholding a home office overhead rate of 5.87% as reasonable on appeal); C.E.R., Inc.,
+ASBCA No. 41767, 96-1 BCA ¶ 28,029 (October 30, 1995) (finding that a 10% fixed overhead markup was more
+appropriate for calculating extended overhead costs than the Eichleay formula); Haskell Corp., ASBCA Nos. 54262,
+54263, 06-2 BCA ¶ 33,422 (October 19, 2006) (granting home office costs of 12.3%).
+49
+   Here, the Appellant’s requested Eichleay overhead costs of $205,523.58 represent approximately 19.9% of
+Appellant’s total requested adjustment of $1,033,014.61. (FF 40.) However, the addition of $205,523.58 in home
+office overhead to the $658,659.78 already granted by the Board would represent a markup of approximately 31.2%.
+
+                                                      - 29 -
+                                                                            Civil Construction, LLC
+                                                               CAB Nos. D-1294, D-1413, and D-1417
+
+Thus, the Board finds that it was the failure of Fort Myer and the Appellant to negotiate and
+execute a subcontract based upon the revised contract terms that resulted in any alleged
+additional costs claimed by Fort Myer from additional mobilizations/demobilizations as opposed
+to the actions of the District in issuing the Change Order.
+
+         Additionally, the Board denies Fort Myer’s claim because Fort Myer failed to prove its
+costs. Fort Myer provided unit pricing for its subcontract, which incorporated the costs of
+mobilizations. (FF 15.) However, Fort Myer’s August 23, 2007, Request for Equitable
+Adjustment sought to recover the costs for additional mobilizations, as well as other costs. (FF
+36, 67-68.) At the hearing, Fort Myer attempted to substantially increase its costs through
+calculations performed on the witness stand, purportedly on the basis of newly audited costs.
+(FF 69-70.) However, Fort Myer did not provide the detailed underlying cost data to sufficiently
+verify its most current estimates, nor did Fort Myer provide testimony to prove the accuracy of
+its allegedly audited costs to meet its burden of proof. Accordingly, we deny Fort Myer’s claim.
+
+                                        CONCLUSION
+
+        The record in this matter unequivocally establishes that, at the outset of the F Street
+Project, the District issued a Change Order that significantly altered the manner and sequence in
+which the Appellant was able to perform the contract work, as compared to the original contract
+requirements. The District’s Change Order delayed the project by 166 days. The Change Order
+also caused damages to the Appellant beyond what the District had previously granted and paid
+to the Appellant in connection with the Change Order. Consequently, the District is hereby
+ordered to compensate the Appellant in the amount of $658,659.78 for Appellant’s additional
+labor, equipment, and field overhead costs. This amount shall be used as the basis for the
+parties’ negotiation of Appellant’s extended home office overhead costs, which shall be
+calculated as a reasonable percentage markup to the above amount. The District may then
+deduct any damage amount previously paid to the Appellant in connection with the Change
+Order in calculating the remaining damage amount still owed to the Appellant pursuant to this
+Order. The District shall also pay the Appellant interest, in accordance with D.C. CODE § 2-
+359.09 (2011) (formerly D.C. CODE § 2-308.06), on any outstanding amounts required to be paid
+to the Appellant in connection with this award of damages by the Board.
+
+
+SO ORDERED.
+
+DATED: March 14, 2013                                      /s/ Monica C. Parchment
+                                                           MONICA C. PARCHMENT
+                                                           Administrative Judge
+
+
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.                                      /s/Maxine E. McBean _
+MARC D. LOUD, SR.                                          MAXINE E. MCBEAN
+Chief Administrative Judge                                 Administrative Judge
+
+                                              - 30 -
+                                                               Civil Construction, LLC
+                                                  CAB Nos. D-1294, D-1413, and D-1417
+
+
+
+
+Electronic Service:
+
+Robert A. Klimek Jr., Esq.
+Leonard C. Bennett, Esq.
+Klimek & Casale, P.C.
+1455 Pennsylvania Ave, N.W., Suite 400
+Washington, D.C. 20004
+
+Brett A. Baer, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 6th Floor South
+Washington, D.C. 20001
+
+
+
+
+                                         - 31 -
+

@@ -1,0 +1,269 @@
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+CAPITOL PAVING OF D.C., INC.                            )
+                                                        )       CAB No. P-0736
+Under RFP No. POKA-2005-B-0015-LS                       )
+
+
+       For the Protester: Douglas A. Datt, Esq. For the District of Columbia Government: Howard
+Schwartz, Esq., Senior Assistant Attorney General, and Jennifer L. Longmeyer-Wood, Esq., Assistant
+Attorney General. For Fort Myer Construction Corp.: Christopher M. Kerns, Esq.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                                OPINION
+                                       LexisNexis Filing ID 12616269
+
+        Capitol Paving of D.C., Inc., has protested the District’s award of an alley rehabilitation contract
+to Fort Myer Construction Corporation, arguing that the contracting officer should not have assigned to
+Fort Myer during bid evaluation a 10 percent bid preference as a “longtime resident business” (“LRB”)
+– a new form of preference instituted pursuant to the recently enacted Small, Local, and Disadvantaged
+Business Enterprise Development and Assistance Act of 2005, D.C. Law 16-33 (“SLDBEDA Act”).
+Capitol Paving attacks the validity of the LRB certification on a number of bases, including that the
+Small, Local Business Opportunity Commission (“SLBOC”) incorrectly certified Fort Myer as a LRB,
+that no certifications could be made in the absence of implementing regulations, that LRB certification
+cannot be made to anyone until the year 2012, and that Fort Myer has not shown 20 years of eligibility
+for local business enterprise status as a prerequisite to LRB certification. Because the record shows that
+SLBOC certified Fort Myer as a LRB, and we defer to SLBOC’s interpretation of the SLDBEDA Act,
+we conclude that Capitol Paving has not shown that the contracting officer’s reliance on that
+certification violated law, regulation, or the terms of the solicitation. Accordingly, we deny the protest.
+
+                                            BACKGROUND
+
+        On March 3, 2006, the Office of Contracting and Procurement (“OCP”) issued Solicitation No.
+POKA-2005-B-0015-LS on behalf of the District’s Department of Transportation (“DDOT”) to seek a
+contractor to rehabilitate alleys at various locations throughout the District. Nine amendments were
+issued, and the bid opening date was extended from April 5, 2006, to May 26, 2006.
+
+       Solicitation Section M, entitled “Evaluation Factors”, contains the following relevant
+provisions:
+
+        M.1.1 Preferences for Local Businesses, Disadvantaged Businesses, Resident-owned
+        Businesses, Small Businesses, Longtime Resident Businesses, Longtime Resident
+        Businesses, or Local Businesses with Principal Offices Located in an Enterprise Zone
+                                             -2-                           Capitol Paving, CAB No. P-0736
+
+
+
+
+       Under the provisions of the “Small, Local, and Disadvantaged Business Enterprise
+       Development and Assistance Act of 2005”, D.C. Law 16-33, effective October 20,
+       2005, the District shall apply preferences in evaluating bids or proposals from
+       businesses that are small, local, disadvantaged, resident-owned, longtime resident, or
+       local with a principal office located in an enterprise zone of the District of Columbia.
+
+       M.1 General Preferences
+
+       For evaluation purposes, the allowable preferences under the Act for this procurement
+       are as follows:
+
+       ....
+
+       M.1.1.3 Ten percent reduction in the bid price or the addition of ten points on a 100-
+       point scale for a longtime resident business (LRB) certified by the SLBOC or the
+       DSLBD, as applicable;
+
+       M.1.1.4 Two percent reduction in the bid price or the addition of two points on a 100-
+       point scale for a local business enterprise (LBE) certified by the SLBOC or the DSLBD,
+       as applicable;
+
+       ....
+
+       M.1.2 Application of Preferences
+
+       The preferences shall be applicable to prime contractors as follows:
+
+       ....
+
+       M.1.2.3 Any prime contractor that is an LRB certified by the SLBOC or DSLBD, as
+       applicable, will receive a ten percent (10%) reduction in the bid price for a bid
+       submitted by the LRB in response to an IFB or the addition of ten points on a 100-point
+       scale added to the overall score for proposals submitted by the LRB in response to an
+       RFP.
+
+       M.1.2.4 Any prime contractor that is an LBE certified by the SLBOC or the DSLBD, as
+       applicable, will receive a two percent (2%) reduction in the bid price for a bid submitted
+       by the LBE in response to an IFB or the addition of two points on a 100-point scale
+       added to the overall score for proposals submitted by the LBE in response to an RFP. . .
+       .
+
+(AR Ex. 1). Section M.1.5.1 recites that any vendor seeking to receive preferences on the solicitation
+must submit documentation at the time of its bid evidencing the vendor’s certification by the SLBOC as
+an SBE, LBE, DBE, DZE, LRB, or RBO.
+                                               -3-                           Capitol Paving, CAB No. P-0736
+
+
+
+
+       Section J entitled “List of Attachments” includes subsection J.11 (“LSDBE Certification
+Package (27 Pages))” containing various materials from the predecessor to the DSLBD including an
+obsolete listing the certification categories -- SBE, LBE, DBE, DZE, and RBO -- but not including the
+new category for LRB that was part of the 2005 SLDBEDA Act. The attachment contains other
+informational materials concerning the LSDBE program such as a fact sheet, user’s guide, frequently
+asked questions, checklist, waiver application, and LSDBE certification application, but none of these
+other materials mention the new LRB certification category.
+
+                On March 22, 2006, OCP conducted a pre-bid conference. Four bids were received and
+opened on the bid opening date, May 26, 2006. At bid tabulation on June 1, 2006, Capitol Paving was
+the apparent low bidder before preference points. On June 2, 2006, the contract specialist completed
+the “Local, Small, Disadvantaged Business Enterprise Responsiveness Determination and Percentage
+Reduction Worksheet” (“worksheet”) for all four bidders. The contract specialist states that the
+preference percentage reductions found in his worksheet were based on the evidence of certifications
+which he verified electronically using the LSDBE website. (AR, Ex. 6). Capitol Paving received a 2
+percent reduction in its bid price for evaluation purposes based on its certification as an LBE. A
+September 30, 2005 letter certifying Capital Paving as an LBE was attached to the worksheet. (See AR
+Ex. 2). The 2 percent reduction lowers Capitol Paving’s bid price from $26,556,255 to $26,025,129.90.
+The Fort Myer worksheet states that it is entitled to a 12 percent reduction because it is certified as both
+a LBE and a LRB. The 12 percent reduction lowers Fort Myers bid price from $27,132,323.20 to
+$23,876,444.42. Capitol Paving was advised on June 7, 2006, that Fort Myer was the low evaluated
+bidder after the application of preference points.
+
+        Capitol Paving challenges the certification of Fort Myer. From the record, we find that Fort
+Myer had been certified by the former LBOC effective on September 21, 2004, as a LBE, with an
+expiration date of September 21, 2006. On March 20, 2006, Fort Myer submitted to the SLBOC an
+application for certification as a LRB. (Fort Myer Surreply Ex. B). The submission contains prior
+certification letters of Fort Myer issued by predecessors to the SLBOC – the District’s former Minority
+Business Opportunity Commission (“MBOC”) and the District’s former LBOC – spanning the period
+March 4, 1986, through the most recent certification on September 21, 2004. Fort Myer also included
+copies of realty leases, corporate annual reports, certificates of good standing, and other documentation
+in support of its application for LRB status. By letter of April 4, 2006, the SLBOC approved the
+certification of Fort Myer as a LBE and LRB. The April 4 letter states in relevant part:
+
+        The District of Columbia Small & Local Business Opportunity Commission (SLBOC)
+        during its meeting on 09/21/2004, approved your application for Certification and
+        registered your business enterprise in the Small, Local, and Disadvantaged Business
+        Enterprise Program as established by the Small, Local, and Disadvantaged Business
+        Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33;
+        52 DCR 7503), as amended. The business enterprise is duly registered by the
+        Commission as a:
+
+        ....
+
+        Local Business Enterprise
+                                              -4-                           Capitol Paving, CAB No. P-0736
+
+
+       Longtime Resident Business
+
+       ....
+
+       This Certification of Registration, pursuant to D.C. Law 16-33 Subpart 3 will expire two
+       (2) years from the effective date of approval. . . .
+
+       DATE OF APPROVAL: 09/21/2004
+
+       DATE OF EXPIRATION: 09/21/2006
+
+(AR, Ex 4). Although the SLBOC’s certification letter confusingly states that the “approval” was on
+September 21, 2004, which is impossible because the letter references and relies on the SLDBEDA Act
+which was enacted in 2005, and Fort Myer’s request for certification was submitted on March 20, 2006,
+we find that the SLBOC simply expanded Fort Myer’s prior certification of September 21, 2004, as an
+LBE, to include LRB status. Thus, LRB certification was effective from the date of the SLBOC letter
+of April 4, 2006, through the expiration date of the original LBE certification (September 21, 2006) so
+that both certifications would expire on the same date. (See Fort Myer Surreply, at 2, n.2).
+
+       On June 16, 2006, Capitol Paving filed its protest with the Board, arguing that the solicitation
+does not properly incorporate section M, that section M conflicts with section J, and that for various
+reasons Fort Myer should not have received the 10 percent preference for LRB status.
+
+                                            DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        Capitol Paving first argues that under block 11 of the cover page the solicitation only references
+sections B through L and omits mention of section M. We do not find this argument persuasive because
+pages 127 through 131 do indeed contain section M, and those pages and the section are referenced in
+the upper right hand corner of the cover page which reads “Page 1 of Pages 131 Includes Sec. B thru M
+and attachments.” Although cover page block 11 incorrectly identifies section L for the page ranges
+covering both section L and M, the pages for section M (pages 127-131) are identified and no bidder
+could have been prejudiced by this typographical error on the cover sheet. Capitol Paving also argues
+that section M conflicts with section J because the attachments for section J.11 do not make any
+mention of LRB status. We see no conflict and even if there were an ambiguity, Capitol Paving had to
+raise that prior to bid opening. Section J contains information about the LSDBE program and some
+forms that may be used. However, no reasonable bidder could interpret the guidance in section J as
+contradicting the clear references in section M to evaluation preferences being determined under the
+provisions of the SLDBEDA Act of 2005. Moreover, section M’s direct and repeated references to the
+availability of preferences for a Longtime Resident Business (LRB) can leave no doubt that the
+contracting agency would be applying the current law governing the LSDBE program, notwithstanding
+the fact that section J’s guidance and informational data had not been updated by the SLBOC and the
+contracting agency to reflect the current law.
+
+       Next, Capitol Paving raises a number of arguments as to why Fort Myer should not have been
+                                              -5-                            Capitol Paving, CAB No. P-0736
+
+
+certified as a LRB and should not have received the 10 percent LRB preference. The SLDBEDA Act
+created a new definitions provision, codified at D.C. Code § 2-218.02, which contains the following
+definition for “Longtime resident business”:
+
+“Longtime resident business” means a business which has been continuously eligible for certification as
+a local business enterprise, as defined in §2-218.31, for 20 consecutive years.
+
+D.C. Code § 2-218.31 states:
+
+               A business enterprise shall be eligible for certification as a local business
+       enterprise if the business enterprise:
+
+               (1) Has its principal office located physically in the District of Columbia;
+               (2) Requires that its chief executive officer and the highest level managerial
+               employees of the business enterprise maintain their offices and perform their
+               managerial functions in the District; and
+               (3)(A) Is licensed pursuant to Chapter 28 of Title 47;
+               (B) Is subject to the tax levied under Chapter 18 of Title 47; or
+               (C) Is a business enterprise identified in § 47-1808.01 (1) through (5) and more
+               than 50% of the business is owned by residents of the District.
+
+Capitol Paving observes that the Mayor has not issued any regulations implementing the SLDBEDA
+Act, particularly with regard to the new certification category of LRB, and thus the SLBOC cannot
+make a LRB certification without regulatory guidance. In addition, according to Capitol Paving,
+without implementing regulations, contractors cannot know if they could qualify for a waiver of any of
+the provisions for LBE status that in turn support LRB status. Because the preference for the LRB is so
+much greater than the other preferences, Capitol Paving argues that the lack of a waiver provision
+eliminates competition in the heavy construction and asphalt paving and road work industry since only
+Fort Myer qualifies for LRB status. Capitol Paving also contends that since the LBE preference
+category was created in 1992 by virtue of the Equal Opportunity for Local, Small, and Disadvantaged
+Business Enterprises Act of 1992, no contractor could be eligible for LBE status for 20 consecutive
+years. Under this logic, the first year that an entity could qualify for LRB status would be 2012, that is,
+20 years after 1992. Finally, Capitol Paving argues that Fort Myer has not been “continuously” eligible
+for LBE certification because Fort Myer had been debarred by the Federal Highway Administration and
+later by the District government in 2003. According to Capitol Paving, the debarment interrupted Fort
+Myer’s eligibility and thus it did not meet the 20 continuous years requirement for LRB status.
+
+        We conclude that there is no basis in the law or the facts here to justify our reviewing the
+legitimacy of the action by the SLBOC to certify Fort Myer as an LRB. Although there are no
+implementing regulations, we believe that the SLBOC made its LRB certification of Fort Myer based
+on the language of the SLDBEDA Act, and again, we see no basis for intruding on the SLBOC’s
+interpretation of a statute that it is charged to interpret. Only in exceptional circumstances will we
+consider such a review, such as where the certifying agency has abdicated its function and we are left
+with no choice but to decide on the certification so as to protect the integrity of the procurement process
+and fulfill our statutory obligation under D.C. Code 2-309.08(d) of deciding whether an award complies
+with applicable law, regulations, and terms and conditions of the solicitation. Cf. Urban Service
+                                           -6-                         Capitol Paving, CAB No. P-0736
+
+
+Systems Corp., CAB No. P-0714, Nov. 15, 2005, with C&D Tree Service, Inc., CAB No. P-0440, Mar.
+11, 1996, 44 D.C. Reg. 6426, 6433-6439. Those exceptional circumstances are not present here. Such
+challenges to a certification are properly addressed to the SLBOC through the statutory mechanism
+provided in the SLDBEDA Act. Each of the arguments raised by Capitol Paving with regard to how
+SLBOC could properly certify Fort Myer are not properly before us and we find no error by the
+contracting officer in relying on the certification made by the SLBOC in this case. Accordingly, we
+deny the protest.
+
+       SO ORDERED.
+
+DATED: October 12, 2006                            /s/ Jonathan D. Zischkau
+                                                   JONATHAN D. ZISCHKAU
+                                                   Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

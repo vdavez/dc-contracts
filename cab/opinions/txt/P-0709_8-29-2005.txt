@@ -1,0 +1,202 @@
+                            GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+PROTEST OF:
+                                      )
+WATKINS SECURITY AGENCY OF D.C., INC. )
+                                      )                        CAB No. P-0709
+Under Contract No. POFA-20050D-003    )
+
+       For the Protester, Watkins Security Agency of D.C., Inc.: Dirk Haire, Esq., Holland and
+Knight LLP. For the Government: Howard Schwartz, Esq., and Jon N. Kurlish, Esq., Assistant
+Attorneys General.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative Judge
+Jonathan D. Zischkau and Administrative Judge Warren J. Nash, concurring.
+
+                                            OPINION
+                                    (LexisNexis Filing ID 6589730)
+
+        Watkins Security Agency of D.C., Inc., has protested award of the subject contract on the
+basis that the evaluation of both its proposal and the proposal of the awardee, Hawk One
+Security, Inc., were arbitrary and unreasonable. We find the District’s justification of substantial
+parts of the evaluations to be unpersuasive. We further find that the evaluation narratives do not
+indicate that either the evaluators or the contracting officer carefully reviewed the Best and Final
+Offers (“BAFO”) of either the protester or the awardee and that the evaluations were based in
+substantial part on faulty assumptions of the BAFO contents. Since portions of each evaluation
+are clearly arbitrary and unreasonable, it is impossible for the Board to determine whether the
+award determination as a whole was not arbitrary and unreasonable. The protest is sustained and
+the matter remanded to the contracting officer for a de novo reevaluation of the BAFOs, or, if the
+contracting officer finds that it is necessary to receive further BAFOs, to appropriately evaluate
+those offers.
+
+                                        BACKGROUND
+
+        On September 7, 2004, the Office of Contracts and Procurement issued a solicitation on
+behalf of the Metropolitan Police Department requesting proposals to perform security services
+at 167 public schools currently being performed by the protester under a contract with the
+District of Columbia Public Schools (“DCPS”). The change in the contracting agency
+undertaking the solicitation was mandated by the School Safety and Security Contracting
+Procedures Act of 2004, D.C. Law 15-350, April 13, 2005, which provided that “[r]esponsibility
+for the issuance of a Request for Proposals for any security guard or security related contract for
+DCPS for a contract term to begin June 30, 2005, or later shall be transferred to the MPD as of
+August 2, 2004.” In addition, the enactment of the Child and Youth, Safety and Health Omnibus
+Temporary Amendment Act of 2004, D.C. Law 15-117, imposed requirements in performing
+future contracts beyond those required in the previous DCPS contract. Both of these changes
+required offerors to submit proposals substantially different from proposals which may have
+been responsive to previous solicitations for similar services.
+                                                        -2-        Watkins Security Agency of D.C., Inc., CAB No. P-0709
+
+
+
+                                                  DISCUSSION
+
+        Although the evaluation of technical proposals is within the discretion of the contracting
+agency because the agency is responsible for defining its own needs and the best method of
+achieving them, the Board will examine the record to determine whether an award decision was
+reasonable. Trifax Corporation, CAB No. P-0539, Sept. 25, 1998, 45 D.C. Reg. 8842, 8847. An
+evaluation is clearly unreasonable if it is based in substantial part on a plainly erroneous reading
+of a proposal. Intown Properties, Inc., B-262236.2, Jan 18, 1996, 96-1 CPD ¶ 89.
+
+        The Agency Report states that “Watkins Security’s proposal continued to exhibit real
+technical weaknesses after the BAFO. For example, after BAFOs and the fourth round of
+responses, some five weaknesses persisted in the Understanding of Requirements subfactor of
+the Management Capability factor. (AR Ex.18.A, 4-5). One of the Child Safety Act related
+weaknesses referenced was Watkins’ failure to have its proposed list of criminal offenses, that
+would automatically disqualify persons from employment as guards, match up with the
+Solicitation requirements.” (AR, 21).        The contracting officer’s Business Clearance
+Memorandum (“BCM”), quoting the evaluation and citing page 12 of Watkin’s proposal,
+emphasizes the importance of this weakness by specifically giving a list of offenses allegedly not
+covered by Watkins disqualification policy. The BCM stated, “[f]or example, a conviction for
+possession of controlled substances; theft, fraud, forgery, extortion or blackmail; trespass or
+injury to property; and burglary are excluded from the list of automatically disqualifying
+offenses.” (AR Ex. 6, 27). In fact, pages 12 and 13 of Watkin’s BAFO specifically list the
+offenses given in the example.1 Reliance on an objectively incorrect reading of the proposal
+makes that portion of the evaluation unreasonable per se.
+1
+    C.3.30.2 CRIMINAL BACKGROUND CHECKS:
+
+         All Watkins employees (pre-employment or existing employees) assigned duties and/or
+         responsibilities to this contract will submit to a Criminal Background check to certify that they
+         meet the standards of the Act and of the contract.
+
+                                                          * * *
+         [Watkins] will provide evidence that a criminal background check has been done on all
+         applicants/employees for school security positions (with disqualifying Convictions, i.e. not simply
+         arrests) including murder, attempted murder, manslaughter, arson, assault, battery, assault and
+         battery, assault with a dangerous weapon, mayhem, threat to do bodily harm, burglary, forgery,
+         kidnapping, theft, fraud, forgery, extortion, blackmail, illegal use or possession of a firearm,
+         trespass or injury to property, sexual offenses, including, but not limited to indecent exposure,
+         promoting, procuring, compelling, soliciting or engaging in prostitution, corrupting minors (sexual
+         relations with children), molesting, voyeurism, committing sex acts in public, incest, rape, sexual
+         assault, sexual battery, sexual abuse, child abuse, cruelty to children, and unlawful distribution or
+         possession or possession with intent to distribute a controlled substance testing prior to working
+         on the contract. . . . Conviction of any of the aforementioned offenses will automatically disqualify
+         any employee or potential applicant from working under this contract.
+
+                                                       * * *
+         C.30.2
+
+         Conviction of any of the aforementioned offenses will automatically disqualify any employee or
+         potential applicant from working under the contract
+
+         (AR Ex. 16, 12-13 [emphasis supplied])
+                                                       -3-       Watkins Security Agency of D.C., Inc., CAB No. P-0709
+
+
+
+
+        Factual discrepancies in substantial portions of the evaluation of Hawk One’s proposal
+also appear. Hawk One received an “excellent” rating meaning “it exceeds most, if not all
+requirements; no deficiencies” and the maximum point score for the evaluation subfactor which
+included “understanding of the requirements of the Child and Youth Safety and Health Act.”
+Although the District’s supplemental response asserts that the Hawk One proposal “complied
+fully with the CSA requirements for drug testing,”2 the contention is not supported by the record.
+The CSA mandates random testing for all employees in a "safety-sensitive" position. (§
+2032(b)). The Hawk One policy on “random testing” neither covers “all employees in a ‘safety-
+sensitive’ position,” nor makes sense. The policy provides:
+
+           Random testing will be conducted for 1) employees involved in a vehicular or
+           other type of accident that results in physical injury, property damage, or both;
+           and 2) employees returning to a safety-sensitive position after completing a
+           counseling and rehabilitation program for illegal drug use or alcohol abuse."
+
+(AR Ex. 22, 6).       Since a “safety-sensitive position” includes “employment in which the
+employee has direct contact with children and youth, is entrusted with the direct care or custody
+of children and youth, and whose performance of his or her duties may affect the health, welfare,
+or safety of children and youth,” (CSA, Sec. 2031(11)), virtually all positions under this contract
+are “safety sensitive.” Thus, the majority of the contract employees, those employees who are
+not involved in an accident or enrolled in counseling or rehabilitation program, will never be
+subject to random testing. Although Hawk One’s statement describes its program as “random
+testing,” the Board is at a loss to understand how testing which is triggered by an accident or
+counseling could reasonably constitute “random” testing meeting the CSA requirements.
+
+        Hawk One received a rating of “Acceptable,” meaning “meets requirements; no
+deficiencies” for Management Capability. RFP § C.5.1.4.5 specifically required that the
+designated project manager have “work experience including the supervision of 350 or more
+employees.” Hawk One proposed a project manager who it admits had not managed more than
+300 employees. (AR Ex. 17, Staff Qualification Matrix). In its reply, the District asserts that the
+proposed manager “had supervised workforces of one hundred and three hundred persons . . .
+and the District [was] within its discretion [to] properly consider this to be qualifying.” (Reply,
+10). The Board is not aware of any authority which would permit the District to accept a
+proposal which varied from a specific specification requirement without offering the same
+
+2
+    The District reply reads:
+
+           The T[echnical] E[valuation] P[anel] and the Contracting Officer correctly found Hawk One to
+           have complied fully with the CSA requirements regarding drug testing, the TEP mentioning that
+           this information was provided in the “third response.” (BCM, p. 27; AR18B, p 3; compare the
+           requirements of the CSA at AR1D). This third supplement to the proposal was contained in Hawk
+           One’s Response to [RFP] Amendment 9, submitted April 1, 2005 (AR22). Included with the
+           Response to Amendment 9 was Hawk One’s revised Drug and Alcohol Use Policy. This Policy
+           provides for random drug testing and for notification of employees of the testing by providing
+           them a copy of the policy and requiring that the policy be read and acknowledged by their
+           signature on a copy that Hawk One would retain.
+
+(Reply, 5)
+                                              -4-      Watkins Security Agency of D.C., Inc., CAB No. P-0709
+
+
+
+variance to all offerors. See, Greater Washington Dental Services, Inc., Quality Plan
+Administrators, Inc. CAB Nos. P-0675 and P-0677, Oct. 22, 2003, 52 D.C. Reg. 4146;
+Minnesota Mining and Manufacturing Co. v. Shultz, 583 F. Supp. 184 (D.D.C. 1984). The
+evaluation given was unsupported by the facts and unreasonable.
+
+        The Board has not reviewed all aspects of the evaluations. Nor does the Board presume
+to reevaluate the proposals which would usurp the authority of the contracting officer and be
+beyond the charter of the Board. The Board does, however, find that the noted discrepancies
+between the record and the evaluation of proposals are so substantial that the Board cannot find
+the overall evaluation reasonable. The Board gives no opinion on any aspect of the evaluation
+not discussed here. The Board cannot reach any conclusion as to whether correction of the cited
+errors would affect the overall evaluation or whether any of the specifications should be
+amended. The errors in the particular factors noted may, by themselves, affect the total
+evaluation and the errors may further have had an impact on the evaluation of other factors as
+well, also potentially altering the outcome.
+
+        Because the evaluations of Watkins’ and Hawk One’s proposals were unsupported to a
+substantial degree, the award to Hawk One was unreasonable. If no amendments to the
+solicitation are required, we direct that the District reevaluate the BAFO’s in their entirety. If
+amendments to the specifications are necessary to properly state the minimum needs of the
+District, solicitation of new BAFOs will be required prior to reevaluation. Since the identity of
+the offerors has now been made public, as has the awardee’s pricing, we believe that
+reevaluation without amendment of the specifications is preferable. If the contracting officer
+determines that Watkins should have received the award, the contract with Hawk One should be
+terminated and award made to Watkins.
+
+       The protest is sustained.
+
+       SO ORDERED.
+
+
+August 29, 2005                                                    /s/ Matthew S. Watson
+                                                             Administrative Judge
+
+
+       /s/ Jonathan D. Zischkau
+Chief Administrative Judge
+
+
+      /s/ Warren J. Nash
+Administrative Judge
+

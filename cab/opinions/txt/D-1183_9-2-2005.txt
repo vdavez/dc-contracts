@@ -1,0 +1,434 @@
+                            GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+
+
+APPEAL OF:                                    )
+                                              )
+PINNACLE TOWERS III, INC.                     )                CAB No. D-1183
+                                              )
+Under Antenna Site Management Agreement       )
+
+
+
+      For the Appellant: Ross W. Dembling, Esq., Holland & Knight, LLP. For the
+Government: Mark, D. Back, Esq. and Jacob D. Ritting, Esq. Assistant Attorneys General.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+
+                                            OPINION
+                                    (LexisNexis Filing ID 6621172)
+
+
+
+        Pinnacle Towers III, Inc., successor to Shaffer & Associates, Inc. ("S&A") appealed the
+final decision of Chief Procurement Officer (“CPO”) dated April 11, 2002, which found that the
+contract alleged by Pinnacle was void ab initio. The District moved to dismiss the Complaint, or
+alternatively, enter summary judgment in the District’s favor on the basis that the formation of
+the contract violated the Procurement Practices Act (“PPA”) and that the substance of the
+contract violated the District Charter limitations on multiyear contracts and the Federal Anti-
+Deficiency Act. Pinnacle asserts that the contract was not subject to the requirements of the
+PPA. We agree with the District that the contract was governed by the PPA and that its
+formation failed to comply with the PPA, making it as a matter of law void ab initio.
+Accordingly we grant the motion for summary judgment and dismiss the appeal
+
+
+                                          BACKGROUND
+
+
+        In August 1981 the District executed a five-year agreement with Channel 50, Inc.,
+whereby Channel 50 leased certain space on a communications tower owned by the District for a
+base term of five years and four additional five-year option periods ending in August of 2011, if
+the options are fully exercised. Effective June 1, 1986, as part of the first five-year extension
+(“1986 Lease Extension”), the District and Channel 50 agreed that Channel 50 would build a
+new tower at the same site and dismantle the original tower. To pay for the cost of construction
+                                                          -2-             Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+of the new tower and dismantling of the original tower 1, Channel 50 was granted a leasehold in
+the new tower, known as the "Additional Tower Leasehold." Sublease by Channel 50 of space
+on the new tower was intended to provide the funds to repay Channel 50 its costs of construction.
+(Appeal File (“AF”) Ex. 4, 7-8). The Additional Tower Leasehold was to terminate at the
+expiration of its stated term (including any renewals) or when Channel 50 recovered all its
+construction costs through sublease payments, whichever was earlier.
+
+        Under the terms of the 1986 Lease Extension, Channel 50 agreed to use its best efforts to
+sublet the Additional Tower Space "consistent with commercially reasonable terms and subject
+to approval by the District (which approval shall not unreasonably be withheld)." (“AF” Ex. 4,
+8). Payment of rent by Channel 50 would be made monthly in the amount of $3,625.00 reduced
+"by an amount equal to actual expenditures made by Lessee for services for maintenance of, and
+improvements to the Tower at the request of the District." (Id. at 4).
+
+        In September 1988, S&A, Appellant’s predecessor, executed a contract with Channel 50
+(the "S&A Contract") to act as Channel 50’s agent to sublease space on the new tower. As
+compensation, S&A was to receive 25 percent of the Monthly User Charges defined as total
+charges less direct costs. The contract granted S&A, the service provider, but not Channel 50, an
+option to extend the contract for three additional five year periods for a total of 20 years. (AF 3,
+§ 3(A)). Either party, however, could terminate the agreement without cause upon 90 days’
+notice to the other, provided that if Channel 50 terminated the agreement, Channel 50 was
+required to pay S&A an amount equal to approximately 14-months compensation. The S&A
+Contract, recognized the District as owner of the tower 2 and further, in its introductory recitals,
+recognized that if cumulative net sublease revenues exceeded the construction costs, the
+Additional Tower Leasehold could expire prior to the termination of the S&A Contract. (AF Ex.
+3, 2). Paragraph 3 of the separately numbered paragraphs which preceded the specific terms of
+the agreement, stated:
+
+                    The parties recognize and agree that as of the day on which Channel 50, Inc.
+           shall have recovered all “Costs of Construction” as that term is defined in the Extension
+           of Agreement of Lease . . . made and effective as of June 1, 1986, by and between [the
+           District] and Channel 50, Inc. all rights and obligations of [Channel 50] under this
+           Agreement shall revert to [the District] and this Agreement shall continue in effect with
+           [District] substituted for Channel 50, Inc. for all purposes as Tower Manager.
+
+
+
+1
+    It does not appear that the original tower was ever dismantled.
+2
+  The capacity of the District in the agreement is, at best, ambiguous. In the signature block, the District is titled as
+“Owner,” which is consistent with the capacity of an owner which consents, but does not become a party, to
+subleases. “Under the terms of the 1986 Lease Extension, Channel 50 agreed to use its best efforts to sublet the
+Additional Tower Space ‘consistent with commercially reasonable terms and subject to approval by the District
+(which approval shall not unreasonably be withheld)’” (Opposition, 2; AF Ex. 4, 7-8). The District is not
+recognized as a party in the body of the agreement which speaks to rights and obligations of only two parties,
+Channel 50 and S&A. For instance, the District is given no right to terminate, even for cause. The agreement states,
+“This Agreement may, be terminated by the Tower Manager or S&A upon giving of ninety (90) days prior written
+notice to the other party” (§ 3(B), and “This Agreement may be terminated by Tower Manager or S&A if the other
+party has failed to perform its obligations hereunder. . . .” (§ 3(D)).
+                                                       -3-            Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+Although the introductory recital appears, upon termination of the tower lease, to bind the
+District to Channel 50’s remaining obligations under the S&A contract for the full term of the
+S&A contract, including renewals, this is not entirely consistent with the specific terms of the
+agreement. Paragraph 10 of the contract terms provides:
+
+                [Channel 50] may assign or transfer its interest in the facilities or under this
+        agreement to [the District] or any other entity it may choose, provided, however, if
+        [Channel 50] does not cause such assignee or transferee to assume [Channel 50’s]
+        obligations hereunder, [Channel 50] shall pay S&A the Termination Price whereupon this
+        Agreement shall be deemed terminated.
+
+This action is brought by Appellant against the District to enforce against the District, as
+successor to Channel 50’s possessory interest in the tower, the terms of S&A’s contract with
+Channel 50.
+
+        Between September 1989 and July 1995, Channel 50 executed a number of sublease
+agreements, each of which acknowledged S&A as the "firm retained by [Lessee] to manage and
+administer certain provisions of th[e] Agreement." In September 1993, S&A exercised its
+option to renew its contract for an additional period of five years through September 1998.
+
+       In September, 1997, the District executed a five-year lease with National Cable Satellite
+Corporation d/b/a C-SPAN ("C-SPAN Agreement") for certain portions of the Tower. Channel
+50 was not a party to this lease. The District was identified as the “Lessor” and S&A as the
+"firm currently retained by the lessor to manage and administer certain portions of this
+Agreement, or any successor thereto." (C-SPAN Agreement, ¶ 1(a)(iv) attached as Ex. 7 to
+Appellant's Complaint). The Agreement continued the practice of requiring lease payments "to
+be made payable and mailed to Shaffer & Associates." (Id. at 3).
+
+        By letter dated May 15, 1998, S&A advised Channel 50 3 of its intent to renew the S&A
+Contract 4 for an additional period of five years through August 31, 2003. On January 14, 2000,
+Pinnacle Towers purchased all of the stock of S&A. (Opposition, 5). At some time prior to May
+2000, Channel 50 had recouped its full construction cost, at which time the Additional Tower
+Lease and Channel 50’s possessory rights in the new tower terminated. Beginning in May 2000
+and continuing, Pinnacle has regularly remitted rent payments collected from tenants to the
+District less its compensation. (See, AF Ex. 1, 2). The District has, however, advised tenants to
+remit rent directly to it.
+
+3
+  Even though the C-Span Agreement which had been entered into the previous year identified the District as the
+Lessor and S&A as the firm retained by the District to manage the tower property, the renewal letter was sent to
+Channel 50 and does not indicate that a copy was sent to the District.
+4
+   On November 30, 2000, Pinnacle executed an amended sublease with an existing sublessee of Channel 50, APC
+Realty and Equipment Company, LLC. In the amended sublease, Pinnacle erroneously represented itself as being
+the successor to Jasas Corporation, the parent of Channel 50 and Pinnacle further erroneously represented itself as
+the “sublessor” in the transaction, (APC; attached as Exhibit 10 to Appellant's Complaint), implying that Pinnacle
+was the lessee of the tower from the District. Although the D.C. Office of Property Management ("OPM") and a
+D.C. Assistant Corporation Counsel approved the amended sublease for legal sufficiency Appellant was not the
+successor to Channel 50 or the lessee of the tower from the District. Appellant does not claim any rights under the
+Channel 50 lease in this matter.
+                                                -4-           Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+                                           DISCUSSION
+
+Jurisdiction
+
+        The Board must initially determine its jurisdiction in this matter. Pinnacle filed this
+appeal invoking the jurisdiction of the Board pursuant to D.C. Code § 2-309.03. (Complaint ¶ 3).
+
+Subsection (b) of that section provides:
+
+       (b) Jurisdiction of the Board shall be consistent with the coverage of [the Procurement
+       Practices Act] . . . .
+
+        As an administrative agency created by statute, this Board has only those powers which
+are conferred either expressly or by necessary implication. Ramos v. Department of Consumer &
+Regulatory Affairs, 601 A.2d 1069, 1073 (D.C. 1992). The Board has consistently held that, as
+the statute explicitly provides, its jurisdiction does not exceed that of the PPA. See, e.g. District
+of Columbia Local Development Corporation, CAB No. P-0421, Nov. 14, 1994, 42 D.C. Reg.
+4885, holding affirmed, but vacated on other grounds, Jan. 31, 1995, 42 D.C. Reg. 4914; C.
+Peyton Barton, Jr., CAB No. P-0638, May 4, 2001, 49 D.C. Reg. 3359; Safe, Inc., CAB No. P-
+0702, Jan. 26, 2005.
+
+       In its motion to dismiss, the District asserted that formation of the contract violated
+various sections of the PPA (Motion, 5-10) to which Pinnacle responded that “the agreement is a
+concession contract, not an acquisition contract subject to the Procurement Practices Act.” (Post
+Oral Argument Brief, 2)). If Pinnacle’s assertion is correct, its defense negates the jurisdiction of
+the Board and the appeal must be dismissed for lack of jurisdiction.
+
+        In Eastern Ave. Development Corp. CAB No. P-437, Sept 26, 1995, 44 D.C. Reg. 6384,
+the Board set forth four factors to be considered in determining whether the PPA covers
+particular contract actions, thus making them subject to our jurisdiction:
+
+       1.      the type of contract or agreement contemplated;
+       2.      the nature of the agency conducting the solicitation;
+       3.      the basis for the procurement or contracting authority;
+       4.      the statutory and regulatory scheme which controls the procurement or disposal
+               being solicited.
+
+(44 D.C. Reg. at 6387). Pinnacle’s assertion that the PPA does not apply to this contract fails on
+each of the considerations.
+
+        The contract is best categorized as a procurement contract. Pinnacle asserts that the
+contract is not a procurement contract, but rather a “concession” contract in which “the
+contractor (or concessionaire) pays a franchise fee for the privilege of operating on or in a
+government facility.” (Appellant’s Posthearing Brief, 2-3) Contrary to Appellant’s own
+definition of a concession contract, Appellant does not claim to pay the District a concession fee,
+but rather “deducts its agreed-to remuneration,” (Opposition 8), from funds it collects on behalf
+of the District. (Id.). Nor do the terms of the Agreement meet the common understanding of a
+                                                      -5-             Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+concession contract with a government agency. First, franchise fees are “typically less than five
+percent of gross revenues, for the privilege of operating on federal land. If they used
+government-owned facilities they paid an additional fee.” Amfac Resorts, L. L. C. v. United
+States Dept. of Interior, 350 U.S. App. D.C. 191, 282 F.3d 818, 834-835 (2002) The payment to
+the District under the Agreement, if the alleged contract is interpreted to be a concession contract
+would be 75% of net rental income. Second, the subject contract did not denominate the
+payment as a concession, but rather describes the amount retained by Pinnacle as a “Monthly
+Percentage Fee” to Appellant 5, with the remainder remitted to Channel 50, as lessee, or the
+District as owner after termination of the lease. Further, Pinnacle does not allege that it provides
+services to the sublessees, but rather that it acts as leasing agent and manager for Channel 50 and
+subsequently the District. Concessionaires are understood to provide accommodations, facilities,
+and services not for the benefit of the government, but for private parties. (See, e.g., Bus Shelter
+Act of 1979, D.C. Law 3-67; National Park Service Concessions Management Improvement Act
+of 1998, 105 P.L. 391, 16 U.S.C. § 5951).
+
+        The District Department of Administrative Services (“DAS”), with whom this contract is
+alleged to have been made, was a line agency of the District of Columbia reporting to the Mayor
+whose procurements are generally subject to the PPA. (See, e.g. Impex Industries, Inc. CAB No.
+D-956 July 26, 2000, ) The PPA was applicable to “all agencies and employees of the District
+government which are subordinate to the Mayor” at the time of execution of the S&A
+Agreement. (D.C. Code § 1-1181.4 (1981 ed. 1987 Supp.)). Appellant does not cite any general
+or specific exemption to the PPA for DAS.
+
+       Absent the PPA, DAS did not have procurement authority. The Board has found the PPA
+not to apply only where the procurements “were carried out under statutory and regulatory
+schemes entirely independent of the PPA.” C&D Tree Service, Inc., CAB No. P-0440, Mar. 11,
+1996; see, also, Potomac Capital Investment Corp., CAB No. P-0383, Jan. 4, 1994, 41 D.C. Reg.
+3885 and Metropolitan Service & Maintenance Corp., CAB No. P-0388, Feb. 7, 1995, 42 D.C.
+Reg. 4918. There was no independent statutory or regulatory scheme governing procurements
+by DAS.
+
+
+
+
+5
+    Section (k) of Exhibit B to the S&A agreement entitled Management Services provides:
+
+          Invoice and collect all Gross Charges (as defined above) from Users under the User
+          Agreements. All User Agreements shall incorporate language directing that all fees due
+          under such agreements are to be paid to S&A. Monthly, prior to the 10th day of each
+          month, S&A shall determine the total of monthly User Charges by adding the total Gross
+          Charges collected and subtracting the Deductible Costs (as defined above). S&A will
+          then deduct its Monthly Percentage Fee from the remainder resulting after Deductible
+          Costs are subtracted from Gross Charges. It will retain the amount necessary to pay the
+          Deductible Costs and will timely pay such costs. The balance will then be remitted to
+          Tower Manager monthly by the 15th of the month. S&A’s obligation hereunder is limited
+          to employing ordinary collection procedures, without any responsibility on the part of
+          S&A for amounts reasonably deemed uncollectible by S&A.
+                                                      -6-            Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+        Although Appellant categorizes this procurement as a concession, it cites no District
+statutory or regulatory scheme which controls such procurements. No valid action can be taken
+without statutory or regulatory authority. In instances when concession agreements are
+authorized, detailed requirements are imposed. See Metropolitan Service & Maintenance Corp.,
+CAB No. P-0388, Feb. 7, 1995, 27 D.C. Reg. 1266 (discussing the District of Columbia Bus
+Shelter Act of 1979, D.C. Law 3-67; and the National Parks Omnibus Management Act of 1998,
+16 U.S.C. §§ 5951 -5966)).
+
+        The Board finds no authority for the alleged contract other than the PPA and thus has
+jurisdiction to consider this appeal.
+
+
+Formation of the alleged contract violated the Procurement Practices Act
+
+
+       The formation of the alleged contract violated the most basic principle of government
+procurement law, namely, that selection of the contractor and award of a contract be made by an
+authorized District contracting officer. There is no authority to delegate contracting officer
+responsibility outside the District Government. “The contracting officer shall be responsible for
+source selection.” 27 DCMR §1614.3; see also D.C. Code § 2-301.07; 27 DCMR §§ 1905.4,
+1622.6, 2623.1 and 48 CFR § 15.504. There is no dispute that no District official selected S&A
+or made any award. Appellant admits in its opposition to the motion:
+
+        . . . [T]he District did not award the 1988 contract. Instead, Channel 50, the Lessee under
+        the 1981 Agreement of Lease awarded the contract. Channel 50 sought and received the
+        District's approval of the S&A contract award, as contemplated by the 1986 Lease
+        Extension. See AF Tab, 4 at Article 35 (as amended) section 6, p. 9. But neither this
+        approval, nor the acknowledgment that the District was the owner of the tower,
+        established or intended to create a contractual relationship with the District necessitating
+        adherence to the PPA. 6
+
+(Opposition, at 9). The approval referenced by Appellant is pursuant to a standard lease
+requirement giving lessor the right to approve sublease or subcontract agreements, provided that
+such approval “shall not be unreasonably withheld.” Id. Such approval, however, pursuant to
+regulation, does “not constitute a determination of the acceptability of the subcontract terms or
+price or of the allowability of costs.” 27 DCMR § 2801.3. More importantly, the contracting
+officer is forbidden by the procurement regulations from consenting to a subcontract which
+requires, as Appellant asserts, that the District deal directly with the subcontractor. “The
+contracting officer shall not consent to subcontract . . . (c) [w]hen the contracting officer is
+obligated to deal directly with the subcontractor.” (27 DCMR § 2801.4). Just as the District’s
+approval of the Channel 50 contract with S&A does not create a contract between S&A and the
+District, the District’s approval of subleases referencing the S&A Agreement does not award a
+contract and obviously does not reflect any “selection” of S&A by the District.
+
+6
+  Appellant also stated on page 8, “S&A was a contractor to Channel 50 and Channel 50 was solely responsible for
+compensating S&A, and on page 10 “The party to whom Pinnacle (and its predecessor S&A) was bound was
+Channel 50, not the District, S&A did not look to the District for its compensation.”
+                                                        -7-             Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+        Notwithstanding Appellant’s admission that the District did not select S&A or award a
+contract to it, and that “the contract was not the District’s” (Opposition, at 9), Pinnacle, as
+successor to S&A, now requests the Board to “reinstate the Contract and require the District to
+specifically perform its obligations under the Contract.” (Complaint, at 19). Appellant does not
+point to any subsequent selection of Pinnacle or its predecessor by the District, nor does
+Appellant point to any award by a District contracting officer of a contract to S&A or Pinnacle.
+The Board finds that no contract was entered into by the District.
+
+       It is further unclear that the actual parties to the S&A Agreement, Channel 50 and S&A,
+intended the District to be bound without further action by the District. Although the
+introductory recitals to the contract seem to imply that the District would stand in the shoes of
+Channel 50, the actual terms of the contract conflict with this intent.
+
+         Paragraph 3 of the separately numbered recitals state:
+
+                  The parties recognize and agree that as of the day on which Channel 50, Inc.
+         shall have recovered all “Costs of Construction” as that term is defined in the Extension
+         of Agreement of Lease . . . made and effective as of June 1, 1986, by and between [the
+         District] and Channel 50, Inc., all rights and obligations of [Channel 50] under this
+         Agreement shall revert to [the District] and this Agreement shall continue in effect with
+         [District] substituted for Channel 50, Inc. for all purposes as Tower Manager.
+
+         Section 10 of the specific contract terms states:
+
+                 [Channel 50] may assign or transfer its interest in the facilities or under this
+         agreement to the [District] or any other entity it may choose, provided, however, if
+         [Channel 50] does not cause such assignee or transferee to assume [Channel 50’s]
+         obligations hereunder, [Channel 50] shall pay [Pinnacle] the Termination Price
+         whereupon this Agreement shall be deemed terminated.
+
+        Although introductory recitals may indicate the understandings of the parties in entering
+into a contract, Trilon Plaza v. Comptroller of N.Y., 788 A.2d 146, 151 (D.C. Cir. 2001), if the
+recitals and specific terms are in conflict, the specific terms will govern. Kogod v. Stanley Co.,
+186 F.2d 763, 765 (D.C. Cir. 1950). The specific contract term contemplates potential transfer to
+the District but requires that, for the District to be bound to the obligations under the agreement,
+the District must at that time specifically assume those obligations. If there was not a specific
+assumption by the District of the obligations, as there was not, the contract is terminated and
+Channel 50, not the District as transferee, remains liable for the termination costs. Appellant has
+not shown any assumption by an authorized District official. 7
+
+
+
+
+7
+  The Board also questions the authority to include the option which is included in the agreement. In general,
+options permit the District to extend a contract. The option provision in this agreement permits the contactor to
+unilaterally extend the contract. (¶ 3(A)). Appellant cites no authority which authorizes the District’s obligation to
+pay the contractor to be unilaterally extended by the contractor.
+                                                        -8-              Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+        The District further asserts that, in any event, the contract is void in violation of law for
+lack of competitive selection and for violation of restrictions on multiyear contracting. 8 We
+agree with the District. Appellant asserts that “the PPA requires award by competitive bidding
+only for those contacts that contemplate expenditures in excess of $25,000,” (Opposition 10-11),
+and that no expenditures are involved. 9 Appellant further asserts that the definition of
+competitive bidding requires “payment of a price.” Appellant has inserted the words
+“expenditures” and “payment” which do not appear in the code. DC Code § 2-303.03 provides
+that “Contracts exceeding [$25,000] shall be awarded by competitive sealed bidding . . . .” D.C.
+Code § 2-303.21 reads, “Special small purchase procedures may be used . . . for procurements
+not exceeding $25,000.” D.C. Code § 2-301.07(10) provides “Competitive bidding means the
+“offering of prices . . . for a contract, privilege or right to supply specified services or materials.”
+
+        Appellant admits that the agreement intended to compensate S&A stating “not
+surprisingly, [S&A] had to be compensated for its contractual duties. . . . [T]he agreement
+provided that S&A would receive its remuneration by deducting the agreed-to compensation
+from the rental revenue that S&A was collecting from subtenants on behalf of Channel 50.”
+(Opposition, 8). Once Channel 50 had recovered its construction costs, the lease terminated and
+possession of the tower reverted to the District. If the agreement continues, S&A would collect
+rent from subtenants, now tenants, on behalf of the District. Based on the leases in the record,
+(Exs. 3-8 and 11), the District funds withheld as compensation by S&A will exceed $25,000.
+The contract, as it would apply to the District, clearly exceeds $25,000 triggering the
+requirement for compensation. Appellant’s argument that the contract was “awarded” by
+Channel 50 and therefore not subject to the competition requirements of the PPA is without
+merit. The effect of the contract, if upheld by the Board, would be to compensate Pinnacle
+directly from funds belonging to the District. The requirements of the PPA cannot be avoided by
+an agreement which allegedly requires the District to assume a contract in being.
+
+        Based on the undisputed facts, we conclude that the contract alleged by Appellant is a
+nullity because award was never made by an authorized official of the District of Columbia and
+that even if an award could be construed to have been ratified by an authorized District official,
+the underlying award was not made pursuant to the competition requirements of the PPA. We
+also reject the alternative argument of the Appellant that the agreement is not void, but merely
+voidable. (Opposition, 12-14). To avoid the binding stamp of nullity, “a contract which is
+entered into in violation of this chapter or the rules and regulations issued pursuant to this
+chapter is void, unless it is determined in a proceeding pursuant to this chapter or subsequent
+
+8
+   Since we find that the District never entered into a contract, it is unnecessary for the Board to determine whether,
+had the District entered in to a contract, it was a multiyear contract requiring approval by the Council. The Board
+notes, however, that it would be difficult to apply the multiyear review requirements, because, at the outset of the
+agreement, it was uncertain when, if ever, it would bind the District. Initially, as Appellant admits, Channel 50 was
+solely responsible for compensation of S&A. At some undetermined time when rent from sublessees had repaid
+Channel 50’s construction costs, the District’s alleged obligation would spring up. The Board does not decide
+whether Council approval of a contract which did not begin within the Council’s then current period could bind a
+future Council from taking action to disapprove the contract during the Council period when the obligation of the
+District actually arises.
+9
+   “To the contrary, S&A was to collect the rents from subtenants, with checks payable to Channel 50 [and
+subsequently the District] of the proceeds, less S&A’s agreed-to expenses.” Opposition, 10
+                                              -9-          Pinnacle Towers III, Inc., CAB No. D-1183
+
+
+judicial review that good faith has been shown by all parties, and there has been substantial
+compliance with the provisions of the chapter and the rules and regulations.” D.C. Code § 2-
+302.5(1)(d); Recycling Solutions, Inc., CAB No. P-0377, April 15, 1994, 42 D.C. Reg. 4550. In
+the instant matter, there was no attempt whatsoever to comply with the Procurement Practices
+Act.
+
+       The Board concludes that the alleged contract is void ab initio. The appeal is dismissed.
+
+
+
+
+September 2, 2005                                                /s/ Matthew S. Watson
+                                                           MATTHEW S. WATSON
+                                                           Administrative Judge
+
+Concur:
+
+
+
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

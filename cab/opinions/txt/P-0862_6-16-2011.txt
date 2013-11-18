@@ -1,0 +1,258 @@
+              DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+GOEL SERVICES, INC.                   )
+                                      )             CAB No. P-0862
+                                      )
+Solicitation No: DCEB-DMPED-10-I-0012 )
+
+
+      For the Protester: Paul V. Waters. Esq., Erin A. Behbehani, Esq. For the District of
+Columbia Government: Talia Sassoon Cohen, Esq., Assistant Attorney General.
+
+      Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Marc
+D. Loud, Sr., concurring.
+
+                                           OPINION
+                                       Filing ID 38185928
+
+        Goel Services, Inc. (“Goel”) protests the award of a contract for the demolition of the
+D.C. General Hospital’s former pediatric unit (hereafter “Hill East Building 10”) to Keystone
+Plus Construction. Goel challenges the award on the grounds that the contracting officer’s
+nonresponsibility determination erred in concluding that Goel could not meet the detailed
+schedule of performance required by the solicitation, submitted an unrealistically low bid price,
+and failed to submit evidence of the categorized project cost breakdown. Goel also contends that
+the Contracting Officer’s award to Keystone was a sham, noting that the Determination and
+Finding (“D&F”) to award the contract to Keystone was completed before obtaining
+responsibility information from the protester (the apparent low bidder). After carefully
+reviewing the entire record herein, we conclude that the contracting officer did not violate law,
+regulation, or the terms of the solicitation in determining Goel to be nonresponsible.
+Accordingly, we deny the protest.
+
+                                       BACKGROUND
+
+         On June 23, 2010, the Office of the Deputy Mayor for Planning and Economic
+Development (“DMPED”) issued IFB No. DCEB-DMPED-10-I-0012 (“IFB”) in the open
+market. (Agency Report (“AR”); AR Ex. 1 and 7). The IFB was for a contractor to provide all
+labor, materials and equipment to fully execute the requirements to demolish the existing
+building, including removing all site furnishings and appurtenances and cutting or abandoning
+site utilities at Hill East Building 10, located at 1900 Massachusetts Avenue, SE, Washington
+D.C., in accordance with the scope of work. (AR Ex. 1).
+
+       The bid opening date was June 30, 2010. (AR Ex. 1). By 2:00 p.m. on June 30, 2010, the
+following three bidders submitted lump sum bids:
+                                                -2-              Goel Services, Inc., CAB No. P-0862
+
+
+             Bidder                   Total Price            Total Evaluated Bid
+         Horton & Barber             $3,250,000.00             $2,860,000.00
+               Goel                  $3,985,000.00              $3,985,000.00
+         Keystone Plus
+                                     $4,398,000.00              $4,090,140.00
+          Construction
+       (AR Ex. 5)
+
+       The Contracting Officer determined that Horton & Barber was the apparent low bidder.
+The Contracting Officer also determined that Horton & Barber’s bid was nonresponsive since
+Horton & Barber failed to submit a bid bond with their bid. (AR Ex. 7).
+
+       Further, by a Determination and Findings for Contractor Nonresponsibility (“D&F for
+Nonresponsibility”) dated July 14, 2010, the Contracting Officer determined Goel
+nonresponsible. (AR Ex. 6). By a Determination and Findings for Award to Other Than Low
+Bidder dated June 30, 2010, the District recommended award to Keystone Plus Construction
+(“Keystone”) as it met all the requirements of the solicitation. (AR Ex. 6).
+
+        The District awarded Contract No. DCEB-DMPED-10-C-0012 (“contract”) dated August
+11, 2010, to Keystone. On August 20, 2010, Goel filed the instant protest challenging the
+District’s determination of nonresponsibility. On August 24, 2010, the District issued to
+Keystone a Notice to Cease Performance. By a Determination and Findings to Proceed with
+Contract Performance after Receipt of a Protest dated August 24, 2010, OCP determined that it
+was in the best interest of the District to proceed with contract performance while the protest is
+pending. On August 25, 2010, pursuant to the Determination and Findings to Proceed with
+Contract Performance after Receipt of a Protest, the District issued to Keystone a Notice to
+Resume Performance. (AR Ex. 11). On August 31, 2010, Goel filed a Motion Challenging the
+District’s Determination and Findings to Proceed with Contract Performance after Receipt of a
+Protest (“Motion to Challenge”). On September 2, 2010, the District filed its Response to the
+Protester’s Motion to Challenge. On September 24, 2010, the Board sustained the Chief
+Procurement Officer’s written determination to proceed with contract performance.
+
+       Goel challenges the Contracting Officer’s determination of nonresponsibility regarding
+Goel’s bid. The District responds that the District properly determined Goel nonresponsible.
+
+                                         DISCUSSION
+
+         Goel alleged in its protest that the Contracting Officer erred when he found Goel
+nonresponsible. Goel expanded its argument when it filed the Challenge to the D&F to proceed
+with contract performance. In the challenge to the D&F, Goel sets forth its version of a
+telephone conversation of June 30, 2010, between Mr. P.J. Goel and the Contracting Officer
+regarding Goel’s ability to perform the contract. (Ex. 2, Challenge to D&F, Declaration of
+Piyush J. Goel). Mr. Goel further asserts that the Contracting Officer did not contact the
+protester on any other occasion to discuss the bid, and that the Contracting Officer did not
+request any other information or documents from Goel.
+                                                 -3-                 Goel Services, Inc., CAB No. P-0862
+
+
+       The Contracting Officer prepared a D&F for Contractor Nonresponsibility on July 14,
+2010. (AR Ex. 6). In that D&F, the Contracting Officer set forth his reasons for finding Goel
+nonresponsible.
+
+          The Procurement Regulations set forth the District’s rules regarding responsibility. 27
+DCMR § 2200.4 states that “[t]o be determined responsible, a prospective contractor shall meet
+all of the following requirements:
+
+       (a) Financial resources adequate to perform the contract, or the ability to obtain
+       them;
+
+        (b) Ability to comply with the required or proposed delivery or performance
+       schedule, taking into consideration all existing commercial and governmental
+       business commitments;
+
+       (c) A satisfactory performance record;
+
+       (d) A satisfactory record of integrity and business ethics;
+
+       (e) The necessary organization, experience, accounting and operational controls,
+       and technical skills, or the ability to obtain them;
+
+       (f) Compliance with the applicable District licensing and tax laws and regulations;
+
+       (g) The necessary production, construction, and technical equipment and
+       facilities, or the ability to obtain them; and
+
+       (h) Other qualifications and eligibility criteria necessary to receive an award
+       under applicable laws and regulations.”
+
+Moreover, 27 DCMR § 2200.5 provides as follows:
+
+       If the contracting officer determines that the price bid or offered by a prospective
+       contractor is so low as to appear unreasonable or unrealistic, the contracting
+       officer may determine the prospective contractor to be nonresponsible.
+
+As indicated in the D & F for Nonresponsibility, on July 2, 2010, the Contracting Officer
+contacted Goel and spoke with Goel about whether Goel could meet the performance schedule.
+According to the Contracting Officer, Goel indicated that it would perform the project within the
+time stated in the IFB but failed to provide any further details. Additionally, the Contracting
+Officer determined that Goel’s bid was unrealistically low. Goel failed to provide the District
+with evidence of the project cost breakdown, as required by Section B.7 (E) of the IFB. When
+asked by the Contracting Officer to explain their costs to knock down a building, Goel responded
+“that they knock down buildings all the time.” (AR Ex. 6). Goel submitted a price for removal
+of contaminated soil at $25.00 per ton. The Contracting Officer determined that a realistic
+estimate is $50.00 to $95.00 per ton.
+                                                 -4-               Goel Services, Inc., CAB No. P-0862
+
+
+         In addition, the Contracting Officer determined that Goel submitted unrealistically low
+amounts for cutting and patching existing fixtures, and for the demolition of the building. Goel
+submitted a price of $10,000 for cutting and patching fixtures whereas the Contracting Officer
+determined that a realistic estimate is $75,000 to $100,000. Goel submitted a price of $600,000
+for building demolition whereas the Contracting Officer determined that a realistic price for that
+work would be $900,000.
+
+         This Board has consistently held “that the determination of a prospective contractor’s
+responsibility is the duty of the contracting officer and that that official is vested with wide
+discretion and business judgment.” Protest of: Kidd International Home Care Services, Inc., No.
+P-547, Sept. 15, 1998, 45 D.C. Reg. 8835; Protest of: Aceco, LLC., CAB No. P-486, July 23,
+1997, 44 D.C. Reg. 6852; Protest of: Central Armature/Fort Myer, CAB No. P-478, June 6,
+1997, 44 D.C. Reg. 6823; Protest of: Ideal Electrical Supply Corporation, CAB No. P-372, Aug.
+13, 1993, 41 D.C. Reg. 3603. See 27 DCMR §§ 2200, 2204. Therefore, in reviewing a
+determination concerning general standards of responsibility, we will not overturn a finding of
+responsibility or nonresponsibility unless the protestor shows bad faith on the part of the agency
+or that the determination lacks any reasonable basis. Protest of: Ideal Electrical Supply
+Corporation, supra. See also Protest of: Alexandria Scale t/a Bay Scale, Inc., CAB No. P-361,
+1993 DCBCA Lexis 277, (March 25, 1993).
+
+        In the Protest of: Group Insurance Administration, Inc., CAB No. P-309-B, Sept. 2,
+1992 40 D.C. Reg. 4485 (aff’d, No. 92-12406 Super. Ct. Apr. 25, 1994) this Board expressed its
+standard of review as follows:
+
+       This Board will not reverse an affirmative determination of responsibility, which is
+       largely a business judgment, unless the protestor shows possible fraud or bad faith on the
+       part of procurement officials, or that the solicitation contains definitive responsibility
+       criteria which have not been met. It is well-established that procurement officials are
+       presumed to act in good faith; and in order for this Board to conclude otherwise, the
+       record must show that the procuring officials had a specific, malicious intent to harm the
+       protestor.
+
+        This Board will not reverse an affirmative determination of responsibility or non-
+responsibility unless there is evidence of bad faith on the part of the District. In this regard, the
+protestor provides no evidence of bad faith. In papers filed by the protester after its initial
+response to the agency report, the protester alleged bad faith on the part of the District regarding
+the Contracting Officer’s determination of nonresponsibility. It appears that the protester
+forwarded the allegations to the Inspector General in August of 2010. However, the protester
+provided no further information regarding the alleged bad faith of any District officials.
+
+        Any discussion of bad faith by government officials must begin with an analysis of the
+conduct that constitutes the bad faith. Kalvar Corporation, Inc. v. United States, 211 Ct.Cl. 192,
+543 F.2d 1298 (1976), involved a claim contending that the Government had shown bad faith or
+clear abuse of discretion in determining that films requested by one agency were beyond the
+scope of the primary source contract and that plaintiff had incurred costs that were recoverable
+under the termination for convenience clause of contract. In analyzing the proof needed to prove
+bad faith, the court stated:
+                                                -5-               Goel Services, Inc., CAB No. P-0862
+
+
+               Any analysis of a question of Governmental bad faith must begin with the
+       presumption that public officials act conscientiously in the discharge of their
+       duties”. Librach v. United States, 147 Ct.Cl. 605, 612 (1959). The court has
+       always been ‘loath to find to the contrary,’ and it requires ‘well-nigh irrefragable
+       proof’ to induce the court to abandon the presumption of good faith dealing.
+       Knotts v. United States, 121 F.Supp. 630, 631, 128 Ct.Cl. 489, 492 (1954).
+
+               In the cases where the court has considered allegations of bad faith, the
+       necessary ‘irrefragable proof’ has been equated with evidence of some specific
+       intent to injure the plaintiff. Thus, in Gadsden v. United States, 78 F.Supp. 126,
+       127; 111 Ct.Cl. 487, 489-90 (1948), the court compared bad faith to actions
+       which are ‘motivated alone by malice.’ In Knotts, supra, at 128 Ct.Cl. 500, 121
+       F.Supp. 636, the court found bad faith in a civilian pay suit only in view of a
+       proven ‘conspiracy * * * to get rid of plaintiff.’ Similarly, the court in Struck
+       Constr. Co. v. United States, 96 Ct.Cl. 186, 222 (1942) found bad faith when
+       confronted by a course of Governmental conduct which was ‘designedly
+       oppressive.’ But in Librach, supra, at 147 Ct.Cl. 614, the court found no bad
+       faith because the officials involved were not ‘actuated by animus toward the
+       plaintiff.’
+
+        Bad faith cannot consist solely of mistakes, but it must also include some specific intent
+to injure the plaintiff. After reviewing the record in this procurement, we have determined that
+the Contracting Officer acted appropriately in finding Goel nonresponsible. Goel failed to detail
+how it would meet the project’s performance schedule, and submitted unrealistically low bids for
+removal of contaminated soil, cutting and patching existing fixtures, and building demolition.
+Additionally, we see no evidence of any bad faith committed by any District official toward the
+protester.
+
+                                        CONCLUSION
+
+       For the reasons discussed above, we dismiss Goel’s protest to the award of the contract.
+
+       SO ORDERED.
+
+DATED: June 16, 2011                                  /s/ Warren J. Nash
+                                                      WARREN J. NASH
+                                                      Administrative Judge
+
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.__
+MARC D. LOUD, SR.
+Chief Administrative Judge
+                                        -6-   Goel Services, Inc., CAB No. P-0862
+
+
+
+
+Electronic Service:
+
+Paul V. Waters, Esq.
+Erin Behbehani, Esq.
+The Waters Law Firm, PLLC
+8737 Colesville Road, Suite 308
+Silver Spring, MD 20910
+
+Talia Sassoon Cohen, Esq.
+Howard Schwartz, Esq.
+Assistant Attorney Generals
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+

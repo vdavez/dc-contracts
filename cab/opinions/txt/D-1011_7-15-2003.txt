@@ -1,0 +1,153 @@
+                                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                 CONTRACT OF APPEALS BOARD
+
+APPEAL OF:
+
+          PRINCE CONSTRUCTION COMPANY, INC.                                )
+                                                                           )        CAB No. D-1011
+          Under Contract Nos. 93-0037-AA-2-0-KA                            )        (Quick Payment Act)
+                              94-0065-AA-2-0-CC                            )
+
+
+       For the Appellant: Robert Klimek, Esq., Klimek, Kolodney & Casale, P.C. For the Government:
+Jack Simmons, III, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson with Chief Administrative Judge Jonathan
+D. Zischkau, concurring.
+
+
+                                                           OPINION
+                                                   (Courtlink Filing ID 2150339)
+
+
+
+       The Department of Public Works, Division of Transportation (“Appellee” or “District”),
+pursuant to Board Rules 117.1(a) and (d), moved for reconsideration of the Board’s order granting
+summary judgment as to the entitlement of Prince Construction Co., Inc. (“Appellant” or “Prince”) to
+penalty interest under the Quick Payment Act, D.C. Code § 2-221.01 et seq. (2001 ed.) (“QPA”).
+Because we conclude that the Appellant admitted in Superior Court that payment of the underlying
+principal amounts was an equitable recovery, not as a contractual recovery, Appellant is not entitled to
+QPA interest. Accordingly, we grant reconsideration, vacate our prior order and dismiss the appeal.
+
+                                                      BACKGROUND
+
+        This action was brought by Appellant to recover payment from the District for work performed
+allegedly under Contract No. 93-0037-AA-2-0-KA for the repair of utility cuts in District streets (“Patch
+Contract”) and Contract No. 94-0065-AA-0-CC for repairs to the DPW Salt Storage Facility on
+Brentwood Road (“Salt Dome Contract”), (Complaint ¶7), together with interest penalties pursuant to
+the QPA for late payment. (Complaint ¶8). Just prior to filing this action with the Board, Appellant
+filed a two count complaint in Superior Court based on the same facts seeking recovery on alternative
+theories of quantum meruit and breach of contract. (C.A. No. 3528-97). The amount claimed in
+Superior Court was identical to the amount claimed before the Board, except that the court action did not
+include the additional request for QPA interest.1 The parties jointly moved the court for a consent
+judgment in a motion filed July 23, 1997. The court action was concluded by a consent judgment and
+
+
+
+1
+    The parties agree that initial jurisdiction to award QPA interest is exclusively with the Board.
+                                                             2             Prince Construction Company, Inc., CAB No. D-1011
+
+
+
+payment by the District of the full amount claimed in the court action.2 In the joint memorandum
+supporting the motion for consent judgment the parties stated:
+
+               Plaintiff has filed a complaint against the District of Columbia seeking
+        $2,506,487.00 which is the agreed value of 1) unpaid construction and road maintenance
+        services which plaintiff Prince Construction Co., provided to the District of Columbia
+        between December 1993 and September 1996 plus 2) unpaid work relating to Prince’s
+        construction of a salt storage facility for the District of Columbia between October 14,
+        1994 and August 21, 1995. All work was provided at the behest of the Department of
+        Public Works. . . .
+
+                                                     DISCUSSION
+
+        The Quick Payment Act requires interest to be paid for late payment only for work performed
+under contract. If payment is made other than pursuant to a valid contract, the QPA is inapplicable. The
+Quick Payment Act is patterned after the federal Prompt Payment Act of 1982, as amended, 31 U.S.C.
+§§ 3901-3906. A.S. Mcgaughan Co., Inc. CAB No. D-897, Aug. 10, 1994, 42 D.C. Reg. 4667. The
+Comptroller General has held that the federal act does not authorize interest to be paid for delayed
+payment for work not covered by a valid contract, even if the work was done at the request and for the
+benefit of the government. See Maintenance Service and Sales Corp., 70 Comp. Gen 664 (1991).
+
+        The District does not dispute that the work was done. As noted above, the District has consented
+to a court order directing it to pay for the value of the work and payment has been made. The District
+asserts, however, that it was not obligated to pay Appellant’s claim for interest on late payments because
+the payments were not pursuant to valid contracts. In the case of the Patch Contract, the District asserts
+that the unpaid work was performed after the expiration of the contract and therefore not covered by a
+valid contract. In the case of the Salt Dome Contract, the District contends that the work was performed
+in excess of the contract ceiling without change orders and therefore without contract authority.
+Appellant, on the other hand, asserts that the payments were due under valid contracts, that payments
+were clearly late, an thus Appellant is entitled to QPA interest.
+
+        Regrettably, the parties failed in their joint motion to the Superior Court requesting the consent
+order to directly address the effects on the instant action of the proposed order. Thus, we are faced with
+determining what was intended by the Superior Court order. The issue before the Board is whether or
+not the amounts owed and paid in this matter were owed and paid pursuant to contract, or owed and paid
+as quantum meruit, that is, not pursuant to a contract, but nevertheless to compensate Appellant for the
+value of goods and services received and accepted by the District at Appellant’s expense. The Board, on
+reconsideration, has reviewed the record before the Superior Court that culminated in the order for
+payment for the work performed.
+
+
+
+2
+   It is the District’s position that the executive branch of government has no authority to pay a claim for work done unless
+that performance is pursuant to a valid contract. The Superior Court, however, has equitable authority in excess of the legal
+authority of the executive to remedy unjust enrichment, even of the District. Where the District has accepted work not
+covered by contract, the District has encouraged claimants to file “friendly” lawsuits to recover the value received by the
+District so that the District can consent to be “ordered” by the court to make the payment.
+                                                                3             Prince Construction Company, Inc., CAB No. D-1011
+
+
+
+       We conclude that the parties’ joint memorandum establishes that Prince received an equitable
+recovery. The joint motion is important because it underlies the Superior Court’s consent judgment.
+The difference between a consent judgment and a voluntary dismissal in the Superior Court is that, in a
+consent judgment, the court receives a motion expressing the facts supporting the consent order and,
+based on these facts, approves an order directing action by the parties, while in a voluntary dismissal, the
+court dismisses the action without any review or substantive order. In effect, a motion for consent
+judgment and supporting memorandum of points and authorities is an admission of the facts supporting
+the judgment upon which the court will rely in entering the order.
+
+        The plain reading of the recitation of facts contained in the parties’ joint memorandum in support
+of the motion for the consent judgment is that the amount of the judgment was based on the “value” of
+the goods and services, and not on a contract price.3 In addition, the statement acknowledges that
+performance was “at the behest of the Department of Public Works,” but not that the work was pursuant
+to a contract. These are the facts admitted by the parties and represented by both the Appellant and the
+District to the court to justify issuance of the order by the court. The memorandum can only be read to
+be a request to the court to exercise its equitable powers to direct the District to pay for the value of
+goods and services the District received and accepted. The memorandum pointedly does not request an
+order enforcing contract rights, rather it requests an equitable remedy.
+
+        The admission by both parties that the payment ordered by the court to be made by the District to
+Appellant was on equitable grounds was not clearly unreasonable. Appellant, having received the
+benefit of its admission by the payment ordered cannot now disavow what it previously admitted as fact
+in Superior Court. In light of the representation of facts by the parties to the court, and the court having
+acted upon the admitted facts in issuing its order, the Board should have ruled that QPA interest was not
+recoverable because the parties agreed in the Superior Court action that the Appellant’s recovery was
+equitable, not contractual.
+
+        On reconsideration, based on the joint admission of the parties, the Board finds that the payments
+that were received by Appellant were not founded on contract. Therefore, Appellant is not entitled to
+Quick Payment Act interest penalties. The Board’s summary judgment in favor of Appellant is vacated.
+Since Appellant’s other claims in this matter have been satisfied through the consent judgment in
+Superior Court and Appellant is not, as a matter of law, entitled to Quick Payment Act interest penalties
+on the quantum meruit payments it received, the appeal is DISMISSED.
+
+          SO ORDERED
+
+July 15, 2003                                                                   /s/ Matthew S. Watson
+                                                                          MATTHEW S. WATSON
+                                                                          Administrative Judge
+CONCURRING:
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+3
+    The fact that the “value” of the services and the alleged contract price may have been the same was not before the court.
+

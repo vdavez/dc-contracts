@@ -1,0 +1,211 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+REHMA COMMUNITY SERVICES, INC.                          )
+                                                        )       CAB Nos. P-0765, P-0771
+Under Solicitation No. CFSA-06-R-0010                   )
+
+
+       For the Protester, REHMA Community Services, Inc.: Susan L. Schor, Esq., Jeanne A.
+Anderson, Esq., McManus, Schor, Asmar & Darden, L.L.P. For the District of Columbia Child and
+Family Services Agency: Howard Schwartz, Esq., Senior Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                             OPINION
+                                           Filing ID 21566799
+
+        REHMA Community Services, Inc., protests the District’s Child and Family Services
+Agency (“CFSA”) award of contracts to 14 other offerors for providing mentoring services to
+children. REHMA claims that the contracting officer and evaluators failed properly to evaluate its
+proposal. In response to the protest, and after CFSA had replaced the initial contracting officer, the
+new contracting officer initiated a re-evaluation of the proposals and discovered errors in the
+technical evaluation and price evaluation. In particular, with regard to the price evaluation, the
+contracting officer determined that some of the awardees had failed to propose prices for both
+contract line items and others had only proposed prices for the base year although the amended
+solicitation required prices for both line items for the base and all option years. In the Agency
+Report, CFSA stated that the remedy should be to leave the 14 contracts in place for the remaining
+base year period (expiring September 30, 2008) since CFSA would need the time to reprocure the
+mentoring services and disrupting the services in the middle of performance would have adverse
+consequences on the well-being of the children being mentored. After the Agency Report was filed,
+REHMA filed a supplemental protest (CAB No. P-0771) arguing that the price evaluation was
+unreasonable and contrary to the terms of the solicitation, that the contracting agency unreasonably
+evaluated its technical proposal, that it was improperly excluded from the competitive range, and
+that the agency failed to make a proper best value determination.
+
+        The District and CFSA readily admit that the price evaluation was seriously flawed, and, on
+this basis alone, we must sustain the consolidated protests. Further, we agree with REHMA that it
+was improperly excluded from the competitive range. Regarding the technical evaluations, the
+record does not adequately demonstrate that the contracting officer made an independent evaluation
+of the proposals. We conclude the evaluation and selection was arbitrary and unreasonable such that
+REHMA is entitled to recover is proposal preparation costs. Regarding the remedy for the 14
+contracts, we agree with the District that the proper action is to allow the 14 contracts awarded
+pursuant to the solicitation to expire on September 30, 2008. In other words, options shall not be
+exercised. Rather, the District shall award new contracts based on a valid reprocurement for the
+                                                -2-       REHMA Comm. Svcs, CAB Nos. P-0765, P-0771
+
+mentoring services.
+
+                                         BACKGROUND
+
+        On November 8, 2006, CFSA’s Contracts and Procurement Administration issued Request
+for Proposals No. CFSA-06-R-0010. (Agency Report (“AR”) Ex. 1). The solicitation sought
+contractors to provide mentoring services in order to improve the functioning and development of
+children. (AR Ex. 1, § B.1.1). The original solicitation contemplated an indefinite quantity contract
+with payment based on fixed hourly rates pre-determined by CFSA. (AR Ex. 1, § B.2.1). CFSA
+intended to award multiple contracts, and received a total of 33 proposals, of which 24 were deemed
+acceptable and timely received by the December 8, 2006, closing date for proposals. (AR Ex. 1, §
+B.1.2, and Ex. 8). Prior to the closing date, CFSA issued Addendum No. 1 in order to clarify the
+date and time offerors’ proposals were due to CFSA. (AR Ex. 1, Addendum No. 1).
+
+         CFSA initially intended to award contracts for mentoring services based on two evaluation
+criteria: (1) technical evaluation worth 85 points; and (2) price criteria worth 15 points, for a
+maximum possible score of 100 points. (AR Ex. 1, § M). The contracting officer selected a
+technical evaluation panel (“TEP”) to score the offerors’ technical proposals. (AR Ex. 9, ¶ 3). The
+TEP evaluated and scored offerors’ proposals between March 2007 and June 2007. (AR Ex. 4).
+
+        On June 11, 2007, CFSA issued a second amendment to the solicitation clarifying issues
+surrounding offerors’ pricing and LSDBE preference points. (AR Ex. 1, Addendum No. 2). The
+original solicitation had not required offerors to propose unit prices; instead CFSA had provided pre-
+determined unit prices based on the prices from previous mentoring services contracts. (AR Ex. 1, §
+B, Pricing Schedule). In Addendum No. 2, CFSA informed offerors that the unit prices previously
+included in the Pricing Schedule were merely government estimates. (AR Ex. 1, Addendum No. 2,
+Pricing Schedule). CFSA included in Addendum No. 2 a Pricing Schedule with two CLINs; CLIN
+0001 for Individual Mentoring Services, and CLIN 0002 for Group Mentoring Services. Addendum
+No. 2 also required offerors to submit pricing for up to a maximum of 50 students, the number of
+hours the contractor would provide service per month to each student, and the price per hour (unit
+price) for each student. (AR Ex. 1, Addendum No. 2, Pricing Schedule). Addendum 2 clearly
+required pricing information for the base and option years for both CLINs: “The Offeror shall use
+the revised Pricing Schedules, which are included with this Addendum #2, to fill in the minimum
+and maximum number of hours to be provided for the two categories of students for the base year
+and option years.” However, the Addendum only attached a pricing sheet for the base year.
+Addendum 2 also clarified that eligible offerors could receive a maximum of 12 LSDBE preference
+points resulting in a total maximum score 112 points – 85 points for technical, 15 points for price,
+and 12 LSDBE preference points. (AR Ex. 1, Addendum No. 2 and § M). Offerors were to submit
+pricing pursuant to the revised pricing instructions by June 19, 2007.
+
+         On June 20, 2007, the TEP submitted to the contracting officer its technical evaluations. The
+contracting officer began reviewing the TEP’s recommendations on July 23, 2007. After reviewing
+the evaluation panel’s recommendations, the contracting officer held a meeting with the contracts
+specialist and contracts manager to discuss the soundness of the evaluation process and quality
+assurance procedures relating to the TEP’s final scores. (AR Ex. 4). Although the Agency Report
+states that the contracting officer conducted an independent evaluation of the proposals in July 2007,
+                                                 -3-        REHMA Comm. Svcs, CAB Nos. P-0765, P-0771
+
+there is no substantive evidence of his independent evaluation of the proposals in the record. The
+Agency Report includes a two-page memorandum dated July 31, 2007 (AR Ex. 10), from Jim Moye,
+Agency Chief Contracting Officer, to the CFSA Agency Director, Dr. Sharlynn E. Bobo. But the
+contracting officer merely lists in the memorandum the final numerical technical evaluation scores
+presumably received from the TEP, along with the flawed price evaluation scores, and his
+recommendation to award to the top 14 offerors. The offerors ranked 9 through 14 had total
+evaluation scores of 86, 86, 85, 84.5, 84, and 84, respectively. (AR Ex. 10). REHMA had a total
+score of 82 and was ranked 15th.
+
+        The contracting officer determined (incorrectly) that only the top 14 offerors who were
+intended to be the awardees were within the competitive range and held discussions with these 14
+offerors between September 13 and September 30, 2007. (AR Ex. 4). The contracting officer failed
+to notify REHMA or any of the other lower ranked contractors that they were excluded from the
+competitive range. The contracting officer recommended awarding 14 contracts with 50 available
+slots each based on the projected need for the services, the projected budget available to pay for the
+mentoring services, the need to maintain a manageable number of vendors to ensure proper
+monitoring by CFSA, and the perceived contractor economies of scale of having a minimum of 50
+students to serve. (AR Ex. 10).
+
+         On September 20, 2007, by letter sent certified mail, the contracting officer notified REHMA
+that it was not selected for award of a mentoring contract. (AR Ex. 11). The contracting officer held
+a debriefing with REHMA on October 3, 2007. (AR Ex. 4). On December 10, 2007, the contracting
+officer held a second debriefing with REHMA. (AR Exs. 4, 7, 12). REHMA filed its protest on
+December 12, 2007.
+
+         On December 21, 2007, CFSA’s Director appointed a new interim chief contracting officer
+to CFSA, who determined during the course of this protest that in light of concerns about the
+original evaluation of proposals raised by REHMA, a re-evaluation was necessary. (AR Ex. 5). As
+noted in the District’s Agency Report and exhibits, filed February 19, 2008, the contracting officer
+determined – after attempting to conduct a re-evaluation and discovering technical evaluation errors
+– that it was not possible to properly re-evaluate the existing proposals because of the lack of proper
+pricing data from some of the offerors (including awardees) and also due to the many variables
+introduced by the revised Pricing Schedules of Addendum 2. Although the revised solicitation
+indicated that the District would evaluate offers for award purposes “by evaluating the total price for
+all options as well as the base year”, CFSA did not receive option year pricing from all offerors, nor
+did all offerors provide pricing for both CLINs.
+
+        CFSA originally evaluated offerors’ pricing based on the per unit price in the offerors’
+proposals. However, upon re-evaluation, CFSA determined that averaging CLIN prices was not a
+viable approach, as this method did not comply with the price evaluation criteria listed in the
+solicitation. (AR Ex. 5). Due to her concerns about the procurement process, the interim
+contracting officer stated that she would not exercise the options for any of the 14 awarded contracts.
+ In addition, the contracting officer stated that she was re-soliciting the mentoring services during the
+period March through September 2008 so that new contracts would be in place when the 14
+contracts expire on September 30, 2008. (AR Ex. 5).
+                                                 -4-        REHMA Comm. Svcs, CAB Nos. P-0765, P-0771
+
+        In her affidavit submitted with the Agency Report, the contracting officer urged that the
+contracts not be terminated by the Board but that the contracts be allowed to expire because CFSA is
+providing mentoring to 356 students, 25 percent of whom are receiving the mentoring services
+pursuant to court order, and that a disruption to the services would be detrimental to the well-being
+of the children being served. (AR Ex. 5).
+
+       In its supplemental Agency Report, the District recognizes the procurement flaws in the
+evaluation and award and states that “[i]n order to preserve the integrity of the District procurement
+system, it is clear the District must resolicit for the required mentoring services.”
+
+                                                DISCUSSION
+
+        We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        Our standard of review for proposal evaluations and the selection decision is whether they
+were reasonable and in accord with the evaluation and selection criteria listed in the solicitation and
+whether there were material violations of procurement laws or regulations. Trifax Corp., CAB No.
+P-0539, Sept. 25, 1998, 45 D.C. Reg. 8842, 8847. The District has admitted that the price evaluation
+and thus the selection decision were seriously flawed. Clearly, the price evaluation was arbitrary
+and unreasonable when measured against the procurement law and the revised solicitation. We also
+must conclude that there is inadequate evidence of an independent evaluation of the proposals by the
+contracting officer, as the record is devoid of supporting documentation of such an evaluation.
+Finally, we agree with REHMA that the contracting officer unreasonably excluded it from the
+competitive range. The competitive range “shall be determined on the basis of cost or price and
+other factors, in accordance with the evaluation criteria that were stated in the solicitation, and shall
+include all proposals that have a reasonable chance of being selected for award.” 27 DCMR
+§1620.1. “If there is doubt as to whether a proposal is in the competitive range, the proposal shall be
+included.” Id. §1620.2. “The contracting officer shall notify, in writing, an unsuccessful offeror at
+the earliest practicable time that its proposal is no longer being considered for award.” Id. §1620.3.
+Here, REHMA’s proposal should have been included in the competitive range as it had a reasonable
+chance of being selected for award. Its technical evaluation by the TEP was only 2 points below that
+of the next two higher ranked offerors and within 4 points of the next six higher ranked offerors.
+Given the discrepancies in the technical scoring by one of the evaluators, the contracting officer
+should have considered this in his own independent evaluation and invited REHMA for discussions
+as REHMA had a reasonable prospect of improving its technical evaluation based on meaningful
+discussions. In the present case, it appears that the contracting officer gave no thought to the
+possibility that discussions were meant to help improve the offerors’ proposals. Moreover, the
+contracting officer failed timely to inform REHMA that it had been excluded from the competitive
+range.
+
+       In sum, we sustain the consolidated protests for the serious procurement flaws in the
+evaluation and selection. We have carefully considered CFSA’s evidence concerning remedies and
+have decided not to order termination of the contracts but to allow them to expire on September 30,
+2008, at which time the District will have in place new awards based on a valid procurement of the
+mentoring services. Options under the flawed awards shall not be exercised. Because the actions
+toward REHMA were arbitrary in the evaluation and selection, REHMA is entitled to it proposal
+                                                -5-       REHMA Comm. Svcs, CAB Nos. P-0765, P-0771
+
+preparation costs pursuant to D.C. Code §2-309.08(f)(2). It shall submit an application for costs and
+the parties shall attempt to agree on the amount of those costs.
+
+       SO ORDERED.
+
+DATED: September 17, 2008                             /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

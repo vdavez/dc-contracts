@@ -1,0 +1,389 @@
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       FORT MYER CONSTRUCTION CORP.                          )
+                                                             )       CAB No. P-452
+       Under IFB No. 93-0115-AA-2-0-KA                       )
+
+
+        For the Protester: Mr. Thomas M. Mero, pro se. For the Government: Howard S.
+ Schwartz and Warren J. Nash, Assistants Corporation Counsel. For Southern Maryland
+'Restoration, Inc., Intervenor: Leonard A. Sacks, Esquire.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Lorilyn E. Simkins and Phyllis W. Jackson, concurring.
+
+                                            OPINION
+
+         Fort Myer Construction Corporation has filed a protest of Department of Public Works·
+Invitation No. 93-01 15-AA-2-0-KA , alleging that the low. bid of Southern Maryland Restoration,
+Inc. ("SMR"), is nonresponsive because of a defect in SMR's bid bond, namely, that SMR's
+corporate secretary failed to execute a "Certificate as to Corporation" included on the bid bond.
+The District has moved to dismiss the protest on the ground that Fort Myer initially misfiled its
+protest with the contracting officer and by the time the protest was refiled with the Board, the
+statutory lO-working-day filing deadline had passed. On the merits, the District argues that the
+bid bond of SMR is not defective notwithstanding the unexecuted certificate becauseSMR's
+surety properly executed the bid bond thereby legally obligating itself to pay should SMR fail
+to fulfill its obligations. With regard to the jurisdictional issue of timely filing of a protest, we
+hold that the protester's misfiling of the protest with the contracting officer within the statutory
+time period was the functional equivalent of filing the protest with the Board, and we overrule
+our prior decisions holding to the contrary. On the merits, we agree with the District that the
+bid bond was not defective. Accordingly, we deny the protest.
+
+                                             FACTS
+
+       On February 20, 1996, the Department of Public Works ("DPW") issued IFB No. 93-
+0115-AA-2-0-KA in the open market for the FY-94 1st Federal Aid Resurfacing Contract.
+(Agency Report (" AR") at I). The solicitation contains a "Bid Bond for Construction" Form
+No. DC 2640-5. The instructions on page "c" of the bid bond form set forth the requirements
+for execution of the bid bond. Instruction Nos. 2 and 4 provide in relevant part:
+
+       2.      Corporation's name should appear exactly as it does on Corporate Seal
+               and inserted in the space designated "Principal" on the face of this form.
+               If practicable, bond should be signed by President or Vice President; if
+               signed by other official, evidence of authority must be furnished. Such
+                                               -2-           Fort Myer Construction Corp., CAB No. P-452
+
+               evidence should be in the form of an Extract of Minutes of a Meeting of
+               the Board of Directors, or Extract of Bylaws, certified by the Corporate
+               Secretary, or Assistance [sic] Secretary and Corporate Seal affixed
+               thereto. CERTIFICATE AS TO CORPORATION must be executed by
+               Corporate Secretary, or Assistant Secretary.
+
+       4.      Corporations executing the bond shall affix their corporate seals.
+               Individuals shall sign full first name, middle initial and last name opposite
+               the word "seal"; two witnesses must be supplied, and their addresses,
+               under the word" attest" . . . .
+
+       Paragraph 10 of the solicitation's Special Provisions, entitled "PROTESTS", states:
+
+       Any aggrieved person may protest this solicitation, award or proposed contract
+       award. The protest shall be filed, in writing, with the Contract Appeals Board
+       within ten (10) calendar days after the basis of the protest is known. The address
+       of the Contract Appeals Board is 717 14th Street, N.W., Suite 430, Washington,
+       D.C. 20005. The aggrieved person shall also mail a copy of the protest to the
+       Contracting Officer.
+
+Paragraph 10 incorrectly states that protests must be filed within 10 calendar days. It should
+read 10 working days. D.C. Code § 1-1189.8(b).
+
+      DPW opened bids on April 5, 1996, and determined that SMR submitted the low bid of
+$777,245.50, followed by Fort Myer as next low bidder. (AR at 2). The contract has not been
+awarded.
+
+        SMR's bid is signed by its vice president, Mr. Stephen W. Fye, and is accompanied by
+a corporate attestation. The bid form references an enclosed bid guaranty in the amount of 5
+percent of the total amount bid. The bid bond attached to SMR's bid is dated March 25, 1996.
+The bid bond's "Surety" block is properly completed and contains the signature of an authorized
+representative of the surety. The bid bond references the correct IFB by number, contains
+SMR's name and address as principal, and is signed by the same SMR vice president who signed
+the bid, including a corporate attestation and the corporate seal. The block on the bid bond
+labeled "Certificate as to Corporation" is complete with typewritten information, except that the
+line calling for the signature of the corporate secretary is blank.
+
+        On April 8, 1996, Fort Myer submitted a 5-page letter addressed to DPW's contracting
+officer, entitled "PROTEST", arguing that SMR's bid was nonresponsive on account of a
+defective bid bond. In an April 17, 1996 letter, received by Fort Myer on April 23, 1996,
+DPW's contracting officer acknowledged receipt of the April 8 protest letter and advised Fort
+Myer that "[a]ll protests are to be filed with the District of Columbia Contract Appeals Board
+                                               -3-           Fort Myer Construction Corp., CAB No. P-452
+
+      " Fort Myer refiled the identical protest with the Board on April 24, 1996}
+
+       On May 21, 1996, the District filed a Motion to Dismiss the protest as untimely. The
+District's motion to dismiss included as exhibits the solicitation (Exhibit 1), the bid tabulation
+(Exhibit 2), and Fort Myer's April 8, 1996 protest letter to the DPW contracting officer (Exhibit
+3). Fort Myer submitted an opposition to the motion to dismiss on May 30, 1996. On June 14,
+1996, we ordered the District to file an Agency Report to address the merits of the protest. On
+June 25, 1996, the District filed its Agency Report. Additional exhibits attached to the Agency
+Report included SMR's bid (Exhibit 4), SMR's bid bond (Exhibit 5), a blank bid bond Form No.
+DC 2640-5 (Exhibit 6). On July 10, 1996, Fort Myer filed a response to the Agency Report.
+SMR as intervenor has filed comments in support of the District's motion to dismiss and· the
+Agency Report.
+
+                                         DISCUSSION
+
+I.     Jurisdiction
+
+       We first address the District's motion to dismiss because it raises the threshold question
+of Board jurisdiction. The Board's primary jurisdiction-granting provision of the Procurement
+Practices Act, D.C. Code § 1-1189.3 (1992), states with regard to protest jurisdiction:
+
+               The Board shall be the exclusive hearing tribunal for, and shall
+               have jurisdiction to review and determine de novo:
+
+               (1)      Any protest of a solicitation or award of a contract
+               addressed to the Board by any actual or prospective bidder or
+               offeror, or a contractor who is aggrieved in connection with the
+               solicitation or award of a contract.
+
+Section 1-1189.8(b) of the D.C. Code requires that a person aggrieved by a solicitation or award
+"shall file a protest with the Board within 10 working days after the aggrieved person knew or
+should have known of the facts and circumstances upon which the protest is based." The 1O-day
+filing requirement is a prerequisite to Board jurisdiction and cannot be waived. Consolidated
+Maintenance Supply, Inc.; CAB No. P-308, Oct. 2, 1992, 40 D.C. Reg. 4568, 4569.
+
+        The District correctly states that in a number of cases we have dismissed protests as
+untimely, holding that misfiling a protest with the contracting officer does not constitute timely
+filing with the Board. E.g., Xerox Corp., CAB No. P-125, Feb. 15, 1991,38 D.C. Reg. 3234,
+3235; D.H. Kim Enterprises, Inc., CAB No P-293, Dec. 12,1991,39 D.C. Reg. 4365,4366;
+J.G. Robinson Heating & Air Conditioning, CAB No. P-337, Oct. 8, 1992,40 D.C. Reg. 4572,
+4573; M&T Electrical Contractors, Inc., CAB No. P-367, Aug. 10, 1993, 41 D.C. Reg. 3537.
+In addition, our rules provide that protests "shall be filed with the Board" and that "[t]iling
+
+
+1 The letter is redated April 23, 1996, and contains an introductory sentence referring to its
+April 8 protest letter and the response from DPW's contracting officer.
+                                                -4-           Fort Myer Construction Corp., CAB No. P-452
+
+occurs when the protest is received by the Board." Board Rules 301.1 and 301.3, 36 D.C. Reg.
+2710. Nonetheless, for the reasons discussed below, we conclude that a protest filed with the
+contracting officer within the statutory 1O-day time period is functionally equivalent to filing
+with the Board. To the extent that our prior decisions have held otherwise, we overrule those
+holdings.
+
+        We start with the principle that courts and boards should decide cases, wherever possible,
+on the merits rather than on procedural technicalities. Torres v. Oakland Scavenger Co., 487
+U.S. 312, 316-17 (1988) ("the requirements of the rules of procedure should be liberally
+construed and ... 'mere technicalities' should not stand in the way of consideration of a case
+on its merits"); Anderson v. District of Columbia, 72 F.3d 166, 168 (D.C. Cir. 1995). At the
+same time, the Board's jurisdictional scope is limited to that conferred by statute. The question
+is whether the Council of the District of Columbia intended -- by stating in sections 1-1189.3(1)
+and 1-1189.8(b) that protests be "addressed to" and "filed with" the Board -- to exclude our
+treating an otherwise proper protest timely filed with the contracting officer as tantamount to
+filing with the Board. We believe the better interpretation is that the Council did not intend to
+foreclose our treating such a protest as timely filed with the Board for purposes of jurisdiction.
+As a statutory rule of construction, the Procurement Practices Act "shall be liberally construed
+and applied to promote its underlying purposes and policies." D.C. Code § 1-1181.1(a).
+Treating an otherwise proper protest directed to the contracting officer within the 1O-working-
+day statutory period as functionally equivalent to filing with the Board, and resolving the protest
+on its merits, promotes fair and equitable treatment of all participants while safeguarding and
+maintaining a procurement system of quality and integrity.
+
+         Our interpretation neither minimizes nor defeats the very clear legislative purpose for the
+ 10-working-day filing requirement. The Council intended to require prompt filing of protests
+so that the Board could "promptly decide" protests and avoid any undue disruption of District
+agency procurements. Treating a protest filed with the contracting officer as tantamount to filing
+with the Board for purposes of timeliness will not prevent the Board from meeting its obligation
+to resolve protests expeditiously. We can hardly imagine a situation where the contracting
+officer, upon receiving what is obviously a protest, would be unable to furnish the protest to the
+Board within a day of agency receipt. Moreover, our treatment of a protest misfiled with the
+contracting officer will not cause prejudice to the District. The Board's rules require the Board
+promptly to docket and forward an acknowledgement of the protest to the contracting agency and
+its legal counsel. Board Rules 303.1-303.3. The contracting agency is responsible for preparing
+and submitting the Agency Report within 25 days of receipt of the Board's acknowledgement.
+Thus, in the case of a protest misfiled with the contracting officer, the agency still would have
+25 days from the date of receiving the Board's acknowledgement to file the Agency Report.
+Using actual notice of the protest as the measure, the contracting officer has more time to file
+the Agency Report where the protester misfiles than where it initially files only at the Board.
+Even in a case where the protester is successful on the merits before the Board, any prejudice
+caused by a brief delay arising from the protester's misfiling, through no fault of the agency in
+forwarding the protest to the Board, will work against the protester, not the agency, when the
+Board fashions a remedy. See D.C. Code § 1-1189.8(e); Board Rules 314.1-314.3.
+
+       There are two lines of precedent which support our reasoning, one concerning the
+                                                      -5-           ForI Myer Construclion Corp., CAB No. P-452
+
+     specificity requirements for notices of appeal in federal appellate practice and the other
+     concerning notices of appeal filed with federal boards of contract appeals from contracting
+     officers' final decisions on claims.
+
+             Rule 3(c) of the Federal Rules of Appellate Procedure2 specifies the required content of
+     a notice of appeal to federal appellate courts. In construing the" specificity requirement" of Rule
+     3(c), which is jurisdictional, courts have held that improperly designating the wrong appellate
+     tribunal in the notice of appeal filed in the lower tribunal does not by itself constitute a
+     jurisdictional defect requiring dismissal. E.g., Anderson v. District of Columbia, 72 F.3d at
+      168; United States v. Musa, 946 F.2d 1297, 1301 (7th Cir. 1991). Central to the specificity
+     requirements for notices of appeal under Rule 3(c) is the principle of fair notice to the opposing
+     party and to the court. Torres, 487 U.S. at 318; Anderson, 72 F.3d at 168; Musa, 946 F.2d at
+      1301. In Anderson and Musa, the appellant's naming the wrong appellate court in his notice of
+     appeal did not render the notice jurisdictionally defective because the notice unambiguously
+     informed the appellee and the district court what judgment or order appellant was appealing and
+     the court of appeals was the only court to which an appeal c.ould ~e taken. Accord, McLemore
+"'   v. Landry, 898 F.2d 996, 999 (5th Cir.), cen. denied, 498 U.S. 966 (1990) (appellant's failure
+     to designate any circuit in the notice of appeal not a bar to jurisdiction because the Fifth Circuit
+     was the only court to which an appeal could be taken).
+
+            Section 7 of the Contract Disputes Act of 1978, 41 U.S.C. § 606 (1994),3 specifies the
+     requirements for a contractor to file an appeal to a federal board of contract appeals from a final
+     decision of an agency contracting officer. In construing the 90-day statutory filing requirement,
+     also jurisdictional, the federal boards have routinely treated an otherwise proper appeal
+     misdirected to the contracting officer within the required time period as tantamount to filing an
+     appeal with the board. E.g., Yankee Telecommunication Labs., Inc., ASBCA No. 25240, 82-1
+     BCA 1 15,515; Orbas & Assocs., ASBCA No. 30201, 85-1 BCA 1 17,915 at 89,720; Inventory
+
+
+     2   Rule 3(c) provides:
+
+              A notice of appeal shall specify the party or parties taking the appeal by naming
+              each appellant in either the caption or the body of the notice of appeal. . .. A
+              notice of appeal also must designate the judgment, \order, or part thereof appealed
+              from, and must name the court to which the appeal is taken. An appeal will not
+              be dismissed for informality of form or title of the notice of appeal, or for failure
+              to name a party whose intent to appeal is otherwise clear from the notice. . . .
+
+     3 41 U.S.c. § 606 provides:
+
+             Within ninety days from the date of receipt of a contracting officer's decision
+             under section 605 of this title, the contractor may appeal such decision to an
+             agency board of contract appeals, as provided in section 607 of this title.
+
+         Section 607 does not supply any additional pertinent requirements concerning the actual filing
+         of a notice of appeal.
+                                                                    e-
+                                               -6-           Fort Myer Construction Corp.• CAB No. P-452
+
+Accounting Service, ENG BCA No. 5797, 93-1 BCA 1 25,230 at 125,671; Contraves-Goerz
+Corp., ASBCA No. 26317,83-1 BCA 1 16,309; Dawson Constr. Co., EBCA No. 155-2-81,
+81-2 BCA 1 15,162. A contracting officer's failure to forward the notice of appeal to the board
+does not defeat the board's jurisdiction. Yankee Telecommunications, 82-1 BCA at 76,962-63;
+Inventory Accounting Service, 93-1 BCA at 125,671.
+
+        Based on the circumstances presented in the record, we conclude that Fort Myer's filing
+of its protest with the contracting officer was functionally equivalent to filing the protest with
+this Board and that we should not dismiss the protest as untimely. Fort Myer's letter was
+unambiguously a protest from the standpoint of form and content. It was filed the first working
+day after bids were opened and it challenged the responsiveness of the apparent low bid. When
+Fort Myer delivered its protest to the contracting officer, it certainly provided fair notice to the
+appellee, the District of Columbia, and to the agency through the person of the contracting
+officer. From the record, there can be no ambiguity that the protester intended to file a protest.
+The Procurement Practices Act vests only this Board with jurisdiction over protests from
+agencies subordinate to the Mayor. See D. C. Code § 1-1181. 4(c). Thus, there is no issue as
+to whether the protester intended an agency protest or a Board protest. q: The Miklin Group,
+Inc., GSBCA No. 9322-P, Jan. 20, 1988,88-1 BCA 120,516 at 103,712-13.
+
+        Because we deem Fort Myer's protest filing with the contracting officer within the 10-
+working-day time period functionally equivalent to filing with the Board, the fact that the
+protester did not receive notice from the contracting officer of the misfiling until one day after
+expiration of the lO-working-day period will not defeat Board jurisdiction. In the future, when
+the contracting officer receives a misdirected protest, the contracting officer shall immediately
+forward the protest to the Board.
+
+II.    Merits
+
+        On the merits of Fort Myer's protest, we agree with the District that SMR's bid is not
+rendered nonresponsive simply because SMR's corporate secretary failed to execute a
+"Certificate as to Corporation" on the bid bond.
+
+        Bid bond requirements are a material part of the IFB, and a contracting officer cannot
+waive a failure to comply with a bond provision. Design For Health, Inc., 69 Compo Gen. 712,
+714 (1990), 90-2 CPD 1213. The sufficiency of a bid bond depends on whether the surety is
+clearly bound by its terms and whether the government will receive the full and complete
+protection it contemplated in the event the bidder fails to execute the required contract
+documents and deliver the required performance and payment bonds. Webb Builders Hardware,
+Inc., B-185985, May 27, 1976, 76-1 CPD 1 348; Martina Enterprises, B-250766, Oct. 21,
+1992, 92-2 CPD 1266. Among other things, the terms of the bid bond must clearly establish
+the liability of the surety at the time of bid opening. Design/or Health, 69 Compo Gen. at 714.
+When the surety's liability is not clear, the bond is defective. This rule is prompted by the law
+of suretyship that no one incurs a liability to pay the debts of another unless he expressly agrees
+to be bound. Martina Enterprises, 92-2 CPD 1 266; G&C Enterprises, Inc., B-233537, Feb.
+15, 1989, 89-1 CPD 1 163.
+                                                -7-            Fort Myer Construction Corp., CAB No. P-452
+
+        Here, SMR's vice president properly executed the bid, he signed the bid bond, the bond
+properly identified the IFB to which it was applicable, the appropriate penal amount was
+indicated, and the bond was properly signed by the surety. Under these circumstances, the
+failure of SMR's corporate secretary to execute the certificate as to corporation could not relieve
+the surety of its obligation under the bond. This Board and the Comptroller General have held
+that the surety's obligation, and thus the validity of the bid bond, were not affected even where
+the principal did not sign the bond at all. E.g., Norair Engineering Corp., CAB No. P-302,
+Oct. 21, 1992,40 D.C. Reg~ 4636; Southern Maryland Restoration, Inc., CAB No. P-241 , Aug.
+7, 1991, 39 D.C. Reg. 4268; Webb Builders Hardware, 76-1 CPD 1 348; General Ship &
+Engine Works, Inc., B-184831, 55 Compo Gen. 422, 426 (1975), 75-2 CPD 1 269. In Webb
+Builders, the protester challenged another bidder's failure to execute a "certificate as to
+corporation" on the same bid bond Form No. DC 2640-5 used in the present solicitation. The
+Comptroller General effectively rejected the challenge on the ground that a defective signature
+was immaterial because a bid bond unsigned by the bidder does not render the bond invalid if
+the bond is otherwise in order. In our Norair Engineering and Southern Maryland Restoration
+decisions, we also rejected the argument that a bid bond was defective simply because the
+corporate secretary failed to sign the bid bond. 4                                       .
+
+
+                                          CONCLUSION
+
+        Because SMR presented a bid bond properly executed by the surety, and the bond
+references the IJ:B and identifies the correct penal amount, the fact that the corporate secretary
+failed to execute the "certificate as to corporation" is a minor informality. The District will
+receive the full and complete protection it contemplated in the event SMR fails to execute the
+required contract documents and deliver the required performance and payment bonds.
+
+        Accordingly, the protest is denied.
+
+        SO ORDERED.
+
+
+
+
+DATE: July 23. 1996                                                     f).
+                                                           inistrative Judge
+
+
+ 4 We find no merit in Fort Myer's attempt to avoid the force of these cases by arguing that the
+ certificate as to corporation was necessary in light of a typographical error in the portion of the
+ printed bid form where the bidder agrees to furnish executed contract documents and
+ performance and payment bonds with good and sufficient "survey" -- rather than "surety." This
+ error does not vitiate the surety's obligation. The very next clause states that if the bidder fails
+ to satisfy these obligations, "required bid guaranty shall be applied as specified in Instructions
+ to Bidders." Several lines down on the bid form, the bidder also expressly incorporates its "bid
+.guaranty consisting of 5% of the total amount bid" in the form of a bid bond.
+                             -8-   ForI Myer Construction Corp .• CAB No. P-452
+
+CONCURRING:
+
+
+
+
+~JE~
+Chief Administrative Judge
+                 Oioutrnmtnt of tilt iJistrirt of Qlolumhia
+                               CONTRACT APPEALS BOARD
+                            717 14TH STREET, N.W., SUITE 430
+                                 WASHINGTON, DC 20005
+
+                                                                   12021 727·6597
+
+
+
+
+                                                     DATE:     July 23, 1996
+
+
+
+
+TO:          . Thomas M. Mero, Vice President
+               Fort Myer Construction Corporation
+               2237 33rd Street, N.E.
+               Washington, D.C. 20018-1594
+
+             Howard S. Schwartz
+             Warren J. Nash
+             Assistants Corporation Counsel
+             441 4th Street, N.W., Suite 1060
+             Washington, D.C. 20001
+
+
+
+SUBJECT:     CAB No. P-452, Protest of Fort Myer Construction Corporation
+
+      Attached is a copy of the Board's opinion in the above-referenced matter.
+
+
+
+
+                                                    ill;..
+                                                     MIA J. HO
+                                                               lIsE '(flAM' It..
+                                                    Clericat Assistant (Typist)
+
+
+
+
+Attachment
+
+cc:   Leonard A. Sacks, Esq.
+      One Church Street, Suite 201
+      Rockville, Maryland 20850
+

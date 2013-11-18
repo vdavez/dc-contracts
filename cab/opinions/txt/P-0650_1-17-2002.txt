@@ -1,0 +1,105 @@
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+Maryland Construction, Inc.                                 )
+                                                            )        CAB No. P-0650
+Under Solicitation No. POAM 2001-C-0009-JH                  )
+
+
+      For the Protester, Timothy P. Leahy, Esq., Byrd and Byrd, LLC. For the Government,
+Howard Schwartz, Esq. and Warren J. Nash, Esq., Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+
+                                                 OPINION
+                                          Courtlink Filing ID 494272
+
+
+
+        Protester, Maryland Construction, Inc. (“MCI”), has protested against award to the
+apparent low bidder, Engineering Management Services, Inc. (“EMS”), alleging irregularities in
+the EMS bid bond and in announcement of the EMS bid at opening. The District has moved to
+dismiss the protest on the ground that MCI is not a certified small business and therefore lacks
+standing to protest the award of a contract set aside for small businesses. We agree with the
+District and dismissthe protest.
+
+       It is undisputed that MCI is not “certified” as a small business by the Local Business
+Opportunity Commission (“LBOC”).1 It is further undisputed that Box 6 in the upper right of
+the first page of the solicitation designated the solicitation as “Set-Aside - Building
+Construction.” (Protester’s Reply to Motion, at 1) But it is also undisputed that the solicitation
+did not contain the standard clauses required in a set-aside solicitation which limit eligible
+bidders to “certified” small businesses only. (District Response, 3, note 1).
+
+        As a general rule, an entity which is not certified as a small business by the LBOC is not
+eligible for award of a contract set-aside for small businesses and lacks standing to protest award.
+See J&K Distributors, Inc. of Washington, D.C., CAB No. P-432, June 13, 1995, 42 D.C. Reg.
+4986. It is undisputed that MCI was not certified as a small business when the bids were opened.
+As opposed to J&K, where certification was specifically required, MCI contends that, since the
+solicitation lacked specific language requiring that only certified small businesses were eligible
+to bid, although it is not certified, it cannot be excluded. We disagree with MCI.
+
+
+
+1
+  The Board takes administrative notice of the Office of Local Business Development database of LSDBE certified
+contractors accessible at http://www.olbd.dc.gov/services/certification/search.asp
+                                                           2           Maryland Construction, Inc., CAB No. P-0650
+
+
+       At best, the terms of the solicitation are ambiguous. The solicitation stated, as protester
+acknowledges, that it was “set-aside.” The Council has clearly stated its intent that the “set-
+aside” programs which it mandated shall be established “to assist contractors who are certified as
+local business enterprises, disadvantaged business enterprises, or small business enterprises
+(emphasis supplied)” D.C. Code § 2-217.03 (2001 ed.) An ambiguity must be resolved in
+conformity with the intent of the legislation establishing the program so as to uphold the
+lawfulness of the solicitation. 2
+
+        If MCI believed that the solicitation, as written, differed from the statutory set-aside
+program, an ambiguity or impropriety existed on the face of the solicitation when it was issued.
+Pursuant to our rules, “[a] protest based upon alleged improprieties in a solicitation apparent
+prior to bid opening . . . shall be filed with the Board prior to bid opening. . . . .” Rule 302.2(a).
+A bidder who fails to seek clarification of an ambiguity on the face of a solicitation prior to bid
+opening risks a contrary interpretation of the allegedly ambiguous provision and is precluded
+from raising such issues to the Board after opening.
+
+        Since the solicitation clearly stated that the contract was to be “set-aside,” the Board
+determines that the term must be read in conformity with the statutory definition of set aside
+procurements which restricts bidders on such procurements to firms certified by the LBOC.
+Because Protester was not certified, it is not eligible for award and lacks standing to protest. The
+protest is DISMISSED.3
+
+SO ORDERED.
+
+
+
+Dated: January 17, 2002                                          /s/Matthew S. Watson
+                                                                 MATTHEW S. WATSON
+                                                                 Administrative Judge
+
+CONCURRING:
+
+
+
+   /s /Jonathan D. Zisschkau
+JONATHAN D. ZISCHKAU
+Administrative Judge
+
+
+
+2
+  There is no question that it was the intent of the contracting agency to require certification. The advertisement of
+the solicitation in the Washington Times clearly stated that “This project is set aside for “Certified Local Small and
+Disadvantage Business Enterprises Certified in the Category of Building Construction.” (October 15, 2001)
+3
+  Forney Enterprises, Inc., a certified small business bidder on this solicitation has moved to intervene in this protest
+asserting that EMS is not itself certified and not eligible for award. The Board has not determined whether the
+apparent law bidder, EMS, is qualified for award. That determination must be first made by the contracting officer
+and is not yet ripe for consideration.
+
+
+                                                                                                                         2
+

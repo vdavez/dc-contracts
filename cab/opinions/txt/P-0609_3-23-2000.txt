@@ -1,0 +1,230 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       ALL-BUSINESS SYSTEMS AND DESIGN                        )
+                                                              )       CAB No. P-609
+       Under Child and Family Services Agency RFQ             )
+             (LaShawn Receivership)
+
+
+       For the Protester: Brad Cribb, Vice President, All Business System and Design. For the
+Receiver: Suzan Aramaki, Esq., General Counsel; Jeffrey M. Ford, Esq., Assistant General Counsel
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Jonathan D. Zischkau, concurring.
+
+                    OPINION ON MOTION TO DISMISS AND ORDER
+
+       On January 28, 2000, All-Business Systems and Design (“ABSD”) protested against award
+of a contract by the Child Welfare Receiver (“Receiver”) based on a solicitation requesting
+quotations for reconfiguration of file storage at the Agency’s new facility located at 400 6th Street,
+S.W.
+
+        On February 22, 2000, the Receiver filed a Motion to Dismiss for Lack of Jurisdiction
+(“Motion”) asserting that “the Child Welfare Receivership and the General Receiver are neither
+departments, agencies, instrumentalities, boards nor commissions of the District government” and
+are accordingly not subject to the jurisdiction of the Board. (Motion at 5). We deny the motion
+because we conclude that the court order establishing the Receivership incorporated the protest
+jurisdiction of this Board under the Procurement Practices Act.
+
+       Background
+
+        The Child Welfare Receivership was established and the Receiver appointed pursuant to a
+Remedial Order of the United States District Court for the District of Columbia dated, May 22,
+1995. LaShawn v. Kelly, 887 F. Supp. 297 (1995). The District Court granted all necessary powers
+to the Receiver in a General Receivership Order dated August 23, 1995. (Motion, Ex. 2). The Court
+added additional procedural controls in a supplemental order dated December 8, 1995. (Motion, Ex.
+3).
+
+        For the purposes of this motion, the Board accepts the assertion of the Receiver that the
+Receiver is not one of the “departments, agencies, instrumentalities, boards [or] commissions of the
+District government” referred to in the Procurement Practices Act (“PPA”). D.C. Code §1-1181.4.
+Nevertheless, the Board finds that the District Court, in empowering the Receiver, has subjected the
+                                                  2            All Business Systems and Design, CAB No. P-609
+
+Receiver’s authority to reasonable requirements of District law and therefore that this Board has
+jurisdiction to consider a protest against award of a contract executed by the Receiver.
+
+        Authority of a Receiver
+
+        "A receiver derives his authority from the act of the court appointing him . . . .” Consumers
+United Ins. Co. v. Smith, 644 A.2d 1328, 1351 (D.C. 1994) (quoting Union National Bank of
+Chicago v. Bank of Kansas City, 136 U.S. 223, 236 (1890)). It follows that the receiver’s authority
+is defined and limited by the orders of the appointing court and it has long been held that a receiver
+“has only such power and authority as are given him by the court, and must not exceed the
+prescribed limits.” Davis v. Gray, 83 U.S. 203, 218 (1862) quoted in Capitol Terrace, Inc. v.
+Shannon & Luchs, Inc., 564 A.2d 49, 52 (D.C. 1989).
+
+        Powers Granted to the Receiver by the District Court
+
+      In the introductory paragraph of the General Receivership Order, the Court grants the
+Receiver :
+
+        all necessary authority to carry out its responsibilities . . . . The Receiver will make
+        all reasonable efforts to exercise its authority in cooperation with District of
+        Columbia officials and in a manner consistent with local law whenever possible.
+        However, to the degree that local law governing . . . procurement . . . unreasonably
+        interfere[s] with the Receiver’s discharge of its responsibilities, local law is
+        superceded by the Receiver’s authority.
+
+(Motion, Ex 2, at 1).
+
+        In Section I, “Structure of the Receivership” provides that the Receiver shall have “direct
+control and line supervisory authority over. . . creation and operation of an independent contracting
+and procurement function.” (¶B.13, at 3).
+
+       Section II, “Receiver’s Authority,” grants the Receiver “[t]he authority to enter into contracts
+and procure all goods and services necessary to carry out the Child Welfare Receivership.” (¶E, at 4)
+
+        Clearly, the Court did not intend to give the Receiver a blanket exemption from District laws,
+or the orders would have so stated. The Court directed that in the exercise of her authority, the
+Receiver is relieved only from compliance with such laws which will unreasonably interfere with
+her work. It appears that the principal intent of the Court in establishing the “Structure of the
+Receivership” was that the Receiver not be required to implement her programs though employees
+over whom she does not have complete and unambiguous control. The Court granted sweeping and
+unlimited management authority to insure “direct control and line supervisory authority over all
+activities and tasks. . . .” (Id.) in contrast to the limited exemption it permitted the Receiver from the
+application of District law.
+                                                   3            All Business Systems and Design, CAB No. P-609
+
+        The December 8, 1995, supplemental order, which the Court issued in response to the
+District’s “detailing several procedural controls they deem necessary,” to which the Receiver agreed,
+reiterated that “the Receiver shall contract and procure goods and services consistent with the
+District’s existing procurement law and procedures . . . . ” (Motion, Ex 3, at 1). By singling out this
+limitation on the Receiver’s authority, the Court emphasized its intent that the Receiver follow the
+District’s existing procurement law and procedures, namely the Procurement Practices Act
+
+        Application of District law to the Receiver’s Authority
+
+        The Motion asserts that the Receiver may establish procurement procedures “independent of
+the District and the PPA.” (at 6). The Receiver focuses on the language of the December 1995
+supplemental order that the Receiver exercise his authority “consistent with local law.” By adopting
+a definition of “consistent” to mean only. “‘in harmony with,’ compatible with,’ ‘holding the same
+principles’ or ‘in general agreement with,’” the Receiver concludes that he is not subject to the PPA.
+(Motion at 6).
+
+        We believe that the Receiver misconstrues the Court’s orders. The language of the
+supplemental order must be read together with the Court’s General Receivership Order issued the
+previous August. In the previous order, the Court used a similar formulation that the Receiver
+“make all reasonable efforts to exercise its authority . . . in a manner consistent with local law
+whenever possible.” But the Court stated immediately following that language that only “to the
+degree that local law governing . . . procurement . . . unreasonably interfere[s] with the Receiver’s
+discharge of its responsibilities, [that] local law is superceded by the Receiver’s authority.” Thus the
+Court indicated its corollary intent that if District law does not unreasonably interfere with exercise
+of the Receiver’s authority, the Receiver is to be subject to District procurement law, including the
+Board’s authority to hear and decide protests under the PPA.
+
+        The Receiver asserts that, by her definition, she “has adopted contracting Procedures that are
+consistent with the District’s procurement laws and procedures,” (Motion at 6) and has attached
+those procedures to her Motion1. (Ex. 5). After carefully reviewing the Receiver’s Procedures, we
+note that a number of provisions are inconsistent with District procurement law. The Receiver’s
+Procedures establish an agency-level protest forum, a mechanism eliminated by the Procurement
+Reform Amendment Act. D.C. Law 11-259. Although a nonexclusive protest review within the
+agency is not prohibited by the PPA, the Receiver’s position that her procurement actions as
+Receiver are not subject to independent review is inconsistent with District law, as well as federal
+procurement law. The PPA, as amended, states that “[t]he proceeding [before the Board] shall be de
+novo . . . . Any prior determinations by administrative officials shall not be final or conclusive.”
+D.C. Code §1-1189.8(d). The position of the Receiver that her decisions are final and unreviewable
+(Motion at 3) is directly contrary to District law.
+
+
+        1
+          For the purposes of determining this motion, the Board accepts the validity of the Procedures. The
+“Policy and Procedures Governing Contracting Protests” attached to the Motion give no indication as to the
+manner of adoption, date of adoption, publication of the procedures or notice to bidders.
+                                                     4            All Business Systems and Design, CAB No. P-609
+
+        The Receiver does not argue that the protest jurisdiction of the Board established by the
+Procurement Practices Act is an unreasonable impediment to her functioning. Such a position would
+be difficult to maintain. Virtually all District of Columbia and federal agencies are subject to
+independent protest review. Indeed, procurement actions of the United States District Court itself
+are subject to the protest jurisdiction of the General Accounting Office.2 The protest authority and
+procedures of this Board were patterned on those of the GAO. Further, the Board’s rules provide
+that a procurement action may continue pending determination by the Board of a protest if the
+circumstances necessitate proceeding.
+
+        The Court’s orders establish the authority of the Receiver to function independently of
+District agencies, but, with regard to statutory obligations, subjects the Receiver to District law.
+Absent clear language to the contrary, the Board cannot assume that the Court intended to deprive
+prospective contractors of any remedy in the nature of a bid protest outside of the Agency. The
+absence of a traditional protest forum contradicts long-standing and well-settled federal and District
+law and policy.
+
+        Although the Receiver assets in her motion that the Board lacks jurisdiction over protests
+against her contract awards, it does not appear that the Receiver’s Procedures attached to the Motion
+(Ex. 5) preclude the Board’s jurisdiction over protests. Rather, the Procedures appear to recognize
+the jurisdiction of the Board.3
+
+
+
+        Section 10701.00, “General,” provides:
+
+        (a) Contracting officers shall consider all protests . . . whether filed directly with the
+        Agency or in some other forum.
+                                                 ***
+
+        2
+           4 C.F.R. 21.0(c) (1997). The Receiver asserts that she is an officer of a District Court. (Motion at
+5) While this may be true, it does not follow that the Board lacks jurisdiction. We read the Court’s orders as
+providing for review under existing District law and procedures. There is no indication that the Court
+intended to preclude such expert independent review which has been well established in District and similar
+federal law for many years. If the Receiver is an officer of the court, she may also be subject to concurrent
+protest jurisdiction in the GAO whose jurisdiction encompasses “any establishment in . . . the judicial
+branch.” (Id.).
+        3
+           Somewhat confusingly, the introductory section entitled “Policy” provides: “[t]he Agency may also
+elect to proceed under the authority and requirements of the federal A[dministrative] D[ispute] R[esolution]
+A[ct], Public Law 100-522 [sic].” The Administrative Dispute Resolution Act of 1996 (Public Law 104-320)
+amended Public Law 101-552 and 102-354. By its terms, that act is inapplicable for two reasons. First that
+act does not apply to the District of Columbia. (§4 incorporating U.S. Code §5-551(1)). Second, the ADRA is
+not intended to cover bid protests, but rather grants concurrent bid protest jurisdiction to the United States
+Court of Federal Claims and the District Courts of the United States. Pub. L. No. 104-320, §12.
+                                                 5           All Business Systems and Design, CAB No. P-609
+
+       (e) An interested party wishing to protest is encouraged to seek resolution within the
+       Agency before filing suit in any other forum allowed by law or these regulations.
+
+And §10710.00, “Protests to the Agency,” states:
+
+       (a) The following procedures are established to resolve Agency protests effectively,
+       to build confidence in the CFSA’s acquisition system, and to reduce protests outside
+       of the Agency.
+
+        The Board would appear to be the only outside administrative forum with jurisdiction to hear
+protests to which the regulations could refer. It is unlikely that the District Court itself intended to
+undertake detailed reviews of specific procurements requested by an unlimited number of
+disappointed prospective contractors.
+
+       Conclusion
+
+       The Board finds that the authority of the Receiver granted by the District Court with regard
+to procurement actions is subject to District of Columbia law, including the PPA. Pursuant to the
+PPA, and in conformity with the District Court orders, the Board has jurisdiction over the subject
+matter of this protest and over the Receiver, in her official capacity. The Receiver’s Motion to
+Dismiss for Lack of Subject Matter and Personal Jurisdiction is DENIED.
+
+        It is further ORDERED, that the receiver shall file an “Agency Report” within 15 days of the
+date of this order.
+
+       SO ORDERED
+
+
+DATED:       March 23, 2000                    /S/ MATTHEW S. WATSON
+                                               MATTHEW S. WATSON
+                                               Administrative Judge
+
+CONCURRING:
+
+
+
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+
+JONATHAN D. ZISCHKAU
+Administrative Judge
+

@@ -1,0 +1,159 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+OMEGA SUPPLY SERVICES, INC.                             )
+                                                        )             CAB No. P-0944
+                                                        )
+Solicitation No. DOC 112652                             )
+
+
+                                   ORDER DISMISSING PROTEST
+                                               Filing ID #53807532
+
+
+
+        Omega Supply Services, Inc. (“Omega”) protests the District’s decision to limit
+competition under Request for Quotation No. DOC 112652 to D.C. Supply Schedule contractors,
+which Omega argues unreasonably prevented it from participating in the procurement. The
+District argues that D.C. CODE § 2-218.45 required the District to limit competition to D.C.
+Supply Schedule contractors, and that the protester did not meet this classification. We sua
+sponte dismiss the protest as untimely.
+
+                                      FACTUAL BACKGROUND
+
+        The District of Columbia Office of Contracting and Procurement, on behalf of the
+Department of Fire and Emergency Medical Services, issued Request for Quotation No. DOC
+112652 (the “RFQ”) on June 19, 2013, through its eSourcing website. (Agency Report (“AR”)
+Ex. 2, at 1.) The RFQ sought bids for various medical supplies under nine contract line items.
+(Id. §§ 2.1-2.9.) Under section 5.1 of the RFQ, the District would make award based on lowest
+price. (Id. § 5.1.) The District, however, retained the right to make award by individual line
+item. (Id.) The District’s Independent Government Estimate anticipated that the required
+supplies would cost $55,000.00. (AR Ex. 3 ¶ 4.) The District, therefore, restricted competition
+under the RFQ to “companies on the D.C. Supply Schedule only.” (AR Ex. 2 § 1.2 (emphasis in
+original); AR Ex. 3 ¶ 4.) According to the contracting officer, the District provided notice of the
+RFQ to nine D.C. Supply Schedule contractors. (AR Ex. 3 ¶ 5.)
+
+        Bids in response to the RFQ were due by 12:00 p.m. on June 26, 2013. (AR Ex. 2, at 1;
+Protest 1.) On June 25 and June 26, 2013, prior to the bid submission deadline, Omega sent two
+emails to the contracting officer requesting an invitation to submit a bid in response to the RFQ.1
+(Protest Attach. at 1.) The contracting officer did not send the requested invitation to Omega
+because Omega lacked a D.C. Supply Schedule contract. (AR Ex. 3 ¶ 6.) However, four other
+vendors timely submitted bids in response to the RFQ. (AR Ex. 3 ¶ 7.) Omega subsequently
+filed the present protest with the Board on July 9, 2013.
+
+
+1
+ Omega also sent an email to another District official on June 25, 2013, requesting an invitation to bid. (Protest
+Attach. at 2.)
+                                                                             Omega Supply Services, Inc.
+                                                                                      CAB No. P-0944
+
+Contentions of the Parties
+
+        The protester argues that the District erred in restricting competition to only D.C. Supply
+Schedule contractors. (Protest 1.) The protester contends that excluding businesses from the
+procurement process is counter to the “intent and purpose” of the D.C. Supply Schedule. (Id.)
+Accordingly, the protester maintains that the District improperly refused to allow Omega, a
+certified business enterprise (“CBE”), to submit a bid in response to the RFQ. (Id.)
+
+       The District responds that because the government’s estimate of the contract award
+amount was less than $100,000.00, it was required to limit competition to D.C. Supply Schedule
+contractors pursuant to D.C. Code § 2-218.45. (AR at 3.)
+
+                                            DISCUSSION
+
+          We exercise jurisdiction over the instant protest pursuant to D.C. CODE § 2-360.03(a)(1)
+(2011).
+
+        As a threshold matter, although not raised by the parties, the Board must consider
+whether the protest was timely filed. The statutory timeliness rules governing protests provide,
+in pertinent part, that:
+
+          (1) A protest based upon alleged improprieties in a solicitation which are apparent
+          prior to bid opening or the time set for receipt of initial proposals shall be filed
+          prior to bid opening or the time set for receipt of initial proposals. [. . . ]
+
+D.C. CODE § 2-360.08(b)(1). The Board treats timeliness as a jurisdictional requirement that
+cannot be waived. SAGA Adventures, Inc., CAB No. P-0704, 54 D.C. Reg. 1936, 1938 (June 17,
+2005); Warner-Boyd & Assocs., Inc., CAB No. P-559, 46 D.C. Reg. 8517, 8518 (Oct. 19, 1998);
+Maximus, CAB No. P-201, 38 D.C. Reg. 3025, 3026 (Dec. 14, 1989).
+
+         In this protest, Omega challenges the District’s decision to limit competition to only
+D.C. Supply Schedule contractors. (Protest 1.) This limitation, or alleged impropriety, was
+evident from the face of the RFQ. (AR Ex. 2 § 1.2.) As a result, Omega clearly knew, prior to
+the submission deadline for bids, that it was unable to submit a bid and contacted the contracting
+officer regarding this matter. (Protest Attach. at 1.) Moreover, with this advance knowledge of a
+restriction on its participation in this procurement, the protester was required to file this protest
+before 12:00 p.m. on June 26, 2013, the deadline for the submission of bids. D.C. CODE § 2-
+360.08(b)(1); Warner-Boyd, CAB No. P-559, 46 D.C. Reg. at 8518. The protester, however, did
+not file the present protest until July 9, 2013. Accordingly, the Board finds the present protest to
+be untimely.
+
+        Further, even if the present protest were timely, the Board finds the underlying protest
+allegations to be without merit. The Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005 contains relevant provisions governing mandatory set-
+asides for CBEs. D.C. CODE § 2-218.44 generally requires contracting agencies to set aside
+procurements up to $100,000.00 for CBEs, except as provided in D.C. CODE § 2-218.45. D.C.
+CODE § 2-218.44(a) (emphasis added). D.C. CODE § 2-218.45, in turn, requires contracting
+agencies to procure contracts up to $100,000.00 from CBE’s on the D.C. Supply Schedule unless
+
+
+                                                 -2-
+                                                                                    Omega Supply Services, Inc.
+                                                                                             CAB No. P-0944
+
+the agency determines, in writing, that there are not at least two responsible CBEs on the
+schedule capable of providing the required goods or services. D.C. CODE § 2-218.45. In this
+procurement, the District estimated that the cost to procure the needed medical equipment would
+be substantially less than $100,000.00. (See AR Ex. 3 ¶ 4.) The District also identified nine
+D.C. Supply Schedule vendors capable of providing the required medical supplies, and also
+received four timely quotes. (Id. ¶¶ 5, 7.) Accordingly, in soliciting the present requirement for
+medical supplies, the District properly limited competition to only D.C. Supply Schedule
+contractors consistent with procurement law. 2
+
+                                              CONCLUSION
+
+      For the foregoing reasons, the Board finds the present protest untimely and without merit.
+Accordingly we dismiss the protest with prejudice.
+
+
+SO ORDERED.
+
+Date: August 20, 2013                                               /s/ Monica C. Parchment
+                                                                    MONICA C. PARCHMENT
+                                                                    Administrative Judge
+
+CONCURRING:
+
+/s/ Maxine E. McBean
+MAXINE E. MCBEAN
+Administrative Judge
+
+
+Electronic Service:
+
+Lenward C. Hood
+President
+Omega Supply Services, Inc.
+1818 New York Avenue NE, Suite 227
+Washington, DC 20002
+
+Robert Schildkraut, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street NW, 7th Floor
+Washington, DC 20001
+
+2
+ The Board also notes that the protester failed to timely submit Comments in response to the District’s Agency
+Report defending its procurement actions, as required by Board Rule 307 (D.C. Mun. Regs. tit. 27 § 307 (2002)).
+The Board, therefore, treats the factual assertions in the District’s Agency Report as conceded by the protester
+pursuant to Board Rule 307.4. Seagrave Fire Apparatus, LLC, CAB No. P-0928, 2012 WL 6929400 at *2-3 (Dec.
+20, 2012); FEI Constr. Co. (A Div. of Forney Enters., Inc.), CAB No. P-0902, 2012 WL 6929394 at *5-6 (Dec. 14,
+2012).
+
+
+                                                     -3-
+

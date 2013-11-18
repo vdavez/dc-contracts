@@ -1,0 +1,199 @@
+                 DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+ELITE PEOPLE PROTECTIVE SERVICES, INC.                      )
+                                                            )        CAB No. P-0898
+                                                            )
+Solicitation No: DCFA-2011-B-3564
+
+
+For the Protester: William Jackson, pro se. For the District of Columbia Government: Howard
+Schwartz, Esq., Senior Assistant Attorney General, Office of the Attorney General.
+
+Opinion by Administrative Judge Monica C. Parchment, with Chief Administrative Judge Marc
+D. Loud, Sr. and Administrative Judge Maxine E. McBean, concurring.
+
+                                                  OPINION
+                                             Filing ID 41762609
+
+        The protester, Elite People Protective Services, Inc., challenges the contracting officer’s
+rejection of its bid as nonresponsive for failure to include a bid bond as required under the
+solicitation. The protester alleges that the procurement was conducted unfairly and did not
+provide offerors with sufficient time in advance to obtain the required bid bond and, further, that
+the awardee, Securitas Security, was selected for award despite the fact that its bid also did not
+include a bid bond.
+
+       The Board, however, finds that the evaluation and award decision in this procurement
+were proper and that the District reasonably determined that the protester’s bid was
+nonresponsive and ineligible for award for failure to meet a material bid bond requirement.
+
+                                             BACKGROUND
+
+        The District’s Office of Contracting and Procurement issued Invitation for Bid No.
+DCFA-2011-B-3564 (“IFB”) on September 2, 2011, which contemplated the award of a security
+services contract in support of the District of Columbia Public Schools. As it relates to the crux
+of the present protest allegations, the original terms of IFB Section H.16.1 required offerors to
+provide a bid bond along with each offeror’s bid submission and maintain that bid bond until
+notification of contract award. (Agency Report (“AR”) Ex. 1.) 1 Moreover, the original IFB
+terms further mandated that, to the extent that the value of an offeror’s bid exceeded $100,000,
+the offeror was required to submit a bid bond in an amount equivalent to 5% of the value of the
+base year price of the contract. (Id.)
+
+
+
+1
+  IFB Section H.16.2 also required the awardee to obtain a performance bond in the amount of no less than 100% of
+the contract amount immediately following contract award.
+                                                         -2-              ELITE PEOPLE PROTECTIVE SERVICES, INC.
+                                                                          CAB NO. P-0898
+
+        Subsequently, by amendment dated September 16, 2011, the District modified the IFB to
+explicitly delete the original bid bond requirement under Section H.16.1. (AR Ex. 2.) In its
+place, the IFB was amended to include a direct mandate, under a newly revised Section H.16.1,
+that offerors provide a bid bond with their bid submission in the amount of $100,000, which also
+had to be maintained by the offeror until notification of the contract award. (Id.) 2
+
+        The District received six bids from companies in response to the IFB including bids from
+the protester, and the ultimate awardee, Securitas Security. Of these six bidders, three of these
+companies, including Securitas Security, submitted the bid bond required by the IFB along with
+their bid. Alternatively, in lieu of submitting the required bid bond, the protester’s bid was
+accompanied, instead, by a letter to the District by which the protester explicitly admitted that it
+was unable to obtain the required bid bond prior to the bid submission deadline. (AR Ex. 5.)
+Further, the protester stated in this same correspondence that it had been assured by a third-party
+bonding firm that it would be able to secure the required bid bond within 10 days of the District’s
+expressed interest in its bid and, on this basis, Elite requested that the District waive the bid bond
+requirement for its company (Id.)
+
+       However, after receiving Elite’s bid, the District promptly notified the protester that its
+bid would not be considered further for contract award based upon its failure to submit the
+required bid bond along with its bid submission. (AR Ex. 6.) The present protest followed.
+
+                                                DISCUSSION
+
+      We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C.
+Code §2-360.03(a)(1).
+
+        Elite’s grounds of protest in this matter primarily concern the rejection of its bid as
+nonresponsive to the IFB requirements based upon its failure to include a bid bond along with its
+bid as expressly required by the terms of the IFB. (Protest 1-2.) Specifically, the protester
+alleges that the evaluation process was unfair because it did not allow sufficient time for the
+bidders to secure the required bid bond to accompany their bids. 3 (Id.) The protester asserts
+that because of this allegedly unreasonable bid bond requirement, only two of the six bidders
+under the IFB were able to obtain, and submit the required bid bond. (Id.) In this regard, the
+protester further alleges that even the awardee, Securitas Security, did not submit an actual bid
+bond with its bid submission. (Id.)
+
+        In response to these allegations, the District asserts that the protester’s bid was properly
+rejected as nonresponsive because it did not meet the mandatory bid bond submission
+
+2
+  This September 16th amendment also modified, and replaced, the original IFB Section H.16.2 to require that the
+awardee obtain a performance bond in the amount of $1 million upon entering into a contract with the District and
+submit it to the contracting officer within 10 days of contract award.
+3
+   The protester also generally alleges the occurrence of numerous other irregularities in the evaluation process
+including allegations that the District failed to answer bidder questions, provided inadequate notification to the
+protester of the revised bid due date, and provided late notification of the September 16th amendment to the IFB
+prior to bid opening. Given that these allegations do not appear to be the primary basis of the present protest, the
+Board finds it unnecessary to address in further detail that these pre-award allegations would otherwise be untimely
+filed in this matter.
+                                                         -3-             ELITE PEOPLE PROTECTIVE SERVICES, INC.
+                                                                         CAB NO. P-0898
+
+requirement while the awardee, Securitas Security, did meet this requirement. (AR 2-3.)
+According to the District, the letter that the protester submitted in lieu of the required bid bond
+did not satisfy this bid bond requirement and further did not provide adequate grounds for
+excusing the protester from meeting this bid bond requirement under District of Columbia law.
+(Id. at 4-5.) Moreover, the District points out that the protester’s challenges to the IFB and
+evaluation process as unfairly imposing a bid bond requirement are untimely as the protester was
+required to protest these matters prior to bid opening. (Id. at 3-4.) 4
+
+        The Board has repeatedly held that in order to be considered responsive to an IFB, a bid
+must be an unequivocal offer to provide the exact items called for by the solicitation. Barcode
+Technologies, Inc., CAB No. P-524, 45 D.C. Reg. 8723 (Feb. 11, 1998); S. Md. Restoration, Inc.,
+CAB No. P-241, 39 D.C. Reg. 4268 (Aug. 7, 1991). Moreover, as it relates to the present matter,
+a bid bond is a form of guarantee designed to protect the interests of the government in the event
+of a contractor’s default and, thus, when required by a solicitation, is a material part of the bid
+which must be furnished at the time of bid submission. See HR General Maintenance Corp.,
+CAB No. P-545, 46 D.C. Reg. 8556 (October 9, 1998). Thus, in instances where a bidder has
+failed to provide a bid bond required by the solicitation, the Board has held that such bids may
+properly be rejected as nonresponsive to the solicitation requirements. Nation Capital Builders,
+LLC, CAB No. P-0761, 57 D.C. Reg. 287 (November 20, 2007).
+
+        In the present case, the protester does not dispute that the solicitation mandated that
+offerors provide a bid bond to accompany their bid submission to the District. 5 In response to
+this requirement, the contemporaneous evaluation record confirms that three of the six bidders in
+this procurement, including the awardee, Securitas Security, in fact, submitted the proper
+evidence of having obtained the required bid bond for the contract. (AR Ex. 4.) Therefore, as an
+initial matter, the protester is incorrect in its assertion that the awardee, and a majority of the
+offerors, did not, and could not, meet the bid bond requirement.
+
+        The protester, on the other hand, did not provide a bid bond with its bid and expressly
+acknowledged that it was missing this material requirement when it submitted its bid to the
+District on September 27, 2011. (AR Ex. 5.) Moreover, the protester further confirmed its
+awareness of having not met this material requirement by essentially requesting that the District
+waive the bid bond requirement based upon the protester’s pending application for a bid bond.
+(Id.) The IFB requirement, however, was obviously not met by the protester’s pending
+application for a bid bond as the IFB explicitly required that evidence of an actual bid bond be
+submitted with each offeror’s bid. (AR Exs. 1, 2, 3.) Additionally, the District further
+reasonably determined that the protester did not meet the criteria for a waiver of the bid bond
+requirement in this procurement under 27 DCMR 2702, and ultimately found the protester’s bid
+to be nonresponsive based upon this material omission of the bid bond. (AR 5-6.)
+
+
+
+4
+  The Board also notes that the protester filed no Comments on the Agency Report to further support its protest
+allegations, or to oppose the Agency Report allegations, as permitted by Board Rule 307. This rule further provides
+that where the protester fails to file Comments on the Agency Report, facts in the Agency Report not otherwise
+contradicted by the protest, or documents in the record, may be treated as conceded by the Board.
+5
+  27 DCMR 2700 sets forth guidelines as to the types of evidence of security that a contracting officer may accept
+from bidders in satisfaction of a bid bond requirement, which were incorporated into the IFB. (AR Exs. 2, 3.)
+                                                    -4-           ELITE PEOPLE PROTECTIVE SERVICES, INC.
+                                                                  CAB NO. P-0898
+
+        While the protester now complains that the IFB’s bid bond requirement was improper,
+and could not reasonably be met by any offeror prior to the bid opening date, the protester never
+formally challenged the propriety of this bid bond solicitation requirement prior to the rejection
+of its bid for award. Indeed, protests challenging the propriety of a solicitation term that is
+apparent prior to bid opening must be filed prior to bid opening. D.C. Code § 2-360.08(b)(1).
+Consequently, the protester’s present challenge to the reasonableness of the IFB’s bid bond
+requirement, which it clearly knew of prior to bid opening, is now untimely raised in this protest.
+
+       For the reasons discussed herein, the Board finds that the protester’s bid was reasonably
+deemed nonresponsive by the District, and properly rejected for award, for failure to meet the
+IFB’s material bid bond requirement.
+
+       The present protest is, therefore, denied.
+
+       SO ORDERED.
+
+
+DATED: January 9, 2012                                    /s/ Monica C. Parchment
+                                                          MONICA C. PARCHMENT
+                                                          Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.                                     /s/Maxine E. McBean
+MARC D. LOUD, SR.                                         MAXINE E. MCBEAN
+Chief Administrative Judge                                Administrative Judge
+
+
+
+Electronic Service:
+
+Mr. William Jackson
+President and CEO
+Elite People Protective Services, Inc.
+5602 Baltimore National Pike #401
+Catonsville, MD 21228
+
+Howard Schwartz
+Senior Assistant Attorney General
+441 4th Street, N.W., Suite 700 S
+Washington, D.C. 20001
+

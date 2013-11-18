@@ -1,0 +1,329 @@
+                                GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                CONTRACT APPEALS BOARD
+
+APPEAL OF:                                                   )
+                                                             )
+TRANSWESTERN CAREY WINSTON, L.L.C.                           )                 CAB No. D-1193
+                                                             )
+Under Contract No. DCPS-97104-6531-OA                        )
+
+
+                         OPINION GRANTING SUMMARY JUDGMENT
+                                          (Courtlink Filing Id 3397372)
+
+
+        Appellant, Transwestern Carey Winston, L.L.C, (“Transwestern”) and Appellee District
+of Columbia Public Schools (“DCPS”) entered into a contract effective July 18, 1997, (Contract,
+Appeal File (AF) Ex. 1), for, among other purposes, leasing services for excess school buildings.
+DCPS agreed to pay Transwestern a “Lease Fee [of] 3% of gross rent less any concessions. . . .”
+(Id. Appendix I1). Transwestern secured a 20-year lease for the Carter G. Woodson School. (AF,
+Ex. 12). The lease agreement, after stating the rent, provides that the “[r]ent shall however be
+reduced by such amounts as [lessee] spends on capital improvements to the premises approved
+and constructed.” (Id., Art 4(b)). The question presented in this appeal is whether a rent
+reduction for capital improvements constitutes a “concession” resulting in a reduction in the rent
+upon which the lease fee payable to Transwestern is computed. It is the position of the Appellant
+that the credit for capital improvements is not a “concession” and that Transwestern is entitled to
+a lease fee of $248,686.32 based on the total gross rent. It is the position of DCPS that the credit
+is a rent concession and that Transwestern is only entitled to a fee of $37,290.00 based on the
+minimum rent. Transwestern has moved for summary judgment as to the amount of the
+commission to which it is entitled. The Board agrees with Appellant that the credit for capital
+improvements is not a “concession” as contemplated by the contract and grants judgment to the
+Appellant in the amount of $248,686.32, less any amounts previously paid to Appellant as a
+lease fee for the Woodson School lease, payable as rent payments are received by the District
+from the lessee.
+
+                                                    FACTS
+
+        On May 16, 1997, after a qualification process, DCPS selected Appellant “to be one of
+four companies to assist the . . . Public Schools in the disposition and reutilization of our excess
+school properties.” (Letter from Suzanne H. Conrad, AF, Ex. H). In the selection letter, the
+District proposed a commission schedule which, with regard to leases, provided for a “Lease Fee
+[of] 3% of gross rent less any concessions.” The proposed compensation was accepted by
+Transwestern. A contract incorporating the May 16, 1997, letter as its compensation terms was
+1
+   The contract states in Article IV, § A that “D. C. Public Schools agrees to pay the Contractor for all services
+rendered . . . in accordance with the fee schedule attached in Appendix I. No fee schedule was attached to the
+contract. The parties agree that Ms. Conrad’s letter dated May 16, 1997, was intended as the fee schedule. (Motion,
+2; Opposition, 2).
+                                               2 Transwestern Carey Winston, L.L.C. CAB No. D-1193
+
+
+signed effective July 18, 1997. (Answer ¶ 6) The contract was drafted by DCPS (Id.). The
+record does not indicate that there was any discussion of the language of the contract or of the
+compensation schedule prior to execution.
+
+       Transwestern sought lessees for a number of excess school buildings. On February 2,
+2000, DCPS signed a lease with a party secured by Transwestern for the Weatherless School.
+(Motion, Ex. 3). Article 4(B) of the Weatherless School lease negotiated by DCPS provided that
+the lessee was entitled to a credit against rent for payments made for approved capital
+expenditures subject to a minimum rent which limited credits to approximately 83% of the
+contract rent. (Minimum rent of approximately 17% of base rent). Capital expenditures were
+approved for the Weatherless School. Transwestern did not consider the credit for capital
+expenditures to be a “concession” to be deducted from the gross rent for purposes of computing
+the lease fee. On March 1, 2000, Transwestern invoiced DCPS for its lease fee on the
+Weatherless lease. Transwestern computed its compensation pursuant to the total gross rent,
+with escalation, but without deduction for approved capital expenditures. Transwestern’s
+invoice to DCPS clearly showed that the credits were not deducted showing on its face:
+
+                                  “Less Concessions $0.00.”
+
+The invoice was paid by DCPS without objection . (Interrogatory Answer 15).
+
+        Transwestern secured a lessee for the Carter G. Woodson School. (Interrogatory Answer
+8). The Woodson lease, executed on May 26, 2000, well after Transwestern had invoiced DCPS
+for the Weatherless lease fee, contained a provision for capital expenditure credits identical to
+the Weatherless lease and a similar, approximately 17%, minimum rent provision ($1,243,000
+over the lease’s full term). (Motion, Ex. 6). DCPS approved approximately $12,261,983 in
+capital improvements resulting in only the minimum rent being payable. On August 21, 2000,
+Transwestern submitted an invoice for a lease fee of $248,686.32 based, as was the previous
+invoice for the lease fee on the Weatherless School lease, on the full rent amount, including
+escalation ($8,289,544), without deduction for any capital improvement credit.
+
+      On December 2, 2002, the contracting officer denied Transwestern’s claims for
+commissions in excess of $37,290 asserting that:
+
+       . . . [Transwestern’s] claim is based upon its interpretation that when
+       improvements are being made on property such as Friendship, these “are not
+       considered as concessions.” The agreement [Transwestern] entered into with
+       [DCPS], with no objections or changes made during negotiations prior to contract
+       execution by the parties, is that improvements are considered to be concessions.
+
+The decision further stated:
+
+       [DCPS] cannot from a prudent business perspective pay to [Transwestern] more
+       than [DCPS] receives as “proceeds” for rent.
+                                                          3 Transwestern Carey Winston, L.L.C. CAB No. D-1193
+
+
+        Transwestern appealed the Contracting Officer’s decision to the Chief Procurement
+Officer. On January 7, 2003, the Chief Procurement Officer affirmed the decision of the
+contracting officer copying the contracting officer’s decision almost verbatim2 but emphasized
+that “the real issue here as the contracting officer’s Decision clearly stated is that [DCPS] cannot,
+from a prudent business prospective pay to [Transwestern] more than [DCPS] receives as
+‘proceeds’ for rent.”
+
+                                                  DISCUSSION
+
+         Whether or not DCPS’s interpretation of the meaning of “concessions” is correct, the
+stated basis of the contracting officer’s decision and its adoption by the Chief Procurement
+Officer is plainly wrong. The contracting officer asserts that DCPS cannot, from a prudent
+business prospective, pay Transwestern more than DCPS receives as proceeds for rent. Even if
+that proposition is true, it is irrelevant, since Transwestern’s claim does not request an amount
+greater than the minimum cash proceeds of the rent. Transwestern claims 3% of the rents due
+before credits for capital improvements. The minimum rent to be collected by DCPS during the
+term of the lease is approximately 17% of the rents due before credits. DCPS concedes that they
+will receive $5,250 per month for over 19 years. Transwestern claims that it is entitled to
+$248,686.32. DCPS will receive in excess of the claimed amount as cash proceeds from rent in
+the first 4 years of this 20 year lease. It is mathematically impossible that the 3% commission to
+which Transwestern claims it is entitled could ever exceed the 17% minimum rent.
+
+        Notwithstanding the flawed logic, the issue still remains before the Board as to the proper
+interpretation of the contract. The contract was drafted by DCPS. (Answer ¶ 6). The meaning
+of the term “concessions” which is in dispute is not defined in the contract, nor was it discussed
+in contract negotiations. It appears that Transwestern acted on one assumption as to the meaning
+of concession and that DCPS acted on another. Transwestern assumed that the term
+“concessions” did not include credits for capital improvements. DCPS assumed that credits for
+capital improvements were “concessions” and were therefore properly deductible from Gross
+Rent when computing the lease fee.
+
+        “Whether or not a contract is ambiguous is a question of law for the [Board]. A contract
+is not rendered ambiguous merely because the parties disagree over its proper interpretation.
+Instead, a contract is ambiguous when, and only when, it is, or the provisions in controversy are,
+reasonably or fairly susceptible of different constructions or interpretations, or of two or more
+different meanings. If there is more than one interpretation that a reasonable person could ascribe
+to the contract, while viewing the contract in context of the circumstances surrounding its
+making, the contract is ambiguous. The choice among reasonable interpretations of an
+
+2
+   The Chief Procurement Officer does not explain his difference in computation from the Contracting Officer. The
+Contracting Officer stated “The rent of $5,250/month for the remaining period of 236 months after the initial
+construction period is the “gross rent less commissions” allowed under the lease . . . . Accordingly, [Transwestern}
+is eligible for payment of commission of up to a maximum of $37,290.” [In making that computation, the
+contracting officer actually allowed for the 236 months plus $4,000 for the construction period.] The Chief
+Procurement Officer copied the same statement “The rent of $5,250/month for the remaining period of 236 months
+after the initial construction period is the “gross rent less commissions allowed under the lease” but does not explain
+how he then computed “the total commission of $34,915 previously paid by [DCPS] for leasing Woodson is
+considered as full amount due [Transwestern] for their brokerage services for this transaction.”
+                                                4 Transwestern Carey Winston, L.L.C. CAB No. D-1193
+
+
+ambiguous contract is for the factfinder to make, based on the evidence presented by the parties
+to support their respective interpretations.” Gryce v. Lavine, 675 A.2d 67 (D.C. 1996). The first
+step in contract interpretation is determining what a reasonable person in the position of the
+parties would have thought the disputed language meant. Intercounty Constr. Corp. v. District of
+Columbia, 443 A.2d 29, 32 (D.C. 1982). Where the court is faced with an integrated agreement
+which contains ambiguous terms, the standard of interpretation is "what a reasonable person in
+the position of the parties would have thought it meant." Minmar Builders, Inc. v. Beltway
+Excavators, Inc., 246 A.2d 784, 786 (D.C. 1968) {quoting Samuel Williston, A Treatise on the
+Law of Contracts, §94:294 (3d ed. 1961, Supp. 1967)). “The presumption is that the reasonable
+person knows all the circumstances before and contemporaneous with the making of the
+integration. The reasonable person is also bound by all usages -- habitual and customary
+practices -- which either party knows or has reason to know. The standard is applied to the
+circumstances surrounding the transaction and to the course of conduct of the parties under the
+contract, both of which are properly considered when ambiguous terms are present.” 1901
+Wyoming Ave. Cooperative Asso. v. Lee, 345 A.2d 456, 461-62 (D.C. 1975). If the ambiguity is
+still not resolved, the Board will apply the rule construing the contract against the drafter.
+Affordable Elegance Travel, Inc. v. Worldspan, L.P., 774 A.2d 320, 328 (D.C. 2001).
+
+        The common meaning of “concession” is “to concede,” that is, to “give or grant as a
+privilege or right.” (Webster’s II, New Riverside University Dictionary, Riverside Pub. Co.
+1984).     The term “concession” generally connotes a give-back without quantifiable
+consideration, such as a month’s free rent for signing a longer term lease, or a payment made to
+release a new tenant from a prior lease. It clearly does not include a “set-off,” which is a
+counterdemand held by one party against another, extrinsic to the obligation. (Black’s Law
+Dictionary (4th ed.), 1951). The capital improvement credits in the instant matter appear to be
+closer to a set-off than free rent. The capital improvement credits may only be earned for
+approved projects that “(1) have been completed, (2) have been fully paid for . . . , and (3)
+satisfied applicable inspection and certification requirements, prior to the credit being taken
+against rent due.” (Lease, Art. 4(B)). Since such improvements “become and remain the
+property of DC upon expiration of the lease” (Id., Art. 12), DCPS is exchanging value for the
+capital improvement, that is, setting off the cost of construction of what will become DCPS
+property, rather than giving up a concession.
+
+        The Board also notes that interpreting the capital improvement credits as deductible
+concessions would result in uncertainties in payments under the contract if the improvements
+were made after the first four years of the lease term. Although the Woodson lessee seems to
+have made the improvements for which the credits are granted at the beginning of the lease term,
+the lease permits the lessee, subject to approval, to make creditable improvements at any time
+during the lease term. By the Public School’s interpretation, including capital improvement
+credits as concessions, if the building was occupied, but no improvements made in the first year,
+the leasing agent would be paid the full leasing fee from the rent, but be obligated to repay most
+of the commission in future years when the “concession” is granted. There is no indication that a
+recomputation and repayment of leasing fees already paid is contemplated in the contract. Such a
+result would be the equivalent of requiring a leasing agent to repay commissions if a lessee
+defaults after the leasing fee is paid. In either case, the total rent paid to DCPS would be less
+                                                          5 Transwestern Carey Winston, L.L.C. CAB No. D-1193
+
+
+than the amount on which the lease fee was computed.3 The Board finds that the reasonable
+common interpretation of the term “concession” is that it does not include credits for capital
+improvements.
+
+        Contract appeals boards have “long recognized that as an interpretative device custom
+and trade usage is a not only a valuable tool for explaining undefined terms . . . but is also useful
+in analyzing the reasonableness of the parties' respective positions . . . . [P] arties draw their
+agreement in light of the trade customs and practices of the relevant business community.”
+Custom Printing Co., GPOBCA No. 28-94. Mar. 12, 1997, 1997 GPOBCA LEXIS 2, 74. “It is
+always appropriate, in explaining or defining contract terms, to consider the meaning attributed
+to those terms in the relevant trade or industry. Often, evidence of trade custom or usage is the
+means by which the connotation that would be accorded a contract term ‘by a reasonably
+intelligent person acquainted with the contemporaneous circumstances’ may be ascertained.”
+Equitable Life Assurance Society of the United States, GSBCA No. 8909, 90-3 BCA ¶ 23,130
+(citing W.G. Cornell Co. v. United States, W. G. Cornell Co. v. United States, 179 Ct. Cl. 651,
+376 F.2d 299 (1967)). Transwestern submitted the affidavits of two expert witnesses to
+demonstrate customary practices in the real estate industry. (Motion, Ex. 16). DCPS
+acknowledges that each of the experts has extensive experience “in the lease and sale of
+commercial office buildings and properties.” Opposition 4. DCPS does not challenge the
+analysis or conclusions of Appellant’s experts, but rather challenge the expertise of the affiants
+on the basis that there is no showing that the experts have experience in the “type of lease in
+dispute in this case,” namely, “special purpose zoning properties,” (Opposition 4-5), apparently
+conceding that the experts’ conclusions as to the industry practice are accurate for the lease of
+commercially zoned properties. DCPS gives no reason why the distinction as to zoning is at all
+relevant. Neither the subject contract, and specifically the fee provision, nor the leases in
+question refer to zoning in any way. School properties for which the Transwestern contract
+applies may be in various zoning categories, or unzoned. The Board is unaware of any such
+distinction in the real estate industry. To conclude that there is such a distinction would cause
+the fees pursuant to this contract to be computed differently depending on the zoning of the
+school building in question. Each of Appellant’s witnesses concluded that, in the real estate
+leasing industry, the term concessions would not be expected to include capital improvement
+expenditures regardless of the zoning of the property. (Motion, Ex. 16).
+
+        DCPS submitted the opinion of one expert witness.4 At the outset of his opinion, the
+expert refers to the construction credits as “‘set-off’’ concessions.” (Id., 1). As noted above, in
+standard usage a “set-off” is a “counterdemand” rather than a “concession.” The expert proceeds
+to make a detailed analysis of the terms of the lease in order to compute what he refers to as the
+“cumulative value” and the “fair market value” of the lease. (Id., 2). Neither of these concepts is
+referred to in the contract fee computation. Further, the Board is at a loss to understand the
+relevance of the expert’s discussion of “implied debt service” or “the amortized cost of the
+3
+   The Board notes that, since the lessee may cease paying rent, the full fee might be reduced if a default occurred
+prior to the full fee being paid from the rent received.
+4
+  Appellant questioned the independence of the expert proffered by DCPS. DCPS does not deny that the expert
+offered is sharing in a brokerage commission for the lease of another school building. It is not necessary for the
+Board to decide whether the expert is, in fact, independent.
+                                                         6 Transwestern Carey Winston, L.L.C. CAB No. D-1193
+
+
+capital improvement allowance” which are also not referenced in the contract or lease agreement.
+The expert opinion does not controvert relevant facts in this matter, nor does it inform the Board
+of industry practice. 5 To the contrary, DCPS’s expert, rather than expressing an opinion as to
+real estate industry practice, merely attempts to determine the “intent” of the parties. The
+opinion concludes:
+
+           It therefore leads me to believe that the value of the capital improvement
+           allowance was intended to offset the minimum rather than the maximum
+           improvement set-off rather than vice versa and as such the corresponding
+           minimum rather than maximum rent prevail. 6
+
+(Id., 3)
+
+        The Board is not persuaded by the proffered opinion of the DCPS expert. The Board
+accepts the opinions of Appellant’s experts as indicative of the meaning of the fee provisions in
+the real estate industry. To adopt DCPS’ position that the fee structure is dependent on the
+zoning of the property would be to conclude that, without any mention, the compensation term is
+to apply differently depending on the underlying use. There is no support for that position.
+
+                                               CONCLUSION
+
+    The Board finds that a reasonable person in the real estate industry would have concluded
+that the term “concessions” did not include credits for capital improvements. This position is
+also supported by the initial course of conduct of the parties. See Fort Myer Construction
+Corporation, DCCAB No. D-1195, 2003 DCBCA LEXIS 8, 14. The District paid Appellant a
+previous claim for lease fee which did not deduct capital improvement credits without objection.7
+Lastly, even if DCPS’s interpretation were equally reasonable as Appellant’s interpretation, an
+ambiguous clause will be read against DCPS as the sole drafter of the contract language. See
+MCI Contractors, Inc., CAB No. D-1056, Mar. 27, 2002, 50 D. C. Reg. 7412, 7417, 8236, 2002
+
+5
+   DCPS argues that this motion is premature because “Appellee’s expert has not been deposed in this case.”
+(Opposition 4). While a party may be entitled to depose an opponent’s expert witness prior to the Board’s
+consideration of the opponent’s expert witness, a party may not resist summary judgment on the basis that it is
+unaware of what its own expert witness will testify to.
+6
+   Even as to intent, the Board is at a loss to understand the expert’s statement that “the value of the capital
+improvement allowance was intended to offset the minimum rather than the maximum improvement set-off rather
+than vice versa.”     The lease sets no “minimum” or “maximum improvement set-off.” Since no capital
+improvements are required by the lease, the minimum improvement set-off would be 0.
+7
+   Certain documents produced in discovery (e.g. Memo from Joan E. McKenzie to Veronica L. Falwell, Deputy
+Director of Real Estate dated March 28, 2001, (Motion, Ex. 14)) indicate that DCPS relied, at least in part, on an
+assertion that Jones Lang LaSalle Americas, Inc. interpreted its similar commission agreement with DCPS as
+requiring it to deduct the cost of capital improvements made by the lessee of the Randall school from the gross rent
+and to calculate its commission on the reduced rent. The Board notes, however, that the capital improvement credit
+in the Randall lease was limited to $250,000, while the effective amount of the Woodson capital improvement credit
+was over $7 million. (Id,, 2) Although it appears that the Jones Lang LaSalle may never have been paid since the
+Randall tenant defaulted, (Id.), the maximum reduction in commission was $15,000 or less than 10% of the
+commission without deduction of the capital improvement credits. In the instant matter, the commission reduction
+claimed by DCPS resulting from the capital improvement credit is $211,396, or 85% of the total commission
+                                             7 Transwestern Carey Winston, L.L.C. CAB No. D-1193
+
+
+DCBCA LEXIS 2, 15. Judgment is granted to Appellant in the amount claimed of $248,686.32,
+less any amounts previously paid to Transwestern as a lease fee for the Woodson School lease,
+payable as rent payments are received by the District from the lessee.
+
+       SO ORDERED
+
+
+
+
+April 9, 2004                                            /s/ Matthew S. Watson
+                                                         MATTHEW S. WATSON
+                                                         Administrative Judge
+
+
+CONCUR:
+
+
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+
+      /s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

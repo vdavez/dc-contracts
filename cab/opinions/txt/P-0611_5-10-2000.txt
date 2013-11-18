@@ -1,0 +1,119 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+PROTEST OF:                             )
+                                        )
+       CHESAPEAKE BUS & EQUIPMENT CO. )                       CAB No. P-611
+                                        )
+       Under IFB No. 99-0110-AB-0M-CM )
+
+       For the Protester: Arnold L. Tunis, President. For the Government: Warren J. Nash and
+Chris Malone, Assistants Corporation Counsel, D.C.
+
+        Opinion by Lorilyn E. Simkins, Chief Administrative Judge with Administrative Judges
+Phyllis W. Jackson and Matthew S. Watson, concurring.
+
+                                             OPINION
+
+         Chesapeake Bus & Equipment Co. (“Chesapeake”) protests the rejection of its low bids as
+non-responsive on Items 15 and 16 of IFB No. 99-0110-AB-0M-CM for Light, Medium and Heavy
+Duty Vehicles and Equipment issued by the Department of Public Works and award of those items to
+Atlantic Transportation Equipment (“Atlantic”). Chesapeake’s bid for Item 15, a 12 passenger
+minibus with two wheelchair positions, allegedly misstated the gross vehicle weight rating as lower
+that the actual rating for the vehicle offered and therefore did not conform to the required
+specifications. Despite Chesapeake’s cover letter claiming that its bid was completely in accordance
+with all specifications, Chesapeake’s apparent misstatement of the gross vehicle weight rating
+created, at best, an ambiguity which cannot be changed or clarified after bid opening, and was
+properly rejected as non-responsive. Chesapeake’s bid for Item 16, a 16 passenger minibus with two
+wheelchair positions was rejected because, although the bid identified the engine in the vehicle
+offered, it did not specifically state that the identified engine was a V-8 engine. The descriptive
+literature submitted with the bid as requested in the IFB, however, demonstrated that the minibus
+which Chesapeake proposed in item 16 did in fact conform to the bid specifications. Chesapeake’s
+bid for Item 16 should have been accepted. We therefore deny Chesapeake’s protest for Item 15 and
+grant its protest for Item 16.
+
+                                         BACKGROUND
+
+       The District of Columbia Department of Public Works (“DPW”) issued IFB No.99-0110-AB-
+0M-CM (“IFB”) on June 14, 1999, seeking bids for Light, Medium Heavy Duty Vehicles and
+Equipment in the Open Market (Agency Report “AR” Ex. 1) Bid opening occurred on July 30,
+1999. (AR, Exs. 1 and 3). Chesapeake and Atlantic were the only bidders for Items 15 and 16. The
+IFB required each bidder to submit descriptive literature to establish the details of the products the
+bidder proposed to furnish as to design, material, quality, construction and performance
+characteristics. Bidders were informed that failure of the descriptive literature to show that the
+product offered conformed to the specifications would require rejection of the bid. (AR, Ex.1, § 23).
+
+       By memorandum dated August 23, 1999, Edward Love, Technical Writer, Fleet Services
+Division, DPW, evaluated the bid documents submitted by the various bidders for responsiveness to
+                                               - 2-      Chesapeake Bus & Equipment Co. CAB, No. P-611
+
+the IFB. (AR, Ex. 3). For Item 15, the minimum gross vehicle weight required by the IFB was
+14,050 pounds. In its bid, Chesapeake entered the term “11,500 LBS” in the blank space provided
+for bidders to specify the weight of the vehicle. Mr. Love determined that Chesapeake’s bid for Item
+15 was 2,550 pounds under the minimum weight requirement of the specifications.
+
+         Chesapeake’s bid for Item 16 set forth the engine configuration of the vehicle as a “7.3
+Diesel.” The IFB stated that the minimum configuration was a V-8. In the bid evaluation
+memorandum, Mr. Love determined that Chesapeake did not designate a V-8 engine as required by
+the specification, and determined that Chesapeake’s bid did not conform to the IFB. (AR, Ex.3). In
+footnote 2 to the Agency Report, the District acknowledges that it was unable to locate the
+descriptive literature submitted by the bidders. On December 10, 1999, the Chief Procurement
+Officer signed a Determination and Finding (“D& F”) for Award to Other than Low Bidder. (AR,
+Ex. 4). On January 28, 2000, DPW awarded to Atlantic the contract for Items 15 and 16. On
+February 3, 2000, Chesapeake filed this protest. The District filed its Agency Report on February 24,
+2000. On March 28, and April 3, 2000, the Protester responded to the Agency Report. In its
+responses, Chesapeake asserts that the insertion of the number 11,500 in Item 15 was a clerical error,
+and that in actuality the vehicle weight was 14,500. Chesapeake asserts that the “7.3 Diesel” it
+offered for item 16 is a V-8 engine. With its response, Chesapeake attached a copy of the descriptive
+literature for the proposed vehicle. The descriptive literature makes clear that the 7.3 Diesel is in fact
+a V-8 engine.
+
+                                              DECISION
+
+        We exercise protest jurisdiction pursuant to D.C. Code § 1-1189.3 (Supp. 1998).
+
+        To be responsive, a bid, as submitted, must represent an unequivocal offer to perform without
+exception the exact specifications called for in the IFB so that the bidder will be bound to perform in
+accordance with all the material terms and conditions. Marco Equipment, Inc. 70 Comp Gen. 219,
+91-1 CPD ¶ 107 (Jan. 31, 1991). To ensure that all bidders compete equally, and to ensure the
+integrity of the competitive bidding system, a bid which takes exception to a material IFB
+requirement, or is ambiguous with respect to a material requirement, may not be changed or clarified
+after bid opening and must be rejected as non-responsive. (Id.) .
+
+        We find that DPW reasonably concluded that Chesapeake’s offers on Item 15 did not
+conform to the IFB’s required vehicle weight, and that Chesapeake’s cover letter asserting full
+compliance, when read together with the bid entry, at best created an ambiguity as to Chesapeake’s
+offer. The bid entry of “11,500 L.S.” is not consistent with the claimed actual weight. We conclude
+that under these circumstances, DPW was correct in rejecting Chesapeake’s offer for Item 15.
+
+         With respect to Item16, we find that the descriptive literature, which Chesapeake was
+required to submit by the IF, clearly demonstrates that the proposed minibus has a V - 8 engine and
+is not in conflict with the bid entry of “7.3 Diesel.” The descriptive literature states: “The 7-
+3L Power Stroke Direct Injection Turbo Diesel V - 8 engine is . . . built by Ford for
+                                             - 3-     Chesapeake Bus & Equipment Co. CAB, No. P-611
+
+Navistar.” The descriptive literature established that the product would meet the listed solicitation
+requirement that the minibus contain a V-8 engine and creates no ambiguity when read together with
+the bid entry. DPW’s rejection of Chesapeake’s bid on Item 16 as non-responsive was therefore not
+reasonable. Accordingly, we sustain Chesapeake’s protest on Item 16 and find that it should receive
+the award for Item 16.
+
+       The protest is therefore denied in part and sustained in part.
+
+
+DATE: May 10, 2000
+                                                      LORILYN E. SIMKINS
+                                                      Chief Administrative Judge
+Concurring:
+
+
+
+PHYLLIS W. JACKSON
+Administrative Judge
+
+
+
+
+MATTHEW S. WATSON
+Administrative Judge
+

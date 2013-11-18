@@ -1,0 +1,214 @@
+                          •
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+                                                                      •                                   [8117]
+
+
+
+
+APPEAL OF:
+
+        CURTIS CHEVROLET                               )
+                                                       )       CAB No. D-1116
+        Under Contract No. 8062-98-HD                  )
+
+        For the Appellant: Heather L. Levin, Esq .. For the District of Columbia Housing Authority:
+Patricia Gracyalny, Esq.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges Phyllis
+W. Jackson and Matthew S. Watson, concurring.
+
+                                             OPINION
+
+        Curtis Chevrolet filed a claim for interest penalties pursuant to the Quick Payment Act, as
+amended, D.C. Code §§ 1-1171 to 1-1176 (1999), for late payments made by the District of
+Columbia Housing Authority ("DCHA") on 29 separate invoices. Curtis Chevrolet has moved for
+summary judgment. DCHA opposes summary judgment on the ground that the purchase orders
+contain no clause making the Quick Payment Act applicable to the contract. We conclude that Quick
+Payment Act interest is mandated by the statute itself and thus the lack of a contract clause is no
+valid defense. DCHA does not dispute that Curtis Chevrolet performed the services required by the
+contract, submitted proper invoices, and was paid late on those invoices. Having resolved the single
+legal issue against DCHA, we grant Sllmmary judgment on Curtis Chevrolet's claim in the
+undisputed amount of $8,090.93.
+
+                                         BACKGROUND
+
+       Curtis Chevrolet and DCHA entered into Contract No. 8062-98-HD for the purchase of
+various vehicles. Neither party has included the contract in the record. DCHA has submitted
+purchase orders issued under the contract, each containing a page entitled "Instructions to Vendors"
+which states with respect to invoices:
+
+       Payments will be processed when all deliveries under this order have been made
+       and/or services rendered. . .. Render invoices or billings showing the Purchase
+       Order Number to the location shown on the face of this form. . .. In cases where
+       partial payments are authorized, the invoice or billing should clearly indicat~partial
+       payment request."
+
+(DCHA Opposition, Ex. 1). The "Instructions to Vendors" addresses invoices, delivery charges, and
+taxes, but does not set forth the contractual payment terms. Although tpe parties agree that the
+contract did not specify a particular date by which invoices had to be paid (Curtis Chevrolet Reply, at
+2; DCHA Opposition, at 2), the Quick Payment Act establishes that the required payment due date is
+                          •                      -2-
+                                                                     •    Curtis Chevrolet, CAB No. D-1116
+                                                                                                             [8118]
+
+
+
+
+"30 calendar days, excluding legal holidays, after receipt of a proper invoice for the amount of the
+payment due, if a specific date on which payment is due is not established by contract." D.C. Code §
+1-1172(a)(1)(A).
+
+       It is undisputed that Curtis Chevrolet performed the services contracted for by DCHA, that
+the 29 invoices submitted by Curtis Chevrolet were in proper form, and that DCHA paid these
+invoices from 21 days to 87 days beyond the 30-day payment due date. (DCHA Opposition, at 2;
+Curtis Chevrolet Summary Judgment Motion, Exs. 1-3).
+
+        On November 5, 1999, Curtis Chevrolet filed a claim for interest penalties under the Quick
+Payment Act. On July 19,2000, Curtis Chevrolet filed an amended claim, revising the claim amount
+from $13,217.87 to $8,090.93, and its motion for summary judgment. On August 9,2000, DCHA
+filed an answer to the claim as amended and an opposition to the summary judgment motion.
+
+                                           DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 1-1174.
+
+        DCHA's only defense to the Quick Payment Act claim is that the purchase orders issued
+under the contract did not contain a clause authorizing Quick Payment Act interest. We hold that the
+absence of such a clause does not excuse DCHA from paying Quick Payment Act interest.
+
+        By virtue of the Procurement Reform Amendment Act of 1996, D.C. Law 11-259,44 D.C.
+Reg. 1423 (Mar. 14, 1997), the Quick Payment Act's definition of "District agency" was expanded to
+include independent agencies and any agency of government not subject to the administrative control
+ofthe Mayor. D.C. Law 11-259, § 307(a), codified at D.C. Code § 1-1171(3) (1999). Hood's Int'l
+Foods, Inc., CAB No. D-996, Feb. 20,1998,45 D.C. Reg. 8742, 8743 & n.2. As section 1-1171(3)
+demonstrates, the Council intended that the Quick Payment Act have broader application than even
+the Procurement Practices Act. The Procurement Reform Amendment Act made DCHA subject to
+both the Quick Payment Act and the Procurement Practices Act. DCHA was obligated to pay Quick
+Payment Act interest by the terms of the Quick Payment Act notwithstanding the presence or
+absence ofa clause in the contract authorizing interest penalties for late payment. D.C. Code §§ 1-
+1172, 1173. DCHA argues that a Quick Payment Act clause should not be incorporated into the
+contract by operation of law under the Christian doctrine because the Act does not further a major
+government principle. See G.L. Christian & Assocs. v. United States, 312 F.2d 418 (Ct. Cl.), cert
+denied, 375 U.S. 954 (1963). Clearly, the Christian doctrine would apply to Quick Payment Act
+interest, D.C. Code § 1-1172(b )(1 A), but the doctrine is unnecessary here since the obligation arises
+directly from the statute and its implementing regulations found at 1 DCMR Chapter 17.
+
+                                          CONCLUSION
+
+       Because the facts are undisputed, the matter is appropriate for summary judgment. We
+conclude that the Quick Payment Act applies to the Curtis Chevrolet's contract with DCHA
+                        •                    -3-
+                                                                •   Curtis Chevrolet, CAB No. D-1116
+                                                                                                       [8119]
+
+
+
+
+regardless of whether the contract contains a Quick Payment Act clause. Accordingly, we sustain
+Curtis Chevrolet's claim in the undisputed amount of $8,090.93.
+
+       SO ORDERED.
+
+
+DATED: January 25,2001
+                                                   J  ATHAND. ZIS HKAU
+                                                   Administrative Judge
+
+
+
+
+CONCURRING:
+
+
+
+
+MATTHEW S. WATSON
+Administrative Judge
+                          •       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+
+                               CONTRACT ApPEALS BOARD
+                                    717 14TH STREET, N.W., SUITE 430
+                                                                           •
+                                       WASHINGTON, D.C. 20005
+
+
+
+
+                                                ***                            TELEPHONE
+                                                                               FACSIMILE
+                                                                                           (202) 727-6597
+                                                                                           (202) 727-3993
+
+
+                                           January 25, 2001
+
+
+
+
+TO:         Heather L. Levin, Esquire
+            Counsel for Curtis Chevrolet
+            710 Dryden Street
+            Silver Spring, MD 20901
+
+            Patricia Gracyalny, Esquire
+            District of Columbia Housing Authority
+            1133 North Capitol Street, N.B., Suite 210
+            Washington, DC 20002-2835
+
+
+            SUBJECT:      CAB No. D-1116 (Appeal Of: CURTIS CHEVROLET)
+
+      Attacbed is a copy oftbe Board's Opinion sustaining Curtis Cbevrolet's claim.
+
+
+
+
+                                                    Staff Assistance
+                          •        GoVERNMENT OF THE DISTRICT OF COLUMBIA
+
+                                CONTRACT ApPEALS BOARD
+                                                                            •
+                                     717 14TH STREET, N.W., SUITE 430
+                                        WASHINGTON, D.C. 20005
+
+
+
+                                                 ***
+                                                                               TELEPHONE:    (202) 727-6597
+                                                                               FACSIMILE:    (202) 727-3993
+
+
+
+
+                            FAX COVER SHEET
+To:            Heather L. Levin, Esquire
+               Counsel for Curtis Chevrolet                                 Fax. No.:       (301) 565-3710
+
+               Patricia Gracyalny, Esquire
+               Assistant General Counsel                                    Fax. No.:       (202) 535-1740
+
+
+From:          Barbara Thompson
+
+
+Date:          January 24,2001
+
+               RE: APPEAL OF: Curtis Chevrolet (CAB No.: D-1116)
+
+
+ Board's Opinion                                                                 4
+
+
+
+
+COMMENTS:
+
+
+
+
+                                                                                            From the desk of..
+                                                                                            Barbara Thompson
+
+• NOT COUNTING COVER SHEET. IF YOU DO NOT RECEIVE ALL PAGES, PLEASE TELEPHONE US IMMEDIATELY..
+

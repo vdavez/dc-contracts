@@ -1,0 +1,262 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+HUMILITY OUTREACH MISSIONARY                          )
+     MINISTRIES, INC.                                 )
+                                                      )       CAB Nos. P-0788, P-0789, P-0793
+Under RFP No. RM-08-RFP-021-BY4-CPA                   )
+
+       For the Protester: Susan L. Schor, Esq., McManus, Schor, Asmar & Darden, LLP. For
+the District of Columbia Government: Talia S. Cohen, Esq., and Robert Schildkraut, Esq.,
+Assistant Attorneys General.
+
+                                           OPINION
+                                         Filing ID 25459586
+
+
+        Humility Outreach Missionary Ministries, Inc. (“Humility”) has protested the District’s
+award of four IDIQ contracts to provide supported residential services to consumers diagnosed
+as having a serious and persistent mental illness. Humility argues inter alia that the source
+selection decision and the technical evaluations were unreasonable and arbitrary and not properly
+documented and that the contracting officer used undisclosed and improper evaluation criteria in
+assessing the merits of the competing offers. Although the contracting officer’s own evaluations
+and selection decision were poorly documented, we conclude that the record as a whole supports
+the awards. Accordingly, we deny the consolidated protests.
+
+                                       BACKGROUND
+
+        On May 16, 2008, the District issued solicitation RM-08-RFP-021-BY4-CPA for the
+District's Department of Mental Health (“DMH”) seeking offerors to provide supported
+residential services to consumers diagnosed as having a serious and persistent mental illness,
+who do not currently have a level of functioning that would allow them to live independently
+within the community, and who choose to live in a Mental Health Community Residential
+Facility (“MHCRF”). (Agency Report (“AR”) Ex. 1). A MHCRF is defined in Section C.3.10
+as “a publicly or privately owned residence that houses individuals, 18 or older, with a principal
+diagnosis of mental illness and who require twenty-four (24) hours per day/seven (7) days per
+week on-site supervision, personal assistance, lodging, along with meals . . . .” Section B.2 of
+the solicitation stated that the District contemplated awarding multiple indefinite delivery
+indefinite quantity (“IDIQ”) contracts sufficient to ensure services to a maximum of 223
+consumers. (AR Ex. 1). Section M of the solicitation provided the following technical
+evaluation criteria and maximum scores: technical understanding of the requirement and
+technical approach (30 points), management plan (20 points), quality improvement plan (10
+points), and personnel (15 points). The other evaluation factors were: past performance
+evaluation (10 points) and price evaluation (15 points). On May 20, 2008, the District placed an
+advertisement announcing the solicitation in the Washington Times. (AR Ex. 2). On May 28,
+                                                 -2-           Humility Outreach Missionary Ministries
+                                                                    CAB Nos. P-0788, P-0789, P-0793
+
+2008, the District conducted a pre-proposal conference. (AR Ex. 2). Between May 28, 2008,
+and June 13, 2008, the District issued four amendments to the solicitation. (AR Ex. 1).
+
+        The solicitation closed on June 23, 2008. (AR Ex. 1). The District received proposals
+from ten offerors, including Humility. (AR Ex. 2). Samuel J. Feinberg, the Director of
+Contracts and Procurement and Agency Chief Contracting Officer for DMH, and the contracting
+officer and source selection authority for this solicitation, appointed three persons to conduct a
+technical evaluation of the proposals. On June 25-27, 2008, and July 2, 2008, the District's
+technical evaluation panel (“TEP”) evaluated the proposals. The contracting officer states that
+during the evaluation of initial proposals, the evaluators always met as a group with the contract
+specialist present, each evaluator reviewed each technical proposal individually and assigned a
+preliminary score, and the evaluators then discussed each proposal as a group, including their
+preliminary scores for each evaluation factor, and the strengths and weaknesses noted by each
+evaluator. (Feinberg First Supplemental Declaration ¶¶ 5-9). After the group discussion, each
+evaluator reached his or her own final score for each evaluation factor, with the scores and
+supporting narratives for each evaluation factor being recorded on the technical evaluation
+criteria worksheets. (Id. ¶¶ 10-11). There was no separate consensus report of the TEP
+summarizing its findings. After all evaluations of all technical proposals had been completed,
+each evaluator then reviewed each price proposal, discussed each price proposal as a group, and
+made narrative comments on the price proposal review and comment sheets. (Id. ¶ 12). The
+summary score for each evaluation factor was the average of the scores of the three members of
+the TEP. (Id. ¶ 22).
+
+        After the TEP completed its evaluation, the contracting officer met with the contract
+specialist to review the TEP’s evaluation criteria worksheets and to discuss details of the
+proposals. (AR Ex. 3, at 35). The contracting officer states that he reviewed each proposal and
+then analyzed the proposed capacities (number of consumers that could be served) of each
+offeror against the anticipated capacity required by the District as identified in section 8.2 of the
+solicitation to determine a competitive range. (AR Ex. 3). Capacity was not an evaluation factor
+and thus did not affect a competitive range determination. It is not clear that any offeror was
+excluded from the competitive range. We believe that the contracting officer simply misused the
+term “competitive range” in this context.
+
+         By letter dated July 16, 2008, the District entered into discussions with all offerors. (AR
+Ex. 2). By letter dated July 17, 2008, the District outlined for each offeror the deficiencies in its
+initial proposal and scheduled a meeting with each offeror to discuss its proposal. (AR Ex. 2).
+On July 21-24, 2008, the District met with each offeror and discussed its proposal. (AR Ex. 2).
+By letter dated July 25, 2008, the District notified each offeror that discussions had concluded
+and requested that each offeror submit a Best and Final Offer (“BAFO”). (AR Ex. 2). On July
+31, 2008, each offeror submitted a BAFO. (AR Ex. 2).
+
+        On August 5-7, 2008, the TEP evaluated the BAFOs. (AR Ex. 3). On August 21, 2008,
+the contracting officer reviewed each BAFO and the findings of the TEP regarding the BAFOs.
+(AR Ex. 3). On August 21, 2008, the contracting officer also concluded a review of the
+tabulated final combined scores (technical, price, past performance, and CBE preferences) and
+rankings of each offeror and performed an independent assessment. (AR at 5; AR Ex. 2). The
+                                                 -3-           Humility Outreach Missionary Ministries
+                                                                    CAB Nos. P-0788, P-0789, P-0793
+
+contracting officer concurred with the TEP’s evaluation of the offerors and concluded that
+awarding contracts to the four highest ranked offerors for the full consumer capacity that each
+had proposed would result in the award of contracts for services with a capacity of 225
+consumers, two more than the 223 maximum slots stated in the solicitation. (AR at 5; AR Exs.
+2, 3).
+
+       On September 19, 2008, DMH notified the successful and unsuccessful offerors of
+DMH's decision to award contracts, subject to the prior approval of the City Council, as
+applicable. (AR at 5-6; AR Ex. 2). On September 27-28, 2008, proposed contracts with
+Community Connections, Inc., Life Stride, Inc., and Careco Health Services, Inc., were deemed
+approved by the Council. (AR at 6; AR Ex. 2). On October 1, 2008, the contracting officer
+executed contracts with Deaf-REACH, Community Connections, Life Stride, and Careco Health
+Services, and the contractors began performance. (AR at 6; AR Ex. 2).
+
+        DMH conducted a debriefing for Humility on October 7, 2008, attended by the
+contracting officer and the contract specialist, as well as David Gilmore for Humility. (AR Exs.
+2, 4). The contracting officer recorded in a declaration dated November 12, 2008 (AR Ex. 4), the
+comments he made at the October 7 debriefing. He states that Humility received an acceptable
+rating for the personnel factor because Humility had 3 years of experience as an organization
+while the successful offerors had many more years. (AR Ex. 4 ¶ 5). The contracting officer
+states that Humility’s proposed solution for the licensed clinical supervisor to oversee residential
+services had deficiencies which was a weakness for its quality improvement plan and personnel,
+while the awardees scored higher not only because of longer experience but because their
+personnel credentials including the clinical supervisor were stronger. (Id. ¶ 5). The contracting
+officer also explained in the debriefing the reason for Humility’s score for the quality
+improvement plan factor and the weakness associated with the experience and qualifications of
+Humility’s proposed licensed clinical supervisor. (Id. ¶¶ 7-8).
+
+       Humility filed protests on October 15 and 20, and December 1, 2008.
+
+
+                                          DISCUSSION
+
+        We exercise jurisdiction over these consolidated protests pursuant to D.C. Code § 2-
+309.03(a)(1). Humility raises a number of challenges to the awards, most of which question the
+propriety of the evaluations of Humility’s and the awardees’ proposals and the contracting
+officer’s source selection decision.
+
+        Humility contends that the technical evaluation panel did not properly compare the
+offerors’ proposals and failed to prepare the required documentation of its evaluations. In its
+first supplemental protest, Humility correctly observes that there is no consensus technical
+evaluation report of the panel containing the bases, analyses, and summary of findings. Humility
+points out that the record here contains only the evaluators’ worksheets and evaluation score
+summaries of the initial proposals and BAFOs. Although Humility urges that the evaluations do
+not identify relative differences among the proposals, proposals’ strengths or weaknesses, and
+proposals’ risks vis-à-vis the stated evaluation criteria, we do not agree. The evaluators’
+                                               -4-           Humility Outreach Missionary Ministries
+                                                                  CAB Nos. P-0788, P-0789, P-0793
+
+worksheets contain reasonably detailed proposal strengths and weaknesses and risks that
+highlight the relative differences among the proposals. Clearly, it would have made the record
+far stronger if the contracting officer had obtained a consensus evaluation report from the TEP.
+More importantly, the contracting officer’s documentation of his independent evaluation of the
+offers is quite thin, limited to his concurrence with the TEP’s evaluations, his evaluation
+narrative for the four awardees in the business clearance memoranda, and his notes of his
+debriefing explanations to Humility. The evaluation record should have been documented with a
+comprehensive evaluation narrative, scoring, and ranking of all offerors and supported by the
+TEP’s evaluation work papers and preferably also a consensus report. Despite the shortcomings
+in the record, we are able to discern adequate documentation of the technical evaluation of the
+top four ranked offerors and Humility as contained in the evaluation worksheets, the scoring
+summaries, the business clearance memoranda, and the contracting officer’s declarations
+including his notes of the debriefing. The contracting officer states that he concurred in the
+technical evaluation made by the TEP and we see adequate narrative and analysis by the
+evaluators with respect to the solicitation’s evaluation criteria to support his conclusion.
+
+        Humility argues that it was improperly downgraded in the experience, quality
+improvement plan, and the qualified practitioner requirement. We have carefully considered
+Humility’s arguments, but find that the evaluation was neither arbitrary nor contrary to the
+evaluation criteria stated in the solicitation. Nor can we conclude that the record shows that
+either DMH or the contracting officer determined in advance to limit the number of awardees to
+the offerors with the largest capacity. Clearly, the four offerors with the largest capacity were
+not the four ultimate awardees. We see no basis for concluding that the capacity of an offeror
+was improperly used as an undisclosed evaluation factor. The record supports the contracting
+officer’s position that capacity of offerors was used only to determine how many awards would
+be made, beginning with the highest ranked offeror and proceeding to make awards until the
+maximum capacity was met.
+
+       In connection with the evaluation and selection challenge, Humility argues that the
+contracting officer failed to conduct a cost/technical tradeoff and support his decision that the
+successful proposals were the most advantageous to the District, price and technical factors
+considered. The business clearance memoranda, supported by the evaluation worksheets,
+provide adequate support for the contracting officer’s conclusion that the offers of the four
+awardees were the most advantageous to the District.
+
+        Humility argues that the District never intended to award any contract to a number of the
+offerors including Humility. On June 9, 2008, the District issued solicitation amendment 2
+which, inter alia, provided that only DMH-certified Mental Health Rehabilitative Services
+(“MHRS”) providers could submit offers. (AR Ex. 1, Amendment 2 § L.21.3). This requirement
+was removed by Amendment 4. (AR Ex. 1, Amendment 4). According to Humility, the putative
+opening of the solicitation to contractors not certified as MHRS providers was a sham, with
+DMH intending only to award contracts to certified MHRS providers, notwithstanding the
+relaxation of the specifications. In fact, all of the awardees are certified MHRS providers.
+Humility infers that DMH never intended to award to a non-MHRS certified provider, and
+concludes that the award process and awards were unreasonable, arbitrary, and contrary to the
+law that requires full and open competition. We have reviewed the entire record and find no
+                                                -5-           Humility Outreach Missionary Ministries
+                                                                   CAB Nos. P-0788, P-0789, P-0793
+
+evidence that DMH intended to award only to certified MHRS providers notwithstanding
+Amendment 4.
+
+         Humility also argues that the contracting officer did not fairly consider Humility for
+award and never intended to make an award to Humility even if it were the top ranked offeror.
+District counsel’s comment that the “District has no intention of ‘moving’ [the existing six] . . .
+consumers [at Humility’s facility] whether you win or lose the bid protest” refers, according to
+the contracting officer, to the fact that Humility has been operating as an independent MHCRF
+rather than as a contracted MHCRF. MHCRFs are licensed by DMH as part of the District’s
+continuum of mental health care. (AR Ex. 43 ¶ 23, First Supplemental Declaration of Samuel J.
+Feinberg, dated December 18, 2008). Consumers are informed of their residential options by
+their core service agency and can elect to be placed at an independent MHCRF. A core service
+agency is a “community-based provider of mental health services and mental health supports that
+is certified by DMH and that acts as a clinical home for Consumers of mental health services by
+providing a single point of access and accountability for diagnostic assessment, medication-
+somatic treatment, counseling and psychotherapy, community support services, and access to
+other needed services.” (RFP Section C.3.1). Independent MHCRFs determine on their own
+how they provide services and to whom, subject to licensing requirements contained in 22
+DCMR Chapter 38. (AR Ex. 43). Some MHCRFs have a contract with the District and those
+contracted MHCRFs must abide by the contractual requirements they have with the District and
+presumably accept consumer slots referred to them by the District. Here, Humility was
+anticipating that if it won an award under the solicitation, it could convert its current six
+consumers from the lower reimbursement rates for independently placed consumers it now
+receives to the significantly higher contract rates. We need not address this issue because we
+find no legal error in the awards made by the contracting officer to the four higher ranked
+offerors. We do not believe it was reasonable, in any event, for Humility to assume that its six
+existing consumers would be converted necessarily to six of the 223 contracted consumer slots
+identified in the solicitation if Humility was selected for award. Humility should have sought
+clarification from the contracting officer prior to the submission of proposals on the question of
+the specific status of the six preexisting consumers receiving services from Humility.
+
+        Humility also raises a number of other challenges regarding whether the awardees were
+required to have MHCRF licensed properties when they submitted their proposals, whether the
+past performance evaluations of Careco and Life Stride were reasonable, and whether awards
+were made to offerors whose proposals were deficient. We agree with the District that these
+arguments have no merit. Humility does not demonstrate that the solicitation required properties
+to be purchased or rented at the time of the proposal due date. We have examined the record
+regarding the past performance evaluations of Careco and Life Stride and the alleged proposal
+deficiencies but we find no basis for sustaining the protests on these grounds.
+
+                                        CONCLUSION
+
+        In sum, we have carefully considered each of the challenges raised by Humility, and
+conclude that the contracting officer’s evaluation and selection actions were not contrary to the
+law or the terms of the solicitation. The detailed evaluation worksheets prepared by the technical
+evaluation panel members and the contracting officer’s analysis found in the business clearance
+                                            -6-           Humility Outreach Missionary Ministries
+                                                               CAB Nos. P-0788, P-0789, P-0793
+
+memoranda and his declarations are adequate to support the awards. Accordingly, we deny the
+consolidated protests.
+
+      SO ORDERED.
+
+DATED: June 2, 2009                               /s/ Jonathan D. Zischkau
+                                                  JONATHAN D. ZISCHKAU
+                                                  Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

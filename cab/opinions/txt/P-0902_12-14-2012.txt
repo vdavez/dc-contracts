@@ -1,0 +1,391 @@
+                   DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+FEI CONSTRUCTION COMPANY                                 )
+     (A Division of Forney Enterprises, Inc.)            )       CAB No. P-0902
+                                                         )
+Under Solicitation No. DCFB-2011-B-0167                  )
+       (Formerly DCAM-2011-B-0167)                       )
+
+
+For the Protester: Keith Forney, pro se. For the District of Columbia: Jon Kulish, Assistant Attorney
+General, Office of the Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud, Sr.
+and Administrative Judge Monica C. Parchment concurring.
+
+                                               OPINION
+                                          Filing ID #48443291
+
+        Forney Enterprises, Inc. (“FEI” or “protester”) challenged, pre award, the District’s ability to
+award a contract to any of the following offerors: Consys, Inc. (“Consys”), Specialty Construction
+Management, Inc. (“Specialty Construction”) and Benaka, Inc. (“Benaka”) under Solicitation No. DCFB-
+2011-B-0167. The three offerors were all evaluated as lower responsive bidders than protester. Initially,
+the protester alleged that each offeror failed to provide one or more required bid documents with its
+submission. However, in its Agency Report (“AR”), the District rebutted the protester’s initial protest
+grounds by showing that Consys, the lowest bidder and proposed contract awardee, had, in fact, submitted
+the disputed documents. Subsequently, FEI submitted two supplemental protests to challenge Consys for
+allegedly being nonresponsive due to the inadequacy of its subcontracting plan and its failure to meet
+certain work experience requirements set forth in section L.23 of the Solicitation. The District responded
+with a supplemental AR to explain that the proposed awardee had met each of the requirements at issue.
+Protester did not file comments to, or otherwise contradict, the District’s supplemental AR thereby
+conceding the factual allegations therein. Those allegations support a finding that Consys was the lowest
+evaluated responsive and responsible bidder.
+
+         The record before the Board shows that the contracting officer reasonably determined that Consys
+submitted the lowest responsive and responsible bid. Finding no evidence to support protester’s
+allegations and, therefore, no violation of procurement law or regulation on the part of the District, the
+Board denies the instant protest.
+
+                                                BACKGROUND
+
+       On August 24, 2011, the District’s Department of General Services (“DGS”) issued IFB No.
+DCFB-2011-B-01671 (“IFB” or “Solicitation”) on behalf of the Fire and Emergency Medical Services
+Department. (See AR at Ex. 1.) The IFB sought a contractor to “provide all labor, materials, equipment
+and supervision for the complete renovation and modernization of Engine Company No. 28 . . . and
+
+1
+ The IFB was originally issued by the Department of Real Estate Services, predecessor to the Department of
+General Services, as No. DCAM-2011-B-0167. (AR at Ex. 5, ¶ 2.)
+                                                                                 FEI Construction Company
+                                                                                          CAB No. P-0902
+
+Engine Company No. 29.” (AR at Ex. 1, § B.1.) The IFB was designated for the Open Market with a
+35% SBE subcontracting set aside for contracts over $250,000. (AR at Ex. 1, § B.2.) The IFB was
+revised six times prior to the deadline for receipt of proposals. The revisions are as follows: (i) on
+August 24, 2011, (Amendment No. 0001), the pre-bid conference date was changed; (ii) on September 14,
+2011, (Amendment No. 002), the IFB number was changed, responses to questions by prospective
+bidders were provided and attached to the IFB, and certain sections of the IFB were amended; (iii) on
+October 7, 2011, (Amendment No. 003), the bid opening date was extended from October 11, 2011, to
+October 17, 2011; (iv) on October 13, 2011, (Amendment No. 004), the bid opening date was extended to
+November 7, 2011; (v) on November 7, 2011, (Amendment No. 005), the bid opening date was again
+extended to November 21, 2011; and (vi) on October 18, 2011, (Amendment No. 006), four attachments
+were added to the Solicitation including answers to additional questions from prospective bidders,
+additional specifications, and Special Responsibility Standards under Section L.23. (AR at Ex. 2.)
+
+Relevant Terms of the IFB
+
+       Section B.2 of the IFB required a 35% SBE subcontracting set aside for contracts over $250,000.
+
+       § B.2            A bidder responding to this solicitation, unless exempted by
+                        Section H.13, must submit with its bid, a notarized statement
+                        detailing its subcontracting plan. Bidders responding to this IFB
+                        shall be deemed nonresponsive if and shall be rejected if the
+                        bidder fails to submit a subcontracting plan that is required by
+                        law. For construction contracts in excess of $250,000, at least
+                        35% of the dollar volume of the contract shall be subcontracted in
+                        accordance with Section H.13. The Subcontracting Plan shall
+                        meet the requirements described under Section H.17 of this
+                        solicitation.
+
+       (AR at Ex. 1.)
+
+        Section H.13 entitled “Mandatory Subcontracting Requirement” expands on this
+requirement:
+
+       § H.13.1         For contracts in excess of $250,000.00, at least 35% of the dollar
+                        volume shall be subcontracted to certified small business
+                        enterprises; provided, however, that the costs of materials, goods,
+                        and supplies shall not be counted towards the 35% subcontracting
+                        requirement unless such materials, goods, and supplies are
+                        purchased from certified small business enterprises.
+
+       § H.13.2         If there are insufficient qualified small business enterprises to
+                        completely fulfill the requirement of paragraph H.13.1, then the
+                        subcontracting may be satisfied by subcontracting 35% of the
+                        dollar volume to any certified business enterprises; provided,
+                        however, that all reasonable efforts shall be made to ensure that
+                        qualified small business enterprises are significant participants in
+                        the overall subcontracting work.
+
+       (AR at Ex. 1.)
+
+       Section H.17 details the requirements of a responsive subcontracting plan, stating most pertinently
+
+                                                    2
+                                                                                 FEI Construction Company
+                                                                                          CAB No. P-0902
+
+that failure to submit a compliant subcontracting plan would result in the bid being nonresponsive:
+
+                The prime contractor responding to this solicitation which is required to
+                subcontract shall be required to submit with its bid, a notarized statement
+                detailing its subcontracting plan. Bids responding to this IFB shall be
+                deemed nonresponsive and shall be rejected if the bidder is required to
+                subcontract in accordance with the provisions of Section H.13, H.14 or
+                H.15, but fails to submit a subcontracting plan with its bid.
+
+        (AR at Ex. 1.)
+
+         Section L.23 – Special Standards of Responsibility – required offerors to demonstrate that they or
+their subcontractors had particular experience in the areas of placement of formwork, steel reinforcement,
+and masonry restoration. Section L.23, as revised by Amendment 0006, contains the following language:
+
+        § L.23.6         For the cast-in-place requirement the contractor or its
+                         subcontractor shall provide evidence with its bid that it or its
+                         subcontractor specializes in placement of formwork, reinforcing
+                         steel, and concrete with a minimum of 3 years experience on
+                         projects of similar size and scope.
+
+        § L.23.7         For clay masonry restoration and cleaning the contractor or its
+                         subcontractor shall provide evidence with its bid that it or its
+                         subcontractor is an experienced, preapproved masonry
+                         restoration and cleaning firm. Evidence that the company has
+                         completed work similar in material, design, and extent to that
+                         indicated for this Project with a record of successful in-service
+                         performance. Experience installing standard unit masonry is not
+                         sufficient experience for masonry restoration work.
+
+        § L.23.8         Bids submitted in response to this IFB shall be deemed non-
+                         responsible and shall be rejected of [sic] the bidder fails to
+                         submit with its bid the above information required by Paragraph
+                         L.23.
+        (AR at Ex. 2.)
+
+Bid Evaluations and the Protest
+
+         On November 21, 2011, DGS publicly opened the eight bids that it received in response to the
+IFB. (AR at Ex. 5, ¶ 7.) During the bid opening process, “bid prices were publicly read out aloud and
+recorded on the Bid Tabulation Sheet.” (Id.; see also AR at Ex. 4.) Also during the public opening,
+LSDBE/CBE (Certified Business Enterprise) preference points for each bidder were recorded and the
+appropriate percentage reductions were applied to calculate the evaluated prices. (AR at Ex. 5, ¶ 7.) The
+District determined that Consys was the lowest responsive bidder after the appropriate price reductions
+were applied. (See AR at Ex. 4.) Specialty Construction and Benaka were ranked second and third,
+respectively. (AR at Ex. 4.)
+
+         FEI filed the instant protest with the Board on November 23, 2011, in advance of the actual
+award notification by the District, to challenge any award to Consys, Specialty Construction or Benaka.
+(Protest 1, Nov. 23, 2011.) The District responded by filing the AR on December 15, 2011. Protester
+filed a Supplemental Protest on December 16, 2011, (Project Award Protest – Supplemental [hereinafter
+
+                                                    3
+                                                                                  FEI Construction Company
+                                                                                           CAB No. P-0902
+
+1st Supplemental Protest]), and a Supplemental Submission II on January 17, 2012, (Project Award
+Protest – Supplemental Submission II [hereinafter 2nd Supplemental Protest]). The District filed a
+Supplemental AR in opposition to the first and second supplemental protests. (District’s Supplemental
+AR in Opp’n to First and Second Supplemental Protests and Protest of FEI Constr. Co. dated Jan. 23,
+2012 [hereinafter Supplemental AR].) Protester did not file comments to the Supplemental AR.
+
+       On February 15, 2012, the District completed its evaluation of the “responsibility of Consys
+pursuant to IFB Section L.22 Standards of Responsibility, and L.23 Special Standards of Responsibility”
+and found that Consys, the proposed awardee, had the capacity to perform the contract. (Letter to the
+Board, Feb. 16, 2012.) The District then filed a “Determination and Findings of Responsibility” on
+February 16, 2012, and a “Determination and Findings to Proceed with Contract Award While a Protest is
+Pending” on March 15, 2012, (together, the “D&Fs”). Protester did not file comments challenging the
+D&Fs.
+                                           DISCUSSION
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §
+2-360.03(a)(1) (2011).
+
+        In its initial protest, FEI alleged that Consys, Specialty Construction and Benaka had failed to
+include one or more documents that each offeror was required to submit with its bid. (Protest 1.) In
+particular, FEI cited the requirement for a subcontracting plan in Section B.2 and the requirement for cast-
+in-place and masonry restoration experience in Section L.23. (Id.) However, after FEI filed the protest,
+the District’s responding AR indicated that Consys had, in fact, submitted a subcontracting plan and other
+documents to establish its compliance with Section L.23. (AR 5, ¶ 11, AR 7.) According to the District,
+DGS was processing Consys, as the lowest responsible bidder, for contract award. (AR 4, ¶ 8.)
+
+        As a result, FEI subsequently challenged any contract award to Consys specifically. (See 1st
+Supplemental Protest.) And, although it no longer asserted that Consys had failed to include a
+subcontracting plan in its bid, the protester nonetheless alleged that the inadequacy of the subcontracting
+plan rendered Consys’ bid nonresponsive. (Id.) For example, protester contended that Consys’
+subcontracting plan (i) consisted of unrealistic pricing for the interior renovation work, (ii) included
+subcontractors for demolition and waste management that were not properly certified to perform the
+proposed work, (iii) was mathematically unsustainable, and (iv) was not certified due to the absence of a
+notary seal. (1st Supplemental Protest 1-2; 2nd Supplemental Protest, ¶ 1.a.) In addition, protester alleged
+that Consys failed to meet the special standards of responsibility under Amendment 6 which required
+each bidder to demonstrate that its designated subcontractor possessed “a minimum of three years’
+experience on projects of similar size and scope for cast-in-place concrete.” (1st Supplemental Protest 3;
+2nd Supplemental Protest, ¶ 1.b.) Because protester has ceded one of its initial protest grounds by
+acknowledging that Consys had submitted a subcontracting plan, the Board’s review of the record is
+therefore narrowed to the remainder of protester’s allegations concerning (A) the adequacy of Consys’
+subcontracting plan, including whether it was properly certified, and (B) Consys’ compliance with the
+requirements set forth in Section L.23 of the IFB.
+
+       The Board notes that protester has not filed an opposition to the Supplemental AR or challenged
+the D&Fs. The Board rules provide, in pertinent part:
+
+        307.3           Failure of the protester to file comments, or to file a statement
+                        requesting the case be decided on the existing record, or to
+                        request an extension of the time for filing, shall result in the
+                        closing of the record of the case and may result in dismissal of
+                        the protest.
+
+                                                     4
+                                                                                   FEI Construction Company
+                                                                                            CAB No. P-0902
+
+
+        307.4            When a protester fails to file comments on an Agency Report,
+                         factual allegations in the Agency Report’s statement of facts not
+                         otherwise contradicted by the protester, or the documents in the
+                         record, may be treated by the Board as conceded.
+
+       Pursuant to Board Rule 307.4, we will therefore treat as conceded statements of facts in the
+Supplemental AR not otherwise contradicted by the protester or by any other documents in the record.
+
+A.   The Subcontracting Plan
+
+        FEI claimed that the subcontracting plan submitted by Consys as part of its bid was
+mathematically unsustainable, incomplete, and failed to satisfy the Solicitation’s CBE requirement. (1st
+Supplemental Protest 1-2.) Since the District determined Consys to be the lowest responsive bidder,
+protester is therefore challenging the validity of the District’s evaluation of the bids. “In reviewing a
+protest which challenges the propriety of an agency’s evaluation of proposals, it is not the function of the
+Board to independently evaluate proposals and to substitute the Board’s judgment for that of the agency.”
+Emergency Assocs. of Physician’s Assistants & Nurse Practitioners, Inc., CAB No. P-0500, 46 D.C. Reg.
+8527, 8532 (Dec. 15, 1998). However, we will “examine the record to determine whether the judgment
+was reasonable and in accord with the evaluation criteria listed in the solicitation and whether there were
+any violations of procurement laws or regulations.” Health Right, Inc., D.C. Health Coop., Inc., & The
+George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C. Reg. 8612, 8635 (Oct. 15, 1997);
+Trifax, Corp., CAB No. P-0539, 45 D.C. Reg. 8842, 8847 (Sept. 25, 1998). Yet, “the protester has the
+burden of affirmatively proving its case and the fact that the protester does not agree with the agency’s
+technical conclusions does not itself render the evaluation unreasonable.” Emergency Assocs. of
+Physician’s Assistants & Nurse Practitioners, Inc., CAB No. P-0500, 46 D.C. Reg. at 8532.
+
+         In this case, protester’s allegations concerning the acceptability of Consys’ subcontracting plan
+have been refuted by the District in its initial AR and the subsequent Supplemental AR. First, protester’s
+assertion that Consys had failed to include a subcontracting plan in its bid was disproven by the District in
+the initial AR. (See AR 5, 7.) Second, in the Supplemental AR, the District explained that Consys was
+deemed responsible having satisfied the relevant CBE subcontracting requirements. (See Supplemental
+AR 6-12.) And, inasmuch as FEI failed to provide the Board with comments to the District’s
+Supplemental AR, or evidence contradicting it, protester failed to meet its burden of affirmatively proving
+that Consys’ subcontracting plan did not satisfy the Solicitation’s requirements. As a consequence, the
+Board will treat as conceded the District’s factual allegations in the Supplemental AR, including the
+finding of adequacy regarding Consys’ subcontracting plan.
+
+         FEI has also alleged that Consys’ bid was not properly notarized and therefore not properly
+certified. In fact, protester specifically questioned the expiration date of the notary’s commission in
+Consys’ bid. (2nd Supplemental Protest ¶ 1.a.ii.3.) The bid was notarized by Ms. Kelly Hayes and,
+according to the certificate of appointment, the State of Maryland issued her a commission effective
+October 12, 2010, through October 12, 2014. (AR at Ex. 9.) As such, Ms. Hayes’ commission was
+inarguably valid when she notarized Consys’ bid. For the aforementioned reasons, the Board denies
+FEI’s protest grounds concerning both the adequacy and certification of Consys’ subcontracting plan.
+
+B. Special Standards of Responsibility
+
+       The protester has claimed that in order to meet the IFB’s cast-in-place experience requirement,
+Consys relied on a subcontractor that does not have the requisite experience on projects of similar size
+
+
+                                                     5
+                                                                                         FEI Construction Company
+                                                                                                  CAB No. P-0902
+
+and scope. (2nd Supplemental Protest ¶ 1.b.ii.) FEI therefore asserts that Consys must be deemed
+nonresponsive2 for failing to meet the IFB’s special standards of responsibility. (Id.)
+
+        We have held that definitive responsibility criteria or special standards of responsibility are
+specific and objective standards designed to measure a prospective contractor’s ability to perform the
+contract. M.C. Dean, CAB No. P-0505, 45 D.C. Reg. 8664, 8669 (Dec. 3, 1997). As a result, “[w]here
+an allegation is made that definitive responsibility criteria have not been satisfied, we will review the
+record to ascertain whether evidence of compliance has been submitted from which the contracting officer
+could reasonably conclude that definitive criteria have been met.” (Id.) In Cent. Armature/Fort Meyer
+Joint Venture, CAB No. P-0478, 44 D.C. Reg. 6823, 6828-29 (June 6, 1997), the Board clearly stated the
+scope of the Board’s review of a responsibility determination involving special standards of
+responsibility.
+
+                 It is well settled that the Board will not overturn an affirmative
+                 responsibility determination unless a protester can show fraud or bad
+                 faith on the part of the contracting officials, a bidder’s failure to adhere
+                 to definitive responsibility criteria, or that such a determination lacked
+                 any reasonable basis. A contracting agency has broad discretion in
+                 determining whether bidders meet definitive responsibility criteria since
+                 the agency must bear the burden of any difficulties experiences in
+                 obtaining the required performance. When a solicitation contains
+                 definitive responsibility criteria, which are specific and objective
+                 standards established by an agency to measure a bidder’s ability to
+                 perform a particular contract, the agency must obtain evidence that the
+                 bidder meets those criteria.
+
+                                                       ***
+
+                 The scope of our review is focused on ascertaining whether evidence of
+                 compliance has been submitted from which the contracting officer
+                 reasonably could conclude that the definitive responsibility criteria had
+                 been met. The relative quality of the evidence is a matter for the
+                 judgment of the contracting officer. Nevertheless, we also insist on the
+                 presence of objective evidence demonstrating compliance with the
+                 definitive responsibility criteria.
+
+                 Id.
+
+         The IFB stated that “[f]or the cast-in-place requirement the contractor or its subcontractor shall
+provide evidence with its bid that it or its subcontractor specializes in placement of formwork, reinforcing
+steel, and concrete with a minimum of 3 years’ experience on projects of similar size and scope.” (AR at
+Ex. 2 § L.23.6.) Consys proposed G & D Construction, LLC (“G&D”) as its subcontractor for all cast-in-
+place work and provided three past performance evaluations of G&D. (AR at Ex. 13C, at Exs. 16,17.)
+
+
+2
+  Protester describes this alleged deficiency as an issue of responsiveness because it claims that Consys failed to
+submit the required documentation under Section L.23. (See 2nd Supplemental Protest ¶ 1.b.ii.) However, Section
+L.23.8 describes the above as a responsibility matter. The Board has also clarified that information concerning
+contractor experience and the ability to perform fully the contract requirements relate to bidder responsibility, not
+bidder responsiveness. See Space Master Internat’l, Inc., CAB No. P-0380-A, 41 D.C. Reg. 3687, 3689 (Oct. 20,
+1993).
+
+                                                         6
+                                                                                   FEI Construction Company
+                                                                                            CAB No. P-0902
+
+The performance evaluations provided evidence that G&D has been performing cast-in-place work from,
+at least, May 2008 to January 2012.
+
+        Based on the foregoing,3 the contracting officer’s conclusion that Consys’ bid satisfied the
+experience requirements set forth in Section L.23.6 was reasonable. Moreover, since the protester has not
+alleged or established fraud or bad faith on the part of the contracting officer, there is no basis for this
+Board to invalidate the contracting officer’s responsibility determination of Consys.
+
+                                              CONCLUSION
+
+        The Board finds that the protester has not shown that the contracting officer wrongly determined
+that Consys submitted the lowest responsive and responsible bid to the Solicitation. Having found no
+violation of procurement law or regulation on the part of the District, we deny the instant protest.
+
+        SO ORDERED.
+
+DATED: December 14, 2012                                           /s/ Maxine E. McBean
+                                                                   MAXINE E. MCBEAN
+                                                                   Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+/s/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+Electronic Service:
+
+Mr. Keith Forney
+President
+Forney Enterprises, Inc.
+1818 New York Avenue, N.E., Suite 201
+Washington, D.C. 20002
+
+Jon N. Kulish
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., Suite 700
+Washington, D.C. 20001
+
+
+3
+  Protester has also alleged that TPM Group, LLC (Consys’ proposed subcontractor for demolition and waste
+management) lacks the requisite demolition and waste management experience to meet its obligations under the
+subcontracting plan. (1st Supplemental Protest ¶ 1.b.) However, waste management and demolition are not listed
+under Section L.23 as tasks requiring any specific certification or work experience.
+
+
+                                                      7
+

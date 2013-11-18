@@ -1,0 +1,163 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+I.C.A.STAR.N.U                               )
+                                             )        CAB No. P-0795
+Under IFB No. CFSA-08-I -0004                )
+
+      For the Protester: Ms. Sherry J. Bailey, pro se. For the District of Columbia
+Government: Talia S. Cohen, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 25506948
+
+
+         i.c.a.STAR.n.u (“STAR”) has protested the contracting officer’s decision not to award it
+a youth mentoring contract. The District has moved to dismiss the protest on the ground that
+STAR lacks standing. STAR has not challenged the two awards made by CFSA and does not
+allege that CFSA violated any law, regulation, or the terms of the solicitation. Even if we could
+discern a valid challenge to the awards, STAR lacks standing to protest, as it would not be next
+in line for an award if we were to sustain its protest grounds. Accordingly, we dismiss the
+protest.
+
+                                       BACKGROUND
+
+       On September 24, 2008, the District of Columbia’s Child and Family Services Agency
+(“CFSA”) issued IFB No. CFSA-08-I-0004 (“IFB”) for a proposed indefinite delivery indefinite
+quantity (“IDIQ”) contract. The IFB sought qualified contractor(s) to provide mentoring
+services for up to 500 clients, with a bid opening date of October 24, 2008. (District’s Motion to
+Dismiss, Ex. 1). CFSA set forth in Section B.3 the method of bid evaluation, based on the
+hourly rate for each CLIN times 288 hours for each CLIN. The 288 hours represented the
+number of hours of mentoring services one client could receive during the contract term.
+(Motion to Dismiss, at 2; Exs. 1, 14). On October 15, 2008, CFSA issued Amendment No. 1,
+which provided responses to bidders’ questions. (Motion to Dismiss, Ex. 2). On October 24,
+2008, CFSA received a total of 23 bids, four of which were received after bid opening and not
+opened. (Motion to Dismiss, at 2).
+
+       CFSA prepared bid tabulation sheets of the bidders (Motion to Dismiss Ex. 13) indicating
+that M.M.G. LLC (“M.M.G.”) offered the lowest total bid price of $24,480. Our Future offered
+the second lowest total bid price of $25,056. Culbreth & Culbreth Consultant, Inc. (“Culbreth”)
+offered the third lowest total bid price of $28,494.72, and Family Enrichment Center offered the
+fourth lowest total bid price of $28,512. (Motion to Dismiss, Ex. 13; District Reply, dated
+March 19, 2009, Ex. A). CFSA determined M.M.G., the lowest bidder, to be nonresponsible.
+(Motion to Dismiss, Ex. 14), and on December 31, 2008, CFSA awarded Contract No. CFSA-09-
+C-0133 to the second lowest bidder, Our Future. (Motion to Dismiss, Ex. 11). On January 31,
+2009, CFSA awarded Contract No. CFSA-09-C-0130 (“Contract No. 0130”) to the third lowest
+                                                -2-                                i.c.a.STAR..n.u
+                                                                                  CAB No. P-0795
+
+bidder, Culbreth. (Motion to Dismiss, Ex. 12). The contracting officer has not awarded a
+contract for the remaining 80 clients. (Motion to Dismiss, at 3; District Reply, at 3).
+
+       On February 6, 2009, STAR filed the instant protest with the Board alleging that:
+
+       1.      STAR did not fully understand the contracting process;
+       2.      STAR’s contract has always been negotiable on price when it pertains to
+               keeping the clients’ services in place;
+       3.      STAR has contracted with CFSA for 11 years and the price has never
+               increased or decreased;
+       4.      Six years ago CFSA had two companies servicing hundreds of children
+               and CFSA hired more contractors to avoid the displacement of children
+               should one of the contractors be unable to perform;
+       5       STAR cannot understand why CFSA would sever an excellent relationship
+               with STAR when STAR is willing to negotiate a reduction in price; and
+       6.      STAR mentors will not work with the two companies that CFSA awarded
+               contracts to pursuant to the IFB.
+
+        On February 26, 2009, the District filed a motion to dismiss asserting that STAR lacks
+standing to protest since STAR is not next in line for award even if the protest were sustained,
+and, moreover, even on the merits, none of the six protest grounds raised by STAR is an
+adequate ground for protest. On March 8, 2009, the STAR filed its opposition, raising two new
+issues: (1) the District incorrectly indicates in the bid tabulation sheets (Exhibit 13) that STAR
+was eighth in line for award when in fact STAR was tied for fourth place with three other
+bidders, and (2) that Family Enrichment is a nonresponsible bidder. As a result of the STAR’s
+opposition, CFSA conducted a complete and thorough review of the bids and CFSA produced a
+revised bid tabulation sheet which was submitted as Exhibit A to the District’s March 19, 2009
+reply to STAR’s opposition. Below is a table summarizing the revised bid tabulation of Exhibit
+A (excluding bidders ranked below STAR):
+
+       BIDDERS                Total Price Per               LSDBE          Adjusted Value
+                              Client for the Base           Preference
+                              Year and Four
+                              Options
+
+       1. M.M.G.             $24,480.00                     0              $24,480.00
+       2. Our Future         $25,056.00                     0              $25,056.00
+       3. Culbreth           $28,494.72                     0              $28,494.72
+       4. Family Enrichment $28,512.00                      0              $28,512.00
+       5. Kidd International $37,324.80                     10 %           $33,592.32
+       6. Steppingstones     $38,992.32                     12 %           $34,313.24
+       7. Greater Fellowship $34,560.00                     0              $34,560.00
+       7. Way of the Word $34,560.00                        0              $34,560.00
+       7. GANG               $34,560.00                     0              $34,560.00
+       7. STAR               $34,560.00                     0              $34,560.00
+                                                 -3-                                 i.c.a.STAR..n.u
+                                                                                    CAB No. P-0795
+
+         As can be seen from the revised bid tabulation sheet, the rankings of the first four bidders
+did not change even though CFSA corrected several bid prices. M.M.G. still offered the lowest
+total bid price of $24,480.00 but was determined nonresponsible and therefore eliminated from
+the competition. Our Future still offered the second lowest total bid price of $25,056, Culbreth
+still offered the third lowest total bid price of $28,494.72, and Family Enrichment still offered
+the fourth lowest total bid price of $28,512. (District’s March 19 Reply, Ex. A). However, the
+revised bid tabulation sheet shows two other bidders with the fifth and sixth low evaluated bids –
+namely, Kidd International Home Care, and Steppingstones Management Services, LLC, based
+on their right to a bid reduction based on preferences for being local, small, and disadvantaged
+business enterprises. In addition, CFSA determined that there was an error in the unit prices for
+both Steppingstones and for STAR. Accordingly, the revised bid tabulation indicates that
+beyond the awardees (Our Future and Culbreth), Family Enrichment, Kidd International, and
+Steppingstones have lower evaluated bids than STAR. STAR challenged the responsibility of
+Family Enrichment in its opposition to the District’s motion to dismiss. STAR has never
+responded to the District’s reply with the revised bid tabulation sheet showing STAR is tied for
+seventh with three intervening bidders ahead of it.
+
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        The Board notes that none of STAR’s six protest grounds allege that CFSA violated any
+procurement law or regulation or the terms of the solicitation. STAR does not challenge the two
+awards but rather argues that CFSA should have continued to contract with STAR
+notwithstanding the new procurement. STAR misunderstands the nature of a competitive
+procurement under District procurement law. We see nothing in the record demonstrating that
+CFSA improperly conducted this procurement. In response to the District’s motion to dismiss,
+raising STAR’s lack of standing to challenge the awards (which STAR really does not
+challenge), STAR has only alleged that one bidder should have been determined nonresponsible.
+Thus, this protest can be dismissed on two bases. First, STAR does not properly challenge the
+awards made to Our Future and Culbreth and alleges no violation of the law in its protest
+grounds. Second, even if we could treat the protest as challenging the awards, STAR lacks
+standing because it is not in line for award if we were to find merit in its protest grounds.
+Commando K-9 Detectives, Inc., CAB Nos. P-0405, Aug. 18, 1995, 42 D.C. Reg. 4597, 4598
+(protester lacks standing because it is not next in line for award even if the protest were
+sustained).
+
+                                         CONCLUSION
+
+        STAR has not challenged the two awards made by CFSA and does not allege that CFSA
+violated any law, regulation, or the terms of the solicitation. Even if we could discern a valid
+challenge to the awards, STAR lacks standing to protest, as it would not be next in line for an
+award if we were to sustain its protest grounds. Accordingly, we dismiss the protest.
+                       -4-                             i.c.a.STAR..n.u
+                                                      CAB No. P-0795
+
+
+      SO ORDERED.
+
+
+DATED: June 4, 2009          /s/ Jonathan D. Zischkau
+                             JONATHAN D. ZISCHKAU
+                             Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

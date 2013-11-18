@@ -1,0 +1,222 @@
+                                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                                          CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+HARRIS RESOURCES, PC                                                        )
+                                                                            )        CAB No. P-0894
+Solicitation No. DCRK-2011-R-0219                                           )
+
+
+       For the Protester: Mr. Curtis Harris, pro se. For the District of Columbia Government:
+Robert Schildkraut, Esq., Assistant Attorney General, Office of the Attorney General.
+
+      Opinion by Chief Administrative Judge Marc D. Loud, Sr., with Administrative Judge
+Maxine E. McBean, concurring.
+
+                                                                  OPINION
+                                                               Filing ID #46901459
+
+        Harris Resources, PC (protester or Harris) failed to submit a bid on a solicitation issued
+by the D.C. Office of Contracting and Procurement (District) after allegedly encountering
+difficulties logging on and experiencing other delays with the District’s online procurement
+message board. Harris thereafter filed a protest with the Board asserting that the District erred by
+not allowing it to file a late proposal. The District filed an unopposed motion to dismiss on
+jurisdictional grounds. We find that the protester does not meet the lawful requirements for
+submission of a late proposal and dismiss this matter with prejudice.
+
+                                                               BACKGROUND
+
+        In pertinent part, the record herein reveals that the District issued Request for Proposals
+No. DCRK-2011-R-0219 on the District’s Ariba Spin Manage Website (Ariba) on September 1,
+2011, for actuarial services related to worker’s compensation and tort liability claims. (District’s
+Combined Mot. to Dismiss and Agency Report (hereafter Mot. To Dismiss), Ex. 2, §B.1., Ex. 4,
+¶4.) The solicitation identified September 15, 2011, at 2:00 p.m. as the submission deadline.
+(Mot. To Dismiss, Ex. 4, ¶4.) The District later changed the submission deadline to September
+15, 2011, at 4:00 p.m. (Mot. To Dismiss Ex. 4, ¶9.) The protester requested that the deadline be
+changed to September 15, 2011, at 5:00 p.m., but the District denied the request. (Protest 2.) The
+protester does not dispute that it failed to submit a timely proposal to the solicitation1. (Protest 1-
+2.)
+      The two-page pro se protest submitted herein lacks a coherent narrative of protest
+grounds, and is replete with factual discrepancies. For example, there are internal contradictions
+
+
+                                                            
+1
+   The protester concedes that it was “unable to get our submission in before the deadline” and that the District
+“closed the bid just minutes before we were ready to submit”. (Protest 1-2.)
+                                                               -2-                               Harris Resources, PC
+                                                                                                     CAB No. P-0894
+                                                                                        
+ 
+between key dates referenced in the protest,2 solicitation provisions cited therein,3 and arguments
+advanced to support the protest.4 Notwithstanding those inherent deficiencies, the Board discerns
+that the protester is seeking to link its failure to submit a timely bid to three factors allegedly
+caused by the District.
+        First, the protester contends that the District’s Ariba system prevented the protester from
+logging on until six days after the solicitation was issued. (Protest 1, ¶2.) The solicitation was
+issued on September 1, 2011, and the protester contends that it was not able to logon to Ariba
+until September 7, 2011.5 (Id.) By implication then (although not stated expressly), the protester
+apparently contends that it was prejudiced by the truncated period within which it was forced to
+prepare a proposal.
+        Second, the protester contends that the District failed to issue responses to its solicitation
+questions until the day that proposals were due from all bidders. (Protest 2, ¶2.) In this regard,
+the record shows that the protester emailed questions to the District on September 13, 2011.
+(Protest 2; Mot. to Dismiss Ex. 4, ¶6, Ex. 5.) The protester emailed the District two additional
+questions on September 14, 2011. (Protest 2; Mot. to Dismiss Ex. 5.) The protester contends that
+it did not receive answers to its first set of questions until September 15, 2011, when the District
+issued Amendment Two6 containing said answers. (Protest 2; Mot. to Dismiss Exs. 3, 4 ¶8.) The
+District contends that it sent an email to the protester containing answers to the questions on
+September 14, 2011, which the protester contends it never received. (Mot. to Dismiss Ex. 4, ¶7,
+Ex. 5; Protest 2.) The protester contends that the District should have extended the deadline for
+bid submission to 5:00 p.m. to “allow us to incorporate the required changes to our submission.”
+(Protest 2.)
+        Lastly, the protester appears to contend that the District violated §L.6 of the solicitation
+by (1) failing to “promptly answer” bidder questions on the Ariba message board, and (2)
+allowing a competing bidder to submit solicitation questions within nine days of the closing date.
+(Protest 1.) In this regard, the protester merely repeats its above argument regarding the
+District’s alleged delay in posting responses on the Ariba message board to the protester’s
+September 13 questions. Separately, however, the protester also appears to argue that ambiguous
+solicitation language resulted in the protester not submitting solicitation questions until two days
+before the closing date. It appears (although not expressly stated) that the protester is arguing that
+but for §L.6’s alleged ambiguous language, the protester would have submitted its questions
+                                                            
+2
+    For example, the protester contends that it “requested that the due date time be extended to 5:00 p.m.” on
+September 20, but on the same page states that it “requested a two-hour extension” on September 15, 2011. (Protest
+2.)
+3
+   For example, the protester refers to solicitation §L.6 as containing a requirement to promptly post all bid questions
+on the Ariba website, but later refers to §L.16 as containing the requirement. (Protest 1-2.)
+4
+   For example, the protester contends that it believed the submission deadline was 2 p.m. and “closed just minutes
+before we were ready to submit”. (Protest 2.) However, the actual submission deadline was 4:00 p.m. and
+protester’s proposal would have been timely had it been submitted “just minutes” after 2:00 p.m. (Mot. to Dismiss
+Ex. 4, ¶9.)
+5
+    On September 7, 2011, Harris sent an email to the OCP Help Desk requesting assistance with registering, and
+received an invitation to participate in the procurement. (Mot. to Dismiss Ex. 5.) Later that same day, the protester
+emailed the solicitation’s contract specialist stating that the problem had been solved. (Id.)
+6
+    Neither the questions presented nor the responses given by the District in Amendment Two are germane herein
+because we find that the protester does not meet the requirement to submit a late proposal.
+                                                                 -3-                         Harris Resources, PC
+                                                                                                 CAB No. P-0894
+                                                                                     
+ 
+prior to September 13 and have had sufficient time thereafter to incorporate any needed changes
+into a timely final proposal to the District. (Protest 2.)
+        The District has filed an unopposed motion to dismiss.7 First, the District argues that,
+consistent with his broad discretionary authority, the contracting officer herein was under no
+duty to extend the submission deadline to 5:00 p.m. (Mot. to Dismiss 9.) Second, the District
+argues that the remaining protest grounds asserted by Harris are untimely because Harris knew of
+the alleged improprieties regarding logon difficulties, ambiguous solicitation language, and
+delayed message board posts prior to the time set for receipt of proposals, but filed its protest
+beyond the permissible time-period stated in D.C. Mun. Regs. tit. 27, §302.2(a) (2002). (Mot. to
+Dismiss 4.)
+                                                               DISCUSSION
+              The Board exercises jurisdiction over this protest pursuant to D.C. CODE §2-360.03(a)(1)
+(2011).
+       The threshold issue presented for the Board’s consideration is whether the District erred
+by not allowing the protester to submit a late proposal following the alleged failure of the Ariba
+system to function properly. The pertinent regulations regarding submission of late proposals are
+found at D.C. Mun. Regs. tit. 27, §1609 et seq. and provides:
+27-1609. LATE PROPOSALS, LATE MODIFICATIONS, AND LATE WITHDRAWALS
+
+    1609.3 Proposals and modifications to proposals that are received in the designated District
+office after the exact time specified in the RFP . . . are "late" and shall be considered only if they
+are received before the award is made and one (1) or more of the following circumstances apply:
+
+              (a) The proposal or modification was sent by registered or certified mail not later than the
+              fifth (5th) calendar day before the date specified for receipt of offers;
+
+              (b) The proposal or modification was sent by mail and it is determined by the contracting
+              officer that the late receipt at the location specified in the RFP was caused by
+              mishandling by the District after receipt; or
+
+              (c) The proposal is the only proposal received.
+
+       In the instant matter, neither the Board nor the contracting officer can authorize the
+untimely submission of protester’s proposal unless the requirements of the above regulation are
+                                                            
+7
+  The District also filed a Determination and Findings to Proceed with Contract Award While a Protest is Pending
+(D&F to Proceed). The protester did not challenge the District’s D&F under D.C. Mun. Regs. tit. 27, §304.4 (2002).
+The protester also failed to file Comments to the District’s Agency Report under D.C. Mun. Regs. tit. 27, §307
+(2002). The protester’s failure to oppose the District’s motion to dismiss, file Comments to the Agency Report, and
+challenge the District’s D&F suggests that the protester may have abandoned its protest. The Board is authorized to
+treat an unopposed motion as conceded under D.C. Mun. Regs. tit. 27, §110.5 (2002). Further, where a protester
+fails to file Comments to the Agency Report, the Board may dismiss the matter and/or treat as conceded facts not
+otherwise contradicted by the protest or documents in the record. D.C. Mun. Regs. tit. 27, §§307.3, 307.4 (2002).
+                                                               -4-                            Harris Resources, PC
+                                                                                                  CAB No. P-0894
+                                                                                       
+ 
+met. See, e.g., Protest of Wallace C. Wilson, CAB No. P-0484, 44 D.C. Reg. 6879 (August 4,
+1997); Protest of Planning and Development Intern, Inc., CAB No. P-0336, 41 D.C. Reg. 3491
+(June 22, 1993). In this case, the protester has not met any of the requirements of the rule
+regarding late proposals. In particular, a late proposal can only be considered if, at a minimum, it
+was received before contract award. In this case, the protester has conceded that it did not submit
+a proposal.
+        In addition, it was not an abuse of discretion for the District to refuse to extend the
+deadline herein to 5:00 p.m. as requested by the protester. There is every indication from this
+record that the problems that the protester allegedly experienced with the Ariba system might
+very well have been user error. For example, the contracting officer noted that the protester “was
+unable to review the Solicitation on the Ariba system until September 7, 2011, because Harris
+had originally provided Ariba with an incorrect email address.” (Mot. to Dismiss, Ex. 4, ¶11.8) It
+was not an abuse of discretion for the contracting officer to refuse to extend the submission
+deadline solely to accommodate an offeror whose own errors may have been responsible for its
+inability to make the initial deadline.
+        Notwithstanding the contracting officer’s refusal to extend the deadline to 5:00 p.m., the
+contracting officer did extend the submission deadline to 4:00 p.m. (Mot. to Dismiss, Ex. 4, ¶12.)
+Notice of the two-hour extension was posted for all to see on the Ariba website on September 15
+at the same time that Amendment Two was posted. (Mot. to Dismiss, Ex. 4, ¶13.) A contracting
+officer’s refusal to extend a closing date is appropriate unless the record supports a finding that
+her decision is arbitrary and capricious. Protest of Wallace C. Wilson, 44 D.C. Reg. at 6881.
+The record herein does not support a finding that the contracting officer’s refusal to extend the
+deadline to 5:00 p.m. was arbitrary and capricious.
+        Therefore, the Board dismisses the present matter with prejudice for the reasons set forth
+herein. The protester did not submit a timely proposal, has not established that it was an abuse of
+discretion for the contracting officer to deny its request to accept a late proposal, and has not met
+the requirements of §1609.3 for submission of a late proposal. We have reviewed the other
+arguments raised by the protester and find them to be either tangential to the main issues herein,
+or without merit.
+SO ORDERED.
+
+
+DATED: October 10, 2012                                              /s/ Marc D. Loud, Sr.
+                                                                     MARC D. LOUD, SR.
+                                                                     Chief Administrative Judge
+
+CONCURRING:
+
+
+
+                                                            
+8
+  Given the number of errors contained in the protester’s submission to the Board, it is conceivable that the
+protester’s lack of attention to detail may have caused or contributed to its inability to navigate the Ariba system
+properly.
+                                   -5-       Harris Resources, PC
+                                                 CAB No. P-0894
+                                          
+ 
+/s/ Maxine E. McBean
+MAXINE E. MCBEAN
+Administrative Judge
+
+
+
+Electronic Service:
+
+Mr. Curtis Harris, ASA, EA, MAAA
+Harris Resources, PC
+18032 Rock Branch Drive
+Dallas, Texas 75287
+
+Robert Schildkraut
+Assistant Attorney General, D.C.
+441 4th Street, N.W., 7th Floor
+Washington, D.C. 20001
+

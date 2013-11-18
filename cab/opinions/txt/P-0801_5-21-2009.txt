@@ -1,0 +1,468 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+                                           Redacted
+PROTEST OF:
+
+
+TOMPKINS BUILDERS, INC.                      )
+                                             )        CAB No. P-0801
+Under RFP No. DCAM-2008-R-0088               )
+
+       For the Protester: Douglas L. Patin, Esq., Robert J. Symon, Esq., Bradley Arant Boult
+Cummings LLP. For the District of Columbia Government: Robert Schildkraut, Esq., Assistant
+Attorney General. For the Intervener: Claude M. Bailey, Esq., Terry L. Elling, Esq., Venable
+LLP.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 25312712
+
+        Tompkins Builders, Inc., has protested the contracting officer’s decision to eliminate it
+from a competition for construction of the Consolidated Forensics Laboratory (“CFL”) on the
+ground that Tompkins did not meet two special standards of responsibility. Tompkins relied on
+projects performed by its parent company, Turner Construction Company, and Turner’s
+involvement in the CFL to satisfy the special standards of responsibility. Having reviewed the
+record, we find that the contracting officer’s determination to exclude Tompkins from the
+competition because it did not satisfy the special standards of responsibility was unreasonable
+and irrational. Tompkins’ proposal and BAFO clearly demonstrate the commitment of the
+personnel, management, and financial resources of its parent, Turner Construction, such that
+Turner will have meaningful involvement in contract performance. Accordingly, we sustain the
+protest and direct the contracting officer to perform a new and proper evaluation of Tompkins,
+including conducting discussions and requesting additional BAFOs if necessary, and make a
+proper selection decision.
+
+                                       BACKGROUND
+
+        On September 25, 2008, the District of Columbia, through the Office of Contracting and
+Procurement (“OCP”), issued RFP DCAM-2008-R-0088 for the construction of the new
+Consolidated Forensics Laboratory (“CFL”). (Agency Report (“AR”), Ex. 1). The new building
+will enable the District to co-locate the District’s Metropolitan Police Department Forensic
+Laboratory, the Department of Public Health, and the Chief Medical Examiner for improved and
+efficient coordination of the functions of crime scene investigation, protection, and management
+of public health issues, and forensic law enforcement.
+
+        Included in the RFP were special standards of responsibility. (AR Exs. 1, 1a). These
+special standards of responsibility were included in two separate sections of the RFP, section B.2
+                                                 -2-                          Tompkins Builders, Inc.
+                                                                                   CAB No. P-0801
+
+and section L.5.1.1. (AR Exs. 1, 1a). Amendment No.2 of the RFP amended the language used
+in section B.2 and section L.5.1.1. (AR Ex. 2).
+
+       Amendment No.2 deleted the language from section B.2 in the RFP in its entirety and
+replaced it with the following language:
+
+       B.2 Special Standard of Responsibility: In order to be eligible for award, the
+       offeror, as General Contractor, must have completed in the past five years a
+       LEED certified construction project value of at least $75,000,000; and must have
+       completed or is currently in the process of completing (at least 50% percent
+       completion at the time of submitting proposals) a scientific research laboratory
+       with the a construction value of at least $75,000,000 (See paragraph L.5.1.1).
+
+       Failure to meet any of the above requirements shall constitute a technically
+       unacceptable offer. (emphasis in the original).
+
+The language in Amendment No.2 also deleted the language from section L.5.1.1 in the RFP in
+its entirety and replaced it with the following language:
+
+       L.5.1.1 Special Standards of Responsibility - In order to be eligible for award, the
+       offeror, as General Contractor, must have completed in past five years a LEED
+       certified construction project with a construction value of at least $75,000,000;
+       and must have completed or is currently in the process of completing (at least
+       50%completion at the time of submitting proposals) a scientific research
+       laboratory with a construction value of at least $75,000,000. Offeror shall
+       describe in detail all current projects detailing the above. In addition, the District
+       will not find responsible any offeror that does not provide with its proposal
+       information adequate to determine its compliance with the Stated Special
+       Standards of Responsibility. At a minimum, an offeror should provide the
+       following:
+
+              a) Time Period of the Construction;
+              b) Name and location of scientific research laboratory;
+              c) Name of contact person;
+              d) Phone number of contact person;
+              e) Total contract amount;
+              f) Year completed
+
+       Failure to meet any of the above requirements shall constitute a technically
+       unacceptable offer. (emphasis in the original).
+
+       On December 15, 2008, two offerors, Tompkins and Whiting Turner Contracting
+Company, Inc., timely submitted sealed proposals. In its proposal, to meet the special standards
+of responsibility, Tompkins submitted several project references in which its parent, Turner
+Construction, served as the general contractor. (AR Ex. 5). There is no dispute that the project
+references meet the special standards of responsibility if Tompkins can rely on them. Tompkins
+                                                 -3-                          Tompkins Builders, Inc.
+                                                                                   CAB No. P-0801
+
+is a wholly-owned subsidiary of Turner. (AR Ex. 5). Tompkins’ president is a Turner vice-
+president. Additionally, the Tompkins proposal states that:
+
+       In 2003, Tompkins Builders became a wholly owned subsidiary of Turner
+       Construction Company. This acquisition has allowed Tompkins to continue its
+       ability to perform quality construction as well as integrate itself into the many
+       attributes of Turner. Benefits to Tompkins include access to the best managers
+       and builders, as well as experience with specialty market segments such as
+       Laboratories, Pharmaceutical and Life Sciences buildings. As a Turner business
+       unit, Tompkins has all of the resources of the nation’s largest General Contractor
+       and is able to offer all services brought to fruition by Turner. These advantages
+       include the following: Marketplace Influence, Buying Power, 5000+ Employees,
+       Bonding Capacity, Turner Logistics, LEED® Leadership, Comprehensive
+       Insurance, Financial Strength.
+
+Under the Project Approach Introduction, the proposal provides: “Additionally, Tompkins’ team
+will be supported by the technical capabilities of our corporate office and trade subcontractors,
+which will add significant value to the project in terms of cost efficiency, logistical resources and
+qualified manpower, realization of schedule performance, cost containment and quality.”
+Included in the proposal was a Tompkins CFL project organizational chart which listed Ed
+Small, the Tompkins president and Turner vice president, Turner employees as Project Director
+and Project Superintendent, and the Turner Laboratory Bio-Medical Group for “Corporate
+Oversight.” The Project Manager, Mr. Jim Gaughan, was listed as a Turner manager who would
+serve “as the on-site Project Director for Tompkins for the Consolidated Forensics Laboratory
+(CFL) Project . . . and daily on-site contact for all issues with the CFL Project Team . . . [and]
+will utilize his past experience in national laboratory, and other public health and safety projects
+to manage and coordinate the overall construction program.” The Project Superintendent, Mr.
+Greg Dudek, is listed as being “responsible for the overall success of the laboratory operations,
+scheduling and coordination of all subcontractor field activities, expediting materials and
+equipment, monitoring the project schedule and budget, implementing safety, and interfacing
+with the project owner and architect on a day-to-day basis.” (Tompkins Supplemental Authority
+in Support of Amended Complaint, at 3, Exs. C-E).
+
+       The contracting officer appointed four technical evaluators. The technical evaluation
+panel was given the technical proposals, and conducted an evaluation of the proposals. One
+panel member, Allain Al-Alami, in an apparent reference to the projects listed by Tompkins for
+the special standards of responsibility, included the following evaluation comments: “Not clear
+if they ‘Tompkins’ performed or their parent company ‘Turner’.                However Turner’s
+depth/resources are behind them.”
+
+        By letter dated January 16, 2009, the original contracting officer for the procurement
+advised Tompkins that it was within the competitive range and requested that Tompkins submit a
+written best and final offer (“BAFO”) including any revisions to the original technical and price
+proposals. Apparently, no oral discussions were conducted with the two offerors. In the January
+16 letter, the contracting officer also required that Tompkins provide a detailed response to each
+                                               -4-                          Tompkins Builders, Inc.
+                                                                                 CAB No. P-0801
+
+of the questions listed in an attached “BAFO - Questions to Offeror” document. (Tompkins
+Comments on Agency Report, Ex. A). BAFO Question 1 states:
+
+       The feedback from the District’s conducted reference check yielded the fact that
+       all of the projects listed to satisfy the Special Standard of Responsibility Clause
+       and experience, and most of the projects listed for similarity were actually
+       performed by Turner and not Tompkins:
+
+       a. Has “Tompkins Builders” completed or is in the process of completing a
+       scientific research laboratory facility by itself as GC with a minimum value of
+       $75M as required under the solicitation, and with the contract its own name
+       (Tompkins Builders)? If yes, provide details.
+
+       b. Explain the exact role the “Turner Construction” will play in the CFL project if
+       your firm is the successful awardee, and what will be its exact contractual
+       relationship with Tompkins Builders as an awardee under this contract.
+
+In a BAFO response under cover letter dated January 29, 2009, Tompkins submitted responses to
+the BAFO questions. Tompkins’ response to BAFO Question 1 states as follows:
+
+       1.) Response: Tompkins Builders is a wholly-owned subsidiary of Turner
+       Construction Company and operates as 1 of 44 business units operating under the
+       Turner flag and is therefore entitled to include in its portfolio all relevant
+       corporate experience, services and resources. As presented in the technical
+       response, Tompkins Builders was attempting to demonstrate to the DC
+       Government our depth and breadth of experience by exceeding the requirements
+       of Standard Responsibility and Similarity.
+
+       Turner treats Tompkins as one of its subsidiaries and business units much like our
+       competitors . . . .
+
+       We share resources such as people, bonding, insurance, and financial
+       management.
+
+       1A.) Response: Yes, The Harvey Wiley Federal Building was completed by
+       Tompkins Builders on October 2001. This project met the similar requirements to
+       the CFL project based on its complexity, size value and building purpose. The
+       building is a new research facility which houses the FDA Center for Food Safety
+       and Applied Nutrition. The 410,000 SF, five story research laboratory building
+       provides new life sciences and chemistry laboratories along with offices for
+       scientists and their staff. The building features two mass spectrometer labs, an
+       insectaria, two general labs, a microbiology lab, two Class 1,000 and 100 clean
+       rooms, bio-level three (BL3) suites, a herbarium, six environmental rooms, and
+       tissue culture rooms. Since the site work and foundation package work was
+       performed by a separate contractor, the Tompkins contract value of $73 million
+       actually represents a project value greater than $75 million. In addition, this FDA
+                                               -5-                         Tompkins Builders, Inc.
+                                                                                CAB No. P-0801
+
+       Laboratory project is 100,000 square feet larger than the CFL and, years of cost
+       escalation represents a project valued well in excess of $100 million in today’s
+       construction dollars.
+
+       1B.) Response: If selected to construct the CFL, Tompkins Builders will have the
+       contractual responsibility and accountability to the District of Columbia
+       Government. As our parent company, Turner Construction Company will provide
+       the pool of resources from which Tompkins will have to perform the requirements
+       of the contract. This pool, as described above, includes financial, bonding,
+       expertise and personnel to name a few. As 1 of Turner’s 44 business units,
+       Tompkins operates with the full faith and credit of Turner Construction Company.
+
+       Tompkins further responded to BAFO Question 1 by attaching to its submittal a Turner
+corporate officer chain of command showing the relationship between various business segments
+and Turner, with Mr. Ed Small as Tompkins president and Turner vice president reporting to
+Turner’s executive vice president. Another attachment was a Tompkins/Turner DC area
+combined revenue summary recently published in the Washington Business Journal. (AR Ex. 6).
+
+       Tompkins BAFO included a commitment letter and resume/CFL project responsibilities
+document for the Senior Project Manager, Mr. John Rinaldo, a Turner manager, providing
+additional detail respecting the Tompkins/Turner relationship:
+
+               John comes to Tompkins as an intra-company resource bringing over 27
+       years of experience in laboratory and pharmaceutical projects with Turner
+       Construction Company. John has been selected to serve as the on-site Sr. Project
+       Manager for Tompkins for the Consolidated Forensics Laboratory (CFL) Project
+       due to his extensive knowledge and experience in constructing laboratories.
+               He will be the daily on-site contact for all issues with the CFL Project
+       Team. John will utilize his past experience in national laboratory, and other
+       public health and safety projects to manage and coordinate the overall
+       construction program.
+
+(AR Ex. 6). In response to BAFO question 3, Tompkins states that Mr. Rinaldo “will be the
+primary point of contact on day to day activities and interface with the Owner, Jacobs, and HOK.
+In the BAFO, Tompkins “fully commits John Rinaldo to fulfill the role of Senior Project
+Manager” on the CFL contract and Tompkins “guarantee[s] his availability and 100%
+commitment to the [CFL] project from Notice-to-Proceed until construction completion.” This
+commitment letter is signed by Mr. Ed Small, president of Tompkins, and as stated above, a
+general manager and vice president of Turner. According to Exhibit C in Tompkins’ response to
+the Agency Report, Mr. Small serves as a vice president of Turner Construction and as “General
+Manager of a Turner unit, [has] the authority … to enter into business agreements and contracts
+up to the prescribed limits.” Mr. Small signed the BAFO and its proposal on behalf of
+Tompkins. In another Tompkins CFL project organizational chart furnished in the BAFO
+response, Turner’s John Rinaldo reports to the Tompkins vice president and construction
+executive, Mr. Kamrad. Also on a reporting line to Mr. Kamrad is the “Turner Laboratory Bio-
+Medical Group” for corporate oversight of the CFL project. Listed as Project Superintendent on
+                                                -6-                          Tompkins Builders, Inc.
+                                                                                  CAB No. P-0801
+
+the same chart is Mr. Greg Dukek, another Turner employee. In the “Corporate Overview”
+section of the BAFO response, Tompkins states that it was acquired by Turner Construction in
+2003, is a wholly-owned subsidiary of Turner and that “Turner has three wholly-owned facilities
+around the country” one of which is Tompkins. The response further states that “Tompkins
+operates with the full support of Turner Construction in all aspects of our business” including
+access to over 5000 employees nationwide, and that if Tompkins needs special expertise and
+personnel, such expertise or personnel “are immediately made available to Tompkins from
+Turner as a normal course of business.” Regarding bonding capacity, “Turner Construction
+Company maintains bonding capacity in excess of $6 billion and provides bonding for all of its
+Business Units which includes Tompkins.” Regarding financial capacity, the BAFO response
+states that “Tompkins operates with the full faith and credit of Turner Construction.”
+
+       The chair of the evaluation panel made the following comment in an evaluation on
+February 5, 2009:
+
+       In addition, the final information provided by Tompkins in their BAFO
+       submission failed to provide any new or additional information that would allow
+       the evaluation panel to revise their scoring of Tompkins Builders, especially on its
+       past performance and required experience in meeting the Special Standard of
+       Responsibility clause. The additional project information presented by Tompkins
+       in their BAFO submission falls short in meeting the minimum dollar amount of
+       75K [sic] for LEED and Lab projects completed and the period of performance
+       range, of [the] past 5 years, required in the Special Standard of Responsibility
+       clause.
+
+(District’s May 21, 2009 Response, at 2).
+
+        By letter dated February 17, 2009, the contracting officer notified Tompkins that its
+proposal would not be recommended for award. (AR Ex. 3). By email dated February 18, 2009,
+Tompkins requested a debriefing. (AR Ex. 3). The contracting officer refused to provide a
+debriefing stating that the request for a debriefing was premature because an award had yet to be
+made. (AR Ex. 3). Tompkins filed a protest (CAB No. P-0797) on February 27, 2009,
+requesting the Board to direct the contracting officer to provide Tompkins with a debriefing. A
+telephone status conference regarding the protest was conducted by the Board on March 4, 2009.
+At the conclusion of the status conference, the Board issued an order directing the contracting
+officer to provide the debriefing requested by Tompkins. (CAB No. P-0797 Order dated March
+4, 2009). The debriefing was held on March 11, 2009, and conducted by a second contracting
+officer. (Protest, dated March 20, 2009; AR Ex. 3). During the debriefing, the new contracting
+officer became aware of irregularities in the technical evaluation of Tompkins. (AR Ex. 4). The
+contracting officer stated that OCP was advised by legal counsel that Turner’s experience could
+not be considered for their evaluation of Tompkins’ proposal and that Tompkins’ failure to
+possess the requisite experience played a significant role in the results of the technical
+evaluation. Tompkins then questioned why Tompkins’ proposal had not been considered
+technically unacceptable and eliminated from award consideration. The contracting officer
+admitted that OCP did not properly follow RFP Section L.5.1.1. (CAB No. P-0801 Protest dated
+March 20, 2009). Due to these irregularities, the contracting officer and District counsel
+                                                 -7-                           Tompkins Builders, Inc.
+                                                                                    CAB No. P-0801
+
+terminated the debriefing and instructed Tompkins that the contracting officer would review the
+technical evaluation to determine whether it was conducted in compliance with the requirements
+stated in the RFP. (AR Ex 4).
+
+         On March 20, 2009, Tompkins filed a protest docketed as CAB No. P-0801. The issues
+raised by this protest were: (1) whether the contracting officer conducted an analysis of the offer
+“most advantageous” to the District, (2) whether the District properly evaluated Tompkins’
+technical proposal; and (3) whether the District conducted a proper cost-technical trade-off
+analysis. On March 31, 2009, the District filed a motion to dismiss Tompkins’ protest arguing
+that all three of Tompkins’ allegations were premature since the contracting officer was currently
+reviewing the technical evaluation and would not provide an award recommendation until that
+review was completed. (AR Ex. 3). Tompkins submitted its opposition to the District’s motion
+on April 3, 2009. (AR Ex. 3).
+
+        On March 31, 2009, a new (third) contracting officer was appointed for this procurement.
+(AR Ex. 3). Based upon the irregularities in the technical evaluation that were discovered during
+the debriefing, the contracting officer determined that it would be proper to re-evaluate each
+proposal in accordance with the evaluation criteria in the RFP. (AR Ex. 4). While conducting
+this re-evaluation of Tompkins’ proposal and BAFO, the contracting officer determined that
+Tompkins did not meet the special standards of responsibility stated in the RFP. (AR Ex. 4). In
+a determination dated April 17, 2009, the contracting officer determined that Tompkins did not
+meet the special standards of responsibility because Tompkins could not rely on Turner’s
+projects to meet the special standards, and thus Tompkins was eliminated from further
+consideration for award. (AR Ex. 4). Upon receiving notification of its elimination from the
+procurement, Tompkins filed an amended protest on April 22, 2009. Between April 28 and May
+21, 2009, the parties (including the intervener) filed briefs and exhibits to supplement the record.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        The parties agree that the primary issue for us to decide is whether the contracting officer
+properly determined to exclude Tompkins from the competition on the basis that Tompkins
+could not rely on the performance experience of its parent company, Turner Construction, in
+satisfying the solicitation’s special standards of responsibility. Definitive or special standards of
+responsibility are specific and objective standards established by an agency as a precondition to
+award that are designed to measure a prospective contractor's ability to perform the contract.”
+M.C. Dean, Inc., CAB No. P-0505, Dec. 3, 1997, 45 D.C. Reg. 8664, 8669. The criteria limit the
+class of contractors to those meeting the specified qualitative and quantitative qualifications
+necessary for adequate contract performance. Id. Unless the contracting officer’s determination
+was unreasonable, the determination should not be disturbed. M.C. Dean, 45 D.C. Reg. at 8672
+(sustaining protest where contracting officer could not reasonably have found that the proposed
+awardee complied with the special standards of responsibility); Universal Bldg. Maint., Inc., B-
+282456, July 15, 1999, 99-2 CPD ¶ 32. We conclude that the contracting officer’s determination
+– that Tompkins could not rely on its parent company’s past performance in assessing
+compliance with the special standards of responsibly – was unreasonable and irrational.
+                                                -8-                          Tompkins Builders, Inc.
+                                                                                  CAB No. P-0801
+
+
+
+        Here, the contracting officer concluded that Tompkins could not rely on Turner’s
+performance in meeting the special standards of responsibility and thereby eliminated Tompkins
+from the competition, leaving only one offeror in the competition, Whiting Turner Contracting
+Company. We begin by noting that the contracting officer misapprehended the law in his
+determination by implying in his April 17 determination that Turner had to furnish a written
+commitment of resources in Tompkins’ proposal. The contracting officer states in his
+determination: “Tompkins did not provide any documentation in its proposal from Turner that
+states it will fully back Tompkins' efforts to obtain the contract. Nor did Tompkins provide
+documentation from Turner that states the financial resources of Turner, including lines of credit,
+operating capital, and performance bonding, would be used to complete the contract.”
+
+         GAO precedent, followed by the United States Court of Federal Claims, sets out the
+standard guiding our resolution of the issue before us. The GAO has repeatedly held that an
+agency properly may attribute the experience or past performance of a parent or affiliated
+company to an offeror where the firm's proposal demonstrates that the resources of the parent or
+affiliated company will affect the performance of the offeror. Perini/Jones, Joint Venture, B-
+285906, Nov. 1, 2000, 2002 CPD ¶ 68; Hot Shot Express, Inc., B-290482, Aug. 2, 2002, 2002
+CPD ¶ 139; Universal Bldg. Maint., Inc., B-282456, July 15, 1999, 99-2 CPD ¶ 32. The relevant
+consideration is whether the resources of the parent or affiliated company – its workforce,
+management, facilities, or other resources – will be provided or relied upon, such that the parent
+or affiliate will have meaningful involvement in contract performance. Perini/Jones, Joint
+Venture, B-285906, Nov. 1, 2000, 2002 CPD ¶ 68; NAHB Research Ctr., Inc., B-278876.2, May
+4, 1998, 98-1 CPD ¶ 150. Where no provision in the solicitation precludes offerors from relying
+on the resources of their corporate parent or affiliated companies in performing the contract, and
+an offeror represents in its proposal that resources of a related company will be committed to the
+contract, the agency properly may consider those resources in evaluating the proposal. See
+Physician Corp. of America, B-270698 et al., Apr. 10, 1996, 96-1 CPD ¶ 198; T&S Products,
+Inc. v. United States, 48 Fed. Cl. 100, 111 (2000). Absent a direction from the contracting
+officer requesting an offeror to provide a written commitment from the parent or affiliated firm,
+the offeror itself may commit the resources of its parent or affiliate.
+
+        In Ecompex, Inc., B-292865.4, June 18, 2004, 2004 CPD ¶ 149, cited by the District, the
+offeror’s (AEC) proposal included a letter from Ahtna, Inc., it parent company, stating that it
+fully backed AEC's efforts to obtain the contract, and also specifically stated that the financial
+resources of Ahtna including lines of credit, operating capital, and performance bonding, would
+be used to complete the contract. The GAO held that in view of Ahtna's commitment of
+financial resources, the agency had a reasonable basis for attributing the experience of Ahtna to
+AEC in evaluating AEC's experience. Here, there is no question that there was a similar
+commitment of Turner’s financial resources to the CFL contract. The only difference here is that
+the commitment was stated by Tompkins in its proposal on behalf of Turner.
+
+        Tompkins’ BAFO and proposal show the commitment of key Turner personnel,
+management, and financial resources to the CFL project. Three key personnel Turner are
+identified in the proposal and BAFO with the commitment of any additional Turner personnel
+that Tompkins would need. John Rinaldo, Tompkins’ “Senior Project Manager” for the CFL, is
+                                                -9-                          Tompkins Builders, Inc.
+                                                                                  CAB No. P-0801
+
+a Turner employee, was selected to serve as the on-site senior project manager for the CFL
+project and the BAFO states that he will be “the daily on-site contact for all issues with the CFL
+Project Team” and that he will “utilize his past experience in national laboratory and other public
+health and safety projects to manage and coordinate the overall construction program.” (AR Ex.
+6). In response to BAFO question 3, Tompkins states that Mr. Rinaldo “will be the primary
+point of contact on day to day activities and interface with the Owner, Jacobs, and HOK.) In the
+BAFO, Tompkins “fully commits John Rinaldo to fulfill the role of Senior Project Manager” on
+the CFL contract and Tompkins “guarantee[s] his availability and 100% commitment to the
+[CFL] project from Notice-to-Proceed until construction completion.” This commitment letter is
+signed by Mr. Ed Small, who is the president of Tompkins. Mr. Small, according to the
+Turner/Tompkins organization chart referenced in response to BAFO question 1, and included as
+an attachment to the BAFO response, is one of 7 managers/vice presidents reporting to Turner’s
+executive vice president. According to Exhibit C in Tompkins’ response to the Agency Report,
+Mr. Small serves as a vice president of Turner Construction and as “General Manager of a
+Turner unit, [has] the authority … to enter into business agreements and contracts up to the
+prescribed limits.” Mr. Small signed the BAFO and its proposal on behalf of Tompkins. In
+another Tompkins CFL project organizational chart furnished in the BAFO response, Turner’s
+John Rinaldo reports to the Tompkins vice president and construction executive, Mr. Kamrad.
+Also on a reporting line to Mr. Kamrad is the “Turner Laboratory Bio-Medical Group” which
+will provide corporate oversight for the CFL project. Listed as Project Superintendent on the
+same chart is Mr. Greg Dukek, another Turner employee. In Tompkins’ proposal, Mr. Dudek is
+listed as being “responsible for the overall success of the laboratory operations, scheduling and
+coordination of all subcontractor field activities, expediting materials and equipment, monitoring
+the project schedule and budget, implementing safety, and interfacing with the project owner and
+architect on a day-to-day basis.”
+
+        In the “Corporate Overview” section of the BAFO response, Tompkins states that it was
+acquired by Turner Construction in 2003, is a wholly-owned subsidiary of Turner and that
+“Turner has three wholly-owned facilities around the country” one of which is Tompkins. The
+response further states that “Tompkins operates with the full support of Turner Construction in
+all aspects of our business” including access to over 5000 employees nationwide, and that if
+Tompkins needs special expertise and personnel, such expertise or personnel “are immediately
+made available to Tompkins from Turner as a normal course of business.” Regarding bonding
+capacity, “Turner Construction Company maintains bonding capacity in excess of $6 billion and
+provides bonding for all of its Business Units which includes Tompkins.” Regarding financial
+capacity, the BAFO response states that “Tompkins operates with the full faith and credit of
+Turner Construction.”
+
+       These pledges of Turner personnel, management, and financial resources clearly
+demonstrate that the resources of Turner will affect Tompkins’ performance of the CFL project,
+such that Turner will have meaningful involvement in contract performance. Accordingly, the
+contracting officer’s determination to exclude Tompkins from the competition was unreasonable
+and irrational. To the extent that the evaluators in prior technical evaluations downgraded
+Tompkins under the mistaken belief that Turner’s experience could not be considered for their
+evaluation of Tompkins’ proposal and that Tompkins’ failure to possess the requisite experience
+                                                - 10 -                       Tompkins Builders, Inc.
+                                                                                  CAB No. P-0801
+
+played a significant role in the results of the prior technical evaluations, those evaluations were
+flawed. A new evaluation of Tompkins is required.
+
+                                        CONCLUSION
+
+        In sum, we have carefully considered the record presented in this protest and conclude
+that the contracting officer unreasonably excluded Tompkins from the CFL competition based on
+the special standards of responsibility. Accordingly, we sustain the protest and direct the
+contracting officer to complete a proper new evaluation of Tompkins’ offer. If the contracting
+officer deems it necessary to conduct discussions with the offerors, he shall do so and request
+further BAFOs. After completing a new evaluation, the contracting officer shall make a proper,
+documented selection decision based on the terms and conditions of the solicitation and the law.
+
+       SO ORDERED.
+
+
+DATED: May 21, 2009                                      /s/ Jonathan D. Zischkau
+                                                         JONATHAN D. ZISCHKAU
+                                                         Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

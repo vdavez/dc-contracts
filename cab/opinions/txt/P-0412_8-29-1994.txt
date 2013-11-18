@@ -1,0 +1,147 @@
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+
+PROTEST OF:                                                           )
+                                                                      )
+ELECTRONIC SYSTEMS USA, INC.                                          )         CAB No. P-412
+                                                                      )
+Under Contract No. 94-0043-AA-4-0-CC                                  )
+
+
+      For the Protestor: Tony Verner, Branch Sales Representative. For the Government:
+Anne Cauman and Howard S. Schwartz, Assistants Corporation Counsel.
+
+      Opinion by Administrative Judge Terry Hart Lee, with Administrative Judges Lorilyn E.
+Simkins and Jonathan D. Zischkau concurring.
+
+                        OPINION AND ORDER ON MOTION TO DISMISS
+
+        This matter concerns a protest filed with the Board on July 18, 1994, by Electronic
+Systems USA, Inc. ("protestor" or "ESI") against Solicitation No. 94-0043-AA-4-0-CC ("IFB")
+for an annual maintenance contract for temperature and automated control systems for the
+District of Columbia Courthouse. The grounds for the protest are that the specifications were
+too restrictive and limited competition. On August 19, 1994, the District of Columbia
+("District") filed a motion to dismiss the protest on the ground that it was untimely filed.
+Protestor did not respond to the District's motion.
+
+        For the reasons set forth below, we GRANT the District's motion to dismiss the protest.
+
+       The facts show that the Department of Public Works ('DPW") issued the IFB in the open
+market on May 25, 1994. (Motion to Dismiss, Exhibits 1 and 2).1 Apparently, 308 prospective
+bidders were notified of the solicitation. (MD, Ex. 2). Bid opening was scheduled for June 29,
+1994. (MD, Exs. 1 and 2). On June 6 DPW issued Addendum No. 1 to the IFB, which
+postponed the bid opening date to July 13, 1994. (MD, Ex. 3). Protestor picked up a copy of
+the addendum. (MD, Ex. 4).
+
+        By letter dated J ul y 1, 1994, i. e., prior to the revised bid opening date, ESI filed a
+protest with the DPW contract manager, alleging that the specifications allowed only one vendor,
+Honeywell, Inc., the opportunity to perform the work, thereby limiting competition. By letter
+dated July 7, 1994, the Acting Administrator of the Facilities Operation and Maintenance
+Administration, DPW, acknowledged ESI's protest but advised it that it should file its protest
+with the District of Columbia Contract Appeals Board. The Acting Administrator also informed
+protestor that bid opening was still scheduled for July 13, 1994. While we have no information
+as to when ESI received the July 71etter, ESI filed its protest with the Board on July 18, 1994. 2
+
+
+    'Hereinafter. exhibits attached to the motion to dismiss will be referred to as "MD. Ex(s).
+
+    2'fhe facts show that bid opening occurred on July 13 and that Honeywell. Inc. was the only bidder. (MD.
+Ex. 5). Thus. it is possible that the protest may have had some merit. However. as will be discussed below.
+protestor's failure to comply with the statutory and regulatory requirements for filing a bid protest has prevented
+                                                      -2 -            Electronic Systems USA, CAB No. P-412
+
+
+
+        Citing the lO-working-day requirement contained in section 908(b) of the Procurement
+Practices Act of 1985 (PPA), D.C. Code § 1-1189.8(b) (Supp. 1992), and our decision in Koba
+Associates, Inc., CAB No. P-325, December 1, 1992,40 DCR 4730, the District argues that
+protests based on alleged solicitation improprieties must be filed with the Board prior to the
+closing date for receipt of proposals or bid opening. According to the District, because ESl filed
+its protest with the Board after bid opening, its protest is untimely and must be dismissed.
+
+       The District is correct in that section 908(b) of the PPA requires that a protest must be
+filed with the Board within 10 working days after the aggrieved party knew or should have
+known of the basis for its protest. This lO-working-day filing requirement is jurisdictional and
+cannot be waived. Chesapeake Bus & Equipment Co., CAB No. P-404, June 30, 1994, 7 P.D.
+5887; Interior Systems, Inc., CAB No. P-398, January 10, 1994, 6 P.D. 5544; Roche
+Biomedical Laboratories, Inc., CAB No. P-374, June 17, 1993,41 DCR 3479. Furthermore,
+we have held that where a bidder initially attempts to resolve its protest with the procuring
+agency, it is not excused from making the appropriate filing with the Board within the requisite
+time period. See Emerald Eviction Services, CAB No. P-343, November 10, 1992, 40 DCR
+4700; Genesis 1Il, Inc., CAB No. P-304, October IS, 1992, 40 DCR 4630; D.H. Kim
+Enterprises, Inc., CAB No. P-293, December 12, 1991,39 DCR 4365. This is so because an
+aggrieved party is deemed, as a matter of law, to have constructive knowledge of the provisions
+of the PPA, the District's procurement regulations, the Board's rules and the Board's decisions
+because they are published in the District of Columbia Code, the District of Columbia Municipal
+Regulations and the District of Columbia Register. Id. See Mercer Products & Manufacturing
+Co.-Recon., B-25 I 126, November 30,1992,92-2 CPD, 385; Hersha Enterprises, Ltd. tla
+Quality Inn-Riveifront, B-244863, July 25, 1991,91-2 CPD , 93; Hilda A. Phelps-Recon.,
+B-242329, March 12, 1991,91-1 CPD, 273; Irvin Technologies, Inc., GSBCA No. 11581-P,
+92-1 BCA '24,640; Rocky Mountain Trading Company Systems Division, GSBCA No. 10925-P-
+R, 92-1 BCA '24,557.
+
+        Notwithstanding these rules, the District has certain legal obligations as well. By
+regulation the District is required to inform prospective bidders and offerors in each solicitation
+issued that protests must be filed in accordance with section 908 of the PPA. 27 DCMR §
+3800.2 (July 1988). The facts of the present matter show that except for a vague reference to
+the PPA contained in an amendment to the Standard Contract Provisions,3 nothing contained
+in the IFB advised bidders of the requirement to file protests directly with the Board. 4
+Compare FAR §§ 33.106 and 52.233-2. We believe that by failing to do so, the agency may
+have violated District regulations to the prejudice of prospective bidders. 5
+
+
+our consideration of the issue.
+
+    'MD, Ex. I, SPECIFICATION .
+
+    'Were it not for our careful review of the solicitation documents, this failure may not have come to our
+attention.
+
+     ' Our earlier decisions on the filing of agency protests did nol consider whether the solicitation contained a
+provision in compliance with 27 DCMR § 3800.2. In this regard, many prospective bidders are unsophisticated
+in the myriad of statutory and regulatory provisions which govern District procurements; and a vague reference to
+                                                        -3-             Electronic Systems USA, CAB No . P-412
+
+        Consequently, we now put parties to District procurements on notice that we will review
+all solicitation documents for inclusion of the required protest provision in the context of the
+timeliness of protests filed initially with the procurement agency.6 We are required to ensure,
+in accordance with the purposes of the PPA, that, inter alia, competition is enhanced, that
+parties will have a fair opportunity to present their cases and that protests will be resolved in an
+equitable and reasonably speedy manner-without unduly disrupting the procurement process.
+Thus, fairness and the overriding purposes of the PPA may dictate the need to change our
+application of the rules with respect to protests filed with the agency.7
+
+       Therefore, based upon all of the facts and circumstances and the reasons set forth herein,
+the District's motion to dismiss the protest is GRANTED; and it is hereby
+
+        ORDERED, that the protest be, and the same is, DISMISSED with prejudice.
+
+
+
+DATE:        August 29, 1994
+
+                                                               Administrati e Judge
+
+
+CONCUR:
+
+
+
+
+Chief Administrative Judge
+
+
+
+
+the PPA does nothing to put bidders on notice of their rights and remedies in the event of a perceived defect in the
+procurement process. CJ., C&E Services, Inc., CAB No. P-392(A), June 7, 1994,7 P.D. 5864 (vague references
+to the Buy American Act fall far short of objective measurable criteria required to be set forth in a solicitation).
+
+    "See generally Reichley v. District of Columbia Departmelll of Employmem Services, 53l A.2d 244 (D .C. App.
+1987) and Mendes v. Johnson, 389 A.2d 781 (D .C. App. 1978), which discuss the standards for an administrative
+tribunal ' s adjudication which announces a new rule of law and overrules a different rule established by prior
+adjudication.
+
+    'While the instant matter may be an anomaly, District procurement officials should review all solicitations before
+issuance to ensure that the required regulatory provision is included.
+

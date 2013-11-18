@@ -1,0 +1,422 @@
+                                                                                                              45540260
+
+
+
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD                                                Jul 25 2012
+                                                                                                            1:53PM
+
+
+PROTEST OF:
+
+U.S. SECURITY ASSOCIATES, INC.                         )
+                                                       )       CAB No. P-0910
+Under Solicitation No. DCAM-12-NC-0031                 )
+
+       For the Protester: Dick Haire, Esq., Fox Rothschild LLP. For the Intervenor: Marc J.
+Fink, Esq. and Robert K. Magovern, Esq., Cozen O’Connor. For the District of Columbia
+Government: Robert Schildkraut, Esq., Assistant Attorney General, Office of the Attorney
+General.
+
+      Opinion by Administrative Judge Monica C. Parchment, with Chief Administrative Judge
+Marc D. Loud, Sr. and Administrative Judge Maxine E. McBean, concurring.
+
+                             OPINION ON MOTION TO DISMISS
+                                         Filing ID #45540260
+
+        The protester, U.S. Security Associates, Inc., challenges the District’s evaluation and
+resulting award under Solicitation No. DCAM-12-NC-0031 for the procurement of security
+services at facilities in the District of Columbia. The protester challenges the District’s contract
+award on the grounds that: (1) the awardee’s proposed pricing allegedly failed to meet the
+collective bargaining agreement labor cost pricing requirements under the solicitation; and (2)
+the District colluded with the Service Employees International Union to award the contract to the
+awardee despite its failure to properly price the contract work.
+
+        The District moves to dismiss this action on the grounds that, as the fourth ranked
+offeror, the protester lacks standing to challenge the price evaluation at the Board, and also
+because the protester’s collusion allegations against the District allegedly fail to provide a clear
+and concise statement of the legal and factual grounds of the protest. For the reasons set forth
+herein, the Board finds that the protester lacks a direct economic interest and, therefore, standing
+in this matter as it relates to all of its protest allegations. The protest is, therefore, dismissed in
+this matter.
+
+                                   FACTUAL BACKGROUND
+
+         The District Department of General Services, on behalf of the Protective Services Police
+Division, issued Solicitation No. DCAM-12-NC-0031 (the “Solicitation”) on November 16,
+2011. (Agency Report “AR” Ex. 2.) The Solicitation sought a contractor to provide security
+services and qualified personnel to protect persons and property at various leased or owned
+facilities in the District of Columbia. (Id.) Offerors were directed by the Solicitation to propose
+                                                          -2-                U.S. SECURITY ASSOCIATES, INC.
+                                                                             CAB No. P-0910
+
+fixed hourly rates under three primary contract line items (“CLINs”) across the base contract
+year, as well as the four option year periods identified by the Solicitation. (Id.) Several
+amendments to the Solicitation were issued in December 2011, which extended the due date for
+receipt of proposals and changed the evaluation criteria for the Solicitation. (AR Ex. 3.)
+
+        The final evaluation criteria that would be the basis for the contract award, as amended
+by the District’s December 19, 2011, Amendment to the Solicitation, included Management Plan
+(30 points); Experience of Proposed Key Personnel (20 points); Business References (20 points);
+Price (30 points); and any Certified Business Enterprise (“CBE”) Preference Points awarded
+pursuant to Section M.5.2 of the Solicitation. 1 (Id.) As it relates to the price evaluation, the
+Solicitation specified that the price evaluation would be objective with the lowest priced offeror
+receiving the maximum price points available. (AR Ex. 2a.) All other higher priced proposals
+were required to receive a proportionately lower final price evaluation score as determined by the
+same objective evaluation formula. 2 (Id.)
+
+       The District received four proposals in response to the Solicitation, including proposals
+from the protester (U.S. Security Associates, Inc.), the awardee (Allied Barton Security Services,
+LLC), Security Assurance Management, Inc., and Securitas Security Services USA, Inc. (Protest
+Ex. B.) As the result of the evaluation, the ultimate awardee was assigned a total of 88.40 points
+of which 59.11 points were for its technical proposal and 29.29 points were for its price proposal.
+(Id.)
+
+                                             3
+                                                 (Id.)
+
+           (Id.) Lastly, the protester, received a total of 60.73 points from the evaluation, which
+included 34.78 points for its technical proposal and 25.95 points for its price proposal. (Id.) In
+short, the District determined the protester to be the fourth ranked offeror based upon its final
+combined technical and price evaluation scores.
+
+        Additionally, as it relates to the present protest allegations, Allied Barton’s proposed
+hourly rate prices over the four option year periods did not escalate and essentially remained
+static for the life of the contract. 4 (AR Ex. 5.) While the majority of the other offerors did
+escalate their proposed hourly personnel rates over the four option years of the contract, these
+overall cost escalation amounts were extremely nominal in nature. (AR Ex. 6.) Based upon
+
+
+1
+  Under the original evaluation criteria set forth by Section M.3 of the Solicitation, the maximum number of points
+allocated to Management Plan and Price were 20 points and 40 points, respectively. (AR Ex. 2a.)
+2
+  The objective formula for evaluating all higher priced proposals was as follows: (lowest price proposal/price of
+proposal being evaluated) x weight = evaluated price score. (Id.)
+3
+
+
+4
+ The contract was also subject to a U.S. Department of Labor Wage Determination pursuant to the federal Service
+Contract Act (“SCA”), 41 U.S.C. § 6702 (2011) (formerly 41 U.S.C. § 351). (AR Ex. 2.)
+                                                            -3-                 U.S. SECURITY ASSOCIATES, INC.
+                                                                                CAB No. P-0910
+
+these evaluation scores and the District’s determination that Allied Barton was a responsible
+bidder, the District awarded the contract to Allied Barton on February 27, 2012. (AR Ex. 1.)
+
+        The protester’s initial grounds of protest included an allegation that the District
+improperly calculated the protester’s proposed price for performing the contract. (Protest 1.)
+The protester, however, subsequently withdrew this particular protest allegation. (Protester’s
+Opp’n to District’s Mot. to Dismiss and Comments to AR (“Protester’s Opp’n and Comments”)
+2.) The protester also alleges that the awardee’s proposed pricing was insufficient to cover the
+Solicitation’s collective bargaining agreement (“CBA”) wage escalation requirements, and that
+the District intentionally downgraded the protester’s technical proposal as a part of this improper
+price evaluation. (Protest 5-6.) Lastly, the protester contends that the District colluded with the
+Service Employees International Union (“SEIU”) to award the contract to the awardee because it
+is a labor union contractor. (Protest 6.) The evidence proffered by the protester in support of
+this particular allegation is that the District miscalculated the protester’s bid price and ignored
+the awardee’s inability to pay union wages given its overall static proposed price to perform the
+contract. (Id.) In short, the protester primarily challenges the propriety of the District’s price
+evaluation and its motivation for accepting the awardee’s proposed costs.
+
+        In response, the District challenges the protester’s standing to file a protest on the
+grounds that the District improperly evaluated the awardee’s price proposal because U.S.
+Security allegedly has not demonstrated it would be in line for the contract award, even if the
+Board were to sustain its protest. (District’s Combined Mot. to Dismiss and AR 4.) Further, the
+District also challenges the protester’s allegations of collusion by the District in the subject
+procurement on the grounds that this allegation is untimely and fails to provide a clear and
+concise statement of the legal and factual grounds of the protest as required by Board Rule
+301.1(c). 5 (Id. at 4-5.)
+
+                                                  DISCUSSION
+
+        We may exercise jurisdiction over this protest and its underlying allegations pursuant to
+D.C. CODE § 2-360.03(a)(1) (2011). However, in order for the Board to exercise this grant of
+jurisdiction over this protest matter, the protester must establish that it has standing to pursue
+such an action, which has been challenged by the District.
+
+       With respect to a protester’s standing, the Board is bound by the jurisdictional
+requirements set forth in the Procurement Practices Reform Act (“PPRA”), which provides
+unequivocally that a protester be an “actual or prospective bidder, offeror, or contractor who is
+aggrieved in connection with the solicitation or award of a contract.” D.C. CODE § 2-360.08(a)
+(2011). Although the statute does not further define the term “aggrieved,” the Board has
+
+5
+  The Board finds it appropriate to address the issue of standing with respect to all of the protester’s remaining
+allegations in this protest given the nature of the allegations as detailed in the relevant protest filings.
+                                                          -4-                U.S. SECURITY ASSOCIATES, INC.
+                                                                             CAB No. P-0910
+
+repeatedly held that a protester must have a “direct economic interest in the procurement” in
+order to have standing. MTI-Recyc., A Joint Venture, CAB No. P-287, 40 D.C. Reg. 4554 (Oct.
+1, 1992) (finding that the protester did not have standing because a higher ranked bidder had
+greater interest in the procurement, and, thus, the protester’s interest was too remote to qualify it
+as an aggrieved party); W.S. Jenks & Son, CAB No. P-644, 49 D.C. Reg. 3374 (Aug. 14, 2001)
+(dismissing protest for lack of standing because the protester’s bid was not submitted on time, so
+the protester did not have a direct economic interest in the procurement).
+
+        Thus, in applying this required showing of a direct economic interest in the resulting
+contract award, the Board has consistently required a protester to demonstrate that it was in line
+to receive the contract in question. E.g., Roy’s Towing & Auto Care Corp., CAB No. P-468, 44
+D.C. Reg. 6832 (June 13, 1997) (dismissing protest because the protester was the third lowest
+bidder and, therefore, lacked standing to bring the protest). 6 Moreover, in the seminal case of
+Unfoldment, CAB No. P-358, 41 D.C. Reg. 3656 (Sept. 17, 1993), the fourth lowest bidder
+challenged the District’s award decision before the Board. Much like the protester in this case,
+the protester in Unfoldment alleged that the District’s bias in the overall procurement process
+rendered the award improper. (Id.) Nonetheless, the Unfoldment Board still found that the
+protester lacked standing because the protester ranked fourth, and, thus, would not be in line for
+award, even if the Board sustained its protest. (Id.) Consequently, the Board dismissed the
+protest in that matter. 7 (Id.)
+
+         Indeed, the Board has consistently held that in order to overcome what would otherwise
+be a remote interest in the contract award because of a lower ranking final evaluation score, a
+protester that is not in line for contract award must specifically challenge the evaluation score or
+eligibility of any higher ranked, intermediate offerors to establish its standing in a protest.
+Crawford/Edgewood Managers, Inc., CAB No. P-424, 42 D.C. Reg. 4957 (Mar. 22, 1995)
+(dismissing protest where protester failed to challenge directly the second and third ranked
+offerors’ evaluation scoring); Am. Combustion Indus., Inc., CAB No. P-499, 44 D.C. Reg. 6896
+(Aug. 14, 1997) (holding that protester lacked standing because it was not in line for award even
+if the Board granted its protest, since it offered no grounds or evidence for challenging the
+second and third ranked bids); Protest of Thomas, CAB No. P-579, 46 D.C. Reg. 8618, (May 11,
+1999) (holding that protester’s general challenge of the procurement process did not demonstrate
+how he could surpass the six higher ranked offerors and become in line for award).
+
+        The Board has granted standing to a protester that is a lower ranked offeror when that
+protester also challenged with specificity the eligibility of the higher ranked offerors, thereby
+6
+  Historically, the Board’s decisions have used the term “in line” and “next in line” interchangeably when referring
+to the same direct economic interest standard required for standing. E.g., C.P.F. Corp., CAB No. P-521, 45 D.C.
+Reg. 8697 (Jan. 12, 1998) (holding that protester lacked standing because it did not show it would be “next in line
+for award”); Unfoldment, CAB No. P-358 (articulating that a protester does not have standing where it would not be
+“in line for award”).
+7
+  In addition to dismissing the protest for lack of standing, the Board found that the protest was untimely.
+(Unfoldment, CAB No. P-358.)
+                                                  -5-              U.S. SECURITY ASSOCIATES, INC.
+                                                                   CAB No. P-0910
+
+demonstrating that it would be in line for contract award in the event that its protest is sustained.
+E.g., Barcode Techs., Inc., CAB No. P-524, 45 D.C. Reg. 8723 (Feb. 11, 1998) (holding that
+protester had standing after directly challenging the eligibility of the awardee and second-ranked
+offeror on the grounds that they lacked required certifications to receive the contract and
+protester was, therefore, in line for award).
+
+        Similarly, and of important note, the Board’s federal protest counterpart at the U.S.
+Government Accountability Office (“GAO”) also requires, under its federal legal framework,
+that a protester be an aggrieved or interested party in order to have standing at GAO. Jack
+Young Assocs. Inc., B-243633, 91-1 CPD ¶ 585 (Comp. Gen. June 20, 1991) (holding that a
+protester must be an “interested party,” defined as an “actual or prospective bidder or offeror
+whose direct economic interest would be affected by the award or failure to award a contract”).
+GAO, like the Board, mandates that a protester show a direct economic interest in the
+procurement by demonstrating that it would be in line for a contract award if GAO sustains the
+protest. Serco, Inc., B-404033, 2010 CPD ¶ 302 (Comp. Gen. Dec. 27, 2010) (dismissing protest
+because the protester lacked a direct economic interest in the procurement as it ranked third and
+was not in line for award even if GAO sustained the protest).
+
+        Furthermore, consistent with the Board’s rationale on the issue of protester standing,
+GAO has held repeatedly that the protester must also attack the eligibility of any intermediate
+bids or higher ranked proposals above the protester in order to show standing in a protest. Four
+Seas & Seven Winds Travel, Inc., B-244916, 91-2 CPD ¶ 463 (Comp. Gen. Nov. 15, 1991)
+(holding that the second ranked offeror had a greater economic interest in the procurement than
+the protester, which ranked third, and that the protester’s interest was “too remote to qualify [it]
+as an interested party [with standing]”); U.S. Def. Sys., Inc., B-248928, 92-2 CPD ¶ 219 (Comp.
+Gen. Sept. 30, 1992) (dismissing protest because nothing in the protester’s complaint would alter
+the rankings of the intervening offerors, and the protester would not be in line for award even if
+GAO sustained the protest).
+
+        Accordingly, this well-established legal precedent is the basis upon which the Board must
+analyze the protester’s contention that it has legal standing to maintain this protest action, given
+the nature of its protest allegations.
+
+A)     Allied Barton’s Alleged Collective Bargaining Agreement Violation
+
+        As noted above, U.S. Security’s first ground of protest concerns the awardee’s
+compliance with the collective bargaining agreement (“CBA”) requirements under the
+Solicitation. (Protest 5-6.) Specifically, the protester alleges that the awardee’s pricing in its bid
+was “underpriced” because it would be insufficient to pay the amount of wages required by the
+awardee’s CBA. (Protester’s Opp’n and Comments 2-3.) In this regard, the protester takes issue
+with Allied Barton’s proposed price remaining static for the base year and the four subsequent
+option years of the contract. (Id.) According to the protester, the awardee’s static pricing did
+                                                  -6-              U.S. SECURITY ASSOCIATES, INC.
+                                                                   CAB No. P-0910
+
+not account for the annual wage increases that the protester alleges were verbally required by the
+District, which artificially lowered the final price of the awardee’s proposal. (Id. at 3.) The
+protester further maintains that due to the District’s alleged “extensive and intentional errors,” it
+is not possible to determine which offeror would be in line for award. (Protest 2.)
+
+         Nonetheless, as the fourth ranked bidder in the procurement, and pursuant to the Board’s
+holding in Unfoldment, CAB No. P-358, and Roy’s Towing & Auto Care, CAB No. P-468, the
+protester in this case must show that it has a direct economic interest, and, thus, standing in this
+protest in order to maintain this action. This requires that the protester challenge the scoring or
+eligibility of the higher ranked offerors to establish that it would be in line for contract award in
+the event that this protest is sustained. However, as it relates to the protester’s challenge to the
+awardee’s proposed CBA pricing, the protester’s complaints largely rest upon the evaluation of
+the awardee’s allegedly underpriced proposal and not the proposals of the intervening offerors.
+(Protest 2, 5-6.)
+
+        While the protester attempts to assert that all offerors were disadvantaged because of the
+awardee’s failure to escalate its proposed CBA wages, these allegations do not meet the Board’s
+requirement that the protester demonstrate it would be in line for award. In other words, nothing
+specifically alleged by the protester in this matter alters or changes the evaluation results with
+respect to the second- and third-ranked offerors that were scored higher than the protester. See
+U.S. Def. Sys., B-248928; Med. Info. Servs., B-287824, 2001 CPD ¶ 122 (Comp. Gen. July 10,
+2001) (holding that protester lacked standing because its protest did not alter the rankings of the
+eight intervening offerors, and the protester would not be in line for award even if GAO
+sustained the protest).
+
+        Moreover, the Board also independently finds the underlying merits of the protester’s
+challenge to the price evaluation to be deficient. Notably, the protester does not allege that there
+was a mandatory price escalation requirement in the Solicitation, which the awardee allegedly
+violated by keeping its proposed hourly personnel costs static. Instead, the protester alleges that
+it was “verbally” advised by the District prior to contract award that it should escalate its hourly
+personnel costs over the life of the contract, and believes that the second- and third-ranked
+offerors were directed to do the same. (Protester’s Opp’n and Comments 3.) This, however, is
+not sufficient evidence that the awardee’s proposal failed to comply with a mandatory
+solicitation requirement. See Alt. Resolutions, CAB No. P-338, 40 D.C. Reg. 4924 (Jan. 19,
+1993) (articulating that an agency’s evaluation of proposals will not be overturned unless it is
+arbitrary, inconsistent with stated evaluation criteria, or in violation of procurement statutes or
+regulations).
+
+        Additionally, the awardee’s price evaluation score, in particular, was based upon
+objective, and not subjective, solicitation criteria that were applied to the price proposed by the
+awardee. (See AR Ex. 2a.) These objective criteria, and the underlying mathematical formula
+noted herein, were the basis of the price evaluation scores that each offeror received. (See AR
+                                                              -7-                 U.S. SECURITY ASSOCIATES, INC.
+                                                                                  CAB No. P-0910
+
+Ex. 6; Protest Ex. B.) However, the protester has presented no evidence that the District skewed
+the application of this price scoring criteria in a way that benefited the awardee. Of note, and
+consistent with the objective solicitation price criteria, the awardee did not even receive the
+highest price evaluation score in this procurement because it did not propose the lowest overall
+cost to perform the contract. (Protest Ex. B.) As a result, the protester’s contention that the
+awardee submitted an artificially low bid, when it was not even the lowest priced bidder, is
+unsupported. 8 The Board, therefore, finds no evidence that the District improperly evaluated the
+price proposal of the awardee, or any other offeror, in a way that would alter the final scores
+assigned to each offeror in this procurement.
+
+         a) Trade-off Challenge
+
+        The protester’s “Comments on the Agency Report” also allege for the first time that, in
+addition to allowing the awardee to underbid its CBA wages, the District also performed an
+improper trade-off analysis during the evaluation, which impacted the scoring of all of the
+offerors. (Protester’s Opp’n and Comments 3-4.) This, however, is a new allegation as the
+protester’s original protest in no way included a challenge to the District’s trade-off analysis.
+Further, because the District has neither asserted that it performed a trade-off analysis during the
+evaluation or included documents in the records detailing that such a trade-off analysis occurred,
+the protester’s allegation that the District improperly performed a trade-off analysis is factually
+unsupported and also without merit. 9
+
+B)       District’s Alleged Collusion with SEIU
+
+        Furthermore, as another ground for challenging the contract award, U.S. Security alleges
+that the District colluded with SEIU to ensure that the awardee would receive favorable
+consideration of its bid proposal. (Protest 6.) In support of this alternative argument, the
+protester presents several general allegations challenging the integrity of the District’s
+procurement process. For example, the protester alleges that the District intended to terminate its
+current contract with the protester in order to procure the same services from an SEIU-approved
+contractor. (See id. at 2, 5-6.) The protester further alleges that the presence of an SEIU official
+during the pre-bidder’s conference indicated SEIU’s improper influence over the procurement.
+(Id. at 6.) However, the protester does not at all address how the District’s alleged collusion
+affected the scoring of the intervening offerors that were ranked in second and third place during
+the evaluation.
+8
+  The protester, on the other hand, does not directly challenge the bid of the offeror that received the highest price
+evaluation score based upon its submission of the lowest cost proposal. (See Protest 1-2.)
+9
+  Under Board Rule 302.2(b), a protest must be filed within 10 days after a party knew or should have known the
+basis of the protest. Consequently, given that this trade-off allegation does not appear to be based upon any new
+information or documents provided by the District in its Agency Report, it should have been raised by the protester
+with its original protest filing and is now untimely. See Am. Consultants & Mgmt. Enters., Inc., CAB No. P-632, 49
+D.C. Reg. 3317 (Jan. 16, 2001) (dismissing protest as untimely because the protester knew or should have known
+the basis of its protest after receiving notice that another bidder won the contract but failed to file a protest within the
+10-day filing period).
+                                                 -8-              U.S. SECURITY ASSOCIATES, INC.
+                                                                  CAB No. P-0910
+
+        Again, because the protest does not directly challenge, or even argue that, the scores of
+the two higher offerors should be altered because of this alleged collusion by the District, the
+protester does not even attempt to establish that it, and not the intervening offerors, would be in
+line for award if the Board sustains its protest on the basis of this ground. See Am. Combustion
+Indus., Inc., CAB No. P-499 (holding that the protester lacked standing because it offered no
+grounds challenging the higher ranked offerors, and protester did not demonstrate it would
+become in line for award). Consequently, the protester has not demonstrated a direct economic
+interest in the procurement sufficient to establish standing in this action.                   See
+Crawford/Edgewood Managers, CAB No. P-424 (holding that the protester was not an interested
+or aggrieved party because it ranked fourth and did not challenge the higher ranked offerors);
+Four Seas and Seven Winds Travel, Inc., B-244916 (dismissing protest because the protester did
+not challenge the higher ranked offeror, and, thus, its interests were too remote to establish
+standing).
+
+        While the Board has, in rare instances, acknowledged that a lower ranked bidder, such as
+U.S. Security, can have standing in a protest that challenges the overall integrity of the
+procurement process, the Board still required the protester to demonstrate with specificity that, as
+a result of evaluation improprieties, it could ultimately achieve a ranking above the intervening
+offerors that received higher evaluation scores. Protest of Thomas, CAB No. P-579 (articulating
+that a general attack on the procurement process cannot substitute the requirement that the
+protester challenge higher ranked, intermediate offerors to show that the protester would be in
+line for award if the Board sustains its protest). Here, again, the protester’s allegation of
+collusion between the District and SEIU even fails to meet this bar as it generally only relates to
+the awardee’s alleged preferential status in this procurement and does not specifically establish
+how any alleged collusion between the District and the awardee would alter the scoring assigned
+to the higher ranked, intervening offerors in this procurement.
+
+         Similar to its other protest allegations, the Board also finds a lack of merit to the
+protester’s allegations concerning the District’s collusion in this procurement. The protester
+largely attempts to support its allegations by providing examples of statements supposedly made
+by union officials and the awardee, and not even by the District, regarding the need for
+unionization. (See Protester’s Opp’n and Comments 9-10.) From these assertions, the protester
+then makes the sweeping conclusion that the District supported these improper unionization
+activities because the District made a determination and finding to override the stay in this
+protest. (Id at 10.) The Board finds this alone to be insufficient evidence that the District
+colluded with the union and awardee to exclude the protester from receiving the contract award.
+Further, by simply offering very general allegations of collusion by the District without further
+substantiation, the protester has not overcome the presumption that government officials act in
+good faith. Prison Health Servs. Inc., CAB No. P-610, 48 D.C. Reg. 1540 (May 24, 2000);
+Triton Marine Constr. Corp., B-250856, 93-1 CPD ¶ 171 (Comp. Gen. Feb. 23, 1993).
+                                                           -9-                 U.S. SECURITY ASSOCIATES, INC.
+                                                                               CAB No. P-0910
+
+                                                     CONCLUSION
+
+        For the reasons discussed herein, the Board finds that the protester, as the fourth ranked
+offeror, lacks standing in this matter by virtue of its failure to show a direct economic interest in
+the subject contract award. 10
+
+         The present protest is, therefore, dismissed.
+
+SO ORDERED.
+
+
+DATED: July 25, 2012                                             /s/ Monica C. Parchment
+                                                                 MONICA C. PARCHMENT
+                                                                 Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.                                            /s/ Maxine E. McBean
+MARC D. LOUD, SR.                                                MAXINE E. MCBEAN
+Chief Administrative Judge                                       Administrative Judge
+
+
+ELECTRONIC SERVICE TO:
+
+Dick Haire, Esq.                                                 Robert Schildkraut, Esq.
+Fox Rothschild LLP                                               Assistant Attorney General
+The Executive Building                                           Office of the Attorney General
+1030 15th Street, N.W., Suite 380 East                           441 4th Street, N.W., 7th Floor
+Washington, D.C. 20005                                           Washington, D.C. 20001
+
+Marc J. Fink, Esq.
+Robert K. Magovern, Esq.
+Cozen O’Connor
+1627 I Street, N.W., Suite 1100
+Washington, D.C. 20006
+
+
+
+
+10
+  Having found that the protester lacks standing in this matter, the Board finds it unnecessary to address the
+District’s secondary challenge to the specificity of the protester’s allegations.
+

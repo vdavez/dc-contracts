@@ -1,0 +1,1939 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       RECYCLING SOLUTIONS, INC.                               )
+                                                               )   CAB No. P-377
+       Under RFP No. OMS-0132-AA-KH                            )   (Eagle’s Costs)
+
+       For Eagle Maintenance Services, Inc.: Frederick D. Cooke, Esq., Rubin, Winston, Diercks,
+Harris & Cooke. For Recycling Solutions, Inc.: Robert L. Duston, Esq., Schmeltzer, Aptaker &
+Shepard, P.C. For the Government: Howard Schwartz, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Matthew S. Watson, concurring.
+
+                                             OPINION
+
+        On February 1, 1993, Eagle Maintenance Services, Inc. ("Eagle") and the District purported
+to enter into Contract No. OMS-0132-AA-KH, for Eagle to receive, process, and market recyclable
+materials collected by the District. The award was protested by Recycling Solutions, Inc. (“RSI”),
+when it learned of the basis for award in June 1993. After extensive protest proceedings, the Board
+sustained RSI's protest and declared that the District's purported contract award to Eagle was void ab
+initio pursuant to D.C. Code § 1-1182.5(d)(1). The District's Department of Public Works ("DPW")
+sought judicial review of the Board's decision and Eagle continued to perform recycling work under
+the invalid contract until the end of April 1995. During the approximate 2-year performance period,
+Eagle submitted invoices for payments and Eagle received payments from DPW totaling
+$2,070,056. Purporting to settle disputed amounts while Eagle’s cost claim was pending before us,
+DPW paid Eagle an additional amount of $1,071,966 in January 1996, which brought the total
+payments to Eagle to $3,142,022. To avoid the harsh result of a contractor forfeiting all
+compensation for work actually performed, even though no valid contract ever existed, section 1-
+1182.5(d)(2) provides that a contractor, who enters into a contract in good faith without knowledge
+of or contributing to the procurement violations that rendered the purported contract void, is entitled
+to be compensated for reasonable costs it actually incurred. After conducting proceedings regarding
+Eagle's compensation under section 1-1182.5(d)(2), including a financial audit conducted by the
+Office of the Inspector General, submissions by the parties, and an evidentiary hearing followed by
+briefing, the Board concludes that Eagle is entitled to net actual costs incurred on the District
+recycling job of $2,182,059. Because the District has made total payment to Eagle of $3,142,022,
+the District has overpaid Eagle by $959,963.
+
+                                         BACKGROUND
+
+        This matter arises from the protest of RSI in which RSI contested DPW’s purported contract
+award on February 1, 1993 to Eagle under RFP No. OMS-0132-AA-KH. Eagle was to receive,
+process, and market recyclable materials collected by DPW, and to buy back recyclable containers
+brought to Eagle by District residents. Eagle began performance on March 22, 1993. RSI filed its
+protest on June 16, 1993. During protest proceedings, Eagle continued performing and the District
+                                                 -2-             Recycling Solutions, Inc., CAB No. P-377
+
+made payments on Eagle invoices. In our April 15, 1994 decision, Recycling Solutions, Inc., CAB
+No. P-377, 42 D.C. Reg. 4550, we sustained RSI's protest and ordered the District inter alia to
+cancel Eagle's contract on the ground that the contract was void ab initio. The DPW Director, who
+was also the contracting officer, filed an action in Superior Court, Francis v. Recycling Solutions,
+Inc., 94-CA-5461, challenging our April 1994 decision, including the Board's holding that the Eagle
+contract was void ab initio. Eagle continued to perform recycling services for DPW and DPW
+continued to pay Eagle. Because no valid contract ever existed, we will refer to Eagle's work as the
+District recycling job.
+
+        On April 18, 1995, the Superior Court dismissed DPW's action. On the same date, we
+advised the parties to consult and report back to the Board if further action on our part was needed
+regarding the directions contained in our April 1994 decision. By letter dated April 24, 1995, DPW
+purported to "cancel" Eagle's contract under Article 6 of the void contract -- essentially, a
+convenience termination -- on the grounds that DPW had insufficient funding to continue
+performance. (Exhibit 1, Motion of the District of Columbia to Vacate, in Part, the Relief Ordered
+by the Board, filed June 5, 1995). On April 28, 1995, Eagle submitted to DPW a demand for a
+termination payment in the amount of $6,644,777.05. Eagle later increased its claim to
+$6,710,757.22. (Attachment 2, District's August 11, 1995 Status Report). In a submission of
+claimed costs to the District’s auditors within the Office of the Inspector General (“OIG”), Eagle set
+forth a summary of costs totaling $4,331,706, plus additional costs of acquiring and constructing a
+new District-based recycling facility totaling $5,548,367. (HEX 65B, Appendix 1 (Eagle’s Cost and
+Revenue Schedules), Schedules 1, 13). In its posthearing brief, Eagle claims that it is entitled to
+$9,494,907. (Eagle Brief, at 10).
+
+       Eagle ceased performing the District recycling job on approximately April 30, 1995.
+
+         DPW's purported cancellation of Eagle's void contract for "insufficient funds" violated the
+Board's April 1994 order, which required the District to cancel Eagle's contract as void ab initio.
+When we became aware of DPW's attempted cancellation, we ordered the District to notify Eagle
+that its contract had been declared void ab initio pursuant to the April 1994 decision and D.C. Code
+§ 1-1182.5(d). We stated that to the extent that Eagle meets the conditions of D.C. Code § 1-
+1182.5(d)(2), compensation to Eagle shall be limited to actual costs reasonably incurred but not
+profit. We also directed DPW to make an initial determination, pursuant to D.C. Code § 1-
+1182.5(d)(2), as to compensation for costs actually incurred by Eagle. (Order dated June 6, 1995, at
+3). DPW subsequently advised Eagle that DPW would be determining amounts due Eagle under
+D.C. Code § 1-1182.5(d)(2). (Id., Ex. 6, at 2).
+
+        During the approximate 2-year performance period that Eagle performed without a valid
+contract, Eagle received compensation (purported contract payments) from the District for the
+recycling services Eagle performed. As of April 30, 1995, Eagle had received payments from DPW
+totaling $2,070,056. (HEX 65B, OIG Attachments, Schedule K, at 1-2). It appears that during the
+second half of 1995, DPW did not make any statutory determination of compensation under D.C.
+Code § 1-1182.5(d)(2). Meanwhile, DPW had awarded an emergency contract for recycling services
+to Eagle and Eagle was performing essentially the same types of recycling services as it had before.
+By January 1996, DPW still had not made a proper determination of Eagle’s actual costs of
+performance under D.C. Code § 1-1182.5(d)(2). Indeed, DPW’s then contracting officer apparently
+                                                  -3-             Recycling Solutions, Inc., CAB No. P-377
+
+attempted to settle the matter directly with Eagle's president by making a $1,079,000 payment to
+Eagle by check dated January 2, 1996. (HEX 65B, OIG Attachments, Schedule K, at 3). That
+payment brought the total amount DPW had paid Eagle to $3,142,022. (Id.). Because DPW
+appeared unable to make the determination required by section 1-1182.5(d)(2), we directed that
+Eagle and the District prepare detailed schedules of Eagle's actual costs and revenue under the
+District recycling job and submit them to the Board. (Order of March 26, 1996). The Office of
+Corporation Counsel, on behalf of the District, requested the Office of the Inspector General conduct
+an audit of Eagle’s costs and revenue.
+
+I.     Pertinent Portions of the Record
+
+        The Inspector General prepared an initial audit report dated August 10, 1996, entitled
+"Report on Audit of Costs Claimed and Revenues Earned on Eagle Maintenance's Contract No.
+OMS-0132-AA-KH With the Department of Public Works," OIG No. 9612-07, with OIG’s
+Financial Schedules A-C, K, K-(A), K-1 to K-4, Appendix 1 containing Eagle’s June 3, 1996
+submission of Schedules 1-13, and the following supporting documentation packages assembled by
+OIG: (i) Supporting Documentation for Labor Costs; (ii) Eagle Financial Statements for 1993-1995;
+(iii) Supporting Documentation for Other Direct Costs and Subcontractor Costs; (iv) Supporting
+Documentation for Intermediate Facility Costs; (v) Supporting Documentation for Market Revenues;
+(vi) Eagle Invoices (Feb. 1993 - Apr. 1995); and (vii) Department of Public Works ("DPW")
+Payment Vouchers (Feb. 1993 - Jan. 1996).
+
+        On September 17, 1996, the Board held a conference with the parties and reviewed the initial
+audit report and supporting documentation. In a September 18, 1996 order, the Board directed that
+Eagle produce additional documentation and provide information by means of affidavits in order to
+support findings of allowability and allocability of claimed costs for labor, labor burden, other direct
+costs (“ODCs”), subcontract costs, and general and administrative (“G&A”) costs. The OIG was
+directed to prepare a supplemental audit report based on the additional documentation and
+information. The OIG issued an interim audit report dated November 4, 1996, providing
+supplemental findings, stating that Eagle had not produced all required documentation and
+information, and that OIG would continue performing additional audit steps. The Board issued
+orders of November 26, December 13, and December 18, 1996, directing Eagle to produce
+documentation and support for claimed costs. Included in the record as Eagle Exhibits 1-64 are
+Eagle labor distribution summary reports (“LDSRs”), Eagle Management payroll and financial
+documentation, Eagle and Eagle Management tax records, Eagle general ledger detail reports, and
+Eagle and Eagle Management cost account indices. These records were produced to the OIG on or
+about December 18, 1996. On December 18, Eagle filed indices of three earlier packages of
+documents produced to the OIG.
+
+        The OIG issued its "Final Follow-Up Report on the Audit of Costs Claimed by Eagle
+Maintenance Services, Inc." (the "final audit report"), Audit Report No. 9612-07B, dated March 5,
+1997. (HEX 65A). The final audit report provided its audit results based on the material provided
+by Eagle along with explanatory notes. The Board held an evidentiary hearing on March 19, April
+15, May 7, and May 16, 1997, and the record includes transcripts of those hearings and hearing
+exhibits (“HEX”) received into evidence during the hearings. After the first hearing day, the Board
+directed Eagle to supplement the record with the original vendor/subcontractor files containing all
+                                                 -4-             Recycling Solutions, Inc., CAB No. P-377
+
+invoices, vouchers, and evidence of payment for each claimed cost. (Board Order, dated March 21,
+1997). On April 3, 1997, Eagle submitted 3 boxes containing the vendor files for Eagle
+Maintenance, the vendor files for Eagle Management, vendor history reports for Eagle and Eagle
+Management, general ledger detail for two Eagle cost accounts, and several Eagle Management
+invoices. After the April 15 hearing date, the Board directed Eagle to supplement the record with
+records that were missing from earlier productions, including vendor documentation supporting the
+“Other” and “Other Reimbursement” categories of costs claimed by Eagle in its Schedules 2A and
+3A which were part of the June 3, 1996 submission by Eagle to the OIG. The Board subsequently
+directed Eagle to file documentation relating to the entities that it marketed recyclable materials,
+whether end user or broker. (Board Order of April 28 and May 2, 1997). Eagle filed responses on
+May 2, May 6, and June 30, 1997. The OIG and the District submitted additional supporting
+documentation, including filings on May 8 and May 19. Also included in the record is the
+consolidated exhibit file for the underlying protest, containing inter alia the District’s Request for
+Proposals, Eagle’s proposal and Best and Final Offers (BAFOs), the (invalid) contract between
+Eagle and the District; and the pleadings submitted in connection with the underlying protest and
+Eagle’s cost claim.
+
+II.    Performance Required by the Statement of Work
+
+       The RFP
+
+       The purpose of the Request for Proposals, as revised, was to solicit proposals from
+contractors to:
+
+       receive, process, and market recyclable ferrous and nonferrous metal, glass, and plastic food
+       and beverage containers (recyclables) collected by DPW or its agents;
+
+       accept recyclables from District registered commercial/private recycling haulers who choose
+       to bring designated recyclables to the contractor’s facility;
+
+       receive newspapers collected by DPW and to ship them to the District’s existing newspaper
+       market, Capitol Fibre, using DPW-supplied tractor trailers;
+
+       and establish a “buy back” operation within the District, to receive and pay for recyclables
+       brought to the contractor by District residents.
+
+(Protest Consolidated Exhibit (“PCX”) 3, Solicitation No. OMS-0132-AA-KH, Addendum No. 5, at
+34-35). Based on DPW’s then current collection of recyclables from an estimated 99,100 single
+family households, and 1,500 residential condominium, cooperative, and public housing buildings,
+and commercial haulers’ collections from an estimated 146,000 apartment households and numerous
+businesses, and assuming a 60 percent participation rate from DPW served residential households, a
+40 percent participation from condominiums and cooperatives, DPW estimated that the recycling
+contractor could expect annual tonnages of 31,883 from the residential sector (newspaper accounting
+for 20,000), or about 2,657 tons per month. The annual estimate from the commercial sector was
+128,839 tons of recyclables, assuming a 40 percent participation rate. (Id.).
+                                                  -5-             Recycling Solutions, Inc., CAB No. P-377
+
+        Eagle’s Initial Proposal and BAFO
+
+        In its initial technical proposal, Eagle stated that its Multi-Material Resource Recovery
+Center, located at 5941 Central Avenue, Capitol Heights, Maryland, had sufficient capacity to
+process both its existing volume of recyclable materials plus the anticipated tonnage to be collected
+by DPW. (PCX 23, at 4, 39). It stated that it planned to build another recycling facility in the
+District shortly after the contract was awarded so that it could “receive and process all the
+recyclables collected in the District . . . .” (Id., at 5, 29).
+
+        Eagle stated that the Capitol Heights facility, owned by its President, Richard W. Tynes, Jr.,
+consisted of a building facility with a 28 foot high ceiling and a tipping floor of approximately
+25,000 square feet, and a yard of approximately 25,000 square feet. (Id. at 12; PCX 21, at 5). The
+yard has a loading dock capable of accommodating tractor trailers, a parking area capable of
+accommodating additional tractor trailers, a 15,000 square foot storage area for finished goods
+awaiting transportation to recycling markets, and a scale area capable of generating computer printed
+weights of vehicles bring recyclables to the facility. (PCX 23, at 12). The building facility, having a
+140 x 90 foot processing floor, consists of a weighing area where the scales are located, a newspaper
+area where newspapers are stored for processing and packaging, a commingled area where all
+commingled recyclables are stored for processing, a tipping area where all recyclables are unloaded
+and stored for processing, a processing area where both commingled and separated recyclables are
+sorted, processed, and packaged for shipment to various markets across the country, and a loading
+area where the processed goods are loaded onto tractor trailers for shipment to market. (Id. at 12-
+13).
+
+        Eagle also stated in its proposal that
+
+        The use of automated equipment allows us to operate efficiently and effectively with the
+        least amount of man hours. Currently we process approximately 800 tons a month using 8
+        laborers working an eight hour shift, five days a week. As previously mentioned, our facility
+        is capable of processing approximately 2,000 tons of recyclable materials per month. This
+        level of processing can be achieved with approximately 15 laborers working two eight hour
+        shifts, five days a week.
+
+(Id. at 13).
+
+        Eagle stated in its proposal that it had been in the business of processing recyclable materials
+since May 1990, that it keeps a daily log book indicating the customer who delivered the materials
+and vehicle identification, the time and date of delivery, the type of materials delivered, whether the
+material was separated or commingled, weight of materials delivered and weight ticket number, and
+a notation if the delivered material is determined to be abnormally contaminated. (Id. at 15). Eagle
+stated that it maintained management activity reports which include daily tonnages received, daily
+weights and percentages of unmarketable and/or contaminated materials, daily tonnages recyclables
+sold, daily receipts of revenue from recyclable sales, and the amount of rebates due its customers.
+(Id. at16). In accounting for commingled materials, Eagle stated that it used daily averages and that
+past experience had shown that approximately 15 percent of all recyclable materials delivered was
+non-processable material (also called “bypass”) which was unmarketable and would be sent to
+                                                  -6-            Recycling Solutions, Inc., CAB No. P-377
+
+landfills for disposal. Eagle would keep track of the percentage of marketable versus unmarketable
+material. (Id. at 16-17).
+
+       Eagle also stated that it has been receiving, processing, and marketing recyclable ferrous and
+non-ferrous metals, glass, plastic, newsprint, and office paper for Prince George’s County, the City
+of Takoma Park, and the Environmental Protection Agency. (Id. at 17). For the PG County
+contract, which was for the period May 1990 to May 1992, Eagle performed processing and
+packaging of recyclable materials for about 72,000 homes (id. at 39), but PG County marketed the
+material itself (Id. at 19). As of October 1990, Eagle processed approximately 1,000 tons of
+newspaper and 100 tons of glass per month. (Id., Attachment I, at 3). In its April 1992 BAFO,
+Eagle stated that PG County recyclables accounted for about 50 percent of its total processing
+capacity and that Eagle would reserve the other 50 percent for the District’s recyclables. (PCX 21,
+at 2). Eagle’s contract with EPA entailed the recovery, collection, sorting, and delivery of
+recyclable materials. (Id. at 40). For the City of Takoma Park, Eagle performed processing and
+marketing of commingled recyclables. (Id. at 40).
+
+        In its BAFO, Eagle stated that its existing facility had the capacity to handle all of the
+estimated tonnage defined in the RFP of DPW-delivered recyclable materials, apparently excluding
+the estimated recyclables coming from commercial haulers. In responding to the District’s question
+about the status of the interim facility, Eagle replied:
+
+       As previously mentioned, our existing facility is fully operational. We are currently
+       operating at 50% of our total capacity and processing approximately sixty (60) tons of
+       recyclable materials daily.
+
+(PCX 21, at 14). In other words, Eagle had a capacity of processing 120 tons of recyclables per day,
+or between 2,400 and 2,700 tons in a month, assuming processing only on weekdays. With the
+addition of the proposed new facility, Eagle said it would be able to handle commercial haulers as
+well as recyclable materials from other jurisdictions. (PCX 21, at 7-8). Eagle stated that its existing
+facility had 15,000 square feet of storage space, equating to approximately 10 storage days. (Id. at
+8).
+
+         Eagle described its processing of the various materials using its automated equipment and
+methods as follows: recycled glass is emptied into a hopper which is connected to Eagle’s
+automated conveying system (sort line); as the glass travels down the conveyor belt, Eagle’s sorters
+separate the clear, brown, and green glass; the separated glass is fed into a glass crusher and the
+product is deposited into boxes for shipping to market. Metals are emptied into a hopper connected
+to the sort line; the nonferrous and ferrous metal are separated on a magnetized conveyor belt; the
+separated metals are then deposited into can condensers; and the resulting condensed blocks of metal
+are stacked on pallets for shipping to market. Plastics are emptied into a hopper connected to the
+sort line, and sorters separate the plastic which goes to a hopper connected to a baler, where the
+plastic is perforated and compressed into bales, stacked on pallets, and shipped to markets. Eagle
+stated that it is essential that paper products are separated when delivered in order to avoid
+contamination. The paper is loaded into paper balers which bind the paper into bales, which are then
+stacked on pallets, and shipped to market. (Id. at 18-19).
+                                                    -7-              Recycling Solutions, Inc., CAB No. P-377
+
+         In its initial price proposal, Eagle proposed for the first year a unit price of $58.76 per ton for
+processing and marketing the 11,983 estimated annual tons of commingled recyclables, $15.12 per
+ton for the newspaper transfer service for the 20,000 estimated annual tons of newspaper, and $145
+per ton for the 250 estimate tons of material purchased in the buy back operations. Eagle further
+offered to rebate to the District 10 percent of gross marketing proceeds. (PCX 21, Attachment A).
+Eagle’s proposal provided gradual increases in each of the unit prices and the marketing rebate in
+subsequent years. In its BAFO, Eagle proposed a constant 14 percent marketing proceeds rebate
+over the life of the contract. (PCX 23, at 3). Its unit prices for processing, newspaper transfer, and
+buy back services remained unchanged in its BAFO. Eagle’s BAFO Year 1 cost and pricing data
+showed a total labor cost of $408,444.40, consisting of one project manager ($35,006.40), two
+supervisors ($49,920), three workers in the category “lead worker—plant” ($56,784), 16 workers in
+the category “laborer-plant” ($242,944), and two workers for the buy back operations ($23,790).
+Although the labor costs show a gradual escalation in Years 2-5, based on increases in labor rates,
+the number of workers was constant in each of the five years. Eagle used a labor burden rate of 22
+percent to calculate its Year 1 labor burden cost of $89,857.77. The Year 1 schedule also showed
+other direct costs of $440,618, consisting of occupancy ($262,500), utilities ($45,000), equipment
+($109,500), repair and maintenance ($18,000), and supplies ($5,618). A note on the schedule states
+that: “Other direct costs are based on prior experience and estimated costs associated with the
+construction of the recycling facility. Building and equipment costs are depreciated based on their
+estimated useful life.” The other direct costs remained constant throughout the five years. The Year
+1 schedule shows general and administrative (“G&A”) costs of $103,281.22 based on a G&A rate of
+11 percent of total costs. Eagle stated that its G&A rate was actually 13.89 percent. (PCX 21,
+Schedule of G&A Expenses). Eagle indicated in its BAFO that it would rely on proceeds from the
+marketing of recyclables for its profit on the job. As a result, the Year 1 schedule shows only
+$569.69 for “profit/fee.” (PCX 21, at 3).
+
+         The RFP allowed the successful contractor initially to have its processing facility within a 10
+mile radius from the District. Within 2 years after contract award, the RFP required the contractor to
+locate a processing facility within the District. (PCX 3, at 1, 3). Eagle proposed opening a 46,350
+square foot facility on 5.7 acres of land on W Street, between 15th and 16th Streets, N.E., within 1
+year of award. (PCX 23, at 27, 34). Eagle represented that it had a commitment to acquire the land.
+ (Id. at 27, Ex. VII, at 4). Stating that its Capitol Heights facility had the capacity for handling all of
+the recyclables delivered by DPW, the proposed new facility would be staffed with 14-18 laborers
+working one 8 hour shift, five days a week, to handle the significant volume of commercial
+recyclables DPW estimated in its solicitation. Eagle said it could achieve economies in the new
+facility by using equipment that would have a greater processing capacity than the equipment in its
+existing facility. (Id. at 29-30).
+
+        Eagle’s Contract
+
+     On February 1, 1993, the District and Eagle purported to enter into Contract No. OMS-0132-
+AA-KH. The contract provided that:
+
+        The contractor shall receive, process and market recyclable nonferrous and ferrous metal,
+        glass, and plastic food and beverage containers (recyclables) collected by the District. The
+        services provided shall also include the acceptance, temporary storage and loading of
+                                                  -8-             Recycling Solutions, Inc., CAB No. P-377
+
+       newspapers collected by the Department of Public Works (DPW) into District supplied
+       tractor trailers. The contractor shall provide a facility with sufficient capacity to
+       accommodate District registered commercial/private haulers who choose to bring the
+       recyclables defined in this section of the contract to the contractor’s facility. In addition, the
+       contractor shall establish a buy back operation within the District in order to buy recyclables
+       at market rates from District residents.
+
+       The contractor’s interim processing facility shall be located within a ten (10) mile radius of
+       the District’s boarder for the first year after contract award; however, beginning on the first
+       day of the second year of the contract, the contractor must have a fully operational
+       processing facility within the District from which all activities, except buy back operations,
+       associated with performance of this contract shall be conducted. . . .
+
+(PCX 12, Art. 1). The contract identified Eagle’s Capitol Heights facility as the interim processing
+facility, stated that 50 percent of that facility’s capacity – a minimum of 1,000 tons per month --
+shall be reserved for District generated recyclables, and that Eagle shall process all District
+generated recyclables whether delivered by the District or commercial/private haulers. (Id., Art. 1,
+§§ 1.1-1.3). The contract incorporated the interim facility specifications set forth in Eagle’s initial
+proposal and BAFO, including that the facility was to be a “fully automated processing facility”
+equipped with two fully functional loading docks capable of handling simultaneously four vehicles,
+a mechanized sorting line, glass crusher, balers for metal and plastic, computerized weighing system,
+fork lift and bobcat. (Id., Art. 1, §§ 1.4-1.6). Eagle was to provide approximately 15 laborers
+working two 8-hour shifts, five days a week. (Id., Art. 1, § 1.6.2). The contract also incorporated
+Eagle’s automated procedures for processing the various types of recyclables and a contingency plan
+in the case of equipment failure in order to insure the uninterrupted delivery of District generated
+recyclables. (Id., Art. 1, § 1.7).
+
+        Eagle was to maintain detailed daily logs to account for the recyclable materials collection,
+processing, and marketing phases of the work. The daily logs were to record customers, date and
+time of delivery, types and weight of recyclables delivered, and abnormalities such as high
+contamination. (Id., Art. 1, § 1.8.1). From these daily logs, Eagle was to generate monthly reports
+containing daily weights of District generated recyclables, daily weights and percentages of
+unmarketable/contaminated materials, daily sales of recyclables, daily receipts of revenue from
+sales, and the amount of rebate due the District. (Id., Art. 1, § 1.8.2). Commingled materials were to
+be accounted for initially by using 15 percent as the percentage of non-processable (unmarketable)
+recyclable material. Eagle was to examine commingled materials to calculate the percentage of
+recyclables by type, calculating the weight of each type of marketable recyclable delivered, and
+periodically redetermine the percentage of unmarketable recyclables by using the actual daily
+weights of unmarketable residue and processed recyclables. (Id., Art. 1, § 1.8.3).
+
+        The contract incorporated Eagle’s proposal and BAFO specifications for its planned District
+based facility, including equipment and labor requirements. (Id., Art. 1, § 2). The first and only
+bilateral modification of the purported contract, entered into by the District and Eagle also on
+February 1, 1993, provided, inter alia, that:
+                                                  -9-            Recycling Solutions, Inc., CAB No. P-377
+
+       The contractor is responsible for obtaining all permits necessary to establish the recycling
+       processing and buy back facilities in the District. By executing this contract the District does
+       not waive any requirements of law or the right to review permit application in accordance
+       with applicable criteria. The processing and buy back facilities are private facilities which
+       are the sole responsibility of the contractor.
+
+      The bilateral modification also set forth the total estimated annual payments which were to
+be made in accordance with Eagle’s proposal and BAFO as follows:
+
+       Year 1 -- $1,042,771.08
+       Year 2 -- $1,068,080.00
+       Year 3 -- $1,094,645.57
+       Year 4 -- $1,122,190.12
+       Year 5 -- $1,150,676.49
+
+       Eagle Performance
+
+         Prior to contract execution on February 1, 1993, Eagle’s contract for processing PG County
+recyclables (Eagle was a subcontractor of Waste Management, the prime contractor) was terminated
+because PG County’s own processing facility had become operational. Although Eagle’s president,
+Mr. Tynes, could not recall the approximate date of the termination, Eagle’s CFO, Mr. Furby, stated
+that it must have occurred some time late in 1992. Nevertheless, Eagle continued to haul PG County
+recyclables as a subcontractor of Waste Management.
+
+         The District began collecting residential recycling and delivering the recyclables to Eagle on
+March 22, 1993. (Tr. 12-13). According to DPW records, compiled from reports provided by Eagle,
+the District had, by the end of March, delivered to Eagle 353.88 tons of recyclables, consisting of
+269.15 tons of newspaper and the remainder being either unmarketable or unaccounted material for
+which Eagle had not furnished information in its reports. (Hearing Ex. (“HEX”) 1A). Indeed, Eagle
+did not maintain the required daily logs. The record shows that from the start of performance, Eagle
+did not have sufficient capacity at its existing Capitol Heights facility (the “interim” facility) to
+handle the quantity of recyclables delivered to it by DPW. The District first notified Eagle of the
+deficiencies by letter of March 26, 1993, followed by a meeting of the parties’ representatives on
+March 29, and by a written response from Eagle on April 1. The District agreed to assist Eagle
+during the last several days of March and throughout April by accepting a portion of the recyclables
+at a non-Eagle facility designated by the District. (RSI App., PEX 130 (DC/CAB 00067-00070);
+Francis letter to Tynes, dated July 27, 1993). It appears from the correspondence that the alternate
+facility was operated by Consolidated Waste Industries (“CWI”) and located on W Street. CWI used
+the facility for processing and marketing District recyclables under another contract with the
+District. The CWI contract with the District was to end on April 30, 1993, so DPW notified Eagle
+that it would have to be able to accept all DPW delivered recyclables starting May 1. (RSI App.,
+PEX. 130 (DC/CAB 00067-00070); Francis letter to Tynes, dated July 27, 1993). For April 1993,
+Eagle received 1,184.78 tons of recyclables and the remaining recyclables collected by DPW,
+probably amounting to 800-1,000 tons, were delivered to CWI’s W Street facility as designated by
+DPW. During April, Eagle was unable to account for 400.73 tons of recyclables. (HEX 1A).
+                                                  - 10 -          Recycling Solutions, Inc., CAB No. P-377
+
+        In its April 1 letter, Eagle complained that the quantities being delivered by DPW were
+greater than estimated in the RFP. Eagle seemed to be stating that because the newspaper was
+collected with the other recyclables in DPW’s packer trucks using the “blue bag” system, the
+recyclables being delivered, including the newspaper, were all commingled recyclables. Eagle,
+however, was well aware in the fall of 1992 or earlier, and thus prior to contract award, of the
+method DPW would use for collecting recyclables. Thus, the contract’s newspaper transfer service
+consisting of “acceptance, temporary storage and loading of newspapers collected by [DPW] into
+District supplied tractor trailers” (PCX 12) included separating the newspaper from the other
+recyclables, bundling the paper, and loading it into the trailers. Moreover, the actual quantities of
+residential recyclables being collected were consistent with the residential quantities estimated in the
+RFP. Since Eagle’s recycling processing contract with PG County was terminated prior to the start
+of the District job, Eagle’s represented capacity at its interim facility of 2,000 tons per month should
+have been adequate to handle the District’s quantities. In fact, Eagle was unable to achieve the
+represented processing capacity, at least during much of 1993. Eagle’s problems resulted from its
+labor force and interim facility being used for other jobs, the facility and recycling equipment being
+in various states of disrepair, and the facility’s processing and storage capacity not being as large as
+represented. (Tynes letter to Shields, dated April 1, 1993; RSI App., PEX 130 (DC/CAB 00067-
+00070); Francis letter to Tynes, dated July 27, 1993; PEX 143 (DC/CAB 00007-00008)).
+
+        During the early period of performance, Eagle claimed that there was a higher than expected
+amount of newspaper being contaminated with broken glass caused by DPW’s packer trucks
+crushing all of the recyclables together. DPW claimed that any glass contamination was caused by
+Eagle’s own equipment crushing the glass into the paper while it sat piled up on the facility’s
+processing floor stemming from Eagle’s failure to promptly separate the paper from the other
+recyclables and load the paper into the trailers. Although DPW was probably responsible for most
+of the glass contamination, the problem of a number of loads of newspaper being rejected by Capitol
+Fiber during April 1993 appears to have been resolved quickly. (Francis letter to Tynes, dated July
+27, 1993; RSI App., PEX 384, DC 7734-7738).
+
+         Eagle also complained on April 1 that DPW was not timely providing the trailers and
+transporting the newspapers from Eagle’s facility to Capitol Fiber. According to Mr. Tynes, the
+District probably hauled 50 or 60 percent of the newspaper during 1993 and less than half for the
+remainder of the performance period. (Tr. 41-43). For the months of March through December
+1993, Eagle processed and marketed a total of 10,402.66 tons of newspaper. (HEX 1, 1A). For the
+months of January 1994 through May 1995, Eagle processed and marketed a total of 21,492.02.66
+tons of newspaper. (HEX 1, 1A). Based on Mr. Tynes’ testimony, we find that the District hauled
+to Capitol Fiber 55 percent of the newspaper during 1993 and 45 percent of the newspaper during
+the remainder of the performance period. Thus, we find that Eagle had to deliver 45 percent (for
+1993) and 55 percent (for the remainder of performance) of the newspaper to Capitol Fiber.
+Expressed in tons, Eagle had to transport to Capitol Fiber 4,681.20 tons of newspaper during 1993
+and 11,820.61 tons of newspaper during the remainder of the performance period. Both the District
+and Eagle contributed to the newspaper transfer problem. DPW’s witness admitted that the District
+had problems fulfilling its responsibility of hauling the loaded newspaper to Capitol Fiber. (PCX 21,
+at 8; Tr. 572-573). By the same token, Eagle had represented in its BAFO that it had 15,000 square
+feet of storage space equating to a capacity of approximately 10 storage days for recyclables, but the
+record shows that it was having difficulty storing one days worth of newspaper. (Tynes letters to
+                                                  - 11 -          Recycling Solutions, Inc., CAB No. P-377
+
+Shields, dated November 4, 1993, December 8, 1994, and January 12, 1994; Tr. 572-573). The
+record also indicates that at times Eagle was slow in loading the paper into the District trailers, even
+when trailers were available. (RSI App., PEX 130 (DC/CAB 00067-00070), PEX 143 (DC/CAB
+00007-00008)).
+
+         When DPW advised Eagle that the District would not continue to provide it an alternate
+facility for receiving delivery of recyclables after April 30, and that Eagle would have to devise a
+contingency plan to fulfill its responsibility of accepting all DPW delivered recyclables, Eagle
+entered into a memorandum of understanding with CWI, effective May 1, 1993, whereby CWI
+would receive a portion of DPW recyclable deliveries at its Olive Street facility in Capital Heights,
+separate the newspaper from the other recyclables, and transport the newspaper to Capitol Fiber.
+Eagle would then have the other recyclables delivered to its interim facility. (RSI App., PEX 357
+(RSI LIT 654-655). Mr. Tynes testified that Eagle employees, not CWI employees, performed the
+processing at the CWI facility. (Tr. 113-115). According to the MOU, Eagle would pay CWI $65
+per ton received from DPW but Eagle would receive a payment from CWI of $30 per ton for the
+non-paper recyclables. In other words, CWI would receive $65 per ton for receiving and
+transporting the newspapers to Capitol Fiber and would receive $35 per ton for receiving the non-
+paper recyclables. Mr. Tynes stated that he could not remember how he arrived at the MOU pricing.
+ (Tr. 113-115). Although Mr. Tynes denied that a component of its cost was for use of CWI’s
+facility, we find that the $35 per ton price for simply receiving DPW delivered non-paper represents
+a facility usage cost. We also find that $35 of the $65 per ton price for the newspaper services
+represents facility usage cost. Of the 2,220 tons of recyclables for May 1993 collected by DPW,
+CWI received 1,395 tons. (HEX 1A, 10). For June 1993, CWI received 978 tons of recyclables out
+of a total of 2,363 tons. (HEX 1A, 11). According to correspondence from Capitol Fiber, they had
+received during June a total of 781 tons of paper from Eagle but only 241 tons of paper from CWI,
+indicating that CWI “continue[s] to divert tonnage to other markets” notwithstanding that Capitol
+Fiber did not reject any paper delivered in June by CWI. (Jones letter to Shields, dated July 1,
+1993). For July 1993, CWI received 906 tons of recyclables out of a total of 2,037 tons. (HEX 1A,
+12). Eagle’s correspondence indicates the following destination of recyclables received by CWI
+during July: 425 tons of newspaper went to Capitol Fiber, 56 tons of other non-paper recyclables
+went to BFI, 249 tons of non-paper recyclables went to Eagle, and 153 tons of newspaper and 23
+tons of non-paper recyclables went to Laidlaw. (HEX 12). The record also shows that on July 2,
+1993, a fire at Eagle’s interim facility damaged portions of the facility as well as equipment
+including the sorting system and the scales. (Attachment to May 2, 1997 filing). Mr. Tynes stated
+that the fire destroyed various company records including many personnel records.
+
+        For August 1993, CWI received 1,176 tons of recyclables out of a total of 1,974 tons. (HEX
+1A, 13). For September 1993, CWI received 662 tons of recyclables out of a total of 1,945 tons.
+(HEX 1A, 14). Eagle’s documentation indicates the following destination of recyclables received by
+CWI during September: 435 tons of newspaper went to Capitol Fiber, 8 tons of non-paper
+recyclables went to Eagle, and 28 tons of newspaper and 190 tons of non-paper recyclables went to
+Laidlaw. (HEX 14). After September 1993, it appears that Eagle continued to use CWI’s Olive
+Street facility for receiving District recyclables. (E.g., Friend’s Tire & Fleet Service invoices dated
+8/24/94, 4/29/94, in Eagle Management original invoice files). We find that in lieu of payments
+pursuant to the May 1, 1993 MOU, Eagle was able to continue using CWI’s facility based on later
+fee arrangements for the sizeable amount of hauling, disposal, and truck weighing services that
+                                                   - 12 -          Recycling Solutions, Inc., CAB No. P-377
+
+Eagle committed to send to CWI. In a January 10, 1994 letter to DPW, Eagle designated CWI’s
+Olive Street facility and two other vendors’ facilities as alternative sites for receiving DPW
+recyclables should Eagle’s interim facility be unavailable. It is not clear from the record whether
+DPW trucks were ever diverted to sites other than Eagle’s and CWI’s. Nevertheless, CWI continued
+to provide hauling, weighing, and disposal services for Eagle throughout the remainder of the
+District recycling job although it was paid under arrangements differing from that provided in the
+May 1993 MOU. (HEX 2, at 58; HEX 2C, at 1; HEX 54 (Tynes letter to Lash, dated July 5, 1994)).
+ In a March 1, 1994 Eagle letter to CWI, Tynes “confirms our understanding regarding the
+[recyclable] materials we anticipate delivering to your facility . . . .” (HEX 54). It is not clear from
+the letter what the details of the proposed arrangement were but it appears to contemplate that
+materials would be delivered to CWI’s facility and that processing would take place at the facility.
+
+         In responding to a Board order of October 10, 1996, questioning whether Eagle’s claimed
+labor costs were incurred only on the District recycling job, Eagle filed an affidavit of Mr. Tynes in
+which he averred that Eagle “had no other recycling jobs involving recycling processing” during the
+entire period of February 1, 1993, through April 30, 1995. (Tynes Aff. ¶ 2, dated October 16, 1996).
+During the hearing in 1997, we discovered that this statement was misleading. Because Eagle
+entered the recycling business as an extension of its janitorial business where it collected items
+which could be processed and marketed as recyclables, Eagle continued to use the Capitol Heights
+facility for processing recyclables obtained from its existing janitorial contracts. It also had obtained
+some recycling contracts in the 1991-1992 period. Thus, Eagle used the Capitol Heights facility for
+processing recyclables from the janitorial contracts, other recycling contracts, and private haulers
+who brought material to Eagle’s facility. During the proposal phase, Eagle touted its recycling
+experience by citing its contracts with Prince George’s County, the City of Takoma Park, and the
+Environmental Protection Agency. (PCX 23, Sec. B, at 17, 19; PCX 21, at 8). Although its contract
+for processing PG County recyclables had been terminated prior to March 1993, Eagle continued to
+collect PG recyclables and deliver them to PG County’s facility on Richie Road, using its own trucks
+and drivers. (See Tr. 65-66). In responding to a DPW pre-contract request for responsibility data in
+September 1992, Eagle identified two other recycling contracts involving the processing and
+marketing of recyclables: one with Dow Chemical for processing recyclables collected from
+containers on the National Mall, and another with the U.S. Public Health Service for recyclables
+collected from its Parklawn Complex in Rockville, Maryland. (RSI App. DC 001705). A 1995
+invoice indicates that the National Mall recycling was at some point performed under a contract with
+the National Park Service. (RSI App., at DC 003670-003671). The National Mall recycling covered
+the entire period from February 1993 through April 1995 and beyond. (Tr. 67-69). Tynes could not
+recall whether Eagle was collecting recyclables at the Crystal City complex. (Tr. 75). Eagle also
+collected recyclables from a residential development within the District called The Cluster under a
+contract with Waste Management. (Tr. 79-82). Eagle may also have been collecting recyclables
+from the Washington Design Center. (Tr. 83). During the hearing on its actual costs, Mr. Tynes
+downplayed Eagle’s other contracts involving handling and processing of recyclables at the interim
+facility, stating that the quantity from non-DPW sources was quite small, amounting only to one
+percent. (Tr. 21-24). He testified that the one percent of recyclables came from the Washington
+Convention Center janitorial contract. (Tr. 23-24). He could not recall all of the janitorial and other
+recycling contracts from which recycling materials were brought to the Central Avenue facility, but
+he claimed that the amount was “slight.” (Tr. 24). Finally, the contract required Eagle to accept
+recyclables delivered by commercial haulers though Mr. Tynes said there were very few of such
+                                                  - 13 -          Recycling Solutions, Inc., CAB No. P-377
+
+deliveries. We find that Mr. Tynes was not credible in his testimony concerning the allocation
+between DPW and non-DPW delivered recyclables. The documentary evidence suggests that
+substantially more than 1 percent of the recyclables processed at the interim facility came from non-
+DPW sources. We also draw an adverse inference from Eagle’s failure to produce documentation to
+support its claimed allocation for the interim facility. We find that it is more likely that the
+percentage of recyclable materials handled at the interim facility and coming from non-DPW sources
+was at least 5 percent of the facility’s total recyclables. One 1995 monthly invoice concerning the
+National Park Services’ National Mall recycling shows a monthly recyclables quantity of
+approximately 25 tons, which constitutes by itself over one percent of the monthly DPW-collected
+recyclables handled at Eagle’s interim facility. (Id. at DC003670-003671, 003672-003673). There
+is nothing in the record to suggest that this quantity was not normal for the April 1993 through April
+1995 period.
+
+         After the commingled materials were separated by type, Eagle would then market them.
+Tynes testified that for the materials other than metal, the market entities would arrange for
+transporting the material to the market’s facility. (See Tr. 50-52). For metal, Alcoa had a local
+facility so Eagle would have the metal transported to Alcoa. Strangely, Tynes testified that he rarely
+transported metal from the interim facility but rather from CWI’s facility. (Id.). In the recycling
+industry, recycling contractors sometimes use a broker who in turn arranges for the sale of
+recyclables to a market. Mr. Tynes at first testified that he used brokers on the District recycling job
+(Tr. 92) but later stated that he did not use a broker for the District job and could not remember ever
+using a broker in the past (Tr. 98), and then stated that he used brokers “very, very sparingly and I
+just don’t remember using a broker off the top of my head” and that he would “use various sources,
+not necessarily a broker” (Tr. 100). Near the end of the hearing, he testified that “[I]n some
+instances we would deal with a broker.” (Tr. 879). Depending on the arrangement, Eagle might
+receive revenue from the broker less any commissions charged by the broker. (Tr. 97-100). Tynes
+seemed sure that he marketed District recyclables to Alcoa, Union Carbide, Baltimore Recycling,
+and Southeast Recycling. (Tr. 100-106). Eagle may also have marketed District recyclables to
+Society Plastic, ERI, Georgetown Paper, Welman, Inc., but Tynes could not recall for sure although
+he indicated that Eagle maintained a file indicating entities to whom it sells reyclables and the
+revenue derived from its sales. (Tr. 104-105). Despite ordering the production of such files, it is not
+clear that Eagle provided complete documentation of its marketing. The OIG auditors discovered
+from the records produced to them that Eagle had underreported market revenue by $14,496. RSI
+independently investigated Eagle’s market vendors and states that Eagle underreported $92,250 in
+market revenue. (RSI Reply Brief, Ex. A).
+
+       If collected materials were not recyclable, or recyclable material was too contaminated to
+market, then Eagle arranged with a hauler like CWI to dispose of this bypass material at a landfill.
+(Tr. 112-113).
+
+       Ms. Hallie Clemm, an employee with DPW, was responsible for monitoring Eagle’s
+performance and authorizing progress payments. (Tr. 126). She prepared a spreadsheet listing on a
+monthly basis the amount of District recyclables delivered by DPW trucks to Eagle, the amount of
+newspaper, aluminum, plastic, steel, and glass marketed by Eagle, the amount of unmarketable
+material, and the amount of material unaccounted for by Eagle. (HEX 1). The data was taken from
+reports submitted by Eagle with its monthly invoices. Ms. Clemm made a summary of the
+                                                    - 14 -           Recycling Solutions, Inc., CAB No. P-377
+
+spreadsheet which shows the following tonnages for the District recycling job:
+
+
+             Delivered   Marketed     Marketed    Marketed     Marketed    Marketed                      Unaccounted
+ Month       from        Paper        Aluminum    Plastic      Steel       Glass        Unmarketable     Tonnage
+             DPW
+ Mar 1993       353.88       269.15        0.00         0.00        0.00         0.00            43.52           269.15
+ Apr           1184.78       560.97        2.02         7.93       11.75        86.09           115.29           400.73
+ May           2220.04      1260.79        6.16        13.68       12.68       136.22           559.83           400.73
+ Jun           2363.46      1459.88        8.13        24.35        4.14       151.81           444.63           230.68
+ Jul           2036.79      1129.06        9.04        30.97        4.55       154.48           490.57            270.52
+ Aug           1973.61      1211.18        7.69        10.16        5.13       128.48           475.93            218.12
+ Sep           1945.23      1083.01        3.62        10.91        0.00        51.07           358.10            135.04
+ Oct           1988.79      1224.26        0.00         0.00        0.00         0.00           491.15            438.52
+ Nov           1965.69      1183.41        0.00        21.90        0.00       154.88           441.93            273.38
+ Dec           2261.07      1248.89        0.00        13.91        7.20       188.79           391.29            163.57
+ Jan 1994      2035.86       768.25        0.00        31.55        0.00       221.37           368.80            410.99
+ Feb           2297.25      1130.41        4.06        72.82       17.13       571.95           361.33            645.89
+ Mar           2316.39      1305.15        2.13        44.03        0.00       562.95           345.98            139.55
+ Apr           2011.24      1529.65        2.09        35.48        0.00       450.39           372.88             56.15
+ May           2307.42      1348.19        5.54        32.10        0.00       508.25           353.50           - 379.25
+ Jun           2404.69      1743.23        9.07        41.71        0.00       372.02           449.11             59.84
+ Jul           2124.30      1237.02        5.93        60.75        0.00       260.53           402.72           - 210.45
+ Aug           2145.98      1605.23       11.01        86.29        0.00       315.57           407.36            157.35
+ Sep           2288.39      1398.08        5.22       107.97        0.00       519.47           407.36           - 276.48
+ Oct           2163.08      1407.36       10.34       126.39        0.00       527.63           297.34           - 149.71
+ Nov           2039.64      1542.52        5.89       118.30        0.00       407.61           407.97           - 268.98
+ Dec           2560.63      1518.88        2.16       137.50        0.00       399.90           407.97           - 442.65
+ Jan 1995      2054.36      1329.24        3.48        90.85        0.00       455.25           324.80           149.26
+ Feb           1722.00      1179.10        6.50        49.81        0.00       343.34           257.50          - 114.25
+ Mar           2262.43      1466.98        8.00       104.44        0.00       350.39           339.51            - 6.89
+ Apr           1496.48       784.16        1.68       160.95        0.00       331.82           280.10           - 62.23
+ May            135.57       135.57        5.20        90.52        0.00       355.88             0.00          - 451.60
+ TOTAL        52659.05     32122.62      124.96      1525.27       62.58      8006.14          9593.47          1451.95
+
+
+(See HEX 1A, 1).
+
+
+III.     Determination of Actual Costs Pursuant to D.C. Code § 1-1182.5(d)(2)
+                                                 - 15 -          Recycling Solutions, Inc., CAB No. P-377
+
+
+
+       D.C. Code § 1-1182.5(d)(2) provides:
+
+       If a contract is void, a contractor who has entered into the contract in good faith,
+       without directly contributing to a violation and without knowledge of any violation
+       of the chapter or rules and regulations prior to the awarding of the contract, shall be
+       compensated for costs actually incurred.
+
+        We have interpreted the language “costs actually incurred” as meaning that the contractor is
+entitled to be compensated for its costs that are properly allocable to the work, are reasonably
+incurred, and are allowable under the applicable cost principles. The actual costs must be reasonable
+costs. Otherwise, the District could end up paying more than even contemplated under the purported
+contract. The Council could not have intended any other meaning for actual costs because the
+purpose of the provision is to free the innocent contractor from the rigors of a forfeiture, not to
+provide a windfall to a contractor whose contract is determined to be invalid. In determining the
+reasonableness of costs, we also consider the contractor’s proposed cost and pricing data submitted
+in response to the solicitation. In the competitive sealed proposals used in this procurement, Eagle
+submitted in its cost proposal and BAFOs various cost and pricing data schedules. For what was
+contemplated as a fixed unit price contract, if Eagle performed inefficiently or otherwise performed
+its work in such a manner that it would have incurred a loss on the job, Eagle should not be able to
+avoid its losses for which it is responsible simply because the contract was declared void ab initio.
+Stated differently, the actual cost recovery provided by D.C. Code § 1-1182.5(d)(2) is not a pure cost
+reimbursement remedy. Indeed, even under the convenience termination measure of costs, which is
+more generous than the actual cost measure of D.C. Code § 1-1182.5(d)(2), a contractor’s recovery
+is reduced by applying a loss ratio in the situation where the contractor would have incurred a loss
+on the contract.
+
+        The actual costs must be allocable to the performance of the purported contract work, which
+is defined by the Statement of Work. Costs incurred in performing added work that would have
+constituted a valid change under the Changes article of the contract -- but for the fact that the
+contract was void ab initio -- may also be recoverable, depending on the circumstances. Besides the
+usual factors to be considered in the context of a valid contract, we must also consider whether the
+performance of added work is reasonable when measured against the contractor's knowledge of the
+validity of the contract. For example, it is relevant here to consider Eagle's performance (and cost
+documentation) in light of its knowledge by October 1993 that its contract might be terminated, and,
+by April 1994, that the Board had declared the contract void ab initio.
+
+        In analyzing costs, the OIG auditors looked to see whether Eagle was able to support items of
+cost with vendor invoices, Eagle vouchers which would indicate the proper cost account for charging
+the costs, and evidence of payment by Eagle. Generally, OIG would find the cost supported if at
+least two of the three records existed. The OIG auditors conducted an audit of incurred costs, but
+did not attempt to conduct a review of Eagle’s performance under the invalid contract. (Tr. 729-730;
+HEX 65B, at 3). In describing the scope and methodology of its review of direct and indirect costs
+claimed by Eagle, the OIG stated in pertinent part:
+
+       The direct cost audit scope was limited to test procedures for validating Eagle’s
+                                                 - 16 -          Recycling Solutions, Inc., CAB No. P-377
+
+       claimed costs by tracing them to books of original entry and supporting records. We
+       tested specific transactions, but did not evaluate Eagle’s total internal control system
+       or technical aspects of its performance. The direct productive manhours scope was
+       limited to reviewing timesheets to determine total direct productive manhours. The
+       indirect cost audit scope was limited to tests of indirect costs and costs comprising
+       the allocation bases. In addition, we evaluated the appropriateness of the allocation
+       methods used.
+
+       Our audit included assessing the accounting principles used and significant estimates
+       made by Eagle. Criteria used in evaluating the claimed costs also included cost
+       principles set forth in the Federal Acquisition Regulation (FAR), District of
+       Columbia Municipal Regulations (DCMR), and Cost Accounting Statndards (CAS).
+
+(HEX 65A, at 3).
+
+       Although the OIG auditors did not have the benefit of the results of the evidentiary hearing
+and additional data collected during the proceedings which occurred after its final audit report,
+including the examination and cross-examination of the Eagle representatives, we have found the
+OIG audit reports and supporting workpapers to be very helpful in our assessment of Eagle’s costs
+and the our ultimate determination of actual costs under D.C. Code § 1-1182.5(d)(2).
+
+        As we made clear during the evidentiary hearing, we went beyond the sample testing
+conducted by the OIG auditors, analyzing all items of cost claimed by Eagle under the District
+recycling job, and examining all supporting data (including original invoices, vouchers, payment
+records, cost and revenue reports, labor data) offered by Eagle. We also reviewed all of the
+performance data produced by the parties, including recycling reports, correspondence, and
+documentation relating to the invalid contract. Our specific findings concerning allowability and
+allocability are addressed in connection with each category of cost considered: labor, labor burden,
+other direct costs, subcontract costs, costs for Eagle’s new recycling facility, and general and
+administrative costs.
+
+IV.    Eagle's Allowable Actual Costs
+
+       A.      Eagle Direct Labor Costs
+
+        In its 1996 cost submission, Eagle claimed direct labor costs of $978,659.72 for the period
+February 1993 through September 1994, consisting of $127,083.34 in “temporary labor” (casual
+laborers Eagle alleges it paid in cash) and $851,576 (derived from Eagle's monthly "Labor
+Distribution Summary Reports" ("LDSRs") (Eagle Exs. 1-20)). For the period beginning in mid-
+September 1994 through May 1995, Eagle claims another $363,232 in labor incurred by its affiliated
+company, Eagle Management. These labor costs from Eagle Management do not appear under
+Eagle’s direct labor schedules because Eagle has sought to recover all of the various costs incurred
+by Eagle Management under the subcontractor costs category, i.e., Eagle treats Eagle Management
+as a subcontractor on the District recycling job and its costs as subcontract costs. For purposes of
+the District recycling job, OIG determined that Eagle Maintenance and Eagle Management are from
+a functional and operational standpoint just one company, because the two entities are wholly owned
+                                                  - 17 -         Recycling Solutions, Inc., CAB No. P-377
+
+by Mr. Tynes, and they share the same G&A staff, office space, warehouse, and processing facility.
+(HEX 65A, at 3-4, 9). Based on our review of the testimony and record, we agree with OIG’s
+determination and find that Eagle Management and Eagle Maintenance operated as one company.
+
+       Temporary Labor Costs
+
+      OIG disallowed the entire amount of the temporary labor costs of $127,083.34 as
+unsupported. Eagle has agreed with OIG’s disallowance. (HEX 65A, at 6, note A.1.).
+
+       Labor Distribution Costs (Feb. 1993 – mid-Sept. 1994)
+
+         A review of Eagle’s LDSR reports shows that for most of the 1993, the claimed direct labor
+was coded to Eagle's project Account No. 3032-000-39, entitled "Waste Mgmt-Direct Labor." Eagle
+states that prior to the District recycling job, it had used the 3032 account to collect Eagle’s labor
+costs for processing recyclables collected from PG County under a subcontract with Waste
+Management. We are told that this processing work ended late in 1992, but in any event, prior to the
+start of the District recycling job. It was not until December 1993 that Eagle created a new account,
+No. 3800-000-39, entitled “DC Recycling,” to collect the District recycling labor costs. (Eagle Ex.
+12). Eagle was unable to produce to the OIG auditors the personnel files for the persons charging
+labor to the District job, stating that they were lost in the July 1993 fire. We find this excuse
+unpersuasive because more than 85 percent of the labor was incurred after the fire on July 2,1993.
+Although OIG apparently did not review any personnel files and time cards, OIG’s analysis of the
+LDSRs for the period February 1993 through mid-September 1994 did not alert them to any obvious
+mischarging of labor. Although the OIG may have relied on Mr. Tynes’ affidavit (stating that Eagle
+had no other recycling jobs involving processing of recyclable materials) for its assumption that
+Eagle’s labor was properly charged to the District recycling job, we find based on the hearing
+testimony and the documentation in the record that Eagle collected recyclable materials from its
+other janitorial and recycling jobs, and processed nearly all of those materials at the Capitol Heights
+facility by the laborers who were charging to the District recycling job. While Mr. Tynes testified
+that the amount was very small and no more than 1 percent of the total recyclables, we find it more
+likely than not that the figure was at least 5 percent of total recyclables.
+
+       Labor Costs Charged by Eagle Management (mid-Sept. 1994 – May 1995)
+
+        After mid-September 1994, Eagle began accumulating labor costs and other District (and PG
+County) recycling costs through its affiliated entity, Eagle Management. Eagle Management records
+of labor were also incomplete. Eagle produced “time sheet edit” reports for some months, payroll
+registers for some months, and “payroll hours/earnings” reports for other months. (E.g., Eagle Exs.
+29-45, 59). OIG did not have actual time sheets or personnel files for its auditing procedures and did
+not interview any of the laborers. Between mid-September and December 1994, OIG determined
+that Eagle had incurred $166,484 in direct labor. (HEX 66T, at 16). Between January 1995 and
+April 1995, OIG determined that Eagle had incurred $166,289 in direct labor. (Id.). OIG initially
+disallowed $29,234 in labor for May 1995, but later allowed that amount on Eagle’s representation
+that DPW had delivered recyclables to its facility up to the end of April. Based on the volume of
+deliveries in the latter part of April, we allow half of the May 15 payroll amount, that is, $9,697 and
+disallow the remainder. As we found with regard to Eagle’s labor for the period February 1993
+                                                  - 18 -         Recycling Solutions, Inc., CAB No. P-377
+
+through mid-September 1994, at least 5 percent of the recyclables processed at the interim facility
+during the mid-September 1994 through the beginning of May 1995 were generated from Eagle’s
+other recycling and janitorial jobs and from commercial haulers.
+
+       Allocable and Allowable Direct Labor Costs
+
+        Based on our findings above, 95 percent of Eagle’s direct labor costs of $1,194,046
+($851,576+$166,484+$166,289+$9,697) should be allocated to the District recycling job. Thus, we
+find that Eagle’s allocable direct labor for the District recycling job equals $1,134,344. Considering
+that Eagle performed the equivalent of approximately 25 full months of work on the District
+recycling job (April 1993 through April 1995, since the quantity of recyclables for February through
+April 1993 equal almost one full month), Eagle had a direct labor average of $45,374 per month.
+We find this to be unreasonable. Eagle’s BAFO proposed direct labor (including project
+management) of $408,444 (monthly average of $34,037) for the first year and $424,455 (monthly
+average of $35,371) for the second year. Eagle’s actual direct labor exceeds its proposed amount by
+$301,445, almost 30 percent. We find three primary reasons for the actual labor to be significantly
+higher than the proposed labor costs: (1) the extra effort entailed in separating the newspaper from
+the other commingled materials; (2) Eagle’s recycling operation entailed significantly less automated
+procedures and systems than Eagle had stated in its proposal and that were required by the statement
+of work; and (3) by processing at its Capitol Heights facility and CWI’s Olive Street facility, Eagle
+labor was inefficiently committed to the recycling work and often involved Eagle transferring
+recyclable materials between the two facilities with the attendant additional handling costs. We find
+that Eagle and the District bear equal responsibility for the added labor costs. Accordingly, of the
+$301,445 of labor beyond Eagle’s BAFO cost and pricing data which were a component directly
+supporting the invalid contract’s unit prices, $150,722.50 should be the responsibility of the District
+and $150,722.50 should be the responsibility of Eagle. Based on this assignment, Eagle is entitled to
+recover $983,622 for allowable labor costs under D.C. Code § 1-1182.5(d)(2).
+
+       B.      Eagle Labor Fringe Benefits Cost
+
+        Eagle's BAFO identifies a labor burden rate of 22 percent consisting of FICA (7.65%),
+FUTA (.80%), SUTA (2.50%), worker’s compensation (5.50%), and liability insurance (5.55%).
+Total labor burden costs for the base year were estimated at $89,857.77, based on a direct labor base
+of $408,444.40. (PCX 21).
+
+         In its 1996 submission, Eagle claimed fringe benefits totaling $325,759, for the period
+February 1993 through mid-September 1994 using the temporary labor and labor distribution as the
+direct labor base. For the remaining period of September 1994 through April of 1995, Eagle’s fringe
+benefit costs are subsumed in the $1,000,851 claimed by Eagle as subcontract costs charged by
+Eagle Management.
+
+       Of the $325,759 in claimed fringe benefits, OIG disallowed $137,646, consisting of the
+component of fringe benefits relating to the disallowed temporary labor and nearly all of the
+amounts that Eagle claimed for vacation, sick, and holiday leave for the reason that Eagle, with one
+exception (one supervisor earned $1,166 in leave during the performance period), never paid leave
+amounts to its workers on the District recycling job. (HEX 65A, at 5, 7, 8-9). Thus, OIG allowed a
+                                                  - 19 -          Recycling Solutions, Inc., CAB No. P-377
+
+total of $188,113 in fringe benefit costs on the labor distribution ($851,576) base. Applying the
+ratio of allowable total direct labor ($983,622) to the total direct labor base used by OIG
+($1,134,344), to OIG’s fringe benefit figure of $188,113 (for the period 1993 through mid-
+September 1994), we find that allowable fringe benefit costs equal $163,118.
+
+        Based on our review of the income statements for Eagle Management for the periods
+September through December 1994 (HEX 66T) and January through May 1995 (HEX 66U), we find
+unadjusted total fringe benefits of $40,784 and $80,498 for the respective periods. These figures
+must first be adjusted to account for Eagle Management’s two projects (the District recycling job
+and the PG County recycling job). By applying ratios of District recycling labor to PG County
+recycling labor for each of those periods, we find the District recycling job’s share of fringe benefits
+to be $27,765 and $49,289, for a total of $77,054. This amount must be further adjusted to account
+for the unallowable portion of labor for which Eagle is responsible. By applying the ratio of
+allowable total direct labor ($983,622) to the total direct labor base used by OIG ($1,134,344), we
+find the allowable and allocable share of fringe benefits to be $66,816 for the period September 1994
+through the beginning of May 1995. Based on the adjusted labor base for that period of $296,965
+($342,470 times the ratio for accounting for unallowable labor), the fringe benefit rate comes to
+approximately 22.5 percent, which is consistent with the 22 percent we found allowable for the labor
+distribution base covering the period February 1993 through mid-September 1994. Both rates are
+consistent with the 22 percent rate set forth in Eagle’s BAFO.
+
+      In sum, we find that Eagle is entitled to allocable and allowable fringe benefits costs of
+$229,934 for the entire performance period pursuant to D.C. Code § 1-1182.5(d)(2).
+
+       C.       Eagle's Other Direct Costs
+
+        Eagle has claimed other direct costs (“ODCs”) totaling $654,856, consisting of $605,052,
+summarized on Schedules 2, 2A, 3, and 3A of Eagle’s June 3, 1996 cost submission, and additional
+ODCs of $49,804 claimed by Eagle which are subsumed in the “subcontract” costs of Eagle
+Management, for the period of late 1994 through April 1995. Eagle’s Schedule 2 and 3 claimed
+costs, OIG accepted costs, and OIG questioned costs are as follows:
+
+       Other Direct Costs                       Eagle                   OIG                    OIG
+                                               Claimed                 Accepted              Questioned
+
+       Material & Supplies                      45,527                  38,750                     6,777
+       Fuel, Maintenance, Trans.               303,520                 303,520                         0
+       Equipment Rental/Repair                 140,512                 113,202                    27,310
+       Uniforms                                  3,532                   3,532                         0
+       Other Direct Costs                       82,606                  61,836                    20,770
+       Depreciation                             29,355                       0                    29,355
+
+               Totals                          605,052                 520,840                    84,212
+
+
+Within the Eagle Management costs, the following ODCs are claimed:
+                                                - 20 -         Recycling Solutions, Inc., CAB No. P-377
+
+
+
+       September through December 1994:
+
+       Transportation                          7,102
+       Materials                               3,057
+       Equipment rental                        4,478
+       ODCs (subcategory)                     10,172
+
+       January through May 1995:
+
+       Transportation                           9,447
+       Materials                                7,431
+       Equipment rental                         4,503
+       ODCs (subcategory)                       3,614
+
+       As discussed below, we find total allocable and allowable ODCs pursuant to D.C. Code § 1-
+1182.5(d)(2) of $353,635.
+
+       Material & Supplies
+
+       In its BAFO, Eagle’s estimated costs for materials and supplies are listed under the
+“Supplies” category within the Other Direct Costs schedule. (PCX 21, Cost and Pricing Data, Years
+1-5, Schedule 3). Eagle estimated $5,618 per year for such costs. For the actual two-year
+performance period, Eagle claims a total of $56,015 for material and supplies, consisting of
+$31,660.67 in 1993, $13,866.58 for the period January through October1994, and, subsumed within
+Eagle Management’s “subcontract” costs, $3,057 for the period September through December 1994,
+and $7,431 for the period January through April 1995.
+
+        In support of the claimed material and supplies costs in its 1996 cost submission, Eagle
+furnished the following: Schedule 2, which lists monthly totals for 1993; Schedule 2A, which lists
+the monthly amounts by supplier; Schedule 3, which lists monthly totals for 1994 (through October);
+and Schedule 3A, which lists the monthly amounts by supplier. (HEX 65B, Appendix 1). Eagle
+collected costs for these items under its internal cost account numbers 3800-000-44 and 3032-000-
+44. The costs claimed through Eagle Management are summarized in the September-December
+1994 and January-May 1995 income statements and attached “Detail Trial Balance” sheets. (HEX
+66T, 66U).
+
+        OIG relied on auditing of a random sampling conducted by KPMG, a subcontractor retained
+by OIG to perform auditing of Eagle’s costs, of only 9 items of materials and supplies claimed by
+Eagle in 1993, 8 items relating to Account 3800 (the DC recycling job account) and 1 item relating
+to Account 3032. KPMG found 4 of the 9 randomly selected cost items to be unsupported. (HEX
+66C; Tr. 699-717). Neither KPMG nor OIG did any further testing. Based on our review of the
+invoice records, KPMG’s and OIG’s analyses, and testimony relating to the material and supplies
+costs claimed for 1993 and 1994, we find that 2 of the remaining sample are also not properly
+recoverable or not adequately supported in the record. First, Eagle claims $1,717.80 paid to Count
+Recycling which was the portion of a $37,000 amount for a capital repair not reimbursed by Eagle’s
+                                                  - 21 -         Recycling Solutions, Inc., CAB No. P-377
+
+insurance carrier after a fire damaged Eagle’s Capitol Heights facility (HEX 66E; Tr.201, 710-712).
+ Eagle’s CFO identified a threshold of $2,500 for capitalizing rather than expensing a cost item. (Tr.
+201). Thus, if Eagle incurred a cost that was properly capitalized, then it cannot charge the full
+amount as a direct cost for the period in which it was incurred. The OIG auditors disallowed
+depreciation as an item of actual cost under D.C. Code § 1-1182.5(d)(2). In any event, Eagle did not
+establish the useful life for capital items and other information concerning allocation, so there is no
+basis for us to consider whether to allow a share of such costs. Second, we find $1,638.33 paid to
+American Express for various purchases by Noel Perez (HEX 66C; Tr. 204-207) because the record
+shows Perez did not make purchases exclusively for the District recycling job and Eagle did not
+demonstrate that the claimed purchases related to the District job. (E.g., HEX 66T, at 6; June 30,
+1997 Eagle Filing, Doc. No. 1 (PG job invoices)). Although we might disallow all material and
+supplies based on the results of the 9 randomly selected cost items, from our further review of
+original records – to the extent that they exist – including the original invoice records, voucher
+forms, and related documentation, in conjunction with Eagle’s Schedules 2A and 3A, we are able to
+find adequate documentary support for the following costs: Carter Fuel Oil ($1,451), Suburban
+Propane ($735), Direct Safety ($1,861), Maurice Electric ($631), Galanes Boxes ($4,365), Erin
+Supply ($2,434), Colliflower, Inc. ($1,222), Hydra Lift ($1,340) (original invoice and voucher
+documentation supports $1,340 rather than Eagle’s Schedule 2A claim amount of $1,242), Yadgi &
+Co. ($255), Hoffman Equipment ($3,804), Metro Rental ($214), National Capitol Industry ($352),
+Recycling, Inc. ($450), Grainger ($276), Steel & Wire Products ($586), Beltway Ford ($104),
+Structural Inst. ($78), and ACME ($110). Other claimed costs are not properly supported. The
+unadjusted total of supported costs for materials and supplies equals $20,268, which after deducting
+5 percent for the allocable share of such costs on other recycling work performed at the Capitol
+Heights facility, yields allowable and allocable materials and supplies of $19,255.
+
+        For the materials and supplies costs incurred by Eagle Management, we find adequate
+documentary support for the following costs: Steel Wire Products ($603), Colliflower, Inc. ($200),
+Erin Supply Co. ($469) (2 items totaling $405.48 were disallowed because the purchase orders show
+that they were for both the“PG [County] [and] DC” recycling jobs and were not allocated), Galanes
+Boxes ($3,110), and Direct Safety ($152). The unadjusted total of supported costs for materials and
+supplies equals $4,534, which after deducting 5 percent for the allocable share of such costs on other
+recycling work performed at the Capitol Heights facility, yields allowable and allocable materials
+and supplies of $4,307.
+
+        Apparently, neither KPMG nor OIG in its review of KPMG’s work, analyzed the
+undifferentiated claim amounts under the category of “Other” or “Other Reimbursements” found on
+Eagle’s Schedules 2A and 3A. Pursuant to Board request, Eagle submitted separate documentation
+to support certain miscellaneous claimed amounts for materials and supplies listed as “Other” or
+“Other Reimbursements” on Eagle’s Schedules 2A and 3A. For the material and supplies cost
+account 3800-000-44, Eagle identifies costs of $1,361.19. We find that the contemporaneous
+portions of the documentation for these cash transactions do not adequately show that the costs were
+incurred solely for the District recycling job or paid by Eagle. We find the amounts neither allocable
+nor allowable.
+
+       The costs involved in this materials and supplies category do not appear to be the type that
+would be affected by Eagle’s inadequate facilities and the inefficiencies in conducting the processing
+                                                   - 22 -          Recycling Solutions, Inc., CAB No. P-377
+
+operation at multiple locations and in hauling materials between locations. Accordingly, we make
+no deductions and find the total allowable and allocable costs for materials and supplies is $23,562.
+
+        Fuel, Maintenance, Transportation
+
+        In its BAFO, Eagle’s proposed costs related to fuel, maintenance, and transportation under
+the “Repair and Maintenance” category within the Other Direct Costs schedule. (PCX 21, Cost and
+Pricing Data, Years 1-5, Schedule 3). Eagle proposed $18,000 per year for such costs. For the
+actual two-year performance period, Eagle claims a total of $319,983 for fuel, maintenance, and
+transportation, consisting of $26,399.24 in 1993, $277,035 for the approximate period of January
+through October1994, and, subsumed within Eagle Management’s “subcontract” costs, $7,102 for
+the period September through December 1994, and $9,447 for the period January through April
+1995.
+
+        In support of its claimed fuel, maintenance, and transportation costs, Eagle furnished with its
+1996 claim letter the following: Schedule 2, which lists monthly totals for 1993, Schedule 2A,
+which lists the monthly amounts by supplier, Schedule 3, which lists monthly totals for 1994 (the
+bulk of the costs through August), and Schedule 3A, which lists the monthly amounts by supplier.
+(HEX 65B, Appendix 1). Eagle collected costs for these items under its internal cost account
+numbers 3800-000-43 and 3032-000-43. The costs claimed through Eagle Management are
+summarized in the September-December 1994 and January-May 1995 income statements and
+attached “Detail Trial Balance” sheets. (HEX 66T, 66U).
+
+         OIG relied on auditing of a random sampling conducted by KPMG of 20 items of fuel,
+maintenance, and transportation costs claimed by Eagle in 1993 and 1994. KPMG found all 20
+randomly selected cost items to be supported. (HEX 66C, 66K; Tr. 694). The OIG auditor stated
+that to verify that the fuel charges related to the District recycling job rather than another Eagle job,
+she relied, for example, on Eagle’s representation that Noel Perez signed for the fuel and that “he
+only drove a truck for the D.C. recycling job . . . .” (Tr. 695-696). As we have discussed earlier, at
+the hearing, Eagle’s representative conceded that Mr. Perez made acquisitions for other Eagle jobs
+besides the District recycling job. (Tr. 204-207). The documentary evidence bears that out. (E.g.,
+HEX 66T, at 6). Based on our review of the invoice records, KPMG’s and OIG’s analyses, and
+testimony relating to the fuel, maintenance, and transportation costs claimed on Schedule 2A for
+1993, we find the 1993 costs, prior to the allocation adjustment, are supported in the amount of
+$25,452. The items of cost for the category of “Other” are unsupported. Based on our review of the
+invoice records, KPMG’s and OIG’s analyses, and testimony relating to the fuel, maintenance, and
+transportation costs claimed on Schedule 3A for 1994, we find that those 1994 costs totaling
+$196,869 are supported as follows: D&D Tires ($111), Friend’s Tire ($8,340), Suburban Propane
+($2,471), Macks, Inc. ($861), Brent Trucking ($48,300 consisting of 3/10/94 invoice no. 6133
+($38,400), 4/25/94 invoice no. 6339 ($8,700), and 6/25/94 invoice no. 6797 ($1,200)), Fannon
+Petroleum ($1,412), CWI ($131,524), and MGM Transportation ($3,850). The CWI invoices
+charged to cost account 3800-000-43 were supportable for the following amounts which total
+$146,138: invoice no. 5114 ($2221.76), invoice no. 5115 ($4,320), invoice no. 5116 ($1,050),
+invoice no. 5112 ($2,250), invoice no. 5251 ($10,710), invoice no. 5254 ($1,414), invoice no. 5253
+($0), invoice no. 5377 ($1,270.50), invoice no. 5376 ($7,191), invoice no. 5375 ($22,860), invoice
+no. 5500 ($1,113), invoice no. 5115 ($4,320), invoice no. 5499 ($23,495), invoice no. 5498
+                                                 - 23 -         Recycling Solutions, Inc., CAB No. P-377
+
+($16,730), invoice no. 5636 ($1,193), invoice no. 5635 ($23,469.40), and invoice no. 5634
+($22,530). We disallow 10 percent of these CWI costs, resulting in allowable CWI costs of
+$131,524, due to the inefficiencies of Eagle’s operation which resulted in additional hauling of
+recyclables between Eagle’s Capitol Heights facility and the CWI facility it was using at Olive
+Street. The items of cost for “AMEX – Fuel”, Nations Bank, Waste Management (not shown to be
+dedicated to the District job, see HEX 66U, Detail Trial Balance, at 33), and the category of “Other”
+are unsupported. The costs for fuel, maintenance, and transportation in 1993 and 1994 equals
+$222,321, which after deducting 5 percent for the allocable share of such costs on other recycling,
+yields allowable and allocable fuel, maintenance, and transportation costs of $211,205.
+
+        For the fuel, maintenance, and transportation costs incurred by Eagle Management in 1994,
+we find adequate documentary support for the following costs: MGM Brokerage Service ($3,100)
+and Count Recycling Systems ($3,371). The unadjusted total of supported costs for fuel,
+maintenance, and transportation equals $6,471, which after deducting 5 percent for the allocable
+share of such costs on other recycling work, yields allowable and allocable fuel, maintenance, and
+transportation of $6,147. For the fuel, maintenance, and transportation costs incurred by Eagle
+Management in 1995, we find adequate documentary support for the costs totaling $9,447, which
+after deducting 5 percent for the allocable share of such costs on other recycling work, yields
+allowable and allocable fuel, maintenance, and transportation of $8,975. Total allowable and
+allocable fuel, maintenance, and transportation costs listed under Eagle Management equals $15,446.
+
+       In sum, total allowable and allocable fuel, maintenance, and transportation costs for Eagle
+equals $226,651.
+
+       Equipment Rental/Repair
+
+        In its BAFO, Eagle’s proposed yearly costs of $108,000 related to equipment within the
+Other Direct Costs schedule. (PCX 21, Cost and Pricing Data, Years 1-5, Schedule 3). In the
+BAFO, equipment repair probably was included in the “Repair and Maintenance” category. Thus,
+there is not a precise match between BAFO cost categories of “Repair and Maintenance” and
+“Equipment” with the costs accounts, “Fuel, Maintenance, and Transportation” and “Equipment
+Rental/Repair,” actually used by Eagle during performance. For the actual two-year performance
+period, Eagle claims a total of $149,493 for equipment rental/repair, consisting of $72,475 in 1993,
+$68,037 for the period of January through November 1994, and, subsumed within Eagle
+Management’s “subcontract” costs, $4,478 for the period September through December 1994, and
+$4,503 for the period January through April 1995.
+
+         In support of its claimed equipment rental/repair costs, Eagle furnished with its 1996 claim
+letter the following: Schedule 2, which lists monthly totals for 1993, Schedule 2A, which lists the
+monthly amounts by supplier, Schedule 3, which lists monthly totals for 1994), and Schedule 3A,
+which lists the monthly amounts by supplier. (HEX 65B, Appendix 1). Eagle collected costs for
+these items under its internal cost account numbers 3800-000-45 and 3032-000-45. The costs
+claimed through Eagle Management are summarized in the September-December 1994 and January-
+May 1995 income statements and attached “Detail Trial Balance” sheets. (HEX 66T, 66U).
+
+       OIG relied on auditing of a random sampling conducted by KPMG of 19 items of equipment
+                                                  - 24 -          Recycling Solutions, Inc., CAB No. P-377
+
+rental/repair costs claimed by Eagle in 1993 and 1994. KPMG found 17 of the 19 cost items to be
+supported. (HEX 66C, 66K). The two disallowed items were charges to American Express Green
+totaling $7,310. (HEX 66K; 65A, at 5). The OIG auditors in their review disallowed one more of
+the 19 items selected, a $20,000 cost paid to Gershman, Grickman & Bratton, Inc. (“GBB”) (see
+Eagle Schedule 2A; HEX 66G), which was not for equipment rental but rather for consulting on the
+new intermediate processing facility. (Tr. 735-736; 213-214). OIG separately determined that all
+costs relating to the design and construction of Eagle’s new District-based processing facility were
+unallowable. OIG thus agreed with KPMG that 16 of the 19 randomly selected items were
+allowable.
+
+        Based on our review of the random sample, we find the following additional items
+unallowable: (i) the amount of $10,842.10 paid to Mid-Atlantic Waste Systems for “glass crusher(s)
+machinery” is unallowable because the cost is not a rental cost but a capital acquisition that
+benefited Eagle beyond the District recycling job and for which Eagle has provided no basis for
+allocation (HEX 66G; Tr. 212-213); (ii) the amount of $3,975.74 paid to NationsBank of Delaware
+based on a statement listing an annual fee, a “Transfer Misapplied Pymt”, four unspecified charges
+from Beltsville Rental, a prior balance credit of $390.01, and a payment of $2,692.83. Thus, we find
+5 of the 19 randomly selected items, totaling $42,128, to be unallowable.
+
+        Based on our review of the invoice records, KPMG’s and OIG’s analyses, and testimony
+relating to the equipment rental/repair costs claimed on Schedule 2A and 3A for 1993 and 1994, we
+find costs, prior to the allocation adjustment, are supported as follows: Count Recycling ($64,040);
+Orix Credit ($2,012); Suburban Propane ($43); Hydra Lift ($935); Colonial Pacific ($4,637); Oxon
+Hill Rental ($3,451); and Metro Rental ($7,707). The 3 invoice charges for Idealease ($915) were
+disallowed because although the vouchers charge the 3 invoices to the District recycling job, the 2
+invoices that have the rental agreement attached list the drivers as Vaundervilt C. Simmons and
+Lawrence Maynard. These two individuals were drivers for the PG County recycling job during that
+time period. (Eagle Ex. 11, at 43, 56; Eagle Ex. 12, at 45, 58). The costs claimed for Toyota Motor,
+Waste Management AMEX, Nations Bank, and the category of “Other” are unsupported and thus
+unallowable. The unadjusted costs for equipment rental/repair in 1993 and 1994 equal $82,825,
+which after deducting 5 percent for the allocable share of such costs on other recycling jobs, yields
+allowable and allocable equipment rental/repair costs of $78,684.
+
+        For the equipment rental/repair costs incurred by Eagle Management in 1994 and 1995, we
+find adequate documentary support for the claimed costs of $8,981 which after deducting 5 percent
+for the allocable share of such costs on other recycling jobs, yields allowable and allocable
+equipment rental/repair costs listed under Eagle Management of $8,532. The equipment
+rental/repair costs do not appear to be the type that would be affected by Eagle’s inadequate facilities
+and the inefficiencies in conducting the processing operation at multiple locations and in hauling
+materials between locations.
+
+       In sum, total allowable and allocable equipment rental/repair costs for Eagle equals $87,216.
+
+
+
+       Other Direct Costs (Subcategory)
+                                                 - 25 -          Recycling Solutions, Inc., CAB No. P-377
+
+
+
+        Eagle did not include in its BAFO cost schedules a subcategory of “Other Direct Costs”
+within the general category of “Other Direct Costs.” For the actual two-year performance period,
+Eagle claims a total of $96,392 for the ODCs subcategory, consisting of $33,389 in 1993, $49,217
+for the period of January through November1994, and, subsumed within Eagle Management’s
+“subcontract” costs, $10,172 for the period September through December 1994, and $3,614 for the
+period January through April 1995.
+
+        In support of its claimed ODC costs, Eagle furnished with its 1996 claim letter the following:
+ Schedule 2, which lists monthly totals for 1993, Schedule 2A, which lists the monthly amounts by
+supplier, Schedule 3, which lists monthly totals for 1994, and Schedule 3A, which lists the monthly
+amounts by supplier. (HEX 65B, Appendix 1). Eagle collected costs for these items under its
+internal cost account numbers 3800-000-49 and 3032-000-49. The costs claimed through Eagle
+Management are summarized in the September-December 1994 and January-May 1995 income
+statements and attached “Detail Trial Balance” sheets. (HEX 66T, 66U).
+
+       OIG relied on auditing of a random sampling conducted by KPMG of 18 items of ODC costs
+claimed by Eagle in 1993 and 1994. KPMG found 10 of the 18 cost items to be supported. (HEX
+66C, 66K). The auditors disallowed items from Wamo Welding, American Express Green,
+Overhead Door, and Robert McCall, in the total amount of $20,770.
+
+       Based on our review of the random sample, we find the amounts of $8,000 and $4,609 paid
+to Design-Build Contracting for roof repairs, $4,700 paid to Wamo Welding for welding at the
+Capitol Heights facility, and $5,500 paid to Nathan Dorsey, to be unallowable because those costs
+are capital improvements that benefited Eagle beyond the District recycling job. (HEX 66C; Tr.
+215-217).
+
+        Based on our review of the invoice records, KPMG’s and OIG’s analyses, and testimony
+relating to the ODCs claimed on Schedule 2A and 3A for 1993 and 1994, we find costs charged to
+the ODC accounts 3800-000-49 and 3032-000-49, prior to the allocation adjustment, are supported
+as follows: First Page ($166.50); District International ($226.66); McLean Rental ($241.43);
+Hirrlinger Electric ($1,823.43) ($173.25 deducted because amount erroneously charged to the
+District recycling job); D&D Tire ($236.98), Paradise Unlimited ($433.58); Hydra Lift
+($11,997.22); Bay Scale ($9,399); Strickland Fire ($2,040); and Simplex ($90.05). (HEX 66C, 66D,
+66K, 66I, 66J, 66P). The costs claimed for Design-Build Contracting, Wamo, AMEX, Nations
+Bank, Pepco, Bernie Ind., WSSC, Mid-Atlantic Waste Systems, Robert McCall, Overhead Door, and
+the categories of “Other” are unsupported and unallowable. We have reduced the credit amount of
+$29,085.39 appearing in the 1993 account 3800-000-49 “Other” category by $15,875.21, the sum of
+the claim amounts for that category, since we have found the claim amounts unsupported and
+unallowable. In sum, the unadjusted costs for ODCs in 1993 and 1994 equal $13,445, which after
+deducting 5 percent for the allocable share of such costs on other Eagle jobs, yields allowable and
+allocable ODCs of $12,773.
+
+        For the claimed ODCs incurred by Eagle Management in 1994 and 1995, we find adequate
+support in the record for the costs of ABC Burglar Alarm ($81.90), which after deducting 5 percent
+for the allocable share of such costs on other recycling jobs, yields allowable and allocable ODCs
+                                                 - 26 -         Recycling Solutions, Inc., CAB No. P-377
+
+listed under Eagle Management of $78. We find the remaining claimed costs, including those for
+invoices from Bell Atlantic, WSSC, Ernest Roland, Aundra Williams/DC Drop Off, and Adolphus
+McLean, to be unsupported and unallowable. (HEX 66T, 66U, 66Z). The costs allowed in this
+subcategory of ODCs do not appear to be the type that would be affected by Eagle’s inadequate
+facilities and the inefficiencies in conducting the processing operation at multiple locations and in
+hauling materials between locations. Therefore, we make no further deductions.
+
+       In sum, total supported costs under the ODCs subcategory for Eagle equals $12,851.
+
+       Uniforms
+
+        Eagle claims costs of $3,532 relating to uniforms. Based on our review of the record, we
+find the costs for uniforms to be supported, and after allocating 5 percent for other Eagle jobs, we
+find allowable and allocable uniform costs in the amount of $3,355.
+
+       Depreciation
+
+       Eagle claimed depreciation costs of $29,355 on Schedule 3 for 1994. The OIG auditors
+determined that depreciation was not an allowable cost and Eagle agreed with that determination.
+(HEX 65A, at 7 (Note 3); Tr. 697-698, 726-728).
+
+       D.      Eagle Subcontractor Costs
+
+        Excluding the “subcontract” costs of $423,458 and $577,307 arising from Eagle
+Management for September through December 1994 and January through May 1995, Eagle has
+claimed subcontract costs of $675,215 summarized on Schedules 2 and 2A for 1993, and $176,193
+summarized on Schedules 3 and 3A mainly for January through August 1994. When Eagle
+transferred the District recycling job to Eagle Management, what before was Eagle Maintenance’s
+labor, ODCs, and subcontract costs, became Eagle Management’s labor, ODCs, and subcontracts
+costs. However, Eagle Management billed Eagle for all of these costs on a monthly basis and Eagle
+Maintenance treated Eagle Management’s monthly billings as “subcontract” costs since it viewed
+Eagle Management as a subcontractor. Thus, the $423,458 of “subcontract” costs claimed through
+Eagle Management for September through December 1994 (HEX 66T), and $577,307 of
+“subcontract” costs claimed through Eagle Management for January through May 1995 (HEX 66U),
+contain not only the subcontract vendors but also Eagle Management’s labor, ODCs, “Overhead
+Expenses”, and G&A expenses. In our earlier treatment of labor costs and ODCs, we have
+disregarded the Eagle Management structure as a separate entity in accord with OIG’s similar
+findings and instead, we extracted the labor and ODC components from Eagle Management records
+and added them to the labor and ODCs generated by Eagle Maintenance so that each cost category
+contains all labor and all ODCs regardless of whether it was incurred under Eagle Maintenance or
+Eagle Management. To be consistent, we do the same with regard to subcontract costs.
+
+       In order to isolate the true subcontract costs, we extract the subcontract costs from Eagle
+Management’s income statements. The actual claimed subcontract costs (arising from the outside
+vendors) are contained in Eagle Management cost account 42502 (entitled “Subcontractors DC
+Recy”) for the District recycling job. Claimed subcontract costs for the period September through
+                                                  - 27 -         Recycling Solutions, Inc., CAB No. P-377
+
+December 1994 appearing on Eagle Management’s income statement total $164,151.62. (HEX
+66T). Claimed subcontract costs for the period January through May 1995 appearing on Eagle
+Management’s income statement total $203,477.83. (HEX 66U). Accordingly, actual claimed
+subcontract costs for the entire performance period from vendors outside of Eagle Maintenance and
+Eagle Management total $1,219,038 (i.e., $675,215+$176,193+$164,152+$203,478).
+
+        OIG, in its final audit report, questioned $35,000 of $851,408 subcontract costs for the period
+1993 through approximately August 1994. OIG questioned none of $379,671 in subcontract costs
+for the Eagle Management period of September 1994 through May 1995. OIG also disallowed a net
+profit of $18,833 appearing on Eagle Management’s income statements for the period September
+1994 through May 1995 because profit is unallowable under D.C. Code § 1-1182.5(d)(2). (HEX
+65A, at 7 (note 5)). As discussed below, we find total allocable and allowable subcontract costs of
+$563,854 pursuant to D.C. Code § 1-1182.5(d)(2).
+
+         Initially, the OIG auditors employed KPMG to audit subcontract costs. After reviewing the
+initial OIG audit report, the Board was not satisfied with the level of documentation obtained from
+Eagle and the level of auditing performed with regard to subcontracts. For example, neither KPMG
+nor OIG was aware of the existence of Eagle’s recycling division and affiliated company, Eagle
+Management, and that Eagle had transferred the District recycling job to this division in roughly
+September 1994. (Tr. 801-802). We directed Eagle to produce copies of the subcontracts, invoices
+and vouchers, and, for the two largest subcontractors, Eagle Management and CWI, we ordered the
+production of additional documentation such as correspondence and additional cost records. We
+directed the OIG to supplement its auditing to include analyzing whether Eagle’s claimed
+subcontract costs were properly allocable to the District recycling job. OIG produced an interim
+audit report and ultimately its final audit report. (HEX 65A). Some background is useful for
+understanding how and why Eagle incurred subcontract costs and how Eagle accounted for such
+incurred costs.
+
+         For the period from late March 1993 through approximately September 1994, Eagle
+Maintenance, the parent company, was the cost center for all costs incurred on the District recycling
+job, its other recycling jobs (including the PG County hauling contract), and its janitorial jobs.
+According to Eagle, in September 1994, Eagle Maintenance transferred its recycling jobs to its
+affiliated company, Eagle Management. Thus, Eagle recycling workers were transferred for cost
+purposes to Eagle Management. All labor, acquisitions, repairs, maintenance, and subcontracting for
+recycling were recorded on the books of Eagle Management, although some residual ODCs were
+recorded in the parent company’s cost accounts during the period September through December
+1994. There were two principal recycling jobs showing accumulation of costs under Eagle
+Management cost accounts, the District job and the PG County job. A third job, Waste
+Management, also appears in the cost records. In line with what Eagle did during the period of April
+1993 through September 1994, the District recycling job cost accounts continued to incur costs
+under the ODC and subcontractor costs categories in support of Eagle’s other smaller recycling jobs.
+ The cost allocations between the District job and the PG County job are more clearly seen in the
+Eagle Management cost records during the period September 1994 through May 1995 than can be
+discerned in Eagle Maintenance’s costs records for the period of approximately April 1993 through
+September 1994.
+                                                - 28 -          Recycling Solutions, Inc., CAB No. P-377
+
+       1.      Subcontracted Hauling Services
+
+        For the entire two-year performance period, Eagle Maintenance and Eagle Management cost
+records show collectively that subcontracted hauling services were the single largest category of
+costs claimed on the District recycling job. The claimed costs for hauling, totaling $1,301,288, are
+mainly captured under the subcontracts category, which accounted for $1,049,570 in claimed
+hauling costs. In addition, as seen in the ODCs category discussed earlier, a significant amount of
+subcontracted hauling costs were also charged under the ODC subcategory of fuel, maintenance, and
+transportation. Total charges of $251,718, consisting of CWI ($175,360), Brent Trucking ($72,508),
+and MGM Brokerage/Transport ($3,850), were made to this account. Of the $1,049,570 in hauling
+costs charged to subcontracting costs accounts, $707,206 is charged under the subcontracting
+accounts of the parent company, Eagle Maintenance, and the remaining $342,364 is charged to
+subcontracting cost accounts of Eagle Management. The hauling amounts claimed under Eagle
+Maintenance subcontracts cost accounts 3800-000-46 and 3032-000-46, totaling $707,206, are as
+follows: CWI ($442,473), Brent Trucking ($95,100), Rogers Brothers ($80,775), Georgetown
+Express ($67,375), MGM Brokerage/Transport ($10,243), Laidlaw ($9,468), and Waste
+Management ($1,772). The hauling amounts claimed under Eagle Management subcontracts cost
+account 42502 for September to December 1994 are limited to one subcontractor, CWI ($154,098).
+The hauling amounts claimed under Eagle Management subcontracts cost account 42502 for January
+to April 1995 are also limited to the same subcontractor, CWI ($188,266). Thus, the hauling costs
+by vendor are as follows: CWI ($860,197, consisting of $784,837 charged as subcontract costs and
+$175,360 charged as ODCs), Brent Trucking ($167,608, consisting of $95,100 charged as
+subcontract costs and $72,508 charged as ODCs), Rogers Brothers ($80,775), Georgetown Express
+($67,375), MGM Brokerage/Transport ($14,093, consisting of $10,243 charged as subcontract costs
+and $3,850 charged as ODCs), Laidlaw ($9,468), and Waste Management ($1,772).
+
+       Eagle’s BAFO cost and pricing data does not show any category for subcontract costs and
+does not appear to have any hauling costs incorporated in its ODC category. (PCX 21, Schedule 3
+for Years 1-5). Under the solicitation and contract, Eagle would have expected the need to haul and
+dispose of approximately 15 percent of all recyclables collected because this was an estimated
+percentage of recyclables that would be unmarketable and thus treated as trash, also known as
+“bypass” in the industry’s parlance. Eagle also would have incorporated into its labor estimates the
+manpower needed to sort the newspaper from the other collected recyclables and load the newspaper
+onto District-provided trucks. For hauling non-paper recyclables to market, Eagle may have
+assumed that it would have either the marketing source or a broker pick up the recyclables who
+would in turn deduct the transportation cost from the market revenue provided to Eagle.
+
+        To determine the reasonableness of the hauling costs claimed by Eagle, we must determine
+the types of hauling for which Eagle contracted, the approximate amounts hauled, and reasonable
+costs per ton for such hauling. The record reveals four main types of hauling which Eagle
+subcontracted to various hauling contractors. First, was the hauling of newspaper from Eagle’s
+Capitol Heights facility and CWI’s Olive Street facility to the District’s newspaper market, Capitol
+Fiber. Second, Eagle contracted for the hauling of unmarketable materials to landfills. Third, Eagle
+contracted a limited amount of hauling of non-paper recyclables to various markets. Fourth, Eagle
+contracted with CWI to haul materials from the Olive Street facility to its Capitol Heights facility
+and from its Capitol Heights facility to CWI’s Olive Street facility. Based on the data collected by
+                                                  - 29 -          Recycling Solutions, Inc., CAB No. P-377
+
+Ms. Hallie Clemm of DPW, we can determine the approximate tons of hauling that Eagle was
+required to perform under the invalid contract and then compare that with the hauling it claims it
+performed solely for the District job.
+
+        First, we consider the hauling of newspaper to Capitol Fiber. Under the statement of work,
+the District was responsible for hauling the newspaper from Eagle’s Capitol Heights facility to
+Capitol Fiber, but, because of problems with the DPW truck fleet, the District was hauling only just
+over one half of the newspaper to Capitol Fiber. During the first year of performance, Eagle
+voluntarily transported the newspapers not being hauled by the District. During the second year of
+performance, Eagle expected the District to pay Eagle for this extra service. We believe that Eagle
+did not demand payment during the first year for such newspaper hauling because the District was
+paying Eagle not only the $15 per ton newspaper transfer fee but also the full $60 per ton processing
+fee on both newspaper and all other recyclables on the basis that since the District collected all
+recyclables together without having separate compartments for newspapers and the other
+recyclables, all the material was “commingled recyclables.” This separating was more than the
+sorting and loading operation contemplated by the statement of work. Since contract payments have
+no meaning in a determination under D.C. Code § 1-1182.5(d)(2), it would be unfair to find that
+Eagle volunteered to provide the newspaper hauling in the first year without compensation. As we
+previously found, Eagle had to haul to Capitol Fiber approximately 45 percent of the newspapers for
+1993 and approximately 55 percent of the newspaper for the remaining performance period. Based
+on the quantity of marketed newspapers, we previously found that Eagle thus had to transport to
+Capitol Fiber 4,681 tons of newspaper during 1993 and 11,821 tons of newspaper during the
+remainder of the performance period. Thus, Eagle subcontracted for the hauling of approximately
+16,502 tons of newspaper to the paper market, mainly Capitol Fiber, during the entire performance
+period. It also appears from the record that Eagle subcontracted with CWI to perform a substantial
+majority of this newspaper hauling. (HEX 65B, Appendix 1, Attachment 1 (June 28, 1996 letter
+from Paul D. Furby to Mahamad K. Yusuff); Tr. 52).
+
+         Second, we consider the amount of unmarketable materials/bypass that Eagle had to have
+hauled away for disposal, either at a landfill or elsewhere. The record shows that for the entire
+performance period, Eagle had to have haulers dispose of a total of 9,593 tons of unmarketable
+recyclables. (HEX 1A). Third, there was a total of 9,779 tons of marketable materials other than
+paper, consisting of 125 tons of marketed aluminum, 1,525 tons of marketed plastic, 63 tons of
+marketed steel, and 8,066 tons of marketed glass. (HEX 1A). Eagle’s records do not show how
+much of this material was transported to markets by Eagle subcontractors and how much was
+transported to markets by the market entities themselves or by market brokers. Fourth, there was an
+unknown quantity of materials hauled back and forth between Eagle’s Capitol Heights facility and
+CWI’s Olive Street facility. Eagle’s records do not show how much material was hauled between
+the facilities. The evidence shows that because of Eagle’s own facility problems it subcontracted
+with CWI to perform hauling that in certain respects was very inefficient. A significant quantity of
+DPW delivered materials were taken directly to CWI’s facility. It appears that Eagle personnel
+separated the newspapers from the other commingled material. CWI would then transport the
+newspaper to Capitol Fiber and the remaining material was hauled back to Eagle’s Capitol Heights
+facility for processing because only Eagle’s facility had the mechanical sort lines. After processing,
+Eagle might have CWI haul the unmarketable material back to CWI’s facility where it would be
+loaded onto tractor trailers and then transported by CWI to a landfill or other disposal site. (Tr. 355-
+                                                  - 30 -         Recycling Solutions, Inc., CAB No. P-377
+
+356, 371-372). Because Eagle’s facility as represented in its proposal should have been sufficient to
+handle all of the DPW-delivered materials, but was not due to various facility and storage problems
+and inefficiencies in the processing operations, we find that the portion of Eagle’s costs associated
+with hauling between Eagle’s facility and CWI’s facility are unreasonable and unallowable costs
+under D.C. Code § 1-1182.5(d)(2).
+
+       CWI
+
+        Eagle claims $784,837 in subcontract costs paid to CWI for services relating to the District
+recycling job. In its June 28, 1996 response to an inquiry from the OIG auditors, Eagle described
+CWI’s subcontract effort as involving “processing and transfer of newsprint, hauling newsprint,
+hauling materials to market, and hauling by-pass for disposal.” In his hearing testimony, Eagle’s
+Mr. Tynes denied that CWI personnel performed any processing at the CWI Olive Street facility.
+Rather, Eagle used its own personnel to sort the paper from the other commingled recyclables and
+CWI merely hauled the newspaper to Capitol Fiber.
+
+         Mr. Tynes could not recall the specific subcontract arrangement or arrangements he had with
+CWI. The written record indicates that there were several different arrangements during the 2-year
+performance period. The first arrangement was evidenced by a written memorandum of
+understanding (“MOU”) in May 1993 between Tynes of Eagle and Wilton Lash of CWI. Although
+Tynes initially was not aware of any written agreement between Eagle and CWI, the agreement
+surfaced during the proceedings. There were also other arrangements for pricing of various types of
+hauling and weighing of trucks for the period from 1994 to 1995, but no documentation has been
+produced clearly evidencing these arrangements. Some information concerning the arrangements
+can be gathered from CWI’s invoices, Eagle’s markups of those invoices, and, with respect to tractor
+trailer loads, a letter submitted by CWI with some of its invoices explaining the derivation of tractor
+trailer pricing.
+
+       1993 MOU Payments
+
+         Eagle seeks $333,892 for payments to CWI pursuant to the May 1993 MOU under which
+CWI received 5,137 tons of recyclables delivered by DPW during the period May through
+September 1993. Based on the record documentation, approximately 67 percent of the 5,137 total
+tons of recyclables delivered to CWI by DPW trucks during this period consisted of newspaper.
+(HEX 12, 14). Thus, newspaper totaled 3,442 tons while non-paper recyclables totaled 1,695 tons.
+As provided in the MOU, Eagle agreed to pay CWI $65 per ton for all recyclables received at the
+Olive Street facility while Eagle would receive from CWI a “tipping fee” amount of $30 per ton for
+the non-paper recyclables. Deducting the $30 tipping fee from the $65 per ton fee, for the non-paper
+recyclables, results in a price of $35 per non-paper ton which Eagle paid to CWI. However, Eagle’s
+Mr. Tynes stated that all labor associated with District recyclables was provided by Eagle
+employees, not CWI employees. Eagle employees separated the newspaper from the non-paper
+recyclables and the non-paper recyclables were hauled by CWI back to Eagle’s Capitol Heights
+facility where Eagle employees processed the material. We find that the $35 price per ton for non-
+paper recyclables represented a facility cost of $17 per ton charged by CWI for Eagle’s use of its
+facility and a hauling cost of $18 per ton based on evidence showing that Eagle obtained
+transportation of newspaper from CWI at $18 per ton for 30 yard pulls (e.g., $90 per 30 yard pull
+                                                 - 31 -          Recycling Solutions, Inc., CAB No. P-377
+
+holding about 5 tons). Eagle incurred the facility expense because of the various facility, equipment,
+and personnel start-up difficulties described earlier that it encountered from March through
+September 1993. Under the actual cost standard of D.C. Code § 1-1182.5(d)(2), the District is not
+responsible for Eagle’s cost of using CWI’s facility under the circumstances presented here and such
+costs are thus disallowed. Moreover, Eagle’s payment documentation shows the $65 per ton
+payment from Eagle to CWI, but Eagle has not disclosed or made a credit for the $30 tipping fee
+provided by CWI to Eagle under the MOU. The OIG auditors were not aware of the existence of the
+MOU when they conducted their cost audit and did not investigate Eagle’s revenues for applying the
+MOU credit. Thus, for the 1,695 tons of non-paper recyclables brought to Olive Street, we find that
+Eagle is not entitled to hauling costs of $30,510 because Eagle should have been able to accept all
+such materials at its own facility and the hauling from CWI to Eagle’s Capitol Heights facility is not
+a reasonable cost for which the District should be responsible. Moreover, since processing was
+performed by Eagle employees (separation at CWI’s facility and processing at Eagle’s facility) and
+that labor has been accounted for under the direct labor costs discussed earlier, no additional labor
+costs are recoverable by Eagle for these non-paper recyclables.
+
+        For newspapers, Eagle also claims the full $65 per ton. Eagle was paying $65 per ton to
+CWI for receiving the newspaper and transporting it to Capitol Fiber. According to Mr. Tynes’
+testimony, CWI did not separate the newspaper from the non-paper recyclables since this was
+performed by Eagle employees only. (Tr. 114-115). With regard to the $65 per ton fee for the
+newspaper services, we similarly disallow an imputed amount of $17 per ton for CWI’s facility
+costs. The remaining $48 per ton must be for the transportation of the newspaper to the paper
+market because Mr. Tynes testified that only Eagle personnel performed the labor of separating the
+newspaper from the non-paper. We find that $48 per ton for hauling newspaper is unreasonable.
+The record shows that Eagle obtained transportation of newspaper from CWI and other venders for
+between $8 per ton (e.g., $150 per tractor trailer load holding 110 cubic yards or about 18-20 tons)
+and $18 per ton (e.g., $90 per 30 or 40 yard pull holding about 5 tons). We find a rate of $15 per ton
+as a reasonable cost because CWI’s facility supported both tractor trailers and smaller containers.
+CWI hauled approximately 3,442 tons of newspaper from the Olive Street facility to the paper
+market, which at $15 per ton, equals a total hauling cost of $51,630.
+
+       In sum, we find Eagle’s actual costs pursuant to D.C. Code § 1-1182.5(d)(2) for subcontract
+services by CWI under the May 1993 MOU during the period May through September 1993 equals
+$51,630.
+
+       Other CWI Invoice Payments by Eagle Maintenance for the period 1993-1994
+
+        There is adequate record evidence to support the 30 yard, 40 yard, and 20 yard container
+pulls by CWI found on the invoices. The record also supports costs for tractor trailer pulls and truck
+weighing costs. (E.g., HEX 48). On the other hand, the invoices also contain various “service fees”
+-- including “attempted pull” (apparently CWI came for a load but none was available), “wait time”
+(CWI waiting extra time for load to be ready), and “tickets/violations” (presumably, traffic tickets
+and the like) -- which we find to be unsupported and unallowable. (E.g., HEX 15-25, 26, 27-38).
+We find the following CWI invoice amounts, totaling $68,065 to be supported by the record:
+invoice no. 4637 ($8,623.61), invoice no. 4862 ($630), invoice no. 4984 ($90), invoice no. 4745
+($1,350), invoice no. 4986 ($1769.60), invoice no. 4988 ($196), invoice no. 4987 ($4,230), invoice
+                                                 - 32 -         Recycling Solutions, Inc., CAB No. P-377
+
+no. 4049 ($8,760), invoice no. 4171 ($17,885), invoice no. 4285 ($8,760), invoice (adjusted) no.
+4389 ($18,370), and invoice no. 4515 ($7,400.65). (HEX 3-9, 15-38). We disallow 10 percent of
+these costs, resulting in allowable costs of $61,259, due to the inefficiencies of Eagle’s operation
+which resulted in additional hauling of recyclables between Eagle’s Capitol Heights facility and the
+CWI facility it was using at Olive Street.
+
+       CWI Invoice Payments made by Eagle Management for 1994-1995
+
+        During the 1994-1995 period when Eagle Management was subcontracting with haulers and
+other vendors for the District recycling job, we find the following CWI invoice amounts, totaling
+$205,479, to be supported by the record: invoice no. 6059 ($20,237.80), invoice no. 6024
+($1,228.50), invoice no. 6453 ($16,963.90), invoice no. 6452 ($9,810), invoice no. 6574 ($6,240),
+invoice no. 6454 ($1,456), invoice no. 6607 ($19,291.20), invoice no. 6575 ($1,074.50), invoice no.
+6346 ($1,228.50), invoice no. 6344 ($8,100), invoice no. 6373 ($16,216.20), invoice no. 5906
+($1,312.50), invoice no. 5904 ($13,020), invoice no. 5943 ($23,670.70), invoice no. 6023
+($12,041.40), invoice no. 5763 ($33,849.80), invoice no. 5809 ($16,001.50), invoice no. 5806
+($1,323), invoice no. 6690 ($2,280) (through 05-08-95), and invoice no. 6691 ($133) (through 05-
+08-95). (HEX 39, 53). We disallow 10 percent of these costs, resulting in allowable costs of
+$184,931, due to the inefficiencies of Eagle’s operation which resulted in additional hauling of
+recyclables between Eagle’s Capitol Heights facility and the CWI facility it was using at Olive
+Street.
+
+       Summary of CWI subcontract costs
+
+       Based on our review of the record, we find adequate support for costs paid to CWI under the
+subcontracts category of costs in the total amount of $297,820, consisting of $51,630 under the May
+1993 MOU, $61,259 charged to Eagle Maintenance’s subcontracts category for the period 1993-
+1994, and $184,931 charged to Eagle Management’s subcontracts category for the period from
+approximately September 1994 through the first week of May 1995.
+
+       Rodgers Brothers
+
+         Eagle claims costs for subcontracting with Rodgers Brothers of $80,775. In its June 28, 1996
+letter to the OIG auditors, Eagle states that Rodgers Brothers was “[h]auling materials to market and
+by-pass for disposal.” The invoices indicate that Rodgers Brothers was performing “dump and
+return” services using 30-yard containers at the rate of $400 or $425 each. (E.g., HEX 57, 58). The
+trucking slips do not indicate a destination location. We find that Rodgers Brothers was hauling all
+or nearly all of the material to a landfill for disposal.
+
+        The record (including Eagle vouchers and Rodgers Brothers invoices) supports the following
+hauling costs totaling $67,200 which Eagle charged to the subcontracts cost account 3800-000-46:
+invoice nos. 000837 ($3,000), 000838 ($8,075), 000853 ($12,325), 000891 ($11,900), 001201
+($4,000), 001200 ($6,000), 001207 ($10,000), and 000908 ($11,900). Some or all of the charges on
+invoice nos. 000943 and 000963 relate to unallowable amounts for fire damage removal arising from
+the July 1993 fire at Eagle’s Capitol Heights facility. Because we are unable to discern whether
+there are allowable amounts within those invoices, we find the invoice amounts are not adequately
+                                                  - 33 -          Recycling Solutions, Inc., CAB No. P-377
+
+supported in the record.
+
+       Brent Trucking
+
+         In its claim submission, Eagle claims costs of $95,100 charged to the subcontracts cost
+account for Brent Trucking. In our review, we found that some of the amounts that Eagle placed in
+the ODC category of its claim submission were not actually charged to the ODC cost account but
+rather were charged to the subcontracts cost account. That explains why we find supported
+subcontract costs which exceed the $95,100 amount in the claim submission. In its June 28, 1996
+letter to the OIG auditors, Eagle states that Brent Trucking was “[h]auling . . . recyclable material to
+market and by-pass for disposal.” The invoices indicate that Brent Trucking was performing “dump
+and return” services using 30-yard containers at the rate of $300 each. The trucking slips do not
+indicate a destination location. Most likely, Brent was hauling material to a landfill.
+
+        Beyond the pre-adjusted $48,300 of transportation costs for Brent Trucking charged to the
+ODC category of fuel, maintenance and transportation cost account 3800-000-43 discussed earlier,
+the record (including Eagle vouchers and Brent Trucking invoices) supports the following additional
+hauling costs, totaling $116,475,which Eagle charged to the subcontracts cost account 3800-000-46:
+ 11/18/93 invoice no. 5470 ($375), 1/10/94 invoice no. 5719 ($14,700), 1/25/94 invoice no. 5821
+($15,600), 2/10/94 invoice no. 5936 ($1,500), 2/10/94 invoice no. 5937 ($31,500), 2/25/94 invoice
+no. 6041 ($39,600), and 3/25/94 invoice no. 6228 ($13,200). The record does not adequately
+support the 5/10/94 invoice no. 6499 ($2,400) (check voided) and the 4/25/94 invoice no. 6440
+($13,800).
+
+       Georgetown Express
+
+        Eagle claims costs of $67,375 for subcontracting with Georgetown Express for hauling
+services. In its June 28, 1996 letter to the OIG auditors, Eagle states that Georgetown Express was
+“[h]auling materials to market and hauling by-pass for disposal.” Georgetown Express invoices do
+not contain the truck tickets showing what material was being transported nor the pick-up location or
+destination for the shipment. The invoices simply describe the services as “Open Top Haul” and the
+unit charge is either $125 (through September 1993) or $375 (after September 1993). We find that
+the record (including vouchers and invoices) support $51,625 in charges to subcontract cost account
+3800-000-46.
+
+       MGM Brokerage/Transport
+
+        Eagle claims costs of $10,243 for subcontracting with MGM Brokerage/Transport, which
+mainly consisted of transporting marketable glass to Owens Brockway Glass Recycling Center in
+Winston-Salem, North Carolina. Generally, MGM charged $300 for each approximately 20 ton
+tractor trailer haul, thus at a rate of about $15 per ton. One invoice indicates that MGM hauled a
+load of newspaper to Capitol Fiber for that same rate. Invoices support the $10,243 charged under
+subcontract cost account 3800-000-46.
+                                                 - 34 -         Recycling Solutions, Inc., CAB No. P-377
+
+       Laidlaw
+
+        Eagle claims costs for subcontracting with Laidlaw of $9,468. In its June 28, 1996 letter to
+the OIG auditors, Eagle does not identify any hauling services by Laidlaw. A review of the invoices
+show that Eagle had some type of arrangement whereby it would have materials delivered to
+Laidlaw for processing by Laidlaw. For example, Laidlaw was provided “blue bag” recyclables
+which it would process at $50 per ton and thereafter the material became Laidlaw’s, not Eagle’s, and
+the District would receive no market revenue. (Tr. 231-232; HEX 60). Although Eagle’s Mr. Tynes
+said that it was the District that dictated the use of Laidlaw for overflow of recyclables (Tr. 920),
+documentation shows that it was Eagle that designated Laidlaw as a facility for receiving
+recyclables. (Tynes letter to Francis, dated January 10, 1994). It is not clear which materials were
+DPW-collected materials and which materials came from other Eagle jobs. Nor does the record
+indicate the details of the arrangement between Eagle and Laidlaw. Finally, the recyclables became
+Laidlaw’s and the District saw no benefit from marketing. For lack of adequate support, we find the
+costs associated with Laidlaw to be unsupported and unallowable.
+
+       Waste Management
+
+        Eagle claims costs for subcontracting with Waste Management of $1,772. In its June 28,
+1996 letter to the OIG auditors, Eagle states that Waste Management was “[h]auling . . . by-pass for
+disposal.” The invoices indicate charges to a Department of State job, Sovran Tennis job, a
+“Mosque Cleanup job”, and charges for truck rentals under various District recycling codes. We
+find the $1,772 claims costs unsupported by the record.
+
+       Summary of Supported Hauling Costs
+
+       Based on our review of the record, we find supported hauling costs of $543,363.
+
+       2.      Other Subcontract Costs
+
+        Although hauling costs constituted the vast majority of subcontract costs claimed by Eagle,
+there are other subcontract costs which we analyze below.
+
+       Frank Johnson
+
+        Frank Johnson was the Capitol Heights facility’s plant manager who was hired by Eagle as
+an independent contractor. (June 28, 1996 letter to OIG Auditors). Eagle has claimed subcontract
+costs totaling $42,050, consisting of $3,300 summarized on Schedules 2 and 2A for 1993, $22,400
+summarized on Schedules 3 and 3A for 1994, and costs of $16,350 claimed through Eagle
+Management for the period of late 1994 through April 1995. An invoice covering February 1995
+indicates that Johnson was paid a lump sum of $150 per day for his consulting work at Eagle’s
+Capitol Heights facility. (HEX 66Y). We find that the record adequately supports the claimed
+amount of $42,050.
+                                                - 35 -          Recycling Solutions, Inc., CAB No. P-377
+
+       Clarence Miller
+
+       Mr. Furby stated that he believed that Clarence Mill was a small hauler who might have
+hauled one item away from the Capitol Heights facility. (Tr. 241-242). Eagle has claimed
+subcontract costs of $675, represented by a single charge for May 1993. (HEX 66R). An invoice
+covering February 1995 indicates that Johnson was paid a lump sum of $150 per day for his
+consulting work at Eagle’s Capitol Heights facility. (HEX 66Y). We find that the record adequately
+supports the claimed amount of $675.
+
+       Mid-Atlantic Waste
+
+        Eagle claims $3,082 for costs it paid to Mid-Atlantic Waste for acquiring various hoppers
+used in the recycling operation. We find that the record adequately supports the claimed amount of
+$3,082.
+
+       GB&B
+
+         Eagle claims $20,000 for costs it paid to the consulting firm Gershman, Brickner & Bratton,
+Inc. ("GB&B"). (HEX 66R). Although KPMG initially allowed the amount, Eagle has since agreed
+with OIG auditors who disallowed these as subcontract costs because they relate to consulting work
+on the proposed new Eagle recycling facility. As discussed below, we find that under the
+circumstances presented here the costs incurred by Eagle for the proposed new Eagle recycling
+facility are not recoverable under the actual cost standard of D.C. Code § 1-1182.5(d)(2).
+
+       John Gray P.C.
+
+        Eagle claims $4,500 charged in August 1993 for architectural services by John Gray relating
+to the new District-based facility. (HEX 66R; Tr. 243-244, 522). Those costs are not allowable for
+the same reasons discussed above with regard to GB&B.
+
+       Hirrlinger Electric
+
+        Eagle claims $2,075 charged on a January 10, 1994 invoice of Hirrlinger Electric for
+electrical work at the Capitol Heights facility. (HEX 66S). We find the amount to be allowable.
+
+       ABC Burglar Alarm
+
+       Eagle claims $380 for various invoices charged to the subcontracts cost account between
+January and June 1994 for burglar alarm services provided by ABC Burglar Alarm Systems. (HEX
+66S). We find the amount to be allowable.
+
+       Strickland Fire Protection
+
+       Eagle claims $505 for one or more invoices charged to the subcontracts cost account in
+January 1994. (HEX 66S). We have found one invoice in the amount of $305 charged to the
+subcontracts cost account 3800-000-46 for mechanical services. We find that amount to be
+                                               - 36 -         Recycling Solutions, Inc., CAB No. P-377
+
+allowable.
+
+       Bradby Electrical
+
+      Eagle claims $4,410 for work charged to the subcontracts cost account in January 1994.
+(HEX 66S). We find the amount to be unsupported in the record.
+
+       AMEX
+
+       Eagle claims $1,000 charged to the subcontracts cost account in March 1994. (HEX 66S).
+We find the amount to be unsupported in the record.
+
+       Wamo Welding
+
+       Eagle claims $3,377 charged to the subcontracts cost account between March and August
+1994. (HEX 66S). We find the amount to be part of a $5,877 capital improvement to the Capital
+Heights facility which benefited more than simply the District recycling job. Accordingly, the
+amount claimed is unallowable.
+
+       Robert McCall
+
+       Eagle claims $9,468.20 charged to the subcontracts cost account between March and June
+1994. (HEX 66S). The record does not disclose any vouchers and invoices charged to the
+subcontracts cost account. We did find find an agreement for McCall to perform various
+unallowable capital improvements for a price of $6,400. The amount claimed is unsupported and
+unallowable.
+
+       Meyers Consulting Engineers
+
+        Eagle claims $2,037 charged to the subcontracts cost account in August 1994. (HEX 66S).
+The record discloses that the amount was part of the capital improvements undertaken by Wamo
+Welding. (HEX 62). Although Meyer Consulting Engineers was a subcontractor of Wamo
+Welding, due to an apparent failure of Eagle to complete its payment to Wamo, it was arranged that
+Eagle pay Meyer directly. Because the capital improvement benefited more than simply the District
+recycling job, the claim amount is unallowable.
+
+       Federal Pest Control
+
+        Eagle claims $800 charged to the subcontracts cost account between January and August
+1994, at $100 per month, for pest control services. (HEX 66S). We find adequate support in the
+record for the amount claimed. Eagle also claims $400 for the period September through December
+1994 and $600 for the period January through May 1995. The record discloses invoices for these
+periods and we allow a total of $800 for the period September 1994 through April 1995. Thus, we
+find $1,600 in supported costs.
+                                                  - 37 -         Recycling Solutions, Inc., CAB No. P-377
+
+
+
+       “Other”
+
+       Eagle claims a net of $73,600.46 under the subcontracts cost account between June and
+December 1993. (HEX 66R). Eagle has failed to provide adequate support in the record for these
+costs. Accordingly, they are disallowed.
+
+       Overhead Door
+
+       Under Eagle Management’s subcontractors cost account for the period January through May
+1995, Eagle claims an amount of $325.66 . From the documentation in the record, it appears that
+this amount is part of a larger capital improvement that Eagle made to its facility which benefited
+Eagle beyond the District recycling job. Accordingly, we disallow the amount.
+
+       “Temporary Call-In”
+
+        Under Eagle Management’s subcontractors cost account for the period September through
+December 1994, Eagle claims various amounts totaling $2,453.38 labeled as “Temporary Call-In L.”
+Under the same cost account for the period January through May 1995, Eagle claims various
+amounts totaling $5,136 labeled as “Temporary Call-In L.” Although these amounts were not
+explained by Eagle, it appears that these amounts represent temporary labor. Eagle agreed with the
+OIG auditors that the temporary labor was not allowable. (Tr. 162). If some copies of checks paid
+to the order of Adolphus McLean are meant to be the support, we do not find them to be adequate.
+
+       Summary of Allowable and Allocable Subcontracts Costs
+
+        In addition to supported hauling costs of $543,363, we find supported costs of $50,167 for
+the other costs charged to the subcontracts cost accounts of Eagle (including Eagle Management).
+As with the charging of ODCs, we saw instances where Eagle improperly allocated costs arising
+from other Eagle jobs to the District recycling job. For example, CWI performed hauling services
+for Eagle’s other jobs, but in at least some cases, Eagle did not allocate such costs to the other jobs
+but rather charged them under the District recycling cost accounts. (E.g., HEX 21 (ticket relating to
+NASA job); HEX 46, 50 (NASA Goddard Space Center)). Because of Eagle’s record keeping, we
+are unable to determine the extent of such erroneous charges. When it came to responsibility for
+approving the allocation of costs to Eagle jobs, we find that Mr. Furby in his testimony was not
+always forthcoming. (See, e.g., Tr. 188-192). Nevertheless, as with the labor and ODC categories
+of costs, we find that the 5 percent deduction for Eagle’s other recycling jobs performed at the
+Capitol Heights facility should be applied to subcontract costs because at least 5 percent of the
+material handled at the Capitol Heights facility was generated from other Eagle recycling and
+janitorial jobs. Therefore, after applying the 5 percent deduction to the unadjusted total subcontract
+costs of $593,530, we find allocable and allowable subcontract costs for Eagle of $563,854.
+
+       E.      Eagle's General and Administrative Cost
+
+       G&A costs are indirect costs that are not attributable to any single cost objective but which
+are pooled and then allocated among all company cost objectives. We asked the parties to address
+                                                  - 38 -         Recycling Solutions, Inc., CAB No. P-377
+
+whether G&A costs should be allowable under the actual cost standard of D.C. Code § 1-
+1182.5(d)(2). We agree with the OIG that some G&A costs, such as administrative and clerical
+salaries, which can be shown to have reasonably benefited the performance of the work under the
+invalid contract, may be recognized, even though due to the nature of the costs it is proper to collect
+them in indirect cost pools and then allocate them among projects rather then attempt to allocate
+portions and charge them as direct costs of the various projects. (Tr. 817).
+
+        Eagle claims G&A costs of $570,063 using G&A pools for 1993 ($1,302,292), 1994
+($1,615,232), and 1995 ($403,608), and claimed total cost base for 1993 ($8,731,322), 1994
+($10,654,668), and 1995 ($2,562,546), for Eagle’s calculated G&A rates of 14.92 percent for 1993,
+15.16 percent for 1994, and 15.75 percent for 1995. (HEX 65B, Appendix 1, Eagle Schedule 7).
+Eagle then applied these rates to claimed direct costs and fringe benefits for 1993 ($1,503,731), 1994
+($1,680,519), and 1995 ($577,393) (HEX 65B, Appendix 1, Eagle Schedules 2-4), to arrive at its
+total G&A costs of $570,063.
+
+        In its initial audit, the OIG auditors questioned $48,262 of Eagle’s claimed G&A costs due to
+an overstatement of Eagle’s G&A rate arising from unallowable costs (interest, entertainment, and
+contributions) included in the G&A cost pool that Eagle used in calculating the rate, and from
+reduced direct cost bases for 1993 and 1994. (HEX 65B, at 12 (Finding No. 5)). In the initial audit,
+however, the OIG auditors had not examined whether individual items of the claimed costs in the
+G&A cost pools were adequately supported. During its supplemental auditing procedures, the OIG
+auditors discovered that of a sample of $208,302 of listed G&A costs, $108,981 of those costs were
+unsupported. (HEX 69A; Tr. 820). The OIG auditors also found additional unallowable costs.
+(HEX 69A; Tr. 820-821). Based on this supplemental audit, the OIG auditors calculated new G&A
+rates for each of the three years. In addition to finding significant unallowable and unsupported
+costs, the OIG auditors also determined that it was improper for Eagle to charge Eagle
+Maintenance’s G&A rate on Eagle Management “subcontract” costs which included Eagle
+Management G&A. (HEX 69A; Tr. 821-826). The OIG auditors also felt that it was unreasonable
+for Eagle to charge the G&A rate on its substantial subcontract costs. According to the OIG
+auditors, a rate of 3-5 percent is more typical in the industry for subcontract costs, although the
+auditors declined to make an analysis to calculate such a rate for Eagle. (Tr. 822-827).
+Nevertheless, the OIG auditors used their re-calculated G&A rates for 1993, 1994, and 1995, and
+applied those rates to the entire cost base, including subcontract costs. To determine the questioned
+G&A amounts, the OIG auditors multiplied the G&A rates by the amount of OIG’s questioned base
+costs of the District recycling job and then also deducted the Eagle Maintenance G&A on Eagle
+Management costs to arrive at a total G&A disallowance of $240,798. (HEX 65A, at 9-10; HEX
+69A; Tr. 826-827).
+
+       We find that Eagle’s G&A cost pool is not adequately supported in the record. Of the
+approximate $200,000 of G&A costs randomly tested by the OIG auditor, one half of the costs were
+unsupported. In addition, the OIG auditor determined that another $78,000 of claimed G&A costs
+were unallowable. We also find that the OIG rates and Eagle rates are unreasonably high for
+applying to subcontract costs on this particular recycling job.
+
+      We could deny all Eagle G&A costs for lack of adequate support, but such a blanket denial
+may be unfair since clearly there are some allowable G&A costs. We adopt another approach.
+                                                   - 39 -          Recycling Solutions, Inc., CAB No. P-377
+
+Eagle proposed in its BAFO a G&A rate of 11 percent on total costs. (PCX 21). We find this rate to
+be reasonable even considering the problems with Eagle’s G&A cost support. Applying a G&A rate
+of 11 percent to Eagle’s allowable and allocable costs for labor ($983,622), labor burden ($229,934),
+ODCs ($353,635), and subcontract costs ($563,854), a total of $2,131,045, we find Eagle entitled to
+G&A costs of $234,415.
+
+        F.      Eagle's District-based Processing Facility Costs
+
+       Eagle claims construction related costs of $5,548,367 for its new District-based intermediate
+processing facility, consisting of property costs ($1,371,781), site preparation and construction
+($2,056,160), processing equipment ($1,813,840), consulting fees ($120,000), architect fees
+($125,000), attorney fees and other fees ($39,046), permits ($12,666), and environmental and other
+surveys ($9,874). (HEX 65B, Appendix 1, Eagle Schedule 13). Eagle argues that these costs are
+allowable costs because they were costs incurred in and for the performance of the invalid contract
+and that “construction and completion of the facility were essential to Eagle’s ability to perform
+under the contract . . . .” (Eagle Brief, at 9).
+
+        The statement of work permitted Eagle to have its interim processing facility (i.e., the Capitol
+Heights, Maryland facility) within a 10 mile radius of the District’s border but further provided that
+“beginning on the first day of the second year of the contract, the contractor must have a fully
+operational processing facility within the District from which all activities, except buy back
+operations, associated with performance of this contract shall be conducted.” (PCX 12, at 3 (Article
+1)). The bilateral modification of the purported contract, entered into by the District and Eagle on
+the same date as the contract, provides, inter alia, that “[t]he contractor is responsible for obtaining
+all permits necessary to establish the recycling processing and buy back facilities in the District. . . .
+The processing and buy back facilities are private facilities which are the sole responsibility of the
+contractor.” (PCX 12, at 1).
+
+        The OIG disallowed all of the claimed facility costs principally on the basis that the bilateral
+modification made clear that the facility was Eagle’s private facility and its sole responsibility.
+(HEX 65A, at 10). The OIG also pointed out that Eagle was using the facility after the end of the
+District recycling job for commercial purposes and that the facility had a commercial value. Also,
+Eagle used the facility for a follow-on recycling contract awarded by the District to Eagle.
+Moreover, although Eagle was to have the facility available for processing at the beginning of the
+second year of the District recycling job, Eagle did not have the facility completed until after the
+District recycling job was ended. Thus, during the performance period, Eagle never used the new
+District-based facility. (Tr. 17-21, 57).
+
+        We agree with the OIG’s analysis. Eagle had no legitimate expectation of recovering costs
+of the District-based facility pursuant to the purported contract and bilateral modification, those
+costs never benefited the District recycling job, and the costs represent capital improvements that
+have a commercial value to Eagle. Accordingly, Eagle’s claimed costs for construction of the
+District-based intermediate processing facility are not recoverable under D.C. Code § 1-
+1182.5(d)(2).
+                                                  - 40 -         Recycling Solutions, Inc., CAB No. P-377
+
+
+
+
+V.     Eagle Revenue from Marketing Recyclables
+
+        Determining Eagle’s revenue from marketing the recyclable materials is necessary because to
+arrive at the proper actual costs incurred by Eagle under D.C. Code § 1-1182.5(d)(2), such market
+revenue must be deducted from total actual costs determined in part IV, supra, in order to obtain net
+actual costs. (Tr. 815-816).
+
+        Eagle claimed that it had received revenue totaling $178,558.31 from the marketing of its
+District recyclables, consisting of $51,417.50 in 1993, $72,166.61 in 1994, and $54,974.20 in 1995.
+The OIG auditors found that Eagle's ledgers showed additional amounts of $14,496 in marketing
+revenue for 1993 and 1994 which Eagle did not report. (HEX 65B, at 13-14). Eagle replied to the
+OIG auditors by stating that some of the 1993 and 1994 revenue was not attributable to the District
+recycling job. However, Eagle failed to produce any documentation to support allocating those
+revenues to Eagle’s other recycling activities. Indeed, Eagle was unable to locate its files of the
+vendors to whom it marketed its recyclables. (Tr. 104-105). We find that the OIG properly
+determined that the unreported amounts were revenue on the District recycling job. Thus, OIG
+determined that Eagle had received market revenue of $193,054. RSI states that it independently
+obtained and examined cancelled checks and invoices from Eagle’s marketing vendors and
+determined that Eagle underreported market revenue totaling another $92,249.84. RSI suggests that
+some of the checks from the vendors were never recorded on Eagle’s general ledger. (Eagle Reply,
+filed Aug. 7, 1997, Ex. A). Although RSI lists check numbers, dates, and amounts, RSI did not
+submit the cancelled checks and invoices into the record. The OIG did not make an independent
+investigation of market revenue by contacting market vendors. On the record presented, we are
+unable to find that Eagle received market revenue beyond the $193,054 determined by the OIG.
+Because we have found for cost purposes that 5 percent of Eagle’s recycling activities were allocable
+to non-District recycling, we recognize a similar 5 percent credit in the amount of $9,653 for
+revenue from the sale of non-District recyclables, for a net marketing revenue of $183,401.
+
+VI.    Eagle’s Net Actual Costs Incurred Under D.C. Code § 1-1182.5(d)(2)
+
+        In Part IV, we determined that for the District recycling job Eagle has established actual
+costs incurred of $2,365,460. In Part V, we determined that Eagle earned net market revenue of
+$183,401. Thus, Eagle’s net actual costs incurred on the District recycling job equals $2,182,059.
+
+VII.   District Payments to Eagle for the District Recycling Job
+
+        The record is clear that the District paid Eagle a total of $3,142,022 relating to the District
+recycling job. During the approximate 2-year performance period, Eagle submitted invoices to the
+District totaling $3,095,325, DPW approved $2,876,706 of the amount billed, and Eagle received
+payments from DPW totaling $2,070,056. (HEX 65B, at 6, OIG Schedule K). Purporting to settle
+disputed amounts while Eagle’s claim was pending before the Board, DPW paid Eagle an additional
+amount of $1,071,966 in January 1996, bringing total payments to $3,142,022.
+                                                 - 41 -         Recycling Solutions, Inc., CAB No. P-377
+
+
+
+
+                                         CONCLUSION
+
+        Pursuant to D.C. Code § 1-1182.5(d)(2), Eagle is entitled to net actual costs incurred on the
+District recycling job of $2,182,059. The District has made total payment to Eagle of $3,142,022.
+Accordingly, the District has overpaid Eagle by $959,963 and is liable to the District for the amount
+of overpayment.
+
+       SO ORDERED.
+
+
+DATE: December 29, 2000                                     /s/
+                                                      JONATHAN D. ZISCHKAU
+                                                      Administrative Judge
+
+
+
+
+CONCURRING:
+
+
+
+
+       /s/
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+
+
+      /s/
+MATTHEW S. WATSON
+Administrative Judge
+

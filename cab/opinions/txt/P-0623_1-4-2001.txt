@@ -1,0 +1,609 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+
+       DENTAL BENEFIT PROVIDERS, INC.                          )
+                                                               )       CAB No. P-623
+       Under Solicitation No. 9022-AA-NS-1-JX                  )
+
+
+       For Dental Benefit Providers, Inc.: Leslie H. Lepow, Esq., Kevin M. Kordziel, Esq., Jenner &
+Block. For Greater Washington Dental Service, Inc.: Christopher R. Yukins, Esq., David S. Black,
+Esq., Holland & Knight. For the Government: Howard Schwartz, Esq., Warren J. Nash, Esq.,
+Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges Phyllis W.
+Jackson and Matthew S. Watson, concurring.
+
+                                              OPINION
+
+        Dental Benefit Providers, Inc. (“DBP”) protests the award of a contract to Greater Washington
+Dental Services, Inc. (“GWDS”) for a prepaid dental benefits program. DBP alleges that the District
+improperly awarded preference points to GWDS, that GWDS is incapable of meeting minimum
+performance requirements, that the District’s technical evaluation of the proposals was flawed, that the
+District improperly determined GWDS to be a responsible offeror, and that the District failed to
+perform a cost analysis of GWDS’s proposal. We conclude that the District did not violate law,
+regulation, or the terms of the solicitation in its evaluation of proposals, and in its selection and award
+decision. Accordingly, we deny the protest.
+
+                                          BACKGROUND
+
+        On May 4, 1999, the Office of Contracting and Procurement (“OCP”) issued Solicitation No.
+9022-AA-NS-1-JX, requesting proposals for award of a firm-fixed price contract to provide a prepaid
+dental services benefit program for union and non-union District government employees. (Agency
+Report (“AR”) Ex. 1). The contract term was for a base year and four one-year options. Section C.3.1
+of the solicitation provides:
+
+               The purpose of this procurement is to implement a dental services benefits
+       program that will result in the provision of high quality, accessible dental services at
+       cost competitive rates, initially to approximately 10,000 union employees of the District
+       government. Services may be expanded in the future to include prepaid benefits to
+       additional union and non-union employees, provided the contractor demonstrates
+       satisfactory service delivery to the initial group of plan participants.
+                                                   -2-            Dental Benefit Providers, CAB No. P-623
+
+
+Section C.3.2 further provides:
+
+               The contractor shall develop or provide evidence of an existing network of
+       dental service providers with the capacity to deliver services to 10,000 District of
+       Columbia employees and their eligible dependents. As the District may open
+       enrollment in the plan to an estimated 26,000 additional union and non-union employees
+       and their eligible dependents, contractors are expected to demonstrate the capacity to
+       handle an increased patient load and to offer more cost-effective premium rates based
+       on the expansion of services to a larger group.
+
+        Section B required offerors to propose prices based on biweekly premiums for estimated
+enrollments in the following categories: Biweekly Self Only Premium for Dental Benefits; Biweekly
+Family I Premium for Dental Benefits; and Biweekly Family II Premium for Dental Benefits. Prices
+were required for the base year and the four option years based on the enrollment estimates in Section
+B. The estimated enrollment for each of the five years was divided into three groups: Compensation
+Units I and II Employees; All Other Union Employees; and Non-Union Employees.
+
+       Section C.5, entitled “Performance Requirements”, provides in relevant part:
+
+       The following section summarizes the minimum performance requirements of this
+       statement of work and sets forth the standards by which the quality of the
+       contractor’s performance will be assessed.
+
+       C.5.1 The contractor shall inform all eligible employees of the availability of the
+       dental plan, including but not limited to addresses, telephone numbers of its network
+       locations and registration procedures.
+
+       C.5.2 The contractor shall provide prepaid dental services to all eligible employees to
+       meet the American Dental Association standards for dental care.
+
+       C.5.3 The contractor shall issue identification (ID) cards and plan directories to all
+       eligible employees within 10 working days of enrollment.
+
+       C.5.4 The contractor shall maintain geographically diverse provider facilities adequate
+       to serve the approximate distribution of covered employees as follows: The District of
+       Columbia (45%); Prince George’s and Montgomery Counties in Maryland (46%);
+       Northern Virginia (including Lorton) (9%).
+
+       C.5.5 The [c]ontractor shall ensure that 85% of the plan provider facilities are located
+       within one (1) mile of public transportation.
+
+       C.5.6 The [c]ontractor shall schedule dental service appointments for all participants
+       within 48 hours of requests for appointments and maintain a log of all requests and
+       appointments, which shall be made available to the District upon request.
+
+       C.5.7 The [c]ontractor shall provide dental services to all participants within two (2)
+                                                      -3-             Dental Benefit Providers, CAB No. P-623
+
+
+        weeks after an appointment is scheduled and must keep a log of all schedules and time
+        of service, which shall be made available to the District upon request.
+
+        C.5.8 The [c]ontractor shall provide emergency dental services to plan participants
+        within 8 hours of participant’s request for emergency care and shall maintain a log of all
+        emergency care provided, which shall be made [available] to the District upon request.
+
+        C.5.9 The [c]ontractor shall provide dental services to all participants within an
+        average of 15 minutes of scheduled appointments.
+
+        C.5.10 The [c]ontractor shall cooperate with the District in its conduct of Customer
+        Satisfaction Surveys.
+
+Section C.5 also contains a “Performance Requirements Matrix” showing the performance requirements
+and associated performance standards for measuring acceptable quality levels.
+
+        The contract is a fixed unit price requirements type contract in the estimated amount of
+$4,086,546.10 for the base year period. (AR at 6). Under the terms of the contract, the contractor is
+responsible for providing prepaid dental services and related plan administration and management
+services. The price is based on biweekly premiums proposed in the GWDS’s second best and final
+offer (BAFO).
+
+        The offerors, who are dental benefits program providers, do not typically employ the dentists
+who are part of their networks. Rather, each program provider enters into provider agreements with
+dentists whereby the dentists provide the dental services for the program provider and the provider pays
+the dentist for the services. Thus, the District government does not make direct payments to the
+provider’s dentists and has no contractual arrangement with the provider’s dentists.
+
+        DBP raises the issue in its protest whether the dentists in GWDS’s network are subcontractors
+of GWDS. GWDS received a 5 point preference for evaluation purposes because it was certified as a
+local business enterprise (“LBE”) under the law providing for preferences. DBP points out that the law
+requires a certified prime contractor to perform at least 50 percent of the contract effort, or if 50 percent
+or more is subcontracted, the subcontractors must be certified as LBEs, disadvantaged business
+enterprises (“DBEs”), or small business enterprises (“SBEs”). Because the majority of work under this
+solicitation consists of the actual dental services provided by dentists, DBP argues that GWDS will not
+perform at least 50 percent of the contract work, and that GWDS cannot meet the 50 percent
+requirement of dentist subcontractors who are certified as LBEs, DBEs, or SBEs. The District and
+GWDS concede that performance by GWDS’s 8 employees is limited to management and
+administration of the dental benefits programs and constitutes appreciably less than 50 percent of the
+contract work. The District and GWDS assert that GWDS’s dentists should not be counted as GWDS
+subcontractors under the solicitation. DBP says that Amendment No. 2 of the solicitation makes clear
+that the dentists are subcontractors.
+
+
+      Amendment No. 2 (the cover sheet of which states that it is an amendment of Solicitation No.
+9022-AA-NS-1-JX), dated June 7, 1999, provides inter alia:
+                                                    -4-            Dental Benefit Providers, CAB No. P-623
+
+
+
+
+       Solicitation number 9022-AA-NS-1-JX, as amended, is further hereby amended to
+       clarify the District’s requirements relating to Prepaid Dental Care Benefits for Union
+       and Non-Union Employees, as follows:
+
+       1. Pursuant to Section L.4, the District’s responses to questions raised by prospective
+       offerors are furnished as Attachment J.10. . . .
+
+Attachment J.10 contains responses from the District to various questions from offerors, including
+Question 19 concerning the question of subcontractors:
+
+       19. QUESTION            Section I.14.1 discusses Subcontractors. It is common practice in
+       the industry to enter into independent contracts with providers for the delivery of
+       services and materials. For purposes of this RFP and performance under an agreement,
+       are these providers considered Subcontractors? If so, what information must be
+       provided to the District? Would providing a sample of the standard Provider Agreement
+       suffice?
+
+       ANSWER          Independent Contractors with whom the Contractor enters into
+       agreements to provide services or materials under this contract would be considered
+       Subcontractors and subject to the provisions of Section I.14.1. Each Subcontractor must
+       be identified and a copy of the standard Provider agreement provided.
+
+        In an affidavit attached to the District’s response to DBP’s comments on the Agency Report, the
+current contracting officer for the dental benefits procurement states:
+
+       3.      In April 1996, I was appointed as an Administrative Contracting Officer by the
+       Director of Federal Employees Health Benefits Program. In that capacity, I was
+       familiar with contracts and contracting regulations related to the federal health benefits
+       program. The federal definition of subcontractor, set forth at 48 CFR 1602.170.14 in
+       the Federal Acquisition Regulations System that applies to federal health benefit
+       contracts, specifically excludes from the definition providers of direct medical services
+       or supplies. That regulation provides as follows:
+
+            Subcontractor means any supplier, distributor, vendor, or firm that furnishes
+            supplies or services to or for a prime contractor or another subcontractor,
+            except for providers of direct medical services or supplies pursuant to the
+            Carrier’s health benefits plan.
+
+       4.      When I was assigned as the Contracting Officer for Solicitation No. 9022-AA-
+       NS-1-JX in December 1999, I reviewed the solicitation, the amendments, and the
+       history of the procurement. I became familiar with all of the documents. After I
+       completed my review, I determined that the answer to Question No. 19 in amendment
+       number 2 refers to Section I.14.1 in RFP 9045-AA-NS-1-RO, the Optical benefits
+       solicitation. There is no section I.14.1 in RFP 9022-AA-NS-1-JX Dental Benefits.
+       While it is true that Section I.13.1 of the dental benefits solicitation contains a
+                                                    -5-             Dental Benefit Providers, CAB No. P-623
+
+
+       Subcontracts clause that is similar to the clause in section I.14.1 of the optical benefits
+       solicitation, I believe that the Contracting Officer at the time did not intend the answer
+       to Question 19 to apply to the dental benefits solicitation. In any event, even if the
+       previous Contracting Officer had intended the answer to Question 19 in amendment
+       number 2 to apply to the contract for dental benefits, the answer is incorrect. Providers
+       of dental services are a separate category of independent contractors and should not be
+       considered subcontractors under this procurement because the dental service providers
+       do not provide services that assist the prime contractor in administering the dental
+       benefits program. Therefore, for purposes of considering whether the prime contractor
+       performs more than 50% of the work, the work of direct providers of Dental Services
+       and supplies should be excluded from the equation.
+
+       5.      I am familiar with the treatment of subcontractors under federal health benefits
+       plans, and I consider the federal regulation to be a statement of the industry standard
+       definition of subcontractors in the health care industry. In addition, I know that the
+       District government looks to the federal government for guidance in procurement
+       matters, and under federal health benefits contracts, providers of direct medical services
+       and supplies are not considered to be subcontractors.
+
+       6.      I intend to modify the contract with GWDS to make clear that the providers of
+       dental services are not subcontractors to GWDS, within the meaning of contract clause
+       I.13 or D.C. Code § 1-1153.3(c).
+
+Based on our review of the record, we find that the answer to Question 19 in Amendment No. 2 was
+applicable to both the dental and optical procurements and the fact that the similar clause in the one
+solicitation was numbered I.13.1 and the other was numbered I.14.1 is of no consequence. We further
+find, that notwithstanding the federal definition of subcontractors with regard to medical services found
+in the FAR, and the contracting officer’s belief concerning industry standard, the dental solicitation
+unequivocally defines the dental service providers as subcontractors for purposes of the solicitation and
+performance.
+
+       Section M of the solicitation, concerning evaluation for award, provides in M.1.1:
+
+        The contract will be awarded to the responsible offeror whose offer is most
+        advantageous to the District, based upon the evaluation criteria specified below. Thus,
+        while the points in the evaluation criteria indicate their relative importance, the total
+        scores will not necessarily be determinative of award. Rather, the total scores will guide
+        the District in making an intelligent award decision based upon the evaluation criteria.
+        The District reserves the right to reject any or all proposals determined to be inadequate
+        or unacceptable. The District may award a contract on the basis of initial offers
+        received, without discussions. Therefore, each initial offer should contain the offeror’s
+        best terms from a firm-fixed price basis and technical standpoint.
+The evaluation criteria from Section M.3 are summarized below along with their maximum possible
+scores:
+
+       M.3.1           Quality of Dental Care Services                                 20 points
+                                                     -6-            Dental Benefit Providers, CAB No. P-623
+
+
+
+
+       M.3.2           Accessibility of Network Facilities/Provider Locations          20 points
+
+       M.3.3           Dental Management and Plan Design                               20 points
+
+       M.3.4           Past Performance                                                10 points
+
+       M.3.5           Financial Practices, Guarantees and Cost Sharing                10 points
+
+       M.3.6           Cost/Price Criteria Points                                      20 points
+
+Section M.4.1 provides up to 12 preference points for certified LBEs (5 points), DBEs (5 points), and
+businesses located in enterprise zones (2 points).
+
+        Six offerors submitted proposals by the closing date of June 16, 1999: DBP, GWDS, Avesis of
+Washington, D.C., Inc., The Dental Network, Quality Plan Administrators, Inc., and Spectera Dental
+Services. (AR at 4). A technical evaluation panel was used to evaluate the proposals. The panel
+completed its initial technical evaluation in July 1999, with evaluators completing Selection/Evaluation
+forms for each offeror and including narrative comments explaining the point scores assigned. (AR,
+Ex. 4 (Consensus Report)). A gross score was computed for each offeror by adding the technical point
+scores assigned by the six evaluators. The gross scores were converted to a “technical score” based on
+a formula set forth in Section M.3.6.2 of the solicitation. The top three technical scores were 80.00 for
+GWDS, 79.08 for The Dental Network, and 78.57 for DBP. After evaluation of the initial proposals,
+the contracting officer determined that all offerors had a reasonable chance of being selected for award.
+ OCP held discussions with the six offerors during the period August 14-17, 1999. On September 10,
+1999, OCP received BAFOs from the offerors. The panel evaluated the BAFOs and rescored each
+offeror’s proposal. On December 1, 1999, the panel met to discuss the proposals and reach a final
+consensus on the technical scores. (AR, Ex. 4 (Consensus Report, at 2)). The final consensus report of
+the panel was approved on December 14, 1999, and showed The Dental Network receiving a total
+technical score of 80 points, followed by DBP at 78.53, followed by GWDS at 75.86.
+
+        The panel recommended further evaluation of the panel’s findings by an independent employee
+benefits consulting firm, particularly with respect to certain “high” concerns expressed by the panel in a
+risk assessment section of the report. Three such concerns related to GWDS, namely, its financial
+soundness, the fact that several dental offices are owned by GWDS officers, and a condition in its
+proposal that it “reserves the right to submit a new pricing proposal for any additional covered
+populations.” (AR, Ex. 4 (Consensus Report, at 3)). OCP prepared a price analysis of the offerors.
+The contracting officer reviewed the consensus report, the cost/price analysis, and obtained an
+independent evaluation of the report by an employee benefits consultant. (AR, Ex. 5). The consultant
+prepared a report assessing DBP and The Dental Network, concluding that DBP had the superior plan.
+(AR, Ex. 5). On April 17, 2000, the District approved a Price Negotiation Memorandum that
+recommended award to DBP, to include approximately 9,700 union employees and 8,700 non-union
+employees. (AR, Ex. 5). The Price Negotiation Memorandum designated GWDS’s price proposal as
+“disqualified” and was omitted from the price analysis of the other offerors. By this time, the
+contracting officer had decided to reject GWDS’s offer because of an unacceptable condition in its
+BAFO. In May 2000, the employee benefits consultant analyzed the proposals of the other three
+                                                    -7-             Dental Benefit Providers, CAB No. P-623
+
+
+offerors and concluded that DBP offered the best value. The contracting officer reviewed the reports of
+the employee benefits consultant along with the remainder of the evaluation record and determined to
+award the contract to DBP. (AR, Ex. 6). GWDS filed a protest with us on June 19, 2000 (CAB No. P-
+618), and Avesis file a protest on June 28, 2000 (CAB No. P-619). GWDS alleged that the contracting
+officer improperly rejected its offer, because despite the discussions conducted in August 1999, no
+mention was ever made that its offer contained an unacceptable condition. During the pendency of the
+protest, on June 30, 2000, the contracting officer decided to reopen discussions and request a second
+round of BAFOS due July 6, 2000. On June 30, the contracting officer also issued a stop-work order to
+DBP. (AR, Ex. 6). In its second BAFO, GWDS revised its offer by removing the unacceptable
+condition, increasing its prices by approximately 4.5 percent, and submitting updated financial
+statements. All other offerors maintained their price and technical proposals as previously submitted.
+(AR at 5, Ex. 6).
+
+       After reviewing the offers, including GWDS’s offer as modified by the second BAFO, the
+contracting officer determined that GWDS was entitled to 20 points for the price criterion, followed by
+DBP with 17.75 points for price. GWDS received the high score of 100.85 which includes five points
+for LBE certification, followed by DBP with a score of 96.27, followed by The Dental Network with a
+score of 96.02. In her Source Selection Statement of July 10, 2000, the contracting officer states in
+relevant part:
+
+       I hereby determine that the best and final offer of [GWDS] . . . is most advantageous to
+       the District, considering price and other factors included in the solicitation. After
+       reviewing and evaluating the proposals, the best and final offers, the second best and
+       final offers, the report of the evaluation panel and the reports of the employee benefit
+       consultant . . . , I recommend award of the contract for union employees . . . , along with
+       non-union employees, alternative B.5.2, to [GWDS].
+
+               ....
+
+       Based upon the Contracting Officer’s independent review of the proposals, the reports
+       of the evaluation panel, the Cost/Price Analys[is], and reports of the employee benefits
+       consultant, award of the contract is recommended to [GWDS], the top ranked offeror.
+       Since all the proposals were technically acceptable, price and local, small,
+       disadvantaged business preference points became the determining factor. The price
+       proposed for all alternatives and all option years by GWDS is 11.23% lower than the
+       next low offeror, [DBP]. For alternative B.5.2, the base year price proposed by GWDS
+       is 20.8% lower than the base year price of DBP, while the five year price is 15.63%
+       lower.
+
+       A preaward survey has found [GWDS] to be in compliance with District tax laws and
+       equal employment requirements. A determination of responsibility has been made.
+
+(AR, Ex. 6). The contracting officer had requested an analysis of all six offerors by the independent
+consultant. The consultant’s report, dated July 11, 2000, continues to recommend DBP. The consultant
+identified risk factors associated with GWDS, summarized in relevant part:
+                                                    -8-            Dental Benefit Providers, CAB No. P-623
+
+
+       GWDS is offering the lowest price; however, concerns of their financial status and
+       network adequacy raise valid questions about their ability to deliver on the services
+       requested in the RFP. The District needs to assess whether the potential for significant
+       price reductions is worth these risks. . . .
+
+(AR, Ex. 6). On August 1, 2000, the District awarded the contract to GWDS for an estimated amount
+of $4,086,546.10 for the base period covering union employees in Compensation Units I and II and
+non-union employees. (AR, Ex. 8). DBP filed its protest on August 15, 2000. The District filed its
+Agency Report on September 5, 2000. DBP filed comments to the Agency Report on September 14,
+2000, and added as a supplemental ground for protest that the District failed to perform a cost or price
+analysis of GWDS’s proposal as required by 27 DCMR §§ 1625 and 1626. On October 12, 2000, the
+District responded to DBP’s comments and the additional protest ground. Additional filings have been
+made by DBP, the District, and intervenor GWDS.
+
+                                            DISCUSSION
+
+       We exercise protest jurisdiction pursuant to D.C. Code § 1-1189.3(a)(1).
+
+A.     The Award of 5 Preference Points to GWDS
+
+        DBP argues that the contracting officer improperly awarded 5 preference points to GWDS for
+evaluation of its proposal because GWDS cannot, as required by D.C. Code § 1-1153.3(c), perform 50
+percent of the contract work with its own organization and that most of the contract work is to be
+performed by dentists who are not certified LBEs, DBEs, or SBEs under D.C. Code §§ 1-1153.4 and 1-
+1153.5. The District and GWDS respond that the solicitation is directed to administration and
+management of the dental program, that GWDS will perform that work, and that in any event the
+dentists should not be treated as subcontractors.
+
+D.C. Code § 1-1153.3 provides in relevant part:
+
+               (a) To achieve the goals set forth in § 1-1153.2, programs designed to assist
+       contractors who are certified as local business enterprises, disadvantaged business
+       enterprises, or small business enterprises shall be established by rules issued by the
+       Mayor pursuant to § 1-1153.6. Such programs shall be implemented by each agency
+       within 10 days of March 17, 1993. Local, small, or disadvantaged business enterprises
+       shall not be limited to bidding only on contracts within these programs.
+
+               (b)(1) The Mayor shall include among these programs a bid preference
+       mechanism for local business enterprises and disadvantaged business enterprises and a
+       two-tier small business set-aside program at the contract level, which shall include a
+       separate set-aside program for small business enterprises with gross revenues of
+       $1,000,000 or less, which shall provide that a business becomes ineligible for
+       participation in this set-aside program when the business has gross revenues in excess of
+       $1,000,000 for 2 consecutive years, and a separate set-aside program for all small
+       business enterprises, and for local and disadvantaged business enterprises at the
+       subcontracting level. In evaluating bids and proposals, agencies shall award
+                                                      -9-             Dental Benefit Providers, CAB No. P-623
+
+
+        preferences, in the form of points, in the case of proposals, or a percentage reduction in
+        price, in the case of bids, as follows:
+
+                        (A) Five points or 5% for local business enterprises;
+                        (B) Five points or 5% for disadvantaged business enterprises; and
+                        (C) Two points or 2% for businesses located in enterprise zones.
+
+                  (2) A bid or proposal may be entitled to any or all of the above preferences for
+        which it is qualified.
+
+                (c) A prime contractor certified by the Commission shall perform at least 50% of
+        the contracting effort, excluding the cost of materials, goods, and supplies, with its own
+        organization and resources, and if it subcontracts 50% of the subcontracted effort
+        excluding the cost of materials, goods, and supplies shall be with certified local,
+        disadvantaged, or small business enterprises. The contract will include a certified
+        statement to this effect. Waivers of the above requirements may be given in writing by
+        the Director of the Local Business Development Administration.
+
+         The intent of an offeror to comply with the 50 percent subcontractor limitation is generally a
+matter of contractor responsibility, not responsiveness. American Bristol Industries, Inc., B-249108,
+Oct. 22, 1992, 92-2 CPD ¶ 268; cf. National Medical Staffing, Inc., 69 Comp. Gen. 500, 90-1 CPD ¶
+530 (awardee took exception to RFP requirement concerning small business subcontracting limitations).
+The 50 percent subcontracting requirement is not a “status” criterion, such as the LBE, DBE, and
+enterprise zone certification requirements. See D.C. Code § 1-1153.1(3), (5), (7). For purposes of
+awarding preferences under D.C. Code § 1-1153.3(b), the certification requirements are by their nature
+to be ascertained at the closing date for proposals or bids. E.g., Trifax Corp., CAB No. P-539, Sept. 25,
+1998, 45 D.C. Reg. 8842, 8849. The requirements in D.C. Code § 1-1153.3(c) that the prime contractor
+“shall perform at least 50% of the contracting effort” and that “if [the prime contractor] subcontracts
+50% of the subcontracted effort excluding the cost of materials, goods, and supplies shall be with
+certified local, disadvantaged, or small business enterprises” are performance requirements. Thus,
+absent GWDS taking an exception in its offer to these performance requirements – which would render
+its offer nonresponsive – GWDS would be required to abide by the requirements during its performance
+of the contract work. A.B. Chelini Co., CAB No. P-556, Jan. 25, 1999, 46 D.C. Reg. 8545, 8548. As
+we read the provision in section 1-1153.3(c) for waiver of these requirements by the Director of the
+Local Business Development Administration, we see no limitation on when a waiver may be made by
+the Director. The best practice is to obtain any needed waiver prior to issuing the solicitation.
+Nevertheless, we can envision situations where the contracting officer would seek a waiver during the
+procurement phase because the unsuitability of the subcontracting requirements might be brought to the
+attention of the contracting officer by a prospective offeror. Further, it is possible that the unsuitability
+of the subcontracting requirements only becomes clear after the contractor commences performance. In
+the present case, the contracting officer that issued Amendment No. 2 probably did not consider the
+implications of the subcontract requirement vis-à-vis D.C. Code § 1-1153.3(c) and its preference
+provisions and 50 percent contract effort requirement.
+
+       DBP may be right that neither the District nor GWDS realized the 50 percent requirement
+presented an issue until it was raised by DBP in its protest. The contracting officer appears to state in
+                                                    - 10 -          Dental Benefit Providers, CAB No. P-623
+
+
+her affidavit that she realized there was a subcontracting issue when she assumed contracting officer
+responsibility in December 1999, but that she interpreted the answer to Question 19 as applying only to
+the optical benefits solicitation, not the dental benefits solicitation. In light of the clear answer to
+Question 19 of Amendment No. 2, the contracting officer should have issued another amendment
+revising the applicability of the subcontractor definition. Because she did not do so, we are unable to
+agree with the District’s various arguments that the dentists should not be considered subcontractors,
+that the FAR subcontractor definition applicable to federal health benefit contracts, which excludes
+providers of direct medical services, is applicable here, or that industry standards do not treat dental
+providers as subcontractors. We conclude that the preference award to GWDS is sustainable on another
+basis. It is clear that GWDS in its offer did not take exception to meeting the subcontractor
+requirements. Although it could have been difficult, GWDS may have been able to employ dentists or
+have sufficient subcontracted dentists certified as small business enterprises (“SBEs”), LBEs, or DBEs.
+ However, under the circumstances, we do not find that the District violated law by seeking and
+obtaining a waiver from the Director of the LBDA after contract performance had begun when the
+contracting officer realized from the protest filing that the subcontracting requirements were an issue.
+
+       For the reasons stated above, it is irrelevant that the LBDA Director attempted to make the
+waiver retroactive to June 16, 1999. The waiver was valid even though executed after award and after
+GWDS started performance. DBP cites 27 DCMR § 805.2 which provides:
+
+       Waiver of the subcontracting requirements of section 805.1 [which reflect the
+       requirements contained in D.C. Code § 1-1153.3(c)] shall be given in writing by the
+       contracting officer, prior to acceptance of bids or proposals, with the prior approval and
+       consent of the Director of The Department of Human Rights and Minority Business
+       Development (DHRMBD) [now the Director of the LBDA].
+
+Although this regulation authorizes a contracting officer to seek a waiver prior to acceptance of bids or
+proposals, we do not read this section in conjunction with the remainder of section 805 as attempting to
+limit the authority of the LBDA Director, under D.C. Code § 1-1153.3(c), to issue a waiver after
+contract award. There is the possibility for abuse of the preference system and outcomes that contradict
+the goals sought by the statute. The Council is the proper forum for addressing such issues.
+
+        Having reviewed the arguments of DBP, the District, and GWDS, we conclude that the
+contracting officer did not violate law, regulation, or the terms of the solicitation when she awarded 5
+points to GWDS for being a certified LBE.
+
+B.     Minimum Requirements of the Solicitation
+
+        DBP contends that GWDS failed to meet the minimum requirements of the solicitation and
+lacked the capacity to provide services as specified in the solicitation. Specifically, DBP states that
+GWDS cannot provide with only 36 dentists adequate coverage for the 9,700 union and 8,700 non-
+union employees and their dependents as provided in the contract executed with GWDS. Using the
+District’s benchmark of 1 dentist per 500 patients, DBP argues that GWDS would need a network of 92
+dentists. The District responds that the contracting officer properly determined that GWDS is a
+responsible contractor who can meet all contractual requirements. The District contends that the
+benchmark set forth in the solicitation is 10,000 persons, and using that standard GWDS’s network of
+                                                     - 11 -          Dental Benefit Providers, CAB No. P-623
+
+
+dentists is adequate.
+
+        When the contracting officer was making the final evaluation and selection decision in July
+2000, there was no doubt that the District was intending to contract for the approximately 9,700 union
+and 8,700 non-union employees. In any event, the District has determined that GWDS’s rather small
+network of dentists is adequate to meet the minimum requirements. It is primarily the role of the
+contracting agency to make the technical determination of whether GWDS’s existing dental network,
+and its ability to expand that network, satisfy the relevant minimum requirements for the proposed
+contract award. Although several of the evaluators and the independent consultant expressed
+reservations, and those reservations may have merit, we cannot say that the agency’s determination
+violates the terms of the solicitation or lacks any rational basis.
+
+C.     Technical Evaluation of the Proposals
+
+        DBP contends that the contracting officer’s technical evaluation of GWDS’s and DBP’s
+proposals was unreasonable, arbitrary, and capricious. Contrasting GWDS’s dental network of 36
+dentists with DBP’s network of 517 general dentists and 416 specialists, DBP labels as irrational and
+unreasonable the District’s assigning GWDS the highest score under the Quality of Dental Services
+factor and the third highest score under the Accessibility of Network Facilities/Provider Locations
+factor, given that GWDS had the lowest network capacity of the six offerors. DBP also complains that
+the contracting officer failed to act on the independent consultant’s recommendation to consider the
+risks associated with GWDS’s network in her evaluation. DBP alleges that the technical evaluation of
+DBP’s proposal was unreasonable in two respects: (1) DBP was downgraded under the Financial
+Practices Evaluation factor, receiving the third highest score; and (2) DBP was penalized under the
+Dental Management and Plan Design factor (receiving the second highest score) for proposing a
+capitation-based payment scheme when its proposal made clear that it used a combination of capitation
+and fee-for-service payments. Finally, DBP alleges that the contracting officer failed to properly
+document her source selection decision.
+
+       Our standard of review for proposal evaluations and the selection decision is whether they were
+reasonable and in accord with the evaluation and selection criteria listed in the solicitation and whether
+there were material violations of procurement laws or regulations. Trifax Corp., CAB No. P-539, Sept.
+25, 1998, 45 D.C. Reg. 8842, 8847. We conclude that the technical evaluations and selection decision
+were adequately documented and rationally supported.
+
+        The Quality factor, M.3.1, focuses on quality of the services, which is not necessarily dependent
+on the size of the network. Having reviewed the technical evaluations and the consensus report, we see
+no basis for concluding that the evaluation under this factor was unreasonable or irrational. The
+evaluation of the Accessibility factor, M.3.2, presents a closer question, but even here our role is not to
+substitute our own evaluation for the one conducted by the evaluation panel and contracting officer.
+The evaluators did an evaluation according to the factor and subfactors, and reasonably documented
+their evaluation and scoring. Based on the record presented, the small differential between DBP’s score
+and GWDS’s score does not render the evaluation irrational or unreasonable. We have reviewed the
+supporting documentation for the evaluation and scoring of DBP under the Financial Practices and
+Dental Management factors. Although these present close questions as well, we are unable to conclude
+from the record the evaluation of these factors and associated subfactors were unreasonable or
+                                                      - 12 -          Dental Benefit Providers, CAB No. P-623
+
+
+irrational.
+
+        The contracting officer had adequate documentation of the technical evaluation and performed
+her own independent evaluation of the offers, guided by the evaluation panel’s consensus evaluation
+report. The contracting officer augmented the evaluation with analysis provided by an independent
+employment benefits consultant. The record shows the basis for the evaluations, an assessment of each
+offeror’s ability to accomplish the technical requirements, and relative differences among the proposals,
+their strengths, weaknesses, and risks. We believe the contracting officer considered the entire
+evaluation record in reaching her selection decision. For these reasons, we conclude that the
+contracting officer properly conducted the evaluation and selection and supported her decision with
+adequate documentation.
+
+D.      Responsibility Determination and Price/Cost Analyses
+
+         DBP contends that the District’s determination that GWDS is a responsible contractor was
+unreasonable because (1) GWDS lacks the technical capacity and experience to perform a contract of
+this magnitude and technical complexity; (2) GWDS lacks the financial resources to perform a contract
+of this size; (3) GWDS’s evaluated price of $41,880,616 is unrealistically low. DBP also argues that
+OCP’s price analysis was seriously inadequate and that OCP failed to perform a cost analysis as
+required by 27 DCMR § 1626
+
+        Under the circumstances, we cannot say that the District’s responsibility determination lacked
+any reasonable basis. The District conducted a pre-award survey of GWDS, GWDS has a satisfactory
+past performance record, OCP analyzed GWDS’s financial soundness, taking into account the updated
+financial statements submitted in its second BAFO, and OCP performed a price analysis of GWDS’s
+prices with the prices proposed by the other offerors. We believe that the price analysis meets the
+standard of rationality and is consistent with the pricing terms of the solicitation and 27 DCMR § 1625.
+Because the contract was of a firm-fixed unit price type, there was adequate price competition, and the
+solicitation did not require the submission of detailed cost data, the District was not required to perform
+a cost analysis under 27 DCMR § 1626 beyond the cost considerations that were made in connection
+with the price analyses and historical cost figures known by the District. Although the District might
+have profitably obtained more detailed cost information from GWDS in connection with the
+responsibility determination, its failure to do so does not render the responsibility determination
+irrational under the circumstances presented here. Regarding the responsibility of GWDS to perform
+the technical requirements of the contract, we give weight to the technical evaluation determination
+conducted by the evaluators and the contracting officer. Taken together, the record provides a
+reasonable basis for the responsibility determination.
+
+                                            CONCLUSION
+
+        We have carefully considered each of DBP’s protest arguments. Having concluded that DBP
+has not shown that the District violated law, regulation, or the terms of the solicitation in evaluating and
+selecting GWDS for award, we deny DBP’s protest.
+
+        SO ORDERED.
+                          - 13 -    Dental Benefit Providers, CAB No. P-623
+
+
+
+
+DATED: December 1, 2000           /s/
+                            JONATHAN D. ZISCHKAU
+                            Administrative Judge
+
+
+CONCURRING:
+
+
+
+      /s/
+PHYLLIS W. JACKSON
+Administrative Judge
+
+
+
+      /s/
+MATTHEW S. WATSON
+Administrative Judge
+

@@ -1,0 +1,178 @@
+                                                                                                      [7506]
+
+
+
+                       GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+ PROTEST OF:
+
+         M .C. DEAN, INC.                )
+                                         )               CAB No. P-528
+         Under IFB No. 98-0026-AA-4-0-CC )
+
+
+       For the Protester: Joel S. Rubenstein, Esq., and Andrew N. Cook, Esq. , Bell, Boyd, & Lloyd .
+For the Government: Warren Nash, Esq., and Howard Schwartz, Esq. , Assistants Corporation
+Counsel, for the District of Columbia.
+
+       Opinion by Administrative Judge Phyllis W, Jackson, with Administrative Judge Jonathan D .
+Zischkau, concurring.
+
+
+                                               OPINION
+
+         M.C. Dean, Inc., ("M.C. Dean") has filed a protest based upon alleged improprieties in the
+ above-referenced Invitation for Bids ("IFB"). M.e. Dean states that the invitation is improperly
+ structured and does not allow for full, fair, or open competition because the solicitation may be read
+ as providing for the application of preferences pursuant to the Equal Opportunity for Local, Small,
+and Disadvantaged Business Enterprise Act ("LSDBE Act"), D.e. Code §1-1152 , ~ . (Supp .
+ 1997), on eight line items for which the IFB itself provides the prices, i. e., fixed pre-determined bid
+costs, in addition to line items on the lFB's unit price schedule calling for bid prices. The District has
+filed a motion to dismiss challenging M.e. Dean's standing to bring protest and, in the alternative,
+an Agency Report contending that the LSDBE Act requires the District to apply a preference
+percentage to the total bid price as set forth in the IFB, not just to the portion of the total price
+representing the bidder's line item prices. We conclude that the Protester dOeS have standing and that
+the protest should be sustained.
+
+                                          BACKGROUND
+
+       On November 10, 1997, DPW issued IFB No . 98-0026-AA-4-0-CC, in the open market for
+the Annual Maintenance Contract for Electrical Controls Equipment at Various Water and Sewer
+Authority Facilities for a base year and three option years. As amended, the IFB established a bid
+opening date of December 17, 1997.
+
+        The lFB's Unit Price Schedule required bidders to insert line item prices for an "Initial Period"
+and three option years. The Schedule's "Initial Period" reads as follows :
+                             •                                                                    (7508]
+
+
+
+                                                   -3-              M. e. Dean, Inc., CAB No. P-528
+ "ALL OF THE ABOVE (Initial Year, First Year, Second Year, Third Year Options) separately."
+ It also stated that award would be made to one bidder "based on the total lowest price of the Initial
+ period and Option Years." (Agency Report, ("AR"), Exhibit 1 ).
+
+        Section 1.4 of the IFB , "Special Conditions", Paragraph T provides:
+
+        T. "Open Market" Procurement Application of D.C Act 9-152 :
+
+                (1)     Preferences for Local Businesses, Disadvantaged Businesses or Businesses
+                        Operating in an Enterprise Zone:
+
+                        A.       General Preferences
+
+                                 Under the provisi"ons of D.C Act 9-152, "Equal Opportunity for
+                                 Local, Small and Disadvantaged Business Enterprises Act of 1992"
+                                 ("Act"), the District shall apply preferences in evaluating bids or
+                                 proposals from businesses that are local, disadvantaged or located in
+                                 an enterprise zone of the District of Columbia. .
+
+                                 For evaluation purposes, the allowable preferences under the "Act"
+                                 for this procurement are as follows :
+
+                                 1)     Five percent reduction in bid price or the addition of the
+                                        equivalent of five points on a 100-point scale for a local
+                                        business enterprise ("LBE") certified by the Local Business
+                                        Opportunity Commission ("LBOC").
+
+                                        Any prime contractor that is a LBE certified by the LBOC
+                                        will receive a five percent (5%) reduction in the bid price for
+                                        a bid submitted by the LBE in response to an Invitation for
+                                        Bids ("IFB") ....
+
+        The total amount of the line items fixed by the agency in the solicitation is $810,000.
+Therefore, if the 5% reduction is applied to the pre-determined line items, the recipient of the
+preference would receive a price reduction of $40,500 in addition to the reduction on any line items
+actually bid by the bidders.
+
+         On December 16, 1997, one day before bid opening, M .C Dean filed its protest. On
+December 17, 1997, DPW received bids from three bidders. The contract specialist added each
+bidder's line item bid prices and the pre-determined line item prices for a total "bid price". The
+contract specialist then applied a five percent reduction to Ideal's total price because Ideal was
+certified as an LBE. (AR, Ex. No. 3). The evaluation results were as follows~:"""
+                                                                                                         [7511J
+
+
+
+                                                      -6-               MC Dean, Inc., CAB No . P-528
+
+         806      CONTRACT AWARD PREFERENCES
+
+         806.1 Agencies shall accord a preference in awarding procurements to LBEs and DBEs and
+               certified joint ventures with participating LBEs and DBEs as follows :
+
+                  (a)     An LBE qualifies for the equivalent of five points on a J00 point basis in the
+                          case of proposals or five percent reduction in price for bids in the open
+                          market;
+
+
+         806.3 An agency shall reduce the bid price or increase the points on a proposal based upon
+               the LBEs or DBEs percentage of the bid or proposal.
+
+ 27 DCMR §§ 806, 806.1 and 806.3.
+
+         The contracting agency conducting the procurement is responsible for awarding the
+preferences. Id § 1-1152.3(b). The contracting officer has not made any determinations on the issue
+in this procurement, as far as the record presented to us indicates. A bid tabulation prepared by a
+contract specialist applies the preference to the total of the line item prices bid by the bidders and the
+DPW pre-determined line item amounts fixed in the !FB.
+
+        We conclude that the LSDBE Act, the implementing regulations, and the PPA require that
+preferences apply to the total prices actually bid by bidders. Since the pre-determined line item prices
+are not "bid" by bidders, they cannot be considered a part of the "bid price" as that term is used in
+27 DCMR § 806.3. Including non-bid line item prices (fixed by the agency) in the total bid price,
+when applying the preference reduction, would effectively increase the percentage reduction rates
+defined in the LSDBE Act 2 Our conclusion is consistent with GAO precedent. The GAO has
+upheld the agency's limitation of the application of the small disadvantaged business evaluation
+preference to portions of the contract which are actually priced by the offerors, and for which the
+amount paid does not fluctuate. In such cases, the agency did not apply the percentage preference
+
+
+          2Considering that the LSDBE Act provides a maximum percentage reduction of 12 percent (where
+ an entity qualifies as an LBE (5%), DBE(5%), and enterprise zone entity (2%» , a solicitation containing
+ large pre-determined line item prices would produce absurd evaluation results if the preference reduction
+ were applied to bid and non-bid (pre-determined) line items. The Council could not have intended such an
+ implementation of the LSDBE Act for PPA procurements. In the present case, if a five percent preference
+were applied to fixed pre-determined costs of $810,000, or 25% of the total contract price, the effect would
+be to provide a preference advantage in excess of the 5% statutory rate since non-preference bidders could
+only adjust their prices over items actually bid, or 75% of the total contract price in order to be
+competitive. Therefore, preferences should not be applied to pre-determined costs fixed by the agency.
+Thus, the agency's pre-determined costs should also be excluded from the total bid priceiOr evaluation
+purposes. Because the preference reduction is applied only to bidders ' actual bid prices, and not to pre-
+determined or estimated line item costs inserted by the agency, the agency must have a reasonable basis for
+inserting such pre-determined costs in a solicitation.
+                                                                                                  [7512]
+
+
+
+                                                 -7-              M.C Dean, Inc., CAB No . P-528
+
+to index pricing or similar pricing for which the amount paid was subject to fluctuate. The court
+determined that in such cases, the method employed by the agency constituted a reasonable
+application of the preference called for under its regulations. Hudson Bay Natural Gas Corporation,
+69 CompoGen. 188, B-237264, 90-1 CPD ~ 151, Feb. 5, 1990; see also Commercial Energies, Inc.,
+B-237572, 90-1 CPD ~ 160, Feb. 7, 1990.
+
+        We find that the most reasonable interpretation of the LSDBE Act, the regulations, and the
+PPA is to apply preferences to the total prices actually bid by qualified LSDBE bidders and to exclude
+any pre-determined costs of the agency from the total bid price for evaluation purposes. Therefore,
+to the extent the agency intended to evaluate in a different manner, the protest is SUSTAINED.
+Because Ideal remains the low bidder even when bid prices are properly evaluated, Ideal may receive
+award if it is otherwise responsible.
+
+
+DATE: April 16, 1998
+
+
+
+
+CONCURRING:
+
+
+
+
+J   ~fJr
+    A1'HAND. ~IS KAU
+Administrative Judge
+

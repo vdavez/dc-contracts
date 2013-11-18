@@ -1,0 +1,240 @@
+                DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:                                               )
+                                                          )
+MXI Environmental Services, LLC                           )        CAB No. P-0897
+                                                          )
+Solicitation No. DCKT-2011-B-0147                         )
+
+       For the Protester: Marc Kodrowski, pro se. For the District of Columbia Government:
+Jon N. Kulish, Esq., Assistant Attorney General, Office of the Attorney General.
+
+      Opinion by Administrative Judge Monica C. Parchment, with Chief Administrative Judge
+Marc D. Loud, Sr. and Administrative Judge Maxine E. McBean, concurring.
+
+                                                OPINION
+                                           Filing ID 41633712
+
+        The protester, MXI Environmental Services, LLC (“MXI”), challenges the contracting
+officer’s determination that its bid for household hazardous waste collection and disposal related
+services under Invitation for Bids No. DCKT-2011-B-0147 (“IFB”) was nonresponsive to the
+IFB’s two separate employee training requirements. The protester asserts that its bid clearly
+offered to meet the two distinct types of required employee training and should not have been
+rejected as nonresponsive.
+
+        The Board, however, finds that the contracting officer’s nonresponsiveness determination
+reasonably concluded that the protester’s bid for training services included an alternative unit
+price structure, other than what was requested by the IFB, primarily because the protester used
+ambiguous supplemental language in its proposed unit price bid. For these reasons, the protest is
+denied.
+
+                                            BACKGROUND
+
+       The District’s Department of Public Works (“DPW”) issued the subject IFB on August
+23, 2011, for the award of a requirements type contract to a contractor that would provide
+household hazardous waste collection and disposal related services to DPW. (Agency Report
+(“AR”) Ex. 1.) The services required under the IFB were detailed with specificity under four
+Contract Line Item Numbers (“CLINs”), including CLINs 0001-0004 for the base year. (Id.)
+The IFB also extended these same services across four option year CLINs for the contract. (Id.)
+A single contract was to be awarded to the lowest responsive and responsible bidder based upon
+the bidder’s total proposed price for the contract base and option year periods. (Id.)1
+
+
+
+                                                            
+1
+   Additionally, an amendment to the IFB was issued on September 1, 2011, which answered prospective bidder
+questions, revised two provisions, and extended the bid opening date from September 6, 2011, to September 13,
+2011. (AR Ex. 2.) 
+                                                               2 
+
+ 
+
+
+The Training Requirement
+
+        The IFB also included a mandatory DPW employee training requirement that had to be
+met in each offeror’s bid. Specifically, Section C.4.12 of the IFB mandated that the awardee
+perform the following types of employee training: (a) on-site yearly training for at least three
+District employees in overall household hazardous waste work related activities, in compliance
+with all federal, state, and local laws, including training on hazardous waste packing procedures
+and completion of proper documentation (IFB Section C.4.12.1); and (b) off-site training for up
+to two employees of the Department of Public Works Solid Waste Management Administration
+in accordance with 29 CFR 1910.120 to include all costs incurred, and lodging travel per diem
+for each contract year (IFB Section C.4.12.2). (Id.) 2 Thus, by virtue of IFB Sections C.4.12.1
+and C.4.12.2, the District required the awardee to provide two separate categories of DPW
+employee training that substantially differed with respect to the number of employees to be
+trained by the awardee, the type of training required to be provided by the awardee, and the
+location where the awardee was to conduct the training. (Id.)
+
+        The training requirements under IFB Sections C.4.12.1 and C.4.12.2 corresponded to the
+proposed pricing required by the IFB for this training under CLIN 0003 for the base year, as well
+as for CLINs 1003, 2003, 3003, and 4003 across the four option year periods of the contract.
+(Id.) For these particular training CLINs, the IFB directed offerors to propose both a “unit” price
+and then a total proposed “estimated amount” for providing the two distinct types of employee
+training, in connection with IFB Sections C.4.12.1 and C.4.12.2, over the base and option years
+of the contract. (Id.)3 Further, the IFB pricing grid expressly indicated, by inserting a number
+“1” under estimated quantity, that for each contract base and option year, DPW estimated that it
+would only order 1 unit of the two types of C.4.12 training under CLINS 0003, 1003, 2003,
+3003, and 4003.4 (Id.)
+
+                                                            
+2
+  29 CFR 1910.120 refers to federal Occupational Safety and Health Administration (“OSHA”) prescribed training
+for the handling of hazardous materials.
+3
+   Throughout this protest, the District appears to interchangeably refer to the IFB’s requirement for a total
+“estimated amount” as a request for a “lump sum” price for a full year of training. The protester takes issue with
+this characterization of there being a per se “lump sum” requirement although the Board finds this issue to be
+immaterial to its ultimate decision in this matter.
+4
+  Specifically, the IFB pre-populated the “estimated quantity” column with the number “1” thereby confirming that,
+for both the base and option years, DPW estimated that it would order 1 unit of the IFB Section C.4.12 training
+based upon the awardee’s proposed unit price for these services. Offerors would, therefore, theoretically, calculate
+the total estimated amount for the training requirement CLIN in their proposal by multiplying their proposed unit
+price by the District’s estimated unit quantity (i.e., 1 unit) to calculate the final estimated amount for training under
+these training CLINs.
+                                                                   3 
+
+ 
+
+The Evaluation of Bids
+
+        In response to the IFB, the contracting officer (“CO”) received two bids, one from the
+protester, MXI, and one from the later putative awardee, Care Environmental Corporation. (AR
+Exs. 3, 8.) Upon bid opening, the bids were manually recorded on a bid tabulation sheet. (AR
+Ex. 5.) This sheet was later corrected twice by DPW and ultimately showed a total bid price of
+$1,002,947.50 for Care Environmental and $998,485.00 for MXI. (AR Ex. 6.)
+
+        Additionally, the CO and the contract specialist reviewed MXI’s bid under CLINs 0003,
+1003, 2003, 3003 and 4003 with respect to the pricing that it was required to provide for the two
+distinct categories of employee training mandated under IFB Section C.4.12. (AR Ex. 11.) The
+CO and contract specialist noted that, under the CLIN pricing column calling for MXI to provide
+a “unit” price for these two types of Section C.4.12 training for the base year, MXI inserted the
+number $1000 followed directly by the words “per day.”5 (Id.) Further, in the corresponding
+pricing column calling for the total estimated amount for this same IFB Section C.4.12 training,
+MXI’s bid inserted the number $1000 as the total estimated amount for this training for the
+contract year. (AR Exs. 3, 11.)
+
+        Thus, because MXI expressly qualified its unit price bid for the Section C.4.12 training
+with the words “per day,” which were not otherwise called for by the terms of the IFB, the CO
+and contract specialist concluded at the time of bid opening that MXI’s bid did not unequivocally
+offer to perform the two distinct categories of training required by IFB Section C.4.12 at a
+determinable unit price. (AR Ex. 11.) Accordingly, the CO and the contract specialist
+determined that MXI’s training offer under IFB Section C.4.12 was nonresponsive to the training
+requirement and, further violated Section L.2.4 of the IFB, which prohibits bidders from making
+changes to the requirements in the solicitation. (AR Exs. 1, 11.)
+
+        On September 21, 2011, the CO advised MXI by letter correspondence that its bid was
+rejected as nonresponsive under IFB Section C.4.12 as described herein. (AR Ex. 4.) MXI then
+filed the present protest on September 29, 2011.
+
+                                                               DISCUSSION
+
+      We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C.
+Code §2-360.03(a)(1).
+
+       In its protest, MXI challenges the CO’s determination that its bid was nonresponsive
+based upon its alleged failure to unambiguously offer to provide all training required by IFB
+Section C.4.12 at a specific unit price.6 (Protest 3.) The protester maintains that its bid was
+unambiguous in that it offered to perform both distinct types of required IFB Section C.4.12
+                                                            
+5
+  While MXI’s base year unit price started at $1000 per day for these training services, each subsequent option year
+CLIN for this training requirement incorporated a minor $100 escalation in the “per day” unit price offered by MXI. 
+6
+  Initially, MXI also appeared to be challenging the clarity of the training provision terms in the IFB but
+subsequently clarified that it was not making such a challenge in this protest. (Protest 1; Protester Resp. to AR 4.)
+                                                               4 
+
+ 
+
+training at the proposed cost of $1000 per day, and at a total cost of $1000 in the base year,
+regardless of the fact that these two required training sessions were different in nature, were to
+take place at different locations, and potentially involved differing numbers of employees.
+(Protester Resp. to AR 5-6.)
+
+        The District, however, contends in this protest that the protester’s bid for the training
+services was ambiguous because it was subject to two different interpretations primarily resulting
+from the fact that MXI qualified its unit price bid with the words “per day” and also because it
+only offered to perform one day of training at a total estimated price of $1000. (District Resp. to
+Protester’s Reply to AR 5-8.) Thus, the District argues that it was unclear, upon bid opening,
+whether MXI was offering either: 1) a bid to perform all required OSHA training under IFB
+Section C.4.12.2, as well as the separate requirement for employee on the job training under IFB
+Section C.4.12.1 both in a single day for the cost of only $1000 despite the differing nature and
+extent of these two types of training; or, alternatively, 2) a restricted bid for some incomplete or
+partial combination of the required OSHA training and/or the required on the job training, in one
+day, given the differing nature and extent of these two types of training. (Id.) Consequently,
+based upon the information which was only available to the CO from the face of the protester’s
+bid at bid opening, the CO was unable to conclusively determine that MXI’s bid offered to
+provide the exact type and extent of the training required by the IFB and was, thus, deemed to be
+nonresponsive. (Id.)
+
+       The Board has previously held that in order to be considered responsive to an IFB, a bid
+must be an unequivocal offer to provide the exact items called for by the solicitation. Barcode
+Technologies, Inc., CAB No. P-524, 45 D.C. Reg. 8723 (Feb. 11, 1998); S. Md. Restoration, Inc.,
+CAB No. P-241, 39 D.C. Reg. 4268 (Aug. 7, 1991). In this regard, we have affirmed that
+uncertain or ambiguous bids are properly rejected as nonresponsive. Mont “T” Que Inc., CAB
+No. P-0725, 54 D.C. Reg. 2008 (Apr. 6, 2006) (ancillary notations made by protester on its bid
+made it susceptible to two different interpretations and, thus, the bid was reasonably rejected as
+ambiguous and nonresponsive).
+
+        Accordingly, based upon the foregoing legal standard, the Board finds that, in this case,
+the CO and contract specialist acted reasonably in determining that MXI’s inclusion of the words
+“per day” following the number $1000 under its proposed unit price bid qualified its unit price
+offer in a way that made it questionable as to whether the protester was offering to meet the exact
+training requirements of the IFB.7 Clearly, on its face, the IFB contemplated and directed the
+offerors to simply include a number amount for the proposed unit price as there is no other
+direction in the IFB that the required unit price could be converted to a “per day” rate. The
+decision to qualify its proposed unit price in this way was the protester’s independent decision
+alone.
+
+                                                            
+7
+  In fact, the numerous filings that the protester has made in these proceedings have been largely dedicated to
+explaining what its “per day” unit price bid was allegedly intended to unequivocally offer in terms of pricing which,
+in the Board’s view, further underscores the fact that the exact terms of its price proposal were reasonably deemed
+ambiguous on their face at the time of bid opening.    
+                                                 5 
+
+ 
+
+        Moreover, this uncertainty created by MXI’s use of the qualifying words “per day” was
+further exacerbated by the fact that the IFB required the offerors to provide two very distinct
+types of employee training, and pricing for the same, that substantially differed with respect to
+the number of employees to be trained, the type of training required to be provided, the location
+where the training was to occur, and even the lodging travel per diem expenses that would
+potentially be incurred by the awardee in connection with the training. (District Resp. to
+Protester’s Reply to AR 5-8.) It was, therefore, reasonable for the contracting officials to be
+uncertain, from the face of MXI’s bid, as to whether it was offering to provide all of this required
+training in only one day, or whether it was only offering to provide a portion of the required
+training. Thus, in light of these factors, the Board finds it reasonable that the CO found the
+protester’s bid to be ambiguous in responding to the IFB Section C.4.12 training requirements
+because of MXI’s inclusion of an alternative “per day” unit pricing structure other than what was
+called for by the IFB.
+
+       Additionally, while MXI has provided very extensive explanations during these protest
+proceedings to better clarify the intent behind the training offer outlined in its bid, these post-
+award statements cannot be used to supplement or correct deviations contained within its bid at
+the time of bid opening. Configuration Inc., CAB No. P-0819, 57 D.C. Reg. 687 (Nov. 9, 2009)
+(bid deviation cannot be corrected after bids have been opened). Indeed, allowing a protester to
+make a nonresponsive bid responsive after the bids have been opened would essentially permit
+the submission of a new bid. Dist. Healthcare and Janitorial Supply Co., CAB No. P-317, 40
+D.C. Reg. 4704 (Nov. 16, 1992).
+
+       Based upon the facts discussed herein, we find that the CO reasonably found MXI’s
+proposal to be nonresponsive to the IFB employee training requirements and properly rejected
+MXI from receiving the contract award. Accordingly, we deny the protest.
+
+
+       SO ORDERED.
+
+DATED: December 30, 2011                              /s/ Monica C. Parchment
+                                                      MONICA C. PARCHMENT
+                                                      Administrative Judge
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.                                 /s/Maxine E. McBean
+MARC D. LOUD, SR.                                     MAXINE E. MCBEAN
+Chief Administrative Judge                            Administrative Judge
+

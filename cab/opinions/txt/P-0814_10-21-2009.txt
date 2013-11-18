@@ -1,0 +1,294 @@
+              DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+
+TOMPKINS BUILDERS, INC.                      )
+                                             )        CAB No. P-0814
+Under RFP No. DCAM-2008-R-0088               )
+
+       For the Protester: Douglas L. Patin, Esq., Robert J. Symon, Esq., Bradley Arant Boult
+Cummings LLP. For the District of Columbia Government: Robert Schildkraut, Esq., Assistant
+Attorney General. For the Intervener: Claude M. Bailey, Esq., Terry L. Elling, Esq., Dismas N.
+Locaria, Esq., Venable LLP.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 27670060
+
+
+        Tompkins Builders, Inc., has protested the contracting officer’s decision to award to
+Whiting-Turner Contracting Company, Inc., a contract for construction of the Consolidated
+Forensics Laboratory (“CFL”). Tompkins argues that the two offerors’ technical proposals are
+essentially equivalent but that Tompkins proposed a significantly lower price and thus the
+contracting officer erred in selecting the higher priced Whiting-Turner proposal. The District
+contends that the contracting officer properly considered both the technical and price evaluation
+criteria in concluding that Whiting-Turner provided the most advantageous offer. Having
+reviewed the record, we find no violation of the procurement laws or regulations, or the terms of
+the solicitation. Accordingly, we deny Tompkins’ protest.
+
+                                        BACKGROUND
+
+       On September 25, 2008, the District of Columbia, through the Office of Contracting and
+Procurement (“OCP”), issued RFP DCAM-2008-R-0088 for the construction of the new
+Consolidated Forensics Laboratory (“CFL”). (Agency Report (“AR”), Ex. 1). The 287,000
+square foot new building will enable the District to co-locate the District’s Metropolitan Police
+Department Forensic Laboratory, the Department of Public Health’s Public Health Laboratory,
+and the Office of the Chief Medical Examiner for improved and efficient coordination of the
+functions of crime scene investigation, protection, and management of public health issues, and
+forensic law enforcement. RFP Section C.3.1 states:
+
+       The volume and complexity of the work: The project is a large, unique scientific
+       research facility which is the first of its kind in this country; no other laboratory
+       exists where these three functional elements are co-located. Facilities of this type
+       are by nature technically complex. They include varied and non-conventional
+       finishes and extremely complex mechanical and electrical systems, which result
+       in very “dense” construction. This dense construction is further complicated by
+                                                 -2-                          Tompkins Builders, Inc.
+                                                                                   CAB No. P-0814
+
+       the high number of skilled trades working in relatively small spaces; hence the
+       need for extremely effective coordination and scheduling.
+
+        The RFP provided that the procurement would be awarded to the offeror whose offer is
+most advantageous to the District, based upon the evaluation criteria. The RFP further noted that
+“[W]hile the points in the evaluation criteria indicate their relative importance, the total scores
+will not necessarily be determinative of the award. Rather, the total scores will guide the District
+in making an intelligent award decision[] based upon the evaluation criteria.” Section M of the
+solicitation provided a maximum of 70 points for the technical proposal, consisting of a
+maximum of 30 points for relevant experience and past performance of the general contractor, 20
+points for the relevant experience and past performance of key subcontractors, and 20 points for
+the offeror’s project management plan. The price evaluation was worth a maximum of 30 points,
+where the lowest price proposal would receive the maximum 30 points and other proposals
+would receive a score based on the maximum 30 points times the ratio of the lowest price to the
+price of the proposal being evaluated. (AR Ex. 1). The evaluation factor for relevant experience
+and past performance of the general contractor was to be evaluated based on four subfactors: the
+special standards of responsibility included in the RFP, similarity of projects, timeliness of
+performance, and key personnel. (RFP Section L.5.1). The factor for relevant experience and
+past performance of key subcontractors was to be evaluated on two subfactors: similarity of
+projects and subcontractor key personnel. (RFP Section L.5.2). The factor for the project
+management plan was to be evaluated on six subfactors: organization chart, quality control plan,
+CPM schedule, risk mitigation plan, building information modeling, and safety. (RFP Section
+L.5.3). Amendment No. 2 of the RFP (AR Ex. 2) provided the following regarding the special
+standards of responsibility:
+
+       B.2 Special Standard of Responsibility: In order to be eligible for award, the
+       offeror, as General Contractor, must have completed in the past five years a
+       LEED certified construction project value of at least $75,000,000; and must have
+       completed or is currently in the process of completing (at least 50% percent
+       completion at the time of submitting proposals) a scientific research laboratory
+       with a construction value of at least $75,000,000 (See paragraph L.5.1.1). . . .
+
+       * * *
+
+       L.5.1.1 Special Standards of Responsibility - In order to be eligible for award, the
+       offeror, as General Contractor, must have completed in the past five years a
+       LEED certified construction project with a construction value of at least
+       $75,000,000; and must have completed or is currently in the process of
+       completing (at least 50% completion at the time of submitting proposals) a
+       scientific research laboratory with a construction value of at least $75,000,000.
+       Offeror shall describe in detail all current projects detailing the above. In
+       addition, the District will not find responsible any offeror that does not provide
+       with its proposal information adequate to determine its compliance with the
+       Stated Special Standards of Responsibility. At a minimum, an offeror should
+       provide the following:
+                                                -3-                         Tompkins Builders, Inc.
+                                                                                 CAB No. P-0814
+
+               a) Time Period of the Construction;
+               b) Name and location of scientific research laboratory;
+               c) Name of contact person;
+               d) Phone number of contact person;
+               e) Total contract amount;
+               f) Year completed
+
+       Failure to meet any of the above requirements shall constitute a technically
+       unacceptable offer. (emphasis omitted).
+
+        RFP Section L.5.1.2, regarding the “Similarity of Projects” subfactor for the general
+contractor’s relevant experience and past performance factor, requests the offerors to provide
+information about prior similar projects including the name and location of the “scientific
+research laboratory or similar project” and a “[d]escription of the work performed by the Offeror;
+including comparisons to the work of this solicitation and constraints on performance of the
+work . . . .”
+
+       On December 15, 2008, two offerors, Tompkins and Whiting-Turner timely submitted
+sealed proposals. Tompkins is a wholly-owned subsidiary of Turner Construction Company
+which is not related to Whiting-Turner.
+
+         By letter dated February 17, 2009, the contracting officer notified Tompkins that its
+proposal would not be recommended for award. (AR at 4). After the Board directed the
+contracting officer to conduct a debriefing as requested by Tompkins (CAB No. P-0797 Order
+dated March 4, 2009), the contracting officer became aware of irregularities in the technical
+evaluation of Tompkins and terminated the debriefing. On March 20, 2009, Tompkins filed a
+protective protest docketed as CAB No. P-0801, challenging the District’s technical evaluation
+of Tompkins based on what it learned during the truncated debriefing. On March 31, 2009, a
+newly appointed contracting officer commenced a reevaluation of the proposals. In a
+determination dated April 17, 2009, the contracting officer eliminated Tompkins from the
+competition, concluding that Tompkins could not rely on the experience of its parent company,
+Turner Construction, and thus could not meet the special standards of responsibility. Tompkins
+filed an amended protest on April 22, 2009, contesting its elimination from the competition. On
+May 21, 2009, the Board sustained Tompkins’ amended protest. On remand, the contracting
+officer directed the technical evaluation panel (“TEP”) to reconvene on May 27 to re-evaluate
+the initial proposal and BAFO submitted by Tompkins. (AR at 5, AR Ex. 28). On May 28, the
+TEP chairman compiled the panel’s scores, prepared a consensus report, and submitted them to
+the contracting officer. After reviewing the materials, the contracting officer decided to conduct
+additional discussions with the offerors. (AR at 5; AR Ex. 28).
+
+       On June 4, 2009, the contracting officer held discussions with Tompkins and Whiting-
+Turner, and requested second BAFOs from them on June 5. The offerors submitted second
+BAFOs on June 10 and the TEP reconvened to review the proposals on June 11. The panel
+members individually reviewed and scored the proposals, and the TEP prepared a consensus
+evaluation report which was transmitted to the contracting officer on June 15 with
+supplementation on June 18 pursuant to a request for clarification from the contracting officer.
+                                                -4-                          Tompkins Builders, Inc.
+                                                                                  CAB No. P-0814
+
+(AR at 6; AR Exs. 23, 24, 25, and 28). The contracting officer reviewed the proposals, the TEP
+consensus report, and the supplemental clarifications, and made an independent evaluation of the
+proposals. On June 26, 2009, the contracting officer executed a business clearance memorandum
+(AR Ex. 28) in which he discussed the technical and price evaluation of the offerors and selected
+Whiting-Turner for award of the CFL contract. Although the final scores for Tompkins and
+Whiting-Turner were within 5 points of each other based on a maximum possible score of 112
+points (including up to 12 preference points), the contracting officer concluded that Whiting-
+Turner had the superior proposal. Whiting-Turner received a rating of “excellent” in every
+technical subfactor but one for the three evaluation factors while Tompkins received a rating of
+“good” for the subfactors under the first two factors and “excellent” in four of the six subfactors
+for the third factor. Tompkins received the maximum score for the price evaluation with its total
+project price being $4.8 million less than Whiting-Turner’s price. Tompkins also received 4
+preference points as a certified business enterprise. The contracting officer concluded that it was
+more advantageous for the District to award to Whiting-Turner based on its better technical
+proposal notwithstanding its higher price.
+
+       On June 30, 2009, the District submitted the proposed contract award to the District of
+Columbia Council for approval. On July 14, 2009, Tompkins received a debriefing regarding the
+proposed award. On July 17, 2009, Tompkins filed its protest.
+
+                                         DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        Tompkins argues that the contracting officer failed to justify awarding the contract to the
+higher priced offeror, Whiting-Turner. Tompkins faults the contracting officer for not
+conducting a proper cost technical tradeoff analysis. Tompkins insists that the technical
+proposals were essentially equivalent and that awarding to the offeror with a $4.8 million higher
+price is irrational and unreasonable. Reviewing the record, we find no basis for sustaining
+Tompkins’ challenge. In the business clearance memorandum which summarizes his evaluation
+of the proposals and selection decision, the contracting officer determined that Whiting-Turner’s
+proposal was superior to Tompkins’ proposal, with superior experience in the construction of
+laboratory facilities, a better commitment of key general contractor personnel and subcontractors
+with experience working with each other on other similar projects, and a fully developed project
+management plan that showed a solid grasp of a sound project approach. The contracting officer
+agreed with the evaluation conducted by his technical evaluation panel, and his decision for
+additional discussions and second BAFOs plus his request for TEP clarifications of the June 15
+consensus report demonstrate that he conducted a reasonably thorough independent assessment
+of the technical evaluation. Even with the total evaluation points for technical, cost, and
+preferences indicating Whiting-Turner as the top-ranked offeror, the contracting officer
+nevertheless considered in his selection decision whether the technical advantages he and the
+TEP found with the Whiting-Turner proposal justified the higher price. The contracting officer
+concluded that the technical proposal commitment by Whiting-Turner was worth the $4.8
+million higher price. We see no basis in the record for concluding that the contracting officer
+acted unreasonably or irrationally in deciding that the awardee’s proposal was most
+advantageous to the District.
+                                                 -5-                          Tompkins Builders, Inc.
+                                                                                   CAB No. P-0814
+
+
+
+         Tompkins further argues that the contracting officer effectively changed the evaluation
+criteria by narrowing the range of “relevant” past performance from “scientific research
+laboratory or similar projects” as stated in the solicitation to “forensics or medical examiner
+facilities.” Tompkins points to what it calls disparate treatment in the evaluation of past projects
+of the offerors based on similarity of those projects to the CFL project. Tompkins states that in
+connection with the second BAFO request, the contracting officer had more questions about
+Tompkins’ past performance projects and concentrated on whether its prior projects involved
+forensic/police laboratories or medical examiner/morgue facilities and whether the square
+footage of those projects were similar to the CFL project. Tompkins contends that Whiting-
+Turner’s proposal contained no medical examiner/morgue project experience and at most two or
+three forensic labs but with smaller square footage than CFL.
+
+        We cannot sustain Tompkins protest allegation that the evaluation subfactor for similarity
+of projects was narrowed or that the contracting officer unfairly downgraded Tompkins for a
+weakness in forensics or medical examiner project experience. The evaluators and contracting
+officer found Tompkins past performance projects, which clearly included scientific research
+laboratories, to be deserving of a “good” rating and Whiting-Turner’s past performance projects
+to be deserving of an “excellent” rating. The contracting officer committed no error by
+requesting Tompkins to identify any forensic or medical examiner facilities in its second BAFO
+response. Such project experience is logically encompassed by the evaluation criteria and the
+request was meant to provide Tompkins an opportunity to strengthen its proposal. Tompkins
+supplied additional project references, some of which included forensic laboratories. Some of
+the references were discounted by the contracting officer and evaluators because the work was
+performed as the owner’s construction manager rather than as general contractor. The failure of
+the contracting officer to make a similar BAFO request of Whiting-Turner is best explained in
+the record as reflecting the contracting officer’s and TEP’s belief that Whiting-Turner had
+provided already in its initial proposal significant references to scientific and medical research
+(including forensics) laboratory project experience, meriting the maximum “excellent” rating for
+the subfactor. We have carefully considered the information provided by each offeror in its
+proposals, including the BAFOs, and from the record we cannot conclude that the evaluation
+violated the terms of the solicitation or the law. The question of the aptness of prior performance
+project references is committed primarily to the business judgment of the evaluators and
+contracting officer and it would be improper for us to attempt to conduct our own evaluation of
+the technical features of the proposals. We discern no evidence of disparate treatment favoring
+Whiting-Turner over Tompkins.
+
+        Finally, Tompkins argues that it was improper for the contracting officer and TEP to rely
+in the second BAFO evaluation on Whiting-Turner’s submission of an augmented CPM
+schedule, updated site utilization plans, preliminary LEED action plan, and project specific
+safety plan. Tompkins notes that Whiting-Turner prepared these documents during an
+approximate 3-month period from the time that it received initial notice in February 2009 of a
+proposed award. Tompkins contends that the RFP did not require such detailed schedules and
+plans, the submissions were unnecessary in the proposal phase, and the contracting officer
+improperly cited the documents as a proposal advantage for Whiting-Turner. Tompkins also
+points to a cost and pricing certification dated June 22, 2009, submitted by Whiting-Turner to the
+                                                -6-                          Tompkins Builders, Inc.
+                                                                                  CAB No. P-0814
+
+contracting officer (4 days before the contracting officer signed the business clearance
+memorandum) as additional evidence of a predisposition to award to Whiting-Turner. The
+contracting officer states in a declaration that he requested a revised certification because in
+reviewing Whiting-Turner’s second BAFO price proposal, he noticed a discrepancy in the price
+and thus he wanted the correct price clarified.
+
+        We cannot sustain Tompkins’ protest ground. Whiting-Turner worked on the schedules
+and plans in anticipation of receiving an award and recognized that its work was at its own risk
+as there was no contract in place. Tompkins cites no legal authority, and we are aware on none,
+which prohibits a contracting officer from considering such additional documentation provided
+in a BAFO. Whiting-Turner may have believed that its prospects for receiving an award justified
+beginning work on these schedules and plans before award. Tompkins has not shown that it was
+prejudiced in the technical evaluation. Whiting-Turner had received even before the second
+BAFO the maximum points under the relevant evaluation criteria as determined by the TEP and
+contracting officer. The contracting officer’s reference to a “fully developed Project
+Management Plan” in his independent assessment may in part refer to the augmented schedules
+and plans but the record does not support a conclusion that these schedules and plans were the
+decisive factor in making award to Whiting-Turner.
+
+       To the extent that Tompkins alleges bias or bad faith on the part of the District’s
+contracting officials, the record does not support such a finding. The contracting officer and
+evaluators performed their duties consistent with the law and the terms of the solicitation and
+their evaluation and selection documentation adequately explains the bases for their
+determinations. Tompkins’ motion challenging the District’s determination to proceed with
+performance is moot in light of our decision denying the protest.
+
+                                        CONCLUSION
+
+        We have considered each of the allegations raised by Tompkins in its protest and
+supplemental pleadings and conclude that Tompkins has not shown that the contracting officer
+violated the law or the terms and conditions of the solicitation. Accordingly, we deny its protest.
+
+       SO ORDERED.
+
+
+DATED: October 21, 2009                               /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

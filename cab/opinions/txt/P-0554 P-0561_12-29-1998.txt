@@ -1,0 +1,223 @@
+                                                                                                          [7647]
+
+                      GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                            CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+        IDEAL ELECTRONIC SECURITY COMPANY                       )
+        and ACCUTECH SYSTEMS, INC.                              )
+                                                                ) CAB No. P-554,P-561
+     . Under Solicitation No. DCPS-R-98036-OS                   )   ... (Consolidated)
+
+       For the Protester, Ideal Electronic Security Company: Kenneth A. Martin, Esq., Martin &
+Rylander, P.C. For Protester, AccuTech Systems, Inc.: Mr. John C. Bellistri, pro se. For the
+Government: Howard S. Schwartz, Esq., Warren J. Nash, Esq., and II. Christopher Malone, Esq.,
+Assistants Corporation Counsel. .                      .
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge Lorilyn
+E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+ *                      ;'•       '     '
+
+
+                                              OPINION ;•                                                 .
+
+        Two prospective contractors, Ideal Electronic Security Company and AccuTech Systems, Inc.,
+protested the decision of the District of Columbia Public Schools ("DCPS") to award Simplex Time
+Recorder Company ("Simplex") a contract under Solicitation No. DCPS-R-98036-OS for a closed circuit
+television surveillance system at various public schools. The protesters contend that DCPS improperly
+evaluated the proposals and improperly determined Simplex to be the only offeror within the competitive
+range.                                                    • •
+
+        We conclude that DCPS violated no law or regulation in its evaluation of the proposals and that
+the record does not show that the technical evaluation of the proposals was either irrational or arbitrary.
+The evaluation and scoring ultimately adopted by the contracting officer was consistent with the evaluation
+scheme established in the solicitation., Accordingly, we deny the consolidated protests.
+
+                                            BACKGROUND
+
+         On June 5,1998, DCPS issued Solicitation No. DCPS-R-98036-OS for a closed circuit television
+surveillance system at various public school locations. (Agency Report ("AR") Ex. 1). Section M.3 of the
+solicitation defined the selection criteria and corresponding values as follows:
+
+        Selection Criteria                                                               Weight
+
+        1.       Technical Proposal                        :         ,
+
+             .   A.     Operational Capacity               '             „ .              40
+                                                                                                                  7648]
+
+                                                       _2-       ,      Ideal Elec. Security, CAB Nos. P-554, 561 .
+
+                B.       Technical Approach                                                     40
+                C.       Installation                                                           10
+       . . . . .             .i      •      -s       , .         -
+        2.      Corporate Past Performance, Organizational
+                Support, and Personnel Experience
+
+                A.       Project Experience                                                     10
+                B.       Project Manager and Personnel . ',                                      5
+                C.       Organizational Support                                                  5
+
+        3.      Price                                                                           40
+
+        4.      LSDBE                                                                           181
+
+                                          Total Available Points                              168
+
+        Five prospective contractors submitted responsive proposals by the solicitation' s closing date and
+timeonJuly20, 1998. Proposals were submitted by Ideal, AccuTech, Simplex, Cardkey Systems, Inc.,
+and Condortech Services, Inc. (AR at 3). On July 22, 1998, a technical evaluation panel ("TEP")
+appointed by the contracting officer reviewed the five proposals. According to instructions from the
+contracting officer, the evaluators first independently evaluated and scored each proposal. (AR Ex. 7).
+Based on all technical and price criteria, and including the 1 8 LSDBE points for which Ideal qualified, and
+correcting various arithmetic errors by two of the evaluators, the five proposals had the following average
+scores arrived at independently by each e valuator:                       ;,
+
+        Offerer                   Technical                  Price                     Total
+        Ideal                     110.24                     34.8                      145.04
+        Simplex;,                 102,40                     36.8                      139.20
+        Cardkey                   103.72                     19.3                      123.02
+        Condortech                99.40                      13.4                      112.80
+        AccuTech                  70.00 "                    40vO                      110.00
+
+(AREx. 9;AREx. 13, at 4; AR at 4).               ,              ,; ,'
+
+        Next, the TEP met "to discuss the strengths and weaknesses of each proposal with the obj ective
+of reaching a consensus on its merits and (deficiencies, relative to the evaluation criteria/factors." (AR Ex.
+7). The TEP members met and discussed the offerers and their proposals, including strengths and
+weaknesses for each. During the discussion, one member identified deficiencies in Ideal' s proposed
+
+
+1
+  The, 18 point maximum allowed by the solicitation on the 150 point total for technical and price criteria
+is consistent with the Local, Small, and Disadvantaged Business Enterprises Act ("LSDBE Act"), which
+permits a total of 12 points on a 100 point scale.
+                                                                                                                 [7649]
+
+                                                 , - 3-   -.'         Ideal Elec. Security, CABNos. P-554, 561
+
+cameras and video multiplexors and performance problems on one prior contract. (AR Supp. Ex. 18).2
+In the course of this consensus evaluation meeting, the TEP rhembers then rescored the proposals based
+on their discussions. The panel members state that their detailed collective technical discussion and
+reassessment highlighted technical deficiencies in some of the proposals, including Ideal's, that were not
+noted by various members during their individual assessments. Ideal's consensus technical score was 3 7
+points lower than its average technical score from the TEP individual evaluations, decreasing from 110.24
+to 73. The decrease was primarily under the criteria for operational capacity and technical approach which
+decreased by a total of 34 points.between them. Simplex's consensus technical score was about 5 points
+higher than its average technical score from the individual evaluations by the TEP members. The following
+summarizes the results of the consensus scoring:                 ,
+
+        Offerer                  Technical                Price                     Total
+        Ideal               ,       73         ;          34.8.                     107.8
+                                                                  ;
+        Simplex         .           107                   36.8                      143.8
+        Cardkey                     100                   19.3                      119.3
+        Condortech                   95 • • ' .'          13.4                      108.4
+        AccuTech                   ' 30 . >   .           40.0                       70.0
+
+(AREx. 9; AREx. 13, at 5; ARat5). The TEP recommended that the competitive range be limited to
+Simplex, because the other offerers had no reasonable chance of supplanting Simplex as the highest ranked
+offerer in terms of technical and price. On July 22,1998, the contracting officer met with the TEP and
+discussed their consensus evaluations, scoring, and recommendations. The contracting officer agreed with
+the TEP because the next closest two offerers, though close in technical scoring, were far lower in the price
+scoring because they offered prices 200 and 300 percent higher than that offered by Simplex. Ideal and
+AccuTech were considered to be too weak under the technical criteria. (AR Ex. 11; AR Supp. Ex. 18).                f
+
+
+         On July 24 and July 29,1998, the contracting officer conducted negotiations with Simplex,
+requested a BAFO, and received Simplex' BAFO on July 31,1998. The contracting officer determined
+that the BAFO price offered by Simplex was fair and reasonable and thereafter awarded a contract on
+Augusts, 1998.                                      ,.   , :!
+                   *       -         . ' . - , - ' '   "    \    -< "
+                                               • -t             ' j
+         Ideal filad its protest on August 21,1998, docketed as GAB No. P-554. It is not clear from the
+record whether Ifeal ever sought and received a debriefing. On September 28,1998, DCPS' contracting
+officer forwarded to us a protest of AccuTech which had been misfiled with DCPS. AccuTech's protest
+was docketed as CAB No. P-561.
+                                         " , . • • • ,      i,'     .                  ,        , j
+                                                 DISCUSSION      ;
+
+        We exercise protest jurisdiction pursuant to D.C. Code § 1-1189.3 (Supp. 1998).
+
+
+2
+ Exhibit 18, consisting of affidavits from the contracting officer and three of the evaluators, was filed as
+part of the District's October 5, 1998 response to Ideal's comments on the Agency Report.
+                                                                                                                    [7650]
+                                                                 ?.,
+                                                   ' -4-                Ideal Elec. Security, CAB Nos. P-554, 561
+
+         In determining the propriety of an evaluation and selection decision, We examine the record to;
+determine whether the decision was reasonable and in accord with the evaluation criteria listed in the
+solicitation and whether there were any violations of procurement laws or regulations. Health Right, Inc.,
+CABNo.P-507,Oct. 15,1997,9 P.D. 7372,7395. Implicit in the foregoing is that the evaluation and'
+selection decision must be documented in sufficient detail to show that it is not arbitrary. Id.; Southwest
+Marine, 96-1 CPD1 56; S&MProperly Management, B-243051, June 28, 1991, 91-1 CPD U 615.
+In particular, the agency's technical evaluation documentation is required to include an analysis of the
+technically acceptable and unacceptable proposals, including an assessment of each offerer's ability to
+accomplish the technical requirements.                       -
+
+         Ideal argues the contracting officer improperly relied on the subjective opinion of one TEP member
+concerning Ideal's past performance on another contract, in justifying (lie significant decrease in its technical
+scores (from the individual assessments to the consensus assessment) and its elimination from the
+competitive range. That argument does not take account of the additional supplementation offered by the
+District, including the affidavits of three of the TEP members and the contracting officer. Ideal argues that
+we should disregard those materials because they were submitted well after the Agency Report and after
+Ideal had responded to the Agency Report. Although we agree with Ideal that the record, as it existed
+prior to the District's last supplementation, did not adequately document the evaluation and selection
+process, at least with regard to the consensus evaluation of Ideal, we believe that the supplemental affidavits
+provide adequate explanation for the recommendations of the TEP and the evaluation and selection
+decision of the contracting officer. These affidavits should have been prepared and submitted as part of
+the Agency Report. Nevertheless, we will not exclude them from the record because it appears that no
+debriefing occurred and no depositions were conducted of the relevant District personnel. Thus, the key
+protest issues did not crystallize until after the Agency Report and its exhibits were served on Ideal. When
+Ideal pointed out in its comments on the Agency Report that the record lacked substantial information
+supporting Ideal's consensus evaluation and scoring, the District responded with the supplemental affidavits.
+
+         In other circumstances, post-Agency Report amplifications might not carry significant weight: Here;
+however, the facts set forth in the affidavits are consistent with the contracting officer's earlier and poorly
+documented conclusions. The affidavits also explain the rather vague comment in the TEP final report that
+the "detailed collective technical assessment highlighted technical deficiencies that were not noted in the
+individual assessments'' - a reference primarily to the significant difference between the consensus technical
+scoring and the average of the individual technical assessments of Ideal, and the comment that "Ideal's past
+performance rating was reduced based upon the technical expert member' s knowledge of the company."
+More importantly, Ideal has not rebutted the statements contained in the affidavits which detail deficiencies
+in the cameras, and video multiplexors proposed by Ideal. For these reasons, we have permitted the
+District to supplement the record and we find that the supplemental affidavits provide an adequate rationale
+for the recommendations of the TEP and the competitive range and selection determinations made by the
+contracting officer.
+
+        There is no indication in the record that either the TEP or the contracting officer considered criteria
+other than those provided in the solicitation. Thus, the argument that DCPS did not evaluate according to
+                                                                                                                 [7651]
+
+                                                    -5-               IdealElec. Security, CAB Nos. P-554, 561
+
+
+the specified criteria is without merit, AccuTech's argument that its price was lower than that of Simplex's
+and that AccuTech's technical offering met the specification requirements does not contradict the
+determination of the contracting officer and the TEP that Simplex had the best offering, considering all price
+and technical criteria, therefore, AccuTech's protest does not state a meritorious ground.
+
+                                             CONCLUSION
+
+        The consolidated protests are denied.
+
+
+DATED: December 29. 1998
+                                                          JONATHAN D. ZISCHKAU
+                                                          Administrative Judge
+
+CONCURRING:
+
+  il             £
+          1.SIMKINS-
+Chief Administrative Judge
+
+
+
+PHYLLIS W. MCK
+Administrative *f udge
+

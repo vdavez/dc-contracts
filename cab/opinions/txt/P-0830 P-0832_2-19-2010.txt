@@ -1,0 +1,322 @@
+         DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+KEYSTONE PLUS CONSTRUCTION CORP.                      )
+                                                      )       CAB Nos. P-0822, P-0830, P-0832
+Solicitation No: DCAM-2009-B-0040                     )
+
+       For the Protester: John Hardin Young, Esq. For the Intervener: Mr. Keith Forney,
+President, FEI Construction Company. For the District of Columbia Government: Talia Cohen,
+Esq., Howard Schwartz, Esq., Assistant Attorneys General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Jonathan
+D. Zischkau, concurring.
+
+                                            OPINION
+                                         Filing ID 29663771
+
+        Keystone Plus Construction Corporation protests the decision of the contracting officer to
+award to Forney Enterprises, Inc. (“FEI”), a contract for renovations of Building #52 at the
+University of the District of Columbia’s (“UDC”) Van Ness Campus. Keystone’s bid was
+determined to be nonresponsive due to an inadequate certified business enterprise (“CBE”)
+subcontracting plan. Because the CBE subcontracting plan in Keystone’s bid was materially
+incomplete, Keystone’s bid was nonresponsive pursuant to D.C. Code § 2-218.46(d). Accordingly,
+the contracting officer did not err in determining Keystone’s bid to be nonresponsive. We dismiss in
+part and deny in part the consolidated protests.
+
+                                        BACKGROUND
+
+        On July 8, 2009, the District’s Office of Property Management, Contracts Division for the
+District of Columbia Government, issued Invitation for Bids No. DCAM-2009-B-0040 (“IFB”) in
+the Open Market for a contractor to provide all labor, materials, equipment, and supervision for the
+renovation of Building #52, University of the District of Columbia, Van Ness Campus, 4350
+Connecticut Avenue, NW, Washington, DC, 20008. (Agency Report (“AR”); AR Ex. 1).
+
+       Between July 15, 2009, and August 25, 2009, the District issued 12 amendments. (AR Ex.
+1). Section B.2 of the IFB provides:
+
+       Any prime contractor responding to this solicitation must submit with its bid, a
+       notarized statement detailing its subcontracting plan. Proposals responding to this
+       IFB shall be deemed nonresponsive and shall be rejected if the bidder fails to submit
+       a subcontracting plan that is required by this solicitation. For construction contracts
+       in excess of $250,000, at least 35% of the dollar volume of the contract shall be
+       subcontracted in accordance with section M.1.5.
+
+(AR Ex. 1). In addition, pursuant to Section M.1.1, the IFB allowed preferences in evaluating bids
+under the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of
+2005. (AR Ex. 1). Section L.9 of the IFB initially provided:
+                                                -2-                    Keystone Plus Construction Corp.,
+                                                                       CAB Nos. P-0822, P-0830, P-0832
+
+
+
+       L.9 SUBMISSION OF SUBCONTRACTING PLAN:
+
+       L.9.1 Any prime contractor responding to this solicitation shall submit, within 5
+       days of the CO’s request, a notarized statement detailing it [sic] plan. This plan shall
+       meet the requirements described under Section M.1.10 of this solicitation.
+
+       L.9.2 A Contractor cannot make any changes to its subcontracting plan without prior
+       written approval by the CO. The approved plan will be incorporated into and
+       become part of the contract.
+
+(AR Ex. 1). On August 21, 2009, the District issued Amendment 9, which required bidders to
+submit a subcontracting plan with the bid consistent with Sections B.2 and M:
+
+       (1) Section L.9 of the solicitation is hereby changed to read as follows:
+
+       L.9.1 Any prime contractor responding to this solicitation shall submit with the bid,
+       a notarized statement detailing its subcontracting plan. This plan shall meet the
+       requirements described under Section M.1.10 of this solicitation.
+
+       (2) All other terms and conditions remain the same.
+
+        The first page of the solicitation at section 6 of Standard Form A made applicable a provision
+stating: “Open Market with set aside for LSDBE subcontracting (see Sec-M)”. (AR Ex. 1). The
+referenced Section M provides in pertinent part:
+
+       M.1.5 Mandatory Subcontracting Requirement
+
+       M.1.5.1 For construction contracts in excess of $250,000, at least 35% of the dollar
+       volume of the construction contract shall be subcontracted to certified small business
+       enterprises; provided, however, that the costs of materials, goods and supplies shall
+       not be counted towards this 35% subcontracting requirement unless such materials,
+       goods and supplies are purchased from SBEs. . . .
+
+       M.1.6 Certified Business Enterprise Prime Contractor Performance Requirements
+
+       M.1.6.1 If a certified business enterprise is selected as a prime contractor and is
+       granted a price reduction pursuant to the Act or is selected through a set-aside
+       program under the Act, that certified business enterprise prime contractor shall
+       perform at least 35% of the contracting effort, excluding the cost of materials, goods
+       and supplies, with its own organization and resources and, if it subcontracts, at least
+       35% of the subcontracted effort, excluding the cost of materials, goods and supplies,
+       shall be with certified business enterprises. . . .
+
+       M.1.9 Subcontracting Plan
+                                                 -3-                    Keystone Plus Construction Corp.,
+                                                                        CAB Nos. P-0822, P-0830, P-0832
+
+
+
+       Any prime contractor responding to this solicitation shall submit with its bid, a
+       notarized statement detailing its subcontracting plan. Bids responding to this IFB
+       shall be deemed nonresponsive and shall be rejected if the bidder fails to submit a
+       subcontracting plan that is required by this solicitation. Once the plan is approved by
+       the contracting officer, changes will only occur with the prior written approval of the
+       contracting officer and the Director of DSLBD. Each subcontracting plan shall
+       include the following:
+
+       M.1.9.1 A description of the goods and services to be provided by SBEs or, if
+       insufficient qualified SBEs are available, by any certified business enterprises;
+
+       M.1.9.2 A statement of the dollar value of the bid that pertains to the subcontracts to
+       be performed by the SBEs or, if insufficient qualified SBEs are available, by any
+       certified business enterprises;
+
+       M.1.9.3 The names and addresses of all proposed subcontractors who are SBEs or, if
+       insufficient SBEs are available, who are certified business enterprises;
+
+       M.1.9.4 The name of the individual employed by the prime contractor who will
+       administer the subcontracting plan, and a description of the duties of the individual;
+
+       M.1.9.5 A description of the efforts the prime contractor will make to ensure that
+       SBEs, or, if insufficient SBEs are available, that certified business enterprises will
+       have an equitable opportunity to compete for subcontracts;
+
+       M.1.10 Compliance Reports
+
+       By the 21st of every month following the execution of the contract, the prime
+       contractor shall submit to the contracting officer and the Director of DSLBD a
+       compliance report detailing the contractor's compliance, for the preceding month,
+       with the subcontracting requirements of the contract. The monthly compliance
+       report shall include the following information. . . .
+
+(AR Ex. 1). Viewing the solicitation as a whole, we find that the solicitation clearly required bidders
+to submit with their bids a certified business enterprise subcontracting plan and made the
+subcontracting plan submission a matter of bid responsiveness.
+
+       On August 31, 2009, the following eleven prospective contractors submitted bids in response
+to the IFB: (1) Chiaramonte Construction Company ($5,342,094.03); (2) Horton & Barber
+($6,142,400.00); (3) Keystone ($6,389,100.00); (4) FEI ($6,450,400.00); (5) Hess Construction
+($7,150,000.00); (6) GCI, Inc. ($7,341,500.00); (7) Specialty Construction ($7,992,400.00); (8)
+Prince Construction Company ($8,688,000.00); (9) Apex Services, Inc. ($8,564,500.00); (10)
+Maryland Construction ($8,184,483.00); and, (11) Ammka Inc. ($9,649,600.00). (AR Ex. 2).
+                                                -4-                   Keystone Plus Construction Corp.,
+                                                                      CAB Nos. P-0822, P-0830, P-0832
+
+
+        The District prepared an Evaluated Bid Tabulation indicating the following regarding the
+four lowest bidders: (1) Chiaramonte offered the lowest evaluated price of $5,342,094.03; (2)
+Horton & Barber offered the second lowest evaluated price of $6,142,400.00; (3) Keystone offered
+the third lowest evaluated price of $6,389,100.00; and (4) FEI offered the fourth lowest evaluated
+price of $6,450,400.00. (AR Ex. 2).
+
+        In its subcontracting plan, Keystone omitted the total dollar amount of subcontracts, and the
+total dollar amount of LSDBE subcontracts. For the LSDBE percentage set-aside, Keystone stated
+that the percentage equaled 35% but an asterisk below reads: “if awarded, [Keystone] shall
+subcontract a minimum of 35% to LSDBE’s.” (AR Ex. 3). This notation suggests that Keystone
+intended to have more than one LSDBE subcontractor. However, only one subcontractor is listed on
+the subcontracting plan, Swann Construction, and for that subcontractor, the lines requesting the
+total subcontract dollar amount and the percentage of the total set aside amount are left blank. The
+plan included Swann’s address, telephone number, email address, LSDBE certifications, and
+statement of work items to be performed. (AR Ex.3). At an evidentiary hearing on January 7, 2010,
+Keystone witnesses provided no testimony to support a finding that its subcontracting plan included
+in its bid was materially complete. As described below, the evidence shows that the initial
+subcontracting plan was materially incomplete at the time of bid opening.
+
+        By letter dated August 31, 2009, Chiaramonte requested permission to withdraw its bid as its
+bid contained a mathematical error. (AR Ex. 2). In the belief that the District intended to award the
+proposed contract to Horton & Barber, Keystone file a protest with the Board on September 10,
+2009 (docketed as CAB No. P-0822), challenging any contract award to Horton & Barber or any
+other company other than Keystone. On October 7, 2009, the District reviewed Horton & Barber’s
+bid and found it to be nonresponsive due to an insufficient bid bond. (AR Ex. 6). On October 8,
+2009, the District reviewed the bid of Keystone and found it nonresponsive due to an incomplete
+subcontracting plan. (AR Ex. 6).
+
+        On October 13, 2009, the contract specialist contacted Keystone’s subcontractor, Swann
+Construction. (AR Ex. 7). Swann failed to respond to the contract specialist. On October 13, 2009,
+the contract specialist also contacted Keystone, requesting a list of its subcontractors and the
+percentages of work to be performed. (AR Ex. 7; Tr. 14). On October 14, 2009, Keystone sent an
+email to the District stating, in pertinent part:
+
+       Please find below our preliminary estimate of subcontractors for UDC Bldg 52
+
+       Subcontractor Percentage Designation
+       Dominion Electric of Washington, D.C. 20% CBE
+       Swann Construction 19% CBE
+       SEF Metal Fabricators 8% DBE
+       Calvert Jones 53% n/a
+
+       (AR Exs. 5, 6; Tr. 19). By a Determination and Findings for Award to Other than Low
+Bidder, dated October 21, 2009, the contracting officer determined inter alia that Keystone’s bid was
+nonresponsive for failure to submit a complete subcontracting plan and, based on Keystone’s
+                                                -5-                   Keystone Plus Construction Corp.,
+                                                                      CAB Nos. P-0822, P-0830, P-0832
+
+
+October 14, 2009 email, District officials noted that “[f]urther review revealed that Keystone
+intended to subcontract 100% of the contract out for completion. This is in violation of D.C. Code 2-
+218.46(b)(1) (A).” (AR Ex. 2).
+
+        On October 22, 2009, Keystone provided another subcontracting plan to the District via
+email. The plan, dated October 9, 2009, included only two subcontractors: Swann and Dominion
+Electric. (Keystone’s Exhibits B and C attached to Roubin affidavit of December 12, 2009).
+
+        On October 29, 2009, the District filed a motion to dismiss Keystone’s protest in P- 0822
+based on mootness and lack of standing. On October 29, 2009, Keystone filed with the Board an
+additional protest (CAB No. P-0830) challenging the District’s rejection of Keystone’s bid as
+nonresponsive. On November 4, 2009, Keystone filed a response to the District’s motion to dismiss
+in P-0822. On November 5, 2009, Keystone filed a third protest (CAB No. P-0832) challenging
+FEI’s subcontracting plan. The Board consolidated protests P-0830 and P-0832. On November 12,
+2009, the District filed a notice of intent to award dated November 10, 2009, in P-0822, P-0830 and
+P-0832 (consolidated) and filed a Determination and Findings to Proceed with Contract Award while
+a Protest is Pending. On November 25, 2009, the District filed its agency report and motion to
+dismiss in CAB Nos. P-0830 and P-0832. A hearing before the Board was held on January 7, 2010,
+and the parties have filed post-hearing briefs.
+
+                                          DISCUSSION
+
+        We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1). The main issue presented
+in these consolidated protests is whether the contracting officer properly determined that Keystone’s
+admittedly incomplete subcontracting plan furnished with its bid rendered Keystone’s bid
+nonresponsive.
+
+       D.C. Code §§ 2-218.46(d) and (e) provide:
+
+       (d) Bids or proposals responding to a solicitation, including an open market
+       solicitation, shall be deemed nonresponsive and shall be rejected if the solicitation
+       requires submission of a certified business enterprise subcontracting plan and the
+       prime contractor fails to submit a subcontracting plan as part of its bid or proposal.
+       A certified business enterprise subcontracting plan shall specify the following:
+
+           (1) The name and address of the subcontractor;
+           (2) Whether the subcontractor is currently certified as a certified business
+       enterprise;
+           (3) The scope of work to be performed by the subcontractor; and
+           (4) The price to be paid by the contractor to the subcontractor.
+
+       (e) No prime contractor shall be allowed to amend the subcontracting plan filed as
+       part of its bid or proposal except with the consent of the contracting officer and the
+       Director. Any reduction in the dollar volume of the subcontracted portion resulting
+       from such amendment of the plan shall insure [sic] to the benefit of the District.
+                                                 -6-                    Keystone Plus Construction Corp.,
+                                                                        CAB Nos. P-0822, P-0830, P-0832
+
+
+
+        There is no dispute that subsection 2-218.46(d) applies to this procurement and the procuring
+agency. As the facts amply demonstrate, the solicitation was an open market solicitation requiring
+submission of a certified business enterprise subcontracting plan. Section M of the solicitation
+tracks much of the language of D.C. Code § 2-218.46, including subsection 2-218.46(d). Thus, each
+bidder was required to submit a complete subcontracting plan including the name and address,
+current CBE certification status, scope of work, and price to be paid, for each subcontractor.
+
+        Keystone argues that the subcontracting plan language from Amendment No. 9, when read in
+conjunction with the mistakenly referenced Section M.1.10 regarding compliance reports, somehow
+makes the CBE subcontracting requirements only a matter of responsibility, which Keystone could
+have satisfied after bid opening but before contract award. Indeed, prior to enactment of D.C. Code
+§ 2-218.46 in 2005, District procurement law addressed subcontracting plans in bids as a matter of
+bidder responsibility, not responsiveness. However, section 2-218.46, in regulating performance and
+subcontracting requirements, including CBE participation, mandates that CBE subcontracting plans,
+under certain defined circumstances which are applicable here, be a matter of bid responsiveness.
+Although Amendment No. 9 lacked the clarity and precision that one would expect, Section M,
+particularly M.1.9, of the solicitation provides more than adequate clarity that the subcontracting
+plan here was a matter of responsiveness. Each bidder in this procurement was required to submit a
+CBE subcontracting plan with its bid. In future applicable solicitations, contracting officers should
+make very clear in the relevant parts of the solicitation the fact that a CBE subcontracting plan is
+required with the bid, including the statutorily required information, and that a materially incomplete
+subcontracting plan at the time of bid opening will render the bid nonresponsive.
+
+        On the facts presented in the record, Keystone’s subcontracting plan was materially
+incomplete so as to render its bid nonresponsive. In its subcontracting plan, Keystone omitted the
+total dollar amount of subcontracts, and the total dollar amount of LSDBE subcontracts. For the
+LSDBE percentage set-aside, Keystone stated that the percentage equaled 35% but states further: “if
+awarded, [Keystone] shall subcontract a minimum of 35% to LSDBE’s.” This suggests that
+Keystone intended to have more than one LSDBE subcontractor. However, only one subcontractor
+is listed on the subcontracting plan, and for that subcontractor, the lines requesting the total
+subcontract dollar amount and the percentage of the total set aside amount are left blank. Over a
+month after bid opening, on October 14, 2009, Keystone furnished by email a “preliminary estimate
+of subcontractors” for the project, listing four subcontractors with percentages of 20, 19, 8, and 53.
+On October 22, 2009, Keystone furnished a new subcontracting plan identifying the same
+subcontractor listed on the original subcontracting plan (but this time including a subcontract dollar
+amount and percentage set aside amount) plus an additional subcontractor with all of the information
+completed on the subcontracting plan form. At the evidentiary hearing, Keystone admitted that the
+original subcontracting plan submitted with its bid was incomplete and that it intended to complete
+its plan after notice of award. The omissions in the original subcontracting plan submitted with
+Keystone’s bid, taken together, rendered that plan materially incomplete.
+
+       Because the CBE subcontracting plan in Keystone’s bid was materially incomplete,
+Keystone’s bid was rendered nonresponsive pursuant to D.C. Code § 2-218.46(d). Accordingly, the
+contracting officer did not err in determining Keystone’s bid to be nonresponsive.
+                                             -7-                  Keystone Plus Construction Corp.,
+                                                                  CAB Nos. P-0822, P-0830, P-0832
+
+
+
+        We have considered the other protest grounds raised by Keystone and these grounds are
+either moot or lack merit. With regard to Keystone’s allegations regarding FEI, Keystone lacks
+standing to challenge the award.
+
+                                       CONCLUSION
+
+       For the reasons discussed above, we conclude that the contracting officer did not err in
+determining Keystone’s bid to be nonresponsive based on a materially incomplete CBE
+subcontracting plan submitted with its bid. Accordingly, the protests are dismissed in part and
+denied in part.
+
+       SO ORDERED.
+
+DATED: February 19, 2010                           /s/ Warren J. Nash
+                                                   WARREN J. NASH
+                                                   Administrative Judge
+
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

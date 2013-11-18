@@ -1,0 +1,737 @@
+                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+       C&D TREE SERVICE, INC.                            )
+                                                         )       CAB No. P-440
+       Under IFB No. OMS-4336-AA-NJ                      )
+
+
+       For the Protester: Richard L. Moorhouse, Esquire, Holland & Knight. For the
+Government: Howard S. Schwartz and Warren J. Nash, Assistants Corporation Counsel.
+For the Interested Party: James L. Thorne, Esq., Alexander, Aponte & Marks.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges
+Lorilyn E. Simkins and Phyllis W. Jackson, concurring.
+
+                                  OPINION AND ORDER
+
+       C&D Tree Service, Inc. ("C&D") has protested the award decision by the District's
+Department of Public Works ("DPW") under IFB No. OMS-4336-AA-NJ. Although C&D had
+the lowest actual bid, DPW determined that the third low actual bid of Prisma Construction
+and Management Corporation ("Prisma") was entitled to a ten percent preference in
+calculating Prisma's evaluated bid price, the effect of which was to make Prisma the low
+evaluated bidder. C&D claims that DPW, and by extension, the Minority Business
+Opportunity Commission ("MBOC"), violated law and regulation in concluding that Prisma
+was entitled to a ten percent preference as a local business enterprise and a
+disadvantaged business enterprise pursuant to the Equal Opportunity for Local, Small, and
+Disadvantaged Business Enterprises Act of 1992, D.C. Code §§ 1-1152 to 1-1152.5 (Supp.
+1995), and 27 DCMR Chapter 8. The District and Prisma contend that the Board does not
+have jurisdiction to review a certification determination by the MBOC. We conclude that
+our protest jurisdiction embraces reviewing a contracting agency's application of a
+preference in making an award decision, and that on the record established by the parties,
+an award to Prisma is not in accordance with applicable law, regulation, and the terms and
+conditions of the solicitation. Accordingly, we sustain the protest.
+
+                                      BACKGROUND
+
+        On August 21, 1995, DPW issued IFB No. OMS-4336-AA-NJ in order to obtain tree
+and stump removal services. (District Motion to Dismiss, Exhibit 1). The IFB required
+bidders to submit bids for a base year and four option years. Special Condition 1 of the IFB
+limits those eligible to bid under the IFB to entities certified by the MBOC as small business
+enterprises ("SBE's") in the procurement category of "General Services" pursuant to the
+Equal Opportunity for Local, Small and Disadvantaged Business Enterprises Act of 1992
+("LSDBE Act"), D.C. Code §§ 1-1152 to 1-1152.5 (Supp. 1995). The MBOC was originally
+established by the Minority Contracting Act of 1976, D.C. Code §§ 1-1141 to 1-1151, and
+consisted of the Commission members, a staff director, and other staff. See D.C. Code §
+1-1143. Its initial mission was to implement minority contracting programs established
+                                               -2-               C&D Tree Service, Inc., CAB No. P-440
+
+
+under the Minority Contracting Act. By Reorganization Order No. 1 of 1989 and Mayor's
+Order 89-247, the Mayor established the Department of Human Rights and Minority
+Business Development ("DHRMBD") for the purposes of inter alia ending illegal
+discriminatory practices in District government contracting and promoting equal opportunity
+and equal access to District contracting. All of the functions of the MBOC staff director and
+other staff were transferred to DHRMBD. Under the LSDBE Act, which generally
+supplanted the Minority Contracting Act, the Mayor was directed to establish through
+regulations LSDBE programs, including a bid preference mechanism for local business
+enterprises ("LBE's") and disadvantaged business enterprises ("DBE's") and a set-aside
+program for SBE's. The LSDBE Act authorized the MBOC to issue, suspend, and revoke
+certifications of contractors under the LSDBE programs.
+
+        IFB Special Condition 3 requires each bidder to submit required evidence of
+certification or self-certification at the time of, and as part of, its bid in the form of either a
+copy of the certification letter from the MBOC, or, a sworn, notarized self-certification form
+prepared by the bidder along with an acknowledgment letter issued by the Director of
+DHRMBD. Special Condition 3 references and Special Condition 26 incorporates an
+Attachment "D" to the IFB, entitled "Application for Certification" issued by DHRMBD. It
+consists of a self-certification package as well as a discussion of the requirements
+necessary for a business to be certified or recertified as a SBE, LBE, and DBE. Special
+Condition 5, entitled "Preferences in the SBE Set-Aside Market (For Evaluation Purposes
+Only)," provides that the contracting officer will apply preferences for purposes of
+evaluating the bids as follows: an SBE that also is certified by the MBOC as a DBE will
+receive a five percent reduction in its actual bid price; an SBE that also is certified as an
+LBE will receive a five percent bid price reduction; and an SBE that is located in an
+enterprise zone will receive a two percent reduction in bid price.
+
+       The IFB's Special Conditions and the incorporated Attachment D, as they relate to
+SBE eligibility and DBE, LBE, and enterprise zone preferences, are consistent with the
+requirements of the LSDBE Act and its implementing regulations. We find that the terms
+and conditions of the IFB require that bidders meet the requirements of the LSDBE Act, its
+implementing regulations, and the additional application requirements of the MBOC in order
+to receive the benefits of SBE eligibility and LBE and DBE preferences.
+
+        DPW opened the bids on September 22, 1995, and received bids from Prisma, C&D,
+JARCO Paving, Inc. ("JARCO"), Prince Construction Company, Inc. ("Prince"), and Capitol
+Paving of D.C., Inc. ("Capitol"). To determine the low bidder, the contracting officer had to
+identify the bidders' actual bid prices, determine the preferences, if any, to which each
+bidder was entitled, and then calculate each bidder's evaluated bid price by reducing the
+actual bid price by any applicable percentage reductions.
+
+        The record indicates that DPW had difficulty determining from the multiple and
+conflicting certifications (and acknowledgment letter) which accompanied Prisma's bid
+whether Prisma was a certified SBE in the category of "General Services" (and thus eligible
+to bid) and was properly certified as a LBE and DBE in order to qualify for those bid
+preferences. (District Motion to Dismiss, Exhibit 2, at 2-3). In Attachment "A" of its bid,
+Prisma referenced a July 19, 1994 MBOC Certificate of Registration No. S94-11-9021.
+                                             -3-               C&D Tree Service, Inc., CAB No. P-440
+
+
+Apparently, a copy of that certificate was not included with the bid. Instead, Prisma
+attached a July 11, 1995 Recertification Certificate No. DLS97-07-9021 which states that
+Prisma is registered by the MBOC as a DBE, LBE, and SBE (in two SBE procurement
+categories other than the "General Services" category required by this IFB). Prisma also
+attached a copy of an acknowledgement letter from DHRMBD acknowledging receipt of
+Prisma's application for Recertification as a DBE, LBE, and SBE (in four categories
+including "General Services"). Under another DPW IFB, apparently with a bid opening of
+September 27, 1995, Prisma enclosed a copy of Recertification Certificate No. DLS97-07-
+9021 and Certification No. S94-11-9021. (Id., Exhibit 2).
+
+       On October 5, 1995, the DPW Administrator requested clarification from DHRMBD
+regarding Prisma's eligibility to bid as a qualified SBE and receive LBE and DBE
+preferences: "Which of these certificates and/or acknowledgement letter is the prevailing
+document in determining the preference points and eligibility of the bidder." (Id. at 3). In an
+October 11, 1995 response, DHRMBD replied in relevant part:
+
+         It is apparent that administrative errors are responsible for the confusion in
+         certification categories. The applicant is entitled to the following categories and
+         should be given the appropriate preferences: Local Business Enterprise (LBE);
+         Small Business Enterprise (SBE) (Building Construction/Specialty Trade
+         Contractor/Goods and Equipment/General Services)[;] and Disadvantaged Business
+         Enterprise (DBE). An updated recertification letter will be issued by the Commission
+         at the November, 1995 meeting.
+
+(Id. at 1). Based on the October 11, 1995 DHRMBD response, DPW's contracting officer
+determined that Prisma was a certified SBE and entitled to the DBE and LBE preferences.
+The District reports the results of the bid tabulation and evaluation of bids as shown below:
+Bidder                Actual Bid           Evaluation Preference                   Evaluated Price
+
+Prisma                $1,817,235.00        10% (5% DBE + 5% LBE)                   $1,635,511.00
+C&D Tree              $1,652,500.00        NONE                                    $1,652,500.00
+JARCO                 $1,798,500.00        7% (5% LBE + 2% EDZ)                    $1,672.651.00
+Prince                $2,275,835.00        12% (5% LBE + 5% DBE + 2% EDZ)          $2,002,734.00
+Capitol               $2,232,990.00        10% (5% LBE + 5% DEB)                   $2,009,691.00
+
+       By receiving a ten percent preference reduction to its bid, Prisma's third-low actual
+bid became the lowest evaluated bid. A DPW contract specialist advised C&D on
+September 26, 1995, that Prisma might be in line for award under the IFB's preference
+factors if Prisma were otherwise determined to be a responsible bidder.
+
+        On October 4, 1995, C&D filed its protest of the presumptive award to Prisma. In
+the protest, C&D advances three challenges to DPW's determination that Prisma was
+entitled to a ten percent preference reduction to its actual bid: (1) Prisma was not entitled
+to receive the five percent preference as an LBE because LBE certification requires the
+company to possess a current "Certificate of Good Standing" and Prisma was not entitled
+to a Certificate of Good Standing because it had never filed its 1995 annual report as a
+District corporation; (2) Prisma was not entitled to a five percent preference as a DBE
+because the owners of Prisma are not economically or socially disadvantaged and have not
+                                             -4-               C&D Tree Service, Inc., CAB No. P-440
+
+
+demonstrated that they were subjected to prejudice or bias; and (3) as prime contractor,
+Prisma does not have the ability to perform 50 percent of the work which is required by
+regulation and the IFB.
+
+        In its Agency Report of November 30, 1995, the District responded that: (1)
+Prisma's failure to file with the District its 1995 annual corporate report, and the lack of a
+Certificate of Good Standing are minor informalities because they do not affect Prisma's
+corporate status or its status as an LBE; (2) C&D's allegations regarding MBOC's
+certification of Prisma as a DBE or LBE are matters exclusively under MBOC's jurisdiction,
+not the Board's, and C&D could have filed a complaint with the MBOC challenging Prisma's
+certifications; and (3) allegations regarding the ability of Prisma to perform 50 percent of the
+contract work are matters of contract performance which are not valid matters for protest.
+The District attached as Exhibit 1 to the Agency Report a certificate issued by the District's
+Department of Consumer and Regulatory Affairs, dated November 28, 1995, which certifies
+that Prisma "was not in good standing having failed or refused to file the 1995 annual report
+due on or before April 15, 1995 . . . ." Exhibit 2 to the Agency Report, Prisma's
+"Washington Area Regional Committee on Minority Business Enterprise Certification
+(WARCOMBEC)" application, dated July 7, 1994, was signed by Prisma's principal owner.
+In the application, Prisma's principal owner claims socially disadvantaged status as an
+Hispanic individual. In the application documents, the owner states her personal net worth
+as $75,000, Prisma's bonding limit as $3,000,000, and Prisma's credit line as $150,000. In
+the section of the application requiring information concerning credit rejections and
+discrimination, the owner indicates two instances -- the denial of an automobile loan in the
+amount of $17,830.18 on May 13, 1994, and the denial of a "bonding line" in June 1993.
+No credit rejection letters are attached. Where the form asks for the reason the applicant
+believes she was rejected, the owner lists "insufficient capital" for the credit rejection and
+"insufficient working capital" for the denial of the bonding line. Neither the application
+documentation nor any other evidence in the record suggests or demonstrates that her
+Hispanic affiliation was the proximate cause of being denied the automobile loan or the
+bonding line.
+
+        On December 6, 1995, C&D responded to the Agency Report, arguing that Exhibit 2
+to the Agency Report, containing the application materials submitted to the MBOC, did not
+support the determination by the MBOC to recertify Prisma as a DBE and LBE on July 11,
+1995. Prisma, as an interested party, filed a response in support of the Agency Report.
+Prisma concedes that it did not possess a certificate of good standing as of bid opening on
+September 22, 1995, but it attached as Exhibit 1 a document which indicates that it
+received a certificate of good standing on November 28, 1995 (issued, apparently, some
+time later in the day than the November 28 "no good standing" certificate attached as
+Exhibit 1 of the Agency Report).
+
+        On December 7, 1995, the Board held a telephone conference with the parties,
+including Prisma, to discuss the issues raised by the protest, the Agency Report, and the
+responses to the Agency Report. Based on C&D's challenge to Prisma's right to receive
+the ten percent bid preference based on DBE and LBE status, and the District's position
+that the MBOC is the proper agency to review certification challenges, the Board referred to
+the MBOC three issues: (1) did the controlling owner of Prisma, as of bid opening,
+                                              -5-               C&D Tree Service, Inc., CAB No. P-440
+
+
+constitute an "economically disadvantaged individual" and "socially disadvantaged"
+individual pursuant to D.C. Code § 1-1152.1(9) and 27 DCMR § 814 (the Board asked the
+MBOC to attach copies of supporting documentation with its response); (2) was Prisma
+properly certified as a DBE pursuant to 27 DCMR § 814.3 and an LBE pursuant to 27
+DCMR § 811.2 in light of the fact that Prisma was not a corporation in good standing as of
+bid opening; and (3) based on the MBOC's responses to issues (1) and (2), was Prisma
+entitled to receive either DBE or LBE preferences. See Order and Report on Telephone
+Conference, dated December 7, 1995. The Board provided that the parties would have an
+opportunity to comment on the MBOC's response to the referral. Thereafter, the Board
+granted two time extensions, at MBOC's request communicated through District counsel,
+so that the MBOC could respond to the Board's referral.
+
+        By letter filed with the Board on February 6, 1996, the MBOC stated that it would not
+respond to the issues referred to it by the Board because the Board "has no jurisdiction to
+review MBOC certification determinations," and that because the MBOC is not a party to
+the protest, no further MBOC response was warranted. The MBOC stated that "MBOC
+certification determinations in a collateral proceeding and forum is particularly inappropriate
+where the complaining party did not avail itself of the statutory mechanism for such review."
+ The MBOC has not provided any supporting documentation requested by the Board in its
+referral.
+
+        On February 7, 1996, the Board scheduled supplemental briefs and set a closing
+date of February 15, 1996 for the factual record. In their supplemental briefs, the parties
+have addressed Board jurisdiction, the merits of the protest, and the proper remedy should
+the Board determine that the proposed award is not in accordance with law, regulation, and
+the terms of the solicitation. The contracting officer filed an affidavit stating that he
+awarded the DBE preference based on the MBOC's certification of Prisma as a DBE. The
+contracting officer also states that the proposed award to Prisma was forwarded to the
+District of Columbia Financial Responsibility and Management Assistance Authority
+("Authority") for pre-execution approval on January 31, 1996, and that because a delay in
+award would adversely affect "various programs within DPW," he will award the contract to
+Prisma upon approval by the Authority. The District has not advised the Board that the
+contracting officer has awarded a contract to Prisma.
+
+                                        DISCUSSION
+
+I.     Jurisdiction
+
+       In this case, the District is not arguing that the Board lacks jurisdiction over the three
+protest grounds on the basis that the proposed award is entirely outside of our subject
+matter jurisdiction. Rather, it argues that the Board does not have jurisdiction to resolve the
+type of protest challenges made by the protester here. The District frames C&D's
+challenge of the award of DBE and LBE preferences as whether the Board has jurisdiction
+to review a certification determination by the MBOC under the LSDBE Act and its
+implementing regulations. Although in its Agency Report the District seemed to accept our
+prior decisions in Prince Construction Co., CAB No. P-375A, Aug. 20, 1993, 41 D.C. Reg.
+3610 (decision denying motion to dismiss), CAB No. P-375B, June 10, 1994, 41 D.C. Reg.
+                                            -6-               C&D Tree Service, Inc., CAB No. P-440
+
+
+3706 (merits decision), and Southern Maryland Restoration, Inc., CAB No. P-329, Dec. 16,
+1992, 40 D.C. Reg. 4872, in which we held that we had protest jurisdiction to review
+whether the MBOC complied with statute and regulations where a protester asserted that
+an MBOC determination materially impaired the protested procurement, the District in its
+supplemental briefs argue that our holdings in those cases were wrong. The District points
+out that the LSDBE Act and the implementing regulations governing certification of small,
+local, and disadvantaged businesses, have a mechanism by which either the MBOC may
+revoke or suspend certifications, or, any person may initiate a proceeding before the MBOC
+against an applicant or registered contractor. D.C. Code § 1-1152.4(d)-(e). According to
+the District, for the Board to entertain challenges to a bidder's certification would intrude
+into the MBOC's deliberative process and place the Board in the position of second-
+guessing the MBOC. Finally, noting precedent of federal protest tribunals such as the GAO
+and GSBCA, the District argues that even if the Board follows the holdings on jurisdiction
+delineated in Southern Maryland Restoration and Prince Construction, the Board should not
+further expand its jurisdiction to embrace the deliberative or discretionary functions of the
+MBOC.
+
+       C&D states that it is not asking the Board to make a certification determination.
+C&D frames the issue as whether the MBOC properly exercised the authority afforded it by
+the LSDBE Act with respect to recertifying Prisma as a LBE and DBE for purposes of this
+specific procurement, and whether the MBOC's failure to exercise that authority in a lawful
+manner materially compromised the outcome of this procurement's evaluation and award
+process. C&D argues that MBOC unlawfully recertified Prisma and by violating the LSDBE
+Act's certification requirements, MBOC directly affected C&D's status as a bidder. If either
+preference is unavailable to Prisma, C&D becomes the low bidder. C&D states that its
+challenges come squarely within the Board's jurisdictional holding in Southern Maryland
+Restoration, and the Board thus has jurisdiction to hear the protest.
+
+       We begin by reviewing our statutory grant of jurisdiction. Section 903 of the D.C.
+Procurement Practices Act ("PPA"), D.C. Code § 1-1189.3 (1992), establishes the Board's
+protest jurisdiction and provides in pertinent part:
+
+               The Board shall be the exclusive hearing tribunal for, and shall have
+       jurisdiction to review and determine de novo:
+
+             (1) Any protest of a solicitation or award of a contract addressed to the
+       Board by any actual or prospective bidder or offeror, or a contractor who is
+       aggrieved in connection with the solicitation or award of a contract . . . .
+
+Section 908(c) of the PPA, D.C. Code § 1-1189.8(c), establishes the Board's standard of
+review:
+
+              (c) On any direct protest . . . , the Board shall promptly decide whether
+       the solicitation or award was in accordance with the applicable law,
+       regulations, and terms and conditions of the solicitation. The proceeding
+       shall be de novo. Any prior determinations by administrative officials shall
+       not be final or conclusive.
+                                             -7-              C&D Tree Service, Inc., CAB No. P-440
+
+
+
+For contracting agencies covered by the PPA, the Board's protest jurisdiction embraces
+"any protest of a solicitation or award of a contract" by "any contractor who is aggrieved in
+connection with the solicitation or award of a contract." By the terms of D.C. Code § 1-
+1189.3, the Board is the exclusive hearing tribunal for protests. See District of Columbia v.
+Group Insurance Administration, 633 A.2d 2, 15-16 (D.C. 1993). By providing the Board a
+broad grant of protest jurisdiction in the PPA, the Council of the District of Columbia meant
+to ensure that the District's procurement law would be applied uniformly and that the
+integrity of the procurement process would be maintained. D.C. Code § 1-1181.1(b). The
+PPA vested in the Mayor the power to issue procurement regulations to implement the
+PPA. D.C. Code § 1-1182.2(a)(1) (1992). By vesting regulatory authority in the Mayor and
+directing that comprehensive procurement regulations be issued promptly, the Council
+intended to promote uniform procurement procedures District-wide. Id. §§ 1-1181.1(b)(10),
+1-1182.2.
+
+        The LSDBE Act is directed to the procurement process and necessarily intersects
+with the PPA. By their nature, programs established under the LSDBE Act are uniquely
+directed to, and are an integral part of, the procurement process. The very first finding of
+the Council in the LSDBE Act states that it is a policy of the District government "to ensure
+full and equitable opportunities for small and disadvantaged business enterprises to
+participate as prime contractors, subcontractors, and joint venture partners in the award of
+contracts for construction, supplies, and services by the government of the District." D.C.
+Code § 1-1152(1). The Council enacted the LSDBE Act, codified at Title 1, Chapter 11,
+Subchapter IIA, of the D.C. Code, to fill the void left after key provisions of the Minority
+Contracting Act of 1976 (codified at Title 1, Chapter 11, Subchapter II of the D.C. Code)
+were invalidated as unconstitutional in 1992. See O'Donnell Construction Co. v. District of
+Columbia, 815 F.Supp. 473 (D.D.C. 1992), on remand from 963 F.2d 420 (D.C. Cir. 1992).
+
+        The LSDBE Act directed the Mayor promptly to establish through regulations issued
+by the Mayor "programs designed to assist contractors who are certified as local business
+enterprises, disadvantaged business enterprises, or small business enterprises . . . ." D.C.
+Code § 1-1152.3(a). The Council found that a "preference mechanism for bids submitted
+by local business enterprises and disadvantaged businesses will further the public policy of
+the District by facilitating the participation of such businesses in the District's procurement
+process." Id. § 1-1152(5). The Act defines the terms SBE, LBE, and DBE, id. § 1-1152.1,
+and requires the Mayor to institute through regulation a bid preference mechanism for
+LBE's and DBE's, and a set-aside program for SBE's. Id. § 1-1152.3(b). To be eligible for
+certification as an SBE, LBE, or DBE, the Act mandates that applicants meet eligibility
+criteria, including: (1) written evidence that the applicant is a bona fide LBE, DBE, or SBE;
+(2) compliance with regulations; and (3) fulfillment of such other criteria as the MBOC may
+require by regulation. Id. § 1-1152.4. The Act authorizes the Mayor to issue regulations
+establishing procedures to certify, self-certify, or to challenge the certifications that a
+business enterprise is a SBE, LBE, or DBE. See note 1 infra. The Act provides that the
+contracting agency conducting the procurement awards the preferences. Id. § 1-1152.3(b).
+
+       Unlike in the Minority Contracting Act, which authorized the MBOC to issue
+regulations implementing the Minority Contracting Act, the LSDBE Act vested the Mayor
+                                                     -8-                  C&D Tree Service, Inc., CAB No. P-440
+
+
+with regulatory authority to implement the Act. See, e.g., D.C. Act 9-223 (emergency
+legislation), §§ 5, 8, June 9, 1992, 39 D.C. Reg. 4523, 4526-30; D.C. Law 9-152 (D.C. Act
+9-234) (temporary legislation), §§ 5 (codified as D.C. Code § 1-1152.3), 8 (not codified),
+June 26, 1992, 39 D.C. Reg. 5023, 5026-30; D.C. Law 9-217 (D.C. Act 9-347) ("final"
+legislation), §§ 5, 8, Dec. 29, 1992, 40 D.C. Reg. 143, 146-50.1 The Mayor, in turn,
+delegated regulatory authority to the Director of DHRMBD. See Mayor's Order No. 92-93,
+July 20, 1992, 39 D.C. Reg. 6143. Pursuant to that delegation, the Director of DHRMBD
+issued regulations implementing the LSDBE Act, 39 D.C. Reg. 9052-89, which are codified
+in Chapter 8 of the District-wide procurement regulations in Title 27 ("Contracts and
+Procurements") of the District of Columbia Municipal Regulations ("DCMR"). For the most
+part, Chapter 8 replaces 27 DCMR Chapters 6 and 7, which contain the implementing
+regulations for the Minority Contracting Act. See 27 DCMR § 800.2.
+
+        The LSDBE Act mandates that the MBOC follow the requirements of the LSDBE Act,
+the Mayor's implementing regulations, and its own procedures and guidelines, with specific
+reference to those requirements governing the bid preference mechanism for LBE's and
+DBE's, SBE set-aside programs, and certificates of registration. D.C. Code §§ 1-1152.3(a)-
+(b); 1-1152.4(a); 1-1152.5(1). Therefore, in the context of a bid protest, the LSDBE Act, the
+Mayor's implementing regulations at 27 DCMR Chapter 8, and any additional MBOC
+requirements are part of the applicable body of law covered by D.C. Code §§ 1-1189.3 and
+1-1189.8 against which the Board assesses whether an award was "in accordance with the
+applicable law, regulations, and terms and conditions of the solicitation."
+
+        We have recognized that the MBOC has been granted specific authority by D.C.
+Code § 1-1152.4 to issue certifications of contractors as small, local, and disadvantaged
+business enterprises. In Prince Construction and Southern Maryland Restoration, we held
+that we have jurisdiction to review a protest alleging that the MBOC violated applicable law
+relating to the certification process, which, in the particular procurement subject to protest,
+had adversely affected the status of bidders. This conclusion follows from a plain reading
+of our statutory responsibility pursuant to the PPA to ensure that the integrity of the
+procurement process is maintained and is not adversely affected, regardless of whether the
+procurement is an open-market competition or a small business set-aside, Southern
+Maryland Restoration, 40 D.C. Reg. at 4876, and from the fact that the regulations
+governing certifications under the LSDBE Act are inextricably intertwined with the
+remainder of the District-wide procurement regulations, Prince Construction, 41 D.C. Reg.
+at 3711 n.3. Because only LBE's, SBE's, and DBE's certified by the MBOC are able to
+participate in set-aside or preference programs established pursuant to the LSDBE Act and
+
+1
+  Section 8, identical in each version of the Act, states: "The Mayor shall issue regulations to implement this
+act, including rules that establish a procedure to provisionally certify, self-certify, or to challenge the
+certifications that a business enterprise is a small, local, or disadvantaged business enterprise." 39 D.C. Reg.
+4530; 39 D.C. Reg. 5030; 40 D.C. Reg. 150.
+                                                    -9-                 C&D Tree Service, Inc., CAB No. P-440
+
+
+27 DCMR Chapter 8, the MBOC performs an important gatekeeper function through its
+certification process which may under a particular procurement have a crucial affect on the
+fundamental fairness and integrity of that procurement process. See 27 DCMR § 801.4.
+
+        The LSDBE Act authorizes the MBOC to conduct a compliance review of an entity's
+certification, either on MBOC's own initiative or as a result of a complaint by "any person"
+alleging a violation. D.C. Code § 1-1152.4(d)-(e). A pertinent regulation states: "The
+Commission may on its own, or upon receipt of a sworn complaint from any person, or
+report of an alleged violation by any agency official, conduct periodic compliance reviews of
+certified LBEs, SBEs, DBEs and joint ventures to assure their continued compliance with
+the eligibility requirements of the Act and these rules." 27 DCMR § 823.1. In the normal
+course, then, the MBOC will fulfill its statutory and regulatory duties by conducting
+compliance reviews and proceedings consistent with the Act and the Mayor's implementing
+regulations. Precisely because of this mechanism, consistent with intragovernmental
+comity, and at the request of the District's counsel, the Board brought the relevant issues of
+compliance raised by the protest to the MBOC's attention through the Board's December 7,
+1995 referral. Counsel for the District, Prisma, and C&D agreed with this referral
+procedure. The Board twice extended the schedule in this protest's proceedings to
+accommodate the MBOC in responding to the referral. The MBOC's response, filed
+February 6, 1996, is part of the record and has been considered by the Board. By
+exercising jurisdiction over a protest which challenges DPW's award of preferences based
+on a recertification by the MBOC, the Board does not usurp MBOC's certification function.
+The Board does not and cannot make certification determinations pursuant to the LSDBE
+Act. On the other hand, the Board must exercise its jurisdiction to review whether a
+contracting agency's award of a contract, including the underlying evaluation of bids and
+application of preferences, complied with applicable law and regulation.2 In addition, the
+IFB here, through the Special Conditions and Attachment D, incorporate the applicable LBE
+and DBE requirements of the LSDBE Act, 27 DCMR Chapter 8, and the MBOC's additional
+
+2
+  The parties have disputed the standard applied by the U.S. General Accounting Office under its statutory bid
+protest review authority with respect to procurement matters involving determinations by the Small Business
+Administration ("SBA") under the Small Business Act, 15 U.S.C § 637 et seq. We note that even under the
+SBA's independent statutory and regulatory scheme, the GAO engages in some limited review of SBA
+determinations where the protester makes a prima facie showing of fraud or bad faith, willful disregard of the
+facts, or that the SBA has violated specific laws or regulations. Grace Industries, Inc., B-261020, July 10,
+1995, 95-2 CPD ¶ 9; Reliable Cleaning and Maintenance Corp., B-258331, Jan. 9, 1995, 95-1 CPD ¶ 13; 4
+C.F.R. § 21.5(b).
+                                             - 10 -            C&D Tree Service, Inc., CAB No. P-440
+
+
+requirements. By their terms, D.C. Code §§ 1-1189.3 and 1-1189.8 direct us to review
+whether a protested award was made in accordance with the terms and conditions of the
+solicitation.
+
+        The District has cited our decisions in Potomac Capital Investment Corp, CAB No. P-
+383, Feb. 23, 1994, 41 D.C. Reg. 3944, and Metropolitan Service & Maintenance Corp.,
+CAB No. P-388, Feb. 7, 1995, 42 D.C. Reg. 4918, for the proposition that the Board has
+declined jurisdiction over protests involving other statutory schemes outside the scope of
+the PPA. The distinguishing feature of those cases is that the Board lacked jurisdiction
+because the solicitation for disposal of real property in Potomac Capital and the renewal of
+a bus shelter franchise in Metropolitan were carried out under statutory and regulatory
+schemes entirely independent of the PPA and the District-wide procurement regulations in
+Title 27 of the DCMR. That is not the case here. For the reasons discussed above, the
+LSDBE Act, the LSDBE programs, the implementing regulations at 27 DCMR Chapter 8,
+and the MBOC's additional requirements are an integral part of the procurement process
+governed by the PPA. In another line of argument, the District suggests that by exercising
+jurisdiction in the present case, the Board will necessarily have to exercise jurisdiction over
+any challenge to the validity of every type of certification, permit, or license requirement
+found in a solicitation. We believe the District's fears are misplaced. First, the vast majority
+of certifications and licenses required by a solicitation are generally matters of the bidder's
+responsibility and may be corrected after bid opening up until contract award. Modern
+Electric, Inc., CAB No. P-341, Apr. 5, 1993, 40 D.C. Reg. 5068, 5069; J&L Contract
+Services, Inc., CAB No. P-313, Oct. 2, 1992, 40 D.C. Reg. 4565, 4567. That is not the
+case for MBOC certifications. The bidder must be validly certified by the MBOC (or be
+validly self-certified) as of bid opening. Capitol Paving of D.C., Inc., CAB No. P-280, Mar.
+11, 1992, 39 D.C. Reg. 4476, 4477-78. Although the validity of a certification may be
+verified after bid opening, see M&T Electrical Contractors, Inc., CAB No. P-397, Feb. 22,
+1994, 41 D.C. Reg. 3941; Sheladia Construction Corp., CAB No. P-326, 40 D.C. Reg.
+4735, 4736; 27 DCMR § 1535.3, an invalid certification cannot be cured after the time of
+bid opening. Keystone Plus Construction Corp., CAB No. P-345, Jan. 14, 1993, 40 D.C.
+Reg. 4906, 4911-12. SBE certification for SBE set-aside procurements is a mandatory
+prerequisite to bid for the contract. See J&K Distributors, Inc. of Washington, D.C., CAB
+No. P-432, June 13, 1995, 42 D.C. Reg. 4986; Prince Construction Co., CAB No. P-385,
+Dec. 21, 1993, 41 D.C. Reg. 3874. Similarly, LBE and DBE certifications cannot be cured
+after bid opening because the application of the preference directly affects the evaluated
+bid price, a material term of the offer. Second, none of the examples cited by the District
+(tax certificate, dumping permit, health care professional license) represent statutory or
+regulatory schemes that are an integral part of the PPA's procurement process. Third, our
+exercise of jurisdiction in the present protest is no broader than that exercised in Southern
+Maryland Restoration and Prince Construction and protests challenging MBOC
+certifications have been rare.
+
+        Based on the record presented, C&D has made a prima facie showing that Prisma is
+not entitled to preferences for DBE and LBE status, that the MBOC violated the LSDBE Act
+and the Mayor's implementing regulations, and that the violations have materially
+compromised the integrity of the procurement. Therefore, the Board concludes that it has
+jurisdiction under D.C. Code §§ 1-1189.3 and 1-1189.8(c) to determine whether the award
+                                            - 11 -            C&D Tree Service, Inc., CAB No. P-440
+
+
+decision was in accord with applicable law, regulation, and the terms and conditions of the
+solicitation.
+
+II.    Merits
+
+       A.       Lack of a Certificate of Good Standing
+
+        C&D argues that Prisma's failure to possess a certificate of good standing rendered
+invalid the MBOC's recertification of Prisma as a DBE and LBE, thereby disqualifying
+Prisma from receiving a five percent preference for each of these preference categories.
+The LSDBE Act defines a DBE as a LBE owned, operated, and controlled by "economically
+disadvantaged individuals." LBE's are defined as business enterprises with their principal
+office located physically in the District of Columbia and licensed pursuant to Chapter 28 of
+Title 47 or subject to the tax levied under Subchapter X of Chapter 18 of Title 47. D.C.
+Code § 1-1152.1(1), (3).
+
+        C&D argues, and we agree, that the Mayor's Chapter 8 regulations require a
+certificate of good standing to be eligible for certification as a DBE. The regulations require
+that an applicant seeking DBE certification "shall provide the Commission" with inter alia
+business documentation, including "certificates of good standing." 27 DCMR § 814.3.b.
+The record demonstrates, and Prisma concedes, that it did not possess a current certificate
+of good standing, either at the time of recertification in July 1995 or by the time of bid
+opening on September 22, 1995. Prisma could not receive a certificate of good standing
+because it had not filed its 1995 corporate annual report with the District, which was due
+April 15, 1995. Prisma did not file its annual report and obtain a certificate of good standing
+until November 28, 1995, well after bid opening. Although the District and Prisma have had
+ample opportunity to place evidence in the record that Prisma possessed a certificate of
+good standing entitling it to certification or recertification as a DBE, they have not done so.
+
+        C&D argues that 27 DCMR § 811.2, which sets forth the evidence needed by an
+applicant to establish LBE status, requires by implication that an applicant furnish a
+certificate of good standing. Even assuming C&D were correct that a certificate of good
+standing would be "compelling evidence" that a firm is a bona fide LBE, it does not follow
+that the certificate of good standing is evidence required to establish it as a LBE.
+Nevertheless, we find that furnishing a certificate of good standing was made a specific and
+mandatory requirement for LBE certification by the MBOC in its application process for
+certification and recertification. In addition to the requirements contained in the uniform
+regional certification application, the "Washington Area Regional Committee on Minority
+Business Certification" (WARCOMBEC), the MBOC requires, in the application, four
+specified exhibits, one of which is a "Certificate of Good Standing issued by the District of
+Columbia (and Annual Report for foreign or domestic corporations) less than one year old."
+ (IFB Attachment D). The record contains no evidence of a current certificate of good
+standing that could support recertification of Prisma as a LBE.
+
+        The District argues that the Board would be exalting form over substance if it were to
+deny LBE or DBE preferences simply because one document (of many) was omitted. The
+District urges that because the LSDBE Act is remedial in nature, it should be construed
+                                                     - 12 -                C&D Tree Service, Inc., CAB No. P-440
+
+
+liberally to effectuate its purposes. We do agree that the Act is remedial in nature.
+However, the LSDBE Act is clear on how it should be construed, at least with regard to an
+applicant's obligation to satisfy the requirements for qualifying it for MBOC certification and
+bid preferences. A careful reading of the statutory requirements for certification and
+preferences show that the Council placed great importance on making sure that
+certifications as LBE's, SBE's, and DBE's were bona fide. The LSDBE Act mandates that
+applicants meet the Act's requirements, the Mayor's implementing regulations, and any
+other criteria established by the MBOC. D.C. Code § 1-1152.4(a). Nowhere in the Act is
+the MBOC authorized to ignore the mandatory statutory and regulatory requirements. The
+pertinent section specifically requires "written evidence" that the applicant is a bona fide
+LBE and a bona fide DBE. Id. § 1-1152.4(a)(1)(A). The Mayor's regulations show the
+same emphasis, by requiring that initial or renewal applications for certification be
+accompanied by documentation as prescribed in the application and in compliance with
+"the requirements of the [LSDBE] Act, this chapter [8], and other District of Columbia laws
+that are applicable to the applicant's business . . . ;" and "[e]vidence of authority to do
+business in the District of Columbia, including D.C. business licenses, occupancy permits,
+tax numbers, worker's compensation forms, lease agreements, and other information
+requested by the Commission." 27 DCMR § 811.1. Thus, the LSDBE Act emphasizes the
+very sound policy of requiring applicants, who seek preferences, to demonstrate bona fide
+status through written documentation required by regulation. It would create havoc in the
+procurement process if some bidders were able to obtain substantial preferences without
+being required to verifiably demonstrate their entitlement. It would also be unfair to all
+bidders who were bona fide LBE's, DBE's, and SBE's, and fully supported their right to
+certification.
+
+        Finally, we note that Prisma's lack of a certificate of good standing is not a minor
+informality but rather a material prerequisite to enjoying the preference benefits accorded
+under the LSDBE Act and regulations.3 This is not a case where the bidder was properly
+certified at the time of bid opening but merely required post-bid opening verification of its
+status to be eligible to bid or earn preferences.4
+
+3
+   Citing D.C. Code § 29-586, the District argues that Prisma's failure to file its 1995 annual report had no
+effect on its corporate status -- unless it had failed to file its annual report for two consecutive years. The
+District's point is similar to the corporate viability issue raised in SEEMA, Inc., B-255884, April 13, 1994, 94-1
+CPD ¶ 256, where the protester challenged the awardee's corporate identity because it lacked good standing
+under Maryland law. The issue is not Prisma's corporate status, but whether Prisma was required to possess
+a certificate of good standing as a prerequisite to obtaining MBOC certification as a DBE and the price
+evaluation preference.
+
+4
+   Earlier in these proceedings the District had moved to dismiss C&D's protest on the ground that C&D was
+not eligible to bid because it was not a certified SBE in the category of "General Services." We denied the
+motion to dismiss on the ground that C&D had properly self-certified. Two weeks prior to bid opening, C&D
+submitted the MBOC prescribed self-certification form to DHRMBD, as required by IFB. C&D repeatedly
+called DHRMBD personnel to secure issuance of the letter of acknowledgement to attach to C&D's bid.
+Apparently due to administrative problems within DHRMBD, C&D was advised that a signed letter could not be
+furnished immediately; DHRMBD instructed C&D to advise the contracting officer to confirm the certification
+telephonically with DHRMBD. C&D then confirmed these events and representations in a letter submitted with
+its bid, along with an entire copy of its completed self-certification form. On these facts, C&D properly self-
+certified.
+                                           - 13 -            C&D Tree Service, Inc., CAB No. P-440
+
+
+
+       We conclude that the MBOC violated the provisions of the LSDBE Act, the Mayor's
+implementing regulations, and its own application requirements when it recertified Prisma
+as a DBE and LBE where Prisma did not and could not furnish a current certificate of good
+standing. Accordingly, the contracting officer erred in applying a ten percent preference to
+Prisma's bid.
+
+       B.     The "Socially Disadvantaged" and "Economically
+              Disadvantaged" Requirements for DBE Status
+
+        To be a DBE, the LSDBE Act requires that the entity be owned, operated, and
+controlled by "economically disadvantaged individuals." The Act defines an "economically
+disadvantaged individual" as one "whose ability to compete in the free enterprise system is
+impaired due to diminished opportunities to obtain capital and credit as compared to others
+in the same line of business where such impairment is related to the individual's status as
+`socially disadvantaged.' An individual is `socially disadvantaged' if the individual has
+reason to believe the individual has been subjected to prejudice or bias because of his or
+her identity as a member of a group without regard to his or her qualities as an individual."
+D.C. Code § 1-1152.1(9). The Mayor's implementing regulations require that an applicant
+for DBE certification "shall demonstrate" to the MBOC that the individuals representing at
+least 51 percent of the controlling interests in the firm are:
+
+       Socially disadvantaged because the individuals have faced chronic, not fleeting,
+       instances of prejudice or bias without regard to their qualities as individuals over
+       which they have no control due to their identity as members of a group as evidenced
+       by the following:
+
+       1.     Documentation proving that the individuals seeking socially
+              disadvantaged status as members of a group hold themselves out as
+              members of the group;
+
+       2.     Documentation proving that the individuals . . . have been isolated
+              from the mainstream of American society not common to business
+              persons not socially disadvantaged;
+
+       3.     Documentation proving that the individuals . . . have personally
+              suffered social disadvantage through treatment they have
+              experienced.
+
+27 DCMR § 814.2(a). Prisma's application attached as an exhibit to the Agency Report
+contains a declaration that the owner identifies herself as Hispanic. Thus, there is some
+documented evidence supporting the first item. Because there is at least some evidence in
+the record, we will go no further and assume that the evidence was satisfactory for the
+MBOC. As to the second and third items, the record is devoid of any documentation
+submitted by Prisma's owner to the MBOC even minimally addressing these items.
+Further, there is no evidence in the owner's application that she had reason to believe that
+she had been subjected to prejudice or bias on account of her identity as an Hispanic
+                                                - 14 -              C&D Tree Service, Inc., CAB No. P-440
+
+
+without regard to her qualities as an individual. See D.C. Code § 1-1152.1(9). The District
+and Prisma have had ample opportunity to submit into the record supporting
+documentation, but have not done so. Because there is no evidence on specific elements
+required by the statute and regulation to satisfy the "socially disadvantaged" component for
+DBE status, we must conclude that the MBOC violated the LSDBE Act and the regulations
+in recertifying Prisma as a DBE.
+
+      In addition to proof of socially disadvantaged status, the applicant must show that,
+by reason of being socially disadvantaged, its controlling owner is also "economically
+disadvantaged." The regulation requires the controlling owner to demonstrate economically
+disadvantaged status as evidenced by documentation on the following:
+
+       1.      The personal financial condition of the individuals seeking economically
+               disadvantaged status;
+
+       2.      The financial condition of the business enterprise; and
+
+       3.      The applicant's lack of access to credit, capital and the open market
+               which is not common to business persons in general.
+
+27 DCMR § 814.2(b). C&D argues that the evidence in the record -- the owner's $75,000
+personal net worth, Prisma's $3,000,000 bonding limit, and a $150,000 credit line -- "call
+into material question" any claim for economically disadvantaged status. Because there is
+some evidence in the record to support the requirements, we will go no further and assume
+that the evidence was satisfactory for the MBOC. Thus, we cannot conclude from the
+record that the MBOC violated law or regulation with respect to the "economically
+disadvantaged" component for DBE status. Nevertheless, since the Act and regulations
+require both components to be established, Prisma is not entitled to a preference based on
+DBE status.
+
+        In sum, we conclude that the MBOC violated the LSDBE Act and regulations by
+recertifying Prisma as a DBE and LBE. Accordingly, the contracting officer erred in
+applying DBE and LBE preferences to Prisma's bid.5
+
+III.   Remedy
+
+       If no contract has been awarded, then the contracting officer shall correct the
+evaluated price of Prisma and award the contract to the low responsive and responsible
+bidder. If the contracting officer has awarded a contract to Prisma during these protest
+proceedings, then we must determine an appropriate remedy. The District has not argued
+that termination of Prisma's contract followed by award to the low responsive and
+responsible bidder is not the proper remedy if we were to sustain the protest. D.C. Code §
+1-1189.8(e)(1) identifies criteria to be considered in determining whether an improperly-
+awarded contract should be terminated for the convenience of the District. Based on those
+
+5
+  In light of our resolution of the preference challenges, we do not reach C&D's so-called "50 percent"
+challenge.
+                                             - 15 -             C&D Tree Service, Inc., CAB No. P-440
+
+
+criteria, we conclude that termination is appropriate here if a contract has been awarded. It
+is in the best interest of the District to award the contract to the low bidder. If the District
+were to continue under a contract with Prisma, the District will be paying over $160,000
+more for the services than if it were to contract with C&D (assuming C&D is determined
+responsible). Here, the procurement deficiency is both serious and material because the
+record demonstrates that Prisma was not entitled to a price evaluation preference of ten
+percent based on DBE and LBE status, the effect of which is that Prisma was determined
+to be the low evaluated bidder rather than, in reality, the third-low bidder. The other bidders
+have been materially prejudiced, particularly the low and second low bidders, who are
+potentially in line for award depending on the results of a responsibility determination. The
+integrity of the procurement system, not to mention the LSDBE programs, depends on
+bidders receiving lawful evaluations of their bids and lawful application of preferences.
+Fairness demands that preferences be awarded only to bidders entitled to receive them.
+The District has not advised the Board of any contract award. We do not know whether
+Prisma has commenced performance. Even if a contract has been awarded, performance
+could not be more than one month along. Finally, the District has not submitted any
+evidence that termination followed by a proper award would adversely affect DPW's
+activities or mission.
+
+        Accordingly, if no contract has been awarded as of the date of this decision, the
+contracting officer shall make award to the low responsive and responsible bidder
+consistent with this opinion. If a contract has been awarded to Prisma, the contracting
+officer shall terminate the contract pursuant to D.C. Code § 1-1189.8(e)(1) and shall award
+the contract to the low responsive and responsible bidder.
+
+       SO ORDERED.
+
+
+DATE: March 11, 1996                                   /s/ Jonathan D. Zischkau
+                                                      Jonathan D. Zischkau
+                                                      Administrative Judge
+
+CONCURRING:
+
+ /s/ Lorilyn E. Simkins
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+/s/ Phyllis W. Jackson
+PHYLLIS W. JACKSON
+Administrative Judge
+

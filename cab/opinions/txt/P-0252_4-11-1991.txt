@@ -1,0 +1,168 @@
+                 GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                        CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+      LEWIS SYSTEMS                                     )
+                                                        )      CAB No. P-252
+      Under IFB No. OMS-0111-AA-AS                      )
+
+
+       For the Protester: John R. Wilde, General Manager.            For the Government:
+Erie F. Sampson, Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge William L. Davis, with Judge David H. Marlin
+concurring.!!
+
+                                        OPINION
+
+      Lewis Systems (Lewis) protests the rejection of its bid as nonresponsive and the
+award of a contract under Invitation for Bids (IFB) No. OMS-0111-AA-AS, issued by the
+Government of the District of Columbia, Department of Public Works (District), for
+heavy duty curbside recycling containers. Lewis contends that it was the lowest
+responsive bidder.
+
+       In response to the IFB, eight bids were received on bid opening day (August 27,
+1990) ranging in price from $657,000 to $1,797,525. Lewis' bid was the lowest at
+$657,000. The second lowest bidder was Rehrig Pacific Company (Rehrig) in the amount
+of $749,250. On September 27, 1990, the District awarded the contract to Rehrig, the
+lowest responsive and responsible bidder. Lewis' bid of $657,000 was rejected, the
+District asserts, because it failed to meet all the material terms of the specifications and
+thus was determined to be nonresponsive. On October 9, 1990, Lewis filed this protest
+with the Board.
+
+       The District maintains that Lewis' bid is nonresponsive because it offered curbside
+recycling containers that did not meet a material requirement of the specifications. The
+contract specifications required the recycling containers to have a drainage capacity at
+the bottom to "accumulate 10-14 ounces of fluid and adequate vent holes to drain any
+
+
+
+
+ YJudge Claudia D. Booker, a member of the panel, did not participate in this decision.
+                                          -2-
+
+fluid in excess of 14 ounces." (Exh. B to Agency Report.) In addition, the special
+conditions required the furnishing of descriptive literature with the bid to show that the
+product being offered conformed to the specifications.Y The descriptive literature
+submitted by Lewis with its bid contained the following description of the drainage
+capacity of the containers it proposed to provide:
+
+       Specially designed bottom allows pooling of up to 9 oz. of liquid. Eight
+       drain holes (.25") prevent excess accumulation. Also available without
+       drain holes.
+
+In addition the literature contains a specification section with various columns depicting
+dimensions, nesting ratio, volume, weight, wall thickness, hot stamp area and liquid
+pooling amount. The liquid pooling amount column contains the figure 9 ounces. (Exh.
+D to Agency Report.)
+
+       In its protest petition Lewis acknowledges that the technical data submitted states
+"9 ounces" as the actual amount of water which is retained in the channel of the
+containers it proposed to provide. Its maintains, however, that there exists an additional
+area between the channel and the drain holes which would increase the pooling amount
+so as to allow the containers to meet the specifications requirement of 10-14 ounces.
+Moveover, Lewis argues that the District never raised the "pooling issue" during the
+evaluation of the bids. In addition, Lewis seems to suggest that because its bid was
+some $92,250 less than Rehrig, the District should now require that the parties'
+submissions be tested side-by-side.
+
+       Some 27 days after Lewis filed its protest it submitted an addendum, which
+consists of a report dated October 31, 1990, containing the results of tests made on the
+pooling capacity of two models of the Lewis containers and two models of the Rehrig
+containers by Bjorksten Research Laboratories Inc. of Watertown, WI. The test results
+
+
+
+
+  YSPECIAL CONDITIONS
+
+       9.     REQUIREMENT FOR DESCRIPTIVE LITERATURE:
+
+              A.     Descriptive literature must be furnished as a part of the bid and
+                     must be received before the time set for opening bids. The literature
+                     furnished must be identified to show the items in the bid to which it
+                     pertains. The descriptive literature is required to establish, for the
+                     purpose of bid evaluation and award, details of the products the
+                     bidder proposes to furnish as to design, material, quality,
+                     construction and performance characteristics.
+                                           -3-
+
+show that the pooling capacities of the two Lewis models were 11.5 and 11.3 fl. oz. The
+two Rehrig models had pooling capacities of 223 and 15.8 fl. oz.~
+
+       The District of Columbia Procurement Practices Act of 1985 (PPA) , D.C. Code
+§1-1183.3(e) (1987 Repl.) requires that contracts solicited by competitive sealed bidding
+shall:
+
+        [b]e awarded with reasonable promptness by written notice to the
+        responsive and responsible bidder whose bid will be most advantageous to
+        the District, considering price and other factors. (Emphasis supplied.)
+
+        A responsive bidder is defined in the PPA as a person who has submitted a bid
+which conforms in all material respects to the IFB, §1-1181.7(41). A responsive bid
+must present an unequivocal offer to provide the exact item called for in the solicitation.
+The District's acceptance of such a bid legally binds the offeror to perform in accordance
+with all the material terms of the solicitation. We have held that the term "material," as
+it relates to responsiveness, means that which affects price, quantity, quality or delivery
+of the item offered. See, Faith Construction Co. (D.C. CAB, March 1990), citing
+Forrester Constructor, Inc. (D.C. CAB 1987); ZAV Electrical Contractors, Inc. (D.C.
+CAB 1988); and W.M. Schlosser Co., Inc. (D.C. CAB 1988).
+
+        It is clear to this Board that the drainage capacity of the recycling containers is a
+material term of the specifications, affecting not only price but quality. That being the
+case, the protester, in order to prevail, must show by a preponderance of the evidence
+that it offered to provide the exact item called for under the specifications; and that its
+descriptive literature showed that the product offered conformed to the specifications.
+The protester has failed to carry this burden. Its general allegation that its product met
+the specifications is not sufficient to overcome the deficiency created by the descriptive
+literature it supplied. The literature submitted by Lewis clearly shows that the drainage
+capacity of the Lewis Systems containers is less than what the specifications called for.
+We do not believe that the District had an obligation to go behind the descriptive
+literature to see whether the difference was significant. Since the descriptive literature
+evidenced nonconformance with the specifications, the determination that the protester's
+bid was nonresponsive was proper.
+
+       The protester's assertion that it should be awarded the contract because its bid
+was lower by some $92,250 is without merit. The rejection of Lewis' bid certainly may
+increase the price of this procurement; however, a nonresponsive bid cannot be accept~d
+
+
+
+  ~It should be pointed out here that the record is silent with respect as to whether the
+models tested were the same models which the two companies submitted for bids. The
+District filed its Agency Report after the addendum was filed with this Board and did
+not comment on the test results in its report.
+                                                                    -4-
+
+even though it would result in savings to the District because such acceptances would
+compromise the integrity of the competitive bidding system mandated by the PPA.
+
+       The supplementary materials submitted by the protester cannot be considered for
+the law is well settled that a nonresponsive bid cannot be made responsive after bid
+opening. Forrest Constructors, Inc. (D.C. CAB 1987).
+
+
+                                                                   ORDER
+
+            The protest is DENIED.
+
+
+
+                                                                             .   }   1~
+DATE: _ _...:A..:.Ip=r..:..:il,-,1",,1'l-'-"'1"-'99:;....:1'--__           ILilL/YV(
+                                                                           WILLIAM L. DAVIS
+                                                                           Chief Administrative Judge
+
+
+
+
+CONCUR:
+
+
+~l/~<;~v IJ                    L    r/cvJt;,
+DAVID H. MARLIN
+Administrative Judge
+

@@ -1,0 +1,141 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+WE CARE PHYSICALS, LLC                        )
+                                              )        CAB No. P-0791
+Under IFB No. DCHC-2008-B-0010                )
+
+      For the Protester: Ms. Lillian V. Willis, pro se. For the District of Columbia
+Government: Talia S. Cohen, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                            OPINION
+                                          Filing ID 25568887
+
+
+       We Care Physicals, LLC, has protested the contracting officer’s award of a drug testing
+services contract to B&W Stat Laboratory, Inc., on the ground that B&W is not a certified
+Clinical Laboratory Improvement Act (“CLIA”) facility and that B&W’s bid price was so low as
+to render it nonresponsible. We conclude that the record supports the contracting officer’s award
+to B&W. Accordingly, we deny the protest.
+
+                                        BACKGROUND
+
+        On May 27, 2008, the Office of Contracting and Procurement (“OCP”) on behalf of the
+Department of Health (“DOH”), Addiction Prevention Rehabilitation Administration (“APRA”),
+issued IFB No. DCHC-2008-B-0010. The IFB was for a contractor to provide drug testing
+services for approximately 31 APRA safety net programs providing substance use disorder
+treatment services. (Agency Report (“AR”) at 2; AR Ex 1). OCP issued the IFB in the certified
+small business enterprise set-aside market. (AR Ex. 1). The IFB contemplated award of an
+indefinite delivery indefinite quantity contract based on fixed unit prices for a base year and four
+option years. (AR Ex. 1). Section B.5.1 provided that the minimum number of urine samples
+that the bidder would collect per year was 2,500 and the maximum number of urine samples
+collected per year would be 25,000. (AR Ex. 1). Section C.3.4 of the IFB provided that “[t]he
+Contractor shall ensure that the urinalysis testing services are conducted in a fully qualified
+laboratory that has received accreditation by the Department of Health and Human Services
+(DHHS) as a Clinical Laboratory Improvement Act (“CLIA”) certified facility.” (AR Ex. 1). In
+addition, Section H.1 provided that “[t]he Contractor shall be bound by the Wage Determination
+2005-2103 dated May 8, 2008 issued by the U.S. Department of Labor in accordance with the
+Service Contract Act (41 U.S.C. § 351 et seq.).” (AR Ex. 1).
+
+        By Amendment No. M001, dated June 23, 2008, the District extended the bid opening
+date to July 11, 2008. (AR Ex. 2). In addition, Amendment No. M001, revised Section C.3.4 of
+the IFB by deleting “accreditation by the Department of Health and Human Services (DHHS”)
+and inserting “certification by the D.C. Department of Health and . . . .” (AR at 3; AR Ex. 2).
+By Amendment No. M002, dated July 8, 2008, the District again extended the bid opening date
+                                               -2-         We Care Physicals, LLC, CAB No. P-0791
+
+
+to July 25, 2008. By Amendment No. M003, dated July 9, 2008, the District revised, among
+other things, Section B.5.1 by increasing the minimum and maximum quantities of samples to be
+collected annually as follows: minimum 24,000 and maximum 50,000. In addition, Amendment
+No. M003 revised the certification requirement back to that of the original certification
+requirement articulated in the IFB Section C.3.4: “[t]he Contractor shall ensure that the
+urinalysis testing services are conducted in a fully qualified laboratory that has received
+accreditation by the Department of Health and Human Services (DHHS) CLIA certified facility.”
+(AR Ex. 2).
+
+       By July 25, 2008, the date of bid opening, the following four bidders submitted bids: (1)
+B&W, (2) We Care, (3) Norton Medical Industries (“Norton”), and (4) Clear Choice Systems
+(“Clear Choice”). (AR at 3; AR Ex. 6). OCP tabulated the bids as follows:
+
+              Bidder                 Total maximum bid
+                                     price for base and
+                                     four option years
+
+              Norton                 $ 2,618,750.00
+              B&W                    $ 3,650,000.00
+              Clear Choice           $ 5,362,466.00
+              We Care                $13,000,000.00
+
+(AR Ex. 4). After reviewing the bids, the contracting officer determined that the bids of Norton
+and Clear Choice were nonresponsive because they failed to provide DHHS accreditation that
+they were CLIA certified facilities and were certified small business enterprises. (AR at 4; AR
+Ex. 5). The contracting officer then recommended award to B&W, as it was the lowest
+responsive and responsible bidder certified as a small business enterprise possessing a DHHS
+certificate of compliance as a CLIA facility. (AR at 4; AR Ex. 7). On October 1, 2008, the
+District awarded the contract to B&W but We Care did not receive notice of the award until
+October 24, 2008. On October 31, 2008, We Care filed the instant protest. The District filed its
+Agency Report on November 20, 2008. We Care responded to the Agency Report on December
+8, 2008, and the District filed a reply on December 15, 2008.
+
+
+                                        DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+        The protest raises two issues for the Board’s consideration: whether the contracting
+officer properly determined that B&W was certified by the DHHS as a CLIA certified facility
+and whether B&W was a responsible bidder.
+
+        We Care asserts that B&W was only certified to receive samples but not to conduct the
+actual tests, citing the Mandatory Guidelines for Federal Workplace Drug Testing Programs
+(“Guidelines”). In addition, We Care argues that the District is ignoring federal law since it
+failed to award the contract to a certified laboratory as listed on page 59640 of the Federal
+Register, Volume 73, No. 197, dated October 9, 2008. However, the District points out that the
+                                                -3-         We Care Physicals, LLC, CAB No. P-0791
+
+
+Guidelines only apply to workplace drug testing of federal employees and that here the IFB is for
+treatment services for the District, not workplace drug testing. We see no basis in the record for
+concluding that the contracting officer erred in determining that the IFB required the awardee to
+have accreditation by the DHHS as a CLIA certified facility and that B&W was properly
+accredited as such a facility. The District states that the Center for Medicare & Medicaid
+Services regulates all laboratory testing (except research) performed on humans in the United
+States through the Clinical Laboratory Improvement Amendments and that “[i]n total, CLIA
+covers approximately 200,000 laboratory entities.” (District’s Dec. 15 Reply, Ex. B). We Care
+has not rebutted the showing made by the District regarding B&W’s CLIA certification.
+
+       Regarding the responsibility challenge, We Care argues that B&W cannot perform the
+contract work at a unit price of $13 per sample when We Care has been performing similar work
+at a contracted unit price of $45. We Care provides no evidence that B&W’s bid is below the
+cost of performance and more importantly fails to show that B&W’s unit price renders it a
+nonresponsible bidder. Thus, we find no evidence to support We Care’s responsibility challenge.
+
+
+                                        CONCLUSION
+
+         We Care has not demonstrated that the contracting officer erred in determining B&W to
+be a properly accredited CLIA facility and to be a responsible bidder. Accordingly, we deny the
+protest.
+
+
+       SO ORDERED.
+
+
+DATED: June 9, 2009                                   /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

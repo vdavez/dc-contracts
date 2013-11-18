@@ -1,0 +1,170 @@
+                               GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                               CONTRACT APPEALS BOARD
+
+
+PROTEST OF:                                      )
+                                                 )
+Koba Institute, Inc.                             )        CAB No. P-0657
+                                                 )
+Under RFQ PN # 223575, and                      )
+  RFQ PN# 217087, 88, 89, 90
+
+
+
+       For the Protester, Ian M. Paregol, Esq. For the Government, Howard Schwartz,
+Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+
+                                          OPINION
+                                   (Courtlink Filing ID 803171)
+
+        Koba Institute, Inc (“Koba”) protests the cancellation of a request for quotations
+using small purchase procedures to enter into a single Blanket Purchase Agreement
+(“BPA”) for investigative services and the subsequent solicitation of the same services
+by awarding BPAs with 4 separate firms. Koba asserts that both solicitations were
+improper uses of BPAs, that the first solicitation exceeded the dollar limitation for use of
+small purchase procedures and that the second solicitation improperly “parceled, split,
+[and] divided” the solicitation in order not to exceed the dollar limitation for use of the
+small purchase procedures. The District moved to dismiss the protest on the grounds
+that, by its allegations, Koba concedes that the first solicitation was properly cancelled,
+that Koba lacks standing to protest the second solicitation, and further, that the protest of
+the second solicitation has been rendered moot by issuance of an RFP covering the same
+services. We conclude that the protest as to the first RFQ is moot, that Koba has standing
+to protest the second RFQ, however, that the protest of the second RFQ is also moot
+provided that a contract pursuant to the RFP is awarded no later than August 31, 2002.
+Accordingly, we dismiss the protest subject to the above proviso.
+
+
+                                     BACKGROUND
+
+       On May 3, 2002, the Office of Contracts and Procurement (“OCP”), issued a
+request for quotations (“RFQ 1”) to establish a BPA for a single firm to investigate the
+background and circumstances surrounding the deaths of wards of the Department of
+Human Services for a period ending September 30, 2002. (Agency Report (“AR”), Ex 1).
+The request for quotations was sent to 4 potential offerors: Koba, The Columbus
+                                            2                  Koba Institute, Inc., CAB No. 0657
+
+
+
+Organization ("Columbus"), Public Interest Investigations, Inc. ("PII") and DAH Private
+Investigators ("DAH"). (Id.).
+
+        On May 7, 2002, OCP received quotes from Koba, Columbus, PII and DAH.
+(Id.). On May 24, 2002, OCP extended the submission date for submission of quotations
+and issued Addendum 1, which defined "interview" and requested additional pricing.
+(Id.). By fax transmission dated May 30, 2002, OCP cancelled RFQ 1 (AR, Ex. 2).
+
+        On May 31, 2002, OCP issued a request for quotations (“RFQ 2”) pursuant to
+small purchase procedures for the identical services and term as RFQ 1 to Koba,
+Columbus, PII and DAH, as well as two private investigators. (AR, Ex. 3). As opposed
+to the contemplated single award pursuant to RFQ 1, the request stated that RFQ 2 “is to
+establish multiple Blanket Purchase Agreements with contractors for investigative
+services not to exceed $25,000.00 . . . . Awards will be made to the four (4) lowest
+bidders.” (Id.). On June 4, 2002, Koba, Columbus and PII responded to RFQ 2.
+
+        On June 7, 2002, the CPO signed a D&F to Proceed with Contract Award while a
+Protest is Pending ("D&F"). On June 11, 2002, OCP awarded BPAs not to exceed
+$25,000 to Koba and Columbus. On June 14, 2002, OCP awarded a similar BPA to PII.
+(AR, Exhibit 4). On June 17, 2002, Koba filed a supplement to its protest. In the
+supplement, Koba opposed the D&F lifting the stay and additionally argued that OCP did
+not provide adequate time for response to RFQ 2.
+
+        On July 1, 2002, OCP issued RFP No. POJA-2002-R-0164 for Investigative
+Services ("RFP") soliciting proposals for a contract to be awarded to a single firm for
+substantially the same services as contemplated in the multiple BPAs for a term of one
+year commencing upon award. (Supplement to Motion to Dismiss, Ex. S-2). The RFP
+has a closing date for proposals of July 31, 2002. (Id.)
+
+
+                                     DISCUSSION
+
+RFQ 1
+
+        "In general a case becomes moot when the issues presented are no longer alive or
+the parties lack a legally cognizable interest in the outcome." See Murphy v. Hunt, 455
+U.S. 478, 481, 102 S.Ct. 1181, 1183, 71 L.Ed.2d 353 (1982). Koba alleges that RFQ 1
+was too large to be issued using small purchase procedures. The remedy for such
+violation, if the protest were sustained, would be cancellation of the solicitation. Since
+RFQ 1 was cancelled by the District, apparently because OCP agreed that it was an
+improper use of small purchase procedures, there is no further remedy which the Board
+could order if it sustained Koba’s protest and the protest as to RFQ 1 is therefore
+dismissed as moot.
+                                             3                  Koba Institute, Inc., CAB No. 0657
+
+
+
+
+RFQ 2
+‘
+       To have standing to protest, a party must be aggrieved. (D.C. Code §2-309.08
+(2001 ed.); Board Rule 100.2(a)). Simply stated, the protester must have a direct
+economic interest in the outcome of the protest. Barcode Technologies, Inc, CAB No. P-
+524, Feb. 11, 1998, 45 D.C. Reg. 8723. The District asserts that since Koba has already
+received the maximum BPA under the solicitation, Koba has no further economic in the
+outcome of the protest. The fact that Koba received the maximum award under the terms
+of the RFQ does not deprive Koba of standing to question the propriety of multiple
+awards, each for less than the total requirement, since, if the Board sustains the protest
+and requires a single award, as in fact the District has provided in the RFP, Koba could
+possibly be awarded a contract larger than its limited BPA. Thus Koba clearly has an
+economic interest in the outcome of the protest and standing before the Board.
+
+        Even though Koba has standing to protest RFQ 2, the Board must dismiss a
+protest if the grounds of the protest have become moot. The District argues that the
+issuance of the RFP for the same services to replace the BPAs meets the demands of the
+protest for a sealed competitive procurement from a single offeror and thus renders the
+protest moot. It is well settled that “termination of an awarded contract for reasons that
+relate to the solicitation process may render a pending protest moot.” Anacostia Medical
+Center, CAB No. P-115, October 27, 1988, 3 P.D. 435. In the instant matter, the
+solicitation protested, and awards made are for Blanket Purchase Agreements. Since the
+District is not required to make any purchases under a BPA, the District may accomplish
+the same result as terminating the BPA by merely ceasing to place purchase orders. The
+Board believes that the award of a contract requiring purchases of the same requirements
+as the described in the BPAs is the equivalent of termination, since no further orders
+would be placed on the BPA. The RFP issued by the District describes the same services
+as are described in the BPA. The issue as to whether the protested BPA has been
+terminated is whether the term of any contract issued pursuant to the RFP will overlap the
+term of the BPA and thus supplant it. It is not clear from the face of the RFP that award
+pursuant to it will result in a contract which begins before the end of the term of the BPA.
+The term of the contract to be awarded is one year from date of award. (Supplement to
+Motion to Dismiss, Ex 2, §F.1). The RFP provides for a proposal acceptance period of
+120 days, (Id. §L.14), from the proposal submission date of July 31, 2002. Thus, while
+the contract could be awarded prior to the completion of the term of the BPAs and
+supplant the BPAs, it could also be awarded as late as November 28, 2002. To render
+this protest moot, the Board believes that the contract must be awarded so that there is a
+significant effective termination of the BPAs protested. The Board believes that, in the
+instant matter, this period must be no less than one month.
+                                            4                   Koba Institute, Inc., CAB No. 0657
+
+
+
+
+                                    CONCLUSION
+
+        The Board dismisses the protest concerning RFQ 2 as moot provided that a
+contract pursuant to the RFP is awarded no later than August 31, 2002. If the contract is
+not awarded by that date, the Board will, upon notice from the Protester, vacate this order
+and consider the protest concerning RFQ 2 on the merits. Although that consideration
+may not permit any action affecting the BPA, if the protest is sustained the protester may
+be entitled to bid preparation, and or protest costs.
+
+
+
+
+Dated: July 16, 2002                                 /s/Matthew S. Watson
+                                                     MATTHEW S. WATSON
+                                                     Administrative Judge
+
+
+
+
+CONCURRING:
+
+
+
+  /s /Jonathan D. Zisschkau
+JONATHAN D. ZISCHKAU
+Administrative Judge
+

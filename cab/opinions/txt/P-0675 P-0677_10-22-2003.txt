@@ -1,0 +1,338 @@
+                        GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+
+
+Protests of:
+
+       Greater Washington Dental Services, Inc.          )
+                                                         )
+       Quality Plan Administrators, Inc.                 )        CAB Nos. P-0675 and P-677
+                                                         )
+       Under Solicitation No. DCBE-2002-R-0047           )
+
+        For the Protesters: Greater Washington Dental Services, Inc., Kristen E. Ittig, Esq.
+and David P. Metzger, Esq., Holland and Knight, LLP; Quality Plan Administrators, Inc.,
+Carol L. O’Reiordan, Esq. and Jonathan T. Williams, Esq., The O’Riordan Bethel Law
+Firm, LLP. For the Intervernor, Connecticut General Life Insurance Company, Thomas
+C. Papson, Esq. and Michael A. Hopkins, McKenna Long & Aldridge LLP. For the
+District of Columbia Government: Howard Schwartz, Esq., and Warren J. Nash, Esq.,
+Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative
+Judge Jonathan D. Zischkau concurring.
+
+                                         OPINION
+                                  (Courtlink Filing ID 2591870)
+
+        Greater Washington Dental Services, Inc. (”GWDS”) and Quality Plan
+Administrators, Inc. (“QPA”) protested award of a contract for dental insurance benefits
+for District of Columbia Government employees to Connecticut General Life Insurance
+Company (“CIGNA”). As the awardee, CIGNA intervened and has moved to dismiss the
+protest on the basis that neither GWDS nor QPA is properly qualified and licensed in the
+District of Columbia or the states of Maryland and Virginia to offer the services
+requested and therefore lack standing to protest as aggrieved parties entitled to award.
+The District supports the CIGNA position. Although the specifications regarding
+licensing are confusing and the District aggravated the confusion during negotiations, we
+conclude that the protests should be dismissed. The Board notes, however, that the
+requirement for licensing may have been inadvertently created by the District’s drafting
+of specifications and that confusion as to required licenses was fostered by the District in
+negotiations with the protesters. In addition to the confusion created by the District as to
+licensing requirements, although the Board has not reached any decision on the merits of
+the protests, it appears that there is a substantial question as to whether the acceptance of
+a proposal whose benefits varied significantly from the specifications contained in the
+RFP was unfair to other offerors. The Board therefore recommends that the District not
+exercise any options to extend the contract after its first year and immediately begin
+reprocurement of the services to commence at the conclusion of the base period. The
+Board further recommends that the agency consult with the District of Columbia
+Insurance Commissioner as to licensing requirements.
+                                                   - 2 - Greater Wash. Dental Services, Inc.,   CAB No. P-0675
+                                                         Quality Plan Administrators, Inc.,     CAB No. P-0677
+
+
+
+                                          BACKGROUND
+
+        On August 19, 2002, the District issued RFP DCBE-2002-R-0047 (RFP),
+requesting proposals for a Dental Health Maintenance Organization (DHMO) plan1 for
+District Government employees. (Agency Report (“AR”), Ex. 1). The District issued five
+amendments to the RFP including extending the closing date for offers to September 27,
+2002. (Id.). Five offerors submitted proposals. (AR, Ex. 2). The Technical Evaluation
+Panel (TEP) conducted its initial evaluations between September 2002 and January 2003.
+(Id.). By letter dated April 3, 2003, the District notified all offerors that the District
+intended to conduct discussions, (AR, Ex. 2), and on April 11, 2003, the District
+requested best and final offers (“BAFO”), due April 17, 2003. (AR, Ex. 2). In April and
+May 2003, the TEP reviewed the BAFO proposals and developed consensus scores for
+each offeror. (AR, Exs. 3, 4 and 5).
+
+       In the Business Clearance Memorandum (BCM) dated May 22, 2003, the
+contracting officer reviewed the proposals and the TEP scoring, and made an independent
+assessment of the proposals. (AR, Ex. 2). In that independent assessment, the
+Contracting Officer concurred with the TEP’s recommendation to award the contract to
+CIGNA. (AR, Ex. 2).
+
+        On July 7, 2003, the City Council approved the contract with CIGNA. (AR, Ex.
+7). On July 8, 2003, the District awarded the contract to CIGNA and sent notice to the
+unsuccessful offerors. (AR, Ex. 6). On July 14, 2003, the District debriefed GWDS and
+QPA and on July 21 and July 24, 2003, respectively, QPA and GWDS filed timely
+protests with the Board. Both protests were supplemented on August 4, 2003.
+
+                                            DISCUSSION
+
+        Although previous contracts provided similar dental benefits to District
+employees as the subject contract, this solicitation represented a significant change in the
+nature of the services and the division of risk between the District and the contractor.
+
+        [Prior procurements] . . . have been awarded on an “Administrative
+        Services Only” basis. As such, they were structured so that the District
+        retained exclusive responsibility for compensating service providers (e.g.,
+        dentists) for services (exclusive of the participant’s co-payment
+        obligations). In such cases, the administrator acts merely as a conduit for
+        the District’s transfer of funds in payment to the providers, and the
+        administrator bears no responsibility for payment of the providers.
+
+        . . . The subject procurement did not contemplate award on an
+        Administrative Services Only basis, but rather award on a “fully insured
+        basis”. That term as regularly used within the plan administration
+
+1
+  The initial solicitation also requested proposals for a Dental Preferred Provider Plan (DPPO), which was
+subsequently deleted. (AR, Ex 1 - Amendment 4, March 27, 2003).
+                                           - 3 - Greater Wash. Dental Services, Inc.,   CAB No. P-0675
+                                                 Quality Plan Administrators, Inc.,     CAB No. P-0677
+
+       industry, refers to an award in which the plan administrator contracts to
+       assume any and all costs of service, apart from required co-payments and
+       deductions, associated with the performance of that plan, “insuring” the
+       plan’s sponsor (in the instant procurement, the District of Columbia)
+       against the need to fund such costs of service.
+
+(Affidavit of Milton D. Bernard, DDS, President of Protester QPA, QPA Opposition to
+Motion to Dismiss, Ex. A).
+
+       This understanding is consistent with the Contracting Officer’s response to
+potential offerors’ questions.
+
+       QUESTION 4:          Would your organization consider a response for a
+       dental program on an “Administrative Services Only” (ASO) basis?
+
+       RESPONSE:             No, the District requests that all offerors submit a
+       proposal based on a fully insured plan.
+
+                                      * * *
+
+       QUESTION 10:           What funding type are you proposing that we quote
+       (fully insured-participating or non-participating or ASO)?
+
+       RESPONSE:              We are requesting you offer a non-participating
+       fully insured plan.
+
+(AR, Ex. 1 - Amendment 001, August 29, 2002).
+
+        Insurance is a highly regulated industry. Although the basic nature of the plan
+changed from an “Administrative Services Only” to a fully insured plan, the District does
+not appear to have considered the licensing implications. Further, the District was not
+sufficiently forthcoming in responding to potential offerors’ questions as to licensure
+requirements. When specifically asked in Question 32B (Amendment 002); to state
+licensure requirements and specifically requested to give “an elaborated response . . .
+with appropriate jurisdiction and code references, and a discussion of any authority of the
+District to waive requirements,” the Contracting Officer generically responded that “All
+providers of service must be licensed in accordance with the jurisdictions that govern
+their practice.” (Id.).
+
+       The confusion as to required licenses was compounded during negotiations. The
+misunderstanding by the offerors should have been apparent to the District when the
+documentation supporting the proposals was reviewed. In the process of negotiation,
+each of the proposers was requested in written questions to “provide evidence of
+regulatory approval of your proposed plan in DC, MD and VA. (Motion to Dismiss, Ex.
+A). The intervenor and the two protesters each submitted totally different licenses
+alleged to support their authority to offer their dental plans.
+                                                 - 4 - Greater Wash. Dental Services, Inc.,   CAB No. P-0675
+                                                       Quality Plan Administrators, Inc.,     CAB No. P-0677
+
+        CIGNA submitted licenses from the insurance departments of all three
+jurisdictions.2 (Id.). GWDS is not licensed by the insurance department of any
+jurisdiction. GWDS submitted only general corporate certificates of authority from all
+three jurisdictions. (Id., Ex. 2). QPA submitted a Maryland Insurance Administration
+license, not as an insurer, but rather as a third party administrator and statements from the
+District and Virginia insurance departments that third party administrators were not
+licensed in their jurisdictions. (Id., Ex. 3).
+
+        Notwithstanding that the District had specifically stated that “a response for a
+dental program on an “Administrative Services Only” (ASO) basis” was unacceptable,
+the Business Clearance Memorandum found without explanation that submission of an
+Administrator’s license was satisfactory evidence of regulatory approval. (AR, Ex. 2, p.
+6). The BAFO evaluation identically rated CIGNA, GWDS, and QPA as fully meeting
+Evaluation Subfactor “M.4.1.1.3, “Offeror had received regulatory approval from District
+of Columbia, Maryland and Virginia” even though between the three companies, no two
+licenses submitted as documentation of qualification were the same.
+
+        Although award was apparently made without consideration of compliance with
+insurance laws, and companies not licensed as insurance companies were evaluated as
+fully acceptable, the District has belatedly come to the conclusion that licensure as an
+insurance company is required for award. (District Response to Motion to Dismiss, 4).
+Protester QPA argues that that is not the case. In responding to the motion to dismiss
+QPA states:
+
+                 Nothing in the Solicitation or in the District of Columbia’s
+        governing authority accords the term “fully insured plan” a meaning
+        different than the standard definition recognized within the plan
+        administration industry. See Third Affidavit of M. Bernard, ¶ 4 (attached
+        as Exhibit A hereto); Third Affidavit of A. Davidson, ¶ 4 (attached as
+        Exhibit B hereto). Indeed, there is no mention of the term in any relevant
+        authority or any suggestion that the term as utilized in the Solicitation
+        should be accorded the novel meaning that CIGNA now seeks to attribute
+        to it, and by which CIGNA would bootstrap independent (and irrelevant)
+        insurance licensing requirements that are nowhere mentioned in the
+        Solicitation as issued or amended.
+
+                No special regulatory approval is needed for a “fully insured plan”
+        because that term defines the way in which costs and risks are apportioned
+        between the contractor/administrator and the plan sponsor, and not the
+        type of entity eligible to perform the contract. The District’s plan as
+        expressed in the RFP anticipates that the participants will pay for services
+        rendered through co-payments established by the contract as awarded, and
+        that the District’s only financial obligation will be to pay the contractor a
+        fee on a capitated basis (calculated per plan participant). In turn, the
+
+2
+ CIGNA is licensed as a “Limited Health Maintenance Organization” in Virginia and as an insurance
+company in the District and Maryland.
+                                            - 5 - Greater Wash. Dental Services, Inc.,   CAB No. P-0675
+                                                  Quality Plan Administrators, Inc.,     CAB No. P-0677
+
+       contractor will ensure that a network of providers is assembled and
+       available to provide the services, will enter into independent contracts
+       with the providers and will assume all risk of payment to the providers for
+       services, relieving the District of the risk that it has borne under some
+       prior plans.
+
+(QPA Opposition to Motion to Dismiss, 3-5).
+
+         In the absence of a specialized definition or any evidence that something other
+than the term's ordinary meaning was intended, it is appropriate to view a solicitation or
+contract term in accordance with its plain and ordinary meaning. Restatement (Second)
+Contracts § 202(3); George Hyman Constr. Co. v. United States, 832 F.2d 574 (Fed. Cir.
+1987). The plain and ordinary meaning of insurance is the transfer of risk from a person
+or entity, which has a potential obligation to another entity, which agrees to assume that
+obligation. See Black’s Law Dictionary (7th ed. 1999), “insurance”. Protester admits that
+that is exactly what was intended in the solicitation by stating that the contractor “will
+assume all risk of payment to the providers for services, relieving the District of the risk
+that it has borne under some prior plans.” Entities offering insurance are required to be
+licensed by the respective insurance departments in all three jurisdictions. (See e.g. Code
+of Virginia, Title 38.2, Insurance, Chapter 43, Health Maintenance Organizations).
+
+         The Maryland law makes the licensure clearest with regard to dental plans. Title
+14 of the Maryland Insurance Code is entitled “Entities Which Act as Health Insurers”
+and includes subtitle (4) captioned “Dental Plan Organization Act.” For purposes of that
+subtitle “Dental plan organization" means a person that provides directly, arranges for, or
+administers a dental plan on a prepaid or postpaid individual or group capitation basis.
+(§14-401(c)). Unless otherwise authorized by statute to perform dental services, (§14-
+401), “[a] person may not establish, operate, or administer a dental plan organization or
+sell, offer to sell, solicit offers to purchase, or receive advance or periodic consideration
+in conjunction with a dental plan, unless the person has a certificate of authority issued by
+the Commissioner under this subtitle.” (§14-403).
+
+        Notwithstanding the fact that neither the solicitation nor the discussions made the
+licensing requirements clear, (see GWDS Opposition to Motion to Dismiss, 2), the Board
+agrees with CIGNA and the District that, as a matter of insurance law, a dental insurance
+plan must be licensed by state insurance departments as an insurer or as a dental health
+plan. QPA asserts that it could perform the required services pursuant to its license as a
+Third party administrator. Acting as a Third party administrator would conflict with the
+insured plan contemplated by the solicitation. The solicitation provided that the only
+obligation of the District is to pay a fixed amount per covered employee per month. The
+District has no obligation to pay excess costs if the contractor’s costs for covered dental
+service exceed the contractor’s revenue and, conversely, the District has no entitlement to
+a refund if the contractor’s costs are less than its revenue. Upon receipt, payments by the
+District to the contractor are the property of the contractor, which it may commingle with
+its own funds and use as it pleases. Such a relationship is inconsistent with the role of a
+Third party administrator. The Maryland Insurance Code, for example, provides in § 8-
+                                                   - 6 - Greater Wash. Dental Services, Inc.,   CAB No. P-0675
+                                                         Quality Plan Administrators, Inc.,     CAB No. P-0677
+
+316 entitled “Prohibited activities of administrator” that . . . “[w]ith respect to a plan, an
+administrator, directly or indirectly . . . may not deal with the assets of the plan in the
+administrator's own interest or for the administrator's own account.”
+
+        Whether or not the District initially understood that an insurance carrier license
+was required, the insurance law of the three jurisdictions requires licensing in order to
+perform as required by the contract terms. Since licensing is a mandatory legal
+requirement to perform the contract, it is by definition a definitive standard of
+responsibility since it must be a precondition for award3 and a requirement for a
+prospective contractor to be able to perform the contract. See M.C. Dean, Inc., CAB No.
+P-505, Dec. 3, 1997, 45 D.C. Reg. 8664. Evidence that a prospective contractor meets a
+definitive standard of responsibility may be required before award. The District
+requested documentation from all offerors as to their licensure. Neither QPA nor GWDS
+showed the legally required licenses in the three jurisdictions and thus were not eligible
+for award. The Board has consistently held that only offerors or potential offerors that
+can receive award have standing to protest. See, e.g., MTI-Recyc, a Joint Venture, CAB
+No. P-287, Oct. 1, 1992, 40 D.C. Reg. 4554. Since we find that neither QPA nor GWDS
+possessed licenses necessary for award we dismiss their protests for lack of standing.
+
+                                      RECOMMENDATION
+
+        While the Board dismisses the protests, the Board believes that there were
+problems in the procurement and award that impeded full and fair competition. As noted
+above, the District itself was confused as to the required licensure. Although qualified
+insurance providers should be expected to understand the regulatory environment, the
+District’s failure to give guidance when requested and erroneous approval of
+unacceptable documentation as being fully compliant could certainly have improperly led
+the protesters to believe that they had made acceptable offers.
+
+        In addition, the District did not make clear that it would consider offers that
+differed radically from the two specified plans included in the solicitation. Although the
+solicitation did state offerors could deviate from the plans specified in the solicitation, it
+is not unreasonable to read the solicitation as a whole as permitting only minor deviations
+and not a totally different plan. Section C.3 stated that “[t]he plans shall identically
+match the proposed . . . programs designs and benefits as stated in Section C.5. [emphasis
+supplied]” The section went on to state that it is only where the offeror is “unable” to
+match the prototype plans that it may propose deviations. There is no indication that
+CIGNA was “unable” to offer the stated plan benefits, only that for business reasons it
+chose not to do so. In its answer to questions, the District did not make clear that it
+would accept major deviations. In fact, the District implied the opposite. In the answer
+to question 3 in Amendment 3 it was specifically stated that “[t]he District will choose
+one of the two plans based on its evaluation of the associated costs. (AR, Ex. 1). It is
+
+3
+   Indeed, it could be argued that a Certificate of Authority from the Maryland Insurance Commissioner is
+required prior to bidding. Maryland Insurance Code §14-403 requires that “a person may not offer to sell
+. . . a dental plan, unless the person has a certificate of authority issued by the Commissioner under this
+subtitle.”
+                                           - 7 - Greater Wash. Dental Services, Inc.,   CAB No. P-0675
+                                                 Quality Plan Administrators, Inc.,     CAB No. P-0677
+
+alleged that the CIGNA plan that was accepted is substantially different from either plan
+1 or plan 2. It would therefore appear from the solicitation that, prior to selecting
+CIGNA, the District should have revised the solicitation. Section L.2.5 entitled Plan
+Deviations stated:
+
+       Proposals shall be based on the specifications of Section C of the
+       solicitation. Exceptions to any part of this solicitation should be stated
+       separately in Attachment J.9. Any exceptions, if accepted, would
+       constitute a change in the scope of the work and an amendment would be
+       issued. Each Offeror would be asked to submit a revised proposal.
+
+         No amendment was ever issued to encompass CIGNA’s deviations and no revised
+proposals were requested. In light the confusion as to licensing requirements and the
+failure to follow the procedures outlined in the solicitation, the Board recommends that
+the District not exercise the options contained in the protested contract and immediately
+institute a new procurement so that a new contract can be in place at the expiration of the
+initial term of this contract. The Board further recommends that to avoid the regulatory
+confusion in formulating the new procurement that the agency request the assistance of
+the Department of Insurance and Securities Regulation.
+
+       SO ORDERED.
+
+
+
+
+DATED: October 22, 2003                                      /s/ Matthew S. Watson
+                                                       MATTHEW S. WATSON
+                                                       Administrative Judge
+
+CONCURRING:
+
+
+       /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

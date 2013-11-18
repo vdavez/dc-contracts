@@ -1,0 +1,192 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+AMERICAN CONSULTANTS AND                              )
+ MANAGEMENT ENTERPRISES, INC.                         )
+                                                      )       CAB No. P-0683
+Under Solicitation Nos. PO-JA-2002-R-0037,            )
+ and PO-JA-2004-R-JD001                               )
+
+      For the Protester: Mr. Ernest Middleton, pro se. For the District of Columbia Government:
+Howard Schwartz, Esq., and Talia S. Cohen, Esq., Assistants Corporation Counsel, D.C.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Matthew S. Watson, concurring.
+
+                                             OPINION
+                                      LexisNexis Filing ID 3590011
+
+        Protester, American Consultants and Management Enterprises, Inc. (“ACME”), has protested
+the cancellation of one request for proposals (“RFP”) and the issuance of another RFP for what ACME
+says are essentially the same juvenile substance abuse treatment services. We conclude that there was a
+reasonable basis for the cancellation of the original solicitation and the issuance of the replacement
+solicitation based on substantial changes to the scope of work. Further, we find no evidence of bad
+faith by the contracting agency. Accordingly, we deny ACME’s protest.
+
+                                          BACKGROUND
+
+        On March 12, 2002, the District’s Office of Contracting and Procurement (“OCP”) issued
+Request for Proposals No. PO-JA-2002-R-0037 ("RFP-1") on behalf of the Department of Human
+Services, Youth Services Administration (“YSA”), for a contractor to provide a therapeutic substance
+abuse community model and related services for 40 male youth and 10 female youth committed to the
+Oak Hill Youth Center. (Agency Report (“AR”), at 2; AR Ex. 1). OCP issued seven amendments to
+the solicitation prior to its closing on August 5, 2002. (AR, at 2; AR Ex. 2). One of the amendments
+removed the services to female youth. ACME, Systems Assessment and Research, Inc. (“Systems”),
+and Desert Counseling Clinic, Inc., submitted proposals in response to the amended solicitation. Desert
+Counseling did not respond to several requests by the District to extend its offer beyond the 150 days
+required by the solicitation.
+
+        OCP prepared a pre-negotiation business clearance memorandum requesting approval to enter
+into discussions with the two remaining offerors. (AR Ex. 4). The Procurement Review Committee
+approved the pre-negotiation business clearance memorandum on April 16, 2003, and discussions with
+the two remaining offerors were held on April 30, 2003. (AR Ex. 1). Following discussions, Gayle
+Turner, then Administrator of YSA, informed OCP that YSA only needed treatment services for 20
+male youth, rather than the 40 called for in the solicitation. (AR Ex. 1). She requested that the
+solicitation be amended (prior to OCP’s issuing of the request for Best and Final Offers (“BAFO”)) to
+reduce the number of youth to be served from 40 to 20 and likewise to reduce the number of counselors
+                                               -2-     American Consultants & Management, CAB No. P-0683
+
+from four to two to maintain the counselor to youth ratio at 1:10. Ms. Turner also requested that the
+number of option years be reduced from four to two.
+
+       Responding to YSA’s request, the contracting officer issued, on June 3, 2003, Amendment No.
+8, making the following changes to the solicitation:
+
+       1.      Reducing the number of youth to be served per month from 40 to 20;
+       2.      Reducing the number of option years from four to two; and
+       3.      Reducing the staffing levels from the previous requirement for a clinical
+               supervisor, full-time clinician, and four substance abuse counselors, to a clinical
+               supervisor, a half-time clinician, and two substance abuse counselors.
+
+(AR Ex. 2).
+
+       The deadline for submission of BAFOs was August 5, 2003. ACME submitted a BAFO by the
+deadline. Systems indicated that the District should consider its initial proposal as its response to the
+BAFO. The District evaluated the BAFOs. The technical evaluation panel submitted the final
+evaluation report to the contracting officer on October 23, 2003. (AR, at 3; AR Ex. 1). In November
+and December 2003, ACME completed various preliminary compliance and survey activities with a
+view to receiving award, but no award was made.
+
+        Before the contracting officer completed his independent assessment of the offerors’ proposals
+and before any source selection decision had been made, the newly appointed Director of the
+Department of Human Services and the Interim Administrator of YSA reviewed the statement of work
+of the amended solicitation. (AR, at 3; AR Ex. 1). Upon their review, they determined that the
+solicitation’s requirements did not sufficiently meet the substance abuse treatment needs of the youth
+committed to the Oak Hill Youth Center.
+
+         On January 6, 2004, the YSA Interim Administrator prepared findings supporting a
+determination to cancel the solicitation. (AR Ex. 1). The YSA Administrator identified three main
+reasons for canceling the solicitation. First, the therapeutic community model, upon which the
+treatment requirements were designed, is not the best treatment method to address the problem of the
+youth committed to YSA’s care. According to the YSA Administrator, the therapeutic community
+model is designed for youth who will be treated for one year or longer. However, the youth who are
+committed to Oak Hill generally stay for periods of 45 days to nine months. Thus, there is insufficient
+time for the youth to profit from a therapeutic community model treatment approach. In addition, the
+Administrator notes that the substance abuse patterns of the youth at Oak Hill ranges from
+experimentation to daily usage, and that it would be inappropriate to place youth who occasionally
+experiment with drugs in a long-term therapeutic community program. (AR Ex. 1). Second, YSA
+needs a contractor to provide substance abuse treatment services for 40 male youth, not 20 as provided
+in the amended solicitation, because approximately two thirds of usual population of 85 youth at Oak
+Hill has some sort of substance abuse problems. With a requirement for 40 youth, YSA will be able to
+serve about 50 percent of the committed youth each day. Third, a higher ratio of treatment staff to
+youth, such as 1:5, is needed rather than the 1:10 that had been specified. The YSA Administrator
+states that given the wide range of substance abuse patterns and the realization that these problems do
+not exist in isolation, the higher staff ratio will help YSA better serve the youth suffering from
+                                               -3-      American Consultants & Management, CAB No. P-0683
+
+substance abuse problems. In the findings, the YSA Administrator also states that because the
+District’s needs have substantially changed, a new solicitation should be issued that incorporates the
+three requirements discussed above. (AR Ex. 1).
+
+        On January 8, 2004, the Director of the Department of Human Services approved the YSA
+Administrator’s findings, and on February 5, 2004, the Chief Procurement Officer signed the
+determination and findings to cancel the solicitation. The Chief Procurement Officer transmitted a copy
+of the determination and findings for the cancellation to the Inspector General as required by law on
+February 9, 2004. On February 10, 2004, a contracting officer sent notices of the cancellation to the
+offerors, citing as authority certain regulations contained in 27 DCMR Chapters 15 (relating to IFBs)
+and 16 (relating to RFPs). On February 13, 2004, OCP issued a new solicitation, No. PO-JA-2004-R-
+JD001, incorporating the three changed requirements identified in the findings of the YSA
+Administrator. (AR, at 4; AR Ex. 3). On February 20, Middleton sent a letter to the contracting officer,
+stating that ACME had spent a great deal of time in responding to the request for proposals, and
+suggesting that the cancellation action did not show good faith on the part of the District. On February
+27, the contracting officer replied to Middleton, stating that the changes to the solicitation were
+substantial and again citing to regulations supporting the cancellation, this time referring only to 27
+DCMR Chapter 16.
+
+        On February 25, 2004, ACME filed its protest, challenging the cancellation of the original
+solicitation as well as the issuance of the new solicitation. ACME argues that its BAFO implemented a
+cognitive behavioral therapy method required by the new solicitation and thus issuing the new
+solicitation was unnecessary. Further, ACME argues that the changes from the first solicitation (as
+amended) to the new solicitation were so insignificant that the changes simply did not justify
+cancellation and reissuance. Finally, ACME states that the District did not act in good faith in
+canceling the original solicitation and issuing the new solicitation.
+
+                                            DISCUSSION
+
+        The Board’s jurisdiction over this protest is founded on D.C. Code § 2-309.03(a)(1). D.C. Code
+§ 2-303.07 provides that “An invitation for bids, a request for proposals, or other solicitations may be
+cancelled, or all bids or proposals may be rejected, only if it is determined in writing by the [Chief
+Procurement Officer] that the action is taken in the best interest of the District government.” We have
+held also, consistent with well-settled procurement law, that a request for proposals may be cancelled if
+the CPO determines that there is a reasonable basis for cancellation. Singleton Electric Co., CAB No.
+P-0411, Nov. 15, 1994, 42 D.C. Reg. 4888, 4893; Shannon & Luchs, CAB No. P-0415, Sept. 21, 1994,
+42 D.C. Reg. 4851, 4859 & n.12; McMillan Limited Partnership, CAB No. P-0301, Oct. 22, 1992, 40
+D.C. Reg. 4647, 4654 n.6. Chapter 16 of the District’s procurement regulations contain the following
+provision concerning a change in requirements:
+
+       If a change is so substantial that it warrants complete revision of a solicitation, the
+       contracting officer shall cancel the original solicitation and issue a new one, regardless
+       of the state of the procurement. The new solicitation shall be issued to all firms
+       originally solicited and to any firms added to the original list, and shall be advertised in
+       accordance with the requirements of this title.
+                                                -4-    American Consultants & Management, CAB No. P-0683
+
+27 DCMR § 1615.3.
+
+        ACME argues that cancellation of the original RFP was not merited because the changes to the
+requirements were insignificant. We conclude that the findings prepared by the YSA Administrator
+adequately identify substantial changes to the statement of work justifying cancellation and reissuance.
+Removing the therapeutic community model treatment approach and increasing the ratio of staff
+providers to youth from 1:10 to 1:5, taken together, constitute more than an insignificant change to the
+scope of work. Clearly, under the facts here, the CPO had a reasonable basis for cancellation. ACME’s
+argument that its proposal provided the correct treatment approach is simply irrelevant. The issue is not
+what one or another offeror agreed to provide but rather the issue is whether the competing offerors had
+a specification against which to properly formulate their offers and to compete on a fair basis. The
+District determined that its minimum needs would not be adequately met by the original solicitation as
+amended and that the new solicitation would properly address those needs. ACME has not rebutted the
+evidence of the changed requirements placed in the record by the District.
+
+        ACME also argues that the District has not shown good faith in conducting the original
+procurement. ACME’s charge never gets beyond argument to evidence. We are not pointed to any
+specific actions of District officials. ACME does object to having spent considerable time and effort in
+responding to the original solicitation with an initial proposal and subsequent BAFOs. At the root of its
+complaint, we think, is that ACME believed it was going to receive an award when the contracting
+agency conducted preliminary survey and compliance tasks after the BAFO submissions. In any event,
+evidence of bad faith is entirely lacking in the record. ACME points to the poorly worded notice of
+cancellation from the contracting officer of February 10, 2004, which identifies IFB cancellation
+regulations, and the contracting officer’s February 27, 2004 letter which contains two incorrect citations
+to the cancellation regulations in 27 DCMR Chapter 16. These matters, of course, do not begin to
+approach a showing of bad faith conduct.
+
+        In sum, ACME has not shown that the District has violated law or regulation in canceling the
+original solicitation and issuing a new solicitation to meet its changed requirements. Accordingly, we
+deny the protest.
+
+       SO ORDERED.
+
+DATED: May 17, 2004                                    /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

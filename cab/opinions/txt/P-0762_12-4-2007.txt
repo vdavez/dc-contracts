@@ -1,0 +1,124 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+       INCLUSION RESEARCH INSTITUTE                           )
+                                                              )     CAB No. P-0762
+       Under RFQ No. POHC-2007-RQ-158143                      )
+
+       For the Protester Inclusion Research Institute: Carl T. Cameron, Ph. D, President. For
+the District of Columbia Government: Howard Schwartz, Esq., Talia S. Cohen, Esq., Office of
+the Attorney General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                           OPINION
+                                         Filing ID 17513780
+
+
+        By letter dated August 31, 2007, and received by the Board on September 7, 2007,
+protester Inclusion Research Institute (“IRI”) protests the award by the Office of Contracts and
+Procurement (“OCP”) of a contract for activities in support of a Medicaid Infrastructure Grant
+issued to the District by the United States Department of Health and Human Services (“HHS”).
+IRI argues that it was the only contractor proposed in the District’s grant application to HHS,
+that it had the most experience in performing the solicited services, and that OCP wrongfully
+excluded IRI from the competition by limiting the procurement to firms on the District of
+Columbia Supply Schedule (“Supply Schedule”). The District filed a combined motion to
+dismiss and Agency Report on October 15, 2007, asserting that the protest is untimely because
+the protester should have filed the protest by August 2, 2007. The District also asserts that the
+District properly purchased services for this RFQ under the Supply Schedule. We dismiss the
+protest as untimely.
+
+                                        BACKGROUND
+
+        HHS’s Center for Medicare and Medicaid Services (“HHS/CMS”) issued a request for
+grant proposals for states and the District to compete for Medicaid Infrastructure Grants
+(“MIGs”). (Agency Report, Ex. 2). These federal grant funds are used by the states to improve
+the services to maintain employment for workers with disabilities. The District submitted its
+grant proposal on July 13, 2006. In the grant proposal, the District stated that IRI “will be asked
+to serve as a contractor for the MIG project. . . .” (Agency Report, Ex. 3).
+
+        By letter dated November 14, 2006, HHS/CMS informed the District that the District had
+received a grant award. (Agency Report, Ex. 4). HHS/CMS attached to that letter an award
+profile, the terms and conditions of the grant award, and a notice of grant award. (Agency
+Report, Ex. 5). HHS/CMS did not include language in the grant award documents that required
+the District to enter into a contract with IRI.
+                                                -2-        Inclusion Research Institute, CAB No. P-0762
+
+
+        On July 31, 2007, the District issued Request for Quotations No. POHC-2007-RQ-
+158143 (“RFQ”) to seven firms on the District of Columbia Supply Schedule for a contractor to
+develop key components to launch a Medicaid Buy-In for persons with disabilities in the
+District. (Agency Report, Ex. 6). IRI did not receive a copy of the RFQ from the District
+because it is not on the D.C. Supply Schedule. IRI observes that D.C. Supply Schedule contracts
+are set aside for District certified local, small, and disadvantaged business enterprises and IRI as
+a non-profit entity is ineligible to be so certified. (IRI Response, at 4 & n.1). On August 3,
+2007, the District received two quotations, one from HGM Management (“HGM”), for
+$120,095, and the other from Motir Services, Inc., for $367,500. (Agency Report, Ex. 8). Motir
+included in its quotation a letter from IRI dated August 2, 2007, stating that IRI would participate
+as a subcontractor to Motir. (Agency Report, Ex. 11). IRI states in its response to the motion to
+dismiss that it first received notification of the RFQ when it was contacted by Motir to be a
+subcontractor if Motir received a contract award. On August 20, 2007, the District issued a task
+order under the RFQ to HGM, the lowest responsive and responsible bidder. (Agency Report,
+Ex. 13). On September 7, 2007, IRI filed the instant protest.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        In the motion to dismiss, the District asserts that IRI filed its protest more than 10
+business days after August 2, 2007, the date of the letter in which IRI stated that it would
+participate with Motir as a subcontractor. (Agency Report, Ex. 11). The District asserts that
+because IRI knew that the District had issued the RFQ under the D.C. Supply Schedule as of
+August 2, 2007, IRI should have filed its protest within 10 business days of that date, that is, by
+August 17, 2007. IRI’s other contention, that the District committed to awarding it a sole source
+contract by mentioning IRI in the grant application to HHS, is no different from the first
+contention in alleging an impropriety in the solicitation and deciding to competitively procure
+the services rather than obtain them non-competitively through a sole source award.
+
+        Both of IRI’s grounds of protest are untimely. D.C. Code § 2-309.08 (b)(1) requires a
+protester to file, prior to bid opening or the time set for receipt of initial proposals, its protest
+based upon alleged improprieties in a solicitation. D.C. Code § 2-309.08 (b)(2) allows the
+protester to file a protest, in cases other than those covered in paragraph b(1), not later than 10
+business days after the basis of the protest is known or should have been known, whichever is
+earlier. When IRI submitted its August 2, 2007, letter to Motir for inclusion in Motir’s quote,
+IRI knew, or should have known, that IRI was not listed in the RFQ as a “preferred contractor.”
+Moreover, because the RFQ limited responses to contractors with D.C. Supply Schedule
+contracts, and because IRI did not have a Supply Schedule contract, IRI knew, or should have
+known, by August 2, 2007, that it could not submit to the District a response to the RFQ.
+Accordingly, we agree with the District that the protest is untimely and that it should have been
+filed earlier than September 7, 2007.
+
+        The Procurement Practices Act favors competitive bidding. D.C. Code § 2-303.02 sets
+forth the hierarchy of methods to be used by the District government to award contracts.
+Competitive sealed bidding and competitive proposals are favored above all other methods for
+                                              -3-        Inclusion Research Institute, CAB No. P-0762
+
+
+contract awards. D.C. Code § 2-303.04 sets forth the standards to be used for contracting by
+competitive sealed proposals. D.C. Code § 2-303.04(b) requires proposals from the maximum
+number of qualified sources, with adequate public notice of the intended procurement. D.C.
+Code § 2-303.05 sets forth the limited bases for conducting sole source procurements. Those
+standards require that the District certify that there is only one source for the required
+commodity, service or construction item. In this matter, the contracting officer did not certify
+that only one contractor could provide the services set forth in RFQ POHC-2007-RQ-158413 for
+activities in support of a Medicaid Infrastructure Grant. Further, there is nothing in the record
+demonstrating that the District was legally bound to award a sole source contract to IRI solely
+based upon a statement made in a grant application to HHS.
+
+                                        CONCLUSION
+
+       For the reasons discussed above, we dismiss the protest.
+
+
+DATED: December 4, 2007                             /s/ Warren J. Nash
+                                                    WARREN J. NASH
+                                                    Administrative Judge
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

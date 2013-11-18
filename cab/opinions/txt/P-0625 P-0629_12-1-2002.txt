@@ -1,0 +1,280 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+
+       CAPITOL ENGINEERS/TCBA JOINT VENTURE )
+                                              )                        CAB Nos. P-625, P-629
+       Under Solicitation No. 9063-AA-03-1-DD )                           (Consolidated)
+
+
+        For Capitol Engineers/TCBA Joint Venture: James H. Roberts, III, Esq., Manatt, Phelps &
+Phillips, LLP. For the Government: Howard Schwartz, Esq., Warren J. Nash, Esq., Assistants
+Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Administrative Judges Phyllis W.
+Jackson and Matthew S. Watson, concurring.
+
+                                              OPINION
+
+         Capitol Engineers/TCBA Joint Venture (“Capitol JV”) protests the contracting officer’s
+determination that it was not eligible for award under a small business set-aside procurement on the
+basis that Capitol JV was not certified as a small business enterprise (“SBE”) by the Local Business
+Opportunity Commission (LBOC”) and its related Office of Local Business Development (“OLBD”).
+Capitol JV argues that because each joint venture entity was certified as a SBE, it was not necessary for
+the joint venture to be certified. In its supplemental protest, Capitol JV argues that even though the
+LBOC had not certified it by the time of initial proposals, the LBOC certified it on July 11, 2000, which
+was prior to the closing date for the second round of best and final offers. Finally, Capitol JV contends
+that it properly self-certified, pursuant to 27 DCMR § 818, as a SBE at the time of initial proposals. We
+conclude that Capitol JV failed to properly self-certify by the closing date for initial proposals, and did
+not otherwise meet the statutory and regulatory requirements for certification as a joint venture by the
+closing date for initial proposals. The eventual certification which occurred after the first BAFO but
+before the second BAFO did not cure its ineligibility as of the closing date of initial proposals. Thus,
+the District did not violate law, regulation, or the terms of the solicitation in its determination that
+Capitol JV was ineligible to participate in the solicitation and award. Accordingly, we deny the
+consolidated protests.
+
+                                          BACKGROUND
+
+       On September 20, 1999, the Office of Contracting and Procurement (“OCP”) issued Solicitation
+No. 9063-AA-03-1-DD, for “Facility Condition Assessment, Inventory & Spatial Design Services,” in
+the small business set-aside market. (Agency Report (“AR”) Ex. 1).
+
+       The original closing date for proposals was October 19, 1999. Various solicitation amendments
+through Amendment No. 6 had the effect of extending the closing date for proposals from October 19,
+1999, to December 8, 1999. At the closing date and time, 9 proposals were received on time and 5
+proposals, including that of Capitol JV, were received late. The contracting officer executed
+                                             -2-              Capitol Engrs./TCBA JV, CAB Nos. P-625, P-629
+
+
+Amendment No. 7 on December 27, 1999, to extend the closing date from December 8 to December 9
+“to allow acceptance of the 5 proposals that would otherwise be late in order to enhance competition.”
+(AR, Ex. 2). As a result of Amendment No. 7, OCP received 14 proposals by the revised closing date
+of December 9, 1999. (AR, Ex. 2).
+
+        The solicitation informed offerors that the District intended to award up to five indefinite
+quantity contracts with payments based on fixed unit prices. The solicitation provided that it was
+“designated for certified small business enterprise (SBE) bidders or offerors only under the provisions
+of ‘The Equal Opportunity for Local, Small and Disadvantaged Business Enterprises Act of 1992’ . . . .”
+(AR, Ex. 1, Section I.12.1). Section I.12.1.2 provided that a SBE “must be certified as small in the
+procurement category of “General Services” in order to be eligible to submit a proposal in response to
+this solicitation.” Section I.12.3.1 provided:
+
+       Any vendor seeking to submit a proposal as a . . . [SBE] in response to this solicitation
+       must submit one of the following at the time of, and as part of its proposal:
+
+       I.12.3.2        A copy of the SBE letter of certification from the [LBOC];
+
+       I.12.3.3        A copy of the sworn notarized Self-Certification Form prescribed by the
+                       [LBOC] along with an acknowledgement letter issued by the Director of
+                       the [Office of Local Business Development] . . . .
+
+       I.12.3.4        Proposals from vendors that are not certified as small business
+                       enterprises through one of the means described in subparagraphs I.12.3.2
+                       or I.12.3.3 of this clause will not be considered.
+
+(AR, Ex. 1). Section I.12.4.1 further provides:
+
+       A joint venture between a small business enterprise (as defined under section 3(2) of the
+       Act and implementing regulations) and another entity shall be eligible to submit a
+       proposal in response to this SBE set-aside solicitation if the joint venture is certified by
+       the [LBOC] . . . under the provisions of 27 DCMR § 817 . . . , or is self-certified under
+       27 DCMR § 818 . . . .
+
+(AR, Ex. 1).
+
+       Capitol Engineers and TCBA entered into a joint venture agreement on December 8, 1999, for
+the purpose of making a proposal in response to the solicitation. (Protest, Attachment F). The Capitol
+JV proposal, which was received by OCP on December 9, 1999, contained a document entitled “Capitol
+Engineers/TCBA JV Self Certification” which states:
+
+               Capitol Engineers, PC and Thompson, Cobb, Bazilio, and Associates, PC
+       (TCBA) have entered into a joint venture arrangement to propose facility condition
+       assessment, inventory, and spa[t]ial design services to the D.C. Government under
+       Solicitation # 9063-AA-03-1-DD. The Joint Venture, Capitol Engineers/TCBA JV
+       hereby self-certify under the provisions of 27 DCMR 818, 39 DCR 9075-9076 that the
+                                               -3-              Capitol Engrs./TCBA JV, CAB Nos. P-625, P-629
+
+
+        Joint Venture is a small business enterprise. LSDBE Certifications for Capitol
+        Engineers and TCBA are attached.
+
+(Protest, Attachment C). The document was signed but not sworn by Larry Wilson of TCBA and dated
+December 8, 1999. Capitol JV did not submit a sworn notarized LBOC self-certification form with its
+proposal. (See 27 DCMR § 818.2). Capitol JV also did not submit an acknowledgement letter from the
+OLBD Director, which would verify that Capitol JV had timely filed with the OLBD a proper
+application for joint venture certification. In its Agency Report, the District states that at the time of the
+closing date for proposals on December 9, 1999, Capitol JV had not submitted to OLBD its application
+for joint venture certification as a SBE. (AR at 3). Capitol JV has not rebutted this fact and we take it
+as conceded. See Board Rule 307.4, 45 D.C. Reg. 1419.
+
+         A technical evaluation panel evaluated the initial proposals, and prepared evaluation scores, an
+evaluation report, and recommendations which were submitted to the contracting officer on February
+26, 2000. (AR, Ex. 3, at CSP-22). Determining that 9 offerors (including Capitol JV) were within the
+competitive range, the contracting officer conducted discussions with these offerors on June 21, 2000.
+(Id. at CSP-14). By letter of June 23, 2000, the contracting officer solicited BAFOs from the 9 offerors.
+(Protest, Attachment A; AR, Ex. 3, at CSP-15). The BAFO request letter to Capitol JV requested
+information to address various deficiencies in the proposal, including:
+
+        Is there an SBE Joint Venture arrangement between Capitol Engineering and . . .
+        [TCBA] for this RFP? If there is, when was it established? Was the venture certified by
+        the Office of Local Business Development? If so, when? Provide a copy of the SBE
+        Joint Venture certification document received from the Office of Local Business
+        Development.
+
+(Protest, Attachment A). In its June 29, 2000 BAFO, Capitol JV responded to these questions as
+follows:
+
+        An SBE Joint Venture Agreement was established between Capitol Engineering and . . .
+        [TCBA] on December 8, 1999. We have included a copy of the agreement with this
+        response. The certification of the Joint Venture is still pending with the Office of Local
+        Business Development. During our most recent conversation with Ms. Evelyn Ross of
+        said office, on June 29, 2000, we were informed that our agreement conformed to all of
+        the requirements, she has all of the necessary documentation and the certification is in
+        process. . . .
+
+        The technical evaluation panel evaluated the proposals and BAFOs in July 2000, and submitted
+an evaluation report and narratives to the contracting officer on July 28, 2000. (AR, Ex. 3, at CSP-15).
+In July or August, the contracting officer determined that Capitol JV and one other joint venture offeror
+were ineligible for award because they had failed to obtain SBE certification by the initial proposal
+closing date of December 9, 1999. (Id. at CSP-17).
+
+        By letter dated August 23, 2000, the contracting officer informed Capitol JV that its joint
+venture proposal was not eligible for award because as of December 9, 1999, Capitol JV lacked
+certification by the LBOC and that LBOC’s certification of Capitol JV was effective on July 11, 2000.
+                                              -4-            Capitol Engrs./TCBA JV, CAB Nos. P-625, P-629
+
+
+(Protest, Attachment B).
+
+        The contracting officer issued Amendment No. 10 on August 23, 2000, and reopened
+discussions with the 7 remaining offerors, allowing one offeror to correct certain conditions which were
+attached to the pricing in its BAFO. The contracting officer requested second BAFOs by August 25.
+After reviewing the proposals as revised by the first and second BAFOs, the contracting officer made a
+source selection, followed by awards of letter contracts to three offerors on September 6, 2000. A letter
+contract to a fourth offeror was pending subject to that offeror’s adherence to a deadline to comply with
+the tax requirements of the District government. (District’s Determination and Findings to Proceed
+With Contract Performance).
+
+         Capitol JV filed its initial protest on September 8, 2000. On September 28, 2000, the District
+filed its Agency Report. Capitol JV filed a supplemental protest on October 11, 2000. The District
+responded to the supplemental protest on December 12, 2000, and Capitol JV replied on December 19,
+2000.
+
+                                            DISCUSSION
+
+       We exercise protest jurisdiction pursuant to D.C. Code § 1-1189.3(a)(1).
+
+The relevant provisions of the Equal Opportunity for Local, Small and Disadvantaged Business
+Enterprises Act of 1992, as amended, provide:
+
+       (a) To achieve the goals set forth in § 1-1153.2, programs designed to assist contractors
+       who are certified as local business enterprises, disadvantaged business enterprises, or
+       small business enterprises shall be established by rules issued by the Mayor pursuant to
+       § 1-1153.6. Such programs shall be implemented by each agency within 10 days of
+       March 17, 1993. Local, small, or disadvantaged business enterprises shall not be
+       limited to bidding only on contracts within these programs.
+
+       (b)(1) The Mayor shall include among these programs . . . a two-tier small business set-
+       aside program at the contract level, which shall include a separate set-aside program for
+       small business enterprises with gross revenues of $1,000,000 or less, which shall
+       provide that a business becomes ineligible for participation in this set-aside program
+       when the business has gross revenues in excess of $1,000,000 for 2 consecutive years,
+       and a separate set-aside program for all small business enterprises . . . .
+
+D.C. Code § 1-1153.3.
+
+        The pertinent implementing regulations, contained at 27 DCMR § 804, require that the
+solicitation notify prospective offerors that the solicitation “is designated for certified small business
+enterprise offerors only” and that “responses include a copy of the SBEs’ letter of certification or self-
+certification form.” The application process for certification of a business as a SBE is set forth at 27
+DCMR §§ 812 and 813 and a special provision governs certification of joint ventures, 27 DCMR § 817.
+A qualified but uncertified entity may be eligible to submit a proposal where the offeror submits with
+its proposal an acknowledgement letter from the OLBD Director attesting to the submission of an
+                                              -5-             Capitol Engrs./TCBA JV, CAB Nos. P-625, P-629
+
+
+application for certification and a sworn notarized self-certification form prescribed by the LBOC. 27
+DCMR § 818.2.
+
+         For purposes of awarding preferences under D.C. Code § 1-1153.3(b), we have held that the
+certification requirements for preferences by their nature are to be ascertained at the closing date for
+proposals or bids. E.g., Dental Benefit Providers, Inc., CAB No. P-623, Dec. 1, 2000, 12 P.D. 8021,
+8029; Trifax Corp., CAB No. P-539, Sept. 25, 1998, 45 D.C. Reg. 8842, 8849. We conclude that the
+same rule applies to the determination of eligibility under the set-aside programs for certified small
+business enterprises. Although not questioning this rule as applied to sealed bids, Capitol JV argues
+that in procurements conducted through competitive sealed proposals, revised proposals including
+BAFOs should be regarded as extending the proposal closing date and thus certification should be
+determined as of the last closing date. It is true that offerors may revise their proposals during the
+course of a negotiated procurement, even correcting deficiencies that in the context of sealed bidding
+would be matters of responsiveness. Nevertheless, we believe that the question of certification, and
+eligibility, differ from responsiveness issues. By its nature, certification goes to the eligibility of the
+offeror to participate in the competition. It thus addresses the threshold question of whether an entity is
+even authorized to submit an initial proposal. The language of the statute, the implementing
+regulations, and the solicitation terms concerning certification all point to eligibility as of the closing
+date of initial proposals. A prospective contractor could not ignore the closing date for initial proposals
+in a procurement and expect to enter the competition at some later time such as when BAFOs are
+requested. Similarly, if the contracting officer had promptly determined Capitol JV’s ineligibility
+shortly after the December 9, 1999, closing date for proposals, Capitol JV would hardly have been in a
+position to complain. If we allowed certification to be determined at any time other than the closing
+date for initial proposals, there could be unwarranted disruptions to the orderly evaluation and selection
+process, not to mention possibilities for abusing the certification system. In an analogous context, the
+GAO has held that an extended period of negotiation that includes the submission of revised proposals
+cannot legally cure an initial proposal that was submitted late. Hausted, Inc., B-257087, July 28, 1994,
+94-2 CPD ¶ 49; G.D. Searle & Co., B-247146, Apr. 30, 1992, 92-1 CPD ¶ 406. As the District points
+out, the contracting officer could have further extended the closing date for initial proposals to
+overcome the late certification of Capitol JV for the purpose of enhancing competition. Fort Biscuit
+Co., 71 Comp. Gen. 392, 92-1 CPD ¶ 440. The record does not demonstrate that the contracting officer
+erred in failing to extend the closing date.
+
+        To avoid the dilemma for contractors who want to participate in a set-aside procurement, are
+qualified but not yet LBOC certified, and face a relatively short proposal response period, the statute
+and regulations provide for the relatively prompt self-certification procedure which provides a
+temporary certification status effective until the LBOC completes its certification approval process. 27
+DCMR § 818.5. See Trifax Corp., 45 D.C. Reg. at 8849. In the present case, Capitol JV did not meet
+the requirements for a valid self-certification because it failed to submit with its proposal both the
+sworn notarized self-certification affidavit specified by the LBOC and the OLBD Director’s
+acknowledgement letter attesting that Capitol JV filed its application for certification with the OLBD.
+
+        Finally, we do not agree with Capitol JV’s argument that the joint venture was not required to be
+certified as a SBE because each joint venture entity individually was certified as a SBE. Under the
+certification regulations, a joint venture differs from the entities comprising the joint venture. Although
+the joint venture regulations generally anticipate a non-SBE party to the joint venture, the regulations
+                                             -6-            Capitol Engrs./TCBA JV, CAB Nos. P-625, P-629
+
+
+make no exception to the requirement that every SBE joint venture be certified. It may well be that if
+either Capitol Engineers or TCBA had been named as the prime contractor on the proposal, rather than
+a joint venture, there would have been no eligibility problem.
+
+                                           CONCLUSION
+
+       Having concluded that Capitol JV has not shown that the District violated law, regulation, or the
+terms of the solicitation in determining the joint venture to be ineligible for award, we deny these
+consolidated protests.
+
+       SO ORDERED.
+
+
+
+DATED: January 16, 2001                                     /s/
+                                                      JONATHAN D. ZISCHKAU
+                                                      Administrative Judge
+
+
+CONCURRING:
+
+
+
+      /s/
+PHYLLIS W. JACKSON
+Administrative Judge
+
+
+
+      /s/
+MATTHEW S. WATSON
+Administrative Judge
+

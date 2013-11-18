@@ -1,0 +1,434 @@
+                             DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+GRANTURK EQUIPMENT                                                     )
+COMPANY, INC.                                                          )     CAB No. P-0884
+                                                                       )
+Solicitation No. DCKT-2011-B-0034                                      )
+                                                                       )
+
+                                   OPINION DENYING THE PROTEST OF GRAN TURK
+                                                 Filing ID 44639736
+
+        In this matter, third-ranked bidder GranTurk Equipment Co., Inc. (protester or GranTurk)
+protests the Department of Public Works’ (District) award of a contract for the acquisition of two
+refuse trucks to low bidder Waste Equipment Sales and Service, Inc. (Waste or Intervenor). The
+protester also challenges the responsiveness of the second ranked bidder, Maryland Industrial
+Trucks (M.I.T.). M.I.T. has neither protested the award to Waste, nor intervened in this matter.
+
+        After carefully reviewing the entire record herein, we dismiss GranTurk’s protest because
+it has not demonstrated that it would be next in line for award were the protest to be sustained.
+The second ranked bid submitted by M.I.T. would be next in line for award if the protest were
+sustained. Gran Turk’s contention that M.I.T.’s bid is non-responsive because its descriptive
+literature fails to conform to two bid specifications is without merit. Under Section L.20.2 of the
+solicitation herein, the contracting officer had discretion to accept bids whose descriptive
+literature failed to conform to solicitation specifications. Accordingly, even if the descriptive
+literature submitted with M.I.T.’s bid failed to conform to solicitation specifications, M.I.T.’s bid
+was properly determined responsive. Under these circumstances, the protester is not next in line
+for award, and lacks standing to protest the award to Waste.
+
+                                                               BACKGROUND
+
+        On January 6, 2011, the District issued IFB No. DCKT-2011-B-0034 (IFB) for the
+acquisition of seven refuse trucks.1 The protest herein centers solely on the District’s award to
+Waste of a single component of the IFB: CLIN#1 for two 16 cubic-yard high compaction rear
+loader refuse trucks. (AR, Ex. 2.)
+
+        With respect to CLIN#1 and the issues material to the instant protest, the IFB included
+three specifications (at Section C) and two instructions (at Section L) of singular import:
+
+              C.2.2.25.3                    Compaction force: minimum 89,000 pounds. Must be high compaction.
+
+                                                            
+1
+  The District procured a total of two 16 cubic‐yard high compaction rear loader refuse trucks,  one 6 cubic‐yard 
+rear loader refuse packer, and four 8 cubic‐yard rear loader packers. (AR, Ex. 2.) The IFB provided each vehicle type 
+with its own Contract Line Item Number (CLIN), and also stated the District’s intention to award a firm fixed‐price 
+contract to a single contractor for each CLIN.   
+                                                                     2
+                                                                                                       Granturk, Inc.
+                                                                                                     CAB No. P-0884
+                                            (State compaction force to be provided): _____________
+
+              C.2.2.25.5                    Body sides shall be minimum 11 gauge to 1/8 inch AR450 high tensile
+                                            sheet which has tensile strength of over 200,000 PSI. Curved shell design
+                                            with ¼” wrap around reinforcement top and bottom. The body floor shall
+                                            be ¼” minimum.2
+
+              C.2.2.26.4                    Hopper: minimum 3/8 inch 100,000 PSI steel one-piece (no liners).
+
+              L.20.1 Descriptive literature must be furnished as a part of a bid and must be received
+              before the time set for opening bids. The literature furnished must be identified to show
+              the items in the bid to which it pertains. The descriptive literature is required to establish,
+              for the purpose of bid evaluation and award, details of the products the bidder proposes to
+              furnish as to design, material, quality, construction, and performance characteristics.
+
+              L.20.2 Failure of descriptive literature to show that the product offered conforms to the
+              specifications and other requirements of this invitation for bids may require rejection of
+              the bid. Failure to furnish the descriptive literature by the time and date set for receipt of
+              bids will require rejection of the bid, except that if the materials are transmitted by mail
+              and received late, it may be considered under the provision for considering late bids, as
+              set forth elsewhere in this invitation for bids. The Contracting Officer may waive the
+              requirement for furnishing descriptive literature if either of the following occurs:
+
+                             A. Bidder states in the bid that the product being offered is the same as a product
+                             previously or currently being furnished to the District; or
+                             B. The CO, on advice of technical personnel determines that the product offered
+                             by the bidder complies with the specification requirements of the current
+                             invitation for bids. (emphasis added.)
+
+        (AR, Ex. 2a.) On February 3, 2011, the District received six timely bids in response to
+CLIN#1 (including two no-bids). (Protest at 5; AR, Ex. 1.) The bids were ranked as follows per
+the bid tabulation sheet:
+
+                                                          Bidder                    Bid Amount
+                                           1. Mid-Atlantic Waste Systems            $376,666.00
+
+                                           2. Waste Equipment Sales and Service     $378,060.00
+
+                                           3. Maryland Industrial Trucks            $381,340.00
+
+                                           4. GranTurk Equipment Co., Inc.          $393,232.00
+
+
+
+                                                            
+2
+  Section C.2.2.25.5 was amended by the District on January 26, 2011, to accept a minimum of 80,000 psi. (AR, Ex. 
+3, Amendments to the Solicitation.) The amendment does not impact the Board’s analysis or conclusions. 
+                                                               3
+                                                                                                   Granturk, Inc.
+                                                                                                 CAB No. P-0884
+        The contracting officer’s technical representative concluded its bid review on February 8,
+2011; noting that Mid-Atlantic Waste Systems’ bid was non-responsive3, but concluding that the
+bids of Waste, M.I.T. and Gran Turk were responsive. (AR, Ex. 10.) Each of the three
+responsive bidders submitted descriptive literature with their bids as required by Sections L.20.1
+and L.20.2 of the IFB.
+
+        On April 5, 2011, approximately five weeks after bid opening, the District’s contract
+specialist (at the behest of the contracting officer) sent emails to Mid-Atlantic, Waste, M.I.T. and
+Gran Turk, asking each to clarify whether their particular refuse truck met the IFB’s requirement
+for 89,000 lbs. minimum compaction force.4 (AR, Exs. 9, 11.) The four bidders replied to the
+referenced emails by April 6-7, 2011; with the result being that the bid rankings and
+responsiveness memorandum of February 8, 2011, remained unchanged5. (AR, Ex. 9.)
+
+        On April 27, 2011, the District awarded the contract for the two rear loader refuse trucks
+to Waste. (AR, Ex. 7.) Third low bidder GranTurk filed the instant protest timely on May 11,
+2011. The awardee Waste intervened on June 14, 2011.6 Second low bidder M.I.T. has neither
+protested nor intervened in the instant protest. The Board conducted a hearing on July 26-27,
+2011.7 The parties and Waste filed post-hearing briefs on August 30, 2011. Miscellaneous
+pleadings were filed by the parties after the filing of post-hearing briefs through December 2011.
+
+        In its protest, Gran Turk challenges both the awardee8 and the next in line bidder, M.I.T.
+(Protest at 9, 11, 12-14, 18-19.) With respect to the protester’s challenge to M.I.T., Gran Turk
+contends generally that the District erred in determining M.I.T.’s bid responsive to two
+specifications of the IFB. Very specifically, Gran Turk contends that M.I.T.’s descriptive
+literature for the curved shell design specification (C.2.2.25.5) does not “demonstrate that
+                                                            
+3
+   Mid‐Atlantic’s bid offering of “69,000 lbs psi” compaction force was found unacceptable as to specification 
+C.2.2.25.3, and its “minimum 4 to 4.5 inches of bore packing carrier or slide cylinder” was found unacceptable as to 
+specification C.2.27.13. (AR, Ex. 10.)  
+4
+   The District’s emails also sought clarification as to whether each bidder’s equipment met minimum requirements 
+for cubic yard space (C.2.2.25.2), refuse capacity (C.2.2.25.4), body thickness (C.2.2.25.5), and hydraulic system 
+operating pressure (C.2.2.27.3). (AR, Ex. 9.)  
+5
+   Mid Atlantic’s earlier non‐responsiveness determination did not change, and the bids of Waste, M.I.T., and 
+GranTurk continued to be viewed as responsive by the contracting officer. (AR, Ex. 9, Greg Harrelson Email.)   
+6
+   Waste intervened pursuant to D.C. Mun. Reg. tit. 27, §100.2(l) (2002). 
+7
+   This case was originally assigned to former Administrative Judge Warren Nash, who presided over the hearing but 
+retired before a decision was issued.  Thereafter, the case was reassigned to Chief Judge Loud.     
+8
+   With respect to the awardee, the protester contends that (1) Waste’s “descriptive literature” noted that its 
+equipment produced “79,500 pounds of compaction force, not the 89,000 pounds of compaction force required 
+by” the specifications, (2) Waste’s bid “did not state that its” equipment could meet the curved body shell design 
+specification and the descriptive literature submitted therewith also failed to demonstrate such compliance, and 
+(3) Waste’s bid did not meet the specification requirement for a 3/8 inch hopper floor based on “descriptive 
+literature” that described Waste’s rear loader as providing “3/8 inch AR200” instead of the required “3/8 inch 
+100,000 PSI steel”. (Gran Turk Protest at 12‐14.)  Subsequent to filing its protest, Gran Turk asserted an additional 
+ground for challenging the award to Waste, namely that the District violated procurement law by requesting and 
+considering additional information from bidders subsequent to bid opening. (Gran Turk Comments To AR at 13‐17; 
+Gran Turk Post Hr’g Br. 13‐19.)  The additional allegation focuses almost exclusively, however, on the District’s 
+request for and consideration of additional information from Waste. Id. 
+ 
+                                                                   4
+                                                                                                      Granturk, Inc.
+                                                                                                    CAB No. P-0884
+M.I.T.’s offering will comply with this specification”. (Gran Turk Post-Hr’g Br. 5, 46.) Gran
+Turk also contends that M.I.T.’s descriptive literature differed from specification C.2.2.26.4 by
+stating that “the tailgate hopper floor [would] be ¼ inch” rather than the specification’s required
+3/8 inch thickness. (Gran Turk Post-Hr’g Br. 5-6; GranTurk Comments To AR, Ex. A, Decl. of
+Edward A. Antoniewicz.)
+
+        Finally, Gran Turk contends as to both specifications (C.2.2.25.5 and C.2.2.26.4) that
+M.I.T.’s failure to “state that [it] would comply with [the specifications] rendered its bid non-
+responsive in light of the fact that “M.I.T. stated ‘yes’ … it would comply with many of the other
+specifications in Section C of the IFB”. 9 (Gran Turk Post Hr’g Br. 5, 50-51.)
+
+                                                               DISCUSSION
+
+              We exercise jurisdiction pursuant to D.C. Code §2-360.03(a)(1).
+
+       The threshold question presented is whether the protester has standing to challenge the
+award to Waste. As noted herein, Gran Turk is not next in line for award. (AR, Ex. 1). Gran Turk
+had the highest priced of three responsive bids. Gran Turk contends, however, that it has
+standing because its pleadings challenge both the awardee and the next in line (M.I.T.). (Gran
+Turk Post Hr’g Br. 10-11.)
+
+        A protester has standing for purposes of jurisdiction if it has some direct economic
+interest in the procurement. Micro Computer Co., Inc., CAB No. P-226, 40 D.C. Reg. 4388 (May
+12, 1992). However, where there is “an intermediate party who has a greater interest in the
+procurement than the protester, the protester’s interest will be, and is, considered too remote to
+qualify as an aggrieved or interested party”. Protest of MTI-RECYC, CAB No. P-287, 40 D.C.
+Reg. 4554 (Oct. 1, 1992). The Board will not consider protests by offerors who are not next in
+line for award if the protest is sustained. St. John’s Community Services, CAB No. P-555, 46
+D.C. Reg. 7695 (Mar. 23, 1999); C.P.F. Corporation, CAB No. P-521, 45 D.C. Reg. 8697 (Jan.
+12, 1998).
+
+        We conclude that the protester has failed to demonstrate that it is next in line for award if
+the protest were to be sustained. M.I.T. is a clear intermediary bidder in this matter whose bid
+ranked second overall to the awardee Waste. The bid tabulation sheet ranks M.I.T. as the second
+low responsive bidder (AR, Ex. 2), the contracting officer determined M.I.T. as the second low
+responsive bid (AR, Exs. 6, 10), and the contracting officer testified that M.I.T. would be next in
+line for award if the protest against Waste were to be sustained (Hr’g Tr. vol. 2, 147:5-20, July
+27, 2011.)
+
+
+
+                                                            
+9
+   Initially, Gran Turk also contended that M.I.T.’s descriptive literature failed to conform to specification C.2.2.25.3 
+regarding compaction force. (Protest at 18‐19.) Gran Turk has not included the latter protest grounds in its post‐
+hearing brief materials. The Board therefore treats the latter argument as abandoned by Gran Turk. It is immaterial 
+to the Board’s analysis and conclusions, however, whether Gran Turk challenges M.I.T.’s descriptive literature as to 
+Section C.2.2.25.3 (compaction force).     
+ 
+                                                               5
+                                                                                                 Granturk, Inc.
+                                                                                               CAB No. P-0884
+        To determine whether Gran Turk is next in line for award, this board must first address
+whether Gran Turk’s challenge to the second low bidder herein (M.I.T.) has merit. Gran Turk
+contends that M.I.T.’s bid was non-responsive because its descriptive literature failed to
+conform to sections C.2.2.25.5 and C.2.2.26.4. It is important to note that Gran Turk’s basis for
+challenging M.I.T.’s second place ranking is the (purported) failure of its descriptive literature to
+comply with certain IFB specifications10. (Gran Turk Post Hr’g Br. 20-27.) Gran Turk’s protest
+rests entirely on its interpretation that section L.20 of the IFB requires descriptive literature to
+conform to IFB specifications. (Gran Turk Post Hr’g Br. 22, 50-51.)
+
+       Our review of section L.20 of the IFB does not support Gran Turk’s contention. In
+pertinent part, Section L provides:
+
+              L.20.1 Descriptive literature must be furnished as a part of a bid and must be received
+              before the time set for opening bids. The literature furnished must be identified to show
+              the items in the bid to which it pertains. The descriptive literature is required to establish,
+              for the purpose of bid evaluation and award, details of the products the bidder proposes to
+              furnish as to design, material, quality, construction, and performance characteristics.
+
+              L.20.2 Failure of descriptive literature to show that the product offered conforms to the
+              specifications and other requirements of this invitation for bids may require rejection of
+              the bid. Failure to furnish the descriptive literature by the time and date set for receipt of
+              bids will require rejection of the bid, except that if the materials are transmitted by mail
+              and received late, it may be considered under the provision for considering late bids, as
+              set forth elsewhere in this invitation for bids. The Contracting Officer may waive the
+              requirement for furnishing descriptive literature if either of the following occurs:
+
+                             A. Bidder states in the bid that the product being offered is the same as a product
+                             previously or currently being furnished to the District; or
+                             B. The CO, on advice of technical personnel determines that the product offered
+                             by the bidder complies with the specification requirements of the current
+                             invitation for bids. (emphasis added.)
+
+              (AR, Ex. 2a.)
+
+        The general rule is that where a contract is not ambiguous, the wording of the contract
+controls its meaning and resort cannot be had to extraneous circumstances or subjective
+interpretations to determine such meaning. Appeal of Heller Elec. Co., Inc., CAB No. D-939, 41
+D.C. Reg. 3717, 3723 (Nov. 17, 1993)(citations omitted). The same maxim applies to
+interpretation of a solicitation. Allied Technology Group, Inc. v. U.S., 39 Fed. Cl. 125, 144 (Cl.
+Ct. 1997); Blake Constr. Co. v. U.S., 202 Ct. Cl. 794, 798 (1973).
+
+        In our view, the plain language of Section L.20.2 makes it very clear that a bid whose
+descriptive literature does not conform to IFB specifications “may” be accepted. The relevant
+section L.20.2 expressly states that “[f]ailure of descriptive literature to show that the product
+                                                            
+10
+  Protester states that “the only way to give meaning to Section L.20 of the IFB … is that the bid and the 
+descriptive literature …must be read together to determine” bid responsiveness. (Gran Turk Post Hr’g Br. 22.)  
+                                                               6
+                                                                                                    Granturk, Inc.
+                                                                                                  CAB No. P-0884
+offered conforms to the specifications and other requirements of this invitation for bids may
+require rejection of the bid”. (Emphasis added.) In this case, it was lawful for the contracting
+officer to accept M.I.T.’s bid as responsive, notwithstanding the alleged failure of its descriptive
+literature to conform to specifications C.2.2.25.5 and C.2.2.26.4. Under these circumstances,
+M.I.T. is next in line for award and the only bidder with standing to challenge the award to
+Waste herein.
+
+        A review of our previous decisions addressing descriptive literature finds nothing
+inconsistent with our conclusion that Section L.20.2 herein grants the contracting officer
+discretion to accept bids with non-conforming descriptive literature. In Protest of Advanced
+Medical Systems Inc., CAB No. P-202, 39 D.C. Reg. 4516 (April 1, 1992), the Board ruled that
+the protester’s bid was properly rejected as non-responsive because its descriptive literature
+failed to establish that its fetal monitor met the specification requirement for an autocorrelation
+feature. In Protest of Lewis Systems, CAB No. P-252, 38 D.C. Reg. 3242 (April 11, 1991), the
+Board ruled that the protester’s bid was properly rejected as non-responsive because its
+descriptive literature failed to establish that its curbside recycling containers met the
+specification requirement for a minimum drainage capacity of 10 ounces.
+        In each of the above mentioned cases, however, the District’s contracting officer was
+required by the terms of the solicitation to reject bids whose descriptive literature failed to
+conform to contract specifications. The descriptive literature clauses in Advanced Medical
+Systems, supra, and Lewis Systems, supra, are identical and read as follows: “[f]ailure of
+descriptive literature to show that the product offered conforms to the specifications and other
+requirements of this invitation for bids will require rejection of the bid” (emphasis added). (AR,
+IFB No. 081-9-65-CW, ¶27, §B, Advanced Medical Systems, supra; AR, Ex. C Special
+Conditions, ¶ 9, §B, Lewis Systems, supra.) Therefore, the Board’s previous cases are
+distinguished from the instant matter in that Section L.20.2 herein expressly gives the contracting
+officer discretion to accept a bid with non-conforming descriptive literature.11
+        Further, we have reviewed the federal government contract cases cited by the protester
+regarding descriptive literature clauses. FFR-Bauelement-Bausanierung GmbH, Comp. Gen.
+Dec. B-274828, 97-1 CPD ¶7; Thermal Reduction Co., Comp. Gen. Dec. B-211405, 83-2 CPD
+¶180; RMTC Sys., Inc. v. Dep’t of the Army, GSBCA 12637-P, 94-2 BCA ¶26,614; Nu-Lite
+Electrical Wholesalers, Inc., Comp. Gen. Dec. B-248383, 92-2 CPD ¶104; AMSCO Scientific,
+Comp. Gen. Dec. B-255313, 94-1 CPD ¶112.
+
+       These cases are inapposite to the issues presented by the present protest because Section
+L.20.2 herein grants the contracting officer discretion to accept bids with non-conforming
+descriptive literature. The federal cases cited by protester either involve descriptive literature
+clauses that specifically require rejection of bids with non-conforming descriptive literature,
+                                                            
+11
+   The descriptive literature clause in Advanced Medical Systems, supra, and Lewis Systems, supra, also appears in 
+Protest of Chesapeake Bus & Equipment, CAB No. P‐611, 48 D.C. Reg. 1537 (May 10, 2000). It is possible, therefore, 
+that the District inserted the instant Section L.20.2 language into solicitations to clarify contracting officer’s 
+discretion to accept bids with non‐conforming descriptive literature, and that the current clause is the successor to 
+the District’s earlier descriptive literature clause. The record is silent, however, as to the basis for the change in 
+language from the compulsive “will” to the permissive “may” as regards the District’s descriptive literature clause.     
+ 
+                                                               7
+                                                                                                     Granturk, Inc.
+                                                                                                   CAB No. P-0884
+Thermal Reduction Co., Comp. Gen. Dec. B-211405, 83-2 CPD; AMSCO Scientific, Comp.
+Gen. Dec. B-255313, 94-1 CPD ¶112; or involve “brand name or equal” solicitations where the
+contracting officer is only authorized to accept bids whose descriptive literature “meets the
+salient physical, functional, and other characteristics” specified in the solicitation, FFR-
+Bauelement-Bausanierung GmbH, Comp. Gen. Dec. B-274828, 97-1 CPD; RMTC Sys., Inc. v.
+Dep’t of the Army, GSBCA 12637-P, 94-2 BCA ¶26,614; or invoke rules regarding treatment of
+unsolicited descriptive literature, Nu-Lite Electrical Wholesalers, Inc., Comp. Gen. Dec. B-
+248383, 92-2 CPD ¶104.
+
+         We have considered the protester’s other arguments challenging the award to Waste and
+find them equally devoid of merit. The protester’s contention that the contracting officer
+testified that descriptive literature must be read to make a proper responsiveness determination is
+legally irrelevant. (Gran Turk Post Hr’g Br. 25-26). It is legally irrelevant because Section
+L.20.2 is manifestly clear that bids with non-conforming descriptive literature can be accepted by
+the contracting officer. And as we noted in Heller, supra, where contract language is
+unambiguous, resort to extraneous circumstances or subjective interpretations is not permissible
+for purposes of contract interpretation. Heller at 3723.
+
+        Additionally, there is nothing in D.C. Mun. Regs. tit. 27, §1507.2 (2002) that prevents a
+contracting officer from accepting a bid whose descriptive literature fails to conform to IFB
+specifications. (Gran Turk Post Hr’g Br. 23.) The regulation cited by the protester merely
+delimits the two circumstances under which a contracting officer can require the submission of
+descriptive literature with bids. Neither circumstance, however, limits the contracting officer’s
+discretion to accept bids with non-conforming descriptive literature.12 In this case, the IFB
+specifically conferred that authority on the contracting officer at Section L.20.2.
+
+        Further, we disagree with the protester’s labeling of the instant descriptive literature
+clause as meaningless. (Gran Turk Post Hr’g Br. 22.) To the contrary, the contracting officer
+herein testified that she uses the bid as “controlling” and that the descriptive literature “is just
+supplemental”. (Hr’g Tr., Gena Johnson, vol. 2, 94:19-22, July 27, 2011.) The contracting
+officer’s use of descriptive literature in said manner is consistent with Section L.20.1 of the
+solicitation, which notes that descriptive literature is required to provide details about the product
+being offered (i.e., its design, material, quality, construction, and performance characteristics).
+
+        Additionally, protester’s contention that M.I.T.’s bid was rendered ambiguous because it
+failed to “state that [it]will comply” with specifications C.2.2.25.5 and C.2.2.26.4 “although
+[M.I.T.] stated “yes” that it would comply with many of the other specifications” is without
+merit. The protester has not cited any authority for the proposition that a bidder has a duty to
+write the word “comply” next to each specification in its bid to demonstrate responsiveness.
+Moreover, item No. 12 of M.I.T.’s signed bid states that “in compliance with the above
+[including Section C], the undersigned agrees…to furnish any or all items upon which prices are
+offered.” (AR, Ex. 5, M.I.T. Bid.) The bidder’s signed execution of the bid at item No. 12
+                                                            
+12
+  The regulation provides that descriptive literature can be required if the contracting officer needs it to 
+determine before award that products offered meet bid specifications. D.C. Mun. Regs. tit. 27, §1507.2 (2002).   
+Alternatively, the regulation provides that a contracting officer can require submission of descriptive literature if 
+he/she needs it to establish exactly what the bidder proposes to furnish.  Id.    
+                                                  8
+                                                                                      Granturk, Inc.
+                                                                                    CAB No. P-0884
+denotes acceptance of IFB terms, excluding those that the bidder has taken exception to. Cf.
+Matter of: Image Contracting, B-253038, 1993 WL 316192 (bidder’s signed execution of the bid
+documents represents its agreement to be bound by all sections in the Table of Contents).
+
+        Finally, it is not altogether clear from the record whether the protester asserts standing on
+the grounds that the integrity of the evaluation process was compromised by the District’s
+requesting email clarifications from bidders on equipment characteristics five weeks after bid
+opening. See CUP Temp., Inc. , CAB No. P-474, 44 D.C. Reg. 6841 (July 3, 1997). The initial
+protest herein includes specific challenges to M.I.T. as next in line, but only on the ground that
+descriptive literature made its bid non-responsive to IFB “specifications and essential
+requirements”. (Gran Turk’s Protest 1,6,11,18-19, 21.) Similarly, Gran Turk’s post-hearing brief
+states conclusorily that it has standing because “([it] has challenged the first and second ranked
+bidders (Waste and M.I.T. respectively)”. (Gran Turk Post Hr’g Br. 10-11.)
+
+         Nonetheless, we noted in CUP, supra, that a protester ranking third among offerors had
+standing to challenge the award because it challenged the integrity of the evaluation process.
+Assuming arguendo, that the protester contends that standing is conferred under the principle
+articulated in CUP, supra, we disagree. In In Re Thomas, CAB No. P579, 46 D.C. Reg. 4618
+(May 11, 1999), we noted that a protester challenging “the integrity of the manner in which the
+agency officials scored all the offerors” must show how the higher-ranked offerors were
+improperly evaluated “such that the protester would be in line for award if his protest grounds
+were sustained”. Id.
+
+        Accordingly, we find nothing in the record that shows that the District’s belated email
+request for clarification of certain equipment characteristics resulted in improper scoring that
+would render Gran Turk next in line for award. The record shows that prior to the request for
+email clarification, Waste, M.I.T., and Gran Turk were found responsive and ranked one, two,
+and three respectively on the basis of price. (AR, Ex. 10.) After the series of email exchanges
+between April 5-7, 2011, Waste, M.I.T. and Gran Turk were still found responsive by the
+District, and still ranked one, two, and three respectively. Though admittedly unusual, the
+District’s request for email clarifications herein had no impact on M.I.T.’s ranking as second low
+bidder and Gran Turk’s ranking as third. Gran Turk has not establish a nexus between the
+District’s request for email clarifications and how M.I.T.’s bid was improperly evaluated “such
+that [Gran Turk] would be in line for award if [its] protest grounds were sustained”.
+
+         Accordingly, Gran Turk’s protest is dismissed with prejudice. Gran Turk would not be
+next in line for award if the protest against Waste were sustained and therefore lacks standing.
+
+   SO ORDERED.
+
+Date: June 5, 2012                                    /s/ Marc D. Loud, Sr.
+                                                      Chief Administrative Judge
+CONCURRING:
+
+/s/Monica C. Parchment
+Administrative Judge
+                                        9
+                                              Granturk, Inc.
+                                            CAB No. P-0884
+
+
+Electronic Service:
+
+Mark A. Sgarlata, Esq.,
+WATT TIEDER HOFFAR
+& FITZGERALD, LLP
+8405 Greensboro Drive, Suite 100
+McLean, Virginia 22102
+
+Robert Schildkraut, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+
+Charlotte Rothenberg Rosen, Esq.
+Dickstein Shapiro
+1825 Eye Street, NW.
+Washington, DC 20006
+

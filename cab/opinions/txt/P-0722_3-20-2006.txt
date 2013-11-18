@@ -1,0 +1,141 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+CORRECTIONAL MEDICAL CARE, INC.                       )
+                                                      )    CAB No. P-0722
+Under Solicitation No. DCFL-2005-R-0002               )
+
+      For the Protester, Mr. Emre Umar, pro se. For the District of Columbia Government: Howard
+Schwartz, Esq., Talia S. Cohen, Esq., Assistant Attorneys General, D.C.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                 OPINION DENYING PROTEST
+                                      LexisNexis Filing ID 10839183
+
+       Correctional Medical Care, Inc. (“CMC”), has protested the Department of Correction’s
+cancellation of a solicitation for a multi-year contract for comprehensive medical and mental health
+services within the District’s detention facilities. CMC also challenges the award of a sole source
+contract in connection with the cancellation to the incumbent contractor, CCHPS. The District filed an
+Agency Report asserting that its decisions to cancel and award a sole source contract were reasonable
+because of the agency’s need to substantially revise the statement of work and need for services to be
+provided pending procurement of expanded services through a new solicitation. CMC has not
+responded to the Agency Report and thus is deemed to concede the merits of the case. On the
+unrebutted record presented by the District, we find a reasonable basis for the cancellation and
+temporary sole source award, although we believe the agency could have competed its temporary
+requirements without resorting to a sole source award. We deny the protest.
+
+                                          BACKGROUND
+
+        On February 11, 2005, the District issued Request for Proposals No. DFCL-2005-R-0002
+(“RFP”) on behalf of the Department of Corrections (“DOC”) for a three-year multi-year requirements
+contract for a contractor to provide within the District’s Central Detention Facility and Correctional
+Treatment Facility (“detention facilities”) comprehensive medical and mental health services. (Agency
+Report (“AR”) at 2; AR Ex. 1). The RFP was limited to providing “internal” health care services, i.e.,
+health care services provided by health care providers to inmates within the DOC detention facilities.
+The incumbent provider for internal health care services was the Center for Correctional Health and
+Policy Studies, Inc. (“CCHPS”). “External” health care services, i.e., health care services provided to
+inmates who must leave the detention facilities to receive health care, are currently provided by the
+Alliance Contract primarily at Greater Southeast Community Hospital. (AR at 2, n.2). On the RFP’s
+closing date of April 1, 2005, the District received proposals from the following four offerors: CMC,
+Atlantic Health Services, Inc., CCHPS, and League Medical Concepts. (AR Ex. 3). The contracting
+officer determined that CMC and CCHPS were in the competitive range. (AR Ex. 3). On May 20,
+2005, the contracting officer held discussions with CMC and CCHPS and issued requests for BAFOs
+from both CMC and CCHPS. (AR Exs. 2 and 3). Thereafter, the contracting officer recommended
+                                              -2-                Correctional Medical Care, CAB No. P-0722
+
+
+award to CMC since CMC had the highest technical score and offered the lowest price, pending
+determination of CMC’s responsibility and certification of the availability of funding. (AR Exs. 2 and
+3). However, two issues arose that required the District to reconsider the award of the multi-year
+contract under the RFP. The first issue was the unavailability of funding needed to make an award.
+(AR Ex. 3). The second issue was the change in the agency’s minimum needs to consolidate the scope
+of work to include both external and internal health care for the Corrections population.
+
+        Faced with these two issues, on August 15, 2005, the District requested an extension of the
+offerors’ proposals until December 31, 2005, and also prepared for continuity of services in the event
+that the District decided to revise its minimum needs. (AR Ex. 3). The contracting agency did not
+inform CMC of these issues in its August 15, 2005 communication. By Determination and Findings for
+Sole Source, dated August 19, 2005, the Interim Chief Procurement Officer (“CPO”) determined that in
+order to continue to provide medical and mental services to DOC inmates without interruption while the
+District revised its minimum needs, analyzed the cost effect, and prepared, issued and awarded a new
+multi-year contract, an interim one year sole source contract with the incumbent contractor, CCHPS,
+was justified. On September 30, 2005, the District issued CCHPS a one-year contract, No. DCFL-
+2005-D-0044, for the period of October 1, 2005, through September 30, 2006, to continue to provide
+internal comprehensive medical and mental health services at the District’s detention facilities. (AR Ex.
+7). The contracting agency did not timely inform CMC of the sole source award to CCHPS.
+
+        By email dated November 18, 2005, the Deputy Mayor for Public Safety and Justice
+recommended that the CPO cancel the RFP so that the scope of work could be substantially changed.
+(AR Ex. 5). On December 2, 2005, the CPO signed the determination and findings to cancel the RFP.
+(AR Ex. 4). The CPO determined that it was in the best interest of the District to cancel the RFP so that
+the RFP’s scope of work could be substantially changed. Since another ongoing contract for external
+health services is scheduled to expire on May 31, 2006, the CPO agreed that it was in the District’s best
+interest to combine into one solicitation both the internal and external health services and “seek one
+vendor or a coalition of vendors who would provide and coordinate all health care for the Corrections
+population.” (AR at 4; AR Ex. 4).
+
+        On December 8, 2005, the District notified CMC of its determination to cancel the RFP.
+(Protest). On December 16, 2005, CMC filed its protest. The District filed an Agency Report on
+January 9, 2006. CMC has not responded to the Agency Report.
+
+                                            DISCUSSION
+
+               We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1). Our Board rules
+provide in pertinent part:
+
+       307.3 Failure of the protester to file comments, or to file a statement requesting that the
+       case be decided on the existing record, or to request an extension of time for filing, shall
+       result in closing the record of the case and may result in dismissal of the protest.
+
+       307.4 When a protester fails to file comments on an Agency Report, factual allegations
+       in the Agency Report’s statement of facts not otherwise contradicted by the protest, or
+       the documents in the record, may be treated by the Board as conceded.
+                                              -3-                Correctional Medical Care, CAB No. P-0722
+
+
+
+
+        We treat as conceded the District’s statement of facts in its Agency Report regarding the bases
+for the determination to cancel the RFP and to award a sole source interim contract to CCHPS. Our
+standard of review of a cancellation determination is well settled. A request for proposals may be
+cancelled only if the CPO determines in writing that the action is taken in the best interest of the
+District government and there is a reasonable basis for cancellation. D.C. Code § 2-303.07 (2001);
+JHARBO Limited, Inc., CAB No. P-0527, Jan. 16, 1998, 45 D.C. Reg. 8701, 8703; Singleton Electric
+Co., CAB No. P-0411, Nov. 15, 1994, 42 D.C. Reg. 4888, 4893. A sole source procurement may be
+used only under the standards provided in D.C. Code § 2-303.05 (2001). Because CMC has conceded
+the factual bases for the District’s actions, we sustain the determinations to cancel the RFP and to award
+the sole source interim contract.
+
+        We believe the contracting agency should have notified CMC of the funding issue and change in
+minimum needs at the time it requested the extension of CMC’s offer. In addition, we do not
+understand why the contracting agency was unable to compete the 1-year interim contract requirements
+and chose rather to issue a sole source award to CCHPS. Here, the contracting agency had identified
+two viable providers as a result of the RFP, CMC and CCHPS, and with regard to the RFP, CMC had
+the highest technical score and lowest price. In any event, once the agency made the sole source award
+to CCHPS, it promptly should have advised CMC of the sole source award because it clearly related to
+the pending solicitation and covered the same services.
+
+       Based on the record presented to us, we deny CMC’s protest.
+
+       SO ORDERED.
+
+
+DATED: March 20, 2006                                  /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

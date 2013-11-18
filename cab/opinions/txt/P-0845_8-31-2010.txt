@@ -1,0 +1,376 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+
+URBAN SERVICE SYSTEMS CORPORATION                             )
+                                                              )       CAB No. P-0845
+                                                              )
+Solicitation No: DCKT-2010-B-0136 and                         )
+                 DCKT-2008-B-0160                             )
+
+        For the Protester, Urban Service Systems Corp.: Joanne Doddy Forte, Esq., For the
+District of Columbia Government: Robert Schildkraut, Esq., Assistant Attorney General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Administrative Judge Jonathan D.
+Zischkau, concurring.
+
+                                             OPINION
+                                         Filing ID 32948535
+
+         Urban Service Systems Corporation protests the contracting officer’s decisions (1) to
+cancel Solicitation DCKT-2008-B-0160 for hauling and disposal of combustible and non-
+combustible municipal solid waste, and (2) to issue new Solicitation DCKT-2010-B-1036, for
+the same services. Urban Service requests that the Board find that the 2008 solicitation was
+improperly cancelled and that the 2010 solicitation is fatally flawed. The District asserts that the
+contracting officer properly cancelled the 2008 solicitation and that the 2010 solicitation is not
+flawed. After carefully considering the documentary record, we conclude that the contracting
+officer did not violate law or regulation in cancelling the 2008 solicitation. We also conclude
+that Urban filed its protest regarding the cancellation of the 2008 solicitation more than 10 days
+after it knew or should have known of the grounds for the protest. Additionally, we conclude
+that the contracting officer did not violate law or regulation in issuing the 2010 solicitation.
+Accordingly, we dismiss the protest of the cancellation of the 2008 solicitation and we deny the
+protest of the 2010 solicitation.
+
+                                         BACKGROUND
+
+       A. Invitation for Bids DCKT-2008-B-0160
+
+        On December 2, 2008, the Office of Contracting and Procurement (“OCP”), on behalf of
+the Department of Public Works (“DPW”), issued IFB DCKT-2008-B-0160 (the 2008 IFB), in
+the open market, for a contractor to haul and dispose of combustible and non-combustible
+municipal solid waste including tires and white goods. (Agency Report (“AR”) at 3). The IFB
+required the contractor to (1) transfer the solid waste from the Fort Totten and Benning Road
+solid waste transfer stations and dispose of it at a licensed solid waste disposal facility, (2) enter
+into disposal agreements with a solid waste disposal facility and a metal recycling facility, and
+(3) transport leaves to a composting facility each year from November through January. OCP
+anticipated awarding a multiyear contract for a period of 5 years. The District estimated its
+                                                -2-                     Urban Service Systems Corp.
+                                                                                   CAB No. P-0845
+
+
+waste tonnage to be 1,021,000 tons per year and its leaf tonnage to be 8,000 tons per year. (AR
+Ex. 1; Goel Services, Inc., CAB No. P-0804, February 2, 2010 (“P-0804 Opinion”), at 1).
+
+       The District had estimated its requirements for disposal of combustible solid waste at
+180,000 tons per year. (AR Ex. 14, Declaration of Hallie Clemm, Deputy Administrator for Solid
+Waste Management, DPW).
+
+       Under the 2008 IFB, prospective bidders were required to submit prices for the hauling
+and disposal of four types of solid waste set forth in the IFB:
+
+      a. 100,000 tons per year of combustible solid waste to the Fairfax County Energy
+         Resource Recovery Facility (“E/RRF”) where it would be disposed, at the
+         District's cost, under an Agreement between the District and Fairfax County
+         (Contract Line Item Number (“CLIN”) 001);
+
+      b. 180,000 tons per year of combustible solid waste to a licensed disposal facility
+         selected by the prospective contractor, with disposal to be at the contractor's
+         cost by its agreement with its chosen facility (CLINs 002A and B);
+
+      c. 24,000 tons per year of non-combustible solid waste (CLINs 003A and B) and
+         up to 1,500 tons per year of white goods, each at a licensed disposal facility
+         selected by the prospective contractor, with disposal to be at the contractor's
+         cost by its agreement with its chosen facility; and
+
+      d.    Leaves and yard waste would be hauled to a District designated composting
+           facility for disposal at the District's cost.
+
+(AR Ex. 1, IFB §§ B.5, H.9 and H.10; see Protest, at 2-3). The 2008 IFB included in CLIN 0001
+the hauling of an estimated 100,000 tons per year of combustible solid waste to the Fairfax
+County E/RRF, and in CLIN 0002A, the hauling of an estimated 180,000 tons per year of
+combustible solid waste to a licensed disposal facility selected by the contractor, as provided in
+IFB section H.10.1. (AR Ex. 1, at 3, 23-24). Under CLIN 0001, the contractor would deliver up
+to 100,000 tons per year to the E/RRF as allowed by the District’s agreement with Fairfax
+County. CLINs 0001 and 0002A in the 2008 IFB provided two options for disposal of the
+estimated annual District requirements of 180,000 tons of combustible solid waste.
+
+       On January 23, 2009, OCP received and opened thirteen bids. The three lowest evaluated
+bidders were Goel Services, Covitta, and Urban. (AR Exhibit 3, P-0804 Opinion, at 3). By his
+May 19, 2009 Determination and Finding of Non-Responsibility, the contracting officer found
+Goel to be nonresponsible. (AR Exhibit 3, P-0804 Opinion, at 3 and 8). On May 18, 2009,
+before the District had made an award to another bidder, Goel filed with the Board a protest
+(CAB No. P-0804) challenging the District's nonresponsibility determination. The District did
+not award a contract under the 2008 IFB while awaiting the decision of the Board. (P-0804
+Opinion).
+                                                -3-                    Urban Service Systems Corp.
+                                                                                  CAB No. P-0845
+
+
+
+
+       While the Goel protest in CAB No. P-0804 was pending, the District continued to obtain
+solid waste hauling and disposal services from TAC Transport, LLC, under Contract No. POKY-
+2004-B-0056-NJ. (AR Ex. 7).
+
+        In August, 2009, the Chief Procurement Officer (“CPO”) approved a Determination and
+Findings to Proceed with Award under the 2008 IFB. When Goel challenged the determination
+to proceed, the District withdrew the determination and instead extended the existing solid waste
+hauling and disposal contract with TAC Transport. That extension kept the TAC contract in
+effect through December 2009. (AR Ex. 13, ¶ 6).
+
+        From December 2009 up to the filing of the protest here in P-0845 on March 19, 2010,
+the District continued to extend the existing hauling and disposal contract with TAC Transport so
+that solid waste hauling and disposal services could continue without interruption. (AR Exs.
+11A and 11B).
+
+       B. The Fairfax Agreement and Cancellation of the 2008 IFB
+
+       In October and November 2009, DPW program personnel began re-reviewing the solid
+waste hauling and disposal requirements and researching other options for obtaining the
+necessary services. DPW was exploring an option that would change the requirements in terms
+of volume by directing most of the District’s solid waste, estimated now for the combustible
+solid waste component to be up to 200,000 tons annually, to the Fairfax County E/RRS, And, if
+necessary, to an alternate disposal site. (AR Exs. 13, ¶ 6-7, and 14, ¶ 8).
+
+       Compared to the 2008 IFB, under which only part of the combustible solid waste would
+have been disposed of at the Fairfax County E/RRF, this new option included the following
+major differences:
+
+               a. Use of the E/RRF was limited to 125,000 tons per year by the Waste
+               Delivery/Disposal Agreement, between Fairfax County, Virginia, and the District
+               of Columbia (Fairfax Agreement), in effect since December 5, 2008. (Fairfax
+               Agreement, ¶ 5, Attachment to AR Ex. 7, at 5-9).
+
+               b. Under the 2008 IFB, the combustible solid waste that was not hauled to the
+               E/RRF would be disposed of by the contractor at a licensed facility of its choosing
+               and at the contractor’s cost. The contractor was required to pay the disposal cost
+               (and therefore was deemed to have bid a price that included the costs of such
+               payment). (AR Ex..1, 2008 IFB §§B.5, C.2, H.9, and H.10).
+
+       As a result, the contracting officer determined that the bid prices and responsibilities of
+the District and the contractor would be significantly affected by the different requirements that
+would be included in a new solicitation because of the amendment to the Fairfax County
+Agreement. [AR Ex. 13, ¶ 8]. Therefore the District decided to issue a new solicitation in lieu of
+awarding a contract under the now-obsolete requirements of the 2008 IFB.
+                                                 -4-                     Urban Service Systems Corp.
+                                                                                    CAB No. P-0845
+
+
+
+
+        In late December 2009, the DPW Program Manager, Hallie Clemm, contacted Fairfax
+County officials to discuss potential changes to the terms of the Fairfax County Agreement.
+Negotiations with the Fairfax County Division of Solid Waste Disposal and Resource Recovery
+began in January 2010 and District contracting and project management personnel came to final
+agreement on terms with Fairfax officials in February 2010. This agreement is embodied in the
+Amended Waste Delivery/Disposal Agreement, between Fairfax County, Virginia, and the
+District of Columbia (“Amended Agreement”) (AR Ex. 10.A). (AR Exs. 14, ¶¶ 10-11, and 13, ¶
+9). This Amended Fairfax Agreement is subject to formal approval by both the District and
+Fairfax County governments and, as of the date of the District’s Agency Report in P-0845, had
+been approved and executed by the District.
+
+       In the Amended Fairfax County Agreement, the District agrees to send up to 200,000
+tons per year of its combustible solid waste to the E/RRF. The District will divert all waste
+under its control to the E/RRF unless requested not to by Fairfax County. The parties to the
+agreement anticipate that Fairfax County will be able to accommodate up to 200,000 tons per
+year of “Acceptable Waste” (a term defined in the agreement). (AR Ex. 10.C, Amended
+Agreement, ¶ 5; AR Ex. 14, ¶ 14).
+
+        In paragraph 6 of the Amended Agreement, Fairfax and the District have also agreed that
+when the E/RRF is unable to accept the District’s acceptable waste, Fairfax will redirect the
+District’s waste to an alternate facility and will bill the District for these diverted loads at the
+price set in the Amended Agreement for waste disposed of at the E/RRF. (AR Ex. 10.C, ¶¶ 5-6,
+Amended Agreement, at 2; AR Ex. 14, ¶ 14). In paragraph 11 of the Amended Agreement, the
+District and Fairfax have further agreed that the new annual ceiling cost is $7,000,000, replacing
+the annual cost ceiling of $4,000,000 in the original agreement. (Compare AR Ex. 10.C,
+Amended Fairfax Agreement, ¶ 11, with Attachment to Ex. 7, Fairfax Agreement, ¶ 11).
+
+       The contracting officer forwarded the proposed Amended Agreement with Fairfax
+County to the Mayor, who then submitted the Agreement to the Council of the District of
+Columbia for approval. As of March 29, 2010, under Council No. CA 18-276, the Council was
+considering the proposed award of the Amended Agreement under the approval standard stated
+in CA 18-276. Under this standard, the Agreement was deemed approved by the Council on
+April 8, 2010 and executed by the CPO on April 9, 2010. (AR Exs. 14 (¶ 12), 13 (¶ 10), 10.C,
+and 10.B, Council action number CA 18-276).
+
+       This Board denied Goel’s protest in P-0804 on February 2, 2010. (AR Ex. 3). By
+Determination and Findings for Cancellation of a Solicitation (“Cancellation D&F”), the
+contracting officer proposed cancelling the 2008 IFB, DCKT-2008-B-0160. The Chief
+Procurement Officer approved the cancellation on February 22, 2010. (AR Exs. 13 (¶ 11), 4.A,
+and 4.B).
+                                                -5-                     Urban Service Systems Corp.
+                                                                                   CAB No. P-0845
+
+
+        In the Cancellation D&F, the contracting officer found that cancelling the 2008 IFB was
+in the best interest of the District due to changed circumstances that occurred during the one-year
+period after the original bid closing date of January 23, 2009, until the Goel protest was decided
+by the CAB on February 2, 2010:
+
+      a. The District will no longer require the contractor to have an agreement with a
+         licensed disposal facility to dispose of combustible waste.
+
+      b. Instead, the contractor under a new solicitation would haul the District's full
+         volume of combustible solid waste to a facility designated by the District (the
+         Fairfax County E/RRS facility), predicated upon the pending revision to the
+         District’s Agreement with Fairfax County.
+
+      c. The proposed changes to the District’s Agreement with Fairfax County do not
+         change the Agreement’s five-year term, measured from December 5, 2008, and
+         therefore, for a new contract commencing by mid-2010, would allow a base
+         term of three years for a new multi-year contract that substantially coincides
+         with the remaining term on the Fairfax County Agreement.
+
+(AR Ex. 4.A; see AR Ex. 14, ¶ 9). Apparently, in the 2008 IFB, the District overstated, by some
+55 percent (280,000 tons versus 180,000 tons), its annual requirements for hauling combustible
+solid waste. In preparing to issue the 2008 IFB, the District had determined that it generated
+180,000 tons per year of combustible solid waste (SOF ¶ 2). In Section B.3.1 of the 2008 IFB,
+the District split the requirements for hauling combustible solid waste between CLIN 001 (to the
+E/RRF) and CLIN 002-A (to the contractor-chosen licensed facility). (AR Ex. 1, at 3). In the
+2008 IFB, the District incorrectly included as “Estimated Tons Per Year” a total of 280,000 tons
+of combustible solid waste, of which 100,000 tons were in CLIN 0001 and 180,000 tons were in
+CLIN 0002-A. (AR Ex. 1, 2008 IFB, § B.5; see AR Exs. 14, ¶¶ 3-6, and 13 (¶ 12)).
+
+       On February 23, 2010, the District notified the other bidders, including Urban, of the
+cancellation. (AR Ex. 4.B).
+
+               C. 2010 IFB DCKT-2010-B-0136
+
+       On March 5, 2010, OCP, on behalf of DPW, issued in the open market IFB No. DCKT-
+2010-B-0136 seeking sealed bids from prospective contractors for a requirements contract under
+which the contractor would provide hauling and disposal of municipal solid waste, including
+white goods and tires, to a licensed disposal facility, the Fairfax County E/RRF (IFB §§ B.1 and
+B.2, AR Ex. 5). According to the District, the District intends to award one requirements
+contract for performance of the DPW requirements and the contract is to have a base term of
+three years with provision for the District to exercise two option years. (AR Ex.1, IFB §§ F.1
+and F.2, at 13; AR Ex. 13, ¶¶ 12-13).
+                                                -6-                     Urban Service Systems Corp.
+                                                                                   CAB No. P-0845
+
+
+       The 2010 IFB includes estimated requirements for each of the several categories of solid
+waste that the contractor will haul. Relevant to the protest, the District estimated an annual
+requirement of 200,000 tons of combustible solid waste and included this amount in the
+applicable CLINs in the IFB (AR Ex. 5, IFB, CLINs 001 (3 Base Years); and 1001 and 2001
+(Option Years), at 3). DPW’s estimate was based upon the historical records. As the District
+informed the bidders in Amendment 02 to the 2010 IFB (AR Ex. 7, IFB Amendment 0002,
+Question and Answer 1, page 2 of 4), the average yearly volume for years 2005-2009 was
+173,967.07 tons. In the judgment of DPW, the actual tonnage is expected to increase over the
+next several years. On this basis, DPW used an annual estimated requirement of 200,000 tons
+per year for hauling of combustible solid waste. (AR Ex. 14, Declaration of Hallie Clemm, ¶
+15). A prospective bidder had asked for monthly historical waste hauling data and, in response,
+the District provided annual tonnage for five fiscal years (through 2009), in each of the four
+categories of waste to hauled under the IFB. (AR Ex. 7, page 2 of 4).
+
+        In the 2010 IFB, the District also included a new CLIN 0005 to accommodate the
+provision in paragraph 6 of the Amended Fairfax Agreement, that Fairfax might divert District
+waste from the E/RRF to an alternate disposal site. In IFB § B.3.4, Additional Hauling Service,
+the District provided CLIN 0005 for such diversions and provided that the bidders must submit
+unit hauling prices per mile based on an assumption that each diversion trip will add 98 miles to
+the trip (over and above the round trip from the District facility to the E/RRF). Under the 2010
+IFB, for the actual additional miles of hauling (for diversions of waste from the E/RRF), the
+District then will pay the contractor at the bid rate per mile in the CLINs in § B.3.4. (AR Ex. 14,
+¶ 16).
+
+        In Amendment No. 2, the District informed the prospective bidders in response to a
+question, that, for bid evaluation purposes, for CLINs 0005-2005, the District would use the
+price of one round trip under CLINs 0005-2005. (AR Exhibit 7, IFB Amendment 002, Questions
+and Answers 11 and 2, pages 2-4 of 4; see AR Ex. 9, Bid Tabulation Sheet for the 2010 IFB).
+
+      The bid submission and opening date for the 2010 IFB, as extended by Amendment 003,
+was March 19, 2010. (AR Exs. 8 and 13, Declaration of Gena Johnson, ¶ 13).
+
+        Urban Service filed this protest on March 19, 2010, alleging that the 2010 IFB is
+defective and ambiguous, and that the grounds for the protest did not become apparent until the
+District issued Amendment No. 3 to the 2010 IFB on March 17, 2010.
+
+        On March 19, 2010, five bidders responded to the 2010 IFB. TAC Transport had the
+lowest evaluated bid at $ 14,560,646.02 for the base period and two option years. In addition,
+two other bidders offered substantially lower prices than Urban Service’s bid of $19,447,586.61.
+S.T.S. Inc. had an evaluated bid of $18,354,480.96 and Copeland Trucking had an evaluated bid
+of $18,153,864. (AR Ex. 9, Bid Tabulation; see AR Ex. 13, ¶ 14).
+
+       On March 22, 2010, in a Determination and Findings to Proceed with Contract
+Performance While a Protest is Pending (“D&F to Proceed”), the DPW Director and the
+                                                 -7-                      Urban Service Systems Corp.
+                                                                                     CAB No. P-0845
+
+
+contracting officer made and certified requisite findings and thereupon recommended that the
+District proceed with award of the contract under the 2010 IFB to TAC Transport. (AR Ex. 12).
+
+       On April 7, 2010, upon review of the D&F to Proceed, the Chief Procurement Officer
+determined, in accordance with D.C. Code § 2-309.08 (c)(2) and based upon the findings by
+agency officials, that “urgent and compelling circumstances that significantly affect interests of
+the District will not permit waiting for the final decision of the Board concerning the protest
+…[and that] … it is in the best interest of the District of Columbia to proceed with contract
+award and performance while the protest is pending.” (AR Exs. 12 and 13, ¶ 14). On April 7,
+2010, the District filed with the Board the Chief Procurement Officer’s Determination to proceed
+with award and performance of the contract pursuant to the 2010 IFB. The District awarded the
+contract under 2010 IFB to TAC Transport on June 4, 2010, after Council approval. (AR Ex.
+18).
+
+                                          DISCUSSION
+
+        Urban Service alleges that at the time of the filing of the protest, the 2010 solicitation is
+defective and ambiguous and contains an impropriety because it seeks to acquire services that
+legally cannot be provided in the requested quantities under the terms of the existing agreement
+that DPW has executed with Fairfax County for the use of the Fairfax Energy Resource
+Recovery Facility (“Fairfax Incinerator”). Urban Service alleges that the 125,000 ton ceiling set
+forth in the old agreement renders any possible change in the solicitation that contemplates a
+higher ceiling defective and ambiguous. In the Agency Report, the District set forth its rationale
+for cancelling the 2008 solicitation and replacing it with the 2010 solicitation, regarding the
+increased use of the Fairfax Incinerator. Additionally, the District of Columbia and the Fairfax
+County Board of Supervisors both approved the new agreement regarding the District’s trash
+disposal at the Fairfax Incinerator, thereby rendering moot Urban’s first protest ground.
+
+        Urban next alleges that the 2010 solicitation is defective and ambiguous and contains an
+impropriety because it seeks to evaluate the bid prices based in part on the price of one roundtrip
+haul to a yet-to-be-finalized alternative disposal site. Urban alleges that the contracting officer’s
+decision regarding the evaluation of a 96-mile roundtrip haul is at odds with the District’s
+existing agreement for the use of the incinerator. Urban further alleges that because the District
+has not changed the solicitation to match the terms of the District’s current agreement with
+Fairfax, the solicitation remains defective. The District in its Agency Report asserts that the
+evaluation for one annual round trip to the alternative disposal site was reasonable because
+Fairfax County had not redirected any waste from the incinerator to an alternative site since
+December 2008. We find that the District reasonably used, as an evaluation criteria, an
+estimated one round trip per year to an alternative site.
+
+        Urban further alleges that the 2010 solicitation is deficient because it does not contain
+sufficient information to allow a prospective bidder that is not the incumbent to competitively
+price the solicited services and thereby gives a competitive advantage to the incumbent
+contractor. In support of this allegation, Urban alleges that the District’s refusal to provide
+monthly tonnage data for the materials hauled from the District’s two transfer stations, including
+the amount of combustible solid waste hauled to Fairfax and to an alternate disposal facility,
+keeps the District from providing a realistic picture of the amount of combustibles being hauled
+                                                -8-                     Urban Service Systems Corp.
+                                                                                   CAB No. P-0845
+
+
+in each month on a regular basis. The District in its Agency Report replies that the District
+provided estimated hauling tonnage requirements for the three-year base term and the two option
+years and that the data were reasonably based upon historical annual performance data.
+Additionally, Urban Service does not show how monthly tonnage data could impact any bidder’s
+ability to respond to the IFB.
+
+        Urban alleges that the 2008 solicitation was improperly cancelled because DPW’s factual
+reasons for cancellation were false or pre-textual. As a threshold matter, the Board notes that the
+District cancelled the 2008 solicitation on February 23, 2010, and Urban filed this protest on
+March 19, 2010. Urban’s protest of the cancellation occurred more than 10 days after the
+cancellation, or more than ten days after the protester knew, or should have known, of the
+grounds of the protest. See D.C. Code § 2-309.08(b)(2); CNA Corp., CAB No. P-0810, Oct. 7,
+2009. Therefore, Urban’s protest of the cancellation of the 2008 solicitation is untimely, and we
+must therefore dismiss its challenge of the cancellation. Even if we were to reach the merits, we
+could not sustain Urban’s challenge as the District’s revision to the solicitation specifications
+were reasonably based on an intended modification of its agreement with Fairfax County. See
+First Federal Corp., CAB No. P-0311, Sept. 4, 1992, 40 D.C. Reg. 4520 (failure of an IFB [for a
+requirements contract] to contain estimates based on the most current information available
+clearly evinces a compelling reason for cancellation).
+
+                                         CONCLUSION
+
+           For the reasons discussed above, we deny in part and dismiss in part Urban Service’s
+protest.
+
+           SO ORDERED.
+
+
+DATED: August 31, 2010                                /s/ Warren J. Nash
+                                                      Warren J. Nash
+                                                      Administrative Judge
+
+CONCURRING:
+/s/ Jonathan Zischkau__
+JONATHAN ZISCHKAU
+Administrative Judge
+

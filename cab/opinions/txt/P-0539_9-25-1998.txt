@@ -1,0 +1,417 @@
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+45 D.C. Reg. 8842
+
+PROTEST OF:
+
+       TRIFAX CORPORATION                           )
+                                                    )      CAB No. P-539
+       Under Contract No. JB/87-97-0-AA and         )
+        RFP DCGH JB/025-08-04-DH                    )
+
+      For the Protester: Peter A. Greene, Esq., Thompson, Hine & Flory, LLP. For the
+Government: Warren J. Nash, Esq., and Howard S. Schwartz, Esq., Assistants Corporation
+Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+                                           OPINION
+
+       Trifax Corporation, the incumbent contractor for supplemental nursing services for
+various Community Health Centers, challenges: (i) the decision of the District of Columbia
+Health & Hospitals Public Benefit Corporation (“PBC”) to allow Trifax’s prior nursing services
+contract to expire; (ii) PBC’s evaluation of offers submitted under Task II of RFP JB/025-08-04-
+DH for nursing services at the Community Health Centers; and (iii) PBC’s awarding of a letter
+contract and subsequent definitized contract to Premier Nurse Staffing, Inc., d.b.a. PSA
+Healthcare.
+
+       We conclude that PBC violated no law or regulation when it allowed Trifax’s prior
+contract to expire on January 29, 1998. However, we also conclude that the contracting officer’s
+evaluation and selection of PSA for Task II nursing services violated the procurement law and
+the terms of the solicitation. Accordingly, we sustain the protest in part and direct the
+contracting officer to reevaluate proposals for Task II nursing services, and then make award
+consistent with proper evaluation and selection procedures, terminating the present contract with
+PSA if PSA is not selected after reevaluation.
+
+                                       BACKGROUND
+
+        Through emergency legislation enacted in August 1996, and permanent legislation which
+became law in April 1997, the Council of the District of Columbia established the District of
+Columbia Health and Hospitals Public Benefit Corporation, whose primary purpose is to provide
+comprehensive community-centered health care for the benefit of District residents. D.C. Code §
+32-262.2 (1998). To accomplish this purpose, the legislation transferred to PBC the health care
+functions previously performed by D.C. General Hospital and the Community Health Centers
+(also referred to as the community clinics) which had operated under the Commission of Public
+Health of the Department of Human Services. The record indicates that PBC operates D.C.
+                                                2                          Trifax Corp., CAB No. P-539
+
+
+General Hospital, the Community Health Centers, and the School Nurse Program of the District
+of Columbia Public Schools (“DCPS”).
+
+        On December 10, 1996, the District of Columbia General Hospital (“DCGH”), awarded
+Contract No. JB/87-97-0-AA to Trifax to provide supplemental nursing services at various
+District Community Health Centers. (Agency Report (“AR”) Ex. 1). The term of the contract
+was to expire on December 9, 1997.
+
+        On November 3, 1997, PBC issued RFP No. DCGH JB/025-08-04-DH for contractor-
+furnished supplemental nursing services at D.C. General Hospital, six of the District’s eight
+Community Health Centers, and various D.C. public school locations. (AR Ex. 3). The RFP
+divided the nursing services into three tasks. (Id., RFP Section II.1.A-D). Task I covered the
+supplemental registered nursing services required by patients of D.C. General Hospital. Task II
+covered the supplemental registered nursing services at six of the eight Community Health
+Centers. It is undisputed that Task II covered the same scope of work which Trifax was
+performing under Contract No. JB/87-97-0-AA. (AR at 4). Task III covered the supplemental
+nursing services at 61 schools. The RFP provided separate pricing schedules for each of the
+three Tasks. (Id., RFP Section III.3; Section IV, Attachment Nos. 14-17). In the RFP, PBC
+encouraged offerors to make offers to supply nurses for all three Tasks but anticipated that “no
+single Offeror will be able to provide the full quantity of nurses with the appropriate
+qualifications for all three of the Tasks.” (Id., RFP Section II.1.A, at 19-20). Accordingly, PBC
+stated its intention to make multiple awards to the “offeror(s) whose proposal(s) will be the most
+advantageous to the DC General Hospital, to the Community Health Clinics, and to the DC
+Public Schools, price and other factors considered.” PBC reserved the right to make a single
+award or to make a partial award. (Id., RFP Section I.26; Section II.1.A, at 20; Section III).
+Offerors were required to submit pricing for a base year and four one-year options for each Task
+proposed.
+
+       Section III of the RFP defined the selection criteria and corresponding weights as
+follows:
+
+       Selection Criteria                                                  Weight
+
+1.     General Quality and Responsiveness of Technical                     5%
+       and Cost Proposals
+
+A.     Completeness and Thoroughness
+B.     Responsiveness to all Terms and Conditions
+
+2.     Technical Proposal                                                  65%
+
+A.     Understanding of Statement of Work
+B.     Technical Approach to Accomplishing
+       Description of Services
+C.     Work Plan. Implementation & Schedule
+D.     Proposed Project Organization and
+       Management Approach
+                                                                            Trifax Corp., CAB No. P-539
+
+
+
+E.     Qualifications of Proposed Personnel
+F.     Relevant Corporate Experience & Record
+       of Past Performance
+
+3.     Cost Proposal                                                        30%
+       ....
+
+Although the RFP did not specify the formula for evaluating prices, there is no dispute regarding
+the actual method used by PBC in evaluating prices, i.e., lowest price divided by evaluated price,
+multiplied by 30. (See AR at 7 n.5; District’s August 6, 1998 Response, at 3). The RFP also
+provided for the possibility of qualified offerors receiving points for evaluation purposes
+pursuant to the Local, Small, and Disadvantaged Business Enterprises Act (“LSDBE Act”), i.e.,
+5 points for being a local business enterprise (“LBE”), 5 points for being a disadvantaged
+business enterprise (“DBE”), and 2 points for being located in an enterprise zone. (Id., RFP
+Section I.32, at 10-11).
+
+        Ten vendors submitted technical/management and price proposals for one or more of the
+three Tasks by the RFP’s November 17, 1997 closing date. Eight of the vendors’ proposals
+contained technical and price submissions for the Task II nursing services at issue here. (AR at
+4). The eight offerors were: Trifax Corporation; Premier Nurse Staffing, Inc. (“PSA”); National
+Nursing Services (“NNS”); Progressive Nursing Staffers (“PNS”); Professional Healthcare
+Resources International, Inc. (“PHR”); CUP Healthcare Services; American Consultants and
+Management Enterprises, Inc. (“ACME”); and Professional Network Group, Inc. (“PNG”). (AR
+Ex. 7, at 2; AR Ex. 8). Although Trifax submitted a proposal for Task II and Task III work (see
+AR Ex. 13), and other vendors submitted proposals for one or more of the three Tasks, we focus
+on Task II because Trifax only challenges the award made to PSA under Task II.
+
+        By memorandum from the contract specialist dated November 19, 1997, Ms. Cassandra
+Morgan, PBC Associate Director of Nursing, was notified that she had been chosen to chair the
+technical evaluation panel. (AR Ex. 4). In the memorandum, she was instructed to distribute the
+proposals and evaluation forms to the panel members and to ensure that the proposals are
+“evaluated on the basis of the selection criteria and weighing factors outlined in the Solicitation
+Section [III].” The evaluation form was three pages in length, listing the selection criteria and
+providing an area for comments and percentage scores. The November 19 memorandum also
+instructed Ms. Morgan that:
+
+       Upon completion of each panel member[’]s review, each is to return the
+       evaluation sheets to you for ranking and summarization of their findings. Your
+       written summarization shall include the following:
+
+1.     An analysis of the proposals, including an assessment of each offeror’s ability to
+       accomplish the technical requirements;
+
+2.     A ranking of each proposal[’]s Technical in relation to the best ranking possible; and
+
+3.     A summary of findings.
+                                                                          Trifax Corp., CAB No. P-539
+
+       Discussion of proposals shall remain exclusive to each technical panel member.
+       Outside discussion of the proposals prior to award [will] prejudice the selection
+       process. Upon completion of the Technical and Management evaluation, the
+       Compensation Proposals will be forwarded for review.
+
+The other designated panel members were Ms. Carolyn French, DCPS School Coordinator, Mrs.
+Rose Livingston, Director of Nursing of the Community Health Centers, Mr. Kenneth Hawkins,
+PBC Director of Regulatory Affairs, Ms. LeNeve Ford, PBC Patient Service Manager, and Ms.
+Juliana Somerville, PBC Director of Surgery and Nursing Systems Division. (Id.; AR Ex. 6, at
+5).
+
+        The record does not indicate whether the committee members ever met together as a
+group during the actual technical evaluation of proposals. In the period of late November and
+early December 1997, the evaluation panel members apparently reviewed the proposals and
+completed evaluation score sheets for the proposals. Each evaluator completed only a single
+evaluation form for each offeror, even where the offeror proposed multiple Tasks. The
+evaluation forms do not provide for separate evaluation and scoring by Task and the evaluators
+were never instructed to evaluate and score by Task. With two exceptions to be discussed below,
+Ms. French’s evaluation forms are dated November 23 and November 24, 1997, Mrs.
+Livingston’s are dated November 24 and November 26, Ms. Morgan’s and Mr. Hawkins’ are
+dated November 28, Ms. Somerville’s are dated November 28 and November 29, and Ms. Ford’s
+are dated December 1.
+
+         Ms. Morgan collected the completed evaluation forms, and prepared a one-page
+memorandum dated December 23, 1997, advising the contract specialist that the “General
+Quality, Responsiveness, Technical and Cost evaluation of submitted proposals for supplemental
+nursing services have been completed.” (AR Supp. Ex.17). In the memorandum, Ms. Morgan
+states that “Summary of findings are attached” which apparently refers only to the completed
+evaluation sheets. No other contemporaneous “findings” are known to exist. (See District’s May
+26, 1998 Response to Comments of Trifax Corporation, at 3-4 (and attachments); Board’s July
+30, 1998 Order and Report on Telephone Conference, at 2-3). Ms. Morgan provided a chart
+listing the top three ranked offerors for each of the three tasks. For Task II, PSA was ranked
+first, National Nurses is ranked second, and Trifax is ranked third. PSA was recommended for
+award for Task II services “based on the findings and ranking.”
+
+        In January 1998, someone realized that Ms. Somerville had not evaluated or scored the
+Trifax proposal. Indeed, on November 28, 1997, Ms. Somerville had signed an evaluation form
+for Trifax but listed no comments or scores for the various selection criteria. At the top of the
+form she wrote: “No proposal for Task I.” At some point in early January 1998, Mr. Ernest
+Wagner, Supervisory Contract Specialist for PBC, prepared a spreadsheet for each of the three
+Tasks listing the scores given by each evaluator for each proposal. The Task 1 spreadsheet
+shows scores for Trifax by Ms. Morgan and Mr. Hawkins, even though Trifax did not include
+Task 1 in its proposal. The same spreadsheet omits a score by Ms. Somerville for Trifax which
+suggests to us that the spreadsheets were completed prior to the January 13 evaluation and
+scoring of Trifax by Ms. Somerville. Regardless of whether it was Mr. Wagner who discovered
+the absence of an evaluation by Ms. Somerville of Trifax, Ms. Morgan apparently instructed Ms.
+Somerville to evaluate the Trifax proposal. The record, as supplemented by the District, includes
+                                                                               Trifax Corp., CAB No. P-539
+
+an evaluation form for Trifax signed by Ms. Somerville on January 13, 1998. It contains
+numerical scores adding up to a total of 30. (AR Supp. Ex. 4).1 Except for three “Incomplete”
+notations and a notation, “Unclear”, there are no evaluation comments by Ms. Somerville. PBC
+also was unable to locate the evaluation sheet of Ms. French for PNS. The District has
+supplemented the record with a re-evaluation of PNS done by Ms. French on July 29, 1998. (Id.).
+
+        Shortly after January 13, 1998, Mr. Richard Pannell, a consultant for PBC, prepared a
+separate spreadsheet for each of the three Tasks showing the scores of the evaluators by offeror,
+and a total score and average score for each offeror. (AR Ex. 8). Because some of the evaluators
+incorrectly totaled their own scores, and Mr. Pannell apparently relied on the totals as computed
+by the evaluators, there are some computational errors in the spreadsheets. Mrs. Livingston’s
+scores were not included on the spreadsheets because PBC had determined that because she had
+retired prior to completing evaluations for Medstaff and Nursing Solution, Inc., two offerors who
+had submitted proposals for either Task I or Task III, but not Task II, none of her scores would
+be used. (District’s May 26, 1998 Response, at 2-3 (and attachments)). Mr. Pannell evaluated
+the price proposals for the top two scoring offerors, PSA and National Nurses, assigning PSA the
+maximum price score of 30 and then calculating a price score for NNS based on a ratio of PSA’s
+price to NNS’ price (yielding a fraction less than one because PSA’s price was lower than NNS’)
+multiplied by 30. For Task II, PNG had the lowest price but because PNG was not ranked first
+or second in technical scoring, neither PNG nor the other five offerors were evaluated based on
+price. Mr. Pannell prepared a one-page spreadsheet showing the final total scores (technical and
+price) for PSA and NNS and the final technical scores for the other offerors, covering Tasks I, II,
+and III. (AR Ex. 8, at 1). Because the evaluators only prepared one score for each offeror,
+regardless of the number of Tasks proposed, Mr. Pannell used the same technical score for each
+offeror for any Tasks proposed by that offeror.
+
+        On January 15, 1998, Ms. Morgan issued a new recommendation and evaluation
+memorandum superseding the one dated December 23, 1997. (AR Ex. 5). This memorandum
+identifies the total scores for PSA and NNS under the three Tasks. Her recommendations for
+award differ from the December 23 recommendations in that she recommends partial awards to
+PSA and NNS under each Task. For example, for Task II, she recommends that PSA receive an
+award to provide nursing services at four Community Health Centers and that NNS receive an
+award to provide nursing services at one Community Health Center. In her memorandum she
+states:
+
+       Based on past experience and with the need of supplemental nursing services
+       increasing, the hospital, the clinics and the DCPS have found it difficult for one
+       contractor to provide the number of nurses requested. Therefore, the evaluation
+       committee recommends multiple awards as follows: to Premier Nurse Staffing
+       Inc., and National Nurses Service.
+
+(AR Ex. 5).      On January 16, 1998, the contracting officer, Mr. Irwin Bloom, signed a
+
+
+1
+  On August 6, 1998, the District supplemented the record by, inter alia, resubmitting a more complete
+and organized set of the evaluation sheets which originally had been submitted as part of Agency Report
+Ex. 4 on April 24, 1998.
+                                                                         Trifax Corp., CAB No. P-539
+
+Determination and Findings (“D&F”) recounting the recommendation to make awards to PSA
+and NNS. The D&F states: “PSA has demonstrated capability to effectively deliver the services
+required by the DCGH, the Community Health Centers and the DCPS under the terms and
+conditions of this contract.” (AR Ex. 6). No other evaluation or selection documentation is
+referenced in the D&F. Thus, the contemporaneous documentation of PBC’s evaluation and
+selection consists of the evaluation score sheets, the various spreadsheets listing scores and
+pricing, Ms. Morgan’s memoranda of December 23, 1997, and January 15, 1998, and the January
+16, 1998 D&F.
+
+        On January 28, 1998, PBC executed a letter contract with PSA after it became apparent
+that a contract award under the RFP could not be awarded before January 29, 1998, the date that
+Trifax’s prior contract, as amended, would expire. On February 23, 1998, PBC’s contracting
+officer executed a definitized contract with PSA for Task II. The Council of the District of
+Columbia and the Authority approved the contract.
+
+                                        DISCUSSION
+
+       We exercise protest jurisdiction pursuant to D.C. Code § 1-1189.3 (Supp. 1998).
+
+        In determining the propriety of an evaluation and selection decision, we examine the
+record to determine whether the decision was reasonable and in accord with the evaluation
+criteria listed in the solicitation and whether there were any violations of procurement laws or
+regulations. Health Right, Inc., CAB No. P-507, Oct. 15, 1997, 9 P.D. 7372, 7395. Implicit in
+the foregoing is that the evaluation and selection decision must be documented in sufficient
+detail to show that it is not arbitrary. Id.; Southwest Marine, 96-1 CPD ¶ 56; S&M Property
+Management, B-243051, June 28, 1991, 91-1 CPD ¶ 615. In particular, the agency's technical
+evaluation documentation is required to include an analysis of the technically acceptable and
+unacceptable proposals, including an assessment of each offeror's ability to accomplish the
+technical requirements. The District’s procurement regulations require contracting agencies to
+document their evaluation of proposals so as to show the basis for evaluation, an assessment of
+each offeror’s ability to accomplish the technical requirements, and the relative differences
+among the proposals, their strengths, weaknesses, and risks in terms of the evaluation criteria.
+Health Right, 9 P.D. at 7395-94; Recycling Solutions, Inc., CAB No. P-377, Apr. 15, 1994, 42
+D.C. Reg. 4550, 4581; 27 DCMR §§ 1618.5, 1622.6, 1622.7. We do not limit our review to
+contemporaneous evidence, but consider all the information provided, including the parties'
+arguments, explanations, and testimony. We accord greater weight to contemporaneous
+evaluation and source selection material than to arguments and documentation prepared in
+response to protest contentions. Health Right, 9 P.D. at 7396.
+
+
+        There is no indication in the present record that the contracting officer ever conducted
+any independent evaluation of the proposals. Neither the contracting officer nor the technical
+evaluation panel prepared any record of the relative differences among the proposals, their
+strengths, weaknesses, and risks in terms of the evaluation criteria. There was no consensus
+evaluation report from the technical evaluation panel, simply Ms. Morgan’s uninformative
+memoranda identifying the top ranked offerors, their average point scores, and the disparate
+score sheets. The inadequate evaluation and selection record is aggravated by a fundamental
+                                                                                Trifax Corp., CAB No. P-539
+
+flaw in the way the PBC evaluated proposals. Having structured the solicitation to define three
+separate Tasks against which offerors could submit individual technical and price proposals and
+which PBC could individually award to different offerors, it was only logical for there to be
+distinct technical evaluations according to individual Task. That did not happen here. The
+technical evaluation committee members completed a single evaluation form for each offeror,
+sometimes, but not always making comments relating to different Tasks if an offeror proposed
+more than one. In no case did the evaluators identify separate technical scores according to the
+different Tasks. Ms. Morgan, in preparing what purports to be the report of the evaluation panel,
+simply applied the same technical score to the one or more Tasks proposed by an offeror. (See
+AR Ex. 5). Based on these deficiencies alone, we are unable to sustain the evaluation and
+selection for the Task II nursing services.
+
+        Trifax argues that Ms. Morgan and Mr. Hawkins improperly gave Trifax lower
+evaluation scores because Trifax failed to make an offer on Task I. The contracting officer has
+responded generally that: “Trifax’s score was not lowered because Trifax did not submit a
+proposal for Task I.” (May 20, 1998 Memorandum of Roscoe Wade, included in the District’s
+May 26, 1998 Response to Comments of Trifax). In affidavits prepared on August 26, 1998, Ms.
+Morgan and Mr. Hawkins state that they recall being told at the outset of the evaluation process
+that offerors were not required to propose nursing services for all three Tasks and that they did
+not lower Trifax’s score because it did not propose Task I services. In this case, we are more
+persuaded by the contemporaneous evaluation data. When comparing the Trifax evaluation
+sheets with the evaluation sheets of the other seven offerors prepared by Ms. Morgan and Mr.
+Hawkins, it is quite clear that these evaluators mistakenly believed Trifax was making a proposal
+for Task I services and downgraded Trifax because of an incomplete or inadequate response to
+Task I. (AR Ex. 4).
+
+        Trifax also argues that Mr. Hawkins improperly downgraded Trifax on the erroneous
+basis that Trifax’s Medical Director being on the staff of D.C. General Hospital presented a
+conflict of interest. Both Mr. Hawkins’ and Ms. Morgans’ evaluation materials for Trifax
+mention an apparent conflict of interest. The contracting officer has responded by stating that
+their evaluations “did not reflect whether Trifax’s score was lowered because of the mentioned
+conflict of interest.” (May 20, 1998 Memorandum of Roscoe Wade). The District agrees that
+there was no actual conflict of interest and that it would have been improper to downgrade Trifax
+on that basis.2 Based on our review and comparison of the evaluation materials, we find that it
+is more likely than not that Mr. Hawkins and Ms. Morgan downgraded Trifax, at least in part,
+due to a perceived conflict of interest on the part of Trifax.
+
+      Trifax next contends that PBC arbitrarily discarded the evaluations of Mrs. Livingston
+who gave Trifax a perfect technical evaluation score of 70. The contracting officer responds that
+Mrs. Livingston retired from government service before she completed the evaluations on all
+
+
+2
+   It is undisputed that Trifax’s Medical Director does not own or control Trifax. As a staff member at
+D.C. General Hospital, the Medical Director is also an employee of the Hospital but has no procurement
+responsibilities. We agree with the parties that no conflict of interest is presented. See D.C. Code § 1-
+1190.1; 27 DCMR §§ 2220-2222. We note that 27 DCMR § 2220.4 requires the contracting officer to
+obtain the advice of the Corporation Counsel in evaluating potential conflicts.
+                                                                               Trifax Corp., CAB No. P-539
+
+proposals, and that her evaluations were not used to score any of the proposals which she had
+evaluated. (May 20, 1998 Memorandum of Roscoe Wade). The original contracting officer, Mr.
+Irwin Bloom, made essentially the same point in his January 16, 1998 Determination and
+Findings supporting award to PSA. (AR Ex. 6, at 4-5). The problem with the position of the
+contracting officers is that Mrs. Livingston did in fact complete the evaluation of all eight
+offerors who submitted technical and cost proposals for Task II. Accordingly, we conclude that
+the contracting officers erred in excluding consideration of Mrs. Livingston’s evaluations of the
+offerors under Task II.
+
+        PBC also failed to properly evaluate price proposals for Task II. None of the eight offers
+for Task II were deemed outside of the competitive range. Nevertheless, in computing total
+scores, the contracting officer, Ms. Morgan, and the PBC consultant limited the price evaluation
+to two offerors, giving the maximum price score to the lower of the two. The contracting officer
+should have computed a price evaluation for each of the offerors under Task II, assigning the
+maximum 30 points to the lowest price proposal, apparently PNG here. The other offerors’
+evaluated prices should have been calculated based on a ratio of the lowest price to the offeror’s
+price.
+
+        It is agreed that the solicitation provided for the possibility of qualified offerors receiving
+points for evaluation purposes pursuant to the Local, Small, and Disadvantaged Business
+Enterprises Act (“LSDBE Act”), i.e., 5 points for being a local business enterprise (“LBE”), 5
+points for being a disadvantaged business enterprise (“DBE”), and 2 points for being located in
+an enterprise zone. PBC awarded no preference points. Trifax argues that it is entitled to 5
+percentage points based on LBE status. The District agrees that Trifax would be entitled to the 5
+points for LBE status if it was properly qualified as of the closing date for proposals. According
+to the District, Trifax’s certification as an LBE expired on November 7, 1997, ten days before
+the closing date for proposals. However, the record reflects that by letter of November 12, 1997,
+the Department of Human Rights and Minority Business Development acknowledged receipt of
+Trifax’s recertification application and self-certification affidavit, making Trifax temporarily
+eligible for LBE preference points. (Trifax Supplemental Comments, filed August 13, 1998).
+On December 2, 1997, the Local Business Opportunity Commission subsequently issued Trifax a
+two-year certificate of registration as an LBE. On the record presented, Trifax was entitled to 5
+points as a qualified LBE.
+
+       Remedy
+
+        The evaluation and selection for Task II violated procurement law and the terms of the
+solicitation. The violations were substantial and material. Accordingly, we agree with the
+District that the proper remedy under the circumstances is to order the contracting officer to
+reevaluate the proposals with regard to Task II services and make a new selection decision for
+Task II consistent with our discussion above. If the contracting officer desires to use a technical
+evaluation panel, a new panel shall be selected. If the contracting officer determines through a
+valid reevaluation and selection process that award of Task II should be made to an offeror other
+than PSA, then the contracting officer shall terminate PSA’s contract for the convenience of the
+District and make award consistent with the selection decision. PBC shall complete the
+reevaluation and selection within 60 days from the date of our decision.
+                                                         Trifax Corp., CAB No. P-539
+
+                                   CONCLUSION
+
+       The protest is sustained.
+
+
+DATE: September 25, 1998                   /s/
+                                          JONATHAN D. ZISCHKAU
+                                          Administrative Judge
+
+CONCURRING:
+
+
+/s/
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+/s/
+PHYLLIS W. JACKSON
+Administrative Judge
+

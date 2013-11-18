@@ -1,0 +1,57 @@
+
+<SCRIPT language="javascript"> 
+function ShowErr() { alert("FileUp could not download the file at: C:\wwwroot\cab_prod\Worksite\temp_files\BoardsOpinionSustainingProtest.PDF 006~ASP 0251~Response Buffer Limit Exceeded~Execution of the ASP page caused the Response Buffer to exceed its configured limit. (Response object)");
+var location = new String(document.location);
+var newLocation =  location.substring(0,location.indexOf('?') + 1) + 'minLevel=285';
+document.location = newLocation;
+}
+
+
+</SCRIPT>
+
+</head>
+<body
+onLoad="ShowErr()"
+>
+
+
+<table width="100%" border="0">
+	<tr class=header bgColor=#83a0c8><B>
+		<td width="15%"><FONT face=Arial color=#ffffff size=3>Date&nbsp;Filed</FONT></td> 
+		<td width="55%"><FONT face=Arial color=#ffffff size=3>Description</FONT></td>
+		<td width="25%"><FONT face=Arial color=#ffffff size=3>Case&nbsp;Number</FONT></td> 
+		<td width="5%"><FONT face=Arial color=#ffffff size=3>Size</FONT></td> 
+		<td width="5%"><FONT face=Arial color=#ffffff size=3>App</FONT></td>
+	</B></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>12/29/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=20707&version=1&minLevel=285">Opinion Denying Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0561</FONT></td><td><FONT face=Arial color=black size=1>261582</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>12/29/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=1355&version=1&minLevel=285">Opinion Denying Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0554 P-0561</FONT></td><td><FONT face=Arial color=black size=1>395868</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>12/15/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=14708&version=1&minLevel=285">Opinion Denying Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0500</FONT></td><td><FONT face=Arial color=black size=1>523568</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>11/19/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=20858&version=1&minLevel=285">Opinion Dismissing Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0556</FONT></td><td><FONT face=Arial color=black size=1>137998</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>10/27/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=1449&version=1&minLevel=285">Opinion and Order</A></FONT></td><td><FONT face=Arial color=black size=1>P-0552</FONT></td><td><FONT face=Arial color=black size=1>755688</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>10/19/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=20766&version=1&minLevel=285">Opinion Dismissing Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0559</FONT></td><td><FONT face=Arial color=black size=1>83140</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>10/9/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=20931&version=1&minLevel=285">Board's opinion denying protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0545</FONT></td><td><FONT face=Arial color=black size=1>1669354</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>9/25/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=14709&version=1&minLevel=285">Opinion</A></FONT></td><td><FONT face=Arial color=black size=1>P-0539</FONT></td><td><FONT face=Arial color=black size=1>35405</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>9/15/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=22405&version=1&minLevel=285">Board Opinion</A></FONT></td><td><FONT face=Arial color=black size=1>P-0547</FONT></td><td><FONT face=Arial color=black size=1>3756769</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>9/10/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=22412&version=1&minLevel=285">Erratum to correct first paragraph in opinion line three</A></FONT></td><td><FONT face=Arial color=black size=1>P-0546</FONT></td><td><FONT face=Arial color=black size=1>1058129</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>9/9/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=1758&version=1&minLevel=285">Opinion</A></FONT></td><td><FONT face=Arial color=black size=1>P-0551</FONT></td><td><FONT face=Arial color=black size=1>47231</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>8/26/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=21325&version=1&minLevel=285">Opinion Dismissing Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0508</FONT></td><td><FONT face=Arial color=black size=1>86990</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>8/26/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=1593&version=1&minLevel=285">Opinion Dismissing Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0549</FONT></td><td><FONT face=Arial color=black size=1>155447</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text><td><FONT face=Arial color=black size=1>8/3/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=22410&version=1&minLevel=285">Board's opinion dismissing protest with prejudice</A></FONT></td><td><FONT face=Arial color=black size=1>P-0546</FONT></td><td><FONT face=Arial color=black size=1>675541</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr class=text bgColor=#e1ecf2><td><FONT face=Arial color=black size=1>7/21/1998</FONT></td><td><FONT face=Arial color=black size=1><A HREF="GetDoc.asp?Database=CAB_DOCS&docnum=22142&version=1&minLevel=285">Board's Opinion Sustaining Protest</A></FONT></td><td><FONT face=Arial color=black size=1>P-0530 P-0531 P-0532 P-0533 P-0534 P-0536</FONT></td><td><FONT face=Arial color=black size=1>12174433</FONT></td><td align="center"><img src="/Worksite/icons/pdf.gif" alt="ACROBAT"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>	
+
+</table>
+<table>
+	<tr>
+		<td width="30%">&nbsp;</td> 
+		<td width="54%">&nbsp;</td>
+		<td width="4%">&nbsp;</td> 
+		<td width="6%">&nbsp;</td> 
+		<td width="4%">&nbsp;</td> 
+		<td width="4%">&nbsp;</td> 
+	</tr>
+	<tr  class=text border=1>
+<td><SPAN class=foot1>Results 286 to 300 out of 512 displayed.</span></td><td>&nbsp;</td><SPAN class=foot4><td><A class=foot4 HREF="DisplayResults.asp?minlevel=0">First</A></td></SPAN><SPAN class=foot4><td><A class=foot4 HREF="DisplayResults.asp?minlevel=270">Previous</A></td></SPAN><SPAN class=foot4><td><A class=foot4 HREF="DisplayResults.asp?minlevel=300">Next</A></td></SPAN><SPAN class=foot4><td><A class=foot4 HREF="DisplayResults.asp?minlevel=510">Last</A></td></SPAN>
+	</tr>
+</table>
+	

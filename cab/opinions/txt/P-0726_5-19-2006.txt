@@ -1,0 +1,230 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+VISTA CONTRACTING, INC.                              )
+                                                     )           CAB No. P-0726
+Under IFB NO. POFA-2005-B-0040-BJ                    )
+
+        For the Appellant Vista Contracting, Inc.: Thomas O. Mason, Esq., and Francis
+E. Purcell, Jr., Esq., Williams Mullen. For the District of Columbia: Howard Schwartz,
+Esq., and Talia S. Cohen, Esq., Office of the Attorney General.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative
+Judge Jonathan D. Zischkau, concurring.
+
+                                        OPINION
+                               (LexisNexis Filing ID 11324690)
+
+        Vista Contracting, Inc. (“Vista”) protests the award of a contract to Skanska USA
+Building, Inc. (“Skanska”), for the construction of an indoor firing range at 3665 Blue
+Plains Drive, S.W., Washington, D.C., for the Metropolitan Police Department (“MPD”).
+Vista alleges that its proposal was technically acceptable and lower priced, and that the
+contracting officer improperly determined that Vista failed to meet the solicitation’s
+special standards of responsibility. The District responds that it properly awarded the
+contract to Skanska. We conclude that Vista has not shown error in the District’s
+determination of Vista’s non-responsibility and accordingly we deny the protest.
+
+                                    BACKGROUND
+
+       On August 25, 2005, the District of Columbia Office of Contracting and
+Procurement (“OCP”), on behalf of the MPD, issued IFB POFA-2005-B-0040-BJ for
+construction of an indoor firing range. (Agency Report (“AR”) Ex. 1). Section L.26.1 of
+the IFB required the contractor and key personnel to show that they had knowledge of
+and experience in the construction of a walk-down firing range that would be configured
+without shooting booths but with fixed pneumatic firing systems. Section L.26.1
+contains the following language:
+
+       The Contractor, including key personnel assigned to perform the work on
+       the indoor firing range, must demonstrate knowledge of and experience in
+       the construction of a walk-down firing range that is configured without
+       shooting booths but includes fixed pneumatic target systems. The bidder
+       shall provide the following information with its bid for each similar firing
+       range constructed:
+
+              a.      Time Period of the construction;
+              b.      Name and location of range;
+                                            2
+                                                          Vista Contracting, Inc., CAB No. P-0726
+
+
+              c.      Name of contact person; and
+              d.      Phone number of contact person.
+
+       The District will not find responsible any bidder that does not provide,
+       with its bid or within 5 calendar days of request by the Contracting
+       Officer, information adequate to determine its compliance with the stated
+       Special Standards of Responsibility.
+
+(AR Ex. 1). By amendment, the District extended the closing date of the IFB to October
+3, 2005. (AR Ex. 1). Six bidders submitted bids. (AR Ex. 11). According to the
+contracting officer, only Skanska submitted adequate information that allowed the
+District to determine that Skanska had complied with Section L.26.1. (AR Ex. 11).
+
+       By letter dated October 27, 2005, OCP sent letters to four of the remaining
+bidders requesting information to determine whether those bidders complied with Section
+L.26.1. (AR Exs. 5, 6). Only Vista responded to the District’s request, by letter dated
+November 1, 2005. (AR Ex. 7). Vista stated that it would employ a reputable and
+experienced Firing Range Manufacturer. (AR Ex. 7). In the letter, Vista stated:
+
+              We believe the following projects demonstrate our experience in
+       the construction of Firing Ranges:
+
+       1.     FBI – Fire Range, 900 Penn Ave., NW, (1993); Contact: Tony
+              Wildgruber, 202-436-8050. Project Description: Remove 9 lane
+              Firing Range and install new range including, but not limited to
+              replacement of bullet trap system, epoxy flooring, acoustical
+              baffles.
+
+       2.     FBI – HEPA Exhaust Filter for Small Pistol Range, 900 Penn
+              Ave., NW; (1994); Contract: Tony Wildgruber, 202-436-8050.
+              Project Description: Improve exhaust system for Pistol Range.
+
+       3.     FBI – Ballistic Wall for Outdoor Firing range; (1992); Contact:
+              Ron Chiodi, 202-324-2459 or Jane Brown, 202-324-2458. Project
+              Description: Install ballistic wall 500 feet long, 12 feet high,
+              including but not limited to concrete footers, steel beams, timber,
+              paint, steel plates, etc.
+
+       On November 4, 2005, Eric Coard, Senior Executive Director, Corporate Support,
+Metropolitan Police Department, evaluated Vista’s response and concluded that the
+information presented by Vista did not “adequately relate to Vista’s involvement or
+experience in constructing walk down firing ranges.” (AR Ex. 8). Bobby Jones, OCP’s
+contract specialist, attempted to verify the information set forth in Vista’s November 1,
+2005 letter. (AR Ex. 13). OCP provided the following information in its Verification of
+References document:
+                                             3
+                                                           Vista Contracting, Inc., CAB No. P-0726
+
+
+       The Contract Specialist, Bobby Jones called Mr. Tony Wildgruber
+       (reference) at FBI, 900 Pennsylvania Ave. on several occasions without
+       success. However, after calling the second reference, Mr. Ron Chiodi, it
+       was learned that Vista had constructed a ballistic wall for an outdoor firing
+       range. He had no knowledge of Vista’s participation in the construction of
+       a complete firing range and that the range, 900 Pennsylvania Ave. was
+       constructed by Specialty Construction Management (SCM) approximately
+       two years ago. Contacted SCM and spoke with Monty, 202-832-7250.
+       Monty had no record of Vista’s involvement with the construction of that
+       range.
+
+       On 11/10/05, Mr. Tony Wildgruber was contacted. He stated that the
+       firing range in question was renovated two years ago by SCM, but that the
+       original range was built by Vista. That particular range is considerably
+       smaller at 9-point vs. the 15-point range to be built as a replacement for
+       the current MPD range at the Police Training Academy. Mr. Wildgruber
+       did not provide confirmation that the FBI range was a walk-down range
+       but stated that it may be possible to use as such.
+
+       The references’ information received by MPD differs from the
+       information received by OCP. In order to resolve the issue, OCP
+       requested permission to visit and observe the FBI’s range. For some
+       reason, the FBI refused permission for OCP to visit their facility. For
+       further information, Mr. Wildgruber (electrical engineer) referred me to
+       the Director of Range Construction/Maintenance. The Director of
+       construction/maintenance is Mr. Juan Inga. The Contract Specialist
+       contacted Mr. Inga on 11/15/05 to follow up on the previous conversation
+       he had with MPD representative, Mr. Eric Coard concerning the builder of
+       their firing range. Mr. Inga confirmed that the FBI’s firing range was
+       upgraded two years ago by SCM from a Caswell system to a Snail lead
+       abatement system and that Vista may have been the firm who constructed
+       the range over 15 years ago. The firing range supposedly constructed by
+       Vista at the FBI facility on Penn. Ave is an 8 lane indoor range and not
+       specifically a walk-down range.
+
+       On November 16, 2005, Mr. Jones and the assistant commodity manager
+concluded that Vista “has not demonstrated the knowledge of and experience with
+constructing a walk-down firing range as specified in Section L.26.1 of the solicitation.”
+(AR Ex. 13).
+
+        On November 21, 2005, the Deputy Mayor for Operations and Chief Procurement
+Officer determined that only Skanska’s bid complied with the requirements set forth in
+Section L.26.1, since only Skanska had previous experience in constructing a walk-down
+firing range. (AR Ex. 9). The CPO determined that Vista was not responsible because
+Vista’s references did not confirm that Vista had constructed a walk-down indoor firing
+range. (AR Ex. 9).
+                                             4
+                                                            Vista Contracting, Inc., CAB No. P-0726
+
+
+
+       On January 23, 2006, the District awarded to Skanska a contract for construction
+of the walk-down indoor firing range. (AR Ex. 12). Vista filed this protest on February
+8, 2006.
+
+                                      DISCUSSION
+
+        Vista asserts in its protest that the District should have awarded the contract to
+Vista since Vista’s bid was technically acceptable and Vista’s price was lower than
+Skanska’s price. The District responds that the District properly awarded the contract to
+Skanska since the contracting officer reasonably determined that Skanska was the only
+bidder that met the special standard of responsibility set forth in the IFB. We conclude
+that the District properly awarded the contract to Skanska.
+
+        The IFB required the bidder to show that it could perform the contract in
+compliance with the special standards of responsibility set forth in Section L.26.1. The
+District required bidders to demonstrate that they had the experience and expertise
+needed to build the firing range set forth in the IFB. The IFB does not contain a
+definition of the term “walk-down firing range.”1 Vista asserts that it has experience in
+building the required range.
+
+        The District’s contract specialist and MPD program personnel attempted to verify
+Vista’s assertions regarding Vista’s experience in building walk-down firing ranges.
+Bobby Jones, OCP’s contract specialist, attempted to verify the information set forth in
+Vista’s November 1, 2005 letter. (AR Ex. 13). Vista provided three references, but only
+the first reference dealt with a complete indoor range. (AR Ex. 7, 13). The vague
+information provided by the FBI suggested that the FBI range was not expressly a “walk-
+down firing range” but “it may be possible to use as such.” The FBI’s Director of
+Construction Maintenance in a subsequent discussion with OCP’s contract specialist
+stated only that Vista may have been the firm which constructed the FBI range
+approximately 15 years ago, that the range is an 8 lane indoor range, and that it was not
+specifically a walk-down firing range.
+
+        Vista did not submit the required special responsibility information in its bid.
+Vista had an opportunity to provide further information to show that it met the special
+standards of responsibility. Vista was uniquely positioned to provide to the District
+sufficient information that the District needed to verify whether Vista met the
+requirements of Section L.26.1. Since the District could not verify Vista’s assertions
+regarding its experience, and the FBI contacts tended to contradict that the first reference
+met the requirements, we see no error in the District’s non-responsibility determination.
+       1
+            Vista did not object to the District’s assertion that the contract drawings set
+forth an adequate description of the project, notwithstanding the fact that the IFB itself
+did not explicitly define “walk-down firing range.” After reviewing the drawings, the
+Board agrees that the drawings set forth an adequate description of the project and that
+the District could properly determine whether a bidder had experience in building that
+type of firing range.
+                                           5
+                                                         Vista Contracting, Inc., CAB No. P-0726
+
+
+
+       Vista also argues that the District ignored the experience of Vista’s proposed
+subcontractors. Although Vista proposed two possible alternate subcontractors to
+perform work, Vista did not submit the information required by Section L.26.1 to
+demonstrate that either prospective subcontractor possessed knowledge and experience
+constructing the specified type of walk-down firing range.
+
+        The contracting agency made reasonable efforts to verify Vista’s compliance with
+the special standards of responsibility through repeated attempts to obtain information
+from the FBI concerning Vista’s first reference. The information garnered from the FBI
+representatives support the conclusion of the contracting officer that Vista had not
+demonstrated “knowledge of and experience in the construction of a walk-down indoor
+firing range that is configured without shooting booths but includes fixed pneumatic
+target systems” as required by IFB Section L.26.1.
+
+       We conclude that Vista has not shown that the contracting officer erred in
+determining that Vista did not meet the special standards of responsibility set forth in
+Section L.26.1. Accordingly, we deny the protest.
+
+DATED: May 19, 2006                                /s/ Warren J. Nash
+                                                   WARREN J. NASH
+                                                   Administrative Judge
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

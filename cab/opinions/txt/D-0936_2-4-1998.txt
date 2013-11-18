@@ -1,0 +1,697 @@
+                       '.
+
+                   GOVERNMENT OF DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+                                717 14th Street, N. W., Suite 430
+                                    Washington, D.C. 20005
+
+
+                                                             (202) 727-6597
+
+
+
+
+                                                             DATE: February 5, 1998
+
+
+
+
+TO:          Thomas F. Kennedy, Esquire
+             7826 Eastern Avenue, N.W., Suite 12
+             Washington, D.C. 20012
+
+             William l Earl
+             Assistant Deputy Corporation Counsel
+             441 4th Street, N.W., 6th Floor
+             Washington, D.C. 20001
+
+
+SUBJECT:     CAB No. D-936, Appeal of W.l McGee & Associates, P.C., and
+              Leroy lH. Brown & Associates, P. C.
+
+
+             Attached isa copy of the Board's 9pinion in the above-referenced matter.
+
+
+
+
+                                                             Clerical Assistant
+
+
+
+Attachment
+
+
+cc:   The Honorable Steny H. Hoyer
+      Congressman, 5th District, Maryland
+      United States House of Representatives
+      Washington, D.C. 20515-2005
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+       W.J. MCGEE & ASSOCIATES, P.C., and                   )
+       LEROY J.H. BROWN & ASSOCIATES, P.C.                  )
+                                                            )       CAB No. D-936
+       Under Contract No. 4468-72                           )
+
+
+        For the Appellants W.J. McGee & Associates, P.C., and Leroy J.H. Brown & Associates,
+P.C.: Thomas F. Kennedy, Esq., and Bruce M. Cooper, Esq., Jasen & Kennedy. For the
+District of Columbia: Aithur W. Finch, Esq., Assistant Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+
+                                           OPINION
+
+       Appellants, W.J. McGee & Associates, P.C., and Leroy J.H. Brown & Associates, P.C.,
+joint venturers, seek an equitable adjustment to their architect-engineer contract amounting to
+$223,700 for work they claim was beyond the contract scope of work. We conclude that
+Appellants have not met their burden of proof on quantum for some claims, and have not shown
+other claimed effort was extra work. The remaining claims are foreclosed because Appellants
+previously received full compensation under Change Order No. 1 for what they are now claiming
+was extra work. Accordingly, we deny the appeal.
+
+                                             FACTS
+
+        This case involves claims by the Appellants for extra compensation regarding Contract No.
+4468-72, a contract for architectural and design services for the comprehensive modernization of
+28 buildings containing a total of 314 housing units at the Carrollsburg Dwellings located in the
+District. «Consolidated Hearing File ("CHF") Ex. 1; Tr.498-499).
+
+        Appellants initially stated their claim as one for Uextra work and cost overrun" amounting
+to $198,606 (essentially, a total cost claim), compensation for a wrongful deduction of $21,160,
+extra roof ventilation work of $1,100, attorneys fees, and prejudgment interest. (See Complaint;
+Appellants' Prehearing Statement). During the hearing, Appellants identified in support of their
+claim for $198,606 the following alleged changes to the scope of work which required extra
+architectural and engineering design work: (1) certain building units which had suffered fire
+damage (the uburned" units); (2) the canopies and foyers; (3) the handicapped units; (4) phasing
+of cost estimates; (5) playground equipment; and (6) storage facilities and toilets. In their
+                                               -2-                     McGee & Brown, CAB No. 0-936
+
+
+posthearing brief, Appellants seek $202,540 for these six items. 1
+
+        The District argues that the contract scope of work defined by the March 31, 1986 contract
+and Change Order No.1, issued August 26, 1987, act as a complete accord and satisfaction for
+all elements of Appellants' claims.
+
+        The first relevant pre-contract meeting between representatives of the parties took place
+at a meeting held on or about August 5, 1985. At that meeting, Mr. Benjamin F. Carter, Jr.,
+Chief of the Maintenance Engineering Department of the District's Department of Housing and
+Community Development ("DHCD") advised Mr. W. Jerome McGee and Mr. Leroy Brown that
+their joint venture had been selected to perform the architectural and design work for the
+Carrollsburg modernization project. (Tr. 19-20). Mr. Carter handed them a two-page document
+entitled "Project Justification & Scope of Work." The document's "Project Overview" section
+provides in part:
+
+       Carrollsburg Dwelling is a 314-unit complex located in Southeast Washington. It
+       requires extensive renovation to address serious problems of deterioration, which
+       include the following: bathrooms and kitchen fittings and equipment are
+       unserviceable; vinyl floors have deteriorated; canopies are either missing or are in
+       a poor state of repair; electrical systems are inadequate; gas-fired boilers are aged
+       and nearly unserviceable; kitchen and bathroom mechanical piping and fixtures
+       have deteriorated; gutters and downspouts are corroding and should be connected
+       to the storm drainage system; several roofs have fire and water damage; smoke
+       detectors are in a poor state of repair; existing apartment entrance doors are not
+       insulated and hardware is not secure; existing hardwood floors have some surface
+       damage and wear; joists and sub floors in 20 townhouse units have dry-rotted;
+       screen doors are required, and existing wall and ceiling surfaces show considerable
+       wear. An energy audit has shown a need for additional insulation on exterior
+       walls. There are no accommodations for handicapped persons on site. Renovated
+       spaces require insect and rodent extermination; property maintenance facilities are
+       inadequate, the administration area is in need of upgrading; the property is
+       experiencing erosion and alleys need resurfacing; underground gas and water lines
+       do not have corrosion protection; storm drains are clogged and need cleaning;
+       maintenance crews need exterior access to sanitary lines; exterior lighting within
+       the property is inadequate; and relocation is required for phased construction.
+
+(CHF Ex. 7, at 1). The "Scope of Work" section reads in full:
+
+
+
+
+1 In their posthearing brief, Appellants identify quantum amounts for each of the six claimed
+changes, the sum of which is $202,540, after correcting for an arithmetic error. See note 6 infra.
+                                               -3-                      McGee & Brown, CAB No. D-936
+
+
+       Correct erosion; construct dumpster pads; repair or replace chain link fencing and
+       clothes poles; install cathodic protection on gas and water piping; install clean-outs
+       in sanitary sewer lines to units; install 46 pole-mounted lights, including
+       underground wiring; provide new kitchen and bathroom fittings; install new vinyl
+       floor tile and underlayment; construct exterior foyers for townhouses; upgrade
+       electrical systems; install gas-fired warm-air system in townhouses; replace piping
+       and convectors in apartment units; install gas-fired, hot-water heaters in 86 units;
+       replace all mechanical piping and fixtures in kitchens and bathrooms; replace
+       gutters and leaders and tie into storm system; replace roofing as required; repair
+       or replace smoke detectors; install insulated doors and hardware; refinish hardwood
+       floors; install screen doors; repair, spackle, and paint walls and ceilings; insulate
+       exterior walls; provide insect and rodent extermination; purchase equipment for
+       maintenance operation; and provide relocation services.
+
+        In an August 5, 1985 memorandum, Mr. Carter notified the property managers at
+Carrollsburg that the Appellants had been selected as the design team for the modernization
+project, that the Appellants expected to begin their work with a physical needs survey of the
+property on August 6, 1985, and that the building managers should cooperate in giving the
+Appellants access to the property. (CHF Ex. 6). The parties met again on August 14, 1985,
+discussing the scope of work and agreeing on a deadline for Appellants to submit a price proposal.
+(CHF Ex. 24). At some point in August, Appellants began a physical needs survey of the
+Carrollsburg project which involved surveying each of the 314 units. (Tr. 21, 274, 367).
+
+        By letter dated August 22, 1985, Appellants submitted a general outline of the scope of
+work and a price proposal to perform the Title I architectural and engineering design work (i. e. ,
+the services to prepare the plans and specifications for the follow-on construction contract) and
+the Title IT services (i.e., services provided during the actual construction phase of the project)
+which comprised shop drawings review and site inspection services. (CHF Ex. 24). The scope
+of work included general repairs to the interior of the housing units, such as installation of new
+kitchen equipment, new baths and showers, new floor tiles, new insulation, upgraded electric
+service, and repair or replacement of the existing canopies on all units. General repairs to the
+exterior included replacing some portions of the sewer, regrading the site, and repair or
+replacement of concrete walks. The cover letter identified the total price as $594,016 but the
+pricing data shows a total price of $653,813, with Title I services amounting to $410,453, and
+Title IT services amounting to $243,360. The pricing detail contains some arithmetic errors.
+
+        Appellants continued their survey work in September and perhaps into October 1985. (Tr.
+25). In response to a September 30, 1985 meeting with Mr. Carter, the Appellants submitted by
+letter of October 2, 1985, another price proposal and in this proposal the pricing detail adds up
+to the $594,016 amount stated in the August 22 cover letter. (CHF Ex. 26). In the October 2
+cover letter, Appellants note DHCD's urgency that work commence. Appellants state that they
+are ready to commence work on the project immediately "since it appears all contractual matters
+are imminent. Appellants request that Mr. Carter advise them if he desires that they begin work
+             II
+
+
+at once. (CHF Ex. 26). Apparently, Appellants received oral direction from DHCD because
+                                              - 4-                    McGee & Brown, CAB No. D-936
+
+
+Appellants began preliminary design work for the schematics in October 1985, using the two-page
+scope of work previously provided by Mr. Carter in· August. (Tr. 25, 31-32). The record
+references, but does not contain, a third price proposal submitted by Appellants on November 19,
+1985, in the amount of $466,613. (See CHF Ex. 8).
+
+         By December 1985, every unit had been surveyed and Appellants had submitted to DHCD
+some schematics showing a "kind of a composite layout of all of the rooms and buildings on the
+site." (Tr. 21,25). Also in December, Mr. Harold Johnson was appointed the DHCD contract
+representative for the project. He retained that position until September 1987. (Tr. 289, 318,
+358-359). Mr. Johnson was given the task of putting together a notice of award with a specified
+award amount. He reviewed Appellants' prior proposals and calculated an award amount of
+$469,793 based on the estimates contained in the Appellants' initial price proposal (totaling
+$653,813), as annotated by Mr. Johnson to correct certain arithmetic errors in Appellants'
+numbers and to deduct $187,200 for some of Appellants' proposed Title IT services (to be
+performed during actual construction) which the District decided to do itself. (CHF Ex. 25, Tr.
+107-112, 226, 307-309). Sometime in mid-December, Mr. Johnson reviewed the corrected and
+revised price proposal amount with Messrs. McGee and Brown. There is no indication in the
+record that Appellants' principals voiced any objection to Mr. Johnson regarding the proposed
+award amount but rather they worked together with him on it. (Tr. 108-112). A DHCD
+contracting officer issued a "Notice of Award/Notice to Proceed" to Appellants on December 20,
+1985, with a price correction agreed to by the parties on December 23, authorizing Appellants to
+begin design work starting December 30, 1985. (CHF Ex. 8). The notice states that Appellants'
+earlier proposal is accepted with a revised price of $469,793. Appellants acknowledged receipt
+of the notice and made no objection to the revised award amount. The notice advises Appellants
+that a "formal contract is being prepared and will be forwarded to you in the near future."
+Although the notice does not expressly define the scope of work, we find from the record that the
+scope was defined in the "Scope of Work" section of the 2-page "Project Justification & Scope of
+Work" document given to Appellants on August 5, 1985, as supplemented by the general scope
+of work furnished by Appellants in their August 22, 1985 proposal. (See, e.g., CHF Exs. 8, 9;
+Tr. 366-367).
+
+        From the beginning, both parties understood that Appellants would be revising, refming,
+and giving detail to the August 1985 scope of work, based on the information in the August 1985
+project overview, Appellants' detailed field survey of every unit, and Appellants' architectural
+experience. Throughout the survey period, Appellants' personnel were in ongoing discussions
+with Mr. Carter and Mr. Johnson concerning what Appellants recommended be incorporated into
+the "formal" or definitized contract scope of work. (E.g., Tr. 365-372, 385-395). For example,
+although the original August 1985 project overview mentioned the need for handicapped
+accommodations, the accompanying work scope did not mention design for handicapped
+accommodations. During the survey period, Appellants' representatives notified Mr. Johnson of
+the need for handicapped accommodations and in December 1985 Mr. Johnson instructed them
+to design 15 of the units to accommodate handicapped persons. (Tr. 365-370, 390, 419-422).
+This took place well before the definitized contract was executed by the parties.
+                                               -5-                      McGee cit Brown, CAB No. D-936
+
+
+        In January 1986, the parties agreed to other revisions of the project scope of work to
+include underground utility work, a storm drainage system, and inspection services during
+construction. Because of the extent of work involved, the parties agreed to increase the award
+price by $75,094, resulting in a new total of $544,087. (CHF Ex. 9; Tr. 96-97, 227-229, 281-
+282). The revision is reflected in a January 13, 1986 internal DHCD memorandum from Mr.
+Johnson to Mr. Carter. (CHF Ex. 9). The version of the memorandum in the record contains
+additional entries showing a deduction of $21,160 from the contract price for design services
+relating to steam condensate return piping work which Mr. Johnson says was included in the
+original scope of work (CHF Exs. 1, 7; Tr. 286-289, 312) but needed to be removed because the
+design had previously been performed by an engineering firm, Diversified Engineering, Inc.,
+under a separate contract with the District. (See CHF Exs. 9, 10). The Appellants subcontracted
+various engineering requirements of their project work to Diversified. (See CHF Ex. A).
+Although the parties dispute when Mr. Johnson inserted the $21,160 deduction on the
+memorandum - January 13, 1986 according to Mr. Johnson, February 14, 1986 according to Mr.
+McGee - the issue is irrelevant. Appellants agree that they received notice of the proposed
+deduction, which would lower the contract price to $523,727, at least by February 13, 1986, a
+full month before the parties executed the definitized contract on March 21, 1986. (CHF Ex. 10;
+Tr. 298; if. Tr. 95-97). Mr. McGee testified that he orally protested the proposed deduction of
+$21,160 from the contract price.         (Tr. 275-279). Although Mr. McGee testified that he
+communicated his protest in writing (Tr. 100), there is no such written communication in the
+record. When asked whether he had some understanding that the $21,160 was going to be re-
+inserted into the contract price, he stated "No, but we knew we were going to protest it." (Id.).
+He stated that he did not protest prior to the definitized contract because he did not want to lose
+the contract over a dispute concerning this amount. (Tr. 100-101). He testified that the
+Appellants' scope of work did not include the Diversified design work but rather the Appellants'
+scope of work only covered having Diversified's design drawings incorporated into Appellants'
+final construction drawings. Mr. Johnson seems to have used the $21,160 price in Diversified's
+separate contract with the District as the basis for his deduction from the Appellants' price.
+
+        On February 6, 1986, still before the definitized contract had been executed by the parties,
+Appellants submitted a complete schematic package with preliminary drawings showing the
+suggested layout for each room within the 314 units at Carrollsburg. The submission also
+included outline specifications and a complete report providing a written description of all
+conditions that Appellants had discovered on the site during the extensive survey that began in
+August 1985. (Tr. 25-27, 365-372; CHF Ex. 13, at 2). Appellants' February 1986 package set
+forth a proposed scope of work and Appellants were aware from their discussions with DHCD
+representatives that their proposed scope of work would form the basis for the scope of work
+under the definitized contract. (Tr. 367, 368-372). Unfortunately, neither party introduced the
+February 1986 package into the record.
+
+      For the period August 1985 through early March 1986, Appellants state that there was no
+"formal contract" in place and there was no written arrangement by which they would receive
+                                               -6-                     McGee & Brown, CAB No. D-936
+
+payment for services. 2 Mr. McGee testified that this situation was not unusual for architects who
+performed services for the District government. (Tr. 26, 34).
+
+       The Dejinitized Contract
+
+         The record sheds little light on the circumstances surrounding the actual execution of the
+definitized contract, Contract No. 4468-72, dated March 21, 1986. (CHF Ex. 1). The contract
+required the Appellants to proceed with the design and preparation of construction contract plans
+and specifications for Carrollsburg and to complete the work within 180 days from the December
+1985 Notice of AwardlNotice to Proceed. It provides for a tota1lump sum fee not to exceed
+$523,727, consisting of $459,647 for all Title I architectural and design services and construction
+document preparation work, and $64,080 for the Title II construction services option, such as site
+visits, inspection of construction, and review of shop drawings and samples. (CHF Ex. 1, at 5).
+Appendix A of the contract, entitled "Scope of Work", summarizes the Title I requirements as
+follows:
+
+       In depth restoration of all units including, Mechanical, Electrical, all Structural
+       Elements, Architectural Elements and Common Spaces.
+
+(Appendix A, Part A). Under the subheading "Services to be Performed" appears the following:
+
+       All necessary services for complete restoration of the Carrollsburg Apartments and
+       Garden Units, including the items listed in the Scope of the AlE services (attached)
+       and to conform with the following attachments: 1.) Standards for Modernization
+       of Public Housing and 2.) Schedule for AlE Services.
+
+(Id., Part B). Under the subheading "Scope of Work" appears the following:
+
+       Complete renovation of 314 units as follows[:] General repairs to Interior and
+       Exterior of units; complete underground Utility Services, Landscaping throughout
+       site, Upgrading all Electrical Systems and Upgrade hallways and public spaces; See
+       attached AlE Scope of Work and Standards for Modernization of Public Housing.
+
+(Id., Part D). Under a heading "Design Requirements are:" appears the following pertinent
+information:
+
+
+
+
+2 In its posthearing brief, Appellants state that they are not making any claim for compensation
+for the period from August 1985 through March 21, 1986 (the date of contract execution). The
+fact is the survey and schematic work was always a part of the scope of work and compensation
+for that work was included in their price proposals that formed the basis of the December 1985
+Notice of Award amount of $469,793. (See CHF Ex. 8, 24, 25, 26).
+                                               -7-                     McGee & Brown, CAB No. D-936
+
+
+        Architectural Requirements;
+
+        Provide all services contained in the AlE proposal and DRCD Design requirements.
+
+        Electrical Requirements;
+
+        Complete upgrading of the Electrical Systems, Fire Alarm Systems; replace smoke
+        detectors, provide extra circuit for A/C unit and provide (45) pole mounted lights
+        including underground wiring. See Attached AlE Scope of Work.
+
+        Mechanical Requirements:
+
+        Provide new kitchen and bathroom fittings; replace piping and convertors in units; new
+        disposal units, washerldryer combination in each unit; complete condensate replacement
+        design, specifications and estimates; and work stops 5' outside of building. Provide plans
+        and shop drawings services. Including in AlE Work Scope.
+
+Neither party made the "AlE Scope of Work" referenced above a part of the appeal record. Based
+on the "Design Requirements" text and the hearing testimony, we find that the "AlE Scope of
+Work" was prepared by Appellants, and more likely than not, was the work scope prepared by
+Appellants and submitted as part of its February 1986 package. The" AlE Scope of Work" is not
+attached to any version of the contract included in the Appeal File, Appeal File Supplements, or
+the Consolidated Rearing File. Nevertheless, based on the other documentation of record and the
+transcript of the hearing, we are satisfied that there is sufficient evidence to determine the
+contractual scope of work governing Appellants' performance so far as the issues of this appeal
+are concerned.
+
+        Changes to the Contract Scope of Work
+
+          When residents of Carrollsburg became aware of DRCD's comprehensive modernization
+ project, they requested a meeting involving the architects and DReD. The meeting occurred
+ shortly after contract execution, on April 3, 1986. The residents expressed their displeasure with
+.the manner in which the project had been handled and various residents' groups complained about
+ the proposed modifications. The residents and property management requested certain changes
+ be made to the planned design, including replacing the existing steam boilers and steam supply
+ lines with a hot water system and converting the currently vacant basement space into fmished
+ space offering a resident manager's office, a community clothing facility, and a resident laundry
+ facility. (CHF Ex. 13, Ex. E).
+
+        On June 26, 1986, Appellants submitted a 3-page document entitled "General Repair and
+Modernization of Carrollsburg" setting forth a modified scope of design work for the Carrollsburg
+project. (CHF Ex. D; Tr. 591-592, 597, 603, 698-7(0). Most of the items listed in the modified
+scope remained unchanged from the definitized contract scope of work. For example, the
+individual design items listed under the categories "Kitchens", "Bathrooms", "Living and Dining
+                                               -8-                      McGee & Brown, CAB No. D-936
+
+
+Rooms", "Bedrooms", "Insulation", and "Electrical" were unchanged from the contract scope of
+work. The design items listed under the category called "General" were also unchanged, including
+that of providing dwelling units for the handicapped. Most of the design items listed under the
+category "Exterior & Site" were also unchanged, such as replacing defective concrete walks,
+installing new fixtures on light poles, providing new canopies for the front entrance of each of the
+228 apartment units, and providing new foyers for each of the 86 townhouse units. 3 (See CHF
+Ex. 7; Ex. 24, at 3; Tr. 389-394). Mr. Johnson stated that the changes reflected in Appellants'
+June 26 modified design scope resulted from comments received at the April 3, 1986 meeting and
+from intense political interest from local and federal officials. (Tr. 592-594, 596-600). The
+principal changes are found under the category entitled "Heating", where Appellants' design scope
+is to include replacing the steam heating system with a hot water system and replacing all radiators
+with fan-coil units having individual controls. Under "Exterior & Site", the modified design scope
+adds: "Provide in basement space acceptable to DHCD and tenants, Laundry room." The parties
+continued to discuss design scope changes after Appellants' ·June 26, 1986 proposed revision to
+the scope of work.
+
+         By letter dated December 12, 1986, Appellants advised Mr. Johnson that they were acutely
+concerned about changes to the contract scope of work without corresponding increases to the
+contract price. (CHF Ex. 20). In the letter, Appellants identify "the various scope changes
+throughout the project," propose a price adjustment for each, and request a contract action
+reflecting the increase. Four scope changes are presented: (1) boiler redesign and the replacement
+of the radiators with fan coil units, priced at $60,354; (2) provision of temporary heat throughout
+the project, priced at $43,111; (3) changing the entire boiler system from the existing six boilers
+to "pulse" boilers, with prices of $59,544 or $115,554 for two alternative implementations; and
+(4) provision of a new administrative office, including maintenance shop, relocation of the
+community clothing facility, and provision of a laundry room, priced at $4,000.
+
+         The contract provided for DHCD review of schematics, design, and construction
+documents being prepared by Appellants, at various stages of development. (Contract, Appendix
+B). At some point in early 1987, Appellants submitted to DHCD their 90-95 percent design
+documents. We know that the submission was prior to March 26, 1987, the date that Proceed
+Order No. 1 issued, because in later correspondence, Appellants state that at the time of their 90-
+95 percent submission, Appellants had not yet received the scope of work for the basement
+facilities defined in Proceed Order No.1 (which was issued on March 26, 1987). (See CHF Ex.
+23). A March 10, 1987 letter from Appellants to Mr. Johnson indicates that the 90-95 percent
+submission occurred before March 10. (CHF Ex. 11).
+
+        On March 10, 1987, Messrs. McGee and Brown met with Mr. Johnson to negotiate an
+upward price adjustment to the contract for extra work required by various changes in the scope
+of work. (See CHF Ex. 11). Appellants had prepared in advance of the meeting a "handwritten
+delineation . . . of the various tasks performed over and above the original AlE agreement" which
+
+
+3 The number of apartments and townhouses at Carrollsburg is set forth in the construction
+contract's specifications. (Appeal File, Vol. 2, Tab 7, Specifications, Special Conditions, 1.6-1).
+                                                -9-                     McGee &: Brown, CAB No. 0-936
+
+
+formed the basis for the requested price adjustment. (Id.). The handwritten document was not
+made a part of the appeal record. The Appellants confirmed their meeting with a letter dated
+March 10. The letter states that the parties reached an agreement "whereby, due to various
+changes in [Appellants'] AlE scope of work, [Appellants'] AlE fee was increased (by
+$116,439.00) from $523,727.00, per our original agreement dated February 14, 1986, to
+$640,166.00 as of March 10, 1987." In the letter, Appellants state that the handwritten
+delineation "reflecting both the format and changes [Mr. Johnson] requested to be made, will be
+the subject of a separate correspondence." The letter ends by requesting DHCD's "final review
+comments on all disciplines." (Id.).
+
+        On March 26, 1987, the contracting officer issued Proceed Order No.1, authorizing the
+Appellants to proceed with the changes in the design scope described in an attached "Description
+of Change" dated March 25, 1987. (CHF Ex. 4). The "Description of Change" instructed
+Appellants to provide a boiler study report and certain emergency design services related to the
+boilers, condensate lines, condensate pumps, and sump pumps. It also directed Appellants to
+"prepare and perform design documents, construction plans, specification, estimates, coordinate
+surveys and field inspections associated with the additional scope of work." This included
+performing additional architectural and design services relating to support replacing radiators with
+fan coil units and constructing a management office, maintenance shop, new laundry room, and
+clothing center. (CHF Ex. 4; Tr. 349).
+
+       Appellants received DHCD's comments on their 90-95 percent construction documents on
+April 28, 1987. (See CHF Ex. 23, at 2).
+
+        In the March to early May 1987 time frame, Mr. Johnson directed several additional
+changes to the scope of work. After most of the architectural work had been completed for the
+15 handicapped units and incorporated in the 90-95 percent submission, Mr. Johnson directed
+Appellants to redesign 6 of the 15 handicapped units and make them into standard units. (Tr. 396,
+398, 572, 616). Appellants also received direction from Mr. Johnson to replace the townhouse
+foyers design with canopies. (Tr. 459, 470; see CHF Ex. E, at 2; Tr. 393-394). In April or May
+1987, Appellants became aware the certain housing units had been damaged by fire. (Tr. 432).
+In a letter dated May 13, 1987 to the Appellants, Mr. Johnson advised them of 5 units that had
+to be included in the construction estimate and directed them to make "a walk through inspection
+in order to ascertain the scope of work." (CHF Ex. C). In the Mayor June 1987 time frame,
+Appellants' two project managers spent one day surveying the burned units. (Cf, Tr. 576-577
+with Tr. 402-403). Design work was done shortly thereafter. (Tr. 577-579).
+
+        The contract required Appellants to submit a detailed cost estimate for all construction
+work and that estimate would become the government estimate used for the evaluation of bids
+received for the construction contract. (Contract, Appendix A, at 4). Appellants were responsible
+for preparing an economical design within a specified mandatory construction cost limitation. (Id.
+at 8). During the design development phase, Appellants were required to submit a preliminary
+estimate showing "separately (a) the cost of each new building or addition, (b) the work in existing
+buildings, and (c) costs of all work outside the buildings; the estimate shall be broken down to
+                                               - 10-                    McGee & Brown, CAB No. D-936
+
+
+show the cost analyses or allowances (noted as such) based on these units." (Appendix B, at 24).
+The contract required that the estimate for the construction documents phase be based "on an
+accurate detailed quantity survey of both labor and material. Any standard estimating procedure
+will be acceptable provided that the conclusions are presented in the order and detail shown on the
+Recapitulation Sheet attached. Lump sums or allowances for major items of the estimate shall not
+be used." (Id. at 34). Although the Recapitulation Sheet is not in the record, the estimating
+requirements suggest that the cost estimates are derived from unit building estimates, consistent
+with the requirements for the design development phase's preliminary cost estimates. By May
+1987, Mr. Johnson had received from Appellants an initial 100 percent construction documents
+phase cost estimate. (See Tr. 664-666, 701-703, 865-866; CHF Ex. C; CHF Ex. 22, at 2).
+
+       On May 11, 1987, Appellants submitted an initial price proposal amounting to $136,233.
+(See CHF Ex. B, at 4). Although the proposal was not made a part of the record, Mr. Johnson
+testified that the proposal amount covered the changes directed by Proceed Order No. 1 and
+project delays attributable to DHCD. (Tr. 232-233). The parties met several times to negotiate
+an equitable adjustment to the contract price and completion date. One such negotiation session
+took place on May 22, 1987. (See CHF Ex. E).
+
+         Appellants submitted a revised pricing proposal by letter dated May 28, 1987, in the
+amount of $116,964. (Id.; Tr. 620-625). The proposal makes clear that it covers both
+architectural and engineering work for: (1) converting from steam to hot water heating system;
+(2) replacing radiators with fan coil units; (3) converting vacant basement space into a resident
+manager's office, with ancillary facilities such as administrative space and an engineer-custodial
+facility, a community clothing facility, and a resident laundry facility; (4) emergency boiler work;
+and (5) miscellaneous architectural changes. The text for item (5) specifically mentions the effort
+of removing (from the 90% drawings) the townhouse entrance foyers "which entailed considerable
+architectural redesign and drafting," i.e., replacing them with canopies. (CHF Ex. E; Tr. 393-
+394, 458-460, 466-470).
+
+        For their final negotiation session held on June 1, 1987, Mr. Johnson advised Appellants
+to bring to the table any other kind of delays or administrative costs due the architect team. (Tr.
+258). The parties agreed on a change order amount of $120,194, which included additional
+amounts for reproductions of drawings and other miscellaneous fees. (CHF Exs. 3 and E; Tr.
+343, 620-625). Appellants submitted another proposal dated June 2, 1987, confirming the
+agreement reached by the parties. (CHF Ex. B, at 3; Tr. 248). That proposal was not made a
+part of the record.
+
+        During the period May through approximately July, 1987, Appellants were revising their
+90-95 percent documents for all disciplines and incorporating the comments received from DHCD
+on Apri128. For the new scope added by Proceed Order No.1 and the miscellaneous changes
+directed by Mr. Johnson - redesigning 6 handicapped units back into standard units, replacing
+the townhouse foyers with canopies, and supplementing the drawings for the 5-7 burned units -
+Appellants were incorporating these design elements into the overall construction document
+package for Appellants' 100 percent submission. We find that Appellants submitted the 100
+                                               - 11 -                   McGee & Brown, CAB No. 0-936
+
+
+percent construction document package by early August based on an August 19, 1987 letter in
+which Mr. Johnson mentions that the 100 percent documents are being reviewed by DHCD staff
+for comments. (CHF Ex. F; Tr. 271-272).
+
+        In an August 11, 1987 meeting, the parties agreed that the construction documents phase
+cost estimate should be divided into six construction phases. (CHF Ex. F). Phasing involved
+dividing the 28 buildings into six groups (phases) and preparing a separate cost estimate for each
+group.
+
+        On August 26, 1987, DHCD's contracting officer executed Change Order No.1 on behalf
+of the District, granting Appellants an increase in the contract price of $120,194 and a time
+extension of 432 calendar days based on the changes authorized by Proceed Order No. 1 and all
+scope changes incorporated by Appellants' price proposals of May 11, 1987, May 28, 1987, and
+June 2, 1987. Change Order No.1 states: "The net increase is the agreed to fixed price to
+accomplish the above work and is full and final compensation for the changes included herein."
+(CHF Exs. B, E, and 4; Tr. 620-625). In the "Justification for Time Extension" for Change
+Order No.1, prepared by Mr. Johnson and dated June 1, 1987, the calculation of the 432-day
+extension is explained. First, it identifies 273 calendar days for District-caused delays for the
+period of June 27, 1986 to March 26, 1987, involving administrative delays, delays associated
+with revisions to the building code, and design and construction document submittal review
+delays. (CHF Ex. B, at 3; Tr. 254-262). Second, it identifies a total of 159 days for survey,
+study, preliminary design development and DHCD review, and for construction document
+preparation and DHCD review for the additional services required under Proceed Order No.1,
+covering the period of March 26, 1987 to August 31, 1987. (CHF Ex. B, at 3; Tr. 262-263).
+The time extension revised the contract completion date from June 27, 1986, to August 31, 1987.
+(Tr. 271).
+
+       Appellants state that they received Change Order No.1 on September 14, 1987. (See CHF
+Ex. 3; Posthearing Mem. at 27). Appellants executed Change Order No.1, without reservation,
+making it a bilateral contract modification. (CHF Exs. 3 and B). By letter of September 29,
+1987, Appellants acknowledged "receipt of the official change order with respect to the overall
+changes which have taken place during the course of our Notice to Proceed with the Carrollsburg
+Comprehensive Modernization project." (CHF Ex. 22).4 Recognizing the grant of a 432-day time
+extension, Appellants' only stated concern raised in the letter is that DHCD "issue a written
+statement documenting the cause of delay in conjunction with the change documents [Change
+Order No. 1]."
+
+
+
+4 Early in his testimony, Mr. McGee stated that Change Order No.1 was "kind of a culmination
+of all of the different problems we had had with the mechanical up to that particular point," "either
+heating, electrical, and this kind of thing," but did not include any architectural work. (See Tr.
+40-47). Based on our review of the documentation included by the parties in the record, including
+the correspondence, Proceed Order No.1, the May 28, 1987 proposal, and the Change Order No.
+1 documentation, we do not agree with Mr. McGee's assessment.
+                                              - 12-                    McGee & Brown, CAB No. 0-936
+
+
+       Under cover letter dated September 17~ 1987, Appellants submitted their revised cost
+estimate for the project, taking into account the scope of work, as changed, and according to the
+grouping of the 28 buildings into six phases. (CHF Ex. 21; Tr. 180-181).5 The division of the
+buildings into six groups is depicted in the contract drawings. (See Drawing No. SR-1).
+
+         In an OCtober 23, 1987 letter, Appellants note that DHCD wants all documents finalized
+and ready to be incorporated into the construction contract bid package by November 6, 1987.
+To meet that date, Appellants request that DHCD advise them of the type of play equipment and
+their site location. Appellants indicate that there is a meeting with DHCD planned for Monday,
+October 26, and that they intend to submit their corrected (revised) cost estimate at the meeting.
+In the letter, Appellants request that DHCD provide to them at the meeting all final review
+comments regarding Appellants' 100 percent drawings and specifications and the construction
+phasing plan. Appellants assure DHCD that if they receive the information and review comments
+on OCtober 26, it will take only a few days to finalize the construction documents. (CHF Ex. 23).
+Based on a review of record as presented by the parties, we find that Appellants' work was
+substantially complete by the end of October 1987. Although Appellants' witnesses testified to
+significant architectural effort being performed in November and December 1987, we do not find
+that testimony credible in the absence of corroborating documentation. Indeed, in one of
+Appellants' claim letters, it identifies the performance period as March 21, 1986 through October
+23, 1987, and it gives October 23, 1987 as the date of their 100 percent submission. (CHF Ex.
+16, at 3). To the extent that Appellants' OCtober 23 letter suggests some minor architectural work
+or corrections would be performed after October 23, 1987, we find the work to be de minimis.
+
+                                         DISCUSSION
+
+       The Board exercises jurisdiction over the appeal pursuant to D.C. Code § 1-1189.3.
+
+       Handicapped Units
+
+         Appellants claim they performed extra work in designing the 15 handicapped units, and
+later redesigning 6 of the 15 units into standard units. Appellants seek compensation of $22,275.
+From the facts described above, it is clear that the initial design of the 15 handicapped units was
+covered in the contract scope of work. One of Appellants' witnesses conceded the point. (Tr.
+572-573). It is also clear that the parties understood that the redesign of the 6 units was covered
+Change Order No. 1.
+
+       Canopies and Foyers
+
+       Initially, both the apartments and townhouses at Carrollsburg had canopies at their
+entrances. The contract scope of work called for the repair or replacement of canopies for the
+apartments and a new design of exterior foyers, rather than canopies, for the townhouses. After
+
+
+5 Although the September 17 letter states that McGee's firm did the cost estimate work, Mr.
+McGee testified that Mr. Brown's firm did the cost estimating work. (Tr. 184).
+                                              - 13 -                   McGee & Brown, CAB No. 0-936
+
+
+Appellants prepared 90-95 percent design drawings for the townhouse foyers, Mr. Johnson
+advised Appellants that DHCD was changing the design by deleting the foyers and replacing them
+with canopies.. Appellants claim they performed extra work in redesigning the 82 townhouses to
+replace the foyers with canopies. Appellants seek compensation of $60,500. As previously
+discussed, the sequence of events leading up to execution of Change Order No. 1 demonstrates
+that the redesign and drafting effort was fully covered under Change Order No.1.
+
+       Burned Units
+
+        Appellants claim they performed extra work in supplemental survey and design work for
+7 units that were damaged by fire. Appellants seek compensation of $8,490. 6 This scope change,
+like that for the handicapped units and the townhouse foyers, was covered by Change Order No.
+1.
+
+       Phasing the Construction Cost Estimate
+
+        Appellants seek an adjustment of $98,825 for preparing the construction cost estimate in
+six phases. They say they spent 1,050 hours in the period August to October 1987 and another
+2,016 hours in the period October to December 1987. Beyond the fact that the record is devoid
+of any contemporaneous written notice of such a significant effort, and the claim letters make no
+mention of this alleged change, we are not persuaded that the effort in grouping the cost estimates
+for the separate buildings into six groups constitutes a material change to the contract scope of
+work. The contract required Appellants to prepare a detailed cost estimate by building. "Phasing"
+required Appellants to provide a proposed grouping of the 28 buildings into six groups with a cost
+estimate for each of the six groups. Appellants have not shown how this effort materially
+expanded their cost estimating effort and required over 3,000 additional hours of architect time.
+
+       Playground Equipment
+
+        Appellants seek $11,410 for 374 hours of extra architectural work associated with deleting
+work on site drawings and inserting playground equipment. The written record does show that
+Appellants did not have DHCD's desired playground equipment as of October 23, 1987.
+However, playground equipment was part of the scope of work. Thus, Appellants are only
+entitled to compensation to the extent that the delay in providing the specifications for the
+playground equipment caused extra work. We conclude that Appellants have not met their burden
+of proving quantum. Appellants rely exclusively on hearing testimony from its witnesses but that
+testimony does not distinguish between effort required by the contract and truly extra work.
+
+       Storage Facilities, Toilets, Roof Ventilation
+
+       Appellants seek $1,040 for extra work in the basement build-out for the design of storage
+
+
+6In their posthearing brief, Appellants miscalculate the amount as $4,490. Calculated correctly,
+Appellants seek $8,490.
+                                              - 14-                    McGee cl Brown, CAB No. D-936
+
+space and to refurbish all toilets and $1,100 for alleged extra roof ventilation work. Appellants
+did not support these claim elements with any contemporaneous documentation. For the same
+reasons given with regard to the extra work claims relating to the handicapped units, burned units,
+and the toWnhouse foyers, we conclude that to the extent any of this effort was extra work, it was
+covered by Change Order No.1.
+
+       The Deduction for Condensate Line Work
+
+        Appellants challenge the deduction made by Mr. Johnson in deducting $21,160 for
+condensate line work. We conclude that Appellants have legal ground to challenge that deduction.
+Mr. Johnson notified Appellants by no later than February 14, 1986, of DHCD's intent to deduct
+the amount from the contract price to be incorporated in the definitized contract. Appellants
+concede that they executed the March 21, 1986 definitized contract fully aware of the deduction
+reflected in the contract price. Having failed to expressly reserve their right in the contract to
+later challenge the deduction, they are barred from challenging it now. A.S. McGaughn Co.,
+CAB Nos. D-898 & D-899, July 21, 1994, 42 D.C. Reg. 4648, 4663.
+
+                                        CONCLUSION
+
+        Having carefully considered each of Appellants' arguments in support of their claims for
+equitable adjustment, we conclude that Appellants claims fail because either they have not met
+their burden of proving quantum or they have received full compensation under Contract Change
+Order No.1. Accordingly, Appellants' appeal is denied.
+
+
+DATED: February 4, 1998
+
+
+
+CONCURRING:
+
+
+
+LO      NE.            S
+Chief Administrative Judge
+

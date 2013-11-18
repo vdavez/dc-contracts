@@ -1,0 +1,195 @@
+                        GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                         CONTRACT APPEALS BOARD
+APPEAL OF:
+
+STRESS MANAGEMENT CENTER, INC. )
+                                     )                 CAB No. D-1174
+Under Contract No. JA-SC-CS-70023-01 )
+
+                                        OPINION
+                                (Courtlink Filing ID 1838398)
+
+        The District of Columbia (“District” or “Appellee”) moved to dismiss this appeal
+for failure to state a claim upon which relief can be granted, or, in the alternative, for
+summary judgment. Stress Management Center, Inc. (“SMC” or “Appellant”) filed a
+pleading titled “Motion to Strike Defendant’s Motion for Summary Judgment” which the
+Board, notwithstanding the pleading’s title, has accepted as an opposition to the District’s
+motion. The Board finds that Appellant’s Complaint states a cause of action and that
+there are material facts in dispute. The District’s motion is DENIED.
+
+                                    BACKGROUND
+
+       SMC timely appealed a final decision of the Contracting Officer dated November
+20, 2001, denying its claim for $51,310.00 under Contract No. JA-SC-CS-70023-01
+(“Contract”). The Complaint was filed pro se by Spencer Cooper, President and Chief
+Operating Officer of the Appellant.
+
+        In October 1997, SMC and the D.C. Department of Human Services (“DHS”)
+entered into the subject contract to provide the Commission on Social Services, Mental
+Retardation and Developmental Disabilities Administration (“MRDDA”) the services of
+a licensed psychologist for approximately 2,080 hours per year to perform psychological
+evaluations. The Contract was a firm-fixed-unit-price requirements contract for one year
+with four one-year renewal options. (Appellee’s Statement of Material Facts (“SMF”) ¶¶
+3 and 4). The Contract incorporated the Appellant’s best and final offer (“BAFO”) dated
+October 6, 1997. (SMF ¶¶ 1 and 5). The Contract defined the “unit price” as “one hour
+of psychological evaluation services performed by a licensed psychologist.” SMF ¶ 4. It
+is undisputed that the unit price in the contract as executed was $32.04 per hour for the
+base year and first and second option year, totaling $66,641.00 for each year. SMF ¶ 5.
+The unit price for option years three and four in the contract as executed increased to
+$33.79 per hour, with a total amount for the final two option years of $70,292.00. (SMF
+¶¶ 5 and 6). The Appellant’s President and Chief Operating Officer Spencer L. Cooper
+signed both the BAFO and the Contract. (SMF ¶¶ 1 and 5). The District exercised all
+four options.
+
+        Although the Appellant agrees that its president executed the Contract with the
+stated rates, it asserts that when the President did so he was not aware that his firm’s
+accountant had agreed to reduce the hourly rate by approximately 60% from SMC’s
+original bid of $90 per hour. (Complaint ¶ 4). After signing the contract, Appellant
+                                              2   Stress Management Center, Inc, CAB No.D-1174
+
+
+asserts that it contacted Gordon Barrow, Director of Clinical Services for MRDDA, who
+“authorized” a change to the compensation rate provided in the contract and agreed to
+pay Appellant $375 per client evaluation in place of $32.04 per hour. (Complaint ¶ 6).
+The alleged change results in a substantial increase in the compensation rate to be paid
+for the contract services, Appellant alleges that it submitted invoices at the increased
+compensation rate and was paid $375 per client evaluation from commencement of the
+contract in November 1997 through August 2000. (Complaint ¶ 7). There appears to be
+no dispute that the alleged change was never incorporated into the contract documents.
+
+        Notwithstanding that the increased rate was allegedly implemented in the base
+year, the documents exercising each of the four options are silent as to any changes. The
+terms of the option documents, however, are not inconsistent with the increase in
+compensation rate. The initial contract states an estimated number of unit hours, a fixed
+unit price and a total price. The amendments exercising the options state only a total
+price. The total price in each option exercise is identical to the total prices for the option
+years shown in the original contract. Since the total price is the product of the estimated
+number of units times the fixed unit price, the fact that the total price is identical to the
+originally stated total prices does not necessarily indicate that there was not a change in
+the definition of the unit or the unit price. If the compensation rate increased, but the
+estimated quantity decreased, the total price could remain unchanged.                 Without
+considering the propriety of the alleged change, this is apparently what occurred. Option
+year 3 (November 2000 through October 2001), for example, was exercised for a total
+price of $70,292. (AF Tab 6). Although SMC billed at the increased compensation rate,
+because less work was required than originally estimated, the total billed was only
+$33,895, well within the total price ceiling. Thus, the fact that the total price was not
+changed is not dispositive of the issue of whether an increase in unit price was approved.
+
+       The final decision of the contracting officer is disingenuous. SMC’s claim letter
+to Mr. Clemmons, the then successor contracting officer, dated July 5, 2001 (Complaint
+Attachment 1), asserted that the contract had been orally modified and supported this
+claim by alleging that the modified amount had been paid by the District for the entire
+base contract, the entire first option year and all but the last month of the second option
+years, a period of nearly 3 years. The final decision received from Mr. Minor, Mr.
+Clemmons’ successor, appears carefully crafted to avoid consideration of the alleged oral
+modification. The substantive portion of the final decision begins “An examination of
+the subject file has disclosed the following:,” indicating that only the written file was
+considered and the alleged oral modification ignored.
+
+        Certainly the District was, and is, aware of the amounts invoiced by SMC, and
+subsequently approved and paid by the District. If the District is to deny that a
+modification of the payment term was made as alleged by SMC, the District must either
+deny that the increased payments were made, or explain nearly three years of payments
+differing from the contract terms. The final decision of the contracting officer does
+neither. The decision merely states that the contract file shows no modification, a fact
+not in dispute. Appellant alleges that compensation paid for the contract services
+reverted to the original contract terms in October 2000. If true, and the contracting
+officer believed that the reduced compensation was proper, the increased payments for
+                                            3   Stress Management Center, Inc, CAB No.D-1174
+
+
+the first three contract years were erroneously made. In that event, it would have been
+incumbent upon the contracting officer to timely make a claim to recoup the improper
+payments. No claim appears to have been made by the District to recover all or part of
+the funds that the District now apparently claims were erroneously paid.
+
+        The District’s motion similarly fails to take into account the increased
+compensation rate allegedly to have actually been paid for the for the first three years.
+Further, the motion asks the Board to preclude Appellant from offering any evidence of
+the alleged authorized change and increased payments by asserting the parol evidence
+rule. The District avers that “[t]he four-corners of the Contract alone should settle the
+dispute,” Motion 7, and asserts that SMC cannot introduce any other evidence as to oral
+changes to the written payment term. The District’s motion states;
+
+       The Appellant attempts to use an alleged oral agreement with the Director
+       of MRDDA to change the amount paid to it under the Contract. Under the
+       parol evidence rule, extrinsic evidence may not be introduced to contradict
+       the written terms of a contract. 17A Am. Jur. 2d Contracts § 402 (2002).
+       Extrinsic or parol evidence which “tends to contradict, vary, add to, or
+       subtract from the terms of a written contract must be excluded.” Holzman
+       v. Fiola Blum, Inc., 726 A.2d 818 (Md. Ct. Spec. App. 1999); see also,
+       Afordable Elegance Travel, Inc. v. Worldspan, L.P., 774 A.2d 320, 327
+       (D.C. 2001); Fistere, Inc. v. Helz, 226 A.2d 578, 580 (D.C. 1967). This
+       rule applies only to written contracts that have been “duly signed and
+       executed.” Affordable Elegance, supra, quoting Gagnon v. Wright, 200
+       A.2d 196, 198 (D.C. 1964).
+
+                                      DISCUSSION
+
+        The contacting officer’s final decision and the pending motion misconstrue
+Appellant’s claim as seeking an “equitable adjustment.” Based on that interpretation of
+the claim, the contracting officer found, and the motion asserts, that the facts alleged do
+not support a claim. An equitable adjustment is a change in contract terms based on
+changes in the contractor’s cost of performance. Appellant does not make any claim that
+its performance was any different than expected under the original terms of the contract.
+The claim asserted by SMC is not for an equitable adjustment. The claim is for payment
+pursuant to a change in the payment term of the contract made after execution of the
+contract. Paragraph 6 of the Complaint states “. . . Mr. Barrow authorized a change in the
+contract amount and agreed to a charge of $375 per client evaluation (not hourly)….”
+The claim seeks payment at the rate of $375 per evaluation.
+
+       The standard of review of Appellee’s Motion to Dismiss is straightforward.
+Dismissal at the Board and under SCR-Civil Rule 12(b)(1) and (6) is proper only where it
+appears beyond doubt that a Appellant can prove no set of facts that could support the
+claim. Schiff v. American Ass’n of Retired Persons, 697 A.2d 1193, 1196 (D.C. 1997).
+Accordingly, the factual allegations are viewed in the light most favorable to the
+appellant and every reasonable doubt concerning those allegations resolved in the
+appellants favor. See Conley v. Gibson, 355 U.S. 41, 45-46 (1957); Fred Ezra Co. v.
+                                            4   Stress Management Center, Inc, CAB No.D-1174
+
+
+Pedas, 682 A.2d 173, 174 (D.C. 1996); American Ins. Co. v. Smith, 472 A.2d 872, 874
+(D.C. 1984); Owens v. Tiber Island Condominium Ass’n, 373 A.2d 890, 893 (D.C. 1977);
+Early Settlers Ins. Co. v. Schweid, 221 A.2d 920, 922 (D.C. 1966).
+
+        The Complaint alleges that the original contract was amended by the Director of
+Clinical Services for MRDDA. It further alleges that this amendment was ratified by
+payment of the changed amount for nearly 3 years. (Complaint ¶ 18). The District
+discounts these contentions asserting that the parol evidence rule precludes the Board
+from receiving evidence as to an oral amendment of the payment term of the contract and
+thus asks the Board to find that Appellant can prove no set of facts that could support the
+claim. The District misapplies the parol evidence rule. The parol evidence rule is
+applicable to exclusion of evidence only of agreements and understandings prior to the
+integrated written contract. See, Restatement, Second, Contracts §213; Protest of TMG,
+P-467, May 13, 1997, 44 D.C. REG. 6814 The Complaint alleges changes in the
+contract payment term after the contract executed and evidence of the change is thus not
+precluded by the parol evidence rule.
+
+         Appellant has alleged that the written contract was amended and that it has not
+been paid in accordance with the amended terms. Appellant alleges that the amendment
+was implicitly ratified by the contracting officer by the written approval of payment of
+Appellant’s invoices. (Complaint ¶ 17). For purposes of the motion to dismiss, the
+Board must accept the allegation that the contract was amended as true. The Board finds
+that, if the facts asserted are proved, the allegations state a claim for payment under the
+contract. The Motion to Dismiss must therefore be denied.
+
+        In the alternative, the District asks that the Board grant summary judgment.
+Summary judgment can only be granted if there are no disputes over facts that might
+significantly affect the outcome of a suit under the governing law. Anderson v. Liberty
+Lobby, Inc., 477 U.S. 242, 247-248 (1986). For purposes of considering a motion for
+summary judgment, the facts in the record must be viewed in the light most favorable to
+the non-moving party. Colbert v. Georgetown Univ., 641 A.2d 469, 472 (D.C. 1994) (en
+banc). There is a clear dispute as to whether there was an effective change in the price
+term of the contract. Appellant’s complaint was signed by its president who has personal
+knowledge of the underlying facts. By signing the complaint, the president has certified
+that the factual contentions in the complaint are true and have evidentiary support. SCR-
+Civil Rule 11(b)(3). This certification creates a legitimate dispute of material facts. The
+Motion for Summary Judgment must therefore be denied.
+
+       SO ORDERED.
+
+
+May 29, 2003                                               /s/ Matthew S. Watson
+                                                     MATTHEW S. WATSON
+                                                     Administrative Judge
+

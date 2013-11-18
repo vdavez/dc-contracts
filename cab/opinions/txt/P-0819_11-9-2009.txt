@@ -1,0 +1,230 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+CONFIGURATION INCORPORATED                                      )
+                                                                )     CAB No. P-0819
+Solicitation No: DCPO-2009-B-0020                               )
+
+        For the Protester: J. Michael Hannon, Esq., The Hannon Law Group, LLP. For the
+District of Columbia Government: Talia Cohen, Esq., Assistant Attorney General, Office of the
+Attorney General. For the Intervener Maryland Office Interiors, Inc.: Peter Garvin, Esq., Jones
+Day. For the Intervener Standard Business Furniture: Mr. Milton D. Morris, pro se.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                             OPINION
+                                           Filing ID 27962129
+
+
+       Configuration has protested the contracting officer’s determination that its bid was
+nonresponsive and the award made to Maryland Office Interiors, Inc. We conclude that
+Configuration’s bid was not responsive as it failed to meet the solicitation’s salient
+characteristics. Accordingly, we deny the protest challenge of the nonresponsiveness
+determination and dismiss the remaining grounds for lack of standing.
+
+                                         BACKGROUND
+
+        On June 5, 2009, the Office of Contracting and Procurement (“OCP”), on behalf of the
+Office of Property Management, renamed the Department of Real Estate Services, issued IFB
+No. DCPO-2009-B-0020 for a requirements contract, which included a fixed price component
+consisting of an order for furniture for the Waterfront project. (Agency Report (“AR”) Ex. 1).
+The IFB sought a contractor to furnish and deliver to District agencies various systems furniture
+and case goods ordered from a manufacturer’s price list (Part I) and to furnish and install systems
+and case goods at the Waterfront located at 1100 and 1101 4th Street SW (Part II) based in part
+on the prices in Part I. IFB Exhibit F set forth a table containing the salient characteristics of the
+furniture. (AR Ex. 1).
+
+        By Amendments 0001 through 0004, OCP changed the pre-bid conference date from
+June 26, 2009, to June 19, 2009, clarified the closing date, responded to written questions, and
+revised IFB Section J.1.1 (Part I) and J.1.2 (Part II). Amendment 0004 also required bidders to
+submit unit prices for standardized case goods (Attachment J.1.2 Part I, Case goods and Systems
+Furniture Pricing for 48 items). By Amendment 0005, dated June 26, 2009, the District, among
+other things, inserted Section J.1.13, Exhibit A, requiring bidders to submit a fixed price for the
+Waterfront Project. In addition, Amendment 0005 stated “Evaluation of proposed furniture and
+fixtures shall be a comparison of the item bid and its match to the salient characteristics as
+specified in Exhibit F.” By Amendments 0006 through 0008, the District responded to questions
+and revised Exhibit A, responded to a written question, and extended the closing date to July 27,
+                                                -2-              Configuration, Inc., CAB No. P-0819
+
+
+2009. By Amendment 0009, dated July 8, 2009, the District revised the closing date to July 15,
+2009. (AR at 3-4; AR Ex. 1).
+
+        On July 15, 2009, the following eight bidders submitted timely bids: American Office,
+Configuration, F.A. O’Toole Office Systems, Inc., Dynamic Business Interiors (“DBI”),
+Maryland Office Interiors (“MOI”), Capital Services and Supplies, Inc, Motir Services, and
+Standard Business Furniture. (AR Ex. 7). The bid opening officials (a program specialist and
+contract specialist) noted on the original “Goods and Services Bid Abstract Form” dated July 16,
+2009, that the prices for American Office, MOI, F.A. O’Toole, and Motir Services were “not in
+compliance.” (Protest, Attachment 2). There is no precise indication in the record regarding
+why the bid opening officials believed MOI’s bid prices to be “not in compliance.” However,
+after the contracting officer reviewed all eight bids, the contracting officer determined that
+MOI’s prices were in compliance with the solicitation requirements. Configuration fails to
+identify any aspect of MOI’s bid that fails to meet the IFB’s requirements. In accordance with
+the IFB as amended, the contracting officer evaluated the bids based on the fixed price
+component in Part II and the ability of each bidder to meet the technical requirements. The
+contracting officer prepared a Bid Tabulation Sheet based on the prices submitted for the
+Waterfront Project Part II. (AR Ex. 8 and 9).
+
+        By a Determination and Findings for Award to other than the Lowest Bidder dated July
+28, 2009, the contracting officer determined that bids of American Office and Configuration
+were not responsive. Configuration had submitted with its bid a six-page list entitled “DC
+Waterfront Furniture Deviation List” describing how the Configuration proposed furniture items
+deviated from the salient characteristics required by the IFB. (District Response to Comments
+on the Agency Report, Ex. A). Specifically, the contracting officer determined that 20 items of
+furniture in Configuration’s price schedule failed to meet the salient characteristics set forth in
+the Attachment F of the IFB. (AR Ex. 10). We find that the following furniture items proposed
+by Configuration materially deviated from the solicitation’s salient characteristics:
+
+   Item (Description)         Salient Characteristics               Deviation
+
+   32 Training Table          frosted opaque modesty panel          fabric modesty panel
+   34 Café Table              36” square                            29” x 36” rectangular
+   36 Training Table          frosted opaque modesty panel          fabric modesty panel
+   37 Conference Table        boat shape, wood legs                 rectangular shape, drum base
+   39 Training Table          frosted opaque modesty panel          fabric modesty panel
+   42 Conference Table        48” diameter                          36” diameter
+   43 Conference Table        54” diameter                          36” diameter
+   47 Conference Table        boat shape, wood legs                 rectangular shape, drum base
+
+       Based on his July 28 determination of nonresponsiveness of the two low bidders
+(American Office and Configuration), the contracting officer determined that the award must go
+to MOI, the next lowest responsive and responsible bidder. On August 10, 2009, the contract to
+MOI was deemed approved by the Council. (District Response to Comments on the Agency
+Report, Ex. B).
+                                                 -3-              Configuration, Inc., CAB No. P-0819
+
+
+       On August 28, 2009, Configuration filed with the Board its bid protest which was
+docketed as CAB No. P-0819. On September 11, 2009, DBI filed with the Board another protest
+which was docketed as CAB No. P-0823. Subsequent to the filing of the protests, the
+contracting officer prepared a revised bid tabulation sheet, dated September 21, 2009, which
+confirmed the following order of bidding and the award to MOI:
+
+
+ BIDDERS         Price Quote for     Total of   Total A + B         CBE    Evaluated Price
+                 Waterfront          48 Unit                        Pref-
+                 Project             Prices                         erence
+                 PART II A           PART I B
+ 1. American     $2,617,434.34       $25,077.10 $2,642,511.44       0         $2,642,511.52
+ Office
+ 2. Config-      $5,321,448.76       $18,334.30 $5,339,783.06 9%              $4,859,202.58
+ uration
+ 3. MOI          $6,790,307.97       $35,195.35 $6,825,503.32 0               $6,825,503.32
+
+ 4. Motir        $7,681,525,75       $39,567.19 $7,721,092.94 9%              $7,026,194.58
+ Services
+ 5. DBI          $7,083,867.59       $22,359.25 $7,093,518.37 0               $7,093,518.37
+
+ 6. F.A.         $7,433,881.31       $27,926.57 $7,461,807.88 0               $7,461,807.88
+ O’Toole
+ 7. Standard     $37,454,085.00      $77,954.59 $7,532,039.59 0               $7,532,039.59
+ Business
+ Furniture
+ 8. Capital      $8,975,000.00       $36,745.09 $9,011,745.09 12%             $7,930,335.68
+ Services and
+ Supplies
+
+(AR Ex. 14). On September 23, 2009, the District filed its motion to dismiss and agency report.
+By letter dated October 1, 2009, the District terminated for convenience Part I (Case Goods and
+Systems Furniture) of MOI’s Contract No. DCPO-2009-C-0020, as part of a settlement of DBI’s
+protest in CAB No. P-0823, and DBI thereafter withdrew its protest. On October 2, 2009,
+Standard Business Furniture intervened in CAB No. P-0819. On October 6, 2009, Configuration
+filed its comments on the agency report. In its response, Configuration protested the District’s
+termination of Part I of the MOI contract which would lead the District to rebid the citywide
+requirements requested in the solicitation. Configuration also protested the failure of the District
+to timely notify it of the July 28 nonresponsiveness determination and provide Configuration an
+opportunity to “address the alleged failures of its bid.” Configuration also contends that
+“[t]hough the IFB solicited ‘brand name [Kimball] or equal’, the IFB was written in such a
+manner, and the award granted in such an irregular manner, that Kimball dealers were unduly
+favored for no legitimate reason.” On October 15, 2009, the District responded to the new
+protest grounds raised by Configuration.
+                                                 -4-               Configuration, Inc., CAB No. P-0819
+
+
+
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1).
+
+        Configuration raises four principal grounds for protest: (1) whether the District properly
+determined Configuration nonresponsive and therefore not in line for award; (2) whether the
+District’s award to MOI conformed to law; (3) whether the District conducted a proper public
+bid opening; and (4) whether the Council approved the proposed contract to MOI.
+
+        If the District properly determined that Configuration’s bid was nonresponsive, then it is
+not in line for award and therefore lacks standing to raise the other challenges with respect to the
+award to MOI. C.P.F. Corp., CAB No. P-0521, Jan. 12, 1998, 45 D.C. Reg. 8697, 8699 (the
+Board will not consider protests by bidders who are not next in line for award if the protest is
+sustained). To be responsive to a brand name or equal solicitation requirement, a bid offering an
+equal product must conform to the salient characteristics of the brand name product listed in the
+solicitation. Advance Medical Systems, Inc., CAB No. P-0202, April 1, 1992, 39 D.C. Reg.
+4516, 4518; Trail Equipment Co., B-241004, Feb., 1, 1991, 91-1 CPD ¶ 102. A bidder must
+submit with its bid sufficient descriptive literature to permit the contracting officer to assess
+whether the proposed equal product meets all of the salient characteristics specified in the
+solicitation. Id. A bid which materially deviates – that is, one which affects in more than a
+trivial way, the price, quality, or quantity of goods or services offered – from the salient
+characteristics must be rejected as nonresponsive. Id.; Parsons Precision Products, Inc., B-
+249940, Dec. 22, 1992, 92-2 CPD ¶ 431.
+
+        Based on our review of the record, it is clear that the District properly determined that
+Configuration’s bid was nonresponsive because the bid expressly and materially deviated from a
+number of salient characteristics specified in Exhibit F of the solicitation. Configuration’s “DC
+Waterfront Furniture Deviations List” submitted with its bid consists of a spreadsheet listing
+furniture items being proposed by Configuration and how those items deviate from the furniture
+items listed in the bid at Attachments A and F. In determining Configuration’s bid
+nonresponsive, the contracting officer focused on a subset of the deviating products by
+comparing how Configuration’s proposed items deviated from the Attachment F salient
+characteristics of the bid items. Configuration’s bid for furniture items 32, 34, 36, 37, 39, 42, 43,
+47, and 57 clearly deviate from the salient characteristics and Configuration admits as much in
+its October 6 comments on the agency report. In some cases, Configuration states in its October
+6 pleading that it “will provide” a conforming item “at no additional cost to the District” and in
+other cases it states that it will provide the precise item specified in Attachment A. But
+Configuration’s post-bid opening attempts to cure the deviations in its bid are ineffective
+precisely because these attempts come after bid opening. In Advance Medical Systems, Inc.,
+CAB No. P-0202, April 1, 1992, 39 D.C. Reg. 4516, 4518, we quoted the following from Trail
+Equipment Co., B-241004, Feb. 1, 1991, 91-1 CPD ¶ 102: “Responsiveness must be determined
+at the time of bid opening, and, in general, solely from the face of the bid and the material
+submitted with the bid. To allow a bidder to make its nonresponsive bid responsive after bid
+opening is tantamount to allowing the bidder to submit a new bid.” Parsons Precision Products,
+Inc., 92-2 CPD ¶ 431 (“A bid which is nonresponsive on its face may not be converted into a
+responsive bid by post opening bid clarifications or corrections.”).
+                                                -5-              Configuration, Inc., CAB No. P-0819
+
+
+
+
+        Accordingly, Configuration’s bid was properly determined nonresponsive and it lacks
+standing to raise its other challenges to the award. Even if we were to address the merits of
+Configuration’s challenges to the award to MOI, we would not sustain the protest grounds.
+Configuration failed to demonstrate that the award to MOI violated law, regulation, or the terms
+of the solicitation. The record adequately demonstrates that all bids were publically opened, that
+MOI’s bid was responsive, and that the Council approved the proposed award to MOI. To the
+extent that Configuration challenges the solicitation as being overly restrictive in designating
+Kimball furniture, that challenge is untimely.
+
+                                        CONCLUSION
+
+        For the reasons discussed above, we deny Configuration’s challenge of the contracting
+officer’s determination that its bid was nonresponsive, and we dismiss its other challenges to the
+award for lack of standing.
+
+       SO ORDERED.
+
+
+DATED: November 9, 2009                               /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

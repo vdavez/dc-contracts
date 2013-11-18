@@ -1,0 +1,303 @@
+                    DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+Commonwealth Service Operations, Inc.             )
+                                                  )        CAB No. P-0915
+Solicitation No. Doc61044                         )
+
+
+For the protester: David A. Damiani, Esq., Damiani & Damiani, P.C. For the District of Columbia
+Government: Talia Sassoon Cohen, Assistant Attorney General, Office of the Attorney General.
+
+Opinion by Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D. Loud, Sr.
+and Administrative Judge Monica C. Parchment concurring.
+
+                                                 OPINION
+                                            Filing ID # 47253613
+
+         On June 13, 2012, the Contract Appeals Board (“CAB” or “Board”) received the protest of
+Commonwealth Service Operations, Inc. (“protester” or “Commonwealth”) concerning Solicitation No.
+Doc61044. The filing consisted of a letter dated June 12, 2012, in which Commonwealth referenced a
+contract between itself and the District, identified as number DCGO-2011-B-0008, and registered the
+“protest of its termination as contractor under the Agreement.” (Protest 1.) Attached to the June 12th
+letter were a number of supplemental documents (“Supplemental Documents”). In its letter, protester
+alleges that on May 23, 2012, “a formal appeal” had been hand delivered at CAB’s former address at 717
+14th Street, N.W., Suite 430. (Id.) It also requests that the Board investigate “its termination as Contractor
+for the Agreement and the subsequent award of the school bus maintenance contract to third parties.”
+(Id.) The letter does not include any specific reference to Solicitation No. Doc61044. On July 2, 2012,
+the District filed a motion to dismiss due to the untimely filing of the protest. For the reasons discussed
+herein, the Board grants the District’s motion and dismisses the instant protest with prejudice.
+
+                                             BACKGROUND
+
+         On March 1, 2011, the District’s Office of Contracting and Procurement (“OCP”) awarded the
+protester Contract No. DCGO-2011-C-0008-E011 (“Contract”) on behalf of the Department of
+Transportation for the Office of the State Superintendent of Education. (District’s Mot. to Dismiss Exs.
+1, 2.) The Contract required protester to provide maintenance and repair of certain school buses within
+the District. (District’s Mot. to Dismiss 2.) It contained a one-year base period and four option year
+periods. (Id.) On January 3, 2012, the Program Manager for the Contract notified Ms. Gena Johnson, the
+Contracting Officer (“CO”), that the District would not exercise its option to renew the Contract. (Id.)
+On February 29, 2012, the Contract expired at the end of the base term without the District exercising its
+first option year period. (District’s Mot. to Dismiss 2; Ex. 1.)
+
+
+
+1
+ Solicitation DCGO-2011-B-0008 was issued on November 5, 2010, pursuant to which an award was made to the
+protester under Contract No. DCGO-2011-C-0008-E01.
+                                                                            Commonwealth Service Operations, Inc.
+                                                                                                CAB No. P-0915
+
+         Prior to the expiration of the Contract, on February 17, 2012, the District issued Solicitation No.
+Doc61044 (“Solicitation”) for school bus maintenance services. (District’s Mot. to Dismiss Exs. 1, 3.)
+The Solicitation contemplated that the District would award multiple contracts for five Award Groups.
+(See id.) The Solicitation provided notice to prospective bidders that bid protests were to be filed with
+CAB at 414 4th Street, N.W., Suite 350N. (District’s Mot. to Dismiss Ex. 9, at ¶ 4.) At the time of bid
+opening, on March 12, 2012, the protester was the lowest responsive bidder for Award Group 1.
+(District’s Mot. to Dismiss 3.)      However, on May 14, 2012, the CO e-mailed protester a “Notice of
+Determination of Non-Responsibility – Solicitation No. Doc61044” (“Non-Responsibility
+Determination”) which stated that the District determined protester to be non-responsible due to its poor
+past performance under the Contract. (District’s Mot. to Dismiss Exs. 4, 5.) Consequently, protester was
+deemed not eligible for award under the Solicitation. (Id.)
+
+        On May 23, 2012, protester alleges that it hand delivered “a formal appeal” at CAB’s former
+address, 717 14th Street, N.W., Suite 430. Protester states, “[p]ursuant to Section L.11 of DCGO-2011-B-
+0008 (the ‘Agreement’), please accept this letter as notice that Commonwealth Service Operations’
+protest of its termination as contractor under this Agreement.” (Protest 1.) However, despite having
+claimed that its letter was hand delivered to CAB, protester acknowledges being unaware of CAB’s
+changed location. (District’s Mot. to Dismiss Ex. 8.)
+
+         The CO, whose office is located at 2000 14th Street, N.W., confirms receipt of protester’s letter
+dated May 21, 2012, on or about May 23rd. (District’s Mot. to Dismiss Ex. 9, at ¶ 6.) Ms. Johnson is the
+CO for Solicitation Nos. DCGO-2011-B-0008 (under which Commonwealth performed the Contract) and
+Doc61044. (District’s Mot. to Dismiss Ex. 9, at ¶ 2.) She indicates that she “received a copy of a letter
+addressed to the Contract Appeals Board indicating that the bidder was filing a protest of its termination
+under the previous solicitation DCGO-2011-B-0008.” (District’s Mot. to Dismiss Ex. 9, at ¶ 6.) She also
+states that “[b]ecause the letter appeared to be a copy, I accepted it as such and assumed the original had
+been delivered to the Contract Appeals Board.” (Id.) It appears that the CO received only a copy of the
+May 21st letter, without any Supplemental Documents. Although the letter references the Contract
+between Commonwealth and the District, it does not include any reference to the Solicitation. (See
+Protest 1.)
+
+         On June 11, 2012, the CO received via email from Mr. Scott Bean, Commercial Fleet Manager,
+an inquiry on the status of protester’s letter which he indicated had been delivered to the CO’s office on
+May 23, 2012, and signed for by someone with the initials “BA.” (District’s Mot. to Dismiss Ex. 8.) The
+CO advised Mr. Bean that the letter should have been sent directly to CAB. (District’s Mot. to Dismiss
+Ex. 9, at ¶ 6.2) According to the CO, “[t]here is an Office of Contracting and Procurement employee
+with the initials of BA . . . located at 2000 14th Street, N.W., 3rd Floor.” (District’s Mot. to Dismiss Ex. 9,
+at ¶ 5.3) On June 13, 2012, CAB received and docketed the instant protest.4
+
+2
+  The Board notes the existence of a typographical error in the District’s motion to dismiss, Ex. 9, wherein paragraph
+numbers 5 and 6 are inadvertently repeated. In actuality, the correct numbering for this paragraph should have been
+paragraph 8.
+3
+  Due to the typographical error discussed in footnote 2, the correct numbering for this paragraph should have been
+paragraph 7.
+4
+  The filing with CAB consisted of a letter dated June 12, 2012, protesting the termination of the Contract along with
+the following Supplemental Documents: (i) a letter dated May 21, 2012, protesting Commonwealth’s termination as
+
+                                                         -2-
+                                                                           Commonwealth Service Operations, Inc.
+                                                                                               CAB No. P-0915
+
+
+         On June 19, 2012, the District filed a “Determination and Findings to Proceed with Contract
+Performance while a Protest is Pending” (“D&F”). On June 20, 2012, protester filed a response
+challenging the D&F.5 On July 2, 2012, the District filed a motion to dismiss alleging that the protest had
+been filed untimely. Protester filed its response to the District’s motion on July 6, 2012. (Commonwealth
+Serv. Operations, Inc.’s Opp’n & Req. to Deny District’s Mot. to Dismiss.)
+
+                                                 DISCUSSION
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C. Code §2-
+360.03(a)(1)(2011).
+
+        One of the threshold issues for this Board to examine prior to considering the merits of a protest
+is whether the protest has been filed timely in accordance with the statutory requirements and Board
+Rules. The statutory requirements pertaining to timeliness are codified in D.C. Code §§ 2-360.08(b)(1)-
+(2) and are similar to those contained in the Board Rules as set forth in D.C. Mun. Regs. tit. 27, §§
+302.2(a)-(b) (2002). The statute provides:
+
+              (b)(1) A protest based upon alleged improprieties in a solicitation which are
+                    apparent prior to bid opening or the time set for receipt of initial
+                    proposals shall be filed prior to bid opening or the time set for receipt
+                    of initial proposals.
+
+                (2) In cases other than those covered in paragraph (1) of this subsection,
+                    protests shall be filed not later than 10 business days after the basis of
+                    the protest is known or should have been known, whichever is earlier.
+
+              D.C. Code § 2-360.08.
+
+         On May 14, 2012, protester received a Non-Responsibility Determination which resulted in its
+ineligibility for award under the Solicitation. As a result of this adverse action, Commonwealth was
+required to file its protest by May 29, 2012, within ten business days after receipt of the District’s Non-
+Responsibility Determination. Failure by Commonwealth to file its protest by May 29th renders the Board
+without jurisdiction to adjudicate the merits of its claims.
+
+
+
+
+Contractor under the Agreement, addressed to CAB at its current address of 441 4th Street, N.W., Suite 350N
+(however, if this letter and accompanying documents had in fact been sent to CAB at its current address on or about
+that date, upon its receipt, the Board would have immediately accepted the filing and docketed the protest in
+accordance with Board Rule 303.1(a)); (ii) an undated 4-page letter also contesting the purported termination of the
+Contract; (iii) a copy of the envelope addressed to CAB which had been signed for by an individual with the initials
+“BA”; (iv) the Non-Responsibility Determination notice letter; (v) the Contractor Performance Evaluation Form
+4001; and (vi) a copy of the envelope containing the protest sent to CAB via certified return receipt dated June 12,
+2012.
+5
+  This Order renders moot the D&F and protester’s challenge thereto.
+
+                                                        -3-
+                                                                             Commonwealth Service Operations, Inc.
+                                                                                                 CAB No. P-0915
+
+         In its filing with the Board dated June 12, 2012, protester alleges that on May 23, 2012, it hand
+delivered its May 21st letter at CAB’s former address, 717 14th Street, N.W.6 Protester also alleges that an
+individual with the initials “BA” signed for receipt of the letter which was addressed to CAB. The CO
+confirms receipt of the letter on or about May 23rd; however, she indicates that because the letter appeared
+to be a copy, she assumed that the original had been delivered to CAB.7
+
+         The District alleges that the protest is untimely because it was filed with the Board on June 13,
+2012, well after the applicable May 29th deadline. Consistent with the relevant statutory and regulatory
+provisions on time limitations when filing a protest, this Board has routinely held that a protest must be
+filed within 10 business days after the basis of the protest is known or should have been known. See,
+Clothes Barn, CAB No. P-0121, 38 D.C. Reg. 2980 (Oct. 3, 1989); Sigal Constr. Corp., CAB No. P-
+0690, et al., 52 D.C. Reg. 4243 (Nov. 24, 2004); Prof’l Recruiters, Inc. CAB No. P-0700, 52 D.C. Reg.
+4258 (Dec. 21, 2004); Our Future, Inc., CAB No. P-0860, 2011 WL 7402960 (Jan. 20, 2011). Therefore,
+at issue is whether protester’s earlier May 21st letter which ostensibly was delivered at 2000 14th Street,
+N.W., on May 23, 2012, constitutes a protest of the Solicitation.
+
+         Protester has argued that its May 21st letter which was addressed to (but not delivered at) CAB
+and signed for by an individual with the initials “BA” on May 23, 2012, should serve to meet the protest’s
+filing requirements. In that vein, protester cites Fort Myer Construction Corp., CAB No. P-0452, 44 D.C.
+Reg. 6476 (July 23, 1996), to support its contention that the CO’s receipt of a copy of the May 21st letter
+should constitute notice of the protest. However, the facts in Fort Myer are readily distinguishable from
+the facts in the present case. In Fort Myer, the protester “submitted a 5-page letter addressed to DPW’s
+contracting officer, entitled ‘PROTEST’ . . . DPW’s contracting officer acknowledged receipt of the . . .
+protest letter and advised Fort Myer that ‘[a]ll protests are to be filed with the District of Columbia
+Contract Appeals Board.’” Id. at 6477. When Fort Myer later refiled the identical protest with the Board,
+the District then filed a motion to dismiss the protest as untimely. The Board held that “[t]reating an
+otherwise proper protest directed to the contracting officer within the 10-working-day statutory period as
+functionally equivalent to filing with the Board, and resolving the protest on its merits, promotes fair and
+equitable treatment of all participants while safeguarding and maintaining a procurement system of
+quality and integrity.” Id. at 6479. Critical to the Board’s analysis and holding was that “Fort Myer’s
+letter was unambiguously a protest from the standpoint of form and content.” Id. at 6481.
+
+        By contrast, protester’s May 21st letter was clearly not an unambiguous protest. The letter stated
+that it was providing notice of Commonwealth’s protest of its termination as contractor under the
+Agreement.8 It was also delivered at 2000 14th Street, N.W., despite the Solicitation’s specific instruction
+
+
+
+6
+  Protester’s claim that it hand delivered the May 21st letter to CAB on May 23, 2012, strains credulity since CAB
+relocated from 717 14th Street, NW., Suite 410 in September 2010, and, therefore, any attempt at hand delivery at
+CAB’s former address would have been unsuccessful.
+7
+  In an e-mail to the CO dated June 11, 2012, protester appears to contradict its own account of where the May 21st
+letter had been submitted. In that instance, protester’s Commercial Fleet Manager stated that the letter was delivered
+at the CO’s office [located at 2000 14th Street, N.W.] and that they were told that the letter would be forwarded to
+CAB. (District’s Mot. to Dismiss Ex. 8.)
+8
+  To the extent that Commonwealth seeks to appeal the CO’s decision to not exercise the option under the Contract,
+pursuant to Board Rule 200.1, CAB’s jurisdiction to hear the appeal and issue a decision on the merits can only
+
+                                                         -4-
+                                                                           Commonwealth Service Operations, Inc.
+                                                                                               CAB No. P-0915
+
+that bid protests were to be filed with CAB at 441 4th Street, N.W., Suite 350N. The letter was not
+addressed to the CO and it did not contain any reference to the present Solicitation or any language
+signaling a challenge to the Non-Responsibility Determination. Therefore, upon receiving a copy of the
+May 21st letter, the CO was justifiably unaware that Commonwealth intended to protest the Solicitation.
+Indeed, it was logical for the CO to assume that she was merely in possession of a copy of a contractor’s
+appeal letter which had been sent to CAB. See, e.g., Respiratory Therapy Specialists of America, Inc.,
+CAB No. P-0662, 50 D.C. Reg. 7472 (Dec. 6, 2002) (an untimely Board protest is not made timely where
+the letters relied upon by the protester as functionally equivalent to a protest are ambiguous); see also
+Mont “T” Que Inc., CAB No. P-0911, 2012 WL 4753875 (Aug. 29, 2012) (protester’s failure to provide a
+clear and concise statement of the legal and factual protest grounds resulted in dismissal of the protest).
+Protester’s May 21st letter did not meet the standards set forth in Board Rule 301.1 which details the
+requirements for form and content of a protest:
+
+                 All protests shall be in writing, addressed to the Board, and shall include
+                 the following:
+
+                          (a) the name, address, and telephone and facsimile numbers of
+                              the protester;
+                          (b) the identity of the contracting agency, the number and date
+                              of the solicitation, . . . ;
+                          (c) a clear and concise statement of the legal and factual
+                              grounds of the protest, including copies of relevant
+                              documents, and citations to statutes, regulations, or
+                              solicitation provisions claimed to be violated;
+                          (d) information establishing the timeliness of the protest . . . ;
+                          (e) information establishing that the protester is an aggrieved
+                              person for the purpose of filing the protest . . . ; and
+                          (f) the relief sought by the protester.
+
+                 Board Rule 301.1. (emphasis added)
+
+        The chronology of events in the present protest makes clear that the District did not receive
+timely notice due to the May 21st letter’s deficiency in form and content and Commonwealth’s delivery of
+it to a location other than the offices of the CAB. Indeed, if the Board were to recognize
+Commonwealth’s misdelivered and ambiguous May 21st letter as a protest, it would serve to undermine
+the administration of justice by depriving the District of timely and proper notice. As such, we find that
+protester’s letter which was forwarded to the CO on or about May 23, 2012, did not constitute timely
+submission of a protest to the Solicitation. As a result, Commonwealth did not file a protest of sufficient
+form and content until June 13, 2012, when CAB received and docketed the instant untimely protest.
+
+                                                CONCLUSION
+
+
+occur following contractor’s request to the CO for a final decision. Contractor may then file an appeal of the CO’s
+decision with the Board following receipt of a final decision or if there is a deemed denial of contractor’s claims.
+
+                                                        -5-
+                                                                     Commonwealth Service Operations, Inc.
+                                                                                         CAB No. P-0915
+
+         For the reasons set forth herein, the Board finds that the protester failed to file a protest, in
+sufficient form and content, within 10 business days as required by D.C. Code § 2-360.08 (b)(2) (2011).
+The District’s motion is sustained and the Board dismisses the present protest with prejudice.
+
+        SO ORDERED:
+
+DATED: October 23, 2012                                                  /s/ Maxine E. McBean
+                                                                         MAXINE E. MCBEAN
+                                                                         Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+/s/ Monica C. Parchment
+MONICA C. PARCHMENT
+Administrative Judge
+
+
+Electronic Service:
+
+David Damiani, Esq.
+Damiani & Damiani, P.C.
+604 Cameron Street
+Alexandria, VA 22314
+
+Talia Cohen, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+
+
+
+
+                                                   -6-
+

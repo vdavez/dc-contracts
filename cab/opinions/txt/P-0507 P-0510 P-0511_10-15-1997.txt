@@ -1,0 +1,1897 @@
+                         •           -,
+                                      J
+
+
+
+
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+                                                                  •                      [7368]
+
+
+
+
+PROTESTS OF:
+
+       HEALTH RIGHT, INC.,                                  )
+       D.C. HEALTH COOPERATIVE, INC., and                   )
+       THE GEORGE WASHINGTON                                ) CAB Nos. P-507, 510, and 511
+         UNIVERSITY HEALTH PLAN                             )       (Consolidated)
+                                                            )
+       Under Solicitation No. 7010-AA-NS-2-CR               )
+
+        For the Protester Health Right, Inc.: Edward T. Waters, Esq., and Kathy S. Ghiladi,
+Esq., Feldesman, Tucker, Leifer, Fidell & Bank. For the Protester D.C. Health Cooperative,
+Inc.: Laurence Schor, Esq., and Brian T. Scher, Esq., McManus, Schor, Asmar & Darden. For
+the Protester The George Washington University Health Plan: Keith J. Harrison, Esq., and
+Jeffrey L. Poston, Esq., King, Pagano & Harrison. For the Intervenor D.C. Chartered Health
+Plan, Inc.: Charles R. Work, Esq., and Donald J. Kissinger, Jr., Esq. For the Intervenor
+American Preferred Provider Plan, D.C., Inc.: Thomas C. Papson, Esq., and Patrick K.
+O'Keefe, Esq., McKenna & Cuneo. For the Intervenor Capital Community Health Plan: Thomas
+C. Wheeler, Esq., and David P. Handler, Esq., Piper & Marbury. For the Intervenor Prudential
+Health Care Plan, Inc.: Michelle T. Waldman, Esq. For th~ District of Columbia: Warren J.
+Nash, Esq., and Howard Schwartz, Esq., Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Jonathan D. Zischkau, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Phyllis W. Jackson, concurring.
+
+
+                                           OPINION
+
+        Health Right, Inc., rued a protest challenging the proposed award of contracts to four of
+seven offerors under a solicitation to provide health care services to the Aid to Families with
+Dependent Children (" AFDC") and AFDC-related popUlation through the District of Columbia
+medical assistance (Medicaid) program. Two of the other offerors, D.C. Health Cooperative
+("DCHCj and The George Washington University Health Plan ("GW Health Plan") subsequently
+filed protests raising additional protest grounds. As supplemented, the protesters' claims may be
+categorized as follows: (1) the contracting agency improperly conducted the evaluation and
+selection when it used the procurement regulations found at 27 DCMR Chapter 19 (regulations
+governing Brooks Act-type procurements) rather than the procedures for competitive sealed
+proposals found at 27 DCMR Chapter 16; (2) the selection was flawed because it was based on
+an arbitrary and irrational technical evaluation and (a) evaluators employed unannounced
+evaluation criteria or subcriteria or otherwise departed from the evaluation criteria announced in
+the solicitation, (b) the evaluators relied on information learned outside the proposal review
+process, (c) the evaluators improperly established a baseline of zero for the assignment of point
+scores because all offerors met the solicitation's minimum requirements and improperly awarded
+                          •                      - 2-
+                                                                      •                        [7369]
+
+                                                           Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+"bonus points" to proposals that exceeded the minimum requirements, (d) the evaluators unfairly
+treated the protesters' proposals by giving higher evaluation scores to the four selected firms and
+lower evaluation scores to the protesters without objective basis, and (e) the evaluation scheme
+as applied gave disproportionate weight to non-price evaluation factors since two of the protesters
+had significantly lower prices than the four selected offerors; (3) the agency failed to conduct
+meaningful discussions; (4) a remedial order issued by the United States District Court in Salazar
+v. District of Columbia substantially changed the terms of the solicitation after initial proposals
+had been submitted and evaluated but the agency failed to issue an amendment requesting new
+proposals; (5) the agency failed to incorporate a legally-binding stipulation when it refused to give
+Health Right's parent corporation a direct contract to provide services as a federally qualified
+health center; (6) DCHC was entitled to receive preference points for purposes of evaluation
+pursuant to the District's Equal Opportunity for Local, Small, and Disadvantaged Business
+Enterprises Act; m   the Mayor, in referring the proposed contracts to the Council of the District
+of Columbia and urging their approval, and certain members of the Council, in voting to approve
+the proposed contracts, violated federal code of conduct requirements set forth at 45 C.F .R. §
+74.42 by receiving campaign contributions from two of the successful offerors; (8) the
+procurement violates D.C. Code § 1-359; and (9) the contracts awarded to the intervenors fail to
+include required clauses.
+
+        We conclude that the District violated procurement requirements in conducting the
+evaluation of proposals and in the selection of offerors. From the record presented to us, we
+conclude that the evaluations failed to meet the standards of reasonableness and rationality
+required by law. Presented with woefully inadequate documentation of the scope, content, and
+consensus results of the evaluation by the technical evaluation board ("TEB"), and the lack of
+meaningful discussions with the offerors, the contracting officer conducted no independent
+evaluation of the offerors, made no meaningful review of the TEB's actions, and made no record
+supporting the evaluation of any offeror much less a comparative evaluation of all the offerors.
+Therefore, the contracting officer improperly adopted the TEB's rankings and her selection
+decision cannot be sustained. Other protest ..grounds are either untimely, invalid grounds for
+protest, or not sustainable on the merits.
+
+         The protests, as supplemented, are sustained in part, dismissed in part, and denied in part.
+Because the Board has sustained the Director's determination to proceed with award and
+performance to the four intervenors, and based on the circumstances attending to this important
+procurement, sending the matter back to the contracting agency to conduct meaningful discussions,
+receive best and final offers, and conduct a proper re-evaluation is neither possible nor in the bests
+interests of the District. Therefore, the Board directs the contracting officer to negotiate contracts
+with DCHC, GW Health Plan, and Health Right under terms consistent with the contracts awarded
+to the intervenors including the modifications required by the Salazar Amended Remedial ~rder.
+Because the contracting officer never performed a valid evaluation and the TEB' s technical
+evaluation, to the extent that it can be discerned, was seriously flawed and essentially
+undocumented, it is not clear which firms the contracting officer would rank first and second
+based on technical and price under a new evaluation. Therefore, the District shall modify the
+                          •                     -3-
+                                                                     •                         [7370]
+
+                                                          Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+contracts recently awarded to D.C. Chartered Health Plan and Capital Community Health Plan
+by eliminating the provision which provides two-thirds of the "default" or automatic assignments
+to D.C. Chartered and one-third of the automatic assignments to Capital Community. The District
+shall divide automatic assignments proportionally among all the managed care contractors, subject
+inter alia to the District's right under Article l.G.2.d of the contract to adjust the rate of
+automatic assignments if a contractor fails to comply with the terms of its contract.
+
+
+                                         BACKGROUND
+
+        On October 21, 1996, a contracting officer with the Department of Administrative Services
+("DAS"), issued Solicitation No. 7010-AA-NS-2-CR requesting proposals, including completed
+Qualification Data Forms ("QDFs"), from qualified Managed Care Organizations ("MCOs") to
+provide managed health care services to the Aid to Families with Dependent Children (" AFDC")
+and AFDC-related population through the District of Columbia medical assistance (Medicaid)
+program. (Agency Report (" A.R.") Ex. 1). The cover letter accompanying the solicitation
+announced that the District was seeking at least four contractors to provide managed health care
+services to Medicaid recipients in the District of Columbia. The cover letter also stated that these
+services were being procured pursuant to the District's medical and human care services
+regulations found at 27 DCMR §§ 1905 to 1912; that an evaluation board would review the QDFs
+and responses to the solicitation, evaluate the firms, hold discussions with at least four of the most
+qualified firms and prepare a selection report for the contracting officer listing in order of
+preference the four firms most highly qualified to perform the work; and that the contracting
+officer would attempt to negotiate a satisfactory contract with the four most highly qualified firms.
+
+        In CorVel Corp., CAB Nos. 482, 490, Aug. 22, 1997, 8 P.D. 7351, we recently reviewed
+the District's procurement regulations governing medical and human care services which are based
+on the federal Brooks Act procedures for architectural and engineering services procurements.
+The traditional approach under the Brooks Actas well as the District's regulations at 27 DCMR
+Chapter 19 is for an evaluation board to rank firms submitting QDFs based only on their technical
+qualifications, followed by the contracting officer's selection of the most highly qualified firm,
+a request for a proposal from that firm, followed by negotiations with the firm to achieve a fair
+and reasonable price. If the contracting officer is unable to obtain a fair and reasonable price from
+the most highly qualified firm, then the contracting officer terminates negotiations and commences
+negotiations with the second most qualified firm, and so on, until agreement is reached. See id.
+at 7352; 27 DCMR §§ 1905-1907, 1911.
+
+        DAS acted as the contracting agency for the Commission on Health Care Finance
+("CHCF") which was initially part of the Department of Human Services ("DHS") but later b&ame
+part of the Department of Health. (Solicitation Section C.l.l; Moorman Dep. 19). CHCF is the
+agency responsible for administering the District's Medicaid program. During the procurement,
+DHS had provider agreements with six MCOs and with 270 primary care physicians (PCPs) to
+serve the health care needs of recipients in the District's Medicaid Managed Care Program
+
+
+                                                                                               /051
+                         •                     -4-
+                                                                    •                        [7371]
+
+                                                         Health Righl, et al., CAB Nos. P-507, 510, 511
+
+
+("MMCP"). (Solicitation Section C.2.I). Under the new program which is the subject of the
+solicitation, recipients currently assigned to a fee-for-service provider will be required to choose
+from among the selected MCOs. Recipients currently enrolled with an MCO that is not selected
+also will be required to choose from among the selected MCOs. (C.2.2.2). Recipients who do
+not choose an MCO will be assigned by default (automatic assignment) to an MCO by the CHCF.
+(C.2.3, Amendment No.5).
+
+        Under the solicitation, as amended: (1) MCOs must provide to recipients necessary health,
+maintenance, preventive, and treatment services through a network of physicians, hospitals, and
+ancillary providers (C.4.2); (2) MCOs are prohibited from soliciting Medicaid recipients (C.5.2);
+(3) the CHCF will transition from the existing program to the new program during a period of six
+months (C.6.2); (4) MCOs are required to allow enrollees to choose among its participating PCPs
+(C.6.6); (5) PCPs are not permitted to care for more than 2000 recipients (C.6.9); (6) MCOs must
+provide education and outreach to recipients (C.7); (7) MCOs must establish and maintain a
+quality assurance program to monitor the quality, appropriateness, and timeliness of services
+performed (C.S); (S) MCOs must submit performance measuring and encounter data to the CHCF
+(C.9); (9) MCOs must submit financial data to the CHCF (C. 10); (10) escrow requirements to be
+maintained by the MCOs are established (C. 11); (11) accessibility requirements for providing
+services to members is established (C.I6); (12) MCOs must assure that each child recipient
+receives Well ChildlEPSDT (Early Periodic Screening, Diagnostic, and Testing) services required
+by the District's Well Child Program and provide coordination of services 'required by federal
+EPSDT guidelines (C. 16.4, C.I6.5, C.26); (13) MCOs must provide recipients access to federally
+qualified health center ("FQHC") services (C. 19); (14) MCOs must ensure that recipients have
+access to pharmacy, hospital, and emergency services (C.23-C.25); and (15) CHCF will pay each
+MCO a prospective monthly capitation rate, as negotiated, for each member enrolled with the
+MCO (C. 13).
+
+       Section M of the solicitation as initially issued, addressing the factors to be used in
+evaluating proposals, stated. that evaluation would be made in accordance with 27 DCMR §
+1905.5. Section 1905.5 provides:
+
+       The contracting officer shall evaluate each potential contractor based on the
+       following criteria:
+
+       (a)     Professional qualifications necessary for satisfactory performance of the
+               required services;
+
+       (b)     Specialized experience and technical competence in the type of work
+               required;                                                           ..
+
+       (c)     Capacity to accomplish the work in the required time;
+
+       (d)     Past performance on contracts with the District, other governmental
+                         •                     -5-                •                         [7372]
+
+                                                        Health Righi, et al., CAB Nos. P-507, 510, 511
+
+
+              entities, and private industry in terms of cost control, quality of work, and
+              compliance with performance schedules; and
+
+       (e)     Acceptability under other appropriate evaluation criteria.
+
+Section M in the original solicitation tracked the language of section 1905.5, identifying the
+following technical criteria with accompanying maximum points for each:
+
+       •      Professional qualifications necessary for satisfactory performance of the
+              required services (5 points);
+       •      Specialized experience and technical competence in the type of work required (40
+              points);
+       •      Capacity to accomplish the work specified in the Statement of Work (25 points);
+       •      Past performance on contracts with District, other governmental entities and private
+              industry in terms of cost control, quality of work and compliance with performance
+              schedules (10 points); and
+       •      Financial Stability (15 points).
+
+In Section M.2.2, more information is provided concerning the evaluation under each criterion.
+We quote the language in full later in this opinion during our analysis of the evaluation of
+proposals. Section M also provided for the award of preference points to qualifying firms (Local
+Business-5 points, Disadvantaged Business--5 points, Business located in an Enterprise Zone--2
+points).
+
+      On November 5, 1996, Health Right filed a pre-submission protest alleging solicitation
+improprieties including the following:
+
+       (1)     The solicitation violated the Medicaid/Medicare Anti-Kickback Act (42
+       U.S.C. § 1320a-7b!b) by inducing pro.posed contractors to offer remuneration to
+       the District and D.C. General Hospital under Section C.2.2.4.2. of the solicitation
+       in return for one-third of the default patients;
+
+       (2)    The solicitation violated 31 U.S.C. § 1301(a) by requiring a prospective
+       contractor to make an "up-front" financial investment in the physical plant of D.C.
+       General Hospital, over and above the amount of federal funds appropriated by
+       Congress for D.C. General Hospital;
+
+       (3)    The solicitation violated 45 C.F.R. Part 74, which requires that price must
+       be a factor in awarding contracts funded by grants subject to 45 C.F.R. Part 74; ..
+       and
+
+       (4)    The solicitation adversely affected a Medicaid recipient's ability to receive
+       services from federally qualified health centers, thereby violating the Social
+                          •                     -6-                  •                         [7373]
+
+                                                          Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+        Security Act (which governs the Medicaid program).
+
+        The District resolved the first two protest grounds by issuing solicitation Amendment No.
+5 on November 26, 1996, which removed the challenged terms. Regarding the third protest
+allegation, the District responded that the solicitation complied with the Medical and Human Care
+Services procurement procedures set forth in 27 DCMR Chapter 19 and that those procedures
+complied with the federal requirements set forth in 45 C.F.R. Part 74. The parties to the protest
+and the Board agreed to refer the issue to the U.S. Department of Health and Human Services
+("HHS") for an interpretation of their regulations. See Board Order dated December 9, 1996.
+On January 6, 1997, HHS responded to the referral concerning the propriety of conducting a
+Chapter 19 Brooks Act-type procurement where price is not a competitive evaluation factor.
+Based on its interpretation of 45 C.F.R. Part 74 and other federal regulations, HHS advised the
+District that price was required to be a factor in the competitive selection and that a process under
+which price is considered only after the competitive selection decision is inconsistent with that
+requirement. The HHS opinion provides in pertinent part:
+
+       We conclude that the District's procedures are inconsistent with 45 C.F.R. section
+       74.43 because we read that provision to require that price be among the factors to
+       be considered by federal grantees when determining the group of offerors with
+       whom the grantee will negotiate. The two-tiered approach undertaken by the
+       District allows for consideration of price only after that group has been determined.
+       Section 74.43 contains no suggestion that price should be regarded as categorically
+       less important than quality or other factors, which is an automatic consequence of
+       addressing price only after a tentative selection has been made based on other
+       factors . . . . [W]e do not believe it is reasonable to interpret 45 C.F.R. section
+       74.43 to permit a practice which allow grantees to categorically regard price as less
+       important than other factors where (with very limited exceptions) the FAR
+       specifically prohibits the Federal Government itself from doing so. We know of
+       no reason why the. Gonservation of federal funds should be any less important
+       simply because the funds in question will be expended by a grantee, and not the
+       Government itself.
+
+(A.R. Ex. 13, attachment). In a protest conference held on January 9, 1997, memorialized in a
+Board order dated January 13, 1997, the District informed the Board of HHS's opinion letter and
+of the District's intent to issue another amendment which would revise the solicitation "to provide
+for a one-step procurement and price as a competitive evaluation factor." (A.R. Ex. 14). On
+January 10, 1997, the contracting officer issued Amendment 10, adding inter alia a new Section
+C.42 to the solicitation, stating:
+                                                                                                'II
+
+
+       C.42.1         The District Government may award a contract resulting from this
+                      solicitation to the responsible offerors whose offer conforming to
+                      the solicitation will be most advantageous to the District
+                      Government, in terms of price, technical and other factors specified
+                           •                      -7-                 •                        [7374]
+
+                                                           Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+                         elsewhere in this solicitation.
+
+        C.42.2          The District Government may award a contract on the basis of
+                        initial offers received, without discussion. Therefore, each initial
+                        offer should contain the offeror's best terms from a standpoint of
+                        price, technical and other factors.
+
+Amendment 10 also added a 25-point price evaluation factor, while reducing the "Capacity to
+Accomplish the Work" and the "Specialized Experience and Technical Competence" criteria by
+10 points each and the "Financial Stability" criterion by 5 points. Thus, in its final amended form,
+the solicitation provided the following evaluation criteria with the indicated maximum points for
+each:
+
+        •        Professional qualifications necessary for satisfactory performance of the
+                 required services (5 points);
+        •        Specialized experience and technical competence in the type of work required (35
+                 points);
+        •        Capacity to accomplish the work specified in the Statement of Work (15 points);
+        •        Past performance on contracts with District, other governmental entities and private
+                 industry in terms of cost control, quality of work and compliance with performance
+                 schedules (10 points);
+       •         Financial Stability (10 points); and
+       •         Price (25 points).
+
+       Amendment Nos. 8 and 9 to the solicitation had been issued earlier in January 1997 to
+address other protest grounds raised by Health Right and DCHC, which also fIled a protest
+challenging the solicitation. The closing date for proposals was January 21, 1997.
+
+       On January 21, 1997, .DAS received seven timely responses to the solicitation. They were
+from the following firms:
+
+       1.      D.C. Health Cooperative (A.R. Ex. 2)
+       2.      GW Health Plan (A.R. Ex. 3)
+       3.      Capital Community Health Plan ("Capital Community") (A.R. Ex. 4)
+       4.      Health Right (A.R. Ex. 5)
+       5.      D.C. Chartered Health Plan ("D.C. Chartered") (A.R. Ex. 6)
+       6.      American Preferred Provider Plan, D.C., Inc. ("American Preferred") (A.R.
+               Ex. 7)
+       7.      Prudential Health Care Plan, Inc. ("Prudential") (A.R. Ex. 8)                     .
+        Also on January 21, 1997, the United States District Court for the District of Columbia
+issued a remedial order in Salazar v. District of Columbia. Pursuant to the Salazar remedial
+order, the District had to ensure that, beginning no later than November 1, 1997, District children
+
+
+                                                                                                     /fJ55
+                          •                      -8-                 •                          [7475]
+
+
+                                                           Health Righl, et al., CAB Nos. P-507, 510, 511
+
+
+eligible for Medicaid would be contacted for EPSDT services, including EPSDT screens,
+laboratory tests, immunizations, follow-up treatment and other services. During the negotiations
+that resulted in the Medicaid managed care contracts recently awarded to the intervenors, the
+contractors were required to agree to the additional requirements, particularly those relating to
+EPSDT services, mandated by the Salazar court in its remedial order as amended on May 5, 1997.
+(A.R. Ex. 30).
+
+       On January 24, 1997, the consolidated solicitation protests of Health Right and DCHC
+were voluntarily dismissed. (A.R. Ex. 15).
+
+        By memorandum dated January 30, 1997, Mr. Dallas Evans, the DAS Director, appointed
+a five-member technical evaluation board ("TEB") to evaluate proposals submitted by the seven
+offerors. (A.R. Ex. 16). They were: Mr. Ron Lewis, Deputy Commissioner of Health Care
+Finance, who was appointed as chairman of the TEB; Mr. Dan Manyindo, Special Assistant,
+Office of the City Administrator; Ms. Jane Thompson, Chief, Managed Care Section, CHCF;
+Terri Thompson, Esq., Acting Deputy, DHS's Office of General Counsel; and Mr. Edward
+Williams, Program Analyst, Income Maintenance Administration, DHS. (A.R. at 21-22). Copies
+of the offerors' technical proposals were distributed to the TEB. The contracting officer retained
+the offerors' price proposals.
+
+        On February 7, 1997, the TEB chairman, Mr. Lewis, and the contracting officer, who was
+the source selection authority, conducted an orientation session for the TEB members. At the
+orientation, the contracting officer stressed that in scoring the proposals the evaluators had to "give
+a narrative to discuss or justify why they gave the points that they gave." (Moorman Dep. 74).
+By memorandum dated February 10, 1997, Mr. Lewis distributed a schedule for the evaluation
+of the offerors' proposals to the members of the TEB. (A.R. Ex. 18). The TEB met a number
+of times during February 1997. Ms. Jane Thompson initially prepared a two-page chart, entitled
+"Technical Evaluation Review," to summarize the evaluation criteria and the maximum points for
+each, because the solici@qon and the mans amendments "were so confusing to follow."
+(Thompson Dep. 103-04, 109; Thompson Dep. Ex. 5, at 2-3). After discussions with Mr. Lewis,
+Ms. Thompson prepared a 13-page chart (Thompson Dep. Ex. 5, at 4-16) to "give more
+clarification about each of the different [evaluation] areas" and to help the TEB members in
+evaluating and scoring proposals. (Thompson Dep. 104). The 13-page chart was a "work-in-
+progress" during the early TEB meetings, as the TEB members reviewed the solicitation and
+discussed what the solicitation evaluation criteria meant. (Id. at 106). The TEB did not use the
+13-page chart subsequently because, according to Ms. Thompson, the TEB felt it was not fair to
+subcategorize the evaluation criteria (with their own point system) as the chart did since this
+information was not identified in the solicitation. (Id. at 109-11).
+                                                                                                 'II
+
+
+        In the TEB meetings both before and after the members read the proposals, the members
+discussed how they were going to evaluate the proposals. (Id. at 113). Ms. Jane Thompson did
+not take any notes of those meetings and does not recall whether other TEB members took notes.
+(Id. at 107-08). If any notes were taken, they no longer exist.
+                        •                      -9-                 •                         [7376]
+
+                                                         Health Righi, et al., CAB Nos. P-507, 510, 511
+
+
+        Because of questions with regard to the proposals, the TEB decided it was not going to
+score the proposals until after the TEB had an opportunity to discuss the proposals with the
+offerors. (Moonnan Dep. 101). Mr. Lewis contacted the contracting officer and asked if it was
+pennissible for the TEB to meet with offerors to discuss some areas of concern in the offerors'
+proposals. The contracting officer said that it was permissible so long as discussions were
+conducted with all offerors. (Id. at 100-02). Between March 3 and March 10, 1997, some TEB
+members conducted discussions with representatives of all offerors. During the discussions,
+offerors made presentations, TEB members asked questions and follow-up questions, and the
+discussions were a "give-and-take" exchange. (See, e.g., id. at 157). During DCHC's
+discussions, the TEB requested information from DCHC regarding the incentives it would provide
+for certain services if it was awarded a contract and the percentage of commercial enrollment.
+The TEB expressed doubts about the capacity of DCHC's computer hardware to handle an
+unstated volume of Medicaid enrollment. DCHC responded that its software vendor assured
+DCHC that the hardware was more than adequate to handle the expected number of enrollees and
+could be expanded if required. (DCHC Protest, Ex. 5). The computer hardware capacity was
+the only perceived weakness raised by the TEB during its discussions with DCHC. During Health
+Right's discussions, the TEB asked about matters such as information systems, financing, and case
+management. The TEB did not ask about Health Right's quality assurance plan or past
+performance on contracts. (protesters' Joint Response, Ex. 9). During discussions with
+representatives of GW Health Plan, the TEB did not express any concerns about staffing turnover,
+a proposed sale of the GW Hospital, or the GW Health Plan's fmancial stability. (Protesters'
+Joint Response, Ex. 2; Thompson Dep. 174-75). In fact, although the attending TEB members
+had concerns, uncertainties, and reservations with the various proposals, they did not discuss them
+during the sessions with the offerors' representatives, with the exception of the capacity of
+DCHC's computer hardware. (E.g., Thompson Dep. 175). Not all TEB members attended all
+sessions. Although members took notes at the sessions, their notes no longer exist. (See id. at
+157). The contracting officer never received any information concerning the discussions that were
+held with the offerors in March 1997. (Moorman Dep. 80-81, 99-100). No revised proposals
+or BAFOs were solicited aft~r the discussions ....
+
+         After the early March discussions, the TEB met a couple of times and "got comfortable"
+on how they were going to award points. (Thompson Dep. 158). By this time, they had agreed
+that all seven offerors had submitted technically competent and qualified proposals and met the
+solicitation's minimum requirements. (A.R. Ex. 33).
+
+        Using Ms. Thompson's disk containing the previously-rejected 13-page chart, Mr. Lewis
+had generated a 3-page document entitled "Medicaid Managed Care Evaluation Board Scoring
+Sheet" to replace the earlier 13-page chart. (Thompson Dep. 118; A.R. Ex. 26, at 4-6). The
+table format of the 13-page chart and Ms. Thompson's point system for subcategories"were
+deleted. The text from the 13-page chart under the professional qualifications criterion was
+carried over essentially intact to the 3-page chart. For the specialized experience and technical
+competence criterion, the text of page 2 of the 13-page chart was included but all of the
+subcategory text was deleted. For the capacity to accomplish the work criterion, most of the text
+                         •                     - 10 -               •                         [7377]
+
+                                                          Health Right, et aI., CAB Nos. P-507, 510, 511
+
+
+remained unchanged. The text for the past performance and financial stability criteria were
+essentially the same. Ms. Thompson had also created a one-page score sheet form, entitled
+"Managed Care Proposal Evaluation" listing the five non-price criteria and containing a column
+for comments, one showing the maximum points allocated to each criterion, and a column for the
+score. That form was eventually used by the TEB members to score the proposals.
+
+        Each TEB member was given the 3-page document as a guide explaining how each of the
+evaluation criteria should be evaluated and scored. On the version of the 3-page document that
+appears in the record, there are two "assumptions" listed at the beginning of the document. The
+first assumption reads: liThe Evaluation Board is reviewing organizations that meet minimum
+criteria for all categories; consequently, minimum qualifications for each category is a baseline
+score of zero." (A.R. Ex. 26, at 4). Ms. Thompson explained the baselining approach this way:
+
+        And we, after much discussion with all five committee members, we decided that
+        the best way to properly reflect the differences among the plans was to give points.
+        I emphasize "give" because other methods you could say would take the 75 points
+        as a given for everybody and start subtracting from there.
+
+        But the nature of this scope of work and the solicitation in general didn t work very
+                                                                                 I
+
+
+        well for that, giving everybody 75 and start taking away. We found, after much
+        discussion, it really worked better for us to give points where we believe firms had
+        a better plan to achieve the goals of the program to improve care for all of its
+        members.
+
+(Thompson Dep. 119). The baselining assumption consumed hours of the TEB's discussion.
+(See also id. at 120-21, 144).1
+
+        The other assumption on the 3-page guidance document read: "The network of DCGH
+[D.C. General Hospital] is - eliminated
+                              -
+                                         from all
+                                               - plans for capacity determination, since all plans
+will offer a contract to D.C. General. n
+
+       Later in March, Mr. Lewis tried to schedule a series of TEB meetings to score the
+proposals but had difficulties due to some of the members' schedules. (Thompson Dep. 158).
+Eventually, two meetings were held (March 21 and March 28, according to the dates found on
+most of the score sheets) at which scoring was done by most of the members. Each member
+individually filled out his or her own score sheet for one offeror, turned it into Mr. Lewis, and
+
+
+                                                                                                .
+1 Although the contracting officer on a number of occasions during the course of her deposition
+characterized the baselining assumption as meaning that all the offerors "could have been a
+managed care organization contractor" (e.g., id. at 70), the record demonstrates that the baselining
+assumption meant that each offeror's proposal met all solicitation requirements and that each
+offeror had submitted a technically competent and qualified proposal.
+                        •                       - 11 -                 •                         [7378]
+
+                                                             Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+then began the scoring of the next offeror. (Id. at 159-60). Members completed their score sheets
+at different rates which explains why some are dated March 21 while others are dated March 28.
+(Id.). One member's score sheets all bear the date of March 31, except one sheet which is
+undated. This member attended some portion of one meeting but filled the score sheets out on
+his own after the meetings and sent them directly to Mr. Lewis. Someone else may have missed
+part of one or both meetings and filled out one or more score sheets outside the TEB meetings.
+(ld. at 160). Except for Mr. Lewis who collected all score sheets, the other members did not see
+the scoring of any other member. (See id. at 111-12). Because any final evaluating and the
+scoring were done individually, and each member did it differently, Ms. Thompson was able to
+testify at her deposition only as to how she evaluated proposals and awarded points. (See,e.g.,
+id. at 124).
+
+        Mr. Lewis then took the scores from all the score sheets, added up the scores for each
+evaluation criterion for each offeror and then calculated an average score for each criterion by
+dividing the total by 5 and rounding to the nearest whole number. The average criterion scores
+for an offeror were then added to give a total technical score. (Id. at 161; A.R. Ex. 26, at 3).
+Mr. Lewis placed the results on a spreadsheet entitled "Bidder's Score Summary By Category."
+ (A.R. Ex. 26, at 3). We summarize the document as follows:
+
+               Chartered     Capital        Prud-                                                 Health
+Evaluation     Health        Comm.          ential       APPP            GW        DCHC           Right
+Criteria
+
+Prof. Qual.    4             4              3            2               2         2              2
+
+Spec. Exp.     27            24             21           23               16       14             14
+
+Capacity       11            11             10           10               6        7              5
+
+Past Perf.     8             6              7            6                5            4          3
+
+Fin. Stability 7             7              8            4                4            4          2
+
+TOTAL         57             52             49           45               33           30         25
+
+The sum of DCHC's criterion averages is 31, if rounding is done by criterion. This one-page
+spreadsheet was the TEB's "final report" for the contracting officer. (Id. at 161).
+
+       By cover memorandum dated (Friday) April 4, 1997 (A.R. Ex. 26 at 1), Mr. Lewis
+submitted the one-page "Bidder's Score Summary By Category" spreadsheet (id. at 3), a one-page
+document entitled "Managed Care Evaluation Technical Scores" listing the total technical score
+for each offeror taken from the spreadsheet's "Total" row (id. at 2), the 3-page evaluation
+guidance document (id. at 4-6), and the actual score sheets prepared by the TEB members for each
+
+
+                                                                                                       /1J51
+                         •                    - 12 -              •                         [7379]
+
+                                                        Health Righl, et al., CAB Nos. P-507, 510, 511
+
+
+of the offerors (A.R. Exs.19-25). (See Moorman Dep. 81-82). This is the only documentation
+the contracting officer received concerning the evaluations. (Moorman Dep. 79-80, 81).
+Evaluators either did not prepare evaluation workpapers or their workpapers were destroyed.
+Neither the TEB collectively nor its chairman on behalf of the TEB prepared any evaluation
+memorandum giving the TEB's consensus evaluation of the proposals, relative differences among
+the proposals, their strengths, weaknesses, and risks. The score sheets, showing individual
+member's numerical scores and brief comments, were the only evaluation data prepared and
+transmitted to the contracting officer.
+
+         The contracting officer received the package the following Monday, April 7. l At the
+bottom margin of Mr. Lewis' cover memorandum, she made a handwritten note dated April 8
+addressed to the contract specialist which reads: "I talked to Ron Lewis yesterday and advised him
+that we would now begin the price evaluation process." At her deposition, the contracting officer
+testified that she requested that Mr. Lewis meet with her on April 7 to discuss "how the [TEB]
+conducted their evaluations because the scores were very low." (E.g., Moorman Dep. 65-66, 97-
+98). She testified:
+
+              [We] had about a two hour discussion about how the [TEB] evaluated the
+       proposals and the reason that I'm making the distinction is as I recall in the
+       technical part of the proposal technical was worth 75 points. And the scores
+       seemed to be very low to me and I needed an explanation as to why the scores
+       were low.
+
+               And in the discussion with Mr. Lewis he explained to me the [TEB]'s
+       methodology for evaluating the proposals that I was satisfied with. And I recall
+       some of the specifics of our discussion and in that discussion Mr. Lewis explained
+       to me that the [TEB] concluded all of the seven offerors were capable of being
+       managed care organizations. So that was the baseline under which they started to
+       review and score th~4' proposals[,] [s]irrce everybody could have potentially been
+       one of the District's ... Medicaid organization contract[or]s. The baseline that
+       they used was to give points as opposed to deducting points, which is why the
+       scores appeared low. And that was the discussion that I had with him.
+
+(Moorman Dep. 66-67). In her testimony during these protest proceedings, the contracting officer
+states that she did not meet with anybody else concerning the technical evaluations. (E.g., ide at
+80). Other than one, earlier, very brief conversation with Mr. Lewis prior to March when Mr.
+Lewis asked for permission to conduct discussions with the offerors, and the April 7 two-hour
+meeting concerning the baselining methodology, the contracting officer did not have any
+discussion with Mr. Lewis or any of the other TEB members concerning their tedtnica1
+
+
+
+1  In the Agency Report, the District states that the contracting officer received the April 4
+transmittal on April 8. (A.R. at 23).
+                         •                     - 13 -               •                          [7380]
+
+                                                          Heallh Right, et al., CAB Nos. P-507, 510, 511
+
+
+evaluations. She stated that she "didn't do anything or couldn't do anything" until after the TEB
+had evaluated the proposals, that "there was nothing that [she] could do until the [TEB] made a
+decision in terms of evaluation of the proposals," that she did not have "any discussion with any
+of the [TEB] members at any time about what their duties and responsibilities were," and that her
+"sole discussion has been with Mr. Lewis." (See,e.g., id. at 55-67, 71-74, 78-84, 89-1(0).3
+
+        The contracting officer received an explanation of the methodology of the scoring by
+starting with a baseline of zero for each offeror, but she does not know "exactly how [the TEB]
+scored the proposals other than what [she] read." (E.g., id. at 71).4 She did not see her role as
+contracting officer to include independently reviewing the technical proposals. (Id. at 55-57, 72).
+She did not know the point scheme employed by the evaluators (id. at 74) and does not know wJ:1at
+documents the TEB members had with them when they were doing the scoring (id. (Vol. 2) at 66-
+67). Although she testified that she believed the actual scoring sheets of the evaluators "supported"
+the scoring charts and the 3-page "summary"s furnished by Mr. Lewis as the "technical evaluation
+report", she could not even affirm that statement because she "did not have that level of discussion
+with Mr. Lewis." (Id. at 96; see also id. at 86-88). When asked whether she relied primarily on
+the individual scoring sheets to make her own determination, she replied "No. That's not my
+testimony at all." (Id. at 98).
+
+
+
+3 The contracting officer previously testified that she had conducted an orientation with the TEB
+members on February 7, 1997, advising the TEB members of their "duties and responsibilities"
+as TEB members. Her testimony that she did not discuss with TEB members at any time "about
+what their duties and responsibilities were" means, consistent with her other testimony, that she
+had no discussions with the TEB members concerning their evaluations of the proposals, the
+March discussions, or their scoring.
+
+4  Later in her deposition, she stated that her discussion with Mr. Lewis was to learn why the
+scores were so low, and "what was the rationale and the methodology that was used to score the
+proposals. " We find, based on our reading of the entire deposition, and the evaluation and
+selection documentation of record, that "rationale" as used by the contracting officer here means
+no more than the reasons for using the baselining "methodology." It does not refer to her
+inquiring into the specific substance of their evaluations, either individually or collectively. That
+line of inquiry she did not pursue.
+
+S The contracting officer seemed to think that the evaluation guidance document constituted in
+some way a summary of the TEB's substantive evaluation. (Id. at 95-97). We believe it is more
+accurate to say that the document represents guidance on how TEB members should evaluate
+proposals. With regard to the first "assumption" concerning baselining, it appears that the TEB
+                                                                                                ..
+members followed this guidance when actually scoring the proposals. When it came to explaining
+the rationale for the technical evaluations and scoring, her deposition testimony reveals that she
+deferred to Mr. Lewis because she had no knowledge about the technical evaluations or the
+proposals.
+                         •                      - 14 -              •                         [7381]
+
+
+                                                          Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+        By memorandum dated April 9, 1997, the contracting officer transmitted copies of the
+offerors' price proposals to Mr. Lewis for review by members of the TEB. (A.R. Ex. 27). From
+the contracting officer's testimony, and the record as a whole, it appears that the price evaluation
+was conducted by Ms. Jane Thompson, Mr. Lewis, and the contracting officer, with the assistance
+of a CHCF consultant (Moorman Dep. 103-07).
+
+         By memorandum dated May 1, 1997, the contracting officer transmitted a report to Mr.
+Michael Rogers, City Administrator, setting forth the status of the procurement as of that date.
+(A.R. at 5; A.R. Ex. 28). This status report was prepared because the contracting officer had
+been required to report to the Salazar court concerning the status of the procurement. (Moorman
+Dep. 31, 108). The court was concerned with the ultimate terms of the MCO contracts and t.be
+District's compliance with its remedial order requirements, including, for example, that the
+District ensure, beginning no later than November 1, 1997, District children eligible for Medicaid
+were being contacted for various EPSDT services. (A.R. at 5). The District was concerned with
+how the new requirements mandated in the remedial order would affect this procurement. When
+the court issued its Amended Remedial Order in early May (A.R. Ex. 30), the deadline for
+completing the procurement remained critical. As a result of substantial delays in issuing the
+solicitation (a prior solicitation had been cancelled) and finalizing the solicitation through the ten
+amendments, the court ordered deadlines, and the projected major negative financial consequences
+for each month ~f delay in transitioning to the new Medicaid program, the record shows that the
+contracting officer was under intense pressure from her superiors and other authorities to complete
+the procurement as quickly as possible. The May 1 memorandum states that price evaluations
+were being conducted:
+
+       However, the issue involving the capitation rate is of concern to all parties
+       associated with the effort. Consequently, the District's Health Care Finance
+       Administration has scheduled a briefing by an outside consultant to provide insight
+       to designated District staff in an effort to assist us in this area.
+
+In the memorandum, the contracting officer projected completion of price evaluations by May 21.
+She states that the next step requires her to "prepare the selection report ranking the firms from
+the most highly qualified to the least highly qualified." She then projected commencing
+negotiations with the firms selected in her selection report by June 2. Finally, she anticipated
+contract awards by July 15 assuming higher-level approvals of the recommended awardees.
+
+        The price evaluation was made on the basis of each offeror's blended capitation rate.
+These blended rates were then compared to the Federal Upper Payment Limit ("UPL") of $148.42
+announced in the solicitation. The technically acceptable offeror with the lowest blended
+capitation rate received the maximum 25 points for price. The other offerors received a pertion
+of 25 points based on the ratio of the difference between their blended capitation rates and the
+UPL divided by the UPL minus the lowest offered capitation rate. (Solicitation
+Section M.2.2.5.2).
+                         •                     - 15 -                 •                        [7382]
+
+
+                                                          Health Righi, et al., CAB Nos. P-507, 510, 511
+
+
+       DCHC proposed the lowest blended capitation rate ($117.17) and received the maximum
+25 points. GW Health Plan offered the second lowest blended capitation rate ($124.60) and
+received 19.06 price points. American Preferred offered the third lowest capitation rate ($131.29)
+and received 13.70 points. Health Right offered the fourth lowest blended capitation rate
+($136.79) and received 9.30 price points. D.C. Chartered offered the fifth lowest capitation rate
+($137.51) and received 8.73 points. Prudential offered the sixth lowest capitation rate ($138.03)
+and received 8.31 points. Capital Community offered the highest capitation rate ($139.50) and
+received 7.14 points.
+
+      The results of these calculations were presented on a chart prepared in the CHCF's offices
+which we summarize as follows:
+
+                               Technical      Price           Total
+        Offeror                  Score        ~              ~                Ranking
+
+       D.C. Chartered            57.00         8.73          65.73                1
+       Capital Community         52.40         7.14          59.54                2
+       Prudential                49.00         8.31          57.31                4
+       American Preferred        45.00        13.70          58.70                3
+       GW Health' Plan.          33.00        19.06          52.06                6
+       DCHC                      30.00        25.00          55.00                5
+       Health Right              25.00         9.30          34.30                7
+
+(See A.R. Ex. 31). On May 21, 1997, Ms. Jane Thompson sent the chart listing the scoring and
+ranking to the contracting officer. (A.R. at 5). According to the District's Agency Report, Ms.
+Thompson's chart showed the allocation of price points and "the selection of the default plans
+under the solicitation." (Id.). 6
+
+        On June 4, 1997, the contracting officer signed two somewhat different versions of a
+"Final Selection Report" listing four selected offer-ors in order of preference: (1) D.C. Chartered,
+(2) Capital Community, (3) American Preferred, and (4) Prudential. In the original version of
+the report, the contracting officer states:
+
+       Pursuant to 27 DCMR, Chapter 19, Section 1907, this document serves as the final
+       selection report for the District's Medicaid Managed Care solicitation.
+
+       I have taken into consideration the recommendations of the evaluation board and
+       based on discussions and input with appropriate staff representatives in the
+       Department of Human Services an[d] Health, I have made the final selections ...
+
+
+
+, It is the contracting officer who determines the default plans because it is ultimately the duty
+of the contracting officer to evaluate the offerors, and make the final selections. See infra.
+                        •                     - 16 -              •                         [7383]
+
+                                                        Health Righi, et al., CAB Nos. P-507, 510, 511
+
+
+       These fums are considered "selected" firms in order of preference with which
+       negotiations will be conducted.
+
+       The final selections are the same as the recommendation by the evaluation board.
+       The final selections are based on the evaluation board's determination that aU seven
+       offerors are capable of being managed care organizations and based on price.
+       Price is a significant factor since all seven offerors were determined technically
+       capable to be one of the District's managed care organizations. Therefore, price
+       must be a major determining factor in final selection. According to the
+       Chairperson of the Evaluation Board, Ronald Lewis, all offerors submitted
+       technically competent and qualified proposals. This determination served as the
+       baseline from which the technical evaluations were ranked.
+
+       The final selections are listed as follows, ranked in order of preference:
+
+       Chartered Health Plan
+       This firm remains the first ranked based on their experience with the District's
+       Medicaid population. This factor outweighs the overall price offered.
+
+       Capital Community
+       This firm is the fifth ranked qualified based on the overall reasonable price offered.
+
+       American Preferred
+       This firm is ranked third based on the overall reasonable price offered.
+
+       Prudential
+       This firm is the sixth most highly qualified based on the overall reasonable price
+       offered.
+
+(A.R. Ex. 33 (original version)). The contracting officer testified that her handwritten draft for
+this document was typed and presented to her for signature the morning of June 4, just as she and
+others were ready to meet with representatives from D.C. Chartered to commence negotiations.
+(Moorman Dep. 112). She states that she did not have time to read it in its entirety because of
+the rush to begin the negotiations. (ld. at 112-13). She has testified that after the negotiation
+session ended, she read the document and it "contained errors, and it did not represent what was
+submitted for typing; and, therefore, a corrected copy was prepared." (Id. at 112-13). The
+corrected version only modified the descriptions for each of the selected firms:
+
+       Chartered Health plan                                                            ..
+       This firm remains the first ranked based on their experience with the District's
+       Medicaid population and overall technical competence and price.
+                         •                    - 17 -                •                         [7384]
+
+                                                         Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+       Capital Community
+       This firm is ranked second based on technical competence and price.
+
+       American Preferred
+       This firm is ranked third based on technical competence and price.
+
+       Prudential
+       This firm is ranked fourth based on technical competence and price.
+
+(A.R. Ex. 33 (corrected version». The corrected version is also dated June 4. We do not find
+credible that the language in the original version resulted merely from typing errors. The changes
+are too different and substantial for that explanation. The rankings referred to in the original
+version cannot be explained as simply reflecting a ranking based on price alone. In any event,
+we need not detain ourselves on this point because the flaws in the contracting officer's final
+selection transcend the language in the selection listing found in these two versions of this
+selection report.
+
+        Neither during the TEB's evaluation process nor thereafter did the contracting officer
+conduct any independent evaluation or determine the relative merits of the proposals. She never
+had any substantive discussions with any of the TEB members concerning either individual
+member's evaluations or any TEB consensus evaluation. Her statement in the final selection
+report that she has "taken into consideration the recommendations of the evaluation board" and has
+based her final selections on "discussions and input with appropriate staff representatives in the
+Department of Human Services an[d] Health" does not remedy her failure to evaluate the offerors.
+Based on the testimony, and the remainder of the record, the only "recommendations of the
+evaluation board" contained in the record that she "considered" were the spreadsheet summarizing
+the TEB's numerical scoring, the TEB evaluation guidance document, and the TEB score sheets,
+although she denied that she relied primarily on the score sheets to make her determination. Based
+on the testimony, and rem~I!der of the record.1.. her "discussions and input with appropriate staff
+representatives" in the Departments of Human Services and Health related solely to the price
+evaluation. The third paragraph of her selection report confirms our findings. Finally, the
+contracting officer's statement that final selections "are based on the evaluation board's
+determination that all seven offerors are capable of being managed care organizations and based
+on price" (and the other comments in the third paragraph) fully supports the fact that she did not
+(1) evaluate the proposals and determine the relative merits of the competing proposals, and (2)
+receive substantive individual or consensus evaluation data from the TEB.
+
+       After the negotiation session with D.C. Chartered, the contracting officer requested and
+received a BAFO. Negotiations were then conducted with Capital Community, followee by a
+BAFO. Next, negotiations were held with American Preferred, followed by a BAFO. Finally,
+there were negotiations with Prudential, followed by a BAFO. By memoranda dated July 7, 1997,
+Mr. Lewis advised the contracting officer that the BAFO's of Prudential, D.C. Chartered,
+American Preferred, and Capital Community were acceptable. (A.R. Ex. 51).
+                         •                    - 18 -                •                         [7385]
+
+                                                         Health Right, et aI., CAB Nos. P-S07, 510, 511
+
+
+        The four successful offerors executed proposed contracts on July 10, 1997. (A.R. Exs.
+54,55,56, and 57). The District presented the four proposed medicaid managed care contracts
+to the Council of the District of Columbia on July 11, 1997.
+
+        Health Right filed a protest with the Board on July 24, 1997 and supplemental protests on
+July 25, 1997, August 6, 1997, and September 4, 1997. DCHC and the GW Health Plan flIed
+protests on August 12, 1997 and supplemental protests on September 4, 1997.
+
+       On July 30, 1997, the District of Columbia Financial Management and Assistance
+Authority approved the four proposed Medicaid managed care contracts. (A.R. Ex. 52). By
+emergency resolutions dated July 31, 1997, the Council gave its approval. (A.R. Ex. 53). We
+declared those contracts a nullity pursuant to D.C. Code § 1-1189.8(c)(I) (Supp. 1997) on August
+22, 1997. (See Board order dated August 25, 1997).
+
+      Pursuant to Board order, the contracting agency provided debriefings to Health Right on
+August 19, 1997, to DCHC on August 20, 1997, and to GW Health Plan on August 21, 1997.
+
+        In a determination and finding of August 28, 1997, the Director of the Office of
+Contracting and Procurement determined that award to the four selected offerors should be made
+and performance under the protested procurement should proceed while the protest is pending,
+based on a finding that urgent and compelling circumstances that significantly affect the interests
+of the District would not permit waiting for a decision in the pending consolidated protests. The
+Commissioner on Health Care Finance of the Department of Health certified findings that: (1) if
+performance of the Medicaid Managed Care Contracts did not begin immediately, thousands of
+Medicaid recipients would be denied essential necessary medical care which they do not now
+receive under the current program; (2) access and quality of care enhancements would be
+postponed which would constitute a great injustice to Medicaid recipients; (3) if the Medicaid
+contracts were not implemented immediately, the District would be in violation of a federal court
+remedial order to protect Medicaid recipients with deadlines for District compliance beginning on
+November 1, 1997; (4) i{the District failed to comply with the remedial order, it would face
+significant sanctions from the court and children and other individuals eligible for Medicaid would
+be denied vital, needed, and long overdue medical care, diagnosis, and treatment; and (5) if
+performance were stayed, the District would be forced to spend one million dollars a month in
+unnecessary expenditures. In the findings, the estimated fair and reasonable cost for the contracts
+over two years is $212,000,000.
+
+       The protesters challenged the Director's determination to award and proceed with
+performance. We sustained the Director's determination based on urgent and compelling
+circumstances represented to the Board by the Director in his determination and findings ...
+                          •                    - 19 -               •                          [7386]
+
+                                                          Health Righi, et al., CAB Nos. P-507, 510, 511
+
+
+                                          DISCUSSION
+
+        These consolidated protests are before us pursuant to D. C. Code §§ 1-1189.3 and 1-1189.8
+(Supp. 1997). We review to determine whether the contract awards, and the underlying
+evaluation and selection actions, violated procurement law and regulations or the terms of the
+solicitation.
+
+A.             Challenges to the Procedures for Conducting the Evaluation and Selection
+
+        The protesters allege that the scope and terms of the solicitation, as amended, necessarily
+created a hybrid procurement process for the evaluations and selection. They point especially. to
+Amendment No. 10 which added price as a required evaluation factor (contrary to the normal
+MHCS procurement) and made contract award (rather than final selection) possible on the basis
+of initial offerors received thereby changing the nature of the initial proposals into second-step
+proposals. They argue that the contracting agency, in conducting evaluations and selection,
+sometimes used Chapter 16 procedures for competitive sealed proposals and at other times used
+the Chapter 19 procedures. They complain that they were excluded from submitting BAFOs even
+though they were in the competitive range. The protesters state that the agency should have
+adopted the Chapter 16 procedures after Amendment No. 10 and then applied them consistently
+rather than returning to Chapter 19 procedures for the selection phase. According to the
+protesters, the process resulted in an arbitrary and irrational selection. 7
+
+       The District and the intervenors argue that these protest grounds are allegations of
+improprieties in the solicitation and are therefore untimely. They also argue that the District
+properly and consistently followed the Chapter 19 procedures throughout the process and that the
+Chapter 16 procedures are inapplicable.
+
+       Because these protest allegations go to the actual process used by the agency during the
+
+
+
+,. The protesters also challenge the failure of the contracting agency to conduct the "one-step
+procurement" represented by the District at the January 9, 1997 protest conference in the earlier
+solicitation protests. (See Board order date January 13, 1997). In its Agency Report, the District
+states that its intent to conduct a "one-step procurement" simply meant that both technical and price
+factors would be considered in the competitive step. The District states correctly that we had
+suggested in the earlier protest proceedings that price might be considered a proper evaluation
+criterion under the Chapter 19 regulations, 27 DCMR § 1905.S(e). It points out that Amendment
+No. 10, which amended the solicitation to include price as a factor, was issued on JanU3!)' 10,
+1997, and thereafter no prospective offeror protested the solicitation as being inconsistent wrth the
+District's representation or the Board's order. We conclude that the agency's stated understanding
+of what it meant by a one-step procurement was reasonable under the circumstances and did not
+violate our order. Any challenge of the agency's "one-step procurement" through Amendment No.
+10 is untimely.
+
+
+                                                                                                /(J~1
+                          •                    - 20 -
+                                                                     •                         [7387]
+
+                                                          Health Right, et aL. CAB Nos. P-507, 510, 511
+
+
+evaluation and selection process, in light of the solicitation as amended, they do not raise
+solicitation improprieties. These protest allegations are timely.
+
+        As a preface to our discussion of the merits, there is no question that this solicitation as
+amended was substantially different from a normal request for a Qualification Data Form (QDF)
+under Chapter 19. The solicitation was for a complex procurement for contracts in excess of
+$200,000,000. The solicitation, hundreds of pages in length, contained evaluation criteria and
+a system of point scoring more reflective of a request for proposals under Chapter 16. The type
+of response required through proposals was well beyond a standard QDF response. (protestors'
+Joint Response Ex. 1). Amendment No. 10 making award possible on the basis of initial offers
+received, without discussions, has no counterpart in the District's Chapter 19 or the federal BrooJcs
+Act procurements. Price as an evaluation factor, mandated here by federal Medicaid grantee
+regulations, resulting in the submission of initial price and technical proposals, also is not normal
+for a Chapter 19 procurement.
+
+        The District, intervenors, and the protesters seem to read Chapter 19 and Chapter 16 as
+having no relationship with one another and that each stands independently of the remainder of
+the procurement regulations. That may be based on a misreading of 27 DCMR § 1905.3 which
+provides:
+
+       The contracting officer shall use the procedures set forth in §§1905 through 1912
+       of this chapter rather than the solicitation or source selection procedures specified
+       elsewhere in this title.
+
+This provision simply does not create the MHCS regulations of Chapter 19 as a fully autonomous
+set of procedures for conducting all MHCS procurements. Section 1900, the general provisions
+for Chapter 19 ("Contracting for Services"), provides:
+
+       The provisions of th~ tprocurement Prac~ces] Act and this title [Title 27] requiring
+       competition and setting forth the requirements and procedures for competitive
+       procurement shall apply to the procurement of services.
+
+27 DCMR § 1900.2. A careful reading of the MHCS regulations at sections 1905 through 1912
+reveals that these regulations provide only a framework - in the form of certain regulations
+unique to MHCS procurements - for conducting MHCS procurements. In other words, there are
+more requirements for conducting an MHCS procurement than are spelled out in the text of the
+Chapter 19 MHCS regulations. A Chapter 19 procurement is a type of negotiated procurement.
+The nature of the solicitation and the process for evaluation of proposals also determine the types
+of requirements that will be applicable. To the extent that other procurement requirements are
+applicable to a competitive procurement under Chapter 19, and are not inconsistent with specific,
+specialized requirements in the MHCS regulations, they cannot be ignored simply because they
+are not specified in the text of the MHCS regulations.
+                          •                     - 21 -
+                                                                     •                         [7388]
+
+                                                           Health Right. et aL, CAB Nos. P-507, 510, 511
+
+
+       The very first provision of the MHCS regulations demonstrates that these regulations are
+not autonomous:
+
+        The contracting officer shall publicly announce all requirements for medical and
+        human care services in accordance with chapter 13 of this title.
+
+27 DCMR § 1905.1.
+
+        More pertinent here are the regulations governing the evaluation of proposals. Section
+1905.5, quoted earlier, states that the contracting officer "shall evaluate each potential contractor"
+based on certain listed technical criteria and any other evaluation criteria deemed by the
+contracting officer to be appropriate. The only other Chapter 19 MHCS provision that gives any
+further definition to the contracting officer's evaluation of proposals is 27 DCMR § 1906.6 which
+requires that the TEB's selection report include "a description of the discussions and evaluation
+conducted by the board to allow the contracting officer to review the considerations upon which
+the [TEB's selection] recommendations are based." From section 1906.6 we can infer that the
+contracting officer must review the recommendations (and evaluation) of the TEB as part of the
+contracting officer's obligation to evaluate offerors. But the requirement to evaluate the proposals
+and to review the evaluation of the TEB is as general a summary of the contracting officer's duties
+as can be framed. There is more to evaluation than that. There are other sources of authority
+governing specifically the contracting officer's duties to evaluate proposals. First, there is 27
+DCMR § 1618 ("Proposal Evaluation") which provides in relevant part:
+
+        1618.1         The contracting officer shall evaluate each proposal in accordance
+                       with the evaluation criteria in the solicitation.
+
+        1618.2         The contracting officer shall evaluate the cost estimate or price, not
+                       only to determine whether it is reasonable, but also to determine the
+                       offeror's understanding of the work and ability to perform the
+                       contract.                -
+
+       1618.3          The contracting officer shall document the cost or price evaluation.
+
+       1618.4          If any technical evaluation is necessary beyond ensuring that the
+                       proposal meets the minimum requirements in the solicitation, the
+                       contracting officer shall forward the proposals to the appropriate
+                       technical official for technical evaluations.
+
+       1618.5          If a technical evaluation is done, a technical evaluation report shall ..
+                       be prepared by the technical official and shall contain the following:
+
+                       (a) The basis for evaluation;
+                          •                    - 22 -
+                                                                    •                         [7389]
+
+
+                                                          Health Right, et al., CAB Nos. P-S07, 510, 511
+
+
+                       (b) An analysis of the technically acceptable and unacceptable
+                       proposals, including an assessment of each offeror's ability to
+                       accomplish the technical requirements;
+
+                       (c) A summary, matrix, or quantitative ranking of each technical proposal
+                       in relation to the best rating possible; and
+
+                       (d) A summary of findings.
+
+No one would argue that the requirement of section 1618.1 is inapplicable to the present
+procurement. Because price was a required evaluation factor in the competitive evaluation in the
+present procurement, sections 1618.2 and 1618.3 are also applicable. Because 27 DCMR § 1906
+requires the appointment of a medical and human care services evaluation board in a MHCS
+procurement and defines its tasks, section 1618.4 does not add anything not already provided in
+section 1906. The requirements of section 1618.5 are not only consistent with section 1906
+requirements but properly augment the MHCS requirements in view of the type and scope of
+technical evaluation provided in the instant solicitation. In addition to section 1618, and more
+significant from the standpoint of detail, is the well-established body of federal and District
+precedent defining the responsibilities of the contracting officer in conducting evaluations. It
+would be entirely illogical to take the position that, because the contracting officer has chosen the
+Chapter 19 MHCS regulations to conduct a procurement, the only standards for contracting officer
+evaluations are that he or she conduct one and that the TEB evaluation be reviewed in connection
+with that evaluation. Indeed, at least for defending the evaluations conducted by the TEB, the
+District and intervenors rely solely on federal negotiated procurement precedent or its District
+equivalent under Chapter 16.
+
+        Another pertinent example of the applicability of Chapter 16 procedures to Chapter 19
+procurements is the requirement for discussions. In the Supplemental Agency Report, and again
+in the joint reply brief, th~ Pi strict and the iPtervenors argue that Chapter 19 "only requires
+discussions with firms or individuals on the Contracting Officer's final selection list, 27 DCMR
+§- 1907." Section 1907, however, deals with the contracting officer's final selection of the most
+highly qualified offeror, not discussions during the evaluation process. 8 By the very fact that the
+contracting officer is required to evaluate proposals, the contracting officer must also have
+authority to conduct discussions as required. The power is implicit in section 1905.5. The
+regulatory authority is found in 27 DCMR §§ 1619 ("Discussions with Offerors") and 1621
+("Conduct of Discussions with Offerors").
+
+       Section 1619.1 requires the contracting officer to conduct discussions except in enumerated
+                                                                                                 .
+8 That the contracting officer may have "discussions" regarding technical and price matters during
+the negotiations phase after final selection has nothing whatever to do with discussions conducted
+during the evaluation of proposals prior to final selection.
+                          •                     - 23 -
+                                                                     •                          [7390]
+
+                                                           Health Right, et al.• CAB Nos. P-507, 510, 511
+
+
+circumstances. Section 1619.3 states that if discussions are not held pursuant to one of the
+enumerated exceptions of section 1619.1, then all offerors must have been notified of the
+possibility that an award might be made without discussion and the award must be made without
+any written or oral discussions with any offeror. We do not decide here that discussions are
+required in all MHCS procurements, but section 1619 makes clear the authority of contracting
+officers to conduct discussions. In addition, consistent with section 1619, the contracting officer
+modified the solicitation, through Amendment No. 10, to provide that "The District Government
+may award a contract on the basis of initial offers received, without discussion."
+
+        Section 1621 provides detailed requirements for the contracting officer to control all
+discussions held with offerors, including the content of discussions. It requires that the
+contracting officer ensure that, if discussions are held with any offeror within the competitive
+range, discussions are held with all offerors in the competitive range. Id. § 1621.1. The
+contracting officer must provide the offeror a reasonable opportunity to submit any cost or price,
+technical, or other revision to its proposal that may result from the discussions. Id. § 1621.2.
+Beyond section 1621 there is the well-established body of case law defining the obligations of the
+contracting officer relating to discussions.
+
+        Nothing in Chapter 19 prohibits the type of discussions traditionally conducted in other
+types of negotiated procurements during the evaluation phase. To the contrary, the decision of
+the contracting officer to conduct discussions is by nature a function of the solicitation, the content
+of the proposals, and the contracting officer's sound judgment in conducting evaluations, subject
+to the regulations described above and case precedent.
+
+        For the procurement here, the requirements of section 1621 were applicable. The record
+shows unambiguously that the TEB conducted discussions with all of the offerors in early March
+1997. The District's and intervenors' characterization -- during protest proceedings -- of the
+discussions as "interviews/presentations" is no more than an euphemism. During her deposition,
+when asked about the exis!e!lce of guidelinesJor conducting the March 1997 "interviews" with
+offerors in this particular procurement, the contracting officer responded that there were none,
+"other than what's written in 27 [DCMR]." (Moorman Dep. 102). What she meant was precisely
+27 DCMR § 1621.
+
+        The District has not argued, and there is no basis in the record to argue, that the TEB
+discussions constituted the type of specialized discussions under section 1906.5(c) which requires
+the TEB to:
+
+       [h]old discussions with at least three (3) of the most highly qualified firms or
+       individuals concerning concepts and the relative utility of alternative methods of ..
+       furnishing the required services (but not including fees), when the prospective
+       medical or human care services contract is estimated to exceed ten thousand dollars
+       ($10,000).
+
+
+
+                                                                                                    /011
+                         •                      - 24 -
+                                                                    •                         [7391]
+
+
+                                                          Health Right. et al., CAB Nos. P-507, 510, 511
+
+
+The record discloses no such discussions by the TEB. 9 There is also nothing in the record meeting
+the requirement that the TEB include in its selection report for the contracting officer "a
+description of the discussions ... conducted by the board .... " Id. § 1906.6.
+
+        Finally, it is clear from the conduct of the agency personnel involved with the procurement
+that they understood that some requirements applicable to negotiated procurements generally, and
+not specified within the four corners of Chapter 19, had to be followed. 10
+
+        B.     The EvaluatjoQ of Proposals
+
+        The protesters argue that the evaluation of their offers was unreasonable, arbitrary, and
+capricious. They contend that the evaluators used undisclosed criteria and subcriteria, improperly
+used a baselining technique, and failed to treat all offerors fairly by, among other things, treating
+similar proposal content unequally among offerors. The protesters challenge the evaluations
+conducted under all five non-price criteria.
+
+        Standards
+
+        In determining the propriety of an evaluation decision, we examine the record to determine
+whether the judgment was reasonable and in accord with the evaluation criteria listed in the
+solicitation and whether there were any violations of procurement laws or regulations. Halter
+Marine, Inc., B-255429, Mar. 1, 1994,94-1 CPD 1 161; Southwest Marine, Inc., B-265865, Jan.
+23, 1996,96-1 CPD 156; Biochemical Genetics, CAB No. P-470, Feb. 25, 1997, 8 P.D. 7245.
+By their nature, such judgments have certain subjective elements, but they are not entirely
+subjective. There are also objective bases for evaluation decisions. Considering the totality of
+the record, evaluations must be reasonable and must bear a rational relationship to the announced
+criteria upon which competing offers are to be selected.
+
+        Implicit in the foreg,?ing is that these .i.!1dgments must be documented in sufficient detail
+to show that they are not arbitrary. Southwest Marine, 96-1 CPD 1 56; S&M Property
+Management, B-243051, June 28, 1991,91-1 CPD 1615; Wadell Eng'g Corp., 60 Compo Gen.
+11 (1980), 80-2 CPD 1269; Benchmark Sec., Inc., B-247655, Feb. 4, 1993, 93-1 CPD 1 133.
+In particular, the agency's technical evaluation documentation is required to include an analysis
+of the technically acceptable and unacceptable proposals, including an assessment of each offeror's
+
+
+9  The section 1906.5(c) discussions are not limited to the selected offeror. The MHCS
+regulations are written assuming a single selectee. Thus, discussions with "at least three of the
+most highly qualified firms" embraces more than the selectee.                             ..
+
+10 For example, a proposal submitted by an eighth prospective offeror after the time specified in
+the solicitation was rejected by the contracting agency under the specific authority of 27 DCMR
+§ 1609. (GW Health Plan's Supplemental Response to the Agency Report, Ex. A). The MHCS
+regulations in Chapter 19 contain no provisions dealing with late proposals.
+
+                                                                                                       /01J-
+                         •                     - 25 -
+                                                                    •                          [7392]
+
+
+                                                          Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+ability to accomplish the technical requirements. As we have emphasized before, the District's
+procurement regulations require contracting agencies:
+
+        to document their evaluation of proposals so as to show the basis for evaluation,
+        an assessment of each offeror's ability to accomplish the technical requirements,
+        and the relative differences among the proposals, their strengths, weaknesses, and
+        risks in terms of the evaluation criteria.
+
+Recycling Solutions, Inc., CAB No. P-377, Apr. 15, 1994,42 D.C. Reg. 4550, 4581 (citations
+omitted); 27 DCMR §§ 1618.5, 1622.6, 1622.7. Federal procurement law requires the same.
+S&M Property Management, 91-1 CPD 1 615; Universal Shipping Co., B-223905, Apr. 20, 1987,
+87-1 CPO 1 424. While an agency is not required to retain every document or worksheet
+generated during its evaluation of proposals, the agency's evaluation must be sufficiently
+documented to allow review of the merits of a protest. Southwest Marine, 96-1 CPD 1 56; KMS
+Fusion, Inc., B-242529, May 8, 1991, 91-1 CPD 1447. Where an agency fails to document or
+retain evaluation materials, it bears the risk that there is inadequate supporting rationale in the
+record for the source selection decision and that we will not conclude that the agency had a
+reasonable basis for the decision. Southwest Marine, 96-1 CPD 1 56; Engineering &
+Computation, Inc., B-261658, Oct. 16, 1995, 95-2 CPD 1 176; American President Lines, Ltd.,
+B-236834.3, July 20, 1990, 90-2 CPD 1 53.
+
+        In determining the reasonableness of an agency's evaluation and award decision, we do not
+limit our review to contemporaneous evidence, but consider all the information provided,
+including the parties' arguments, explanations, and testimony. Southwest Marine, 96-1 CPD 1
+56; Benchmark Sec., 93-1 CPD 1 133; KMS Fusion, 91-1 CPD 1447. While we consider the
+entire record, including the parties' later explanations and arguments, we accord greater weight
+to contemporaneous evaluation and source selection material than to arguments and documentation
+prepared in response to protest contentions. Southwest Marine, 96-1 CPD 156; DynCorp, 71
+Comp.Gen. 129 (1991), 9!-f CPD 1575; Bioshemical Genetics, 8 P.O. at 7251.
+
+        The contracting officer has a critical and unique role in the evaluation and selection
+process. It is the contracting officer who ultimately is responsible for the evaluation of proposals
+and detennining the relative merits of competing proposals. Property Analysts, Inc., B-259853,
+June 13, 1995,95-1 CPD 1270; Wyle Labs., Inc., 69 Compo Gen. 648 (1990), 90-2 CPD 1 107.
+Although the contracting officer may be assisted in the evaluation by others, such as a technical
+evaluation board constituted under 27 DCMR § 1906, the contracting officer always remains
+responsible for the evaluation of proposals. While technical point scores and descriptive ratings
+of lower-level evaluators must be considered by the contracting officer in making the final
+selection, he or she is not bound by those evaluations or recommendations. The determining
+element is not the difference in technical scores, per se, but the contracting officer's judgment
+concerning the significance of any such difference and the relative merits of the proposals. While
+point scores are useful as guides, they generally are not controlling because they often reflect the
+disparate subjective judgments of evaluators. S&M Property Management, 91-1 CPO 1615. In
+                          •                     - 26 -
+                                                                     •                          [7393]
+
+
+                                                           Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+reviewing the reasonableness of the contracting officer's evaluation and selection judgments, we
+will not substitute our judgment for that of the contracting officer, even where we disagree with
+the wisdom of that official's choice. This presupposes a valid exercise of judgment by the
+contracting officer.
+
+        In this case, the contracting officer "adopted" the evaluation results of the TEB. n This was
+not a valid exercise of her judgment. She did not conduct any independent evaluation of the
+proposals. She read no TEB consensus evaluation reports, preliminary or final, because there
+were none. She did not make the required substantive review of any TEB evaluation. The TEB's
+"selection report" consisted merely of average point scores and the disparate and uninformative
+score sheets. The contracting officer had no substantive discussions with the chairman of the TEB
+concerning their technical evaluations (other than to learn about the baselining methodologyU used
+in scoring) and had no discussions at all with the other TEB members concerning their technical
+evaluations. No doubt the contracting officer was handicapped here by the TEB's failure to
+present evaluation workpapers (showing the substance of their technical evaluation) or any
+substantive consensus evaluation memorandum. Notwithstanding the substantial time pressures
+under which the contracting officer was operating, she was not justified in abdicating her legal
+duty to make a substantive evaluation. The post-protest amplifications, including the few
+comments from the debriefings in the record, the deposition testimony, and the District
+submissions, do not remedy what remains a wholly inadequate record of a reasonable or rational
+evaluation and selection.
+
+
+11Southwest Marine, Inc., B-265865, Jan. 23, 1996, 96-1 CPD 1 56, provides an instructive
+comparison. In Southwest Marine, the source selection official independently reviewed the
+technical proposals, had a number of conversations with the technical board chair regarding the
+process of the board's initial evaluation and its initial findings, and reviewed an early draft of the
+board's evaluation report. After receiving the board's final evaluation report, he spent a week
+comparing and validating the evaluation findings against his own review of the technical
+proposals. His "adoption" of the board's evaluation findings as his own was quite different from
+~e "adoption" here.
+
+
+U The protesters argue that the use of the baselining technique was impermissible because there
+was no notice in the solicitation that such a method would be used, the effect of baselining was
+to unduly limit price as a factor, and use of the method meant that the District was procuring
+services exceeding its stated minimum needs. We agree with the District that there is nothing per
+se wrong with a baselining method of scoring. See Hoffman Management, Inc., B-238752, July
+6, 1990, 90-2 CPD 1 15. Regardless of the method of scoring proposals (adding points or
+subtracting points), the contracting officer must ensure that the evaluation, and the scoring. done
+in connection with the evaluation, is performed and documented so as to show the basis for
+evaluation, an assessment of each offeror's ability to accomplish the technical requirements, and
+the relative differences among the proposals, their strengths, weaknesses, and risks in terms of the
+evaluation criteria. The problem in this case was not the baselining itself, but the absence of a
+record showing either a reasonable or rational evaluation of the offerors.
+                         •                     - 27 -
+                                                                    •                         [7394]
+
+
+                                                          Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+        The Evaluation Criteria
+
+        The contracting officer was required to evaluate each offeror under the five non-price
+criteria appearing in Section M of the solicitation. Based on the woefully inadequate record
+presented by the District, we are unable to conclude that a reasonable or rational evaluation was
+conducted under any of the five non-price criteria.
+
+        The score sheets of the TEB members, with examples cited below, show quite a variation
+in content. The comments on some score sheets appear to reflect some thought processes of a
+TEB member during the scoring session, but it is impossible to discern the actual scope or content
+of a TEB member's evaluation of each offeror from the score sheets. The numerical scores a,nd
+largely uninformative comments uniformly fail to adequately document the individual TEB
+member's evaluation of each offeror and fail to show each member's comparative evaluation of
+the offerors. There is no explanation in the evaluation documentation which gives a reasonable
+or rational basis for the significant disparities in individual point scores, considered individually
+or collectively. The District's post-protest submissions shed no more light. Moreover, the
+comments and the numerical scoring show inconsistencies by an individual member in the way
+that different offerors were treated. The comments and numerical scoring also show disparities
+among evaluators in the way the offerors were evaluated or scored under identical criteria. In
+addition, the score sheets and the spreadsheets reflecting the numerical average scores, provide
+no consensus evalUation summary of the TEB. When considering the record as a whole, including
+isolated debriefing comments, deposition testimony, and other post-protest descriptions found in
+the District submissions,13 it remains clear that there is no adequately documented evaluation under
+the evaluation criteria which can be supported as reasonable or rational. 14 As stated earlier, the
+
+
+13 The post-protest submissions of the District generically state that the evaluators properly
+evaluated proposals under each of the criteria and that the evaluators considered all subfactors
+specified in the solicitation and other sub factors which were reasonably related to the criteria
+(e.g., Supp. A.R. at 11-12)-; and that the TEB evaluated offerors by awarding points based upon
+the comparative strength of each proposal which depended on how it proposed to satisfy the
+sOlicitation'S requirements (e.g., Joint Reply at 8).
+
+14  The present facts may be compared with the situations in cases such as Management
+Technology, Inc., B-257269, Nov. 8, 1994, 95-1 CPD 1248, and Sierra Cybernetics, Inc., B-
+259055, Apr. 5, 1995, 95-1 CPD 1249. In Management Technology the individual evaluator
+score sheets and narrative comments were consolidated into consensus score sheets and narrative
+summary statements of strengths, weaknesses, and risks for each proposal. The technical board
+chairman submitted a memorandum detailing the differences in the scoring of the coml?eting
+proposals and the one offeror's technical advantages considered significant under each of the
+technical evaluation criteria. In Sierra Cybernetics, involving a relatively simple procurement,
+notwithstanding "skimpy" narrative evaluations, the contracting officer was provided with
+sufficient evaluation information and the scoring had a specific and rationally understandable
+meaning that was explained in the agency's evaluation plan and was contained in the evaluation
+
+                                                                                                     jo1S
+                         •                     - 28 -
+                                                                  •                         [7395]
+
+
+                                                         HeallhRighl, etaZ., CAB Nos. P-507, 510, 511
+
+
+contracting officer has made no substantive evaluation of the proposals, no comparative
+assessment of the competing offers, and no substantive review or analysis of the TEB's evaluation
+efforts. Thus, she did not and could not have made a selection decision based on her independent
+judgment of the relative merits of the competing proposals and she could not reasonably or
+rationally adopt the inadequate evaluation of the TEB as a substitute.
+
+       We will review briefly the record with respect to each non-price evaluation criterion.
+
+        1.     Professional Qualifications (.5 points)
+
+       Section M.2.2.1 provides verbatim: "Professional qualifications necessary for satisfactory
+performance of the required services. (MeOs will be evaluated on the professional
+qualifications of the key staff as pertaining to the areas of responsibility).
+
+       The TEB's 3-page guidance instructions told individual evaluators to evaluate key staff
+which "should include, at a minimum: CFO/President, Vice-Presidents of Heads of: Operations,
+Marketing, Medical, Network Relations, Systems/MIS, and Finance."
+
+         The following is a sampling from the score sheets. For D.C. Chartered, Evaluator "A"
+gave the full 5 points with the follo~ing comments: "Current capacity more than adequate to
+provide network medical service. Preparing for upgrade and GDI format." Evaluator "B" gave
+4 points with the following comments: "Bowles, Spencer very experienced. NCQA knowledge."
+Evaluator "C" gave 4 points with the comment "Excellent qualifications." Evaluator "0" gave 4
+points with the comments: "High marks for extent of qualified staff. Top level plan staff highly
+qualified." Evaluator OlE" gave 3 points with the comment: "Experience in managed care from
+federal & state perspective." For GW Health Plan, Evaluator "A" gave 2 points with the
+comments: "Utilization Review and Physician Head; Knowledge and strategy for addressing
+clients." Evaluator "C" gave 2 points with the comment: "'Fair' cadre of professionals presented."
+Evaluator liB" gave 2 poin~ ~ith the commen!: "Hickman, Parrot, Addison qualified to run the
+program." Evaluator "0" gave 2 points with the comment" "Highly qualified proven by great
+results in commercial business." Evaluator OlE" gave no points with the comment: "Minimum
+standards." For DCHC, Evaluator "E"'s unsigned and undated score sheet gives 2 points with the
+comment: "MCO experience." Evaluator "C" gave 2 points with the comment: "Impressive CEO
+& Medical/Operations Director." For Health Right, Evaluator "0" gave 1 point with the
+comment: "Diversity of work group. Experience of CSS good." Evaluator "E" gave 1 point with
+the comment: "MCAC/NACHC." Evaluator "C" gave 2 points with the comment: "Diverse high
+caliber staffing presented."
+
+        Ms. Jane Thompson testified at her deposition that she gave points to persons whotn she
+either knew were qualified or from their resumes she could see demonstrated qualifications. She
+
+
+
+documents that were submitted to the contracting officer.
+                         •                    - 29 -
+                                                                  •                        [7396]
+
+                                                        Health Right, et aL, CAB Nos. P-507, 510, 511
+
+
+stated: "SO for me, I wasn't able to give points where I didn't know anything about the
+individuals." (Thompson Dep. 133). But her score sheets, like the others, supply no adequate
+basis upon which we can discern any substantive comparative evaluation under this criterion
+among the seven offerors and the rationale for the actual numerical scores. We see nothing in the
+evaluators' comments that correspond to the excerpts of debriefing comments identified by GW
+Health Plan and the arguments found in the District's protest submissions (e.g., Supp. A.R. at
+14). Some of the evaluators' comments appear to contradict the District's post-protest assertions.
+
+       2.      Specialized experience and technical competence (35 pojnts)
+
+        Section M.2.2.1 provides: "Specialized experience and technical competence in the type
+of work required. (MCOs will be awarded points for demonstrations of specific experiences
+in working with the AFDC and AFDC-related population and technical competence in the
+ability to improve the quality of health care services required in the Statement of Work.
+Points will be awarded in this section by evaluating the strength of the MCO's: (1) Quality
+assurance program and its demonstrated ability to measure and monitor quality of care and
+expeditiously address detected quality deficiencies; (2) Member education and outreach
+program; (3) Provider education program; (4) Well Child (EPSDT) Program; (5) Systems,
+policies and procedures for claims processing; (6) Utilization management program; (7) Data
+reporting capabilities; and (8) Overall administrative structure, experience, and
+demonstrated competence of management team. Additionally, points will be awarded to
+MCOs that: (1) have a network or relationships that include existing non-profit community
+health agencies; (2) can demonstrate that it values the rich diversity of cultures in the
+Medicaid population and bas developed effective guidelines to promote cultural competency;
+(3) promote comprehensive, family-oriented case management so as to coordinate care; and
+(4) have developed and can demonstrate the effectiveness of innovative strategies or special
+arrangements for specific populations with high risk health factors.)"
+
+       The TEB' s 3-page _guidance instructiQ.ns added that "An indication of a high level of
+technical competence is the achievement of NCQA accreditation."
+
+         The TEB score sheets are wholly inadequate to support a rational evaluation under this
+criterion. In her deposition, when asked whether she took into account that GW Health Plan was
+the only federally-qualified MCO, Ms. Thompson said that did not carry any weight with her in
+the evaluation. (Thompson Dep. 167, 169). She explained that the very thorough independent
+accreditation given by NCQA "much more accurately reflects the plan's quality of services
+delivered which is our highest priority." (Id. at 167). Of the offerors, only GW Health Plan and
+Prudential had received NCQA accreditation. (Id. at 168). She pointed out that Prudential's 3-
+year accreditation was significantly better than the I-year accreditation of GW Health Plan~ She
+testified that she could not evaluate the other firms which had not undergone NCQA review and
+received accreditation in the same way as a firm (like Prudential and GW Health Plan) that had
+applied for and received it. The TEB's 3-page evaluation guidance document also states that
+NCQA accreditation indicated "a high level of technical competence." Prudential received from
+
+
+                                                                                                /011
+                             •                    - 30 -
+                                                                       •                        [1397]
+
+
+                                                             Heallh Righl, et aL, CAB Nos. P-507, 510, 511
+
+
+her 19 points out of 35 and GW Health Plan received 15 points out of 35. She scored no offeror
+lower than 15 points. Overall, GW Health Plan received the second lowest score under the
+criterion. Reviewing the record, we are unable to discern any substantive comparative evaluation
+under this criterion among the seven offerors and the rationale for the actual numerical scores.
+
+           3.      Capacity to Accomplish the Work (15 points)
+
+       Section M.2.2.3 provides: "Capacity to accomplish the work specified in the Statement of
+Work. (MCOs will be evaluated on its capacity to accept MMCP enrollees and its ability to
+meet the access standards specified in Part I, Section C.16. Given the high numbers of
+women and chlldren in the eligible population, MCOs must demonstrate sufficient numb~rs
+of OB/GYNS, Pediatricians and Pediatric specialties. Points will be awarded in this section
+by evaluating the strength of the MCO's: (1) numbers of PCP open panels; (2) specialty
+provider networks; and (3) procedures for monitoring the timeliness of meeting appointment
+requests.)
+
+          In the 3-page evaluation guidance document, under the heading "Procedures for monitoring
+the access standards," the first item reads: "Award points based on the MCO's description of their
+internal methods [for] monitoring their compliance with the appointment standards listed in C.16.3
+• • • • n The next 7 items under the heading summarize the appointment standards found at Section
+
+C.16.3.1 through C.16.3.7 of the solicitation. Under another heading, "Numbers and locations
+of PCPs," the guidance provides inter alia" Award points based on the numbers of PCPs in the
+network and their locations. Types of PCPs are: Family practitioners, Pediatricians, OB/Gyns,
+and Internists. . .. Consider in your evaluation, the extent that the MCO has addressed
+communications with all members of the target population, including those who speak other
+languages and the hearing impaired." Under the final heading, "Numbers of and types of
+specialists," it states: "Award points based on the numbers of appropriate speciality providers.
+MCOs must demonstrate that they have sufficient numbers of Pediatric specialists and specialists
+with expertise in the populations with high risk factors .... Consider in your evaluation, the
+extent that the MCO has addressed communications with all members of the target population
+... . ..
+           Ms. Thompson testified as follows concerning this criterion:
+
+                   But a common problem is how to measure that capacity. Because, as we
+           know, individual primary care physicians have different methods of practices. For
+           instance, we have some primary care physicians who operate in a clinic setting who
+           only see Medicaid. We have some primary care physicians who operate in a
+           network in an individual practice office where they see Medicaid clients plus a lot ..
+           of commercial clients.
+
+                   So it's very difficult to measure capacity given all the different types of
+           doctors ....
+
+
+                                                                                                     /01'(
+                          •                     - 31 -
+                                                                     •                        [7398]
+
+                                                           Health Right, et aL, CAB Nos. P-507, 510, 511
+
+
+               We asked in the solicitation for HMOs to give us their networks, and also
+        to show what a -- how many additional members that they could sign up, so
+        beyond what they were already seeing, how many additional members could they
+        sign up. We felt that this was a good way that we could then compare plans for
+        how many new members that this plan could accept.
+
+                Now, as we expected, the information came in, in a lot if different ways in
+        the proposals. And, as you can see in the seven proposals, they all gave us a
+        different way of doing this ....
+
+                So what we looked at is, okay every HMO has got a combination of those
+        doctors who only see Medicaid. And every HMO has got a combination of those
+        who see full commercial practices as well. So let's put everybody on equal
+        footing. So we merely counted up the primary care physicians and compared those
+        counts across plans.
+
+               So that a plan that had 200 primary care physicians would be given more
+       points than a plan who had 80 primary care physicians, because we could not tell --
+       because it is better to have more physicians that could possibly take on members
+       than to have fewer. So it is better to have more than fewer in your network.
+
+              So we could not tell if a particular plan, if someone is low -- let's say the
+       lowest was 80 doctors -- because of the mixture of the makeup of the doctors, we
+       couldn't tell if 80 was going to be enough unless we did that very detailed analysis.
+       But we knew that in practice 80 times our method of 2000 would meet the
+       minimum requirements.
+
+               We moved off of that and said, okay, somebody that has 200, obviously
+       they're going to be able to take more recipients, and not only take more recipients,
+       but the recipients thitf they do get, those recipients will have better choices, more
+       choices. More choices is better.
+
+(Thompson Dep. 145-48). Even accepting that Ms. Thompson applied this rationale to her
+evaluation under this criterion, the explanation does not give insight to the remaining aspects of
+this criterion by which offerors were to be evaluated. Ms. Thompson's explanation contradicts
+the District's position that evaluators in assessing capacity were justified in distinguishing between
+network physicians who were dedicated to Medicaid patients and physicians who also served non-
+Medicaid recipients. (See Supplemental Agency Report, at 8). In its Agency Report, the District
+states that "[t]hose who proposed a greater capacity received a higher score for the capacity
+evaluation factor than those who proposed a lesser capacity." (A.R. at 37). But these generic
+explanations do not supply an adequate basis by which we can discern how or whether the TEB
+members fully evaluated offerors individually, the rationale for the disparate numerical scores,
+and each evaluator's comparative analysis.
+
+
+                                                                                                   jo1r
+                          •                       - 32 -
+                                                                       •                          [7399]
+
+
+                                                             Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+        We agree with the protesters that the "assumption" by which at least some members of the
+TEB determined that "[t]he network of DCGH [D.C. General Hospital] is eliminated from all
+plans for capacity determination, since all approved plans will offer a contract to D.C. General"
+was irrational. IS Amendment No.8, which required MCOs to offer a contract to DCGH and its
+clinics for "PCP, Specialist, and Hospital services" does not reasonably justify, on the record
+before us, this exclusion from the capacity evaluation. The District argues that the elimination
+of DCGH from the evaluation affected all offerors equally. DCHC, however, has an existing
+contract with DCGH with an established network of physicians. A contractual requirement that
+MCOs who currently do not have a contract with DCGH and its clinics offer one to DCGH does
+not assure any specific number of physicians.
+
+        4.      past performance on Contracts (10 pojnts)
+
+      Section M.2.2.4 provides: "Past performance on contracts with District, other
+governmental entities and private industry in terms of cost control, quality of work, and
+compliance with performance schedules. (MCOs will be evaluated on the past performance
+on contracts for similar health care services.)"
+
+        The 3-page guidance document provides: "Evaluate the MCO's past performance on
+contracts for similar health care services. Evaluate all three of the following: the organization's
+experience; the experience of the MCO's individual personnel; and the experience of the
+providers. In order of importance, similar health care services are:
+
+                Medicaid Managed Care Contracts
+                Other Managed Care Contracts
+                Medicaid Non-Managed Care Contracts
+                Other Health Care Contracts"
+
+        The TEB score sheets are wholly inadequate to support a rational evaluation under this
+criterion. The remainder of the record, including the District's post-protest submissions, supplies
+no substantive evaluation data which would remedy the inadequate evaluation documentation of
+the TEB.
+
+         The protesters' complain of inconsistent standards in evaluating the seven offerors' past
+performance. We agree. For example, Evaluator "A" gave American Preferred a score of7 points
+with the comment: "The parent entity executed effective approaches for quickly servicing Medicaid
+clients." The offeror, American Preferred, is a District entity incorporated in the fall of 1996. It has,
+therefore, no past performance to measure. On the other hand, GW Health Plan, DCHC, and Health
+Right have been operating in the District serving Medicaid recipients. In fact, GW Health Plan and
+
+
+
+15 The contracting officer did not discuss this assumption with Mr. Lewis during their single
+meeting and did not know the TEB's basis for the assumption. (Moorman Dep. 85, 88).
+
+
+                                                                                                         fORO
+                          •                     - 33 -
+                                                                     •                          [7400]
+
+                                                           Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+DCHC are currently under contract with the District for its Medicaid program. The evaluation record
+also lacks adequate documentation and rationale for the evaluators' treatment of the past performance
+of Health Right's parent. One evaluator gave Health Right no points, citing its status as a new entity.
+
+       5.      Financial StabUity (IO points)
+
+        Section M.2.2.5.1, created by Amendment No. 10, provides: "Financial Stability (MCOs
+will be evaluated on their ability to accept risk and to ensure continued access to care for its
+enrollees. )"
+
+        In the 3-page evaluation guidance document, Ms. Thompson states: "Evaluate the MCO's
+ability to accept risk and to ensure continued access to care for its members. Do they have
+adequate reserves/capital to be able to accept full risk for a large number of Medicaid [enrollees]?
+Review the historical financial information requested in Attachment J.8 and recent financial
+statements. Look for stability and solid resources. If the MCO does not have the historical
+financial information, evaluate the descriptions. Do they have access to sources of funds to ensure
+continued resources to pay providers?"
+
+      Ms. Thompson testified that all 7 offerors had demonstrated that they could meet the
+minimum financial requirements of the solicitation, for example at Sections C.ll and C.lO and
+Attachment 1-8. (Thompson Dep. 120). She testified:
+
+               So if we were to, say, give everybody 10 points there, we wouldn't be able
+       to take away any points on anybody and that wouldn't accurately describe the
+       differences in the area of financial stability among the seven firms.
+
+                So some firms, obviously, had greater financial stability, greater access to
+       finances. So those firms that had better financial security, greater financial
+       stability, were given more points. So at zero, it was zero that was the minimum --
+       everybody met minlrilUm. So we gave points to firms who could provide better
+       financial stability.
+
+
+
+               But what we were looking for, particularly in this area, when you think
+       about it, is what if down the road they start getting lO,OOO new members each
+       month. That's a strain on any organization. Are they going to be able to pay all
+       of the claims in a timely manner so that providers can continue to deliver service,
+       or are they going to, because they can't pay those claims, they're going to start, ..
+       you know, denying care to recipients.
+
+              So a fmn that had access to other resources, to be able to pull from those
+       resources, if they get into that particular situation where it's a fmancial strain, they
+                         •                     - 34 -
+                                                                   •                         [7401]
+
+
+                                                         Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+        were higher valued than a firm that didn't have that same access to additional
+        finances.
+
+(Id. at 120-22).
+
+       Having reviewed the score sheets, the deposition testimony, the few excerpts from the
+debriefings, and the proposals, it is impossible to determine the scope or content of the TEB
+members' individual or collective evaluation of each offeror, let alone a comparative evaluation.
+
+       Discussions
+
+         Under 27 DCMR § 1621.2, the contracting officer must (i) advise offerors of deficiencies
+in their proposals so that offerors are given an opportunity to satisfy the District's requirements,
+and (ii) attempt to resolve any uncertainties concerning the technical proposal and other terms and
+conditions of the proposal. The District and the intervenors have contended that because all
+proposals were found technically competent and met the solicitation'S minimum standards,
+discussions were unnecessary. We do not agree. Agencies are required to discuss weaknesses in
+an offeror's proposal where the weaknesses have a significant adverse impact on the proposal's
+technical rating. American Development Corp., B-251876, July 12, 1993, 93-2 CPD 1 49;
+Department ofthe.Navy-Recon., B-250158.4, May 28, 1993,93-1 CPD 1422. Discussions need
+not address every area in which a proposal receives less than a perfect score, and the need for
+meaningful discussions may be constrained to avoid technical leveling, technical transfusion, and
+an auction. Id. None of the latter constraints is an issue here. Although the TEB evaluations
+were so disparate and uninformative, if we take the District's generic contentions during these
+protest proceedings at face value, it was the weaknesses in the protesters' proposals - compared
+to the intervenors' proposals - that caused the protesters to receive very low technical evaluations
+and scores. If the District's contention is correct, then the discussions that were conducted with
+GW Health Plan, DCHC, and Health Right in March 1997 were inadequate and the offerors were
+significantly prejudiced.
+
+         It also follows that the contracting officer failed to provide the offerors a reasonable
+opportunity to submit any revisions to their proposals resulting from the discussions because the
+discussions were not meaningful and because the contracting agency did not believe it had to
+conduct discussions or request revised proposals or best and final offerors. 27 DCMR §
+1621.2(e). None of these requirements for discussions and the request for revised proposals is
+inconsistent with a MHCS procurement under Chapter 19. Neither logic nor the law precludes
+earlier rounds ofBAFOs during the evaluation phase prior to the contracting officer's request for
+BAFOs after final selection in order to enter into negotiations pursuant to 27 DCMR § 1911.
+                                                                                               .
+       c.      The Contracting Officer's Selection Decision
+
+        The contracting officer is ultimately responsible for evaluating the proposals and making
+the final selection pursuant to 27 DCMR § 1907. See 27 DCMR § 1905.5; Property Analysts,
+                           •                      - 35 -
+                                                                       •                       [7402]
+
+                                                             Health Righi, et aL, CAB Nos. P-507, 510, 511
+
+
+Inc., B-259853, June 13, 1995, 95-1 CPD , 270; Wyle Labs., Inc., 69 Compo Gen. 648 (1990),
+90-2 CPD , 107. Based on our discussion above, the record does not demonstrate the existence
+of a reasonable or rational evaluation. Without a proper evaluation, a proper selection decision
+could not be made by the contracting officer. See DNL Properties, Inc., B-253734, Oct. 12,
+1993, 93-2 CPD ,301; Universal Shipping Co., B-223905, Apr. 20, 1987, 87-1 CPD '424.
+For the same reasons discussed above concerning the evaluation, the contracting officer's June 4,
+1997 selection decision lacks reasonableness and rationality.
+
+        D.      Other Protest Grounds
+
+       A number of protest grounds effectively have been withdrawn by the protesters. We
+address those which have not been withdrawn.
+
+       The protesters argue that the court's remedial orders in Salazar V. District of Columbia
+materially altered the technical and pricing under the solicitation. It is clear from the record that
+the Amended Remedial Order imposed additional requirements on the offerors. The District and
+the selected offerors recognized as much. Nevertheless, we agree with the District that
+incorporating the Salazar requirements did not materially change the solicitation's requirements
+and did not require a recompetition.
+
+        The protesters alsO allege that the Mayor and certain members of the Council were required
+to recuse themselves from participating in the award decision because they received political
+contributions from two of the awardees. The Mayor had forwarded the proposed contracts to the
+Council for approval and the members of the Council had voted to approve the contracts. The
+protesters cite the following:
+
+                [N]o employee, officer, or agent [of the recipient] shall participate in
+                the selection, award, or administration of a contract supported by
+                Federal funds if a real or apparent conflict of interest would be
+                involved. Such a conflict would arise when the employee, officer, or
+                agent, or any member of his or her immediate family, his or her
+                partner or an organization which employs her is about to employ any
+                of the parties indicated herein, has a financial or other interest in the
+                firm selected for an award. The officers, employees and agents of the
+                recipient shall neither solicit nor accept gratuities, favors, or anything
+                of monetary value from contractors, or parties to sub agreements.
+
+45 C.F.R. § 74.42. Under the record presented here, we are unable to conclude that a real or
+apparent conflict of interest has been shown. Although District employees and officials ~ould
+carefully assure themselves that they are not in a conflict of interest situation, and obtaining a legal
+opinion where appropriate, we do not believe a violation of this regulation has occurred.
+
+       Health Right also contends that the solicitation violates the District Medicaid statute and
+                          •                      - 36 -
+                                                                      •                         [7403]
+
+                                                            Health Righi, et al., CAB Nos. P-S07, 510, 511
+
+
+federal law. According to Health Right, the District's Medicaid statute requires the District to
+award a contract to Health Right's parent, Unity Health Care, Inc. ("Unity") because Unity is the
+only .. significant" FQHC and a primary care provider from which Medicaid beneficiaries have a
+right to seek care. Also Health Right states that the procurement will not provide access to FQHC
+services as required by sections 1905(a)(2)(A) and 1915(b) of the Social Security Act. We believe
+the allegations are without merit. The prior protest proceedings resolved Health Right's
+allegations and it interposed no objection to the voluntary dismissal of those earlier consolidated
+protests. Health Right has also argued that the contracts awarded to the intervenors lacked clauses
+required under 45 C.F.R. Part 74. We agree with the District that this does not state a valid
+ground for protest.
+
+       DCHC argues that it was entitled to preference points as a local business enterprise. We
+do not agree. DCHC failed to comply with the self-certification requirements when it failed to
+submit an acknowledgment letter from the Department of Human Rights and Minority Business
+Development as part of its self-certification package. The requirement is part of the District's
+procurement regulations. 27 DCMR § 818.2.
+
+        The protesters argue that the procurement violates D.C. Code § 1-359. GWHealthPIan
+and DCHC argue that because they are current Medicaid providers with current contracts with the
+District, section 1-359 requires the District to exclude from the managed care program any
+Medicaid recipients who are already enrolled in a managed care program. The District states that
+ambiguities in the statute will be eliminated by amendment. The District also argues that it would
+do violence to the statute to interpret it as requiring the District to contract with current contractors
+in perpetuity. We need not address this issue in light of the remedy we are ordering. GW Health
+Plan and DCHC will have an opportunity to enter into a contract with the District under the
+solicitation as modified by Salazar.
+
+        E.      Remedy
+
+        The procurement violations in this case-are significant and material. One remedy option
+would be to require reopening of the evaluation process, with meaningful discussions, followed
+by BAFOs, a valid re-evaluation conducted by a technical evaluation board and the contracting
+officer, properly documented, and followed by a proper and documented selection decision by the
+contracting officer, as we have discussed in our decision. Under this approach, any of the seven
+offerors, including the protesters, could well be selected for an award.
+
+        The Board previously sustained the Director's determination to proceed with award and
+performance to the four intervenors, based on the urgent and compelling circumstances
+represented by the Director. Returning this matter for re-evaluation and selection is neither
+possible nor in the bests interests of the District. Therefore, we will not order the intervenors'
+contracts to be terminated. On the other hand, the solicitation has never precluded the selection
+of more than four offerors. We believe that when considering all the factors, extending the
+opportunity to negotiate contracts with the protesters is the proper remedy. First, the public
+
+
+                                                                                                      /or4
+                        •                      - 37 -
+                                                                   •                       [7404]
+
+                                                         Health Right, et al., CAB Nos. P-507, 510, 511
+
+
+interest in maintaining the integrity of the procurement system favors the remedy. The remedy
+is also in the best interests of the District government. Terminating the recently awarded contracts
+and restarting the evaluation process would jeopardize urgent and compelling needs determined
+by the Director of the Office of Contracting and Procurement.
+
+        We have considered the agency's mission. The agency is capable of managing all seven
+MCOs. Under the program now being replaced, the agency is managing six MCOs plus close to
+three hundred fee-for-service providers. One concern expressed in the record -- that when the
+agency has more MCOs to oversee, "you tend to spend time with the ones who are not up to par
+with the rest of the group" (Thompson Dep. 47-48) - does not appear to apply here because there
+is no evidence that any of the MCOs are "not up to par with the rest of the group." The Disttict
+does not challenge that all seven of these offerors are technically competent and qualified to
+perform under the Medicaid managed care program. Although the District does not make any
+specific arguments, we have also considered whether having seven contractors rather than only
+four contractors weighs against the remedy. Of course, the number of Medicaid recipients
+available for each of seven MCOs will be less than in the case of only four MCOs (id. at 49-50)
+and thus each MCO may receive fewer recipients from the approximate total pool of 80,000
+recipients. But the record shows that even with seven MCO contractors, the MCOs will generally
+have more enrollees than the six MCO contractors had under the current District program which
+has a hybrid of MCOs and fee-for-service providers. The District has presented no evidence that
+any of the offerors cannot financially undertake a managed care contract among a field of seven
+MCOs. According to Ms. Thompson, more managed care provider choices are better. If having
+more providers in one plan is good for Medicaid recipient enrollees, then more choices among
+more plans is also good for Medicaid recipients. The District has made no showing that the
+quality of health care will be worse off with seven rather than four MCOs. We think the record
+shows the opposite. There is no persuasive evidence in the record that the quality of health care
+services available through GW Health Plan, DCHC, or Health Right is any less than that available
+through D.C. Chartered, Capital Community, Prudential, or American Preferred.
+
+        The District has rePeatedly emphasized the importance of the cost savings that it will
+realize in the new program. That factor too favors negotiating contracts with GW Health Plan,
+DCHC, and Health Right. DCHC's pricing rates and GW Health Plan's rates were Significantly
+lower than any of the awarclees. The record shows that the District would realize substantial cost
+savings with these contractors. (See, e.g., Health Right Protest, at 10; Moorman Dep. 121).
+Health Right's pricing rates were lower than three of the four awardees.
+
+       Based on the entire record, balancing the extent of the procurement violations, the integrity
+of the procurement system, the mission of the agency responsible for the Medicaid program, and
+the District's needs for the Medicaid program, and having considered carefully all of the iktors
+in D.C. Code § 1-1189.8(e)(1) (1992) and Board Rule 314.2, we conclude that the appropriate
+remedy is to direct the contracting officer to negotiate contracts with the DCHC, GW Health Plan,
+and Health Right, assuming they are otherwise responsible, under terms consistent with the
+contracts awarded to the intervenors including the modifications required by the Salazar Amended
+                          •                    - 38 -                 •                      [7405]
+
+                                                            HeallhRight, eraZ., CAB Nos. P-507, 510, 511
+
+
+ Remedial Order. Because the contracting officer never made a proper evaluation and the TEB's
+ evaluation was seriously inadequate, it is not clear which firms the contracting officer would rank
+ first and second based on technical and price after proper discussions, BAFOs, re-evaluations, and
+ selection. Therefore, the District shall modify t~e contracts of D.C. Chartered Health Plan and
+ Capital Community Health Plan to eliminate the provision in each which requires them to receive
+ the two-thirds and one-third "default" (automatic) assignments. The District shall divide automatic
+ assignments proportionally among the managed care contractors, subject to the District's right
+ under inter alia Article l.G.2.d of the contract to adjust the rate of automatic assignments if a
+ contractor fails to comply with the terms of its contract.
+
+        SO ORDERED.
+
+
+ DATE: October 15, 1997
+                                                        J
+                                                             inistrative Judge
+
+
+CONCURRING:
+
+
+
+~·A1b.~w
+~~E. sIMKrns
+Chief Administrative Judge
+
+
+
+
+                                                                                                 .
+

@@ -1,0 +1,168 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+MONT “T” QUE INC.                              )
+                                               )    CAB No. P-0725
+Under IFB No. POKT-2005-B-0082-CM              )
+
+       For the Protester: Ms. Renee Wallace, President, Mont “T” Que Inc., pro se. For the District of
+Columbia Government: Howard Schwartz, Esq., Senior Assistant Attorney General, Talia S. Cohen,
+Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                  OPINION DENYING PROTEST
+                                       LexisNexis Filing ID 10982505
+
+        Mont “T” Que Inc. (“MTQ”), has protested the award of a contract to Patch Management, Inc.,
+for rental of spray patchers with drivers/operators for pothole patching and road repair services. The
+contracting officer rejected MTQ’s bid as nonresponsive because MTQ’s bid price, although apparently
+substantially lower than Patch’s bid price, was ambiguous. MTQ’s bid contained hand-written
+notations under the price schedule table seemingly identifying prices for materials. The District filed an
+Agency Report asserting that the protest was untimely filed and that the decision to reject MTQ’s bid
+was correct. We conclude that MTQ timely filed the protest but that the contracting officer properly
+determined that MTQ’s bid was ambiguous due to the handwritten annotations on the price schedule
+and thus nonresponsive. Accordingly, we deny the protest.
+
+                                           BACKGROUND
+
+        On August 1, 2005, the District’s Office of Contracting and Procurement (“OCP”) issued
+Invitation for Bids No. POKT-2005-C-0082-CM on behalf of the District Department of Transportation
+(“DDOT”) for the rental of spray patchers with drivers/operators for pothole patching and road repair
+services. (Agency Report (“AR”) at 2-3; AR Ex. 1). Section B.2 of the solicitation contemplated a
+requirements contract with payment based on fixed-unit prices for specified services. The price
+schedule under section B.3 provided as follows:
+
+      Contract   Item Description          Monthly      Estimated Total Rate for 12
+      Line Item                            Rental Rates Quantity months Rental Period
+      No. (CLIN)
+      0001       Rental of spray injection
+                 patchers with drivers $ ________ 3               $ ________________
+                 /operators and materials
+                 for pothole patching and
+                 road repair services
+                                              -2-                       Mont “T” Que Inc., CAB No. P-0725
+
+
+       Under the table, was the following:
+
+       Prices shall be effective for a period of one (1) year from date of award. The District
+       reserves the right to exercise the option years for three (3) additional years at the same
+       price, terms and conditions.
+
+        Bid opening was on September 6, 2005, with bids submitted by MTQ and Patch. (AR Exs. 1
+and 2). Patch’s bid for twelve months was $892,800.00, based on a monthly unit price of $24,800. (AR
+Ex. 9). MTQ’s price schedule in the bid read as follows:
+
+
+     Contract  Item Description          Monthly      Estimated Total Rate for 12
+     Line Item                           Rental Rates Quantity months Rental Period
+     No.(CLIN)
+     0001      Rental of spray injection
+               patchers with drivers $ 16,000         3         $ 48,000 x 12 =
+               /operators and materials                         $576,000
+               for pothole patching and
+               road repair services
+
+Below the price schedule table, appeared the following handwritten notations made by MTQ:
+
+       Unit Cost
+       Diesel Fuel $5.00 per gallon
+       Asphalt per ton $48.00
+       Liquid TAC $40.00 per 5 gallon bucket
+
+(AR Ex. 3). By memorandum dated September 15, 2005, the contracting officer found MTQ’s bid
+nonresponsive “for failure to include the cost for required materials in its unit bid price as required in
+Section B of the solicitation.” (AR Ex. 4). The contracting officer requested advice from OCP’s legal
+counsel regarding the finding that MTQ’s bid was nonresponsive. (AR Ex. 4). OCP legal counsel
+advised OCP to issue a letter to MTQ requesting that MTQ clarify whether it intended to include the
+handwritten information below the CLIN No. 0001 price schedule in its bid. (AR Ex. 5). By letter of
+October 13, 2005, the contracting officer wrote to MTQ:
+
+       The Office of Contracting and Procurement (OCP) has reviewed your bid submitted in
+       response to the above referenced solicitation. OCP is seeking clarification of the
+       handwritten information on the Price Schedule page with respect to the instructions
+       under Section C.1 of the solicitation.
+
+       Please advise if the handwritten information is to be included in the total bid price.
+       Your response should be received in [this] office by October 21, 2005.
+
+(AR Ex. 6). On October 13, 2005, the contract specialist sent the clarification letter to MTQ via United
+Parcel Services and UPS confirmed that MTQ received the clarification letter on October 14, 2005.
+                                                -3-                       Mont “T” Que Inc., CAB No. P-0725
+
+
+(AR Ex. 8). On October 13, 2005, the contract specialist also attempted to contact MTQ by telephone
+and to fax the letter to MTQ using the numbers provided in its bid. Both telephone numbers in the bid
+were disconnected and the fax transmission to the listed MTQ fax number failed. (AR Exs. 2 and 9).
+MTQ never responded to the October 13, 2005 clarification letter. On November 9, 2005, the
+contracting officer called MTQ and left a voicemail message giving MTQ until close of business on
+November 10, 2005, to respond. MTQ did not respond. (AR Ex. 9). By a determination and findings
+dated November 23, 2005, the contracting officer decided to award the contract to Patch because
+MTQ’s bid was ambiguous as to its total price. (AR Ex. 9). The contracting officer determined that
+Patch’s bid of $24,800 per month was fair and reasonable based on the government estimate of $24,500
+per month. On December 23, 2005, Patch received award of Contract No. POKT-2005C-0082-CM
+pursuant to the solicitation. (AR Ex. 12). On January 5, 2006, the contract specialist mailed to MTQ a
+notice of the contract award to Patch which is dated January 4, 2006.
+
+       On January 12, 2006, MTQ filed its protest, alleging that MTQ had the lowest bid price and
+should have been awarded the contract. The District filed its Agency Report on February 2, 2006.
+MTQ responded to the Agency Report on February 16, 2006. In its response, MTQ claims that its bid
+price was $576,000 and that the “handwritten information at the bottom of page 3 – section B.3 had
+nothing to do with the bid price in Line item CLIN 0001.”
+
+                                              DISCUSSION
+
+        We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        The District argues that the protest is untimely because MTQ should have known the basis of its
+protest on October 14, 2005, when it received the October 13 clarification letter. Citing our decision in
+Sigal Construction Corp., CAB No. P-0690, et al., Nov. 24, 2004, 52 D.C. Reg. 4243, 4254-56, the
+District argues that the clarification letter was “functionally equivalent to an official action taken by the
+contracting officer which is adverse to MTQ . . . .” (AR at 6). We do not agree. That communication
+from the contracting officer required MTQ to respond, clarifying its bid, but it did not constitute any
+adverse action against MTQ. MTQ’s receipt of the January 4, 2006 notice of the award started the 10-
+day period for filing its protest. Since MTQ filed its protest on January 12, the protest was timely.
+
+        On the merits, we deny MTQ’s protest because the handwritten notations created an ambiguity
+in MTQ’s bid price. “Bids that are indefinite, uncertain, or ambiguous are normally rejected as
+nonresponsive.” J. Cibinic & R. Nash, Formation of Government Contracts 569 (3d ed. 1998).
+Although the annotations on MTQ’s bid could be interpreted as simply reciting elements already
+incorporated in the monthly unit price, it is also reasonable to read the notation as providing the pricing
+for road repair materials beyond what is specified in the monthly unit price which would require
+additional payment by the District government. Under the latter interpretation, the bid would be
+nonresponsive as it did not offer a firm fixed price as required by the IFB. See, e.g., Reid & Gary
+Strickland Co., B-239700, Sept. 17, 1990, 90-2 CPD ¶ 222 (notation on Strickland's bid that it had
+“allowed $500,000” for doors rendered the bid ambiguous as to price and thus nonresponsive). Section
+B.2 of the solicitation required bidders to submit fixed unit prices. MTQ’s handwritten “unit cost”
+information on the price schedule page rendered the bid ambiguous as to whether MTQ’s bid included
+these handwritten “unit cost” amounts for materials. Since MTQ’s bid was ambiguous as to the total
+bid price, the contracting officer properly determined to reject MTQ’s bid as nonresponsive.
+                                         -4-                    Mont “T” Que Inc., CAB No. P-0725
+
+
+
+
+      For the reasons discussed above, we deny MTQ’s protest.
+
+
+      SO ORDERED.
+
+
+DATED: April 6, 2006                            /s/ Jonathan D. Zischkau
+                                                JONATHAN D. ZISCHKAU
+                                                Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

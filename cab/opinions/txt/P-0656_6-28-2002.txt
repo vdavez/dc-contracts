@@ -1,0 +1,160 @@
+                        GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                              CONTRACT APPEALS BOARD
+
+
+PROTEST OF:                                         )
+                                                    )
+        IIU Consulting Institute, Inc.              )        CAB No. P-0656
+        Under IFB No. POHA-2002-B-0306              )
+
+
+      For the Protester: IIU Consulting Institute, Inc., Frank Ukoh, President, pro se. For the
+Government: Howard Schwartz, Esq. and Warren J. Nash, Esq., Assistants Corporation Counsel.
+
+       Opinion by Administrative Judge Matthew S. Watson, with Chief Administrative Judge
+Lorilyn E. Simkins and Administrative Judge Jonathan D. Zischkau, concurring.
+
+
+                                                  OPINION
+                                          (Courtlink Filing ID 775133)
+
+        IIU Consulting Institute, Inc. ("IIU" or “protester”) was the higher of two bidders on an
+open market solicitation for Landscaping Services for the Department of Parks and Recreation,
+bids for which were opened on May 9, 2002. It is undisputed that the low bid submitted by
+Holston Brothers, Inc., (“Holston”) did not include EEO material as required by Section I.8 or a
+Tax Certification as required by Section K.2 of the solicitation, and was not signed in the Offer
+section of the bid (Box 17) as required by Section L.11 of the solicitation. The bid also did not
+include a resume of the designated chief horticulturist as required in Section L.17, or
+certification of the horticulturist as required in Section C.5.1. (See Holston Bid, Agency Report
+(“AR”) Ex. 3). The protest of IIU raises two issues for the Board's consideration: 1) whether the
+contracting officer may accept the bid from a bidder which did not sign the bid, and 2) whether
+Holston's bid was nonresponsive due to: the lack of a tax certification affidavit; the lack of EEO
+material; and failure to submit a resume of the designated horticulturist with the bid. A
+certification as a horticulturist was submitted after opening in place of the resume.1
+
+       The District asserts that: 1) the contracting officer may accept the unsigned bid of
+Holston since there is sufficient written evidence that Holston intended to be bound by its bid,
+and 2) that the contracting officer may permit correction of the additional deficiencies as minor
+informalities which are matters of responsibility, not responsiveness, permitted to be cured
+before award. The Board agrees with the District and dismisses the protest.
+
+
+1
+   The protester also alleges in its Comments on Agency Report that ”the certificate accepted was issued in
+Maryland and not the District of Columbia as required by the IFB.” The IFB only requires “a qualified part-time
+certified Horticulturist.” In fact, there are no governmental certification programs for horticulturists. All such
+certifications are made by private associations. The certification submitted is from the Maryland Nursurymen’s
+Association. It does not appear that there is any certifying association in the District of Columbia.
+                                                2         IIU Consulting Institute, Inc., CAB No. P-0656
+
+
+
+
+                                         DISCUSSION
+
+Unsigned Bid
+
+        Section 1535 of the Procurement Regulations deals with “Minor Informalities or
+Irregularities in Bids.” 27 DCMR §1535. Specifically sub§2(c) provides that an unsigned bid
+may be accepted when:
+
+       the bid is accompanied by other material with the bid that indicates the bidder's
+       intention to be bound by the unsigned bid (such as the submission of a bid
+       guarantee or a letter signed by the bidder, with the bid, referring to and clearly
+       identifying the bid itself).
+
+       Holston's bid package included: 1) the bid envelope containing the sealed bid, the
+Representations and Certifications and Other Statements of Bidders (Section K), which were
+signed by Scott Deosaran, and 2) a list of key personnel, including the name of Scott Deosaran
+as Account Manager. Moreover, the bid envelope contained a label for the receipt of hand
+delivered bids that was signed by Scott Deosaran. (Exhibit 4). The certifications, as well as the
+bid receipt, identified the solicitation and signed by the representative of the bidder meet the
+requirements of the procurement regulations to allow acceptance of the bid without a signature in
+the proper box. The language of the District regulation is identical to the language of the
+corresponding Federal Acquisition Regulations. 48 CFR §14.405. The General Accounting
+Office and the Board interpret the language similarly. See Wilton Corporation, 64 Comp. Gen.
+233 (1985), 85-1 CPD ¶128.
+
+Lack of other specific items
+
+       We agree with the District that the lack of a tax certification affidavit, EEO material, and
+resume of the horticulturist were also minor informalities which could be corrected after bid
+opening in accordance with 27 DCMR §1535.3 which states:
+
+       When the bidder fails to provide timely certifications or information with respect
+       to Equal Opportunity and Affirmative Action Programs or other IFB
+       requirements, the contracting officer may allow additional time for the submission
+       to be made prior to award.
+
+Each of the bid deficiencies falls within the ambit of the regulation. Further, we find that
+attaching a certification from a recognized trade association is substantial compliance with the
+resume requirement and was reasonably accepted by the contracting officer. With specific
+reference to the resume requirement, this matter is distinguishable from Trifax Corporation,
+CAB No. P-624, Mar. 20, 2001, 49 D.C. Reg. 3346, cited by Protester. In Trifax, the bidder
+“concede[d] that it never intended to designate the employees to be provided under the contract,
+                                                           3           IIU Consulting Institute, Inc., CAB No. P-0656
+
+
+but only the “names of some of our [employees]” at p. 7, while in the instant case the bidder
+committed itself to utilize the named horticulturist.2
+
+       For these reasons, the Board finds that it was in the discretion of the contracting officer to
+find each of the oversights in the bid were “minor informalities” and permit their cure after bid
+opening and prior to award.
+
+June 28, 2002                                                    /s/ Matthew S. Watson
+                                                                MATTHEW S. WATSON
+                                                                Administrative Judge
+
+CONCURRING:
+
+
+
+     /s/ Lorilyn E. Simkins
+LORILYN E. SIMKINS
+Chief Administrative Judge
+
+
+  /s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Administrative Judge
+
+
+
+
+                                                          NOTE
+
+        Although the Board will not interfere with the award in this matter, the Board believes that
+the District should impress on contractors the need to carefully and fully prepare their bids. While
+one can find, as we have, that each separate impropriety is, by itself, minor, there is some question as
+to whether the contracting officer should have considered the numerous deficiencies, in total, to show
+a lack of responsibility. Certainly the bidder did not prepare the bid carefully. The expectation on
+the part of bidders of such cavalier treatment of bidder conformity with requirements may indicate
+why only two bids were received on this procurement. If there was such a lack of care by the
+successful bidder in meeting the formal bid requirements, there may have also been a lack of care in
+analyzing and understanding of substantive solicitation requirements and computing the bid price.
+
+
+2
+   The Board again notes that, as stated in the Trifax decision, the clause is not appropriate for formally advertised
+(IFB) solicitations.
+                                                 4         IIU Consulting Institute, Inc., CAB No. P-0656
+
+
+Although a lower price may be paid, it does not benefit the District in the long run to award contracts
+to bidders who have an erroneous understanding of the nature or difficulty of the work to be done.
+
+        We also note that bidders often ignore District of Columbia licensing requirements. In this
+matter, Holston submitted Maryland, rather than District of Columbia, licenses. Although this may
+be sufficient for bidding purposes, since there is reciprocity between the District and Maryland, 27
+DCMR §2310, there is no indication in the Agency Report that District licenses were obtained before
+award. Notwithstanding the availability of reciprocity permitting the District to issue a District
+license on the basis of a Maryland license, a contractor is subject to a $500 per day fine if it fails to
+obtain issuance of a District of Columbia license, even if it possesses a valid Maryland license.
+Department of Health v. Williams Pest Control, DOH Office of Adjudication and Hearings, Case
+No.: I-00-20085 (June 6, 2001).
+
+        We believe that contracting agencies must demand attention to bid requirements and have an
+obligation to zealously enforce regulatory requirements of other District agencies, in particular, to
+insure that District licensing requirements are timely complied with.
+

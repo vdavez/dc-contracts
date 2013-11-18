@@ -1,0 +1,180 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+ACE COMMUNICATIONS                                    )
+                                                      )              CAB No. P-0772
+Under Contract No. DCTO-2008-C-0064                   )
+
+
+      For the Protester, Ace Communications: Mr. Frank Clancy, Jr., pro se. For the District of
+Columbia Government: Howard Schwartz, Esq., Senior Assistant Attorney General, and Mark
+Hansen, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                            OPINION
+                                         Filing ID 20555807
+
+         Ace Communications protests the District’s award of a contract to Audio Visual Innovations
+(“AVI”) to install a new audio/visual system in the Metropolitan Police Department (“MPD”)
+Synchronized Operations Command Center (“SOCC”) complex. Ace Communications contends
+that it should have received the award because it was an “equally qualified firm” and proposed a
+lower price than the awardee. The record shows no error on the part of the contracting officer in
+determining that AVI’s offer was more advantageous than Ace’s offer, considering technical and
+price factors. AVI’s technical proposal was rated significantly higher than Ace’s proposal such that
+the relatively smaller pricing advantage for Ace did not change the ultimate ranking of offerors with
+AVI ranked highest. We conclude that the contracting officer’s evaluation and selection did not
+violate the terms of the solicitation or District law. Accordingly, we deny the protest.
+
+                                         BACKGROUND
+
+       On December 13, 2007, the District of Columbia Office of Contracting and Procurement
+(“OCP”), on behalf of the MPD, issued Request for Proposals (“RFP”) No. DCTO-2008-R-0025 for
+the provision and installation of a new audio/visual retrofit in various locations at the MPD SOCC
+complex. (AR Ex. 1, Sec. B.1). The scope of work required the upgrade/replacement of the
+audio/visual system in the (1) SOCC Command Information Center; (2) SOCC Intelligence
+Operations Center; (3) SOCC Secure Compartmented Information Facility; (4) SOCC Conference
+Room; (5) Chief’s Conference Room; and (6) MPD HQ Conference Room. The contractor was
+required to replace/upgrade the AMX control system and assure connectivity with various other
+systems. OCP intended to award a fixed-price contract to the offeror with a proposal most
+advantageous to the District. (AR Ex. 2, Sec. L). The District did not amend the RFP, and received
+four proposals prior to the January 5, 2008 closing date. (AR Ex.2, at 3).
+
+        Section B.3.1 of the RFP required fixed-unit prices. The RFP contemplated eight CLINs for
+the base period, which were to be added by the offerors to propose a total price for the base period.
+Additionally, the RFP contemplated four fixed-price one year option periods to provide maintenance
+                                                 -2-              Ace Communications, CAB No. P-0772
+
+and warranty of the audio/visual retrofit. (AR Ex. 1, Sec. B). The District intended to award the
+contract to the offeror whose proposal provided the best value to the District. (AR Ex. 1, Sec. M).
+
+        The contracting officer convened a source selection panel on January 17, 2008, and provided
+instructions on how to properly evaluate the technical proposals consistent with the rating scale
+contained in the RFP, including instruction that each score had to be substantiated by recording the
+strengths and weaknesses. The solicitation provided a maximum of 70 points for the technical
+evaluation criteria, divided into four categories:
+
+               Understanding of the requirement:                        20 points
+               Management of operations and resumes:                    20 points
+               Quality control:                                         20 points
+               Past performance:                                        10 points
+
+       The source selection panel evaluated the four technical proposals and forwarded the
+following consensus scores to the contracting officer:
+
+                   Factor 1         Factor 2           Factor 3        Factor 4     Total
+                                                                                    Score
+   OFFEROR      Understanding    Management          Quality              Past
+                 Requirement     of Operations       Control          Performance
+                   20 Points        20 Points       20 Points          10 Points
+   AVI             20 Points        20 Points       20 Points           10 Points    70
+                  Consensus        Consensus       Consensus           Consensus
+                   Rating 5         Rating 5        Rating 5            Rating 5
+   Activu         17.5 Points      17.5 Points      20 Points           10 Points    65
+                  Consensus        Consensus       Consensus           Consensus
+                  Rating 3.75     Rating 3.75       Rating 5            Rating 5
+   Ace/Tri          5 Points         7 Points       12 Points           10 Points    34
+   Tech           Consensus        Consensus       Consensus           Consensus
+                  Rating 1.25       Rating 3       Rating 1.75          Rating 5
+   Vantix           5 Points         5 Points       10 Points           10 Points    30
+                  Consensus        Consensus       Consensus           Consensus
+                  Rating 1.25     Rating 1.25      Rating 2.5           Rating 5
+
+(AR Ex. 2, at 8). The evaluators determined that only AVI provided a true turnkey solution and
+provided timelines for the work that met the requirements of the solicitation. Other comments
+included that AVI fully understood the requirements, had a clear and concise proposal, and more
+than 30 years experience. (AR Ex. 4). The contracting officer, contracting specialist, and cost/price
+analyst evaluated each offeror’s price proposal. (AR Ex. 2, at 8). The RFP stated that the best value
+proposal would receive the maximum 30 points score for the price factor, with other proposals
+receiving proportionally lower scores. (AR Ex. 1, Sec. M.3.2). The contract specialist initially
+awarded AVI 30 points for its price evaluation as providing the best value to the District. The
+contracting officer corrected the contract specialist’s initial impression on price evaluation,
+determining that the maximum 30 points should be awarded to the offeror with the lowest price and
+proportionally lower scores to other offerors, consistent with the District’s intent for the pricing
+factor:
+                                                -3-            Ace Communications, CAB No. P-0772
+
+               Offeror                 Score                  Price
+               AVI (awardee)           23                     $1,107,966.71
+               Activu                  16                     $1,548,847.85
+               Ace (protester)         30                     $868,059.27
+               Vantix                  0                      $375,000.00
+
+(AR Ex. 2, at 11). Vantix received a 0 score for price as they did not provide option year prices and
+thus its proposal was unacceptable. The contracting officer therefore determined Ace’s price to be
+the lowest. Adding the revised price evaluation scores to the technical evaluation scores yielded the
+following point totals:
+
+               Offeror                 Technical              Price           Total
+               AVI (awardee)           70                     23              93
+               Activu                  65                     16              81
+               Ace (protester)         34                     30              64
+               Vantix                  30                     0               30
+
+       On February 27, 2008, the District awarded the contract to AVI in accordance with RFP
+Section L.1.2 which states that the District may award contracts on the basis of initial offers
+received, without discussion. The contracting officer determined that the difference in technical
+scores between AVI and the protester “virtually eliminated Ace/Tri Tech from consideration for
+award.” (AR Ex. 2, at 11).
+
+       On March 4, 2008, Ace filed the instant protest with the Board, contending that “this award
+was made to an equally qualified firm whose bid price was significantly higher than the bid price
+which we had submitted.” (Protest). By letter dated March 18, 2008, the District notified AVI to
+cease performance due to the filing of the protest. On March 21, 2008, the District filed a
+Determination and Finding to proceed with the Protest while a Protest is pending (“D&F”), and Ace
+Communications opposed the District’s D&F. In an order of March 28, 2008, the Board sustained
+the CPO’s determination to proceed.
+
+        Ace filed a motion for summary judgment on March 24, 2008, alleging that the District had
+failed to timely file its Agency Report, and thus that the protest allegations should be taken as
+unrebutted. The District, however, timely filed its Agency Report later the same day. On March 26,
+2008, Ace filed a second motion for summary judgment, contending that the Agency Report was
+deficient and incomplete for failing to include its proposal and the proposal of AVI. In the motion,
+Ace further contends that the District’s Agency Report was not timely filed because it was not
+electronically filed until 5:16 p.m., that is, past the 5 p.m. standard closing time for the Board. On
+March 27, the District supplemented the Agency Report by submitting the proposals of Ace and
+AVI. The District also argues that the Agency Report was timely filed because the Board’s rule for
+electronic filing, Rule 403.1, states that “any document filed with the Board before midnight local
+time at the Board’s offices is filed with the Board on that date.”
+                                                 -4-           Ace Communications, CAB No. P-0772
+
+
+                                               DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+         Our standard of review for proposal evaluations and the selection decision is whether they
+were reasonable and in accord with the evaluation and selection criteria listed in the solicitation and
+whether there were material violations of procurement laws or regulations. Trifax Corp., CAB No.
+P-0539, Sept. 25, 1998, 45 D.C. Reg. 8842, 8847. Ace has neither argued nor shown that any aspect
+of the evaluation of proposals or selection decision was flawed or unsupported by the record. The
+awardee, AVI, received a perfect technical score of 70 points and was the only offeror to provide a
+true turnkey solution requested by the solicitation. Ace was a distant third with a technical score of
+34 points. Even with its 7 point advantage in pricing, Ace’s total score of 64 points is well below
+AVI’s total score of 93. Having reviewed the contracting officer’s selection memorandum, and the
+underlying consensus evaluation reports of the evaluation panel, we conclude that the technical
+evaluations and selection decision were adequately documented and rationally supported. Regarding
+Ace’s allegation that the District’s Agency Report was untimely filed, we agree with the District that
+its filing met the Board’s deadline for electronic filing.
+
+        Because Ace has not demonstrated that the evaluations and selection decision violated the
+law or the terms of the solicitation, we deny the protest.
+
+       SO ORDERED.
+
+DATED: July 8, 2008                                    /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

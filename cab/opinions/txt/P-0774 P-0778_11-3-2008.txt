@@ -1,0 +1,850 @@
+              DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+LOTTERY TECHNOLOGY ENTERPRISES                       )
+                                                     )       CAB Nos. P-0774, P-0778
+Under Solicitation No. CFOPD-07-R-053                )
+
+
+       For the Protester: Joanne Doddy Fort, Esq. and Walter Buzzetta, Esq., Baach, Robinson
+& Lewis PLLC. For the District of Columbia Government: Howard Schwartz, Esq., Senior
+Assistant Attorney General, and Talia S. Cohen, Esq., Assistant Attorney General. For the
+Intervenor: Peter F. Garvin, III, Esq. and Grant H. Willis, Esq., Jones Day.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                          OPINION
+                                        Filing ID 22306255
+
+
+        Lottery Technology Enterprises (“LTE”) has protested the District’s proposed award to
+W2I Joint Venture of a contract to provide to the DC Lottery and Charitable Games Control
+Board (“DCLB”) a new gaming system platform. LTE raises numerous challenges to the
+technical and price evaluations and selection decision made by the contracting officer of the
+Office of the Chief Financial Officer (“OCFO”). We conclude that some of the protest grounds
+raised by LTE are untimely and that the remaining grounds do not merit sustaining the protests.
+Accordingly, we dismiss in part and deny in part the consolidated protests.
+
+                                      BACKGROUND
+
+        On May 23, 2007, OCFO issued a Request for Proposals, Solicitation No. CFOPD-07-R-
+053. The solicitation sought a contractor to provide to the DC Lottery and Charitable Games
+Control Board (“DCLB”) a new gaming system platform. The type of contract contemplated
+under the RFP was a fixed-priced contract (based upon a fixed fee rate applied to DCLB sales)
+with the contractor’s fee based upon a percentage of DCLB sales. OCFO originally
+contemplated a multi-year contract with a base period of five years, and five one-year option
+periods. (Agency Report (“AR”) Ex. 2, §§ B.10.3, B.10.4). The RFP required offerors to
+propose a fee rate as a percentage to apply to the Net Instant Sales and Net On-line Sales. The
+RFP stated that the successful offeror would receive no compensation from the DCLB prior to
+the completion of a conversion period lasting a maximum of eighteen months. The RFP required
+the contractor to complete the conversion period no later than November 22, 2009, at which
+point the performance period of the contract would begin. At the conclusion of the conversion
+period, the contractor is required to begin providing to the DCLB the lottery services
+contemplated in the RFP. (AR Ex. 2, § B.10.2).
+
+       Prior to the RFP closing date, OCFO issued three amendments to the RFP.              By
+                                                 -2-                    Lottery Technology Enterprises
+                                                                             CAB Nos. P-0774, P-0778
+
+Amendment No. 1, issued July 23, 2007, OCFO extended the date proposals were due from
+August 24, 2007, to September 13, 2007, and also provided to potential offerors responses to 126
+questions previously submitted to OCFO by interested parties on June 21, 2007. (AR Ex. 5). By
+Amendment No. 2, issued August 20, 2007, OCFO responded to 48 additional questions
+submitted by potential offerors. (AR Ex. 6). By Amendment No. 3, issued September 12, 2007,
+OCFO extended the RFP due date to September 20, 2007, deleted Section K.4 in its entirety, and
+amended Section M.4.1.2. The amendment to Section M.4.1.2 increased from three percent to
+five percent the “reduction in bid price or the addition of five points on a 100-point scale for a
+Resident-Owned Business Enterprise (ROB) certified by the SLBOC or the [District of
+Columbia Department of Small and Local Business Development], as applicable.” (AR Ex. 7).
+
+         By September 20, 2007, the closing date of the RFP, OCFO received proposals from two
+joint venture offerors, W2I and LTE. W2I is a joint venture comprised of W2Tech, LLC, a
+District of Columbia limited liability company, and INTRALOT DC LLC, a Delaware limited
+liability company. (AR Ex. 20). LTE is a joint venture comprised of New Tech Games, Inc.,
+Opportunity Systems, Inc., and GTECH Corporation. (AR Ex. 21).
+
+        Under the terms of the RFP, the OCFO was to award the contract to the offeror whose
+proposal the OCFO determined was “most advantageous to the District in terms of price,
+technical, and other factors.” (AR Ex. 2, § M.1.1). The evaluation criteria set forth in the RFP
+indicated that the OCFO was to evaluate offerors’ proposals based on a technical proposal worth
+1000 points and a price proposal worth 2000 points, for a total of 3000 points. The technical
+evaluation was further sub-divided into nine categories. (AR Ex. 2, § M.3.2). The eight
+categories were:
+
+       Section C.2 Central Configuration                                     120
+       Section C.3 Terminals for Retailers and Games Management              140
+       Section C.4 Communications Network                                    120
+       Section C.5 Software Controls and Data Management                     200
+       Section C.6 Games and Marketing                                       100
+       Section C.7 Contractor Facilities                                      50
+       Section C.8 Staffing, Services, and Operations Security Plan          120
+       Section C.9 Implementation                                            150
+       Technical Score                                                      1000
+
+       In addition, up to a total of 360 preference points were available for certified local, small,
+disadvantaged, enterprise zone, and resident business ownership businesses. (AR Ex. 2, § M.4).
+We note that both offerors received the maximum preference point total of 360 points for
+evaluation purposes.
+
+       To assist the OCFO contracting officer, Eric W. Payne, with the technical evaluation of
+the proposals, Mr. Payne convened a Source Selection Evaluation Board (“SSEB”). The SSEB
+was comprised of the DCLB’s Chief Operations Officer, the Director of Operations, the
+Information Technology Director, the Chief Information Officer, the Trade Manager and
+Director of Sales, a finance official, and an OCFO internal auditor. The contracting officer
+appointed Jay Young, the Chief Operating Officer, to chair the SSEB. (AR Ex. 11, ¶ 7). By
+                                                 -3-                    Lottery Technology Enterprises
+                                                                             CAB Nos. P-0774, P-0778
+
+letter dated August 29, 2007, the contracting officer provided to each member of the SSEB an
+evaluation package providing instructions on how to properly serve as a member of the SSEB.
+The evaluation package consisted of the following documents: (1) cover letter; (2) CD ROM
+including the RFP, Amendments 1 and 2, and all attachments; (3) SSEB Instructions; (4)
+Conflict of Interest Certification; and (5) Scoring Form. The contracting officer required all
+SSEB members to sign the Conflict of Interest Certification. (AR Ex. 9). The contracting
+officer also provided to the SSEB members instructions advising panel members inter alia:
+
+       You will independently read the RFP and become familiar with the Statement of
+       Work, and the evaluation criteria and scoring. You will then evaluate and score
+       the proposals using the numerical rating as stated in Section M.3 “Proposal
+       Evaluation Criteria.”
+
+       To support your scoring, you should articulate in a narrative the rationale for the
+       points assigned to each proposal. The narrative should briefly explain the
+       strength and weaknesses of each proposal evaluated. Your proposal evaluation
+       and scoring should be determined solely by the evaluation criteria provided.
+
+(AR Ex. 9, at 6). The contracting officer’s instructions explained the process by which members
+would evaluate proposals individually, after which they would then meet as a group to determine
+consensus scores for each proposal. They would assist with the evaluation of BAFOs and help
+the SSEB chair with writing the SSEB evaluation report. (AR Ex. 9). The source selection kick-
+off meeting was held on September 12, 2007, at which time the SSEB received the evaluation
+package described above. (AR Ex. 12).
+
+        By the amended closing date, September 20, 2007, OCFO received proposals from two
+offerors, W2I and LTE. On September 20, 2007, the contracting officer provided to the SSEB
+the offerors’ technical proposals.
+
+       On October 26, 2007, the SSEB completed initial scoring of each offeror’s technical
+proposal and forwarded to the contracting officer the SSEB’s evaluation. (AR Ex. 10, DCLB
+SSEB Final Report, at 6). The SSEB found W2I’s technical proposal superior after the initial
+evaluation. The SSEB determined that W2I’s proposal merited a technical score of 886.1 and
+that LTE’s proposal merited a technical score of 800.3. The SSEB found upon initial evaluation
+that W2I’s proposal exceeded that of LTE in all but one category of the technical evaluation.
+(AR Ex. 10). SSEB scoring for each category was as follows (AR Ex 10, Table 1):
+
+                                       RFP Section
+       Offeror         C.2   C.3   C.4   C.5    C.6           C.7    C.8     C.9   Total
+       LTE             96.1 111.5 96.8 159.1 74.1             41.6   97      124.1 800.3
+       W2I             113.5 122.3 104.3 186.6 85.8           40.1   101     132.5 886.1
+
+In a report of the initial scoring, the following SSEB findings were set forth:
+
+       Overall the SSEB found the proposals submitted by the Vendors to be satisfactory
+       in just about every respect. Either vendor could perform the tasks assigned.
+                                                -4-                    Lottery Technology Enterprises
+                                                                            CAB Nos. P-0774, P-0778
+
+       However, the SSEB found there to be a substantive difference in the quality of the
+       presentations, the responsiveness, and the technology of the W2I proposal. W2I’s
+       proposal outscored LTE’s proposal during the first round in every category.
+       Generically some of the reasons for this include:
+
+   •   a true open architecture throughout the layers of the W2I platform;
+   •   an interest and demonstrated ability to incorporate third party games;
+   •   a focused and more impressive games library and delivery system;
+   •   a detailed orientation toward future market and revenue growth; and
+   •   a demonstrated commitment to partner with the DCLB through included items,
+       upgrades at no charge, and a well constructed software release process.
+
+       In the central configuration category, LTE leaned heavily on its 40 previous
+       installations and security, while W2I had similar feature functionality plus a
+       number of upgrades at no charge. For example there is a 48 second validation
+       from Battelle on send to print. In terminals, the W2I configuration offers more
+       variety, functionality, and various footprints with an excellent paper solution. The
+       line loading capability is impressive and shows a real server based technology,
+       while the LTE format still sounds in terminal host speak and functionality. W2I
+       offers a highly customized approach with better instant integration (GUI
+       interface).
+
+       The communication approaches in each proposal were initially viewed skeptically
+       by the SSEB. The SSEB had problems with the W2I proposed digit mesh radio
+       configuration based on the DCLB’s earlier experience with radio transmission in
+       the District. The same can be said for the LTE approach utilizing VSAT. Both
+       have high speed, offer redundancy and are an upgrade to what we currently use.
+       The original scores reflect the SSEB’s concerns in the communication area.
+
+       Each vendor however, did offer a realistic implementation plan that made sense.
+       Again the W2I plan was more comprehensive and covered more areas in the
+       critical path, logical skill sets, and work assignments. The facilities, staffing, and
+       implementation plans were all fairly close.
+
+       One big difference was manifested in the games offering. There W2I
+       distinguished itself with real insight into the local market, a robust product
+       offering, and reporting that was more than marginally better than the LTE
+       proposal. It is worth noting as well that the W2I proposal contained current
+       market research, a proactive way to expand market share, and some new
+       approaches to attacking the marketplace. All will be critically important to
+       reaching new customers.
+
+(AR Ex. 10, SSEB Final Report, at 7-8; AR Ex. 12, at 3-4).
+
+        After the initial consensus scoring, the SSEB arranged to have the proposals evaluated by
+Battelle Memorial Institute. OCFO had engaged Battelle, a well-known lottery consulting firm
+                                                 -5-                    Lottery Technology Enterprises
+                                                                             CAB Nos. P-0774, P-0778
+
+which also had a member on the panel for the prior lottery acquisition, to assist the contracting
+officer and the SSEB in evaluating the proposals. Battelle prepared a detailed report on each
+technical proposal (AR Exs. 23, 24) which, according to the SSEB,
+
+       highlighted many of the technical issues discussed by the SSEB and served to
+       clarify several issues related to offered configurations . . . operating architectures,
+       as well as clearly indicating what was included in each offer. The Battelle reports
+       also served to reinforce that the SSEB had observed and properly discussed the
+       issues.
+
+(AR Ex. 10, SSEB Final Report, at 8).
+
+        In accordance with RFP Section L.5, after initially scoring the proposals, the SSEB
+arranged site visits with both offerors. During the site visits, the SSEB provided to each offeror
+a detailed list of questions and a technical checklist of areas the SSEB wished to observe. (AR
+Ex. 10). The SSEB standardized the visit to each offeror’s site as much as possible, and allotted
+similar amounts of time to the site visits to each offeror’s facility. As stated in the SSEB Final
+Report:
+
+       The SSEB members were also authorized to ask follow up questions about the
+       original areas of concern. Further, the SSEB was given the opportunity to meet
+       with local lottery officials where each technical center was in operation. This
+       allowed the SSEB to get a comprehensive overview of all of the elements of the
+       proposal, to see some of the equipment in action, and to validate statements made
+       in the proposals. A particular focus of the conversation centered on telecom
+       issues, conversion and implementation issues, observed problems, and potential
+       resolutions. Some of this information was used in the preparation of the best and
+       final offer process . . . .
+
+Upon completing the site visits and obtaining answers to technical questions, the SSEB re-
+evaluated each offeror’s proposal in light of the information obtained through the site visits and
+developed a new consensus score for each offeror. (AR Ex. 12 at 4). Although the SSEB
+determined that each offeror’s technical evaluation score improved, W2I’s technical score
+improved by a greater amount than LTE’s technical score. Upon re-scoring, the SSEB’s
+technical evaluation score for W2I increased from 886.1 to 919.7, while the technical score for
+LTE improved slightly from 800.3 to 815.5. (AR Ex. 10, at Table 2). After the completion of
+the site visits, the SSEB’s technical scoring by category was as follows:
+
+                                      RFP Section
+       Offeror        C.2   C.3   C.4   C.5    C.6            C.7     C.8   C.9   Total
+       LTE            100 108.3 98.1 170 75                   45      96.6 122.5 815.5
+       W2I            115.8 131.6 109.1 185    95             43.3    109.1 130.8 919.7
+
+       The SSEB Final Report summarizes the consensus scoring as follows:
+                                               -6-                    Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+       What Table 2 shows is that the vendors were able to improve their overall scores
+       through the site visits, additional explanations, and observations. It also
+       demonstrates how much impact the W2I presentation had on the SSEB. They
+       improved in just about every area, but significantly in terminals, communications,
+       and games. For example, W2I made mention of the SSEB questions during their
+       presentation and also wrote out answers to the questions and gave them to the
+       SSEB. W2I’s technical presentation was crisp, on point, and covered many of the
+       system security, auditing, and backup questions that concerned SSEB members
+       during the First Round of technical scoring. In the staffing area the local team
+       discussed aspects of their involvement in detail, and a strong plan was laid out for
+       field support, planning, and post implementation. LTE’s local team did not
+       participate much in the substantive presentation. That partially explains the
+       dramatic change in staffing scores between the vendors. Another portion is
+       related to the integrated training approach and staffing that W2I has used on other
+       engagements. Overall, the site visits validated what had been presented in the
+       written responses and the differences in working styles. LTE relied heavily on the
+       safety and security of their system, while W2I showcased how their fully
+       integrated, secure system serves to [deliver] new content to players and offers the
+       best chance for market expansion.
+
+        After the SSEB re-scored each offeror’s proposal upon completion of the site visits, the
+SSEB recommended that the contracting officer request Best and Final Offers (“BAFOs”) from
+LTE and W2I. (AR Ex. 10, at 10). On or about December 11, 2007, the OCFO contracting
+officer requested BAFOs. The contracting officer sent identical letters to both offerors,
+requesting that they provide to the DCLB “a Best and Final Offer for all portions of your official
+response including any relevant technical, administrative, or price elements by the close of
+business on Tuesday, December 18, 2007.” (AR Ex. 13). In the BAFO request the contracting
+officer requested offerors to address the following:
+
+       a. Please make the DCLB aware of any risks likely to result from a schedule
+       acceleration in your development plan and the steps your firm would take to initiate
+       these tasks.
+       b. Please detail the methodology you have used in the past to ensure data integrity in
+       migrating information from the existing system configuration to a new system
+       configuration.
+       c. Assuming the worst case scenario with your proposal, which risk elements are likely to
+       cause the longest delays, what would be the likely time impact, and what adjustments
+       could you make to get the project back on schedule?
+       d. How much would you reduce your proposed price if the number of years in the initial
+       term were extended?
+       e. How much would you reduce your proposed price if the option years were accelerated
+       after the current initial term?
+       f. How much could you reduce your proposed price once gross DCLB revenues exceed
+       $320M?
+       g. Please propose a vendor incentive bonus formula that you would receive for helping
+       DCLB exceed $85M in transfers during any given fiscal year.
+                                               -7-                   Lottery Technology Enterprises
+                                                                          CAB Nos. P-0774, P-0778
+
+       h. Please detail other ways in which the DCLB may tie your compensation to
+       performance over the life of this agreement.
+
+        Upon receipt of both offerors’ BAFOs on December 18, 2007, the SSEB evaluated the
+BAFOs and determined that the information provided by each offeror did not warrant a change
+in the SSEB’s technical score for each offeror. (AR Ex. 10, § D). However, the SSEB did note
+that W2I’s response further validated its technical approach and that W2I provided in its BAFO
+“strong replies to the implementation question, implementation of the telecommunication
+solution, and staffing.” (Id.).
+
+         The BAFOs also provided revised pricing. The contracting officer evaluated the pricing
+offered by LTE and W2I. In response to the BAFO request, W2I reduced its price proposal,
+submitting to OCFO a graduated price proposal. W2I’s fee rate improved in response to the
+BAFO request. In its original proposal, W2I had submitted a fee rate of 2.6282 percent. In
+response to the BAFO, W2I submitted a tiered fee rate based upon DCLB sales. For DCLB sales
+below $300,000,000, W2I proposed a fee rate of 2.2990 percent. For DCLB sales between
+$300,000,000 and $330,000,000, W2I proposed a fee rate of 2.5000 percent. For DCLB sales in
+excess of $330,000,000, W2I proposed a fee rate of 2.6000 percent. (AR Ex. 14). In response to
+the BAFO request, LTE revised its pricing proposal, lowering its fee for gross revenue in excess
+of $308,000,000. Below the $308,000,000 threshold, LTE retained its initially proposed rate of
+3.1995 percent of DCLB sales. (AR Ex. 15). Because LTE failed to reduce its fee rate for sales
+below $308,000,000, the contracting officer identified a significant pricing difference between
+W2I’s fee rate and LTE’s fee rate. As a result, W2I’s BAFO offered a significant savings to the
+District based upon current and projected DCLB sales. (AR Ex. 10, Table 4). Although W2I’s
+initial proposal pricing was lower than LTE’s initial pricing, the contracting officer found that
+W2I’s BAFO represented a significant fee reduction from its original price proposal, making
+W2I’s pricing far more attractive than LTE’s.
+
+        On January 4, 2008, the SSEB forwarded to the contracting officer its SSEB evaluation
+report, indicating that the proposal submitted by W2I was technically superior and offered a
+lower price than that offered by LTE. The SSEB recommended that the contracting officer make
+award to W2I. In recommending that OCFO award the contract to W2I for the District lottery
+system, the SSEB stated that “W2I’s proposal offers the DCLB the best technical competency
+and the best price.” The SSEB based this recommendation on the proposals, the onsite visits,
+and the analysis done by the SSEB members. (AR Ex. 10, at 13). The SSEB evaluated the
+proposed cost savings to the DCLB by comparing W2I’s price proposal with LTE’s price
+proposal, as well as comparing W2I’s price proposals with the current fee rate charged by LTE
+under the existing DCLB Lottery contract. The SSEB projected the DCLB sales revenue for the
+next 10 years and then applied each offeror’s fee rate to the projected future revenue. The
+results, included in the SSEB report forwarded to the contracting officer, show that W2I’s fee
+rate, when compared with LTE’s proposed fee rate, would save the DCLB approximately
+$20,000,000 over 10 years. Additionally, W2I’s proposed fee rate would save the DCLB
+approximately $40,000,000 over the next 10 years when compared with the fee rate in the
+current District lottery system contract. (AR Ex. 10 at Table 4).
+                                               -8-                    Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+        After making his own independent assessment of the proposals and considering the
+SSEB’s report, the contracting officer determined that W2I’s proposal offered the most
+advantageous method for the District to fulfill the RFP’s requirements. The contracting officer
+determined, by a “Contracting Officer’s Independent Assessment,” dated January 24, 2008, that
+W2I’s proposal “provide[d] the best overall value to the District of Columbia.” (AR Ex. 12, at
+6). In justifying W2I’s proposal as the best overall value, the contracting officer noted that W2I
+received the highest technical score and offered the lowest price to the District. In a table
+contained in the Contracting Officer’s Independent Assessment, the contracting officer supported
+his decision with reference to the following scores: (AR Ex. 12, at 7 and AR Ex. 11 ¶ 18).
+
+                               W2I             LTE
+       Technical                919.7          815.5
+       Price                  2,000          1,437
+       Preference               360            360
+       Total                  3,279.7        2,612.5
+
+        Section M.3 of the RFP provided that evaluation of the proposals would be done on a
+3,000 point scale. The evaluation criteria consisted of a possible 2,000 points for price, 1,000
+points for technical evaluation, and up to 360 preference points for offerors certified by the
+District of Columbia Department of Small and Local Business Development (“DSLBD”). The
+contracting officer determined that the technical evaluation scores assigned by the SSEB were
+appropriate for each offeror. Section M.3.2 does not set forth any formula for evaluating price.
+To evaluate prices, the contracting officer took the fee rate proposed by each offeror and
+multiplied it by $265,000,000, a figure representing the most recent data for DCLB gross
+revenue for fiscal year 2007. (AR Ex. 11 ¶ 16). W2I, with its lower evaluated price, was
+awarded the maximum 2,000 points, whereas LTE received 1,437 points, computed by applying
+the formula:
+
+    Lowest Offeror’s Price Proposal       x 2,000 points = Evaluated Proposal’s Price Score
+    Evaluated Offeror’s Price Proposal
+
+        Finally, in determining the total points for evaluation purposes, the contracting officer
+evaluated each proposal for LSDBE preference points. For evaluation purposes, Section M.3.3
+of the RFP limited preference points to a maximum of 360 points. In accordance with the RFP,
+Section M.5.4 Preferences for Certified Joint Ventures, the contracting officer awarded to W2I
+12 preference points based upon a LSDBE Summary Review Report issued by the DSLBD.
+According to the LSDBE Summary Review Report, the joint venture, W2I, was eligible for 14
+preference points. However, the RFP allowed only a maximum of 12 preference points based
+upon a 100-point scale. Because the RFP contemplated a 3000-points scale, the maximum
+available preference points equaled 360. (AR Ex. 2, §§ M.3, M.4).
+
+       The contracting officer completed both a Determination and Findings (“D&F”) for
+Contractor Responsibility and a D&F for Price Reasonableness. By a D&F for Contractor
+Responsibility, dated January 24, 2008, the contracting officer found W2I responsible.
+Specifically, the contracting officer found that W2I: (a) possessed the financial resources
+adequate to perform the contract, (b) demonstrated the ability to perform the proposed schedules,
+                                               -9-                    Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+(c) provided proof of the necessary organization, experience, operational controls, and resources,
+(d) complied with applicable District licensing and tax laws and regulations, and (e) was not
+debarred by either the District or the Federal Government. (AR Exs. 16-17, 30). By a D&F for
+Price Reasonableness, the contracting officer found W2I’s proposed fee rate to be fair and
+reasonable based upon market research performed by the DCLB. In particular, the contracting
+officer found that W2I’s proposed solution will save the District approximately $5,000,000 per
+year compared with the currently operating District lottery contract set to expire in November
+2009. (AR Exs. 17, 30). On April 4, 2008, LTE filed its protest. W2I intervened on May 16,
+2008. The District filed its Agency Report to the initial protest on May 19, 2008. LTE filed an
+amended protest on May 30, 2008. On June 9, 2008, LTE and W2I filed comments on the
+Agency Report. The parties filed additional briefing and exhibits through September 15, 2008.
+
+                                         DISCUSSION
+
+       We exercise jurisdiction over these consolidated protests pursuant to D.C. Code § 2-
+309.03(a)(1).
+
+       Timeliness
+
+        LTE raised the following grounds in its original protest of April 4, 2008: (1) W2I was
+not a “responsive, responsible” offeror; (2) LTE was denied a fair and impartial review of its
+proposal, as W2I received more favorable treatment, and LTE’s proposal was not judged with
+neutrality and impartiality; and (3) the change in contract duration as awarded denied LTE an
+equal chance to submit a proposal.
+
+        The amended protest of May 30, 2008, restated and expanded upon the original grounds
+and raised as an additional ground that the District had “disregarded DC law and regulations and
+the terms of the solicitation itself in its efforts to award the proposed contract to W2I.”
+(Amended Protest, at 20). LTE argues that the “procurement process in general, and the
+evaluation criteria and selection process in particular, were not consistent with the procurement
+regulations that govern the procurement activities of OCFO and the RFP . . . .” As examples,
+LTE cites (1) “failing to prepare specific evaluation criteria for allocating the 2,000 pricing
+points prior to receiving the proposals and prior to reviewing the proposals;” (2) using “the
+standard cost/price formula used by the Office of Contracts” which does not appear in OCFO
+regulations and which OCFO declined to confirm it would be using when asked during the
+question and answer phase prior to the closing date for proposal submission; (3) providing the
+SSEB with the W2I BAFO containing its pricing information contrary to the solicitation and
+stated OCFO procedures; (4) permitting W2I to change majority ownership after the proposal
+was submitted and the selection of the proposed contractor was made; and (5) providing LSDBE
+preference points to W2I even though the owner certified as a “resident owned business” and
+“disadvantaged business enterprise” had resigned.
+
+       LTE’s June 9, 2008 Comments to the District’s Agency Report raised many new protest
+grounds but we conclude that these new protest grounds are untimely because they were filed
+more than 10 business days after LTE knew or should have known the basis of the protest. D.C.
+Code § 2-309.08(b)(2). In Abadie, et al. v. D.C. Contract Appeals Board, et al., 916 A.2d 913,
+                                                 - 10 -                   Lottery Technology Enterprises
+                                                                               CAB Nos. P-0774, P-0778
+
+919-20 (D.C. 2007), the court quoted approvingly of the following discussion from our decision
+in Rodgers Bros. Custodial Servs., CAB No. P-0565, Feb. 17, 1999, 46 D.C. Reg. 8564, 8566, on
+the requirement that the statutory 10-day timeliness rule applies to each independent protest
+ground:
+
+       Generally, the timeliness of . . . additional bases of protest raised after the filing of
+       a timely initial protest depends upon the relationship that the later-raised bases
+       bear to the initial protest. Where the later bases present new and independent
+       grounds for protest, they must independently satisfy our timeliness requirements.
+       Conversely, where the later contentions merely provide additional support for an
+       earlier timely raised objection, we consider these additional arguments.
+
+The District filed its Agency Report on May 19, 2008, at 9:11 p.m. Thus, the statutory 10-day
+period began on May 20, 2008, and the 10-day period concluded prior to LTE’s filing of
+additional protest grounds in its comments filed on June 9, 2008, and July 25, 2008. LTE states
+that the 10-day period should begin on May 27, 2008, which is the date that the District had its
+Agency Report exhibits changed from a “sealed” filing status to a “public” status by the Board’s
+electronic file and serve vendor. We reject this argument as LTE’s counsel had full access to the
+Agency Report and exhibits as of May 20, 2008. LTE had sufficient documentation to formulate
+the additional protest grounds as of May 20, 2008, and, moreover, the Board and the parties had
+agreed that nearly all of the exhibits originally filed under seal were deemed publicly releasable
+as of May 22, 2008.
+
+         Accordingly, the new grounds raised for the first time in LTE’s filings of June 9, 2008,
+and July 25, 2008, are untimely, as follows: (1) OCFO violated its regulations by failing to have
+a source selection plan, (2) OCFO failed to prepare quantitative standards for use in the
+evaluation of the proposals, (3) the SSEB improperly evaluated the proposals under the
+evaluation criteria, (4) the evaluation and selection violated the Buy American Act clause, (5) the
+contracting officer was unreasonable in selecting the SSEB members, (6) the contracting officer
+improperly involved the SSEB before their kick-off meeting, (7) the contracting officer failed to
+investigate W2I’s claims regarding liquidated damages assessments, and (8) the SSEB unfairly
+and unreasonably scored the proposals regarding the communications network factor, the
+terminals factor, the implementation plans factor, the staffing services, and operations security
+factor, the games and marketing factor, and the facilities factor. We have considered whether
+any of these grounds could be considered as being fairly raised within the grounds stated in the
+initial protest or the amended protest, but conclude that none of them are mere elaborations of
+earlier, timely raised grounds. Specifically, we cannot conclude that the very detailed allegations
+in LTE’s June 9 and July 25 comments can be related back for timeliness purposes to the general
+statement in the amended protest that the District had “disregarded DC law and regulations and
+the terms of the solicitation itself in its efforts to award the proposed contract to W2I” and that
+“the procurement process in general, and the evaluation criteria and selection process in
+particular, were not consistent with the procurement regulations that govern the procurement
+activities of OCFO and the RFP . . . .”
+                                               - 11 -                 Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+
+
+       Responsibility of W2I
+
+       LTE argues that W2I did not satisfy a definitive responsibility criteria set forth in RFP
+Section C.10.3(a) which provides:
+
+       It is required as a minimum that the Offeror has one or more current North
+       American clients to whom it has supplied a Lottery Gaming System comparable
+       to the functional specifications of this RFP. The Offeror shall describe, in detail,
+       the current and historical experience of the Offeror with lottery gaming systems;
+       that is, descriptions and references for all gaming industry engagements of
+       comparable complexity and sensitivity that have been conducted by the Offeror
+       over the past five (5) years.
+
+Noting that W2Tech formed its joint venture by partnering with INTRALOT which is described
+as a company with “forty subsidiaries plus seven business offices on five continents,” LTE
+contends that nowhere does the OCFO state that INTRALOT meets the minimum requirement of
+having “one or more current North American clients to whom it has supplied a Lottery Gaming
+System comparable to the functional specifications of this RFP” because, according to LTE,
+INTRALOT does not supply to the small number of lotteries it operates in North America Keno
+or rapid draw games. (Amended Protest, at 13). The District responds that the contracting
+officer had more than an adequate basis from which to reasonably conclude that W2I satisfied
+the RFP’s definitive responsibility criteria by finding that W2I had supplied to one or more
+North American clients lottery gaming systems that are “comparable to the functional
+specifications” of the RFP. W2I cites to its technical proposal and the wide variety of games it
+offered and the scoring of the contracting officer and the SSEB for the games and marketing
+criterion. W2I argues that the INTRALOT-operated lotteries in Nebraska, Montana, Idaho, and
+New Mexico have functional specifications comparable to those in the RFP here and that
+INTRALOT conducted during the District’s site visit a live rapid draw demonstration. We agree
+with W2I and the District that the record provides an adequate basis for sustaining the
+contracting officer determination that W2I met this definitive responsibility criterion.
+
+        LTE further contends that the District failed to disclose in its Agency Report and the
+OCFO failed to initially inform the Council that the ownership and key personnel of W2Tech
+and W2I changed after the selection of W2I. LTE states that Warren Williams, Jr., bought the
+majority ownership interest in W2Tech and in W2I for $5 after the proposals were submitted and
+evaluated and after the proposed contract was first sent to the Council for review. According to
+LTE, both Warren Williams, Sr., and Warren Williams, Jr., have now elected to take no role in
+the operation of the enterprise. Additionally, LTE argues that the District failed to conduct a
+determination of contractor financial responsibility after the majority ownership of W2I and
+W2Tech changed. We conclude that the record does not show any prejudice to LTE from the
+change in the majority ownership interest. The change in ownership did not have any effect on
+the evaluation and selection of W2I. In addition, there is adequate evidence supporting the
+financial responsibility of W2I, notwithstanding the change in the majority owner. For the same
+reason, there is no ground for invalidating the award of LSDBE preferences to W2I due to the
+ownership change because preferences are determined for evaluation purposes as of the closing
+                                              - 12 -                 Lottery Technology Enterprises
+                                                                          CAB Nos. P-0774, P-0778
+
+date for proposals. See C&D Tree Service, Inc., CAB No. P-0440, Mar. 11, 1996, 44 D.C. Reg.
+6426, 6435.
+
+       Alleged Unfair Manipulation of the Procurement
+
+       A. Discussions after BAFO Submission
+
+        In its protest, LTE contends that the contracting officer may have inappropriately
+contacted W2I, requesting W2I to submit a BAFO with terms different from those originally
+contemplated by the RFP, and argues that “[i]f W2I Venture did not provide a specific price for
+the six (6) year term and the price was reached by discussions between OCFO and W2I Venture,
+then OCFO was obligated to reopen the competition and conduct negotiations with both parties.”
+(Protest, at 28). The District responds that the contracting officer did not hold any discussions
+with W2I regarding a six year term. Rather, W2I proposed in its BAFO a six year term in
+response to the BAFO request issued by the OCFO, which was the same BAFO request provided
+to LTE. We agree with the District that the record does not disclose any improper discussions
+with W2I.
+
+       B. Amendment No. 3’s Extension of the Closing Date
+
+        LTE speculates that the contracting officer extended the closing date for proposals from
+September 13, 2007, to September 20, 2007, in order to allow W2I to qualify for preference
+points that would not have been available but for the extension because W2Tech was certified by
+the SLBOC as a LBE, DBE, ROB, and DZE as of September 12, 2007, and W2I was certified in
+the same categories on September 17, 2007. In the Agency Report, the District states that the
+contracting officer issued Amendment No. 3 because of an email sent to the OCFO from the
+DSLBD Office, notifying the OCFO that Section M.4 of the RFP did not represent to potential
+offerors the correct apportionment of preference points. (AR Ex. 22; AR Ex. 11 ¶ 6). The
+contracting officer issued Amendment No. 3 in order to revise Section M.4, correcting the error
+in the RFP identified by the DSLBD and extending the due date of proposals for one week to
+September 20, 2007. (AR Ex. 11 ¶ 6). We find no support in the record for concluding that the
+contracting officer extended the closing date with any improper motive to favor W2I.
+
+       C. Proposed Contract Submission to the Council
+
+       LTE urges that the OCFO showed bias toward W2I by allegedly misrepresenting facts to
+the City Council. For instance, LTE states that the OCFO Council Contract Summary package
+submitted to the Council suggests erroneously that LTE’s existing contracts were to expire in
+June 2008, and that the existing system was “outdated and obsolete.” (Amended Protest, at 16).
+The District responds that the OCFO’s standard practice is to submit to the Council by
+emergency legislation all contracts requiring “active Council approval.” Also, LTE alleges that
+the Mayor’s action to withdraw the initial contract submission from the Council and immediately
+resubmit it to gain another 45-day review period was a “transparent attempt at an end run around
+the 45-day requirement” and reflects a pattern of disregard for the integrity of the procurement
+process. Without deciding our scope of review of the executive-legislative process by which the
+Mayor submits proposed contracts to the Council for approval, we conclude that LTE has not
+                                               - 13 -                 Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+demonstrated that it was prejudiced by the actions of the Mayor and the OCFO in connection
+with the second 45-day review period before the Council. Moreover, LTE has not demonstrated
+that the actions of the OCFO before the Council constitute evidence of bias by the contracting
+officer in the evaluation and selection of W2I.
+
+       Technical Evaluation
+
+        LTE raises numerous challenges to the technical evaluation of the proposals. Most of the
+protest grounds are untimely for the reasons discussed above but even if we were to reach the
+merits, we see no basis for concluding that the technical evaluation of the contracting officer or
+SSEB violated the law or the terms of the solicitation.
+
+       A. Source Selection Plan and Quantitative Standards for Technical Evaluation
+
+        LTE argues that the OCFO violated its own regulations in failing to prepare a source
+selection plan prior to the solicitation and evaluation of proposals and in failing to provide
+quantitative standards in the form of subfactors for the evaluation criteria. We conclude that
+LTE has not shown any prejudice to support sustaining the protest on these grounds. The record
+shows that the evaluators were advised of the guidelines for conducting their evaluation of the
+proposals, studied the solicitation, and understood the statement of work, the evaluation criteria,
+and the procedures they were to follow in carrying out their responsibilities. With regard to the
+scoring of the proposals for each evaluation criterion, there is no evidence that the evaluators
+improperly, unreasonably, or arbitrarily scored the proposals and thus the lack of quantitative
+subfactors in this procurement did not prevent the SSEB members from performing a proper
+technical evaluation.
+
+       B. Alleged SSEB Bias, Conflict of Interest, and Inexperience
+
+       LTE contends that the contracting officer unreasonably selected the members of the
+SSEB. LTE states that the contracting officer should have selected a representative from a
+consultant such as Battelle or someone drawn from the national state lottery community who had
+a “broader understanding about lottery operations and lottery equipment.” Also, LTE faults
+OCFO for not having a representative on the panel from the Office of the Chief Technology
+Officer experienced in the selection of large computer and communications systems.
+
+        The District responds that the members of the SSEB had sufficient expertise to evaluate
+the proposals. The SSEB was comprised of the DCLB’s Chief Operations Officer, the Director
+of Operations, the Information Technology Director, the Chief Information Officer, the Trade
+Manager and Director of Sales, a finance official, and an OCFO internal auditor. We see no
+procurement violation in the contracting officer’s choice of the SSEB. Regarding having
+expertise from a consultant such as Battelle, the fact is that the contracting officer and SSEB
+consulted with Battelle and Battelle prepared reports for them analyzing LTE’s and W2I’s
+proposals against the RFP’s statement of work.
+
+      LTE contends that DCLB’s Information Technology Director and Trade Manager rated
+LTE performance under the existing LTE contract “poor”, and as members of the SSEB, they
+                                                - 14 -                  Lottery Technology Enterprises
+                                                                             CAB Nos. P-0774, P-0778
+
+were biased against LTE. We agree with the District that the record does not show bias by these
+members or any other members of the SSEB. Mere knowledge of an offeror’s performance on
+another contract does not imply bias against that offeror. Omega World Travel, Inc., B-
+271262.2, July 25, 1996, 96-2 CPD ¶ 44. The contracting officer instructed the SSEB not to
+consider LTE’s past performance under the existing lottery contract.
+
+        From a review of the record, we see no basis for LTE’s contention that the members of
+the SSEB lacked neutrality and objectivity in their roles as evaluators notwithstanding that
+certain members of the SSEB participated in the preparation of the RFP, the responses to
+offerors, and in other activities surrounding the development and issuance of the RFP. Besides
+being untimely, the protest ground is without merit. LTE has cited no legal authority for the
+argument that a government employee who works on the preparation of the RFP may not serve
+on a technical evaluation panel for the same procurement.
+
+       C.      Neutrality and Impartiality of the Contracting Officer
+
+        LTE argues in its amended protest that the OCFO’s Director of Contracts was not
+impartial because he had dual roles, serving as the contracting officer for both LTE’s existing
+contract and the procurement that is the subject of these protests. As contracting officer for the
+existing LTE contract, he reviewed LTE’s performance. LTE further notes that during the time
+that the evaluation and selection processes were underway, the Director of Contracts, in his role
+as contracting officer for the ongoing lottery procurement at issue here, was taking the lead in an
+effort to negotiate the amount of payment due to the OCFO as a result of a 2006 breach of the
+wireless communications system operated by LTE’s venture partner, GTECH. The breach
+allowed access to DCLB’s on-line gaming system and resulted in the unauthorized production of
+a limited number of lottery tickets. The OCFO did not quantify its losses after the breach was
+resolved in July 2006. GTECH submitted an unsolicited offer to the OCFO on May 10, 2007,
+two weeks before the issuance of the RFP, to compensate the DCLB for the $86,166 in lost
+lottery transactions and the full cost of the investigation by Battelle to analyze the causes and the
+fixes that GTECH and LTE implemented as soon as the cause of the breach became known.
+After receiving no response from the OCFO for five months, LTE received a letter from the
+contracting officer on October 24, 2007. The response made no comment on GTECH’s offer of
+settlement; rather it asserted that LTE’s system was “outdated and obsolete” and suggested that
+OCFO could terminate the existing contract for convenience and expedite the award of the new
+contract.
+
+        On December 6, 2007, in the midst of the evaluation and selection process for the RFP
+and shortly before the OCFO requested BAFOs from LTE and W2I, the OCFO asked LTE and
+GTECH to respond to a District settlement proposal that sought to more than triple the stated
+amount of damages to be paid for the 2006 communications breach and added additional
+damages that were not yet quantified. GTECH and LTE had previously expressed their
+reservations about negotiating with the OCFO and DCLB representatives, some of whom were
+on the evaluation team. DCLB’s counsel, by letter dated December 12, 2007, requested LTE and
+GTECH to respond to the OCFO’s settlement demands by attending an in-person meeting on
+December 14, 2007, just four days before LTE’s BAFO was due. GTECH and LTE declined to
+attend the meeting. In its amended protest, LTE claims that the contracting officer penalized
+                                                - 15 -                 Lottery Technology Enterprises
+                                                                            CAB Nos. P-0774, P-0778
+
+LTE in the ongoing procurement for not succumbing to improper pressure to settle the breach
+claim under the existing contract.
+
+        We agree with W2I that this ground of protest is untimely as LTE knew the ground for
+this protest long before filing its amended protest on May 30, 2008. The OCFO contracting
+officer and counsel should have delayed the settlement effort on the existing LTE contract until
+after the evaluation and selection had been completed on the new procurement to avoid the
+appearance of leveraging a settlement favorable to the OCFO. Nevertheless, even if we were to
+reach the merits, we could not conclude that the contracting officer’s actions, when viewed in the
+totality of the procurement, prejudiced his evaluation of the proposals or rendered his or the
+SSEB’s evaluation unreasonable.
+
+       D. Technical Evaluation under the RFP’s Evaluation Criteria
+
+        LTE alleges that the contracting officer and the SSEB unfairly and unreasonably
+evaluated the technical proposals when they scored W2I’s proposal more favorably than LTE’s
+proposal. LTE focuses its challenge on individual scoring and evaluation by specific members
+of the SSEB, attempting to show improper evaluation by individual members. To a limited
+extent, LTE also challenges some of the bases for the consensus evaluation of the SSEB and the
+contracting officer. We agree with W2I and the District that these grounds were untimely raised.
+On the merits, the evidence of the individual SSEB members’ scoring, considered in the context
+of the SSEB consensus evaluation, does not demonstrate prejudicial errors meriting sustaining
+the protests on the ground of an improper technical evaluation. Our principal focus is to
+determine whether the contracting officer’s independent evaluation and the consensus evaluation
+of the technical panel accurately reflect the merits of each proposal, not whether the final rating
+can be mathematically traceable to the individual scores of the individual panel members.
+Appalachian Council, Inc., B-256179, May 20, 1994, 94-1 CPD ¶ 319; Nat'l Beef Packing Co.,
+B-296534, Sept. 1, 2005, 2005 CPD ¶ 168.
+
+        In reviewing an evaluation under an RFP, we consider whether the overall evaluation was
+reasonable and in accordance with the evaluation and selection criteria set forth in the
+solicitation. It is clear from the overall scores established by the SSEB that there is no basis for
+concluding that the evaluations of either LTE or W2I rendered the overall technical scores
+unreasonable or arbitrary. The SSEB Final Report documents that the proposals submitted by
+both LTE and W2I were satisfactory and that either vendor could perform the tasks assigned.
+The SSEB concluded that the overall higher score of W2I was due to the superior quality of the
+W2I proposal, technology, and presentation.
+
+        LTE argues that the evaluation of the communications network criterion was flawed
+because W2I received a better evaluation than LTE even though LTE’s VSAT implementation
+was demonstrated and in use whereas W2I’s mesh radio system was not used in any current
+lottery system. The SSEB assigned W2I an average of 109.1 points for its communications
+network and LTE's proposal an average of 98.1 points. LTE cites the notes of some of the
+evaluators which questioned W2I’s technology and its less robust backup. On the other hand,
+the evaluators specifically cited "high confidence" in W2I's proposed mesh radio system, noted
+that W2I offered the "newer and potentially better solution" and further recognized that in the
+                                               - 16 -                 Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+event this solution encountered problems, W2I was prepared to use VSAT or frame relay as
+backup systems. (AR Ex. 19). Recalling that our role is not to re-evaluate the proposals, we
+discern no basis for finding the evaluation to be improper or unreasonable.
+
+        The SSEB assigned W2I an average of 131.6 points and LTE an average of 108.3 points
+for the terminals criterion. LTE alleges that an evaluator improperly focused on the malfunction
+of an LTE terminal during the District's site visit and that not enough consideration was given to
+W2I’s use of the wrong monitor size for its terminals. Reviewing the evaluation by the
+contracting officer and the consensus evaluation of the SSEB identifying a number of advantages
+for W2I’s product, we see no basis for concluding that the evaluation was unreasonable or
+arbitrary.
+
+       Regarding the implementation plan criterion, LTE alleges that despite some of the
+evaluators’ stated concerns about the risks of W2I’s implementation plan, the SSEB assigned
+W2I an average of 130.8 points and only 122.5 points for LTE. The consensus evaluation report
+notes that W2I’s plan covered more areas in the critical path, logical skill sets, and work
+assignments required to do the job. Viewing the record as a whole, we see no basis for
+concluding that the evaluation was unreasonable or arbitrary.
+
+        The SSEB assigned W2I an average of 109.1 points and LTE an average of 96.6 points
+for the staffing, services, and operations security plan criterion. LTE claims that it was improper
+for the SSEB to place such emphasis on W2I’s one performance at the site visit while essentially
+ignoring the significant experience of LTE’s local staff involved in the existing lottery contract.
+Again, we are not called upon to make a de novo evaluation. The individual evaluations coupled
+with the consensus evaluation of the SSEB do not demonstrate a prejudicial evaluation for this
+criterion.
+
+       LTE alleges that the SSEB’s assessment favoring W2I over LTE in the games and
+marketing criterion was unreasonable. We do not agree. The SSEB assigned W2I an average of
+95 points and LTE an average of 75 points for this factor. The consensus evaluation and the
+individual evaluations adequately support the scoring based on W2I’s game offerings and
+marketing plan.
+
+       Regarding the facilities criterion, LTE alleges improper and disparate treatment of the
+proposals favoring W2I. We find the consensus evaluation adequately supports the SSEB
+assigning W2I an average of 43.3 points and assigning LTE an average of 45 points.
+
+       We have considered all of the technical evaluation challenges raised by LTE and
+conclude, based on our review of the record, that it has not demonstrated that the evaluations by
+the contracting officer and the SSEB of the technical proposals were unreasonable or arbitrary.
+The technical evaluation was adequately documented and we can discern no prejudice to LTE in
+the proposal evaluations.
+
+       Price Evaluation
+
+       LTE does not challenge the RFP for lacking a formula to evaluate price and allocate the
+                                               - 17 -                  Lottery Technology Enterprises
+                                                                            CAB Nos. P-0774, P-0778
+
+maximum 2,000 points assigned for the price factor. Rather,
+
+       LTE is challenging the District’s failure to establish, prior to receipt of offers, a
+       formula for evaluating price that it would use internally to score the pricing
+       proposals and which met the OCFO’s procurement regulations. Based on
+       information LTE first learned from the District’s Agency Report, LTE challenged
+       the OCFO’s evaluation process because (1) the “standard” pricing evaluation
+       formula the District claims to have used is not set forth in OCFO procurement
+       regulations, and (2) the CO did not decide how the 2,000 points would be
+       allocated before he reviewed the initial proposals or before he reviewed the Best
+       and Final Offers (“BAFOs”) that called for different pricing strategies.
+
+(LTE July 29, 2008 Comments on the Agency Report, at 7). One interested party asked during
+the proposal phase about the price scoring, as recorded in Amendment No. 2, Question 47: “We
+would also appreciate if you could elaborate how the ‘Price Section’ will be scored. In the
+absence of a specific formula, it is unclear to us how many points will be received by the Offeror
+submitting the most competitive (i.e. lower) price compared to the points received by the second
+in terms of pricing (i.e. higher price) offeror.” Apparently, the contracting officer never
+responded to that question. The District states that the contracting officer reasonably evaluated
+the offerors’ prices “based on the standard pricing formula used by almost all District agencies in
+a typical RFP.” Using the standard formula, the District evaluated the price by comparing W2I’s
+price proposal with LTE’s price proposal. The contracting officer took the proposed fee rates
+and multiplied the fee rates by $265,000,000, the most recent data for DCLB gross revenue for
+fiscal year 2007. Using the standard price formula, the contracting officer then calculated the
+point scores as follows: W2I received the maximum 2,000 points and LTE received 1,437
+points. (District’s July 18, 2008 Response to Amended Protest, at 4). In addition, the District
+argues that the contracting officer would be compelled to conclude that W2I provided the best
+value to the District – even if the contracting officer had judged LTE’s technical proposal to be
+marginally better than W2I’s – because W2I’s significantly lower price far outweighed the
+technical evaluation results.
+
+        We conclude that the contracting officer’s failure to identify internally within OCFO the
+specific formula to be used in the price evaluation, prior to receipt of the BAFOs, does not merit
+sustaining the protest. LTE cannot establish that it was prejudiced in preparing its price proposal
+by the lack of an RFP price evaluation formula nor has LTE shown prejudice in the post-BAFO
+price evaluation. The contracting officer’s selection of W2I as the best value does not have to be
+tied to a mathematical price formula and looking at the record as a whole, we are not persuaded
+that the underlying price evaluation was arbitrary or unreasonable. LTE’s price would not
+become more attractive than W2I’s until gross revenue exceeded $420 million. It was not
+unreasonable for the contracting officer to determine that W2I’s pricing would provide
+significantly better value to the District at gross revenue figures in a range supported by recent
+revenue data.
+
+       We have considered each of the protest ground raised by LTE regarding the price
+evaluation but conclude that the contracting officer’s evaluation was reasonable.
+                                              - 18 -                  Lottery Technology Enterprises
+                                                                           CAB Nos. P-0774, P-0778
+
+
+
+                                       CONCLUSION
+
+       We have carefully considered each of the challenges raised by LTE with respect to the
+evaluation and selection of W2I and conclude that the protests grounds are either untimely or do
+not merit sustaining the protests. Accordingly, we dismiss in part and deny in part the
+consolidated protests.
+
+       SO ORDERED.
+
+DATED: November 3, 2008                                /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

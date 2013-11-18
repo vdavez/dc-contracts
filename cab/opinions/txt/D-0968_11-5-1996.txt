@@ -1,0 +1,280 @@
+                        •
+                   GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+APPEAL OF:
+
+       CRS SIRRINE, INC.lTYROC CONSTRUCTION                         )
+         CORP., J.V.                                                )
+                                                                    )      CAB No. D-968
+       Under Contract No. 3477-71                                   )
+
+                           OPINION ON MOTION TO DISMISS
+
+        Appellant, CRS Sirrine, Inc.lTyroc Construction Corp., J.V.("Tyroc") filed a notice of
+appeal of a deemed denial by the Director of the Department of Administrative Services
+("DAS") of its claim for unpaid contract balances and unpaid overhead and profit. The District
+filed a motion to dismiss the appeal for Tyroc's alleged failure to prosecute its claim in a timely
+manner. We conclude that the appellant did not fail to prosecute its claim in a timely manner.
+Accordingly, we deny the motion.
+
+                                             FACTS
+
+       On or about January 1, 1984, Tyroc entered a contract with the Department of Public
+and Assisted Housing ("DPAH") for the performance of construction management services.
+(Motion to Dismiss). There were subsequent changes to the contract by Change Order #1 dated
+May 23, 1986, and by Addendum #1, dated June 6, 1986. (Motion to Dismiss).
+
+        By a letter dated December 1, 1992, Tyroc requested the Contracting Officer's decision
+on the following claims: (1) contract balance of $43,326; (2) overhead and profit on amendment
+No.1 of $142,500; and (3) Phase II preconstruction delay costs of $60,744. (Notice of Appeal,
+Attachment). The Contracting Officer did not issue a final decision on the claims. (Opposition
+to Motion to Dismiss).
+
+       By a letter dated March 29, 1993, Tyroc filed the same claims with the Director, DAS.
+(Notice of Appeal, Attachment). On February 16, 1994, the Contracting Officer requested that
+the DAS claims officer postpone the hearing on Tyroc's claim. (Opposition to the Motion to
+Dismiss, Morrison Affidavit and Exhibit 2). The hearing was postponed. By a letter dated July
+20, 1994, Tyroc stated that there had been no settlement negotiations and requested that the DAS
+hearing officer set a hearing date. (Opposition to the Motion to Dismiss, Morrison Affidavit and
+Exhibit 8). By a letter dated January 25, 1995, Tyroc stated that settlement negotiations had
+been held but not concluded and requested that DAS provide a hearing on the merits.
+(Opposition to the Motion to Dismiss, Morrison Affidavit and Exhibit 11). The Director of
+DAS did not issue a decision on the claims. (Notice of Appeal).
+
+       On May 11, 1995, Tyroc filed this appeal with the CAB.
+                                                        -2-                                         CAB No. D-968
+
+                                                   DECISION
+
+        The District's primary arguments are that the appeal is untimely filed because it is in
+violation of (1) the provisions of the contract; (2) the District of Columbia statute of limitations;
+and (3) the District of Columbia Procurement Practices Act ("PPA" or "Act").l1
+
+                                            I. Applicable Remedy
+
+       The initial question raised by the District's motion is whether the PPA applies to an
+appeal filed by a contractor with the Board after the effective date of the Act where the appeal
+involves a contract executed prior to the Act. The District alleges that the disputes clause of the
+contract provides the appropriate remedy for the resolution of Tyroc's claims, and that it
+precludes the contractor's right to appeal to the Board pursuant to the pPA.21
+
+        Based on the disputes clause, Tyroc had a right to appeal the decision of the Director of
+the Department of Housing and Community Development ("DHCD") to the Contract Appeals
+Board within 30 days of the date of receipt of the Director's written decision3/ • The District
+asserts that in accordance with the disputes clause, it was not necessary that Tyroc submit its
+claim to the Director of DAS, but that Tyroc should have proceeded directly to file its appeal
+with the Board rather than await a DAS Director's decision or deemed denial pursuant to the
+PPA.
+
+
+
+
+I'D.C. Code § 1-1189.1, et seq. (1992).
+
+2IJn conjunction with this argument, the District asserts that the PPA's implementing regulations found at Chapter
+38 of 27 DCMR provide that disputes and claims are to be initially resolved by the contractor and the contracting
+officer. However, the District has not developed this allegation into an argument of merit that would warrant
+consideration by the Board at this time.
+
+3'The dispute's clause of the contract provides, in pertinent part, as follows:
+
+         23.0     DISPUTES
+
+                  a.       Except as otherwise provided in this contract, any dispute concerning a question
+                           of fact arising under this contract which is not disposed of by agreement shall
+                           be decided by DHCD, who shall reduce his decision to writing and mail or
+                           otherwise furnish a copy thereof to the CM. The decision of the DHCD shall
+                           be final and conclusive unless within 30 days from the date of receipt of such
+                           copy, the CM mails or otherwise furnishes to the Contract Appeals Board of the
+                           District of Columbia a written appeal. The decision of the Contract Appeals
+                           Board shall be final and conclusive.
+                                              -3-
+                                                                  •                  CAB No. D-968
+
+         The PPA became effective on February 21, 1986. In accordance with the PPA, all
+government claims by a contractor against a District government contract covered by the PP A
+must be submitted to the DAS Director for a decision. D.C. Code § 1-1188.5(a). If the
+Director fails to issue a timely decision on the claim, the Director's inaction is deemed a denial
+of the claim and authorizes the contractor to commence an appeal to this Board. Id. §1-
+1188.5(d). If the Director issues a decision on the contractor's claim, the contractor must appeal
+the decision to this Board within 90 days of receiving the Director's decision. Id. §1-1189.4(a).
+
+        A comparison of the remedy available to Tyroc pursuant to the disputes clause of its
+contract and the remedy provided pursuant to the PPA reveals that both provide administrative
+procedures for the resolution of disputes that the contractor may appeal to the Board. However,
+the disputes clause required that the claim be presented to the Director of DHCD whose written
+decision was appealable to the Board within 30 days of its receipt; whereas, the PPA required
+that the claim be presented to the Contracting Officer and then to the Director of DAS, whose
+decision is appealable to the Board within 90 days of its receipt. Section 904 of the PPA, D.C.
+Code §1-1189.4 (1992), governs the contractor's right of appeal to the Board.
+
+        The Board has held that the PPA applies to post-Act appeals involving pre-existing
+agreements. See Dynalectric-Computran-Network, A loint Venture, CAB Nos. D-734, D-756,
+and D-757 (Order [on Motion to Dismiss]) (April 28, 1989) (holding that three cases originating
+pre-PPA, but filed with the Board after the effective date of the PPA fall under the purview of
+the Act and finding that "[i]n enacting the PPA, the Council of the District of Columbia made
+clear that it was establishing a new procedure for the submission of claims at the agency level
+beginning with the effective date of the PPA. ").
+
+       See also Lumbermen's Mut. Cas. Co. v. District of Columbia, 566 A.2d 480 (App. D.C.
+1989) (holding (1) that the PPA eliminated the bifurcation of claims and that all claims arising
+under or relating to a contract shall be submitted to the Director of the Department of
+Administrative Services for an informal hearing and decision and that the contractor may appeal
+the decision of the Director to the Contract Appeals Board; and (2) that, in the absence of a
+clear legislative indication to the contrary, the PPA was intended to apply to the extent that it
+affects only the forum in which appellant may make its claim).
+
+       See also Diversified Resources, Inc., CAB No. 735, (Decision and Order on Motion to
+Dismiss) (April 20, 1987) (holding that D.C. Code §1-1188.5(a) in requiring that all contractor
+claims against the District government be submitted to the Director, DAS was remedial or
+procedural in nature and as such, in the absence of legislative intent to the contrary ,applied to
+a post-Act appeal involving pre-existing agreements).
+
+        Therefore, Tyroc's claims are properly appealable to this Board pursuant to the
+procedures established by the PPA although such claims arose pursuant to a contract executed
+prior to the PPA which contained a disputes clause that provided for a different administrative
+procedural prerequisite to appeal to this Board.
+                                                       -4-
+                                                                              •                     CAB No. D-968
+
+                                                 II. Timeliness
+
+        The District's next argument is that Tyroc's claims are precluded by the statute of
+limitations41 for bringing an action in simple contract. The question presented is whether the
+statute of limitations governing simple contracts applies to appeals brought pursuant to the PPA.
+
+       The statute of limitations applicable to actions brought in simple contract provides in
+pertinent part as follows:
+
+        Sec. 12-301. Limitation of time for bringing actions
+
+                 Except as otherwise specifically provided by law, actions for the following
+                 purposes may not be brought after the expiration of the period specified
+                 below from the time the right to maintain the action accrues:
+
+                          (7) on a simple contract, express or implied--3 years;
+
+D.C. Code §12-301(7).
+
+       The Board recently defined the scope of actions covered by D.C. Code §12-301 as
+"actions" which are commonly understood as proceedings in a court of law, not an
+administrative tribunal, such as the Contract Appeals Board. See, MCI Constructors, Inc., CAB
+No. D-985, October 31, 1996, 8 P.D. 7203 (holding that the statute of limitations for statutory
+penalty actions found at D.C. Code §12-301(5) was not applicable to Quick Payment Act claims
+before the Contract Appeals Board). Therefore, it was held that a claim before the Contract
+Appeals Board was not an action which invoked that statute of limitation.
+
+        The Board adopts this definition of the scope of actions established in MCI Constructors,
+Inc. and in applying it to D.C. Code §12-301(7), determines that the statute of limitation for
+actions in simple contract is not applicable to PPA claims before this Board in the absence of
+legislative intent to the contrary. The PPA provides a specific statutory time limitation for the
+Contractor's right of appeal to the Board at D.C. Code §1-1189.4. Any other statute of
+limitation would not supersede the specifically mandated time limitations within which the
+contractor can appeal unless so provided by the PPA. The PPA has no such provision and the
+District provides no evidence that the legislature intended to make D.C. Code §12-301(7)
+applicable to these appeals under the PPA. Therefore, the statute of limitations for bringing
+actions in simple contract has no application to this appeal.
+
+
+
+
+4/"Statutes of limitation are statutes of repose and are such legislative enactments as prescribe the periods within
+which actions may be brought upon certain claims or within which certain rights may be enforced." Black's Law
+Dictionary, (5th ed. 1979).
+                                                                              III
+                                                        -5-                                         CAB No. D-968
+
+       The District's final argument is that even assuming that Tyroc had a right to go to the
+Director of DAS for a decision, Tyroc took over two years to apply to this Board when it only
+had 120 (sic) days within which to appeal after an adverse decision or a deemed denied decision.
+The applicable provisions of the PPA are found at D.C. Code §1-1188.5 and §1-1189.45!
+
+        Tyroc correctly citesA.S. McGaughan Co., Inc., CAB No. D-926, December 10,1992,
+40 D.C. Reg. 4855, in support of its argument of the timeliness of its appeal pursuant to the
+PPA. In McGaughan, the Board reviewed language of the Contract Disputes Act and pertinent
+federal decisions comparable to the PPA language in question and concluded that (1) the
+language of the PPA, its legislative history and its basic purposes show that the 90-day
+limitations period begins to run only after the Director, DAS has issued a written final decision
+on the contractor's claim; (2) ... where the Director, DAS does not issue a decision within the
+90-day statutory time period, a contractor is permitted but not required, to commence an appeal;
+and (3) ... the contractor's right to institute an appeal under the "deemed denied" provision is
+permissive, not mandatory. Id. at 4861. See also, Belcon, Inc., CAB No. 829, June 14, 1990,
+38 D.C. Reg. 3090 (May 1991) which is one of the few decisions by this Board wherein D.C.
+Code sections 1-1188.5(c), 1-1188.5(d) and 1-1189.4(a) of the PPA are interpreted. However,
+in determining that the "weight of argumentation" lies heavily with Belcon in favoring an
+interpretation that §1-1188.5(d) merely authorizes an appeal within a reasonable time, rather than
+mandates a 90-day appeal period, the Board stopped short of a full analysis and decision of this
+issue.
+
+       Tyroc filed its claims with the Contracting Officer, on or about December 1, 1992, and
+with the Director of DAS on March 29, 1993. Hearings on the claims were postponed and
+
+
+5'In pertinent part, these provisions are as follows:
+
+         § 1-1188.5. Claims by Contractor against District Government.
+
+          (a) All claims by a contractor against the District government arising under or relating to a
+         contract shall be submitted to the Director for an informal hearing and decision.
+
+          (c) Within 90 days of receipt of a claim over $50,000, the Director shall issue a decision,
+         whenever possible taking into account factors such as the size and complexity of the claim and the
+         adequacy of the information in support of the claim provided by the contractor.
+
+           (d) Any failure by the Director to issue a decision on a contract claim within the required time
+         period will be deemed to be denial of the claim, and will authorize the commencement of an
+         appeal on the claim as otherwise provided in this title.
+
+D.C. Code §1-1188.5.
+
+         § 1-1189.4. Contractor's right of appeal to Board.
+
+           (a) Except as provided in § 1-1188.5, within 90 days from the date of receipt of a decision of
+         the Director, the contractor may appeal the decision to the Board.
+
+D.C. Code §1-1189.4.
+                                               -6-
+                                                                   •                  CAB No. D-968
+
+inconclusive settlement negotiations were held for some time after the filing. The record reflects
+an attempt by Tyroc as recently as January 25, 1995, to obtain a hearing at DAS on the merits
+of its claims. The Director, DAS did not issue a decision on Tyroc's claims and on May 11,
+1995, Tyroc filed this appeal. Therefore, Tyroc filed its appeal with this Board approximately
+two years after filing its claim with the Director.
+
+        Consistent with the interpretation favored in Be/con, this Board finds that §1-1188.5(d)
+does not limit the time within which appeal from a deemed denial must be taken to this Board.
+This statutory provision simply authorizes the right of appeal to be taken within a reasonable
+time after mandatory time periods for a decision by the Director have been met. Upon review
+of the record, it is the finding of this Board that Tyroc has provided sufficient evidence of delays
+that preceded its appeal to this Board which were not the fault of Tyroc, but were the result of
+the District's action or inaction, including postponement of hearing dates, interim meetings,
+settlement negotiations, and lack of decision. See "Facts", infra. Accordingly, the Board finds
+that Tyroc's appeal was filed within a reasonable time pursuant to the provisions of the PPA.
+
+       Therefore, based upon all of the facts and circumstances and the authorities cited herein,
+the District's motion to dismiss is DENIED; and it is hereby
+
+     ORDERED, that the Appellee shall file a response to the Appellant's Motion for
+Summary Judgment on or before November 20, 1996.
+
+
+
+DATE: November 5. 1996
+
+
+
+
+cc:    Arthur W. Finch, Esquire
+       Assistant Corporation Counsel
+       441 Fourth Street, N. W., 6th Floor
+       Washington, DC 20001
+
+       Samuel M. Morrison, Jr., Esquire
+       Herman M. Braude, Esquire
+       Braude & Margulies, P.C.
+       888 17th Street, N.W., Suite 500
+       Washington, DC 20006
+

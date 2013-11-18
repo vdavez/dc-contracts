@@ -1,0 +1,328 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+URBAN SERVICE SYSTEMS CORPORATION                              )
+                                                               )      CAB No. P-0714
+Under Solicitation No. DCAM-2005-B-0027                                 )
+
+       For the Protester: Shelley D. Hayes, Esq. For the Intervenor, TAC Transport LLC: Mary
+Carolyn Brown, Esq., Holland & Knight LLP. For the District of Columbia Government: Howard
+Schwartz, Esq., Talia S. Cohen, Esq., Assistant Attorneys General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                              OPINION
+                                       LexisNexis Filing ID 7439842
+
+        Urban Service Systems Corporation has protested what it anticipates will be the award of four
+aggregate award groups for trash collection and recycling services to TAC Transport, LLC ("TAC"),
+which has intervened in the protest. The District has not made an award or even completed
+responsibility determinations, but TAC is the apparent low bidder on four of award groups and Urban is
+the apparent low bidder on two of the remaining three award groups. In arriving at the low bid
+tabulations, the contracting officer with the District of Columbia’s Office of Contracting and
+Procurement (“OCP”) has determined that TAC and Urban are entitled to a 9 percent LSDBE
+preference reduction in their bid prices.
+
+        Urban’s main challenge is that TAC should not have received a 9 percent preference because it
+is a multi-million dollar business located in Maryland and thus does not qualify as a local or
+disadvantaged District business enterprise. TAC had been previously certified by the District’s Local
+Business Opportunity Commission (“LBOC”) but that certification was to expire shortly before the bid
+opening date. TAC timely applied for recertification, but during the recertification process, the City
+Council substantially revised the certification process and standards when it enacted the Small, Local,
+and Disadvantaged Business Enterprise Development and Assistance Emergency Act of 2005 (“2005
+Act”), D.C. Act 16-168. On the day of bid opening, TAC was granted a temporary certification in an
+acknowledgment letter issued by the Office of Local Business Development (“OLBD”), renamed the
+Department of Small and Local Business Development (“DSLBD”) by the 2005 Act. The contracting
+officer applied a 9 percent preference to TAC’s bid based on that letter. Although there are no
+implementing regulations for the 2005 Act to guide us, we conclude that the temporary certification
+constitutes a provisional certification under section 2362 of the 2005 Act and thus the contracting
+officer did not violate law or regulation in applying the 9 percent evaluation reduction to TAC’s bid
+prices. Urban also claims that TAC did not submit a proper subcontracting plan in its bid to comply
+with the solicitation’s 35 percent set-aside requirement and that TAC lacks requisite experience in trash
+collection and recycling services. We conclude that the former is a matter of responsibility that may be
+corrected up to the time of award and that the latter is premature because there has been no
+responsibility determination made. Accordingly, Urban’s protest is denied in part and dismissed in
+                                              -2-                  Urban Service Systems, CAB No. P-0714
+
+
+part.
+
+                                          BACKGROUND
+
+        On June 3, 2005, OCP issued in the open market Solicitation No. DCAM-2005-B-0027 (“IFB”)
+on behalf of the Office of Property Management, Facility Management Division, for a contractor to
+provide all containers, equipment, personnel, management, recordkeeping, and other reporting services
+necessary to perform pick-up services for the collection of trash and recyclables from District
+Government owned and leased buildings and non-residential housing units located in the District and
+the State of Maryland. (Agency Report (“AR”), at 2; AR Ex. 1). The IFB contains seven aggregate
+award groups based on different locations. Bidders could bid on one or more award groups. The IFB
+provides for aggregate awards to one or more bidders, which will result in a requirements contract or
+contracts with payment based on unit prices for the pay items. The initial bid opening date was June
+20, 2005. Between June 6, 2005, and August 16, 2005, OCP issued eleven amendments, which, among
+other things, extended the closing date to August 30, 2005. (AR, at 2-3; AR Ex.1).
+
+        The “Solicitation, Offer, and Award” page indicates that OCP issued the IFB as an “Open
+Market with Set-Aside 35% - set-aside for subcontracting.” Section M.C. of the IFB captioned “Clause
+Applicable Only to Open Market Solicitations With LBE, DBE, or RBO Subcontracting Set-Aside”
+provides that the contractor must subcontract 35 percent of the dollar value of the contract to LBE,
+DBE, or Resident Business Ownerships (“RBOs”). Section M.1.a. provides preference points for any
+certified prime contractor that is an LBE, DBE, RBO, or DZE certified by the Local Business
+Opportunity Commission (“LBOC”). Section M.1.a. of the IFB also provides that an LBE will receive
+a 4 percent reduction in bid price, a DBE will receive a 3 percent reduction in bid price, an RBO will
+receive a 3 percent reduction in bid price, and a DZE will receive a 2 percent reduction in bid price.
+(AR, at 3; AR Ex.1). Section M.C. requires that the contractor “shall submit with its bid or proposal a
+notarized statement detailing its subcontracting plan.” Section M.C. further provides that “[o]nce the
+plan is approved by the Contracting Officer, changes will only occur with the prior written approval of
+the Contracting Officer.” Section M.2 of the IFB entitled “Liquidated Damages” states that if during
+the performance of the contract, the contractor fails to comply with the subcontracting plan submitted,
+the contractor shall pay the District $250.00 per day for each day of noncompliance. (AR, at 3; AR
+Ex.1).
+
+        The Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of
+2005, in its emergency (D.C. Act 16-168) and temporary (D.C. Law 16-14) versions, became effective
+on July 22, 2005. It repealed the Equal Opportunity for Local, Small, and Disadvantaged Business
+Enterprises Act of 1998, D.C. Law 12-268, but contains the following savings clause: “An order, rule,
+or regulation in effect under a law repealed by this section shall remain in effect under the
+corresponding provision enacted by this subtitle until repealed, amended or superseded.” Section
+2382(c) of the 2005 Act.
+
+        On August 30, 2005, the following six bidders submitted bids: BFI/Allied Waste (“BFI”),
+Century Disposal (“Century”), TAC, EJays Environmental Services (“EJays”), Urban Service Systems
+Corporation (“Urban” or “protester”), and F&L Construction (“F&L”). (AR, at 4; AR Ex.5). Both
+TAC and Urban submitted bids for all seven award groups. TAC’s bid contained a temporary
+certification acknowledgement letter dated August 30, 2005, issued by Jacquelyn A. Flowers, Director
+                                              -3-                   Urban Service Systems, CAB No. P-0714
+
+
+of the Office of Local Business Development (“OLBD”), acknowledging TAC’s eligibility for
+preferences as follows:
+
+       [OLBD] received your application for certification into the Local, Small and
+       Disadvantaged Business Enterprise Program. OLBD acknowledges that your business
+       qualifies for participation in the Set-Aside and/or Preference Program established
+       pursuant to the Equal Opportunity for Local, Small, and Disadvantaged Business
+       Enterprises Act of 1998.
+
+       Pursuant to the self-certification procedures outlined in the rules promulgated in
+       accordance with this Act, please attach a copy of this letter along with the Self-
+       Certification Affidavit to bids and proposals acknowledging your eligibility for
+       preference in the following industry classifications:
+
+               Business Services (Consulting & Management Services)
+               Transportation & Hauling Services
+               Local Business Enterprise (LBE)
+               Small Business Enterprise (SBE)
+               Disadvantage Business Enterprise (DBE) and
+               Development Zone Enterprise (DZE)
+
+       Your application has been assigned to a certification specialist who will conduct a
+       thorough review of its contents and, if necessary, request additional information.
+       Upon completion of this review, your application will be presented to the Local
+       Business Opportunity Commission (LBOC) for a decision.
+
+       Your Temp. Cert. Letter is good until February 26, 2006 or upon the issuance of a
+       certification letter; or denial of certification from the LBOC, which ever occurs first.
+
+(AR, at 4; AR Ex. 6). TAC had submitted the self-certification affidavit to OLBD as part of its initial
+submission. Ms. Flowers, in an October 7, 2005 affidavit states that:
+
+       1. I am the Interim Director for the Department of Small and Local Business
+       Development, District of Columbia Government (“DSLBD”).
+
+       2. As Interim Director, pursuant to 27 DCMR 818.4(a), I followed the proper
+       procedures when on August 30, 2005, I issued an acknowledgement letter to TAC
+       Transport, LLC (“TAC”) acknowledging TAC’s eligibility for preferences for Local,
+       Business Enterprise, Disadvantage Business Enterprise, and Development Zone
+       Enterprise.
+
+            • OLDB received the LSDBE application for TAC Transport on May 17, 2005.
+            • TAC Transport’s application was assigned to Corey Beasley, Certification
+              Specialist on May 18, 2005.
+            • OLDB sent an application deficiency letter to TAC Transport on June 16, 2005.
+                                             -4-                  Urban Service Systems, CAB No. P-0714
+
+
+
+              • TAC Transport turned in their application deficiencies and requested a
+                temporary certification on August 5, 2005.
+              • TAC Transport’s LSDBE certification expired on August 12, 2005. The Local
+                Business Opportunity Commission’s August meeting was cancelled for the
+                month of August.
+              • OLBD determined that the TAC Transport application was complete and issued
+                a self-acknowledgment letter on August 30, 2005.
+
+(AR Ex. 7).
+
+        In addition, TAC’s bid contained a Subcontract Summary Form (AR Ex. 2) in which TAC
+indicates an intention to subcontract to a firm named WM of MD, Inc., and 9 percent to a firm called
+LSI. On the “Subcontract Summary Form”, TAC indicates that LSI is a minority subcontractor.
+
+        On September 13, 2005, Urban filed the instant protest. In its protest, Urban alleges that (1)
+OCP should reject TAC’s bid as nonresponsive for failing to provide a subcontracting plan at bid
+opening, (2) OLBD improperly issued to TAC the acknowledgement letter qualifying TAC to
+participate in the preference program, and (3) TAC should not be found responsible and awarded a
+contract as TAC has no experience in trash collection and recycling and therefore is not a responsible
+bidder.
+
+        On September 21, 2005, OCP applied a 9 percent LSDBE preference reduction to TAC’s,
+Urban’s, and F&L’s bids, and a 6 percent LSDBE reduction to Ejays’ bid. As tabulated, TAC is the
+apparent lowest bidder for Award Groups I, III, VI, and VII. Urban is the apparent lowest bidder for
+Award Groups IV and V. Century (with no preference points) is the apparent lowest bidder for Award
+Group II. (AR, at 4-5; AR Ex.3). The District has not completed its responsibility determinations nor
+has it made any awards.
+
+                                           DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+       TAC’s Entitlement to a 9 Percent Preference Reduction
+
+        Urban contends that the contracting officer should not have provided a 9 percent LSDBE
+preference reduction in evaluating TAC’s bid because, at the time of bid opening on August 30, 2005,
+OLBD improperly determined that TAC was entitled to temporary certification as an LBE, DBE, and
+DZE. Although TAC had been previously certified as an LBE, DBE, and DZE, Urban argues that TAC
+“was a multi-million dollar business with the majority of its assets located in Maryland” as of bid
+opening. According to Urban, re-certification was improper under the prior law, the Equal Opportunity
+for Local, Small, and Disadvantaged Business Enterprises Act of 1998, and the 2005 Act which became
+effective as emergency and temporary legislation on July 22, 2005 – a month before bid opening – and
+made permanent on October 20, 2005, D.C. Law 16-33. TAC submitted its re-certification application
+on May 17, 2005, while the prior LSDBE law was still in effect. The parties dispute how the new law
+applies to the facts here.
+                                                 -5-                    Urban Service Systems, CAB No. P-0714
+
+
+
+
+        Urban states that the 2005 Act applies and that under its provisions TAC is not entitled to any
+bid price reduction. Urban quotes the language of section 2362 of the 2005 Act which provides:
+
+        Provisional certification; self-certification prohibited.
+
+        (a) The Department may authorize a business enterprise to participate in a program
+        established under this part without receiving a certificate of registration under section
+        2361; provided, that such authorization shall be granted only when:
+
+              (1) A business enterprise is applying for certification in order to bid on a contract
+              or procurement for which responses are due within the next 45 days;
+
+              (2) The business enterprise has submitted a majority of the information required
+              under section 2361; and
+
+              (3) The Department reasonably believes that the Commission will certify the
+              business enterprise after the business enterprise has submitted all of the
+              information required under this subtitle or regulation promulgated pursuant to this
+              subtitle.
+
+        (b) An authorization granted under this section shall not last for more than 120 days.
+
+        (c) The Department shall make authorizations under subsection (a) of this section
+        pursuant to rules promulgated pursuant to this subtitle.
+
+        (d) A business entity may not self-certify or self-authorize to participate in a program
+        established under sections 2343 through 2349.
+
+Urban claims that under this section, the DSLBD must have a reasonable belief that the LBOC will
+certify the entity after all required information is provided before it can issue a provisional certification.
+According to Urban, the District has provided no testamentary or documentary evidence to show that
+the Department “reasonably believed” that TAC would qualify as an LBE, DBE or DZE under the 2005
+Act’s new definitions. Finally, Urban urges that subpart (d) of section 2362 of the 2005 Act prohibits
+TAC from relying solely on its self-certification to obtain a bid price reduction for this solicitation.
+Urban has raised the issue of TAC’s lack of entitlement to certification as an LBE, DBE, or DZE in a
+complaint it filed with the LBOC (see Urban’s Reply Memorandum, Attachment 3). According to
+Urban, “the LBOC now is considering whether TAC is entitled to certification as an LBE, DBE and
+DZE. The LBOC may soon very well decide, independently, that OCP was not entitled to rely on the
+August 30, 2005-acknowledgment letter, as Urban argues in this protest.” (Urban Reply Memorandum,
+at 6, n.6).
+
+       The District counters that the 2005 Act, while effective before bid opening, was not
+“implemented” because the Mayor has not yet promulgated implementing regulations. Alternatively,
+the District argues that the self-certification was validly done and is not inconsistent with section
+2362(d). Although there are ambiguities in the 2005 Act, we need not address them in this protest
+                                               -6-                  Urban Service Systems, CAB No. P-0714
+
+
+because we conclude that the August 30, 2005 acknowledgment letter, issued by the agency during its
+transition from the OLBD under the 1998 Act to the DSLBD under the 2005 Act, properly constituted a
+provisional certification under section 2362 of the 2005 Act. The thrust of section 2362 is to replace
+the self-certification procedures by the applicant with a new procedure for provisional certification
+determined by the DSLBD. Urban does not challenge that subparts (a)(1)-(2) of section 2362 were
+satisfied. TAC submitted its recertification well in advance of its prior certification’s August 12, 2005
+expiration date, requesting temporary certification on August 5, 2005. OLDB/DSLBD determined that
+the application was complete. The LBOC would have been able to approve or reject the application for
+re-certification but for its decision not to conduct an August 2005 meeting. In view of LBOC’s
+inaction, the transitional DSLBD issued its acknowledgement letter on August 30, 2005, to grant the
+provisional certification. Urban focuses on subpart (a)(3) of section 2362 which requires that “the
+Department reasonably believes that the [LBOC] will certify the business enterprise after the business
+enterprise has submitted all of the information required under this subtitle or regulations promulgated
+pursuant to this subtitle.” We conclude that the August 30, 2005 acknowledgment letter, as well as the
+facts articulated by the Interim Director of the DSLBD in her affidavit, demonstrate that the DSLBD
+reasonably believed that the LBOC will re-certify TAC as an LBE, DBE, and DZE.
+
+         Although Urban urges us to review the determination made by the DSLBD, we decline to do so.
+Urban requested discovery from the Board on the documentation that the DSLBD relied upon in its
+August 30 determination. In our status conference with the parties on November 2, 2005, Urban stated
+that it had not sought such documents from the DSLBD because of the belief that a FOIA request would
+be denied based on an exemption. We ruled that we would not require the District to produce
+documents from the DSLBD/OLBD beyond what was already in the record because the circumstances
+do not justify reviewing the validity of the agency’s provisional certification determination. Only in
+exceptional circumstances will we consider such a review, such as where the certifying agency has
+abdicated its function and we are left with no choice but to decide on the certification so as to protect
+the integrity of the procurement process and fulfill our statutory obligation under D.C. Code 2-
+309.08(d) of deciding whether an award complies with applicable law, regulations, and terms and
+conditions of the solicitation. Cf. C&D Tree Service, Inc., CAB No. P-0440, Mar. 11, 1996, 44 D.C.
+Reg. 6426, 6433-6439 (Board concluded that bidder was not entitled to LBE or DBE preferences for
+bid evaluation purposes). In the present matter, Urban is challenging the determination made by
+DSLBD in a complaint filed with that agency pursuant to the 2005 Act. For purposes of this protest,
+however, we are satisfied from the record that DSLBD made a determination for provisional
+certification on August 30, which means that as of bid opening, the contracting officer properly relied
+on that determination in granting TAC the bid preferences for LBE, DBE, and DZE.
+
+       Subcontracting Plan
+
+        Urban contends that TAC’s bid is nonresponsive since TAC failed to indicate in its bid its intent
+to subcontract the required 35 percent to LBOC certified entities. The District responds that the
+submission of a subcontracting plan is a matter of contractor responsibility and not a matter of bid
+responsiveness. We agree with the District. By signing the bid without reservation, TAC committed
+itself unequivocally to the terms of the contract, including the 35 percent set-aside subcontracting
+requirement. Fort Myer Construction Corp., CAB No. P-0685, May 5, 2004, 52 D.C. Reg. 4173, 4175;
+C&D Tree Service, Inc., CAB No. P-0295, Nov. 2, 1993, 41 D.C. Reg. 3691, 3696-97. The Board
+concludes that TAC’s bid was responsive and that the District could properly receive the subcontracting
+                                               -7-                   Urban Service Systems, CAB No. P-0714
+
+
+plan after receipt of bids and prior to award in order to determine TAC’s responsibility.
+
+       Lack of Requisite Experience and Bidder Responsibility
+
+       Finally, Urban alleges that TAC lacks experience in trash collection and recycling services, and
+therefore should be found a non-responsible bidder. The District states that this ground of the protest is
+premature because the contracting officer has not yet made any responsibility determination. Although
+Urban alternatively requests that we stay decision on this issue pending a responsibility determination,
+we believe the better course is to dismiss the protest ground at this time. If Urban is not satisfied with
+any forthcoming responsibility determination, it may file a new protest.
+
+
+       For the reasons discussed above, Urban Service’s protest is denied in part and dismissed in part.
+
+
+       SO ORDERED.
+
+
+DATED: November 15, 2005                               /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+CONCURRING:
+
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

@@ -1,0 +1,264 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+APPEAL OF:
+
+       J.E. TIBBS CONSTRUCTION COMPANY                         )
+                                                               ) CAB No. D-1169
+       Under Contract P.O. No. CBOP0000809                     )
+
+     For the Appellant: Harry T. Spikes, Esq. For the District of Columbia: Jennifer L.
+Longmeyer, Esq., Assistant Corporation Counsel.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Matthew S. Watson, concurring.
+
+                                            OPINION
+                                     LexisNexis Filing ID 6627691
+
+        Appellant J.E. Tibbs Construction Company entered into a contract with the District of
+Columbia at a stated price of $33,079 to paint the 6th floor at the District’s One Judiciary Square
+building. After the work was completed, though not fully to the satisfaction of the District, the
+contracting officer notified Tibbs that its contract was “cancelled”, apparently because the
+contracting officer had violated law and regulation in executing the contract, and that Tibbs should
+submit a claim for compensation based on Tibbs’ actual costs of performance. Tibbs submitted a
+claim in the amount of $30,747.76. In his final decision, the contracting officer determined that
+Tibbs had established performance costs of $10,517.82, but, after deducting amounts for an
+improper advance payment made to Tibbs at the start of performance, and damages Tibbs caused
+during performance, he concluded that Tibbs had been overpaid by $4,703.02. The District filed a
+claim against Tibbs for the overpayment. Tibbs appealed both the final decision and the District
+claim. Tibbs claims he is entitled to $13,974. We conclude that Tibbs is entitled to a contract
+balance of $10,487.47, which amount will be withheld by the District until Tibbs has shown that it
+has fully paid its workers the amounts they are due as determined by the United States Department
+of Labor and complied with applicable payroll tax laws.
+
+                                        BACKGROUND
+
+
+        On September 22, 2000, Purchase Order No. CBOP0000809 was awarded to Appellant J.E.
+Tibbs Construction Company to paint the 6th floor, housing the Office of the Attorney General
+(formerly the Corporation Counsel) at the District Government’s One Judiciary Square building,
+located at 441 4th Street, N.W. (Appeal File (“AF”) Ex. 1). The work was to begin immediately
+and was to be finished on or before September 30, 2000. (AF Ex. 2). At Tibbs’ request, the District
+issued an advance payment in the amount of $11,026.33. (AF Ex. 4, at Bates No. 0000064; Hearing
+Transcript (“Tr.”) 275-76). The total contract amount listed on the purchase order was $33,079, and
+corresponds to the low bid made by Tibbs. (AF Ex. 2). Mr. Debor Dosunmu, a contracting officer
+for the District, signed the purchase order on behalf of the District. (AF Ex. 2). Mr. John Tibbs is
+the owner of J.E. Tibbs Construction Company. (Vol. 1 Tr. 205). On September 23, 2000, Tibbs
+                                                 -2-                  J.E. Tibbs Constr. Co., CAB No. D-1169
+
+
+
+began performance. Ms. Sherry Roberts, support services manager for the Office of the Attorney
+General, testified that from the very beginning, there were serious performance problems. (Vol. 1
+Tr. 133). On the Monday after Tibbs began the painting work, she was bombarded with complaints
+from District employees on the 6th floor who complained of paint on the floors and desks, missing
+items from their offices, broken glass in a picture frame, and beer cans “spread over the office.”
+(Vol. 1 Tr. 133-37, 138-41). The missing items included postage stamps, CDs, running shoes, a
+briefcase, and office property including cell phones and tape recorders. (Vol. 1 Tr. 135; AF Ex. 4, at
+bates 65). Although these were serious concerns, Ms. Roberts did not feel that Tibbs’ contract
+should be terminated for default at that early point in performance but instead she chose to work
+with Mr. Tibbs to have his company correct the performance problems. (Vol. 1 Tr. 133-34). When
+Ms. Roberts told Mr. Tibbs of the problems from the initial weekend, he assured her that he would
+take care of the problems and indicated to her that he had already spoken with his workers about
+their prior work. (Vol. 1 Tr. 138-39). Ms. Roberts met with Mr. Tibbs on a near daily basis. (Vol. 1
+Tr. 136, 212). Ms. Roberts continued to inform Mr. Tibbs about problems on the job site, including
+paint on the carpets, missing items from the offices, and Tibbs’ employees drinking alcoholic
+beverages on the job. (Vol. 1 Tr. 137-39; Vol. 2 Tr. 17, 160). If Mr. Tibbs was not available, Ms.
+Roberts spoke with Tibbs’ foreman, Mr. Richmond. (Vol. 2 Tr. 16, 161; Vol. 1 Tr. 137-38). If
+neither Mr. Tibbs nor his foremen were available, Ms. Roberts would leave handwritten notes telling
+them what work had to be done and what, if any, problems that had to be corrected that day. (Vol. 1
+Tr. 141).
+
+        Tibbs did not complete the contract work until mid- to late-October 2000. (Vol. 1 Tr. 159,
+166, 212). By the time of job completion, Ms. Roberts concluded that Tibbs had done “a shabby
+job.” (Vol. 1 Tr. 138, 174-75; Vol. 2 Tr. 140). As an example, Tibbs’ workers did not move
+furniture away from the office walls, but painted around the furniture. (Vol. 1 Tr. 185). This
+“shabby job” included paint stains all over the carpet on the 6th floor. (Vol. 1 Tr. 164, 165). When
+informed of the paint stains, Tibbs offered to clean the carpet but he was unsuccessful in his attempt
+to clean the carpet stains. (Vol. 1 Tr. 165). In order to clean the paint stains from the carpet, the
+District was forced to bring in its maintenance company, Design Mark Services, and pay a fee in
+addition to its regular cleaning contract with Design Mark. (Vol. 1 Tr. 101, 188-191, 121-125). The
+area manager for the Office of Property Management, Mr. Leon Walker, was responsible for
+contacting Design Mark about cleaning the 6th floor. (Vol. 1 Tr. 187; 188). Mr. Walker measured
+the 6th floor and submitted the total square footage of the 6th floor to Design Mark for pricing.
+(Vol. 1 Tr. 189-190; AF Ex. 1, at bates 27-30). Design Mark cleaned the paint stains from the carpet
+and was paid $3,126.20 for cleaning the carpet on the 6th floor. (Vol. 1 Tr. 102, 119, 192-193).
+
+       By letter dated November 29, 2000, the contracting officer stated to Tibbs:
+
+       This is to notify you that the purchase order . . . in the amount of $33,079.00 is
+       hereby cancelled. The remaining balance from that purchase order is also cancelled.
+
+       If you have any claim against this purchase order, you may forward your claim in
+       writing to Mr. Debor Dosunmu . . . .
+
+(AF Ex. 3). The letter does not expressly state that it is a final decision nor does it advise Tibbs of
+                                                 -3-                  J.E. Tibbs Constr. Co., CAB No. D-1169
+
+
+
+its appeal rights. (Vol. 1 Tr. 33, 39). The contracting officer testified that he cancelled the contract
+at the direction of the Chief Procurement Officer because inter alia the purchase order amount of
+$33,079 exceeded the small purchase authority limit of $25,000 provided by the Procurement
+Practices Act. (AF Ex. 1). Because of this procurement violation, the District’s Chief Procurement
+Officer reprimanded the contracting officer. (Vol. 1 Tr. 26-27). There is no evidence in the record
+that a contracting officer with contracting authority above the small purchase authority ratified the
+contract at the amount of $33,079.
+
+        As a result of the November 29, 2000 letter, Mr. Dosunmu met with Mr. Tibbs on three
+separate occasions, on December 1 and 19, 2000, and March 18, 2001, concerning his claim for
+costs, during which Tibbs submitted or resubmitted various receipts, times sheets, certified payroll
+records, and other documentation of its actual costs of performance. (Vol. 1 Tr. 42-46; AF Exs. 1,
+4).
+
+       The contracting officer testified that he had his staff send two final decision letters, both
+dated June 20, 2001, by certified mail and facsimile to Tibbs. (Vol. 1 Tr. 77-78; cf. Nov. 27, 2002
+Dosunmu Aff. ¶¶ 3-5).
+
+        One was a final decision (1) declaring the contract void for violating statute and regulation,
+(2) determining that Tibbs actual costs of performance were $10,517.82, (3) assessing deductions
+against Tibbs for the District’s expense in cleaning paint stains from the carpets ($3,126.20), and the
+replacement cost for missing District items ($1,068.31), (4) deducting an advance payment of
+$11,026.33 made to Tibbs, and (5) concluding that Tibbs owed the District $4,703.02. (AF Ex. 1).
+This first decision informed Tibbs of its right to appeal to the Board within 90 days from the date of
+receipt of the decision.
+
+       The other final decision determined that Tibbs had been overpaid in the amount of $4,703.02
+and demanded return of the overpayment within 30 days. This decision did not set forth the
+contractor’s appeal rights.
+
+        Tibbs testified that he never received the first final decision relating to the contract
+cancellation and his claim, but rather received two envelopes around June 20, 2001, one containing
+an original, the other containing a copy, of the same final decision relating to the District claim
+against Tibbs for overpayment. Tibbs’ attorney submitted an affidavit supporting Tibbs’ testimony
+that he did not receive notice of the first final decision until October 15, 2001, when Tibbs’s attorney
+handed Tibbs a copy of that final decision. On October 16, 2001, Tibbs filed a notice of appeal from
+the final decision canceling the purchase order and denying Tibbs’ claim for compensation.
+                                                  -4-                  J.E. Tibbs Constr. Co., CAB No. D-1169
+
+
+
+
+                                            DISCUSSION
+
+        We exercise jurisdiction over this appeal pursuant to D.C. Code § 2-309.03(a)(2).
+
+        The first issue we decide concerns timeliness of the appeal of the first final decision. The
+District claims that Tibbs untimely filed its notice of appeal from the final decision which declared the
+contract void and denied Tibbs any compensation. After reviewing the record, we conclude that Tibbs
+timely filed the notice of appeal on October 16, 2001, based on the testimony of Tibbs and his attorney
+that Tibbs first received notice of the decision on October 15, 2001. The contracting officer did not
+persuasively contradict Tibbs’ version of receiving an original and a copy of the other final decision
+which demanded that Tibbs repay the District for a claimed overpayment. Since the second final
+decision did not contain a notice of appeal rights, it was timely appealed as well.
+
+        The second issue is whether the Chief Procurement Officer correctly determined that the
+purchase order was void ab initio based on the purchase order exceeding the small purchase dollar
+threshold, the inadvertent omission from the purchase order of the applicable provisions of the Service
+Contract Act, and the erroneous allowance of an advance payment to Tibbs. We conclude that these
+violations do not render the contract void ab initio. The applicable Service Contract Act provisions are
+incorporated into the contract by operation of law and thus the provisions are applicable even if not
+expressly identified in the contract documents. The advance payment is not a violation that strikes at
+the formation of the contract and thus it provides no basis for declaring the contract void. The purchase
+order’s price which exceeds the small purchase threshold presents the more difficult issue. In this case,
+we look to the partial validity rule found in the Restatement (Second)of Agency, § 164, which
+provides:
+
+        § 164 Contracts Unauthorized in Part
+
+                (1)     Except as stated in subsection (2), an agent for a disclosed or partially
+        disclosed principal who exceeds his powers in making an unauthorized contract with
+        a third person does not bind the principal either by the contract as made or by the
+        contract as it would have been made had he acted in accordance with his authority.
+
+               (2)      Where the only difference between the contract as authorized and the
+        contract as made is a difference as to amount, or the inclusion or exclusion of a
+        separable part, the principal is liable upon the contract as it was authorized to be
+        made, provided that the other party seasonably manifests his willingness to accept
+        the contract as it was authorized.
+
+See DeBoer Construction, Inc., v. Reliance Insurance Co., 540 F2d 486, 493 (10th Cir. 1976), cert.
+denied, 429 U.S. 1041 (1977). In the present case, no contracting officer with authority in excess of
+the small purchase authority ever ratified the contract. However, Tibbs manifested its willingness to
+accept the contract as valid at the amount of $25,000. (Appellant’s Post Hearing Reply Brief, at 3).
+Accordingly, the contract is valid at the amount of $25,000.
+                                                -5-                  J.E. Tibbs Constr. Co., CAB No. D-1169
+
+
+
+         The District claims a deduction for the District’s expense in cleaning paint stains from the
+carpets caused by Tibbs in the amount of $3,126.20. We conclude that the evidence supports the
+District’s offset for cleaning of the carpets by Design Mark Services and we have found adequate
+evidence from the testimony that Design Mark was paid that amount for the cleaning. (Vol. 1 Tr.
+116-128). The District also seeks an offset of $1,068.31, constituting the replacement cost for
+missing District items allegedly stolen by some of Tibbs’ workers. The District did not meet its
+burden of establishing either the amount of the expenses or that Tibbs’ workers were responsible for
+all of the missing items. Finally, there is no dispute that Tibbs received an advance payment of
+$11,026.33 which must be offset against the total due to Tibbs. Subtracting the carpet cleaning
+expenses and the advance payment from the purchase order amount of $25,000 results in a contract
+balance amount due to Tibbs of $10,847.47.
+
+       The record indicates that the proper payment of Tibbs’ workers is unresolved. Some workers
+have not received full payment of wages and the contracting officer referred an issue regarding the
+appropriate classification and pay of Tibbs’ workers to the United States Department of Labor.
+
+         On the issue of workers not receiving full payment, Tibbs submitted for the first time at the
+hearing AF Exhibit 7 containing labor summaries, IRS Forms 1099-Misc, and what Mr. Richmond
+testified were the “master payroll spreadsheets” he had prepared under the contract. (AF Ex. 7, bates
+80-98, 99-101; Vol. 2 Tr. 82-108, 195-203). Mr. Tibbs testified that the information in Exhibit 7 in
+its entirety is accurate. (Vol. 2 Tr. 108). The second through fourth pages of Exhibit 7 contain a
+summary of the 20 individuals who Tibbs and Richmond state provided labor under the contract.
+(AF Ex. 7, bates 81-83). The total dollar amount of the wages is $21,779.58. The summary sheets
+and the testimony indicate that some of the laborers have not been paid their full amounts. (AF Ex.
+7, bates 82-83; Vol. 2 Tr. 189-194). According to Messrs. Tibbs and Richmond, the master payroll
+spreadsheets of Exhibit 7 are a more accurate statement of the labor incurred by Tibbs in performing
+the work than in found in the 6-page payroll “worksheets” previously provided to the contracting
+officer, which only have a labor total of $7,389 (see AF Ex. 1, at bates 6, 7-12).
+
+        On the issue regarding compliance with federal labor laws, the contracting officer states in
+his final decision:
+
+       Wage Determination No. 1994-2103, Revision No. 21 (06/09/00), the pertinent wage
+       determination issued by the Wage and Hour Division, Employment Standards
+       Administration of the U.S. Department of Labor, setting forth minimum monetary
+       wages and benefits for service employees was not incorporated into this contract in
+       accordance with the Service Contract Act of 1965, as amended. As a result, there
+       remains an issue regarding the appropriate rate of pay for all the classifications of
+       personnel of J.E. Tibbs Construction listed in the submitted notarized payroll
+       document (Attachment B). I am referring the issue to the U.S. Department of Labor
+       for advice and/or resolution.
+
+Because AF Exhibit 7 contains the accurate statement of labor provided by Tibbs’s personnel, the
+Department of Labor must determine the appropriate rate of pay for all of the workers listed on AF
+Exhibit 7 and then the District must verify that Tibbs pays the workers any additional amounts (and
+                                              -6-                 J.E. Tibbs Constr. Co., CAB No. D-1169
+
+
+
+amounts that were previously withheld by Tibbs) to which the workers are entitled. The District
+shall withhold the $10,847.47 contract balance until Tibbs has fully paid his workers the amounts
+they are due and submits to the District proper evidence of the same, including Tibbs’ compliance
+with payment of required payroll taxes.
+
+                                        CONCLUSION
+
+        Tibbs is due a contract balance of $10,847.47, which will be paid to Tibbs by the District
+after Tibbs has shown that it has fully paid its workers the amounts they are due and has paid
+applicable payroll taxes.
+
+       SO ORDERED.
+
+DATED: September 2, 2005                            /s/ Jonathan D. Zischkau
+                                                    JONATHAN D. ZISCHKAU
+                                                    Chief Administrative Judge
+
+
+
+CONCURRING:
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

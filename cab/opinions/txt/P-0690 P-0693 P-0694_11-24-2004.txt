@@ -1,0 +1,693 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTESTS OF:
+
+SIGAL CONSTRUCTION CORPORATION                         )
+                                                       )   CAB No. P-0690, P-0693, P-0694
+Under Contract No. POAM-2004-B-0014-BS                 )      (Consolidated)
+
+       For the Protester, Sigal Construction Corporation: Daniel J. Donohue, Esq., Wickwire
+Gavin, P.C. For the Intervenor, Jair Lynch/Tompkins Joint Venture: Andrew Stephenson, Esq.,
+Holland & Knight LLP. For the District of Columbia Government: Howard Schwartz, Esq.,
+Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Matthew S. Watson, concurring.
+
+                                           OPINION
+                                   LexisNexis Filing ID 4674934
+
+        Sigal Construction Corporation (“Sigal”) has protested a contract award by the District of
+Columbia Office of Contracting and Procurement (“OCP”) to the Jair Lynch/Tompkins Joint
+Venture (“JLTJV”). Sigal asserts that JLTJV was not entitled to a 12 percent bid reduction
+preference pursuant to the Equal Opportunity for Local, Small, or Disadvantaged Business
+Enterprises Act of 1998, D.C. Law 12-268, D.C. Code § 2-217.01 to 217.07 (“LSDBE Act”),
+because Jair Lynch Companies did not control 51 percent of the joint venture which was
+necessary for the joint venture to qualify for the 12 percent preference. Sigal had the lowest
+actual bid price of $41,965,977 and JLTJV had the third lowest actual bid of $42,890,236. After
+evaluation of preferences – 9 percent for Sigal and the contested 12 percent for JLTJV – JLTJV
+had the lowest evaluated bid of $37,743,408.52, followed by Sigal at $38,189,039.07. Sigal also
+claims that JTLJV’s bid was nonresponsive because the identity of one of the joint venture
+partners – “Jair Lynch Companies” -- was ambiguous. JLTJV argues that the protests are
+untimely because Sigal failed to file its protests within 10 business days of when it learned the
+bases of its protests. On the merits, the District and JLTJV argue that the Local Business
+Opportunity Commission (“LBOC”) properly certified JLTJV as entitled to a 12 percent
+preference and that the JLTJV bid was not ambiguous because the name “Jair Lynch
+Companies” was a trade name under which JLC Construction, LLC, did business.
+
+        We conclude that Sigal was aware of the grounds for its protests long before it filed the
+protests with the Board and that once Sigal learned that the OCP contracting officer had
+submitted to the Council of the District of Columbia a proposed contract award to JLTJV, Sigal
+had notice of the contracting officer’s intent to award to JLTJV and thus had to file its protest
+within 10 business days of learning of the submission to the Council. Because Sigal’s protests
+were not filed within 10 business days of learning of the proposed contract award, the
+consolidated protests are untimely.
+                                              -2-             Sigal Constr., CAB Nos. P-0690, et al.
+
+
+
+
+                                      BACKGROUND
+
+        On December 19, 2003, the District of Columbia’s Office of Contracting and
+Procurement issued Solicitation No. POAM-2004-B-0014-BS, requesting bids for the
+construction of a new Unified Communications Center (“UCC”) to consolidate the District’s 911
+and various non-emergency call centers, emergency communications, and traffic management
+functions. (Agency Report (“AR”), Ex. 1). The state-of-the-art UCC will serve as the District’s
+Emergency Operations Center and the Regional Incident Communications and Command
+Center.
+
+       The Solicitation
+
+        Article 10 of the solicitation provided for bidders to receive a preference in the
+evaluation of their bids pursuant to the LSDBE Act. Thus, a bidder certified by the LBOC as a
+local business enterprise (“LBE”) would receive a 4 percent reduction in its bid price in the
+evaluation of bids. A bidder certified as a disadvantaged business enterprise (“DBE”) would
+receive a 3 percent reduction in the evaluation of its price. A bidder certified as a resident
+business ownership entity (“RBO”) would receive a 3 percent reduction in its price in the
+evaluation of bids. Finally, a bidder located in an enterprise zone would receive a 2 percent
+price reduction for evaluation purposes. Article 10 of the solicitation stated in relevant part:
+
+       10.1    Preference for Local Businesses (LBE), Disadvantage Businesses (DBE),
+               Resident Business Ownerships (RBO) or Businesses Operating in an
+               Enterprise Zone
+
+       10.1.1 General Preferences: Under the provisions of DC Law 13-169, “Equal
+              Opportunity for Local, Small, or Disadvantaged Business Enterprises
+              Amendment Act of 2000” (the Act), The District shall apply preferences
+              in evaluating bids from businesses that are local, disadvantaged, resident
+              business ownership or located in an enterprise zone of the District of
+              Columbia. For evaluation purposes, the allowable preferences under the
+              Act for this procurement are as follows:
+
+       10.1.1.1        Four percent reduction in the bid price for a local business
+                       enterprise (LBE) certified by the Local Business Opportunity
+                       Commission (LBOC);
+       10.1.1.2        Three percent reduction in the bid price for a disadvantaged
+                       business enterprise (DBE) certified by the LBOC;
+       10.1.1.3        Three percent reduction in the bid price for a resident business
+                       ownership (RBO), as defined in Section 2(a)(8A) of the Act, and
+                       certified by the LBOC; and
+       10.1.1.4        Two percent reduction in the bid price for a resident business
+                       ownership (RBO), as defined in Section 2(5) of DC Law 12-268
+                       and in 27 DCMR § 899, 39 DCR § 9087-9088 (December 4,
+                       1992).
+                                               -3-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+
+
+        The solicitation stated that bidders must be certified by the LBOC, or they must submit a
+self-certification as an LBE, DBE or RBO firm, in order to receive preferences as an LBE, DBE
+or RBO firm. It also stated that preferences would not be given simply for subcontracting with
+such firms and that a maximum of 12 preference points would be allowed. (Solicitation ¶ 10.2.2,
+AR Ex. 1).
+
+        The solicitation also contained specific provisions regarding requirements for preferences
+for bidders who are joint ventures. It required that joint ventures be certified by the LBOC and
+that the joint venture meet the requirements for status as an LBE, DBE, or RBO firm in order to
+receive preferences in the evaluation of its bid. Under the solicitation, a joint venture would
+receive the same number of preference points as the firm that “owns and controls at least 51
+percent of the venture.” Solicitation ¶¶ 10.3 - 10.6 state:
+
+       10.3    Preferences for Certified Joint Ventures Including Local or
+              Disadvantaged Businesses or Resident Business Ownerships: When an
+              LBOC-certified joint venture includes a LBE, DBE or a RBO, and the
+              LBE, DBE or RBO owns and controls at least 51 percent of the venture,
+              the joint venture will receive the preferences as if it was a certified LBE,
+              DBE or RBO.
+       10.4 Preferences for Joint Ventures including Businesses Located in an
+              Enterprise Zone: When a joint venture includes a business located in an
+              enterprise zone, and such business located in an enterprise zone owns and
+              controls at least 51 percent of the venture, the joint venture will receive
+              the preference as if it were a business located in an enterprise zone.
+       10.5 Bidder Submission for Preferences: Any Bidder seeking to receive
+              preferences must submit as a part of the Subcontracting Plan the
+              following documentation, as applicable to the preference being sought:
+       10.5.1 Evidence of Bidder’s, subcontractor’s, or joint venture partner’s
+              certification or self-certification as a LBE, DBE, or RBO, to include
+              either:
+       10.5.1.1 A copy of relevant letters of certification from the LBOC; or
+       10.5.1.2 A copy of any sworn notarized Self-Certification Form prescribed by
+              the LBOC along with an acknowledgement letter issued by the Director
+              of the LBOC. Businesses with principal offices located outside of the
+              District of Columbia must first be certified as LBEs before qualifying for
+              self-certification.
+              All Bidders are encouraged to contact the Local, Small and
+              Disadvantaged Business Enterprises Certification Program at the Office
+              of Local Business Development (OLBD), 441 Fourth Street, NW, Suite
+              970N, Washington, DC 20001, (202) 727-3900 if additional information
+              is required on certification procedures and requirements.
+       10.5.2 Evidence that the Bidder or any subcontractor is located in an enterprise
+              zone.
+       10.6 Penalties for Misrepresentation: Any material misrepresentation on the
+              sworn notarized self-certification form could result in termination of the
+                                               -4-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+               Contract, the Bidder’s liability for civil and criminal action in accordance
+               with the Act, DC Law 12-268, and other District laws, including
+               debarment.
+
+       The solicitation also required the successful contractor to perform at least 50 percent of
+the contract work with its own forces. Article 10.7.1 provided in relevant part:
+
+       When a prime Bidder is certified by the OLBD as a LBE, DBE, or RBO, the
+       prime Bidder shall perform at least 50 percent of the contracting effort,
+       excluding the cost of materials, goods, and supplies with its own resources . . . .
+
+       Jair Lynch/Tompkins Joint Venture Formation and LBOC Certification
+
+         On February 12, 2004, a joint venture was formed between “The Jair Lynch Companies”
+and Tompkins Builders, Inc. Intervenor JLTJV asserts that the reference to Jair Lynch
+Companies is simply a trade name for JLC Construction, LLC. JLC Construction, LLC, was
+originally incorporated in 1999 as Jair Lynch Consulting, LLC. Jair Lynch Consulting received
+initial LBOC certification as an LSDBE. On January 1, 2002, the Articles of Organization of
+Jair Lynch Consulting, LLC, were amended to state that the entity “will also do business as ‘The
+Jair Lynch Companies.’ The Company is not officially changing its name . . . .” (Sigal
+Proposed Finding of Fact, Ex. 1, Attachment K). This amendment was never filed with
+Department of Consumer and Regulatory Affairs (“DCRA”). Nor was a trade name registration
+filed with DCRA. On April 9, 2002, Jair Lynch Consulting, LLC, changed its name to JLC
+Construction, LLC, and filed the name change with DCRA. (District Submission, filed Oct. 1,
+2004, Ex. 2). In a OLBD recertification application, dated June 5, 2002, for JLC
+Construction/Jair Lynch Consulting, the name of the company is listed as “The Jair Lynch
+Companies.” (AR Supplement, filed Aug. 24, 2004, Ex. 11). The LBOC recertified JLC
+Construction on March 12, 2003, as an LBE, SBE, DBE, RBO, and Development Zone
+Enterprise, for a period of two years. (District Submission, Oct. 1, 2004, Ex. 2).
+
+     The February 12, 2004 joint venture agreement between Tompkins and the Jair Lynch
+Companies has a cover page entitled:
+
+       Document T101
+       Agreement Between Joint Venturers
+       1996 Edition
+
+On the second page of the agreement, Article 1, entitled “Agreement,” provides:
+
+       AGREEMENT made this 12th day of February between the PARTIES to the
+       Joint Venture: TOMPKINS BUILDERS, INC. (“Tompkins”), with an office at
+       1333 H Street, NW, Suite 200, Washington, DC 20005 and THE JAIR LYNCH
+       COMPANIES (“JLC”), with offices at 1508 U Street, NW, Washington, DC
+       20009, to provide certain services to the OWNER, who is: the Government of the
+       District of Columbia, Washington, DC, in connection with the following
+       PROJECT: Unified Communications Center, Washington, DC
+                                                -5-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+
+
+        The name of the JOINT VENTURE is Jair Lynch/Tompkins Joint Venture
+
+Article 3, entitled “Interests of the Parties,” provides:
+
+        3.1 The respective interests of the parties (the “Parties Interests”) in the profits arising
+        from the Work and in all property accruing from or acquired in connection with the
+        Work and their respective (a) obligations for contributions to and disbursements from
+        working funds and (b) liabilities and obligations in connection with the Work, are:
+        THE JAIR LYNCH COMPANIES                               51%
+        TOMPKINS BUILDERS, INC.                                49%
+
+Article 4, entitled “Management of the Joint Venture”, provides that the contract work will be
+under the direction and control of a Management Committee consisting of two members from
+each party. The article requires that actions and decisions of the Management Committee be
+taken by unanimous vote, and that in the event of a tie, William Brennan of Turner Construction
+Company (the parent company of Tompkins) will cast the tie-breaking vote. The Management
+Committee exercises control over the joint venture funding, accounting, expenses, property,
+services, and personnel.
+
+Article 13, entitled “Services and Personnel”, provides:
+
+        The contract for the Project shall be carried out and performed on behalf of the
+        Joint Venture under the direction and management of a Management Committee
+        composed of Ed Small and Greg Druga of TOMPKINS BUILDERS, Inc., and
+        Jair Lynch and Jonathan Weinstein of THE JAIR LYNCH COMPANIES. The
+        executive committee shall work cooperatively in the determination of matters
+        affecting the Joint Venture. The executive committee of Tompkins and JLC will
+        share responsibility (JLC: 51%, Tompkins: 49%) for the delivery of the Project
+        through the oversight and management of subcontractors to manage the
+        construction requirements of Owner. . . .
+
+        The signature page of the joint venture agreement identifies the “First Party” as “The Jair
+Lynch Companies” and is signed by Jair Lynch as its president and CEO. The “Second Party” is
+identified as Tompkins Builders, Inc., and is signed by Stephen Sullivan, its vice president.
+(Protest CAB No. P-0694, Tab 1). Nowhere does the joint venture agreement mention the name
+“JLC Construction, LLC.”
+
+        The February 12, 2004 joint venture agreement was submitted to the LBOC the same day
+in order to obtain LBOC certification of this new joint venture. The joint venture had the
+agreement hand carried to the LBOC offices. In response to an order to submit the entire
+application package that was transmitted by the joint venture to the LBOC, the District states
+that the only item submitted to the LBOC was the actual agreement and that there was no
+transmittal letter or other attachments accompanying the application. (District Submission, filed
+Oct. 1, 2004).
+                                              -6-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+       On Tuesday, February 17, 2004 (the next business day after submission on Friday,
+February 12), the members of the LBOC met by means of a conference call, discussed the joint
+venture application, and approved it. (Protest, Tab 6). The LBOC’s decision that the
+Lynch/Tompkins joint venture was entitled to 12 preference points was based on its belief that
+the Lynch/Tompkins joint venture members were Tompkins Builders, Inc., and JLC
+Construction, LLC. The only entity within the Jair Lynch umbrella of companies to be certified
+by the LBOC was JLC Construction, LLC. LBOC Chairman Glymph states in a February 26,
+2004 email:
+
+       On Tuesday, February 17, 2004 at 10:30 am, a conference call was convened by
+       the Local Business Opportunity Commission to discuss the Joint Venture
+       application of JLC Construction, LLC and Tompkins Builders, Inc. . . . During
+       the call, the Commissioners discussed the terms and conditions of the joint
+       venture agreement and the collective qualifications and responsibilities of JLC
+       Construction and Tompkins Builders. In addition, we discussed the scope of
+       work between the joint venture parties and applauded Tompkins for joint
+       venturing with an LSDBE company.
+
+(Protest (CAB No. P-0690), Tab 6).
+
+       Bid Opening
+
+       Five bids were opened on February 17, 2004. (D&F to Proceed, at 1). After OCP
+deducted for certain optional bid items from the base bid prices, but before OCP applied any
+applicable preferences in evaluating the bid prices, the results showed that Sigal submitted the
+lowest actual bid of $41,965,977, Clark Construction was second with a bid of $42,475,957, and
+JLTJV was third with a bid of $42,890,236. (AR Ex. 7, at SL-9).
+
+        JLTJV submitted its bid with a cover letter on letterhead reading “Jair Lynch/Tompkins
+Joint Venture.” The letter states that JLTJV’s bid consisted of a Bid Form (Document 00410), a
+Representations and Certifications form (Document 00450), an “Assurance of Compliance with
+Equal Employment Opportunity Requirements”, an “Equal Opportunity Policy Statement”, “Tax
+Certification Affidavits from both Tompkins Builders and Jair Lynch Companies”, and a bid
+bond. (Protest (CAB No. P-0694), Tab 1; see also Sigal Proposed Findings of Fact, Ex. 1,
+Attachment A, at 177-217). The letter states that “The Joint Venture of Jair Lynch/Tompkins
+Joint Venture meets the requirement for the 12 point preference as described in the bidding
+documents.” The 4-page Bid Form contains the pricing information of the bidder and provides
+on the final page the following information about the bidding entity:
+
+       Name of Bidder must be shown in full if an individual; and if a partnership, full
+       names of all partners must be shown. If Bidder is a corporation, impress
+       corporate seal and furnish name of State where incorporated. If joint venture, all
+       parties must sign.
+
+       Bid of          Jair Lynch / Tompkins Builders
+                                               -7-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+       a       Joint Venture            corporation/partnership/an individual . . .
+
+               District of Columbia (State)
+
+       doing business as       Jair Lynch/Tompkins Builders Joint Venture               .
+
+       Date:           2/17/04
+
+       By:     Edward Small /s/ Edward Small (Signature)    /s/ Jair Lynch
+               Management Committee member and           Management Committee Member
+               President of Tompkins Builders, Inc.      President of Jair Lynch Co
+
+        The next document in JLTJV’s bid package was the joint venture agreement of February
+12, 2004. The bid also appears to contain a nearly identical version of the joint venture
+agreement but dated February 17, 2004. The names of the parties and the signatories in both
+versions of the agreement are identical. The bid package contains a bid bond dated February 17
+indicating the principal is Jair Lynch/Tompkins Joint Venture. It is signed by Curtis B. Harris,
+Vice President – Tompkins, and Jair Lynch, President – Jair Lynch Companies. The
+Representations and Certifications form identifies the bidder as a joint venture, lists the name of
+the bidder as “Jair Lynch/Tompkins Joint Venture,” and is signed by Edward Small as a
+Management Committee member of the joint venture. A Tax Certification Affidavit is included
+in the name of joint venture partner, The Jair Lynch Companies, identifying the following
+information: Finance and Revenue Registration No. 02.68628, Federal Identification No. 52-
+2250054, and DUNS No. 10-995-8426. (Sigal Proposed Findings of Fact, Ex. 1, Attachment A,
+at 214). These numbers correspond to the numbers of JLC Construction, LLC. (District
+Submission, filed Oct. 1, 2004, Ex. 1). The bid of JLTJV did not contain a copy of any LBOC
+certification of JLTJV under the LSDBE Act, apparently because the LBOC acted on JLTJV’s
+request for certification the day of bid opening.
+
+        After bid opening, OCP contacted the Office of Local Business Development (“OLBD”),
+which supports the LBOC, to verify that JLTJV was entitled to a 12 percent preference reduction
+as indicated in its bid. Nicole Copeland, OLBD’s Certification Manager, replied to OCP later on
+February 17 in a fax transmittal, stating:
+
+       This letter is to confirm that the JLC Construction/Tompkins Builders Joint
+       Venture was approved by the Local Business Opportunity Commission (LBOC)
+       on February 17, 2004 for twelve preference points. Their certification letter has
+       been sent to the LBOC Chairman for signature.
+
+(AR Ex. 4). Also, on February 17, 2004, the LBOC’s Chairman, Darrin Glymph, wrote to the
+JLTJV that:
+
+       The District of Columbia Local Business Opportunity Commission (LBOC)
+       during its meeting on 2/17/04, Certified Jair Lynch/Tompkins Joint Venture as a
+       Joint Venture in the Local, Small, and Disadvantaged Business Enterprise
+       Program as promulgated by the “Equal Opportunity for Local, Small and
+                                               -8-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+        Disadvantaged Business Enterprises Act of 1999.”
+
+(AR Ex. 3). Based on the confirmation from the LBOC that JLTJV was certified and entitled to
+12 preference points, the contracting officer evaluated JLTJV’s bid by reducing the actual bid
+price by 12 percent based on its LBE, RBO, DBE, and enterprise zone status. The contracting
+officer evaluated Sigal’s bid by applying a 9 percent bid reduction based on it being certified as
+an LBE, RBO, and being located in an enterprise zone. Applying those preference reductions to
+the actual bids, JLTJV had the lowest evaluated price of $37,743,408.52 and Sigal had the
+second low evaluated price of $38,189,039.07.
+
+        The contracting officer has prepared a Chronology of Procurement which was submitted
+as part of the proposed award package to the Council. The Chronology indicates that during late
+February and early March 2004, the Director of OLDB raised objections to JLTJV’s initial
+subcontracting plan, and rejected OCP’s request for a waiver of the 50 percent self-performance
+requirement of Solicitation Paragraph 10.7.1. (Proposed Findings of Fact, Ex. 1, Attachment B,
+at 250-253). Entries in the Chronology for March 10-12, 2004, state as follows:
+
+        Per conference call between Allam Al-Alami, OCTO, Karen Hester, OCP,
+        Brenda Spriggs, on 3/10/04. Allam stated that Peter Roy, OCTO, met with J.
+        Flowers, OLDB, to discuss the LSDBE requirements for the UCC project. The
+        result of the meeting was J. Flowers said that Jair Lynch/Tompkins
+        misrepresented their joint venture and that the joint venture was invalid.
+
+        Meeting with K. Hester, OCP, A. Al-Alami, OCTO [Office of the Chief Technology
+        Officer], and B. Spriggs, OCP, rei[]terating J. Flowers position that Jair Lynch/Tompkins
+        joint venture is invalid. Misrepresentation by Jair Lynch/Tompkins.
+
+        Meeting between OCP, Kevin Green, Karen Hester, Brenda Spriggs, and J. Flowers,
+        OLDB, regarding misrepresentation by Jair Lynch/Tompkins – meeting cancelled until
+        further notice.
+
+(Id. at 253).
+
+        Waiver of the 50 percent requirement was still at issue between OCP and OLDB in early
+April. On April 6, 2004, at a meeting among OCP, OCTO and OLDB personnel, it was agreed
+“to allow J. Flowers on[e] day, tomorrow to provide Waiver of the 50% LSDBE requirement for
+the prime LSDBE bidder to perform.” (Id. at 255).
+
+         On April 14, 2004, a meeting was held among Nate Frances, of the Chief of Staff’s
+Office in the Executive Office of the Mayor, Jacquelyn Flowers and Nicole Copeland, OLDB,
+and OCP representatives to discuss the pending issues. OLDB’s representative stated “that the
+Joint Venture was invalid because Jair Lynch cannot perform 50% of the construction work and
+Tompkins was performing the majority of the work and the Joint Venture is invalid. . . .” (Id. at
+256). According to the Chronology entry for this meeting, “Nate Frances stated to J. Flowers if
+she had what she need[ed] from OCP to verify the Joint Venture. Nicole Copeland received all
+the information OCP had obtained from Jair Lynch/Tompkins. N. Copeland stated she would
+                                               -9-              Sigal Constr., CAB Nos. P-0690, et al.
+
+
+look at the documents and get back to us tomorrow.” (Id.). By memorandum dated April 15,
+2004, the OLBD Director approved the waiver of the 50 percent self-performance requirement.
+(AR at 4-5; AR Ex. 6). The record does not indicate any subsequent objections being raised by
+OLDB to the validity of the joint venture.
+
+        On April 20, 2004, Sigal filed a complaint with the LBOC asserting that JLTJV was not
+entitled to a 12 percent preference because the joint venture did not satisfy the statutory
+requirements for certification for 12 percent because Tompkins, not Jair Lynch Companies,
+controls the joint venture by virtue of its control of the Management Committee. Sigal also
+noted that the “Jair Lynch Companies” referred to in the joint venture agreement had never been
+certified by the LBOC, and that only a Jair Lynch entity named JLC Construction, LLC, was
+certified:
+
+       OLDB’s website does not list the Jair Lynch Companies nor does it indicate
+       preference points given to the Jair Lynch Companies. OLDB’s website does list
+       a “JLC Construction, LLC / formerly The Jair Lynch Consulting LLC . . . .
+
+        On April 28, 2004, Karen Hester, the OCP contracting officer, signed a determination
+and findings, determining the JLTJV was a responsible contractor and that it was in the best
+interest of the District to award the contract to JLTJV. The findings which support the
+determination were signed by Brenda Spriggs, the OCP contract specialist. (AR Ex. 10).
+
+       On May 7, 2004, JLTJV returned to OCP a signed copy of the UCC construction
+contract. This was two months prior to Council approval of the award to JLTJV. (Proposed
+Findings, Ex. 1, Attachment A, at 128 - 131).
+
+        On June 8, 2004, the OCP contracting officer transmitted to the Council of the District of
+Columbia the proposed contract action for awarding the UCC contract to JLTJV. The proposed
+contract award recommendation was accompanied by a package of documents supporting the
+recommendation. (Proposed Findings, Ex. 1, Attachment A). Sigal became aware of the
+submission to the Council, and actively worked to convince the Council to disapprove of the
+proposed award to JLTJV, including having its president and counsel testify at a June 23 Council
+hearing against the proposed award. (Intervenor JLTJV Motion to Dismiss, filed July 30, 2004,
+at 3). On July 8, 2004 the Council approved OCP’s recommendation to award the UCC contract
+to JLTJV. On July 16, 2004, OCP notified JLTJV that its bid was accepted and the construction
+contract was signed by the contracting officer on July 27, 2004. (AR, at 5-7; Intervenor JLTJV
+Motion to Dismiss, at 3-4).
+
+        Sigal filed its first protest (CAB No. P-0690) of the contract award to JLTJV with the
+Board on July 8, 2004, alleging that: Sigal was the low evaluated bidder as the JLTJV did not
+qualify for a 12 percent preference (Protest Ground A); that the 50 percent self-performance
+waiver was prejudicial and contrary to law (Protest Grounds B and C); and that JLTJV’s bid
+bond was defective (Protest Ground D). (Protest CAB No. P-0690, at 2-3). On July 16, 2004,
+the District issued a Determination and Findings to Proceed With the Award After Receipt of a
+Protest. The Board denied the Protestor’s motion to challenge the District’s D&F on August 13,
+2004.
+                                               - 10 -            Sigal Constr., CAB Nos. P-0690, et al.
+
+
+
+
+        On July 27, 2004, Sigal filed a second protest (CAB No. P-0693), adding allegations that
+the award of 12 percent preference to JLTJV was based upon a mistake of fact regarding the
+identity of The Jair Lynch Companies (assumed by Sigal to refer to a corporation called Jair
+Lynch Companies, Inc.), which was never certified by the LBOC as an LSBDE (Protest Ground
+E); and that JLTJV is not a responsible bidder because Jair Lynch Companies, Inc., was not a
+corporation in good standing as of the contract award date (Protest Ground F). (Protest CAB
+No. P-0693). The Board consolidated these protests. Intervenor JLTJV filed a motion to
+dismiss the protests on July 30, 2004, urging that the protest grounds were not timely filed as
+required by D.C. Code § 2-309.08.
+
+         On August 12, 2004, Sigal filed a third protest (CAB No. P-0694), withdrawing the
+allegation in its first protest that the bid bond was defective (Protest Ground D), and adding the
+ground that JLTJV’s bid was not responsive and must be rejected because of ambiguity
+regarding the members of the joint venture. This protest ground stems from the JLTJV statement
+in its July 30, 2004 motion to dismiss that “The Jair Lynch Companies” as used in the bid and
+joint venture agreement is a trade name for JLC Construction, LLC, and does not refer to “The
+Jair Lynch Companies, Inc.”
+
+       On August 13, 2004, the LBOC responded to Sigal’s April 20 complaint with an Order of
+Dismissal, stating that Sigal’s complaint “does not allege a violation of the act by the registrant,
+but ‘challenges the [alleged] improper grant of 12 preference points to Lynch/Tompkins Joint
+Venture’ by the Commission.” (AR Ex. 8). According to the LBOC, D.C. Code § 2-217.04(e)
+“does not authorize the Commission to hear challenges to its certifications.” D.C. Code § 2-
+217.04(e) provides in relevant part:
+
+               Any person may file with the Commission a complaint alleging a
+       violation of this subchapter against any applicant for registration or contractor
+       registered pursuant to this subchapter. The complaint shall be in writing and
+       sworn to by the complainant. The Commission may, without a hearing, dismiss a
+       complaint which is frivolous or otherwise without merit. Any hearing shall be
+       heard within 3 months of the filing of the complaint. The Commission shall
+       cause to be issued and served on the person or organization alleged to have
+       committed the violation, hereafter called the respondent, a written notice of the
+       hearing together with a copy of the complaint . . . . If, at the conclusion of the
+       hearing, the Commission determines that the respondent has violated the
+       provisions of this subchapter, the Commission shall issue, and cause to be served
+       on the respondent, a decision and order, accompanied by findings of fact and
+       conclusions of law, requiring the respondent’s registration to be revoked or
+       suspended, or take any other action as it deems appropriate.
+
+      Nevertheless, the LBOC did briefly address Sigal’s allegation that Tompkins, not Jair
+Lynch Companies, controlled the joint venture. The LBOC states in its decision:
+
+       [T]he Commission determined that the language in the joint venture agreement
+       demonstrated that the Jair Lynch Companies, which the Commission understood
+                                               - 11 -             Sigal Constr., CAB Nos. P-0690, et al.
+
+
+       to mean JLC Construction, LLC, represented “at least 51% ownership and
+       control over the venture”. As a result of this certification, JTJV was entitled “to
+       receive the preferences” granted to JLC Construction, LLC “as if it were” that
+       entity. Since JLC Construction, LLC’s certification entitles it to 12 preference
+       points, the contracting agency must accord that same preference to JTJV.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+        JLTJV argues that all of the protest grounds raised in Sigal’s first two protests, CAB Nos.
+P-0690 and P-0693, are untimely because Sigal knew of the bases of the protest allegations long
+before the protests were filed on July 8 (P-0690) and July 27 (P-0693). JLTJV points to Sigal’s
+complaint filed with the LBOC in April 2004 raising the issues of whether JLTJV was properly
+entitled to a 12 percent preference and whether the 50 percent self-performance requirement was
+properly waived. JLTJV also urges that Sigal’s efforts to convince the Council to disapprove of
+the proposed contract award to JLTJV in June 2004 show Sigal’s knowledge of the bases of
+these protests well before the protests were filed with the Board. JLTJV cites our decision in
+Micro Computer Co., CAB No. P-0226, Jan. 9, 1992, 39 D.C. Reg. 4381, reconsid., 40 D.C.
+Reg. 4388, for the proposition that the 10-business day period begins when the protester first
+knows or should have known the basis of the protest, regardless of when the contracting officer
+makes an award. Sigal responds that the time period does not begin until there has been an
+official action adverse to it and that the contract award was the official action adverse to it.
+According to Sigal, a protest is premature until the unsuccessful bidder receives notice of award.
+Since the award was not made until July 16, 2004, and Sigal did not receive notice of the award
+until July 22, its protests in P-0690 and P-0693 were timely filed.
+
+        The Procurement Practices Act provides the following in D.C. Code § 2-309.08 with
+regard to an award protest:
+
+       (a)    This section shall apply to a protest of a solicitation or award of a contract
+       addressed to the Board by any actual or prospective bidder, offeror, or contractor
+       who is aggrieved in connection with the solicitation or award of a contract.
+
+       ....
+
+       (b)(2) In cases other than those [based upon alleged improprieties in a
+       solicitation] . . . , protests shall be filed not later than 10 business days after the
+       basis of protest is known or should have been known, whichever is earlier.
+
+        The correct principle of law on timeliness of a protest in connection with an award is that
+the 10-business day period stated in D.C. Code § 2-309.08 begins when the bidder or offeror
+knows or should have known the basis of its protest and the party has become aggrieved in
+connection with the award by an official action adverse to that party. JLTJV misconstrues our
+decision in Micro Computer. That case addressed the issue of the timeliness of a protest filed
+against the presumptive low bidder even though no award had been made. Micro Computer
+                                                - 12 -            Sigal Constr., CAB Nos. P-0690, et al.
+
+
+simply stands for the proposition that the Board may entertain jurisdiction over a protest which
+technically is premature because there has been no formal action taken by the contracting officer
+adverse to the protester. There is no difficulty in such an approach because if the presumptive
+low bidder does not receive award or the protester receives the award, the protest will be moot
+and voluntary dismissal will follow. See, e.g., Consolidated Waste Industries, CAB No. P-0300,
+Oct. 8, 1992, 40 D.C. Reg. 4570. If the protester does not receive award, the Board can then
+resolve the protest based on an actual decision adverse to the protester. Further, it may be useful
+for the contracting officer and government legal counsel to learn of a protest ground even if
+prematurely filed because the agency may be expected to take a more informed contract action
+based on the issues raised in the protest.
+
+         Usually, the contracting officer’s official action adverse to the party will be a notice of
+award, a notice of intent to award, a notice that the party did not receive award, a notice that the
+party’s bid or offer will not be further considered in the procurement, a notice that the party’s
+offer is not within the competitive range, or a notice that the bid or offer is rejected for some
+other reason. It is well settled in our cases that a bidder or offeror does not have to file a protest
+in connection with an award until it has received notice of an official action by the contracting
+officer which is adverse to it. See, e.g., Unfoldment, Inc., CAB No. P-0447, Aug. 2, 1996, 44
+D.C. Reg. 6488, 6490-91 (protester's challenge to an anticipated award to the incumbent and an
+affirmative determination of the incumbent's responsibility status is premature and speculative);
+Consolidated Waste Industries, CAB No. P-0430, June 12, 1995, 42 D.C. Reg. 4983 (protester
+merely surmises that the District intends to award the IFB to another bidder; since the District
+had not yet completed its responsibility determination nor awarded a contract; protest was
+premature). In Alexandria Scale, CAB No. P-0361, Mar. 25, 1993, 40 D.C. Reg. 5055, the facts
+showed bid opening on June 12, 1992, that protester notified the contracting officer by letter of
+June 23 that the low bidder could not meet the specifications, and that between June 18 and
+December 14, 1992, the contracting agency made inquiries to the low bidder seeking responses
+to protester's June 23 letter. On January 7, 1993, after a partial award was made to the low
+bidder, the protester filed its protest on January 14, 1993, 7 days after award, but months after
+being on notice of the underlying basis for the protest. The Board held that the protest was
+timely filed because the operative date for the starting the 10-day filing period was the date on
+which the bidder was notified of the adverse agency action -- January 7, 1993, in that case. In
+Koba Associates, Inc., CAB Nos. P-0344, P-0359, Mar. 3, 1993, 40 D.C. Reg. 5003, we held that
+the 10-day period for filing a protest begins to run when the District takes adverse action to the
+concerns of the offeror, not when the offeror raises the issues in a letter to the contracting officer
+seeking clarification. In Koba, the protester sought clarification by letter of August 27, 1992,
+challenging a direction given by the contracting agency during discussions, but the 10-day time
+for filing its protest began to run when protester received the September 24, 1992 notice
+terminating negotiations. Thus, Koba’s protest was timely filed on October 7, 1992. See also
+Fort Myer Construction Corp., CAB No. P-0261A, Jan. 28, 1992, 39 D.C. Reg. 4400 (although
+Fort Myer was aware of low bidder's bid mistake at the time of bid opening on October 10, 1990,
+it was not aggrieved until November 1, 1990, when the District informed Fort Myer that the low
+bidder's error was not disqualifying).
+
+      Under these principles of timeliness, we conclude that the protest grounds in P-0690 and
+P-0693 were untimely raised on July 8 and July 27, 2004. Sigal states that it was aware of
+                                              - 13 -            Sigal Constr., CAB Nos. P-0690, et al.
+
+
+LBOC’s certification of JLTJV (and the consequent eligibility for a 12 percent preference) in
+mid-March 2004 (Sigal Opposition, filed Aug. 11, 2004), and challenged the certification and
+entitlement of JLTJV to a 12 percent preference in its April 20, 2004 complaint to the LBOC.
+Certainly, by the time that the contracting officer submitted the proposed contract award to the
+Council on June 8, 2004, Sigal knew or should have known the bases for all of its protest
+grounds in P-0690 and P-0693. That does not end the inquiry because for determining
+timeliness, pursuant to D.C. Code § 2-309.08, we must determine also when Sigal first learned of
+an official action adverse to Sigal in connection with award of the contract. We conclude that
+Sigal learned of an official action adverse to it in connection with award of the contract when it
+received notice of the June 8, 2004 submission by OCP to the Council proposing award of the
+UCC contract to JLTJV. For contracts in excess of $1 million, D.C. Code § 2-301.05a requires
+that the Mayor shall “submit the proposed contract to the Council for review and approval in
+accordance with the criteria established in this section.” Section 2-301.05a(c)(1) states that
+proposed contracts submitted to the Council shall contain a summary, including, but not limited
+to, the following:
+
+  (A) The proposed contractor, contract amount, unit and method of compensation,
+      contract term, and type of contract;
+  (B) The goods or services to be provided, including a description of the economic
+      impact of the proposed contract . . . ;
+  (C) The selection process, including the number of offerors, the evaluation criteria,
+      and the evaluation results, including price and technical components;
+  (D) The background and qualifications of the proposed contractor, including its
+      organization, financial stability, personnel, and prior performance on [contracts]
+      with the District government;
+  (E) Performance standards and expected outcomes of the proposed contract;
+  (F) A certification that the proposed contract is within the appropriated budget
+      authority for the agency . . . ;
+  (G) A certification that the proposed contract is legally sufficient and has been
+      reviewed by the Office of the [Attorney General] . . . ;
+  (H) A certification that the proposed contractor is current with its District and
+      federal taxes . . . ;
+  (I) The status of the proposed contractor as a certified local, small, or
+      disadvantaged business enterprise;
+
+  (J)  Other aspects of the proposed contract that the Chief Procurement Officer
+      deems significant; and
+  (K) A statement indicating whether the proposed contractor is currently debarred
+      from providing services to any governmental entity . . . .
+
+Sigal filed a copy of the documents transmitted by OCP to the Council for the section 2-301.05a
+review. (Proposed Findings of Fact, Ex. 1, Attachment A). That submission to the Council was
+a notice of intent to award to JLTJV. Accordingly, as of June 8, 2004, Sigal knew or should
+have known the grounds of its protests in P-0690 and P-0693 and it was aware of the OCP
+contracting officer’s intent to award the UCC contract to JLTJV by virtue of OCP’s June 8
+submission of the proposed contract award to the Council. Not only did Sigal learn of the
+                                               - 14 -           Sigal Constr., CAB Nos. P-0690, et al.
+
+
+submission to the Council, but it actively lobbied the Council to disapprove of the proposed
+award to JLTJV.
+
+        We now address Sigal’s protest ground in P-0694 which was filed on August 12, 2004.
+Sigal alleges that the JLTJV bid was nonresponsive because the identity of one of the joint
+venture parties – “Jair Lynch Companies” – was ambiguous. Sigal contends that within the four
+corners of the bid documents and from publicly available records, it is not possible to conclude,
+as the contracting officer did, that “Jair Lynch Companies” referred to JLC Construction, LLC,
+which is the name of the corporation that the contracting officer understood as being the joint
+venture party which entered into the agreement with Tompkins. Sigal notes that within the Jair
+Lynch umbrella of companies, there is no legal entity named “Jair Lynch Companies” and JLC
+Construction, LLC, is not publicly registered under a trade name of “Jair Lynch Companies.”
+Moreover, JLTJV itself states that the only Jair Lynch party to the joint venture is JLC
+Construction, LLC, i.e., neither all of the Jair Lynch companies taken together nor any other
+individual Jair Lynch entity is a party to the joint venture. While there is a Jair Lynch entity
+named “Jair Lynch Companies, Inc.,” that corporation was formed in August 2003, is not
+certified in any manner by the LBOC, and thus could not support the allowance of a 12 percent
+preference to JLTJV.
+
+         JLTJV states that this protest ground, like the protest grounds in P-0690 and P-0693, was
+untimely raised because Sigal knew of the basis of the protest long before August 12. We agree.
+Sigal states that it first learned of the protest ground when it received JLTJV’s motion to dismiss
+on July 30, 2004, which contained the assertion that the name “Jair Lynch Companies”, as used
+in the joint venture agreement and in the bid documents, is a trade name for JLC Construction,
+LLC, and not Jair Lynch Companies, Inc. We find that Sigal knew of the underlying facts by no
+later than April 20, 2004, when it filed a complaint with the LBOC. In the LBOC complaint,
+Sigal states that “OLDB’s website does not list the Jair Lynch Companies nor does it indicate
+preference points give to the Jair Lynch Companies” but “does list a ‘JLC Construction, LLC /
+formerly The Jair Lynch Consulting LLC.’” (Protest P-0690, Tab 9). By the time of the June 8
+submission of the proposed award to the Council, Sigal knew or should have known of the basis
+for the protest, and, when coupled with its learning of OCP’s June 8 proposed contract award
+submission to the Council, started the time period to file its protest within 10 business days.
+Because the protest in CAB No. P-0694 was not filed until August 12, the protest is untimely.
+
+       Accordingly, we dismiss the three protests as untimely.
+
+       SO ORDERED.
+
+
+DATED: November 24, 2004                                /s/ Jonathan D. Zischkau
+                                                        JONATHAN D. ZISCHKAU
+                                                        Chief Administrative Judge
+
+CONCURRING:
+                        - 15 -   Sigal Constr., CAB Nos. P-0690, et al.
+
+
+
+
+/s/ Matthew S. Watson
+MATTHEW S. WATSON
+Administrative Judge
+

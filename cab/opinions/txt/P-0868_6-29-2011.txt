@@ -1,0 +1,161 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+S3 Integration L.L.C.                        )
+                                             )       CAB No. P-0868
+                                             )
+Solicitation No.: DCAM-2010-B-0166           )
+
+      For the Protester: Michael Simmons, Vice President, pro se.             For the District of
+Columbia Government: Jon N. Kulish, Esq., Assistant Attorney General.
+
+      Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge Marc
+D. Loud, Sr., concurring.
+
+                                            OPINION
+                                       Filing ID 38422837
+
+        S3 Integration L.L.C (“S3 Integration” or “S3”) protests the award of a contract for
+electronic security systems to Orion Systems Group LLC (“Orion”). S3 Integration challenges
+the award on the grounds that the contracting officer did not understand S3 Integration’s bid, and
+mistakenly awarded the contract to the wrong bidder. The District responds that S3 Integration
+did not understand the bidding requirements of the IFB, and that S3 Integration submitted a bid
+that was more than twice as high as the low bid submitted by Orion. After carefully reviewing
+the entire record herein, we conclude that the contracting officer did not violate law, regulation,
+or the terms of the solicitation in determining Orion to be the low bidder. Accordingly, we deny
+the protest.
+
+                                        BACKGROUND
+
+        On August 12, 2010, the District of Columbia government, acting through the
+Contracting and Procurement Division of the Department of Real Estate Services (“DRES”) and
+on behalf of the Protective Services Police Department (“PSPD”), issued IFB DCAM-2010-B-
+0166. Agency Report (“AR”) Ex. 1. The District was looking for a contractor to provide all
+management, supervision, labor, materials, supplies, transportation, and equipment for the
+Electronic Security Systems Operation, Installation and Maintenance Conversion for District
+owned and leased facilities. The statement of work required the contractor to both maintain the
+current hardware and software in the city wide Electronic Security System, and to convert the
+present system to a New Security Management System (“NSMS”) that has more capabilities than
+the current system. The IFB contemplated award of a firm fixed price contract. AR Ex. 1,
+section B.2.
+
+       Bids were opened on September 17, 2010, the date set forth in IFB Amendment 005 AR
+Ex. 6. Three bidders submitted bids, as follows:
+                                                 -2-              S3 Integration LLC, CAB No. P-0868
+
+
+                     Bidder                                      Price
+            Orion Systems Group LLC                           $869,000.00
+                S3 Integration LLC                           $2,093,713.00
+              Condortech Service, Inc.                        $997,096.66
+(AR Ex. 10)
+
+        The solicitation required bidders to submit prices for the items set forth in Sections B.5.1
+and B.5.2 of the solicitation. The bidders were required to add the Service Lump Sum Price of
+Section B.5.1 to the Conversion Lump Sum Price of Section B.5.2 to equal the bid price for the
+project. Amendment No. 4 to the solicitation, issued on September 2, 2010, set forth explicit
+instructions in attachment b on page 1 regarding the items that would determine the bidder’s
+price. AR Ex. 5.
+
+       For the bidders, the sum of the two Lump Sum prices in B.5.1 and B.5.2 were as follows:
+
+                     Bidder                                      Sum
+            Orion Systems Group LLC                           $869,000.00
+                S3 Integration LLC                            $881,266.00
+              Condortech Service, Inc.                        $997,096.66
+(AR Ex. 10)
+
+        In the bid document, S3 Integration had entered the larger amount set forth in the first
+table above. The amount of $2,093,713.00 is the sum of the lump sum prices set forth in items
+B.5.1 and B.5.2 of S3’s bid document. The bid form did not require bidders to add the lump sum
+items into one entry.
+
+       In the protest, S3 Integration alleges that the District’s contract specialist, Ms. Helena
+Barbour, made a number of statements regarding the evaluation of bids. The specialist, in a
+declaration attached to the agency report (AR Ex. 16), dated December 9, 2010, sets forth her
+own recollections regarding statements made at the bid opening. She denies making the
+statements alleged by the protester. The protester did not submit a response to the agency report.
+
+        The District completed its evaluation of the bids by October 27, 2010. The contract
+specialist determined that S3 Integration had improperly prepared its bid, and had included extra
+work in the bid items in B.5.2. AR. Ex. 16. She also noted that the written Questions and
+Answers issued after the pre-bid conference set forth the District’s intended method of
+evaluating the prices that were to be set forth on the bid form.
+
+       The Contracting Officer awarded the contract to Orion on October 27, 2010, for a price
+of $869,000. AR Ex. 8. S3 Integration filed this protest on November 12, 2010.
+
+                                          DISCUSSION
+
+       We exercise jurisdiction over the protest pursuant to D.C. Code § 2-309.03 (a)(1).
+                                                 -3-              S3 Integration LLC, CAB No. P-0868
+
+
+         S3 Integration alleged in its protest that the contract specialist at the bid opening
+announced that each bidder had a different interpretation of the bid form requirements of the
+IFB. S3 Integration further alleges that the contract specialist announced that the District would
+request more information from S3 to aid in bid evaluation. S3 alleges that it forwarded
+information to the contract personnel after the bid opening, but did not receive any confirmation
+of receipt of that information from the District. S3 Integration alleges that after S3’s price is
+broken down to one door and one panel, S3 is the lowest bidder. S3 in the protest requests award
+of the IFB, or a re-bidding of the solicitation.
+
+         In response, the District argues that S3 Integration’s bid is not responsive to the IFB. S3
+Integration presented a bid that included, in Section B, a price to convert all remaining doors and
+all remaining panels to the new system. However, the District did not request a price for that
+work. As the District asserts in the agency report, the District may not make an award to S3
+Integration pursuant to a bid that is not responsive to the IFB. In support of its analysis, the
+District presented the declaration of the contract specialist, Ms. Helena Barbour, who provided
+information regarding her statements at the bid opening. (AR Ex. 16). S3 Integration did not
+respond to the District’s agency report.
+
+         The District may not make an award to a bidder that presented a bid that is not
+responsive to the IFB. A responsive bid must present an unequivocal offer to provide the exact
+item set forth in the solicitation. When the District accepts a bid, the offeror is bound to perform
+the contract in accordance with all of the material terms of the solicitation. In Advance Medical
+Systems, Inc., CAB No. P-0202, April 1, 1992, 39 D.C. Reg. 4516, 4518, we quoted the
+following from Trail Equipment Co., B-241004, Feb. 1, 1991, 91-1 CPD ¶ 102: “Responsiveness
+must be determined at the time of bid opening, and, in general, solely from the face of the bid
+and the material submitted with the bid. To allow a bidder to make its nonresponsive bid
+responsive after bid opening is tantamount to allowing the bidder to submit a new bid.” Parsons
+Precision Products, Inc., 92-2 CPD ¶ 431 (“A bid which is nonresponsive on its face may not be
+converted into a responsive bid by post opening bid clarifications or corrections.”).
+
+        The District correctly asserts that it cannot award a contract based on a non responsive
+bid. Therefore, we see no reason to express an opinion regarding whether S3 had presented the
+lowest bid.
+
+                                         CONCLUSION
+
+       For the reasons discussed above, we dismiss S3 Integration’s protest to the award of the
+contract.
+
+       SO ORDERED.
+
+DATED: June 29, 2011                                   /s/ Warren J. Nash
+                                                       WARREN J. NASH
+                                                       Administrative Judge
+                                        -4-   S3 Integration LLC, CAB No. P-0868
+
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.__
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+
+Electronic Service:
+
+Michael Simmons, Vice President
+S3 Integration, LLC
+1550 Caton Center Drive, Suite F
+Baltimore, MD 21229
+
+Jon N. Kulish, Esq.
+Assistant Attorney General
+Office of the Attorney General
+441 4th Street, N.W., 7th Floor South
+Washington, D.C. 20001
+

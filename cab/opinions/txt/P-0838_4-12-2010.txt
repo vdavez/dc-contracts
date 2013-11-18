@@ -1,0 +1,232 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+TWITTY TREE                                  )
+                                             )        CAB No. P-0838
+Solicitation No: DCKA-2009-B-0123            )
+
+       For the Protester, Twitty Tree: Mr. Amos L. Twitty, pro se. For the District of Columbia
+Government: Alton E. Woods, Esq., Assistant Attorney General, Office of the Attorney General.
+For the Intervener, C&D Tree Services, Inc.: Richard L. Moorhouse, Esq., Greenberg Traurig,
+LLP.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 30533645
+
+
+        On January 15, 2010, Twitty Tree protested a contracting officer’s determination that it
+was nonresponsible because its bid was unreasonably low and its prices imbalanced. Twitty
+Tree contends that its pricing was realistic. The contracting officer subsequently rescinded the
+January 4 letter, and stated that as a result of bid reevaluation, Twitty Tree was nonetheless
+determined to be nonresponsible in accordance with 27 DCMR §§ 2200.1-2200.5, based on lack
+of appropriate experience, accounting and operational controls, equipment, and a certified
+arborist. Twitty Tree did not respond to the District’s agency report. As the District rescinded
+its nonresponsibility determination of January 4, 2010, that effectively moots the basis of Twitty
+Tree’s protest. Moreover, Twitty Tree has not responded to the subsequent nonresponsibility
+determination issued by the contracting officer.          Because the latter nonresponsibility
+determination violates neither the law nor the terms of the solicitation on the record before us,
+we sustain the contracting officer’s determination and deny the protest.
+
+                                       BACKGROUND
+
+       On October 6, 2009, the District’s Department of Transportation’s (“DDOT”) Urban
+Forestry Administration advertised IFB No. DCKA-2009-B-0123 (“IFB”) for tree removal
+services in the Washington Times newspaper. The IFB was also posted on the same date on the
+Office of Contracting and Procurement (“OCP”) website. Thirty companies requested and
+received copies of the IFB. The IFB was structured for the District to make awards based on
+four aggregate award groups consisting of two wards each. (Agency Report (“AR”) Ex. 1). The
+aggregate award groups listed in the IFB are as follows:
+
+              Aggregate Award Group 1 – Wards 1 & 2
+              Aggregate Award Group 2 – Wards 3 & 4
+              Aggregate Award Group 3 – Wards 5 & 6
+              Aggregate Award Group 4 – Wards 7 & 8
+                                               -2-                     Twitty Tree, CAB No. P-0838
+
+
+
+
+(AR Ex. 1)
+
+       The IFB specified that each award group would be awarded to the responsible contractor
+with the lowest responsive bid for that particular award group. The IFB could result in multiple
+awards, or one contractor could receive the award for all groups. (AR Exs. 1, 9).
+
+        On November 3, 2009, bids were opened by OCP with nine companies responding to the
+IFB. The companies responding to the IFB were: Twitty Tree, C&D Tree Services, Inc., Motir,
+Excel, Greentree, Community Bridge, Adirondack Tree Experts, Mario Galo, and F.A. Bartlett.
+Twitty Tree submitted a low bid of $1,265,054, and was the apparent low responsive bidder for
+all aggregate award groups. (AR Ex. 9).
+
+         By letter dated November 18, 2009, the contracting officer requested responsibility data
+from Twitty Tree. On November 19, 2009, DDOT conducted a site visit at Twitty Tree’s facility
+in Capitol Heights, Maryland. (AR Ex. 10). The contracting officer’s technical representative,
+John P. Thomas, Associate Director, Urban Forestry Administration, reported on the results of
+the site visit:
+
+               On Thursday, November 19th, 2009, I and four members of my staff made
+       a site visit to Twitty Tree Service. During the visit we found that Twitty did not
+       have enough equipment, staff or property to perform the scope of work of the
+       contract. During the visit we spoke about all the specifics of the contract and the
+       requirements contained within the scope of work. We discussed the liquidated
+       damages, work flow, equipment needs, administrative processes and staffing
+       certifications. During the conversation Twitty Tree Service did not address all of
+       our concerns and appeared to be formulating his plan while we spoke. Twitty was
+       not aware of the level of complexities required in the contract. Twitty had
+       experience in tree removal as it pertained to land clearing for development of
+       residential work. Prior to the visit I went to their web site to review their
+       company. I found reference to “topping” trees as a service which is not an
+       accepted practice with the certifications and best management practices in the tree
+       care industry. The site in which Twitty was located appeared to house other
+       company’s equipment’s. After review of the equipment Twitty did not have all of
+       the required pieces of equipment nor had versions that were to substitute for them.
+       The chip truck had a tarp for a cover and was an open body style not a hard body
+       chip truck and the stump grinder was a SC252 which will take three to four times
+       longer to grind larger stumps [than] bigger stump grinders.
+
+(AR Ex. 10 ¶5). The results of the site visit led the contracting officer to conclude that Twitty
+Tree did not have the equipment, personnel, experience, or resources to perform the contract.
+(AR Ex. 9 ¶5). On November 27, 2009, Twitty Tree provided the requested written
+responsibility data to the contracting officer. (AR Ex. 3). On November 30, 2009, during a
+meeting with the contracting officer, Twitty Tree verified its bid and was informed by the
+contracting officer that it was the apparent low bidder for each of the four aggregate award
+groups. Twitty appeared surprised that it had been determined to be the low bidder for all of the
+groups and indicated that it would not be interested in receiving the award for all of them.
+                                                 -3-                     Twitty Tree, CAB No. P-0838
+
+
+Twitty told the contracting officer that it would like to be considered for only aggregate award
+groups three and four since the wards in each of these groups were close to its place of business.
+(AR at 4; AR Ex. 9). Twitty Tree provided additional information to the contracting officer in
+writing on December 14, 2009. (AR Ex. 9). The contracting officer concluded that based on the
+information provided by Twitty Tree and based on the site visit, Twitty Tree should be
+determined nonresponsible, finding that:
+
+               (a)     Twitty does not possess a satisfactory performance record in
+       accordance with [27 DCMR] Section 2200.4(a). Twitty does not have the
+       requisite experience to perform this contract. Twitty only listed housing
+       developments, homeowner associations, and commercial clients as their current
+       largest clients. They have never performed a contract of comparable size and
+       scope. They list no government agencies and told me during the November 30,
+       2009 meeting that they have never performed a government contact. The
+       subcontractors proposed by Twitty also failed to list any previous experience with
+       government contracts. For this reason, I believe that their bid may be grossly
+       understated and does not include allowances for maintenance of traffic, especially
+       in a congested urban environment like the District of Columbia and;
+
+               (b)     Twitty does not meet the requirements of Section 2200.4(e)
+       because they do not possess the necessary organization experience, accounting
+       and operational controls or the ability to obtain them. Based on the findings of
+       the site visit made of the Twitty facility by the COTR on November 19, 2009,
+       Twitty does not possess adequate equipment to perform the contract.
+       Additionally, Twitty does not have an ISA Certified Arborist, although he
+       indicates that an Arborist from Florida will join him if he is awarded a contract.
+       However, he did not submit a Letter of Commitment confirming an arrangement
+       with the Arborist. None of the proposed subcontractors employs an Arborist as
+       well.
+
+(AR Ex. 9). By letter of January 4, 2010, the contracting officer informed Twitty Tree that it was
+determined to be nonresponsible due to its unbalanced bid pricing and some unreasonably low
+line item prices. (AR Ex. 11). The letter is not based upon a supporting determination and
+findings.
+
+        Twitty Tree filed a protest challenging the contracting officer’s determination, by a letter
+of January 13, 2010, addressed to the contracting officer, which was received by the Board on
+January 14, 2010. In its protest, Twitty Tree verified its unit prices, arguing that the prices
+proposed “were fair and reasonable based on its business and financial status with consideration
+of the market fluctuating up or down.” (AR Ex. 4). Twitty Tree provided additional information
+to the contracting officer by telephone on January 21 and 22, 2010. (AR Ex. 9).
+
+        On January 22, 2010, a determination and findings (“D&F”) was signed by the District’s
+Chief Procurement Officer approving the contract officer’s recommendation to proceed with
+contract performance after receipt of the protest. (AR Ex. 7). This determination for award to
+other than low bidder includes a pricing analysis and concludes that “the bid of Twitty Tree
+should be rejected because it is unreasonably low and poses an unacceptable risk to the District
+                                               -4-                     Twitty Tree, CAB No. P-0838
+
+
+of Columbia Government.” (AR Ex. 5 at 4). The contracting officer’s determination also
+pointed to Twitty Tree’s lack of experience in performing a contract of this size and complexity:
+
+              A review of Twitty’s past performance references indicate that the
+       company has experience performing tree removal for construction companies,
+       commercial entities and homeowner associations ranging from $52,000.00 to
+       $190,000.00 in value. The company has no experience performing tree removal
+       services for municipal, county or state governments where the scope [of] work
+       and reporting requirements are of a higher level and complexity.
+              ....
+
+               On January 22, 2010, [Twitty Tree] stated that their prices were based on
+       their costs with performing previous contracts. It appears from the bidder’s past
+       performance reference that he may not have sufficient data to prepare bid prices
+       that take into consideration all costs.
+
+(AR Ex. 5). On January 28, 2010, the contracting officer sent a letter to Twitty Tree rescinding
+the letter of January 4, 2010, and informing Twitty Tree that it had been found nonresponsible
+pursuant to 27 DCMR §§ 2200.1-2200.5. (AR Ex. 11). The District filed its agency report on
+February 4, 2010. Twitty Tree has not responded to the agency report.
+
+                                        DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03 (a)(1).
+
+       Because the contracting officer rescinded his January 4, 2010 determination that Twitty
+Tree was nonresponsible for an unreasonably low and unbalanced bid, that portion of the protest
+is moot. However, because we read Twitty Tree’s protest as challenging its being determined
+nonresponsible, we must address the contracting officer’s January 28, 2010 determination that
+Twitty Tree was nonresponsible.          In the District’s procurement regulations regarding
+responsibility, 27 DCMR §2200.5 states that “to be found responsible, a prospective contractor
+shall meet all of the following requirements:
+
+       (a) Financial resources adequate to perform the contract, or the ability to obtain
+       them;
+       (b) Ability to comply with the required or proposed delivery or performance
+       schedule, taking into consideration all existing commercial and governmental
+       business commitments;
+       (c) A satisfactory performance record;
+       (d) A satisfactory record of integrity and business ethics;
+       (e) The necessary organization, experience, accounting and operational controls,
+       and
+       technical skills, or the ability to obtain them;
+       (f) Compliance with the applicable District licensing and tax laws and regulations;
+       (g) The necessary production, construction, and technical equipment and facilities
+       or the ability to obtain them; and
+                                                 -5-                     Twitty Tree, CAB No. P-0838
+
+
+       (h) Other qualifications and eligibility criteria necessary to receive the award
+       under applicable laws and regulations.
+
+        The contractor has the burden of establishing its responsibility and “in the absence of
+information clearly indicating that a prospective contractor is responsible, the contracting officer
+shall make a determination of nonresponsibility.” 27 DCMR §2200.3; Goel Services, Inc., CAB
+No. P-0804, Feb. 2, 2010. The contracting officer determined that Twitty Tree did not have
+appropriate experience, accounting and operational controls, equipment, and a certified arborist
+to perform the work. Twitty Tree failed to rebut the findings in the record based on the
+responsibility submissions, and the declarations of the contracting officer and the contracting
+officer’s technical representative. Thus, we see no basis for overturning the contracting officer’s
+determination of nonresponsibility.
+
+                                         CONCLUSION
+
+       Twitty Tree has not rebutted the contracting officer’s bases for determining it to be
+nonresponsible. Accordingly, we deny the protest.
+
+       SO ORDERED.
+
+DATED: April 12, 2010                                  /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

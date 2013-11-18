@@ -1,0 +1,615 @@
+                              DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+World Wide Parking, Inc.                                                    )
+                                                                            )        CAB No. P-0927
+Under Solicitation No. DCKA-2012-R-0018                                     )
+
+
+For the protester: Warner H. Session, Esq., Warren J. Nash, Esq., Session Law Firm. For the
+intervenor: Thomas C. Papson, Esq., Jason A. Carey, Esq., McKenna Long & Aldridge LLP.
+For the District of Columbia Government: Alton E. Woods, Esq., Assistant Attorney General.
+
+Opinion by: Administrative Judge Maxine E. McBean with Chief Administrative Judge Marc D.
+Loud, Sr. concurring.
+
+                                                                  OPINION
+                                                               Filing ID #53066054
+
+        This protest concerns Solicitation No. DCKA-2012-R-0018 (the “Solicitation” or “RFP”)
+which was issued by the District of Columbia Department of Transportation (“DDOT” or
+“District”) for a contractor to provide asset management services for parking meter assets in the
+District. An offeror to the Solicitation, World Wide Parking, Inc. (“WWP” or “protester”) has
+alleged that DDOT (i) conducted an improper debriefing; (ii) issued a flawed Solicitation; (iii)
+did not comply with District law in evaluating WWP’s proposal; and (iv) failed to “act in the
+best interest of the District”1 by entering into negotiations with the highest-ranked offeror.
+
+        The Board rejects protester’s arguments for the following reasons: (i) an inadequate
+debriefing is not, by itself, a valid protest ground; (ii) protester’s allegations concerning
+improprieties in the Solicitation are untimely; (iii) DDOT evaluated the offeror technical
+proposals reasonably, and in accordance with District law; and (iv) pursuant to D.C. Code § 2-
+354.03(h)(1) and (2), a contracting officer may decide to enter into negotiations with the highest-
+ranked offeror and such decision shall not be subject to review by the Board. Finding that the
+District did not violate procurement laws or regulations, we deny the instant protest.
+
+                                                               BACKGROUND
+
+I.            The Solicitation
+
+       On November 21, 2011, the District issued the Solicitation for a “Performance Based
+Asset Management Contract” to manage and operate over 14,000 parking meters2 in the District,
+along with the related systems and assets. (Agency Report (“AR”) 4-5.) The Solicitation
+contemplated the issuance of a five year “performance-based contract with payment based on
+                                                            
+1
+    See generally Protester’s Comments on the AR 2-11.
+2
+    These parking meters collectively manage over 18,000 parking spaces. (AR 5.)
+                                                                              World Wide Parking, Inc.
+                                                                                     CAB No. P-0927
+ 
+firm fixed prices (FFP) and firm fixed unit prices (FFUP).” (AR at Ex. 1, § B.2.) There were
+nine amendments to the RFP between the time when it was originally issued and the deadline for
+receipt of initial proposals on February 13, 2012. (See generally, AR at Ex. 2, § L.12.)
+
+        The RFP required the awardee to undertake responsibility for managing, maintaining, and
+repairing virtually all parking meters in the District — a system which “generates roughly $30M
+[per year] in revenue.” (AR at Ex. 1, § B.) The District expected “to increase the size of the
+system to 20,000 meters as part of the Asset Refresh” and anticipated that the successful
+contractor would “collect coins and process virtual transactions for the parking meters.” (Id.)
+Specifically, the RFP stated that the contractor would be expected to:
+
+                Proactively maintain all parking meter assets
+                Collect all physical payments
+                Process virtual payments
+                Respond to all service requests
+                Manage input into the Parking Meter Management System
+                Interface with the District’s Maintenance Management System
+                Provide near real time data to the District
+               (Id.)
+
+       In addition, the District was “interested in pursuing a replacement of existing mechanical
+meters with newer technology.” (Id.) The District therefore wanted prospective bidders to be
+capable of implementing improvements “such as dynamic pricing.” (Id.) As described in Section
+C.5.2 of the RFP:
+
+               Dynamic pricing is the ability to change the rate for parking based
+               on the level of availability. The fewer spaces available, the higher
+               the rate charged per hour. Dynamic pricing represents a valuable
+               tool in managing parking spaces as a resource and helping to
+               ensure the availability of parking spaces within the District.
+               (AR at Ex. 1, § C.5.2.)
+
+       The Solicitation required offerors to provide the District with two options: (1) an offer
+where existing mechanical meters are replaced with connected meters – the System Refresh; and
+(2) an offer that does not involve upgrading assets at the start of the contract and instead
+upgrades assets in batches – No System Refresh. (AR at Ex. 1, § B.4.)
+
+       With respect to award criteria, the RFP stated, “[t]he contract will be awarded to the
+responsible Offeror whose offer is technically acceptable to [DDOT], and offers the best value to
+the District as determined by the total overall score from the evaluation criteria. . . .” (AR at Ex.
+1, § M.1.) In evaluating the proposals, the following Technical Rating Scale was to be used:
+
+
+
+
+                                                 2 
+                                                                                                   World Wide Parking, Inc.
+                                                                                                          CAB No. P-0927
+ 
+
+
+      Numeric                          Adjective                                    Description
+       Rating
+         1                       Unacceptable                  Fails to meet minimum requirements; major deficiencies
+                                                               which are not correctable.
+              2                  Poor                          Marginally meets minimum requirements; significant
+                                                               deficiencies which may be correctable.
+              3                  Acceptable                    Meets requirements; only minor deficiencies which are
+                                                               correctable.
+              4                  Good                          Meets requirements; no deficiencies.
+              5                  Excellent                     Exceeds most, if not all requirements; no deficiencies.
+
+(AR at Ex. 1, § M.2.)
+
+        The technical evaluation consisted of rating each offeror’s proposal utilizing the
+following     factors:    (1)    Technical     proposal     (40    points     maximum),        (2)
+Staffing/Management/QC/QA/Past Performance/Facilities proposal (30 points maximum), and
+(3) Price proposal (30 points maximum). (AR at Ex.1, § M.3.) However, in order for a proposal
+to be considered technically acceptable, the Technical proposal needed to receive at least 60% of
+the available 40 points, and the Staffing/Management/QC/QA/Past Performance/Facilities
+proposal needed to receive at least 60% of the available 30 points. (Id.) Significant to Past
+Performance was “[t]he extent to which the Prime Contractor’s and subcontractor’s experience
+and past performance on asset preservation, maintenance, and management [of] contracts of
+comparable size demonstrates a likelihood of successfully performing all of the tasks set forth in
+[the] RFP.” (AR at Ex. 1, § M.4.2.A.1.)
+
+        Section M.4.3 of the Solicitation required an objective evaluation of the price proposal.
+The offeror with the lowest cost/price would receive the maximum price points. All other
+proposals would receive a proportionately lower total price score. (AR at Ex. 1, § M.4.3.) The
+RFP also stated that the Technical Evaluation Panel (“TEP”) would check price proposals to
+evaluate price reasonableness. (AR at Ex. 1, § M.3.)
+
+        Lastly, up to 12 preference points could be awarded to businesses certified pursuant to
+the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of
+2005.3 (AR at Ex.1, §§ M.4.5, M.5.) In all, an offeror could receive a cumulative total of 112
+points. (AR at Ex.1, § M.4.6.)
+
+II.           The Evaluation Process
+
+     Two responsive bidders submitted proposals by the RFP’s due date of February 13,
+2012—WWP and the incumbent asset manager, ACS State & Local Solutions, Inc., a Xerox
+
+                                                            
+3
+    See D.C. Code §§ 2-218.01-.82 (2010).
+
+
+                                                                          3 
+                                                                                       World Wide Parking, Inc.
+                                                                                              CAB No. P-0927
+ 
+Company (“Xerox”).4 (AR at Exs. 2, 3.) Pursuant to Section M.3 of the Solicitation, the District
+used the TEP to conduct the initial evaluation of proposals which took place on March 1-2, 2012.
+(AR 5, ¶ 4.) The initial evaluations were followed by the offerors’ oral presentations on March
+9, 2012. (AR 6, ¶ 5.)
+
+     A. Deficiency Letters
+
+        On March 15, 2012, Mr. Jerry M. Carter, the Contracting Officer (“CO”), issued
+Requests for Clarification to WWP and Xerox. (AR at Exs. 6(a), 6(b).)5 Each offeror was
+instructed to provide a “Performance Plan” describing how they would “monitor the parking
+meter system to ensure that the Performance Measures are met.” (Id.)
+
+        In his letter to WWP, the CO expressed concern that WWP’s proposed Parking Meter
+Management System (“PMMS”) did not currently exist6 and that that created “a risk to success
+in the District’s evaluation.” (AR at Ex. 6(a), at 2.) The CO’s letter included a request that
+WWP “[d]escribe in detail the functionality of the Dynamic Pricing system” being offered. (AR
+at Ex. 6(a), at 3.) Therefore, WWP needed to provide details about its past experience with asset
+management systems, including how the PMMS would be started, whether WWP had a
+contingency plan in the event that the PMMS was not completed on time, and how WWP would
+otherwise mitigate the risks identified by the CO. (AR at Ex. 6(a), at 2.)
+
+        In its 35-page response to the deficiency letter, on March 23, 2012, WWP provided
+DDOT with additional details on its proposed PMMS. However, WWP’s response did not
+appear to dispute that a full version of its proposed PMMS was not yet in existence. WWP
+stated that “[t]he central components of the PMMS do exist today [sic] are being used by many
+of [subcontractor] CYIOS clients.” (AR at Ex. 7(a), at 10.) Notably, although WWP’s response
+described CYIOS Corporation’s (“CYIOS”) successful past performance, WWP did not directly
+address whether it had a contingency plan – notwithstanding the CO’s request for the
+information – in the event that its PMMS was not timely completed. (Id.)
+
+     B. RFP Amendments and 1st BAFOs
+
+         On May 3, 2012, the CO sent letters to both offerors requesting that each submit revised
+proposals (“1st BAFOs”) to the District on or before May 11, 2012. (AR at Exs. 8(a), 8(b).) Each
+letter included a list of deficiencies still present in the recipient’s proposal. (Id.) In the letter to
+WWP, the CO noted that although WWP had provided extensive information about the past
+performance and capabilities of subcontractor CYIOS, its previous response “did not sufficiently
+convey the Worldwide Team’s ability to develop a [PMMS] and have it in place within the 90
+days allowed under the contract.” (AR at Ex. 8(a), ¶ 2.) Specifically, the CO expressed concern
+that none of the subcontractors had experience related to parking meter assets and, further, that
+
+                                                            
+4
+  On October 15, 2012, Xerox moved to intervene in the instant protest pursuant to Board Rules 100.2(k) and (l).
+(See Mot. for Leave to Intervene.) The Board granted Xerox’s motion on October 19, 2012. (Order Granting Mot. to
+Intervene.)
+5
+  In the AR, these documents are described as “deficiency letters.” (AR 6, ¶ 6-7.)
+6
+  This finding is seemingly consistent with WWP’s initial proposal which stated that WWP “in conjunction with
+CYIOS Corporation . . . will develop a Parking Meter Management System (PMMS).” (AR at Ex. 2, § 1.1.)
+
+
+                                                               4 
+                                                                                          World Wide Parking, Inc.
+                                                                                                 CAB No. P-0927
+ 
+WWP’s proposal had also failed to establish that WWP itself had experience with the use of a
+PMMS. (Id.) The CO requested that WWP provide specific details by addressing a list of
+deficiencies including items related to performance, resources, and design. (Id.)
+
+       Concurrent with the May 3, 2012, request for 1st BAFOs, the CO issued Amendment 10
+to the RFP. (AR at Ex. 8(e).) Amendment 10 replaced the previous pricing workbooks in the
+RFP, updated the parking meter financial data, and eliminated the requirement that proposals
+meet certain minimum levels of technical acceptability. (Id.) It also moved the Contract Line
+Item Numbers (“CLINs”) for parking space sensors from System Asset Refresh to Dynamic
+Pricing with a capability of adjusting the meter pricing in 15 minute increments. (Id.)
+
+        On May 9, 2012, the CO issued Amendment 11 to the RFP. (AR at Ex. 9.) Amendment
+11 extended the deadline to submit 1st BAFOs to May 16, 2012, and responded to additional
+questions from the offerors concerning the dynamic pricing program.7 (Id.) The CO explained
+that the “solicitation requires offerors to determine the appropriate number of sensors for the
+installation to enable dynamic pricing.” (Id.) However, “sensors are not the only means of
+gathering data for dynamic pricing, but rather one element in the solution.” (Id.)
+
+       On May 11, 2012, the CO issued Amendment 12 to the RFP. (AR at Ex. 10.)8
+Amendment 12 clarified that the Solicitation did not call for 100% sensor coverage; however,
+even though “existing assets were not required to be retrofitted with sensors,” an offeror could
+choose to do so. (Id.) Therefore, offerors were “expected to propose a dynamic pricing solution
+that met the District’s requirements and best met their capabilities and proposed technology.”
+(Id.)
+
+       WWP and Xerox each submitted timely 1st BAFO responses. (AR at Exs. 11(a), 11(b).)
+The TEP then evaluated the offerors’ 1st BAFOs on or about May 25, 2012. (AR 7, ¶ 13; AR at
+Ex. 12.)
+
+     C. 2nd BAFOs
+
+         On June 7, 2012, the CO sent letters to the offerors requesting that they submit another
+Best and Final Offer (“2nd BAFO”), taking into account RFP Amendments 10-12. (AR at Exs.
+13(a), 13(b).) As before, the CO’s letters included a list of deficiencies that had been identified
+in the recipient’s 1st BAFO. (Id.) In the case of WWP, in order to correct the noted deficiencies,
+the CO required WWP to submit: (1) detailed resumes and letters of commitment for WWP’s
+subject matter experts; (2) a plan to implement all elements of dynamic pricing pursuant to the
+RFP’s requirements; (3) letters of commitment from proposed vendors; (4) a contingent lease
+letter from the proposed facility; and (5) all “Asset Breakdown Sheet” items. (AR at Ex. 13(a).)
+
+       By contrast, the CO’s letter to Xerox identified fewer deficiencies. It required Xerox to
+provide additional information such as: (1) an analysis on the purchase of any extended
+                                                            
+7
+  The CO indicated that traffic disincentive and increasing parking turnover were among the stated goals of the
+dynamic pricing program. (AR at Ex. 9.)
+8
+  The Board notes that in the electronic filing index, AR at Ex. 10 is erroneously labeled as “Amendment 11” instead
+of “Amendment 12.”
+
+
+                                                               5 
+                                                                               World Wide Parking, Inc.
+                                                                                      CAB No. P-0927
+ 
+warranties; (2) letters of commitment from proposed vendors; and (3) a contingent lease letter
+from the proposed facility. (AR at Ex. 13(b).)
+
+       On June 11, 2012, the CO issued Amendment 13 to the RFP. (AR at Ex. 14.) This
+amendment provided clarification concerning the data entry for the pricing workbooks, and for
+the CLINs for electronic locks. (Id.) It did not however, extend the deadline for receipt of the
+2nd BAFOs. (Id.) Accordingly, both offerors submitted their 2nd BAFOs by the due date of June
+14, 2012. (AR at Exs. 15(a), 15(b).)
+
+         The TEP evaluated the 2nd BAFOs on or about June 19, 2012. (AR 7 ¶ 17; AR at Ex. 16.)
+Although following its initial evaluation of WWP’s proposal, the TEP had concluded that WWP
+“had extensive on-street expertise,” the TEP found that WWP’s 1st BAFO and 2nd BAFO failed
+to mitigate the risks identified by the CO in the WWP deficiency letters. (AR at Ex. 17, at 2.) In
+addition, the TEP was not persuaded that WWP “understood the work effort related to either the
+parking meter management system (PMMS) or Dynamic Pricing.” (Id.) The TEP further noted
+that, in its 2nd BAFO, WWP failed to price any parking sensors as required by the RFP and that
+such omission rendered WWP’s pricing proposal “non-compliant” and therefore, in effect, “the
+actual price to the District would be higher.” (Id.)
+
+       On June 20, 2012, the TEP chair conveyed via memorandum to the CO, the TEP’s
+recommendation that Xerox was the highest-ranked offeror. (AR at Ex. 17.) The final technical
+and price score calculations are as follows:
+
+                       Evaluated Price          Price Score         Technical         Total Score
+                                                                      Score
+    WWP Option 1      $131,431,160.60              30.00              36.50              66.50
+    Xerox Option 1    $182,672,400.15              18.30              50.50              68.80
+                       Evaluated Price          Price Score         Technical         Total Score
+                                                                      Score
+ WWP Option 2         $105,325,976.67             30.00               36.50               66.50
+ Xerox Option 2       $151,315,499.16             16.90               50.50               67.40
+(AR 7.)
+
+The final technical scores and resulting ranks are as follows:
+
+      Option          Offeror       Averaged        Pricing Score       Total              Rank
+                                      Total
+                                    Technical
+                                      Score
+         1             Xerox           50.5               18.3          68.8                 1
+         1           Worldwide         36.5               30*           66.5                 2
+                      Parking
+         2             Xerox             50.5             16.9          67.4                 1
+         2           Worldwide           36.3             30*           66.5                 2
+                      Parking
+
+
+                                                  6 
+                                                                                               World Wide Parking, Inc.
+                                                                                                      CAB No. P-0927
+ 
+*Worldwide Parking did not price any sensors in its 2nd BAFO.
+(AR at Ex. 17, at 2.)
+
+        The CO signed his acknowledgement of the TEP’s recommendation on June 28, 2012.
+(AR at Ex. 17, at 4.) He also sent letters to WWP and Xerox notifying them of their ratings. (AR
+at Exs. 18, 19.) The CO then began negotiations with Xerox, the highest-rated offeror, pursuant
+to D.C. Code § 2-354.03(h).9 (AR at Ex. 25.) The District has not made a contract award under
+the Solicitation. (AR 11.)
+
+III.          Debriefing and Protest
+
+        On August 3 and August 31, 2012, WWP requested a debriefing. (AR at Ex. 20.) The
+debriefing was held on September 13, 2012. (AR at Ex. 22.) On September 24, 2012, WWP
+timely filed the instant protest with the Board.10 (Protest.) WWP’s initial protest grounds are as
+follows:
+
+                             (1) WWP conformed to the essential requirements of the RFP.
+                             (2) The District did not fairly evaluate WWP’s past performance
+                             and technical capability given its experience with the existing
+                             contract as a subcontractor.11
+                             (3) WWP offered a substantially lower price—approximately $50
+                             million—than Xerox, yet the Contracting Officer did articulate
+                             [sic] in the debriefing how Xerox was technically superior to
+                             justify making the award to Xerox.
+                             (4) The Dynamic Pricing issue was constantly changing throughout
+                             the procurement process and, therefore, should not have been a
+                             basis for evaluation.
+                             (5) WWP demonstrated in its proposal superior management
+                             capability.
+                             Taken together, the DDOT Contracting Officer’s decision was in
+                             error, arbitrary and contrary to the facts and law, and not in the
+                             best interest of the District.
+                             (Protest 5.)
+
+
+                                                            
+9
+   D.C. Code §2-354.03(h) states, in relevant part, “(1) After ranking the prospective contractors, the contracting
+officer may elect to proceed with negotiations in accordance with paragraph (2) of this subsection. The contracting
+officer's decision shall not be subject to review. (2) If the contracting officer elects to proceed with negotiations, the
+contracting officer shall negotiate with the highest-ranked prospective contractor on price or matters affecting the
+scope of the contract, so long as the terms of the final contract are within the scope of the request for proposals.”
+10
+   On February 8, 2013, the protester requested that the Board permit it to engage in discovery. During a telephone
+status conference with the parties on March 7, 2013, we held that WWP had failed to show that discovery was
+necessary to aid the Board in a just resolution of the protest. See Carter Fuel Oil Co., CAB No. P-0208, 39 D.C.
+Reg. 4263, 4267 (July 12, 1991) (“[t]he purpose of discovery is to aid the Board in a just resolution of the protest,
+not to enable a protestor to conduct a fishing expedition so as to develop the grounds of its protest”). Accordingly,
+the Board denied protester’s discovery request.
+11
+    During its performance as the incumbent asset manager to the District, Xerox has retained WWP as its
+subcontractor. (WWP’s Comments 5.)
+
+
+                                                               7 
+                                                                                            World Wide Parking, Inc.
+                                                                                                   CAB No. P-0927
+ 
+Following its review of the AR, WWP synthesized its allegations into three main protest
+grounds: (1) the agency debriefing was inadequate; (2) the evaluation of protester’s proposal was
+not fair and reasonable and did not comply with District law; and (3) DDOT did not act in the
+best interest of the District. (Protester’s Comments on the AR (hereinafter “WWP’s
+Comments”) 1-2.)
+
+                                                               DISCUSSION
+
+Board Jurisdiction
+
+       We exercise jurisdiction over this protest and its underlying allegations pursuant to D.C.
+Code § 2-360.03(a)(1) (2011).
+
+I.            An Inadequate Debriefing is Not a Valid Protest Ground
+
+        WWP argues that DDOT delivered an inadequate debriefing which therefore “raises
+questions of the fairness and equitable treatment of WWP during the evaluation process.”
+(WWP’s Comments 2.) However, an inadequate debriefing does not, by itself, constitute a valid
+protest ground since a debriefing has no bearing on the District’s source selection activity.
+Rather, a debriefing is, by definition, a post-source selection activity. The Government
+Accountability Office (“GAO”) (which the Board finds to be persuasive authority)12 has
+similarly held that, “the adequacy and conduct of a debriefing is a procedural matter that does
+not involve the validity of” a contract award. Eggs and Bacon, Inc., B-310066, 2007 CPD ¶ 209,
+n.4 (Comp. Gen. Nov. 20, 2007) (citing Healthcare Tech. Solutions Int’l, B-299781, 2007 CPD ¶
+132 at 5 (Comp. Gen. July 19, 2007); see also Thermolten Tech, Inc., B-278408, 98-1 CPD ¶ 35
+at *4 (Comp. Gen. Jan. 26, 1998) (holding, in part, that “the purpose of a debriefing is not to give
+offerors the opportunity to cure deficiencies for the instant procurement, but to furnish the basis
+for the selection decision and contract award”). Accordingly, the Board denies WWP’s protest
+ground concerning the alleged inadequacy of its debriefing.
+
+II.           WWP’s Protest Ground Concerning the Solicitation Is Untimely
+
+        WWP further contends that the Solicitation contained multiple flaws. These alleged flaws
+include improper and/or confusingly-formatted pricing workbook templates, and an inconsistent
+and poorly-defined approach to dynamic pricing. (See generally, WWP’s Comments 3-10.)
+Specifically, the protester states that “the District did not clearly set forth in Amendment 10 what
+elements of the two option workbooks would be combined to produce the final price in each
+workbook.” (WWP’s Comments 3.) As such, “WWP asserts that the calculated results in the
+workbooks are not trustworthy [in] that they cause confusion.” (Id.) In considering these
+allegations, the Board notes that these purported improprieties would have been apparent to
+protester as soon as it reviewed the RFP.
+
+                                                            
+12
+  See Potomac Techs., Inc., 36 D.C. Reg. 4045 at 4052, 1989 WL 508650 (DC CAB Feb. 13, 1989) (“[w]hile the
+Board is not bound by the decisions of the Comptroller General, this large body of federal government contracting
+law is frequently helpful and persuasive when we are confronted with similar factual situations”). In addition, “[t]he
+protest authority and procedures of this Board were patterned on those of the GAO.” In re Prison Health Servs.,
+Inc., CAB No. P-0610, 48 D.C. Reg. 1503, 1507 (Mar. 16, 2000).
+
+
+                                                                   8 
+                                                                                        World Wide Parking, Inc.
+                                                                                               CAB No. P-0927
+ 
+
+        However, the Solicitation expressly states that, “[a] protest based on alleged
+improprieties in a solicitation which are apparent prior to proposal opening or the time set for
+receipt of initial proposals shall be filed with the Board prior to proposal opening or the time set
+for receipt of initial proposals.”13 (AR at Ex. 1, § L.7.) Therefore, protest grounds concerning
+any alleged improprieties in the RFP needed to be asserted prior to February 13, 2012, the
+deadline for receipt of initial proposals. This requirement applies equally to any amendments to
+the Solicitation whereby protest grounds concerning improprieties in an amendment need to be
+filed prior to the time set for receipt of the corresponding proposals or BAFOs. In Capitol Entm’t
+Servs., Inc., CAB No. P-0932, 2013 WL 2453772 (May 22, 2013), we held that two protest
+grounds were untimely because they were based on Amendment 2 to the Solicitation yet the
+protest was filed more than a month after BAFOs were due. See also, West Group, CAB No. P-
+0612, 48 D.C. Reg. 1550 (June 8, 2000) (holding that where a solicitation with a submission
+deadline of June 22, 1999, had been cancelled then reissued with a revised deadline of January 7,
+2000, the deadline for filing a protest based on an alleged solicitation impropriety was January 7,
+2000, the date for submission of revised proposals). The Board finds that WWP’s protest ground
+pertaining to the terms of the Solicitation, and any amendments thereto, is untimely.
+
+III.          The District Fairly and Reasonably Evaluated Protester’s Proposal
+
+       WWP alleges that the “evaluation of WWP’s proposal was not fair and reasonable and
+did not comply with District law.” (WWP’s Comments 3.) Specifically, WWP argues that the
+CO and the TEP erred in their analysis of WWP’s proposed PMMS and that “[i]n proposing to
+use CYIOS, WWP offered the District an exceptionally qualified firm that was [experienced in]
+implementing complex computer database services. . . .” (Id. at 6.)
+
+       However, as the Board explained in Health Right, Inc., “[i]n determining the propriety of
+an evaluation decision, we examine the record to determine whether the judgment was
+reasonable and in accord with the evaluation criteria listed in the solicitation and whether there
+were any violations of procurement laws or regulations. Health Right, Inc., D.C. Health Coop.,
+Inc., & The George Washington Univ., CAB Nos. P-0507, P-0510, P-0511, 45 D.C. Reg. 8612,
+8636 (Oct. 15, 1997) (citing Halter Marine, Inc., B-255429, 94-1 CPD ¶ 161 (Mar. 1, 1994); Sw
+Marine, Inc., B-265865, 96-1 CPD ¶ 56 (Jan. 23, 1996); Biochemical Genetics, CAB No. P-
+0470, 44 D.C. Reg. 6795 (Feb. 25, 1997)).
+
+       Upon reviewing the record in the instant case, the Board finds that there has been a valid
+exercise of judgment by the CO14 and, therefore, we will not “substitute our judgment for that of
+the [CO].” See Health Right, CAB Nos. P-0507, P-0510, P-0511, 45 D.C. Reg. at 8637.
+Although the protester alleges that the CO merely “adopted the evaluation results of the TEP”
+without conducting an independent evaluation of the proposals, the record indicates otherwise.
+The CO indicated his own review of the offeror proposals in the March 15, 2012, deficiency
+
+
+                                                            
+13
+  See D.C. Code § 2-360.08(b)(1); CAB Rule 302.2(a).
+14
+  The TEP presented its finding to the CO who acknowledged its receipt for his further review and final selection.
+(AR at Ex. 17, at 4.)
+
+
+                                                               9 
+                                                                                            World Wide Parking, Inc.
+                                                                                                   CAB No. P-0927
+ 
+letters to the offerors.15 (See AR at Exs. 6(a), 6(b).) Furthermore, the offerors had substantial
+discussions with the District over the course of many months—including oral presentations—in
+addition to extensive correspondence between the CO and the offerors concerning the contents
+and deficiencies of the offerors’ proposals. The CO also regularly amended the Solicitation to
+address questions and feedback that he received from WWP and Xerox.
+
+        The Board acknowledges that although the CO signed the TEP’s evaluation, there is no
+contemporaneous documentation of the CO’s decision to adopt the TEP’s recommendation.16
+However, a substantial body of contemporaneous evidence reveals a CO who was engaged
+throughout the conduct of this procurement with both the offerors and the TEP. Accordingly, the
+facts of the instant protest are readily distinguished from those in Health Right where we found
+that the contracting officer merely “adopted” the (poorly-documented) evaluation of a technical
+evaluation board (“TEB”).17 Health Right, Inc., CAB Nos. P-0507, P-0510, P-0511, 45 D.C.
+Reg. at 8637. In that case, the record did not show any discussion between the District and the
+offerors, any discussion between the contracting officer and the TEB, and there was no final
+evaluation/selection report by the TEB. (Id.) Therefore, contrary to our findings in the present
+case, in Health Right we held that the CO could not have made a valid exercise of judgment
+when she “adopted” the evaluation results of the TEB. (Id.)
+
+        Lastly, the CO informed the protester of a number of deficiencies in its proposal. (AR at
+Exs. 6(a), 13(a).) Indeed, the CO stated that protester’s PMMS created “a risk to success in the
+District’s evaluation.” (AR at Ex. 6(a), at 2.) Yet, WWP failed to correct the identified
+deficiencies and failed to comply with the CO’s request to provide a contingency plan in the
+event that its proposed PMMS was not timely developed. In its 2nd BAFO, the protester even
+failed to list pricing for the sensor installation,18 an item which was central to the District’s
+interest in dynamic pricing. Together, these concerns reasonably formed the basis for WWP’s
+lower ranking. Finding no evidence that any procurement laws or regulations have been violated
+during the evaluation of the offeror proposals, the Board denies this protest ground of WWP.
+
+IV.           A Contracting Officer’s Decision to Begin Negotiations with the Highest-Ranked
+              Offeror is Not, by Itself, Reviewable by the Board
+
+       The protester alleges that the CO did not act in the best interest of the District when he
+began negotiations with Xerox, the highest-ranked offeror, particularly since WWP’s proposed
+price was $50 million lower than Xerox’s. However, the Solicitation makes clear that price
+alone would not serve as the basis for contract award. Indeed, the Solicitation indicated that an
+
+                                                            
+15
+   The CO’s letters state, “[i]n review of your submission for the Asset Management Services . . .” (AR at Exs. 6(a),
+6(b).)
+16
+   In his declaration, the CO simply states that he “took the recommendation of the TEP.” (AR at Ex. 25, ¶ 26.)
+17
+    The facts of the instant protest serve to distinguish it from other protests sustained by the Board due to a
+contracting officer’s abdication of its responsibilities in clear violation of procurement law. See, RideCharge, Inc.,
+CAB No. P-0921, 2012 WL8021681 (Nov. 9, 2012) (holding that the single document produced by the contracting
+officer during the evaluation process was insufficient to substantiate his decision to exclude all but one offeror from
+the competitive range); Citelum DC, LLC, CAB No. P-0922, 2013 WL1952320 (Mar. 1, 2013) (sustaining the
+protest because, in part, the District failed to even identify the contracting officer responsible for conducting the
+procurement).
+18
+   See AR at Ex. 15(a)(1), at 7.
+
+
+                                                               10 
+                                                                                            World Wide Parking, Inc.
+                                                                                                   CAB No. P-0927
+ 
+offeror’s technical proposal was the most important factor in DDOT’s best value analysis by
+allocating a total of 70 points (~63%) for technical capability and 30 points (~27%) for pricing.
+Furthermore, WWP did not include pricing for sensors in its 2nd BAFO; therefore, the actual
+price to the District would have been higher. (AR at Ex. 17, at 2.)
+
+       Besides, the CO’s decision to enter into negotiations with Xerox is not reviewable by the
+Board, pursuant to D.C. Code § 2-354.03(h). In relevant part, § 2-354.03(h)(1) states that a
+contracting officer’s decision to enter into negotiations with the highest-ranked offeror on
+matters concerning price and the scope of the contract “shall not be subject to review.” The
+Board also notes that WWP remains eligible for award should the CO’s negotiations with Xerox
+conclude unsatisfactorily.19 Therefore, the Board denies WWP’s protest ground regarding
+DDOT’s contract negotiations with Xerox.
+
+                                                               CONCLUSION
+
+        For the reasons set forth herein, we hold that (i) protester’s allegations concerning the
+inadequacy of its debriefing do not constitute a valid basis for protest; (ii) protester’s arguments
+concerning the terms of the Solicitation are untimely; (iii) the District’s evaluation of protester’s
+proposal was fair, reasonable, and in accordance with District law; and (iv) the CO’s decision to
+enter into negotiations with the highest-ranked offeror is not reviewable by the Board pursuant to
+D.C. Code §2-354.03(h). Accordingly, the present protest is denied.
+
+SO ORDERED.
+
+DATED: June 28, 2013                                                     /s/ Maxine E. McBean
+                                                                         MAXINE E. MCBEAN
+                                                                         Administrative Judge
+
+CONCURRING:
+
+/s/ Marc D. Loud, Sr.
+MARC D. LOUD, SR.
+Chief Administrative Judge
+
+
+ELECTRONIC SERVICE TO:
+
+Warner H. Session, Esq.
+Warren J. Nash, Esq.
+Session Law Firm
+1150 Connecticut Avenue, NW, Suite 900
+Washington, DC 20036
+                                                            
+19
+   Under D.C. Code § 2-354.03(h)(2), if a satisfactory contract cannot be negotiated with the highest-ranked
+prospective contractor, the contracting officer may negotiate the terms of the contract with the 2nd most qualified
+prospective contractor or lower-ranked prospective contractor in order of ranking until a satisfactory contract can be
+awarded.
+
+
+                                                                   11 
+                                       World Wide Parking, Inc.
+                                              CAB No. P-0927
+ 
+
+Thomas C. Papson, Esq.
+Jason A. Carey, Esq.
+McKenna Long & Aldridge, LLP
+1900 K Street, NW
+Washington, DC 20006
+
+Alton E. Woods
+Assistant Attorney General
+Office of the Attorney General
+55 M Street, S.E., 7th Floor
+Washington, D.C. 20003
+
+
+
+
+                                 12 
+

@@ -1,0 +1,122 @@
+                    GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                          CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+SYSTEMS ASSESSMENT & RESEARCH, INC.                           )
+                                                              )      CAB No. P-0738
+Under Solicitation No. GAGA-2006-R-0176                       )
+
+
+       For the Protester: Julian H. Spirer, Esq., and Brian M. Lowinger, Esq., Spirer & Goldberg, P.C.
+For the District of Columbia Public Schools: Erika L. Pierson, Esq., Deputy General Counsel, and
+Aaron E. Price, Sr., Esq., Attorney-Advisor.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                             OPINION
+                                     LexisNexis Filing ID 12431107
+
+        Systems Assessment & Research, Inc. (“SAR”), protests the award of a contract to Columbus
+Educational Services, LLC, as a special education services provider who would provide a variety of
+special education personnel to assist the District of Columbia Public Schools (“DCPS”) in the
+implementation of a consent decree entered in the federal class action lawsuit Blackman v. District of
+Columbia, et al., 97-CV-1629 (D.D.C.) (“Blackman consent decree”). Columbus had the highest
+evaluated proposal, and SAR was scored a distant second. Although the evaluation record is poorly
+documented before us, perhaps because SAR did not frame its pro se protest particularly well, we
+conclude that the protest should be dismissed because the federal court in Blackman exempted the
+District of Columbia from the Procurement Practices Act for procurements implementing the Blackman
+consent decree, and the procurement at issue clearly is meant to implement the consent decree.
+Accordingly, we dismiss the protest.
+
+                                         BACKGROUND
+
+         On April 13, 2006, DCPS’s Office of Contracts and Acquisitions (“OCA”) issued Solicitation
+No. GAGA-2006-R-0176 for the procurement of special education instructional and related services to
+assist in the implementation of the Blackman consent decree. (Agency Report (“AR”) Exs. 1, 10). The
+special education personnel to be provided included physical therapists, occupational therapists,
+psychologists, speech language pathologists, master social workers, special education teachers, a
+project coordinator, and a project director.
+
+        On April 14, 2006, the Blackman court entered an order providing in pertinent part: “Ordered
+that pending final approval of the Consent Decree, in order to implement the preliminary approved
+Consent Decree, the [District of Columbia Government is] not bound by the D.C. Procurement
+Practices Act or any other District or federal law relating to procurement, or any regulations
+thereunder.” (AR Ex. 9).
+                                             -2-                                SAR, Inc., CAB No. P-0738
+
+
+
+
+         The closing date for proposals was April 21, 2006. Five proposals were timely received. OCA
+conducted an initial screening of the proposals, determining that only three offers were within the
+competitive range: (1) Tai Pedro & Associates, (2) SAR, and (3) Columbus. On May 12, 2006, OCA
+began negotiations with these offerors. After negotiations had concluded, OCA requested best and final
+offers (“BAFOs”). The BAFOs were evaluated by a panel of agency personnel knowledgeable about
+special education, special education related services, and special education services providers. The
+panel ultimately selected Columbus for the award. The record, however, does not contain any
+evaluation score sheets, consensus reports of the technical evaluation team, or the independent
+evaluation and selection reports of the contracting officer. All the record contains are summary sheets
+of the initial technical evaluations and BAFO evaluations, listing simply the total technical evaluation
+scores of the evaluators which presumably were adopted by the contracting officer. (AR Exs. 6, 7).
+The Agency Report states that the “[evaluation] panel ultimately selected Columbus for the award.”
+(AR at 2).
+
+        In its efforts to begin immediate implementation of the consent decree’s terms, OCA issued a
+letter contract to Columbus on June 1, 2006, with instructions to begin performance. (AR at 2).
+Subsequently, OCA conducted a debriefing with SAR to review its proposal and evaluation. During the
+course of this debriefing, SAR was informed of the shortcomings in its proposal. On June 26, 2006, in
+the midst of the awardee’s performance under the letter contract, SAR, pro se, filed the instant protest.
+SAR asserts that DCPS: (1) eliminated the requirement for a resume and position description for the
+project director position; (2) discounted the protester’s proposal for lack of a subcontracting plan; (3)
+misread the SAR’s staffing ability; (4) unjustifiably credited Columbus with past performance
+experience; and (5) failed to include in the solicitation a local business participation requirement.
+
+        On June 30, 2006, the final consent decree was entered in the Blackman case, which provides in
+part: “Under this Consent Decree, the [District of Columbia Government is] not bound by the D.C.
+Procurement Practices Act, D.C. Code Section 2-301.01 et seq., any other District or federal law
+relating to procurement, and any regulation thereunder.” (AR Ex. 10).
+
+        DCPS filed its Agency Report on July 20, 2006, addressing each of the grounds raised by the
+protest. On July 27, SAR, represented by counsel, filed its comments on the Agency Report. In its
+comments, SAR dropped all of the initial protest challenges except for the ones relating to the
+evaluation based on the project director resume and the timing of staffing availability. SAR’s
+comments raised, for the first time, the failure of the contracting officer and the technical evaluation
+team to consider the evaluation factors, as reflected in the absence of records documenting how the
+evaluators arrived at the summary scores presented in the protest record. DCPS did not respond to
+SAR’s comments.
+
+                                            DISCUSSION
+
+       In its Agency Report, DCPS contends that it has fully complied with the District’s procurement
+laws. Before reaching the merits, however, we must decide whether we properly exercise jurisdiction
+pursuant to D.C. Code § 2-309.03(a)(1). DCPS states in the final sentence of its Agency Report, that
+“the United States District Court in [Blackman] waived the procurement laws of the District of
+Columbia as they apply to implementation of the [Blackman] Consent Decree.” SAR did not address
+                                            -3-                                SAR, Inc., CAB No. P-0738
+
+
+the consent decree exemption in its comments on the Agency Report.
+
+        We have carefully reviewed the language of the April 14, 2006 court order and the final consent
+decree of June 30, 2006, along with DCPS’s record of the special education services procurement at
+issue. We conclude that the federal court order and consent decree in Blackman clearly exempt the
+protested procurement from the Procurement Practices Act. Accordingly, we dismiss the protest for
+lack of jurisdiction.
+
+       SO ORDERED.
+
+DATED: September 21, 2006                            /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

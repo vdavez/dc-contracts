@@ -1,0 +1,209 @@
+             DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTEST OF:
+
+HORTON & BARBER CONSTRUCTION SERVICES, INC.                        )
+                                                                   )      CAB No. P-0792
+Under Solicitation No. DCKA-2008-B-0097                            )
+
+       For the Protester Horton & Barber Construction Services, Inc.: Will Purcell, Esq. For
+the District of Columbia Government: Alton Woods, Esq., Assistant Attorney General, D.C.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+
+                                         OPINION
+                                       Filing ID 24511793
+
+
+        In a protest filed with the Board on November 9, 2008, protester Horton & Barber
+Construction Services, Inc., challenges the nonresponsibility determination made by the
+contracting officer on October 24, 2008. Horton further alleges that the contracting officer
+failed to respond to Horton’s request for informal discussions in accordance with 27 DCMR §
+3801.1. The District in its agency report responds that Horton’s bid contained an inadequate
+bid guaranty, thereby rendering the bid nonresponsive, and that Horton’s bid was
+unreasonably below the government estimate, rendering the bidder nonresponsible. We agree
+with the District that Horton’s bid was nonresponsive. Further, we agree that Horton has not
+demonstrated with adequate evidence that the contracting officer erred in finding Horton
+nonresponsible based on an unreasonably low price. Accordingly, we deny the protest.
+
+                                     BACKGROUND
+
+        The District’s Office of Contracting and Procurement, on behalf of the Department of
+Transportation, issued Solicitation No. DCKA-2008-B-0097 in May 2008, for the demolition
+and removal of the existing ramp bridges for Ramps SE and ES at the interchange of 11th
+Street and the Southeast Freeway. (Agency Report (“AR”) at 2). The ramps provide access
+to the Robert F. Kennedy Memorial Stadium from the freeway. Eight bids were submitted on
+July 24, 2008. Horton was the apparent low bidder with a price of $504,619.50. The next
+low bid was Milani Construction, LLC, with a price of $1,871,180. The remaining bids
+ranged from $2,599,199 to $4,957,263.50. (AR Ex. 5). The District’s initial estimate for the
+job was $5,764,730 but that estimate was later revised to $1,904,990 when the statement of
+work was amended to remove the requirement that certain materials removed from the bridges
+under the contract be salvaged and delivered to the District. (AR at 3). Horton’s bid guaranty
+included a bid bond underwritten by Infinity Surety of Saginaw, Texas. The asset pledged by
+Infinity Surety to support the bond was a parcel of land identified as “Lot 20, Block 7,
+Woodmont addition, an addition to the City of Fort Worth, Texas.” (AR at 5, AR Ex. 2).
+                                               -2-              Horton & Barber, CAB No. P-0792
+
+
+Horton did not provide any other documentation or details about the pledged parcel of land
+with its bid. By letter dated July 25, 2008, the contracting officer requested that Horton
+confirm its bid price. (AR at 3). The contracting officer did not request that Horton provide
+cost data supporting the pricing of the various line items found in its bid. On July 29, 2008,
+Horton confirmed its bid price. (AR Ex. 4). Horton did not provide any cost data supporting
+the pricing of the solicitation’s line items. On August 6, a bid opening transmittal letter was
+forwarded to Barton Clark, who is the program manager for the District’s Anacostia
+Waterfront Initiative, requesting a recommendation for award and a justification for the
+disparity between the bid prices and the government’s estimate. (AR at 3-4). On August 7,
+the contracting officer received from the program management office a recommendation to
+award to the second low bidder, Milani Construction. (AR at 4).
+
+        On October 24, 2008, the contracting officer approved a Determination and Findings
+(D&F) to reject the Horton’s bid for an unreasonably low price. (AR Ex. 3). One major
+portion of the work consisted of bridge demolition over an active railroad facility, M Street
+and the SE/SW Expressway. The contracting agency notes that the demolition and removal of
+the bridges’ superstructures/substructures is both labor and equipment intensive. The
+contracting officer concluded that Horton could not perform this complex portion of the work
+for its unit price of $250,000. The next low bidder had a price of $1,090,000 for this same
+work. For mobilization, Horton bid $30,000, while the average price of the eight bidders is
+$106,937.50 and the government estimate is $100,000. For the construction lane closing line
+item, Horton bid $10,000 while the average price for this bid item was $107,312.50 and the
+government estimate is $50,000. For the protection shield line item needed to protect public
+and CSX property during demolition, Horton bid $20,000 while the next low bidder’s price
+was $185,000, a difference of $165,000. According to the contracting agency, improper or ill
+prepared plans can result in project delays and/or a danger to public safety. (AR at 7-8; AR
+Exs. 2, 3, and 7).
+
+        Also on October 24, 2008, the District’s Chief Procurement Officer approved the D&F
+to award the contract to Milani Construction. (AR Ex. 5). By letter dated October 29, 2008,
+the contracting officer informed Horton that it had been determined to be nonresponsible due
+to an unreasonably low bid price. (AR Ex. 6). On November 9, 2008, Horton filed this
+protest. On December 1, 2008, the District filed its Agency Report arguing that (1) Horton’s
+bid was nonresponsive because the bid bond was defective, and (2) Horton was properly
+determined to be nonresponsible because its bid price was unreasonably low pursuant to 27
+DCMR §§ 1531.6 and 2200.5. On December 19, 2008, Horton filed its comments on the
+Agency Report and included an affidavit from Horton’s CEO, Herman W. Barber, III. Horton
+argues that the contracting officer acted in bad faith in making his nonresponsibility
+determination without requesting Horton to provide support for its pricing and to otherwise
+obtain the required types of responsibility information set forth in 27 DCMR § 2204.1 –
+2204.5. Mr. Barber states in his affidavit that he “received price commitments from buyers of
+steel, concrete and other salvage materials identified in the ‘Summary of Quantities’ list
+provided in the solicitation. For example . . . a per ton price of $365.00 for steel.” (Barber
+Affidavit ¶ 6). He adds: “I used all of the price quotes received and salvage value research I
+obtained to help determine my solicitation bid price.” (Barber Affidavit ¶ 7). After bid
+opening, Barber states that he confirmed his bid price but that the contracting officer “never
+                                                -3-               Horton & Barber, CAB No. P-0792
+
+
+requested that I verify, justify or explain my bid price” and “did not respond to any of my
+additional attempts to inquire about the need to extend my bid bond or provide any additional
+information.” (Barber Affidavit ¶¶ 9-11).
+
+       The District awarded the contract to Milani Construction on March 5, 2009. (Contract
+No. DCKA-2008-C-0097, filed March 26, 2009). The contract price matches Milani’s bid
+price of $1,871,180 and Milani executed performance and payments bonds as part of the
+contract.
+
+                                        DISCUSSION
+
+       We exercise jurisdiction over this protest pursuant to D.C. Code § 2-309.03(a)(1).
+
+       The District argues that Horton submitted an inadequate bid bond, and thus its bid is
+nonresponsive. Horton argues that the contracting officer failed to identify the alleged bid
+bond defect and that the District is estopped from raising it for the first time in its Agency
+Report. We conclude that the District was not estopped from raising the bid bond issue in the
+Agency Report and that the bond was defective, rendering Horton’s bid nonresponsive. The
+IFB required bidders to provide a bid guaranty for 90 calendar days after bid opening. (AR
+Ex. 1). Horton submitted a bid bond that contained a pledge of real estate described as “Lot
+20, Block 7, Woodmont addition, an addition to the City of Fort Worth, Texas.” (AR at 5,
+AR Ex. 2). Horton provided no other information about the real estate with its bid.
+
+       The sufficiency of a bid bond depends on whether the surety is clearly bound by the
+bond and whether the government will receive the full and complete protection contemplated
+by the government if the bidder fails to execute the required contract documents. Fort Myer
+Constr. Corp., CAB No. P-0452, July 23, 1996, 44 D.C. Reg. 6476, 6481; Communications
+by Johnson, Inc., B-255478, Mar. 2, 1994, 94-1 CPD ¶ 163; Gulf & Texas Trading Co., B-
+253991, Jan. 24, 1994, 94-1 CPD ¶ 31. If the surety’s liability is not clear from the face of the
+bond, the bond is defective and must be rejected as nonresponsive. See Gulf & Texas Trading
+Co., B-253991, Jan. 24, 1994, 94-1 CPD ¶ 31; H.R. General Maintenance Corp., CAB No. P-
+0557, Feb. 2, 1999, 44 D.C. Reg. 8556, 8560. Horton’s bond did not include an appraisal of
+the property. Therefore, the contracting officer could not determine the value of the secured
+property, and he could not determine whether the property had the value needed to support the
+value of Horton’s bid. Accordingly, the bid bond was defective. Communications by
+Johnson, Inc., B-255478, Mar. 2, 1994, 94-1 CPD ¶ 163; Gulf & Texas Trading Co., B-
+253991, Jan. 24, 1994, 94-1 CPD ¶ 31.
+
+        Horton cites no authority, and we can find none, for concluding that the contracting
+agency should be estopped from rendering such a determination four months after bid opening
+and three months before award to the second low bidder. Computer Terminal Sales, B-
+200366, Jan. 22, 1981, 81-1 CPD ¶ 37 (even if the agency erroneously rejected the protester’s
+bid on one ground, GAO found protester could not have been prejudiced because its bid
+should have been rejected on another basis). Even if Horton had been notified of the defect
+shortly after bid opening, Horton could not have cured that defect after bid opening. Spotless
+Janitorial Services, Inc., B-257341, Sept. 15, 1994, 94-2 CPD ¶ 102; H.R. General
+                                                -4-               Horton & Barber, CAB No. P-0792
+
+
+Maintenance Corp., 44 D.C. Reg. at 8560. Horton was thus not prejudiced by the delayed
+notification of the defective bid bond.
+
+         Horton also argues that the District should be barred from awarding the contract to
+Milani Construction because the District failed to act within 90 calendar days after bid
+opening and presumably Milani’s bid expired. The record is not clear on whether the
+contracting officer requested that the other bidders extend their bids in October 2008 beyond
+the initial 90 days. Nevertheless, the contracting officer and Milani executed a contract on
+March 5, 2009, and there is a notification on the same date to extend its bid. There is no
+argument that Milani’s bid, at the time of bid opening, was nonresponsive or that the bid bond
+was defective. The issue raised by Horton is whether Milani’s bid, if it expired after the
+initial 90 day period, could be revived and an award made based on the revived bid. We
+believe that Milani could have elected not to extend its bid but the record shows that it elected
+to extend its bid and there was no legal error on the part of the contracting officer in entering
+into a contract with Milani under its revived bid. See General Oil Corp., CAB No. P-0355,
+Apr. 16, 1993, 40 D.C. Reg. 5097, 5102-03; Holk Development, Inc., B-230830.2, Dec. 1,
+1988, 88-2 CPD ¶ 543.
+
+        The contracting officer determined in a D&F dated October 24, 2008, and in a letter to
+Horton dated October 24, 2008, that Horton’s bid was unreasonably low and that Horton was
+therefore nonresponsible. The contracting officer asked Horton to confirm its bid price,
+which Horton did, but the contracting officer did not ask Horton to further justify its bid
+prices for the various line items. Horton maintains that it should have been given a further
+opportunity to explain its pricing to the District, and that the “contracting officer acted in bad
+faith by prematurely determining the protestor non-responsible without fully apprizing
+himself of the Protester’s capabilities.”
+
+        We see no evidence for concluding that the contracting officer acted in bad faith in
+determining Horton’s bid price to be unreasonably low. Although the contracting officer
+should have asked for additional information from Horton on the particular line items that he
+found were unreasonably low, under the circumstances here we conclude that the
+nonresponsibility determination is sustainable because Horton has not introduced sufficient
+evidence rebutting the contracting officer’s findings on the pricing. Horton only presented
+some evidence of salvage value per ton of steel but without identifying its total costs to
+perform the solicited work, and evidence of its costs to perform the challenged line items,
+there is no basis for us to conclude that the matter should be remanded to the contracting
+office for further review. Horton should have introduced evidence of its costs and salvage
+revenue in its original protest filing but failed to do so and even after the Agency Report
+identified the various line items as being significantly below estimates and other bidders’
+prices, Horton still failed to introduce adequate evidence of the reasonableness of its pricing.
+
+                                        CONCLUSION
+
+       For the reasons discussed above, we deny Horton’s protest.
+                             -5-              Horton & Barber, CAB No. P-0792
+
+
+      SO ORDERED.
+
+
+DATED: April 3, 2009               /s/ Warren J. Nash
+                                   WARREN J. NASH
+                                   Administrative Judge
+
+CONCURRING:
+
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+

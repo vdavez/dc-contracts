@@ -1,0 +1,295 @@
+         DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+APPEALS OF:
+
+
+ROBERSON INTERNATIONAL, INC., et al.                  )
+                                                      )       CAB Nos. D-1241, D-1224
+From Debarment Decision dated July 14, 2003           )
+
+       For the Appellant: Ronald C. Jessamy, Esq. For the District of Columbia Government:
+Carlos M. Sandoval, Esq., Assistant Attorney General, Office of the Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                           OPINION
+                                         Filing ID 30158102
+
+        Roberson International, Inc., and its president, Steven A. Roberson, Sr., and its vice
+president, Steven A. Roberson, Jr., appeal from a debarment decision by the Chief Procurement
+Officer that debarred Appellants from contracting with the District government for a period of
+one year. According to the debarment decision, the corporate Appellant submitted a false
+bonding document purportedly representing that it had obtained bonding for a procurement when
+in fact it had not. Appellants contend that the company should not have been debarred because
+the president attempted to rescind the bonding submission and the consultant who prepared the
+forged bonding document was terminated by Roberson. Appellants also urge that the debarment
+of the president and vice president should be vacated as those individuals never received separate
+notice of their proposed debarment and thus lacked an opportunity to fairly respond to the
+charges. We conclude that the debarment of the corporate Appellant is supported by the record
+and the law but we vacate the debarment of the individual Appellants because the District did not
+provide adequate notice and opportunity to respond. Accordingly, the appeals are sustained in
+part and denied in part.
+
+                                       BACKGROUND
+
+      The facts are not in dispute. The following findings are taken from the July 14, 2004
+debarment decision:
+
+       On July 25, 2002, the Office of Contracting and Procurement (“OCP”) issued
+       Solicitation No. POAM-2002-B-00 19DR (Solicitation). Roberson submitted a
+       bid for this procurement on August 29, 2002. The solicitation called for an
+       indefinite delivery/indefinite quantity contract for construction services.
+       Roberson submitted the third lowest bid and was being considered for the contract
+       award. As a condition for award, the Solicitation required the potential awardee
+       to meet certain Bonding Requirements (Section 1.5). Specifically, the Solicitation
+       required the successful bidder to furnish a document from its surety company
+       showing capability of securing performance and payment bonds in the amount of
+                                               -2-         Roberson Int’l, CAB Nos. D-1241, D-1224
+
+
+       $5 million. Moreover, the successful contractor was required to submit the
+       required bonds during the issuance of the Task Order.
+
+       On November 22, 2002, in response to the Solicitation, Roberson sent OCP a
+       letter purporting to be from its bonding company, Patriot Bonding, stating that
+       Roberson was bonded for $5 million in the case of a single contract award and up
+       to $10 million in the case of an aggregate award.
+
+       In reviewing the submitted letter, OCP noticed that the document was not written
+       on company letterhead and did not otherwise appear to read as a typical
+       suretyship verification letter. Therefore, OCP contacted the Patriot Bonding
+       signatory, Leif Gibson, Associate Underwriter, to inquire about the document.
+
+       On December 6, 2002, Mr. Gibson sent a facsimile to OCP enclosing a notarized
+       affidavit of forgery from the State of Arizona, County of Maricopa, to
+       acknowledge that Patriot Bonding did not send the suretyship verification letter
+       received by OCP and that someone forged Mr. Gibson's signature.
+
+(CAB No. D-1224 Notice of Appeal, Attachment).
+
+         On December 9, 2002, Roberson’s vice president, Steven Roberson, Jr., sent an unsigned
+letter to OCP’s contract specialist, regarding the submitted bond letter, informing the contract
+specialist that Roberson was rescinding the previously submitted bond letter because it "was sent
+prematurely." (D-1233 Appeal File (“AF”) Tab 14). Steven Roberson, Sr., sent another letter
+dated December 9, 2002, advising the contract specialist that Roberson would "have bonding in
+place by the close of business on December 11, 2002.” (Id.).
+
+        On March 12, 2003, the agency chief contracting officer sent a letter notifying Roberson
+that it was being proposed for debarment as a result of the false bonding verification document.
+(D-1233 AF Tab 11). The letter was addressed to Steven A. Roberson, President of Roberson
+International, Inc., and contained a subject line reading: “Re: Proposed Debarment/Suspension
+Action (Roberson International).” A reading of the relevant portions of the letter indicates only
+that the company is being proposed for debarment:
+
+       This letter is to inform you that the Chief Procurement Officer (CPO), Office of
+       Contracting and Procurement (OCP), District of Columbia, is proposing
+       debarment of Roberson International, Inc. (Roberson) from consideration for
+       award of District contracts and subcontracts.
+
+       ....
+
+       The CPO is proposing the debarment of Roberson for submitting a false bonding
+       document in an effort to receive a District contract award. The action by Roberson
+       was taken in an effort to defraud the District and obtain a public contract. Such
+       action provides a significant indication of Roberson's lack of business integrity.
+       Moreover, Roberson's action was sufficiently serious and compelling to affect
+                                                -3-         Roberson Int’l, CAB Nos. D-1241, D-1224
+
+
+       Roberson's responsibility as a District government contractor in responding to
+       Solicitation No. POAM-2002-B-OO 19DR.
+
+       This letter serves as notice of the proposed debarment action against Roberson.
+       As of the date of this notice, the District will not solicit offers from, award
+       contracts to, renew, or otherwise extend contracts with, or consent to subcontracts
+       with Roberson pending a debarment decision.
+
+       Within thirty business days after receipt of this notice, Roberson must submit to
+       OCP, in person, in writing, or through a representative, information addressing
+       the aforementioned issues raised regarding this matter. In addition, Roberson
+       may submit any additional specific information that raises a genuine issue of
+       material fact. If a response from Roberson is not received by OCP within the
+       thirty-day period, OCP will make a final decision to debar Roberson on the basis
+       of available information in its possession. Attached you will find a copy of the
+       applicable District regulations articulating the procedures governing debarment.
+
+       According to D.C. Official Code §2-308.04(f), the debarment or suspension of
+       any person or business shall constitute a debarment or suspension of any affiliate
+       of that person or business. Affiliate means any business in which a suspended or
+       debarred person is an officer or has a substantial financial interest (as defined by
+       regulations), and any business that has a substantial direct or indirect ownership
+       interest (as defined by regulations), in the suspended or debarred business, or in
+       which the suspended or debarred business has a substantial direct or indirect
+       ownership interest.
+
+        On April 11, 2003, Roberson responded to the notice of proposed debarment by stating
+that Roberson had rescinded the forged suretyship verification document and that the company’s
+president, Steven Roberson, Sr., was recuperating from a kidney transplant during the
+procurement phase, that a company consultant had submitted the forged verification document,
+and that the services of the consultant had been terminated. In its response, Roberson argued that
+the circumstances did not warrant debarment or suspension and that if the charges were not
+dismissed, Roberson demanded a hearing and a copy of current applicable debarment
+regulations. (D-1233 AF Tab 12).
+
+       In a letter dated May 19, 2003, the Chief Procurement Officer replied to Roberson’s letter
+of April 11, stating that Roberson had raised an issue of fact relating to the “circumstances
+surrounding the attempt by Mr. Roberson to rescind the false bonding document” and set a
+hearing for May 30. The subject line of the letter reads: “Re: Proposed Debarment/Suspension
+Action (Roberson International, Inc.).” (D-1233 AF Tab 13). In a May 29, 2003 letter, counsel
+for Roberson stated that Roberson’s president and vice president would be witnesses at the
+hearing, and attached copies of their December 9, 2002 letters to the contract specialist. (D-1233
+AF Tab 14).
+
+        On May 30, 2003, the CPO conducted a hearing in the debarment proceeding. The CPO
+began the hearing as follows: “In meeting my responsibilities as the Chief Procurement Officer,
+I also serve as the buying official under the [Procurement Practices Act]. By a letter dated
+                                              -4-         Roberson Int’l, CAB Nos. D-1241, D-1224
+
+
+March 12, OCP informed Roberson International, Incorporated, hereinafter referred to as
+Roberson, of its proposed debarment from consideration for award of District contracts and
+subcontracts.” (D-1233 AF Tab 15). By letter of June 4, 2003 to Roberson’s counsel, containing
+a subject line reading: “Re: Proposed Debarment/Suspension Action (Roberson International,
+Inc.),” the CPO stated: “Thank you for meeting me on May 30, 2003. The purpose of your visit
+was to provide your client, Roberson International, Inc. (Roberson) an informal hearing to
+discuss facts in dispute material to the proposed debarment of Roberson.” (D-1233 AF Tab 16).
+
+      On July 14, 2003, the CPO issued his final decision on the proposed debarment action of
+Roberson. The decision states:
+
+       On November 22, 2002, OCP received the false bonding document from
+       Roberson. Upon receiving the letter, OCP contacted the bonding company to
+       verify its accuracy. Exactly two weeks later, on Friday, December 6, 2002, the
+       bonding company provided information identifying the document as false. On
+       Monday, December 9, 2002, Mr. Roberson wrote two letters to OCP attempting to
+       rescind the false document. Although no evidence was presented at the informal
+       hearing to suggest that OCP informed Roberson of the falsity before Mr.
+       Roberson attempted to rescind the document, the submission of a false bonding
+       document to obtain a contract is sufficiently serious and compelling to affect
+       Roberson's present responsibility.
+
+       Roberson's actions were sufficiently serious and compelling to affect its present
+       responsibility as a District government contractor. Such is the case despite Mr.
+       Roberson's attempt to rescind the false bonding document on December 9, 2002.
+       Although Mr. Roberson made an attempt to rescind the document, the fact
+       remains that Roberson submitted a false bonding document in an effort to obtain a
+       District contract. However, Mr. Roberson's attempt to rescind the false document
+       was considered when I decided the debarment period.
+
+       ....
+
+       Given the circumstances of this matter, I am debarring Roberson, its principals,
+       and its affiliates from consideration for award of District contracts and
+       subcontracts for one-year. Mr. Roberson's attempt to rescind the false document
+       was considered in making this decision. In rendering this decision, however, the
+       CPO placed great emphasis on the fact that Roberson submitted a false bonding
+       document to obtain a District award. In addition, Roberson presented no evidence
+       in writing or at the informal hearing to suggest it had or will take remedial
+       measures to ensure that similar events will not occur in the future.
+
+       ....
+
+       This debarment decision is applicable to the principals of Roberson. The
+       identified principals of Roberson are: Steven Roberson Sr., President, and Steven
+       Roberson Jr., Vice President. The principals of Roberson are being debarred
+       under the applicable standard. Individuals can be debarred if they "participated
+                                                 -5-         Roberson Int’l, CAB Nos. D-1241, D-1224
+
+
+          in, knew of or had reason to know" of the contractor's misconduct. Novicki v.
+          Cook, 946 F.2d 938 (D.C. Cir. 1991). Roberson asserts the company consultant
+          facilitated the submission of the false document. However, principals are usually
+          responsible for the actions of their employees. Therefore, the principals knew of
+          or had reason to know of the consultant's misconduct in submitting the false
+          bonding document.
+
+(D-1233 AF Tab 17). The company and the two principals were debarred for a period of one
+year from March 12, 2003, through March 12, 2004. On September 12, 2003, Appellants filed
+an appeal docketed as CAB No. D-1224, but the appeal was voluntarily dismissed when the
+District initiated a new debarment proceeding challenged by Appellants in CAB No. D-1233.
+The original debarment period concluded on March 12, 2004, despite the subsequent attempts by
+the District to reopen the debarment proceeding and impose additional debarment penalties on
+Roberson and its principals. See Roberson International, Inc., et al., CAB No. D-1233, Sept. 9,
+2004, 52 D.C. Reg. 4229. On September 10, 2004, Roberson filed a notice of appeal docketed as
+CAB No. D-1241, to contest the propriety of the July 14, 2003 debarment decision by the CPO.
+In a status conference of March 11, 2010, the parties agreed that the case should be resolved on
+the written record, including the District’s October 13, 2004 combined motion to dismiss and
+motion for summary judgment.
+
+                                          DISCUSSION
+
+          We exercise jurisdiction over these appeals pursuant to D.C. Code §§ 2-308.04(d) and 2-
+309.03.
+
+        Roberson International challenges its one-year debarment as being contrary to the
+findings of the CPO and the evidence adduced at the hearing. The corporate Appellant also
+argues that the debarment decision is a nullity because the debarment regulations are outdated
+and not consistent with the procurement law changes made by the Procurement Reform
+Amendment Act of 1996. We sustain the CPO’s debarment decision regarding Roberson
+International. The record amply supports the CPO’s conclusion that the company’s submission
+of a forged bonding verification in order to obtain contract award was sufficiently serious and
+compelling evidence of a lack of business integrity and ethics that undermined its present
+responsibility. Although it had an opportunity at the hearing, Appellant did not introduce
+testimony from Steven Roberson, Sr., or Steven Roberson, Jr., regarding their knowledge of the
+forged bonding document and its submission as part of the company’s bid. We discern no legal
+error in the CPO’s conclusion that the remedial actions taken by Roberson International after the
+fact of forgery became known to the District were insufficient to find the company presently
+responsible. Regarding Roberson International’s challenge to the debarment regulations, it fails
+to point to any specific regulatory prescription in 27 DCMR Chapter 22 that was applied to its
+debarment proceeding in a manner inconsistent with the debarment provisions found in D.C.
+Code § 2-308.04. Moreover, Roberson International has demonstrated no prejudice arising from
+any application of the debarment regulations to it.
+
+      Steven Roberson, Sr., and Steven Roberson, Jr., the individual Appellants, challenge the
+CPO’s decision to impose the same one-year debarment on them as affiliates. They argue that
+                                                 -6-         Roberson Int’l, CAB Nos. D-1241, D-1224
+
+
+the March 12, 2003 notice of proposed debarment only identified Roberson International, Inc., as
+the entity being proposed for debarment.
+
+         The Procurement Practices Act requires “reasonable notice to a person or a business and
+reasonable opportunity to be heard” before the District may impose debarment or suspension.
+D.C. Code § 2-308.04. Due process itself mandates such notice and an opportunity to be heard.
+ATL, Inc. v. United States, 736 F.2d 677, 682-83 (Fed. Cir. 1984); Transco Security, Inc. of
+Ohio, et al. v. Freeman, 639 F.2d 318, 323 (6th Cir.), cert. denied 454 U.S. 820 (1981); Gonzalez
+v. Freeman, 334 F.2d 570, 574 (D.C. Cir. 1964). The debarment regulations specify the form
+and manner of the notice and opportunity to be heard. 27 DCMR § 2213.3 provides: “The
+[CPO] may extend the debarment decision to include any affiliates of the contractor by
+specifically naming the affiliate and giving the affiliate written notice of the proposed debarment
+and an opportunity to respond in accordance with the provisions of this chapter.” 27 DCMR §
+2214.1 provides in relevant part: “The [CPO] shall initiate debarment proceedings by notifying
+the contractor and any specifically named affiliates by certified mail, return receipt requested, of
+the following: (a) The reasons for the proposed debarment in sufficient detail to put the
+contractor on notice of the conduct or transaction(s) upon which the proposed debarment is based
+. . . .” In Fort Myer Construction Corp., CAB No. D-1223, Dec. 9, 2003, 52 D.C. Reg. 4155,
+4156-58, we concluded on very similar facts as here that the debarments of the individual
+Appellants in Fort Myer were void ab initio because the District had failed to provide adequate
+written notice to each principal. In the present case, neither the initial notice of proposed
+debarment of Roberson International, nor any of the subsequent correspondence from the CPO
+prior to the debarment decision, put the individual Appellants on notice that they individually
+and specifically were being considered for debarment. Accordingly, we conclude that the
+debarments of Steven Roberson, Sr., and Steven Roberson, Jr., are void ab initio.
+
+                                         CONCLUSION
+
+       We conclude that the debarment of the corporate Appellant, Roberson International, Inc.,
+is supported by the record and the law but we vacate the debarment of the individual Appellants
+because the District did not provide adequate notice and opportunity to respond. Accordingly,
+the appeals are sustained in part and denied in part.
+
+       SO ORDERED.
+
+DATED: March 19, 2010                                  /s/ Jonathan D. Zischkau
+                                                       JONATHAN D. ZISCHKAU
+                                                       Chief Administrative Judge
+
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

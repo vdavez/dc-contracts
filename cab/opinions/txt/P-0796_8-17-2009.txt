@@ -1,0 +1,321 @@
+               DISTRICT OF COLUMBIA CONTRACT APPEALS BOARD
+
+
+PROTESTS OF:
+
+W2I VENTURE                                          )
+                                                     )       CAB Nos. P-0796, P-0802
+Under Solicitation Nos. CFOPD-07-R-053               )
+                    and CFOPD-09-R-013               )
+
+
+        For the Protester: Peter F. Garvin, III, Esq. and Grant H. Willis, Esq., Jones Day. For the
+District of Columbia Government: Talia S. Cohen, Esq., Assistant Attorney General. For the
+Intervenor: Joanne Doddy Fort, Esq., Baach, Robinson & Lewis PLLC
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                            OPINION
+                                        Filing ID 26625718
+
+        W2I Venture has protested the District’s decision to cancel Solicitation No. CFOPD-07-
+R-053 for a new gaming system platform for the DC Lottery and Charitable Games Control
+Board (“DCLB”). The contracting officer canceled the solicitation because the City Council
+declined to approve the proposed award to W2I. W2I now argues that the Mayor was not
+required to submit the proposed contract to the Council for approval pursuant to D.C. Code § 1-
+204.51 because the contract did not involve the expenditure of appropriated funds. The District
+responds that the proposed contract does involve the expenditure of appropriated funds and
+moreover the new solicitation incorporates sufficient changes to the old solicitation to merit the
+cancellation and issuance of the revised solicitation. We conclude that the contracting officer
+had a cogent and compelling basis for cancelling the proposed contract when the Council refused
+to approve the proposed contract award to W2I because the lottery contract would involve the
+expenditure of appropriated funds. We also conclude that the new solicitation contained
+sufficient changes to independently support the decision to cancel the original solicitation.
+W2I’s second protest, challenging the District’s issuance and activities under the revised
+solicitation during the pendency of the protest of the cancellation, is without merit. Accordingly,
+we deny the captioned protests.
+
+                                        BACKGROUND
+
+       On May 27, 2007, the Office of the Chief Financial Officer (“OCFO”) issued a Request
+for Proposals, Solicitation No. CFOPD-07-R-053 (“RFP-1”). (Motion to Dismiss, Ex. 1). RFP-
+1 sought a contractor to provide to the DCLB a new gaming system platform. Section I.21 of
+RFP-1 provided as follows:
+
+       I.21 Appropriation of Funds
+                                                -2-            W2I Venture, CAB Nos. P-0796, P-0802
+
+
+
+       The District’s liability under this contract is contingent upon the future
+       availability of monies with which to make payment for the contract purposes.
+       The legal liability on the part of the District for payment of any money shall not
+       arise unless and until such monies shall have been provided. The District’s
+       obligation to pay under this contract is subject to the provisions of (i) the federal
+       Anti-Deficiency Act, 31 U.S.C. §§ 1341, 1342, 1349, 1351; (ii) The District of
+       Columbia Anti-Deficiency Act, D.C. Official Code §§ 47-355.01-355.08 (2001);
+       (iii) D.C. Official Code § 47-105 (2001); and (iv) D.C. Official Code § 1-204.46
+       (2001), as the foregoing statutes may be amended from time to time.
+
+(Motion to Dismiss, Ex. 1). On September 20, 2007, W2I and Lottery Technologies Enterprises
+(“LTE”) submitted proposals. After an extensive evaluation process, the OCFO contracting
+officer determined that W2I’s proposal offered the most advantageous method for the District to
+fulfill the RFP’s requirements, and on March 14, 2008, the Mayor submitted the proposed lottery
+contract, Contract No. CFOPD-7-C-053 , for the first time to Council for approval. (Motion to
+Dismiss, Ex. 4). On March 28, 2008, the District of Columbia Register, Vol. 55, No. 13, notified
+the public of a public hearing on the proposed lottery contract. (Motion to Dismiss, Ex. 3).
+
+        On April 4, 2008, LTE filed a protest (CAB No. P-0774) with the Board, challenging the
+proposed award to W2I. On May 14, 2008, the Mayor withdrew for the first time from Council
+the proposed lottery contract. On May 14, 2008, the Mayor resubmitted to Council for a second
+time the proposed lottery contract. LTE filed an amended protest (CAB No. P-0778) on May 30,
+2008. On June 27, 2008, the Mayor withdrew from the Council for a second time the proposed
+lottery contract. On September 16, 2008, the Mayor submitted to the Council for a third time the
+proposed lottery contract. On October 30, 2008, the Mayor withdrew from the Council for a
+third time the proposed lottery contract. On November 3, 2008, we dismissed in part and denied
+in part the consolidated protests of LTE. On November 14, 2008, the Mayor submitted for a
+fourth and final time to Council the proposed lottery contract. On December 16, 2008, the
+Council disapproved the proposed lottery contract. (Motion to Dismiss, Exs. 5, 6).
+
+        On February 6, 2009, the OCFO contracting officer issued a notice that RFP-1 had been
+cancelled which stated in pertinent part: “Solicitation No. CFOPD-07-R-053 for On-Line
+Gaming System is cancelled. The Office of Contracts will issue a new solicitation in the near
+future.” (Protest, Ex. 1). On February 23, 2009, W2I protested the cancellation of RFP-1 (CAB
+No. P- 0796), arguing that although the OCFO concluded that the proposed contract to W2I
+offered the best value to the District, OCFO incorrectly assumed that the proposed multiyear
+contract had to be submitted to the Council for approval, and that the Council’s ultimate
+disapproval of the proposed contract was the sole basis for OCFO’s cancellation of RFP-1.
+According to W2I, the procurement did not involve the expenditure of appropriated funds and
+thus Council approval was not required under D.C. Code § 1-204.51. The District filed a motion
+to dismiss the protest as untimely on March 16, 2009. On April 3, 2009, the OCFO issued
+Solicitation No. CFOPD-09-R-013 (“RFP-2”) as a replacement for RFP-1. On April 9, W2I
+filed another protest (CAB No. P-0802) requesting that the Board stay all further activities
+relating to RFP-2 until the Board resolved the earlier protest challenging the cancellation of RFP-
+1. Thereafter, the Board directed the District to file an Agency Report for CAB No. P-0796, and
+the District filed the Agency Report on June 18, 2009. W2I filed its comments on the Agency
+                                               -3-            W2I Venture, CAB Nos. P-0796, P-0802
+
+
+
+Report on June 25, 2009. The District filed a response on July 6, 2009. W2I filed a reply on
+July 13.
+
+                                         DISCUSSION
+
+       We exercise jurisdiction over these protests pursuant to D.C. Code § 2-309.03(a)(1).
+
+       Timeliness
+
+        The District argues that the protest of the cancellation is untimely because W2I should
+have protested within 10 business days of March 14, 2008, when the Mayor first submitted the
+proposed contract to the Council. We reject the District’s contention as W2I is challenging the
+cancellation of RFP-1 and it did not receive notice of the cancellation until February 6, 2009.
+Although the propriety of submitting the proposed award to the Council is at the heart of the
+protest, the issue did not become ripe for protest until W2I received notice of the cancellation.
+Accordingly, W2I’s protest in CAB No. P-0796 was timely filed.
+
+       Standard of Review for the Cancellation of RFP-1
+
+        W2I argues that the District must support its cancellation action by the more demanding
+test that the cancellation is supported by a “cogent and compelling reason” rather than the
+“reasonable basis” test normally associated with a negotiated procurement like this one.
+According to W2I, the circumstances here are more akin to the post-opening cancellation in a
+sealed bid procurement because significant aspects of W2I’s proposed pricing and technical
+proposal have been disclosed to the public and thus the same danger to the competitive process
+exists as in the case of sealed bids being opened. We agree with W2I and believe that the more
+demanding standard should apply here, namely that the cancellation be supported by a cogent
+and compelling reason. Even under this more demanding standard, we conclude for the reasons
+discussed below, that the contracting officer stated a cogent and compelling reason for cancelling
+RFP-1.
+
+       Council Review under D.C. Code § 1-204.51
+
+       W2I argues that the Lottery gaming system procurement did not involve the expenditure
+of appropriated funds and thus Council approval was not required under D.C. Code § 1-204.51.
+The relevant portions of D.C. Code § 1-204.51 provide as follows:
+
+           (a) Contracts extending beyond one year. – No contract involving
+           expenditures out of an appropriation which is available for more than 1 year
+           shall be made for a period of more than 5 years unless, with respect to a
+           particular contract, the Council, by a two-thirds vote of its members present
+           and voting, authorizes the extension of such period for such contract. Such
+           contracts shall be made pursuant to criteria established by act of the Council.
+
+           (b) Contracts exceeding certain amount.
+                                               -4-           W2I Venture, CAB Nos. P-0796, P-0802
+
+
+
+              (1) In general. – No contract involving expenditures in excess of
+              $1,000,000 during a 12-month period may be made unless the Mayor
+              submits the contract to the Council for its approval and the Council
+              approves the contract (in accordance with criteria established by act of the
+              Council). . . .
+
+           (c) Multiyear contracts. – (1) The District may enter into multiyear contracts
+           to obtain goods and services for which funds would otherwise be available for
+           obligation only within the fiscal year for which appropriated.
+
+              (2) If the funds are not made available for the continuation of such a
+              contract into a subsequent fiscal year, the contract shall be cancelled or
+              terminated . . . .
+
+              (3) No contract entered into under this subsection shall be valid unless the
+              Mayor submits the contract to the Council for its approval and the Council
+              approves the contract (in accordance with the criteria established by act of
+              the Council). The Council shall be required to take affirmative action to
+              approve the contract within 45 days. If no action is taken to approve the
+              contract within 45 calendar days, the contract shall be deemed
+              disapproved.
+
+        W2I argues that “appropriation” only refers to the legal authority of Congress to incur
+obligations and make disbursements from the United States Treasury. Further, W2I urges that
+payments to the lottery contractor come from “other funds” – namely, the Lottery and Charitable
+Games Enterprise Fund, which W2I says are not appropriated funds. Citing section 446 of the
+Home Rule Act, D.C. Code § 1-204.46 (“no amount may be obligated or expended by any
+officer or employee of the District of Columbia government unless such amount has been
+approved by Act of Congress, and then only according to such Act”), W2I distinguishes between
+Congressional “approval” and “appropriation” and argues that neither the Home Rule Act nor
+any other provision “mandates that the District operate only with federally provided
+‘appropriated’ funds.” (W2I Comments, at 5-6).
+
+         We agree with the District that W2I’s arguments miss the mark. Congress appropriates
+both federal funds and local funds for the District. Pursuant to the most recent Congressional
+appropriations act for the District, namely the District of Columbia Appropriations Act, 2009,
+Division D, Title IV, of Pub. L. 111-8, approved March 11, 2009, Congress appropriated –
+subject to available revenues – $9,888,095,000, consisting of $6,082,474,000 from local funds
+(mainly tax revenues of various kinds), $2,177,382,000 from federal grant funds (grants in aid
+such as AFDC, Medicaid, etc.), $1,621,929,000 from other funds (“Other-Type Funds” which
+are defined in D.C. Code § 47-368.01(a) as “District revenue . . . generated from fees, fines,
+assessments, or reimbursements by [the] District of Columbia or its agencies or instrumentalities
+. . . earmarked for special purposes and accounted for or placed in a fund for such purposes”),
+$6,310,000 from private funds (such as donations), and $202,326,130 from “federal payments”
+(including money for special projects such as the college tuition assistance program). Under the
+“District of Columbia Funds” portion of Title IV, the Act states that “the amounts provided
+                                                -5-            W2I Venture, CAB Nos. P-0796, P-0802
+
+
+
+under this heading are to be available, allocated and expended as proposed under ‘Title III--
+District of Columbia Funds Division of Expenses’ of the Fiscal Year 2009 Proposed Budget and
+Financial Plan submitted to the Congress by the District of Columbia on June 9, 2008 and such
+title is hereby incorporated by reference as though set forth fully herein . . . .” Thus, Congress
+appropriated both local and federal funds in this appropriations act and the local funds portion of
+the District’s budget must be appropriated by Congress.
+
+        District appropriations, and consequently District obligations and expenditures, occur as
+follows: (1). the District submits to Congress the proposed budget; (2) Congress approves the
+budget in the form of an appropriations act; and (3) the District can obligate or expend funds if
+the amount has been appropriated by Congress. The District states that money may not be
+expended from the Lottery Fund without a congressional appropriation. We agree with the
+District’s reasoning. Section 450 of the Home Rule Act, as amended, states:
+
+       The General Fund of the District shall be composed of those District revenues
+       which on January 2, 1975 are paid into the Treasury of the United States and
+       credited either to the General Fund of the District or its miscellaneous receipts,
+       but shall not include any revenues which are applied by law to any special fund
+       existing on January 2, 1975. The Council may from time to time establish such
+       additional funds as may be necessary for the efficient operation of the government
+       of the District. All money received by any agency, officer, or employee of the
+       District in its or his official capacity shall belong to the District government and
+       shall be paid promptly to the Mayor for deposit in the appropriate fund. . . .
+
+        See D.C. Code § 1-204.50; Pub. L. No. 93-198, section 450, 87 Stat. 803 (1973). The
+Lottery and Charitable Games Fund was established by the Council as a special fund under
+authority of section 450 of the Home Rule Act. This fund is owned by the District government,
+and cannot be spent without a congressional appropriation. As the District correctly argues, the
+lottery contractor must be paid from appropriated funds from the Lottery Fund. As adopted by
+sections 106 and 134 of the Continuing Appropriations Resolution, 2009, approved September
+30, 2008 (Pub. L. 110-329), and further extended by Congress through March 11, 2009, the
+Fiscal Year 2009 Budget Request Act of 2008, D.C. Act 17-409, effective June 18, 2008,
+requested an appropriation of $265,000,000 for the Lottery Fund, of which $11,225,000 was
+allocated for the lottery contract. See, e.g., Volume 3, at H-13, of the “FY 2009 Proposed
+Budget and Financial Plan” that the District submitted to Congress on June 9, 2008. Expenses
+for the lottery contract have been routinely included in the Lottery Board’s annual budgets in
+prior years as well. For fiscal year 2008, the Consolidated Appropriations Act, 2008 (Public
+Law 110-161, 121 Stat. 1844) shows that Congress appropriated $266,700,000 for the Lottery
+Fund, of which $11,312,500.00 was allocated for the lottery contract. See, e.g., Volume 2B, H-
+15, of the District’s “FY 2008 Proposed Budget and Financial Plan” submitted to Congress on
+June 7, 2007.
+
+       The District cites in further support an opinion by the United States General Accounting
+Office, dated September 29, 2000, where the GAO held that the District violated the Anti-
+Deficiency Act by (1) obligating more than Congress appropriated and (2) by using the District
+of Columbia Fund to pay the District of Columbia Health and Hospitals Public Benefit
+                                               -6-            W2I Venture, CAB Nos. P-0796, P-0802
+
+
+
+Corporation liabilities in excess of the resources ultimately realized. The GAO stated: “The
+Anti-Deficiency Act . . . prohibits District government officers and employees from making
+obligations or expenditures in excess of amounts available in an appropriation or fund unless
+they are otherwise authorized to do so by law. 31 U.S.C. sec. 1341 (1941). Only an
+appropriation may authorize an obligation and expenditure from the [District’s] General Fund or
+any other fund.” B-285725, at 6. The reference to “the General Fund or any other fund” shows
+that every dollar of District government money that is obligated or spent must first be
+appropriated by Congress, unless Congress has otherwise authorized the obligation or
+expenditure. The District cites the following examples of the latter kind of authorizations, which
+do not entail specific numerical appropriations: (1) the acceptance and use of private gifts and
+donations, made permanent by Section 115 of the District of Columbia Appropriations Act,
+2003, approved February 20, 2003, Pub. L. 108-7, 117 Stat. 11, D.C. Code § 1-329.01 and (2)
+Section 446b of the Home Rule Act, made permanent by Section 808 of the District of Columbia
+Appropriations Act, 2009, which authorizes the District government to accept and use federal,
+private, and other grants received by the District government that are not reflected in the budget
+approved by Congress.
+
+         W2I argues that D.C. Code § 3-1311 (enacted in 1981) required an appropriation only for
+the first year of the Lottery’s operation. Section 3-1311 required the Lottery Board to submit to
+the Mayor a consolidated budget covering all anticipated income, expenses (including all start-up
+costs), and capital outlays of the Lottery “which budget shall show the net amount for which it
+requests an appropriation during its 1st year of operation.” The District responds that this
+provision is specific to the first budget of the Lottery Board and authorizes an appropriation not
+only for the Lottery Board’s expenses but also for the net proceeds of the lottery as start-up
+money to be credited to the Lottery Board Fund and that this does not mean that the Lottery
+Board needs no later appropriations. The District reasons that together with Congress’ first
+appropriation, Congress recognized the need for an appropriation to cover the obligation and
+expenditure of all lottery revenues and D.C. Code § 3-1311 illustrates that for the first year of
+Lottery Board operations. We agree with the District that this language means there might be
+appropriations to the Lottery Board beyond the revenues it generates, not that the revenues it
+generates are exempt from an appropriation.
+
+        In sum, under the proposed lottery contract with W2I, the District would expend funds to
+pay W2I for running the lottery system. This expenditure by the District would be an
+expenditure of appropriated funds. Accordingly, since the proposed lottery contract with W2I
+involved an expenditure of appropriated funds, the Mayor was required to submit the proposed
+lottery contract to the Council for approval pursuant to D.C. Code § 1-204.51. Once the Council
+voted to disapprove the contract, the contracting officer acted reasonably in cancelling RFP-1
+and in determining that the cancellation of RFP-1 was in the District’s best interests.
+
+        As an independent basis supporting the cancellation, Exhibit C to the District’s Agency
+Report, which compares the differences between RFP-1 and RFP-2, identifies a significant
+number of material differences between RFP-1 and RFP-2 that affect the pricing and delivery of
+the services. The contracting officer had a compelling basis for cancelling RFP-1 on the basis of
+the changes reflected in RFP-2.
+                                               -7-           W2I Venture, CAB Nos. P-0796, P-0802
+
+
+
+
+                                        CONCLUSION
+
+       We have carefully considered the arguments raised by W2I with respect to the
+cancellation of RFP-1 but conclude that the contracting officer had cogent and compelling bases
+for cancelling the solicitation because of the Council’s disapproval of the proposed contract to
+W2I and the substantial changes made to the solicitation in the formulation of RFP-2. It was also
+proper for the contracting officer to begin the procurement process under RFP-2 even though
+W2I had protested the cancellation of RFP-1. Accordingly, we deny the captioned protests.
+
+       SO ORDERED.
+
+DATED: August 17, 2009                               /s/ Jonathan D. Zischkau
+                                                     JONATHAN D. ZISCHKAU
+                                                     Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+

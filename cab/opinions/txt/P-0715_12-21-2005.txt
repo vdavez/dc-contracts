@@ -1,0 +1,136 @@
+                          GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                             CONTRACT APPEALS BOARD
+
+PROTEST OF:
+
+TRAFFIC LINES, INC.                                     )
+                                                        )        CAB No. P-0715
+Under Solicitation IFB                                  )
+No. POKA-2005-B-0011-CR                                 )
+
+       For the Protester, Traffic Lines, Inc.: John W. Wopat, III, Esq., Efros & Wopat. For the
+Intervenor, D.C. Lines, Inc.: Robert A. Klimek, Jr., Esq. For the Government: Howard S.
+Schwartz, Esq., and Talia S. Cohen, Esq., Assistant Attorneys General, District of Columbia
+Government.
+
+       Opinion by Administrative Judge Warren J. Nash, with Chief Administrative Judge
+Jonathan D. Zischkau, concurring.
+
+                                              OPINION
+                                     (Lexis-Nexis Filing ID 7698144)
+
+
+        Protester Traffic Lines, Inc., alleged in its protest that the District had improperly rejected
+Traffic’s bid as late. The District’s Agency Report and the Intervenor’s brief assert that the
+Board must reject Traffic’s bid because the bid was late. The Board agrees that the District
+properly rejected Traffic’s bid as late.
+
+                                          BACKGROUND
+
+        The District of Columbia Department of Transportation (“DDOT”), Office of
+Administrative Services, Construction Procurement Support Branch, issued WASA issued
+Solicitation No. POKA-2005-B-0011-CR for FY 05 Federal Aid Hot Thermoplastic Pavement
+Marking. On August 25, 2005, DDOT issued an amendment changing the bid opening date to
+August 29, 2005. The bid opening time remained at 2:00 p.m. (AR Ex. 1). The bid form
+required bidders to submit their bids to the Department of Transportation, Office of
+Administrative Services, Construction Procurement Support Branch, 2000 14th Street, NW, 3rd
+Floor, Washington, DC, 20009. (AR Ex. 1). The IFB also required bidders to mark the bid in
+the following manner:
+
+       Mark envelope in upper left corner as follows:
+       Invitation No.: POKA-2005-B-0011-CR
+       To be opened (date):
+       At 2:00 P.M.
+
+      According to the protester, DHL Express delivered on August 29, 2005, at 10:21 A.M., a
+package to Temisha Lassiter, Customer Services Representative, Traffic Services
+Administration, DDOT. The package was addressed to the “Government of the District of
+                                               2
+                                                                          Traffic Lines, Inc., CAB No. P-0715
+
+
+Columbia, 2000 14th St., N.W. 3rd floor, Washington, DC 20009, Contracting and Procurement,
+202-698-3602. (AR Ex. 2). There were no markings on the package to indicate that the package
+included a bid.
+
+        Ms. Lassiter placed the package in the Field Operations Box so that the package could be
+sent to Mr. Frank Pacifico. (AR Ex. 5). At approximately 3:05 p.m., Mr. Pacifico came to
+retrieve his mail. Mr. Pacifico told Ms. Lassiter that the package should have been delivered to
+the bid room. (AR Ex. 5). At that point, Ms. Lassiter took the package to the bid room at
+approximately 3:17 P.M. (AR Ex. 3). On September 21, 2005, the Contracting Officer notified
+Traffic by letter that the District had rejected Traffic’s bid because the bid was late. On
+September 30, 2005, Traffic filed its protest. D.C. Line, Inc., intervened in the protest on
+October 19, 2005.
+                                             DISCUSSION
+
+         Traffic asserts in its protest that the bid was timely delivered to the required address, and
+that it has no control over the internal routing of mail at the building. Traffic also asserts that it
+could not determine whether the low bidder, D.C. Line, Inc., truly exists. Because we conclude
+that Traffic’s bid was untimely delivered, there is no need to address Traffic’s assertion
+regarding the existence of the low bidder.
+
+      The District asserts that the protester’s delivery vendor, DHL Express, delivered the
+package to the address noted on the package, and that the package did not include the delivery
+markings set forth in the IFB.
+
+        D.C. Code § 2-303.04 governs procurement by competitive sealed bidding. Title 27,
+Chapter 15, sets forth the procurement regulations applicable to competitive sealed bidding.
+Regulations addressing receipt of bids are set forth at 27 DCMR § 1523.2 and regulations
+governing consideration of a late bid for award are set forth at 27 DCMR § 1523.5. In pertinent
+part, these regulations provide:
+       1523.2 Any bid received at the place designated in the solicitation after the time and date
+              set for receipt of bids shall be considered a "late" bid unless it was received prior
+              to the contract award and either of the following applies:
+               (a) It was sent by registered or certified mail not later than five (5) calendar days
+               before the bid receipt date specified; or
+               (b) It was sent by mail (or telegram if authorized) and the contracting officer
+               determines that the late receipt was due solely to mishandling by the District after
+               receipt at the location specified in the IFB.
+
+        As a general rule, bidders are responsible for delivering their bids to the proper place at
+the proper time. A late bid delivered by a commercial carrier may not be considered where it is
+late due to the failure of the bidder to fulfill its responsibility for ensuring timely delivery to the
+designated location. If the bidder did not significantly contribute to the late delivery, and the
+sole or paramount cause of the bid’s late receipt in the bid opening room is due to government
+mishandling, the bid should be considered timely submitted. See W.S. Jenks & Son, CAB No. P-
+                                                      3
+                                                                                     Traffic Lines, Inc., CAB No. P-0715
+
+
+0644, Aug. 14, 2001, 49 D.C. Reg. 3374, and Quest Diagnostics, CAB No. P-0480, July 9, 1997,
+44 D.C. Reg. 6849.
+
+        Here, Traffic significantly contributed to the late delivery by failing to properly address
+the envelope containing its bid and by failing to deposit the bid at the location indicated in the
+solicitation (“Government of the District of Columbia” rather than “Department of
+Transportation, Office of Administrative Services, Construction Procurement Support Branch,
+2000 14th Street, NW, 3rd Floor, Washington, DC 20009”).1 Traffic also failed to indicate the
+Invitation number and bid opening date and time on the upper left corner of the envelope.
+
+        Accordingly, the contracting officer did not violate law or regulations in concluding that
+Traffic’s bid was untimely. We deny the protest.
+
+
+         SO ORDERED.
+
+
+DATE:             December 21, 2005                    /s/ Warren J. Nash
+                                                      WARREN J. NASH
+                                                      Administrative Judge
+
+
+CONCURRING:
+
+/s/ Jonathan D. Zischkau
+JONATHAN D. ZISCHKAU
+Chief Administrative Judge
+
+
+
+
+1
+  We note that the address set forth on the bid form at the bottom of the page in the instructions for marking the bid
+envelope (“Address as follows”) does not contain the line “Department of Transportation” that is included in items 1
+and 3 in the instructions at the top of the Title Page (MD Ex. 1). However, Traffic did not mark its bid with either
+variation of the address.
+

@@ -1,0 +1,537 @@
+                     GOVERNMENT OF THE DISTRICT OF COLUMBIA
+                           CONTRACT APPEALS BOARD
+
+
+
+PROTEST OF:
+
+WATKINS SECURITY AGENCY OF D.C., INC.                          )
+                                                               )      CAB Nos. P-0711, P-0712
+Under Solicitation No. POAM-2004-R-0015-DW                     )        (Consolidated)
+
+        For the Protester: Dirk Haire, Esq., and Stuart Turner, Esq., Holland & Knight LLP. For the
+District of Columbia Government: Howard Schwartz, Esq., Senior Assistant Attorney General, and Jon
+N. Kulish, Esq., Assistant Attorney General.
+
+      Opinion by Chief Administrative Judge Jonathan D. Zischkau, with Administrative Judge
+Warren J. Nash, concurring.
+
+                                              OPINION
+                                       LexisNexis Filing ID 7700632
+
+         Watkins Security Agency of D.C., Inc., has protested the award of four aggregate award groups
+for city-wide security services to Hawk One Security, Inc. Watkins attacks the award on a number of
+fronts, including that the contracting officer and technical evaluation panel improperly evaluated and
+scored Watkins’ and Hawk One’s proposals, that the evaluation and selection was not properly
+documented, and that Hawk One should not have received a 9 percent preference under the then-
+applicable Equal Opportunity for Local, Small, and Disadvantaged Business Enterprises Act of 1998,
+D.C. Law 12-268, as amended. After briefing by the parties, Watkins’ main challenge to the evaluation
+focuses on the experience and past performance factor within the technical evaluation. During
+evaluation of the initial proposals, the three technical evaluation panel members gave Watkins
+individual past performance scores each of 34, 34, and 30 out of a total possible score of 40 but during
+their initial consensus evaluation, they came up with an average score of 25 for Watkins. The
+consensus report reflects the scoring but does not provide any explanation for the scoring except for the
+individual evaluation rating forms. The contracting officer made her own independent evaluation of the
+proposals, identifying strengths and weaknesses, and agreed with the scoring found in the consensus
+report for the initial proposals. We have reviewed the evaluation materials and the contracting officer’s
+assessment and conclude that the evaluation and scoring is supported by the record. Moreover, this
+initial evaluation and scoring was superseded by the subsequent evaluation and scoring done in
+connection with the best and final offers (“BAFOs”) submitted by the offerors. We find that Watkins
+was not treated unequally during evaluation and that the contracting officer adequately documented the
+evaluation and selection. We have considered each of Watkins’ grounds of protest but conclude that
+the contracting officer did not violate either the law or the terms of the solicitation. Accordingly, we
+deny the consolidated protests.
+
+                                          BACKGROUND
+
+         On August 4, 2004, the District of Columbia Office of Contracting and Procurement (“OCP”)
+issued Request for Proposals No. POAM-2004-R-0015-DW. The District issued this solicitation to
+satisfy its requirement for city-wide security services at about 100 District-owned and leased facilities
+                                              -2-                 Watkins Security, CAB Nos. P-0711, P-0712
+
+
+that are open to the public. OCP has managed the solicitation, award, and administration of the contract
+for the Protective Services Division (“PSD”) of the District. The solicitation, issued in the set-aside
+market, called for offers on four separate Aggregate Award Groups and allowed award of each group to
+a different offeror or to any combination of offerors. The solicitation allowed the award of all four
+groups to a single contractor. (Agency Report (“AR”), at 3; AR Ex. 1 (Solicitation §§ L.1.1 (page 47)
+and M.1 (pages 55-56); AR Ex. 19 (Contracting Officer’s Business Clearance Memorandum (“BCM”)
+(pages 5-6)); AR Ex. 21 (Declaration of Karen Hester, Contracting Officer ¶ 3).
+
+        Among other evaluation criteria, the offerors were to be scored separately for each of award
+groups 1, 2, 3 and 4, as specified by solicitation section M.1.1, as amended by Amendment 1. (AR Exs.
+1 (page 56), 3 (pages 18-19), 19 (§ 4.1, page 5), 21 (¶ 6)). The following were the evaluation factors
+prescribed by the solicitation: technical factors worth a maximum of 60 points; price factors worth a
+maximum of 40 points; and LSDBE preference factors worth a maximum of 12 points. (AR Ex. 1
+(page 58)). The technical criteria consisted of Experience and Past Performance (maximum of 40
+points) and Management Capability (maximum of 20 points). The price evaluation was mathematically
+determined, with the lowest price offeror receiving the maximum 40 points, and other offerors receiving
+a proportionately lower total score.
+
+       For the Experience and Past Performance technical factor, Section L.3.1.1 states:
+
+       Offerors shall submit a technical plan that will detail its understanding of the
+       requirements and its approach to successfully provide services to satisfy the District’s
+       requirements. Offerors shall detail its experience with providing security services as
+       required in the RFP including abstracts of experience that would substantiate their
+       qualifications and capabilities to perform the services required by the scope of work.
+
+Section L.3.1.2 states:
+
+       Offerors shall submit five (5) references from current or prior customers, using the Past
+       Performance Evaluation Form, Attachment J.9. Offerors shall assure that current and
+       past performance customers listed in the proposal complete and sign the Performance
+       Evaluation Form and return them with the proposal. The District reserves the right to
+       contact known present customers of the Offeror, or past customers in the last three (3)
+       years NOT provided as a reference, and the information received may be used in the
+       evaluation of past performance. In addition, offerors shall provide the following
+       information for each reference submitted: name and location of the project, brief
+       description of the project, contract number, original and final contract value, start and
+       completion date and email, fax and telephone number of the person providing the
+       reference.
+
+     Regarding the technical factor for Management Capability, Section L.3.2 (“Section 2 –
+Management Plan”) provides:
+
+       L.3.2.1 The Offeror shall submit a management plan detailing its organizational
+       structure and quality assurance mechanisms including financial and accounting controls.
+       This section shall contain all pertinent information relating to the Offeror's organization,
+                                              -3-                  Watkins Security, CAB Nos. P-0711, P-0712
+
+
+       including resumes of personnel to be assigned and the percentage of time that each will
+       devote to the contract.
+
+       L.3.2.2 Each proposal shall identify the aggregate group(s) (Attachment J.1), for which
+       the offeror wishes to be considered. Each group shall be listed in the order of priority in
+       which the offeror wishes to be considered.
+
+       L.3.2.3 This section shall also include the following information: (a) Location of
+       headquarters; (b) A chart of the offeror's internal organization which shows the number
+       of full-time personnel and their level of responsibility within that organization; and (c)
+       The name of the person who manages the firm and makes policy.
+
+         Eleven offerors responded to the solicitation by submitting proposals. Five of the proposals
+were not evaluated, having been disqualified because either they were submitted later than the
+September 7, 2004 due date or were submitted by companies not certified for the set-aside market.
+Among the offerors entering the evaluation and selection process were Hawk One and Watkins. (AR,
+at 3-4; AR Ex. 19 (pages 5-6); AR Ex. 21 (¶¶ 3, 8)). The District commenced with technical and price
+evaluation of the remaining six proposals the week after the submission date for offers. OCP performed
+the first evaluation of initial offers with the assistance of a technical evaluation panel (“TEP”) from the
+Protective Services Division (“PSD”) of the D.C. Office of Property Management (“OPM”) and
+cost/price analysts from OCP. This evaluation considered both technical and price factors.
+
+        The contracting officer held an orientation meeting with the TEP members on September 14,
+2004, and provided them with the proposals and a “Proposal Evaluation Guidelines and Instructions”
+document to assist them in their evaluation. (AR Ex. 19; AR Ex.19(a); AR at 6). The Guidelines
+included rating sheets for the two technical factors, Management Capability and Experience and Past
+Performance, but these rating sheets did not provide for scoring at any subfactor level of detail.
+Therefore, the TEP members developed consensus subfactor ratings for the two technical factors,
+agreeing on subfactors and assigned corresponding point values for each subfactor, such that the total of
+the maximum subfactor points equaled the maximum number of points for the corresponding factor.
+The TEP members took the subfactors that they incorporated in the rating worksheet (see AR Ex. 22,
+Attachment), from the Proposal Evaluation Guidelines and Instructions which in turn was based on
+section L.3 of the solicitation. (AR at 11-12; AR Ex. 22, Declaration of Chief Bracy, PSD, TEP Panel
+Chairman). According to the TEP panel chairman, the TEP members individually used this subfactor
+rating worksheet to score each offeror’s initial proposal (as well as the subsequent BAFO). (AR at 12).
+
+       The TEP members performed individual evaluations of the initial proposals. Each member used
+the subfactors and subfactor point values as guides to arrive at a total numerical score for each factor
+and a total technical score for both factors. Each also provided narrative ratings and evaluation
+comments on the strengths and weaknesses of each proposal. The TEP provided an initial “Technical
+Evaluation Summary Report” to the contracting officer on October 6, 2004. The record contains a
+“Consensus Report” dated October 4, 2004, signed by the TEP members and providing in spreadsheet
+form consensus evaluation scores for the six offerors being evaluated. (AR Ex. 19(b)). Hawk One
+received a consensus score of 35 for the Experience and Past Performance factor and 17.5 for the
+Management Capability factor, for a total consensus technical score of 52.5 (out of 60). Watkins
+received a consensus score of 25 for the Experience and Past Performance factor and 20 for the
+                                              -4-                 Watkins Security, CAB Nos. P-0711, P-0712
+
+
+Management Capability factor, for a total consensus technical score of 45 (out of 60). The other 4
+offerors total technical scores were lower than the totals for Hawk One and Watkins.
+
+        After reviewing the report, the contracting officer re-directed the TEP “to clarify some of the
+narratives and evaluate each Offeror’s proposal strictly against each criteria in the solicitation and to
+provide evaluator narratives detailing strengths and weaknesses for each evaluation factor.” (AR Ex.
+19, at 8). The TEP resumed their technical evaluations of the proposals and prepared individual
+evaluations on rating forms that are dated for the most part as of October 14 and 15, 2004. (AR Ex. 11).
+One evaluator’s rating sheets for Watkins show scores of 34 for Experience and Past Performance and
+17.5 for Management Capability, for a total of 51.5 out of 60 for the technical evaluation. Another
+evaluator’s rating sheets for Watkins show scores of 30 for Experience and Past Performance and 15 for
+Management Capability, for a total of 45 out of 60 for the technical evaluation. The third evaluator’s
+rating sheets for Watkins show scores of 34 for Experience and Past Performance and 18 for
+Management Capability, for a total of 52 out of 60 for the technical evaluation. For Hawk One, the
+rating sheets of the three TEP members show total technical ratings of 56, 53, and 49, out of the 60
+maximum possible. (AR Ex. 11).
+
+       On October 15, 2004, the TEP members again met to discuss their evaluations and ratings and
+then determined a consensus evaluation for the six offerors. (AR Ex. 22, ¶ 5). The results are
+documented in a memorandum dated October 15, 2004, addressed to the contracting officer (Karen
+Hester) from the TEP chairman (Arnold Bracey). (AR Ex. 19(b)(1)). The one-page memorandum
+provides in relevant part:
+
+       Please find the following technical evaluations for your review. Each proposal was
+       evaluated with strict conformity to the evaluation criteria in Section M.5 of the RFP.
+       The Committee members evaluated and scored each proposal separately and then
+       developed a consensus score.
+
+       The Committee utilized an objective scoring system strictly adhering to requirements
+       and criteria listed in section L of the solicitation to develop the consensus score.
+
+       Using the above referenced scoring system the proposals scored as follows:
+
+       Hawk One        52.5 (Good)*            All Agg Grps
+       Watkins         45 (Acceptable)*        All Agg Grps
+       ....
+
+       * It is the Committee’s belief that these proposals can be easily corrected to address
+       weaknesses in the BAFO process
+
+       The Committee also included the individual evaluations with comments.
+
+It appears that the individual evaluation sheets were attached to this memorandum. Two of the three
+TEP members transferred individual factor scores and the total technical score to the factor rating sheets
+that the contracting officer had provided in the Proposal Evaluation Guidelines and Instructions, and
+included narratives of strengths and weaknesses on the factor rating sheets. They submitted to the
+                                              -5-                 Watkins Security, CAB Nos. P-0711, P-0712
+
+
+contracting officer the factor rating sheets, which included only the total numerical scores and narrative
+descriptions of strengths and weaknesses for each factor. These two members did not submit their
+subfactor rating sheets with the subfactor numerical scores. The third member submitted the factor
+rating sheets with the numerical scores but also submitted his subfactor rating sheets containing all of
+his numerical factor and subfactor ratings and narrative ratings. (AR at 12; AR Ex. 22, ¶ 4; AR Exs. 11,
+12).
+
+         The contracting officer received the consensus report and evaluation sheets on October 19,
+2005. (AR Ex. 19, BCM ¶ 5.2, at 8). After the initial technical evaluations were made by the TEP and
+the price evaluation was completed by the OCP analysts, the contracting officer made an independent
+evaluation of the proposals. (AR Ex. 21, ¶ 5, 8-11; AR Ex. 19, BCM, at 8-15). The contracting officer
+noted, inter alia, that Hawk One presented an excellent understanding of the District’s requirements,
+that the proposal provided detailed information in response to the technical requirements of the scope of
+work, that Hawk One showed security services experience and submitted four of the required five
+references that were verified by OCP. The fifth reference related to its performance of security services
+for the District’s Protective Services Division of OPM (covering over half of the facilities for which the
+District was seeking security services under this solicitation). Hawk One had submitted a reference
+form for the city-wide security services predecessor contracts to the contracting officer’s technical
+representative, who happened to be Arnold Bracy, the TEP chairman for this solicitation, and Chief of
+the Protective Services Division. He states in an affidavit that Hawk One had timely requested by fax
+that he prepare a performance evaluation of Hawk One which it would include in its proposal as one of
+the five references. Bracy states:
+
+       For various reasons, I did not complete the evaluation form by the time the TEP met to
+       evaluate initial proposals. I believed, and still believe, that Hawk One had requested the
+       evaluation in a timely manner and should not be penalized. Therefore, I provided oral
+       reports of Hawk One’s good performance to the other TEP members when we
+       performed the evaluations of the initial offers and to the Contracting Officer when she
+       was performing her evaluation. . . .
+
+(AR Ex. 29 ¶ 4). Bracy further states in his affidavit that he completed the past performance reference
+form for Hawk One on October 29, 2004.
+
+        The contracting officer’s independent evaluation of Watkins’ proposal noted that Watkins
+presented an “acceptable understanding” of the District’s requirements, demonstrated capability with
+projects of similar size and scope with an “impressive past experience” that included the entire D.C.
+Public School System and two other contracts. The contracting officer noted that Watkins had
+submitted 3 of the required 5 references and that two references were verified by OCP while the
+reference from DCPS had not been verified. (AR Ex. 19, BCM, at 9). The contracting officer provides
+additionally in her assessment:
+
+       Major requirements of the security program were adequately addressed in the proposal,
+       including management philosophy, recruitment and quality assurance. However, the
+       proposal does not address the 16 hour first aid/CPR requirement or the 16 hour
+       supervisory training requirement.
+                                              -6-                  Watkins Security, CAB Nos. P-0711, P-0712
+
+
+       The evaluation committee rated Watkins’ proposal as “Acceptable”. Overall the
+       Contracting Officer concurs with the findings of the evaluation committee.
+
+(AR Ex. 19, BCM, at 10).
+
+         The contracting officer, in her Business Clearance Memorandum, reviewed the price analysis of
+the initial proposals, in which Hawk One received scores for the aggregate groups of 39, 39.3, 31, and
+39.4, while Watkins received scores of 37, 37, 30, and 37. (AR Ex. 19, BCM, at 13-15). The
+contracting officer ranked the offerors according to highest overall score to lowest, for purposes of the
+competitive range determination, and Hawk One ranked first followed by Watkins in second place.
+
+       For preference points under the LSDBE Act, Hawk One received 9 points and Watkins received
+6 points. (AR Ex. 19, BCM, at 8). At the time it submitted its proposal and supporting documents,
+Hawk One possessed a valid, current certification from the District’s Local Business Opportunity
+Commission (“LBOC”) that it was a Local Business Enterprise (“LBE”); a Small Business Enterprise
+(“SBE”); a Disadvantaged Business Enterprise (“DBE”); and a business located in a Development
+Enterprise Zone (“DEZ”). The certification was valid through June 24, 2005. (AR Ex. 20). Hawk One
+submitted the certification with its proposal and, in the proposal, identified its business address as 3172
+Martin Luther King Avenue, S.E., Washington D.C. 20032, the same address used by the LBOC in its
+above certification. (AR Ex. 6 (page 18); AR Ex. 20). Based upon the LBOC certification, the
+contracting officer awarded Hawk One nine LSDBE preference points, consisting of two points for
+DEZ status; four points for LBE status; and three points for DBE status. (AR Ex. 19 (pages 8, 25)).
+
+         In a memorandum to the contracting officer dated November 15, 2004, submitted as an
+addendum to the October 15 memorandum consensus report, the TEP chairman stated that the TEP’s
+initial scores “also represented the order of the aggregate group we felt they [the offerors] were best
+qualified for. . . .” (AR Ex. 19(b), at 2). The list showed Hawk One with aggregate group I, Watkins
+with group II, and two other offerors with groups III and IV.
+
+        Written discussions were conducted with the offerors in the competitive range. The contracting
+officer requested BAFOs from the offerors by letters dated November 23, 2004. The letters requested
+specific responses to questions posed to each offeror. In the letter to Watkins, one of the questions
+reads:
+
+       Offeror submitted three of the five references from current or prior customers, using the
+       Past Performance Evaluation Form as required by Paragraph L.3.1.2. If the Offeror has
+       no other references to submit please so state.
+
+(AR Ex. 7). Hawk One and Watkins submitted BAFOs by the December 3, 2004 deadline.
+
+       Upon receiving the BAFOs and accompanying information from the offerors, each TEP member
+individually re-evaluated the technical proposals in light of the new information in the BAFOs. (AR
+Ex. 12). The TEP members then met, discussed the evaluations, and arrived at a consensus final
+evaluation, memorialized in a memorandum dated December 16, 2004, that the TEP submitted to the
+contracting officer. (AR Ex. 19(f)(1); AR Ex. 22, ¶ 5; AR Ex. 19). The contracting officer summarized
+the TEP’s evaluation of the BAFOs together with the initial proposals as follows:
+                                             -7-                  Watkins Security, CAB Nos. P-0711, P-0712
+
+
+
+
+       The [TEP’s] initial scores provided the baseline scores upon which the BAFO technical
+       proposals were evaluated. Upon evaluation of the BAFO submissions, the Panel
+       adjusted up or down or left intact the baseline scores. Although adjustments were made
+       to the scores of four (4) Offerors after evaluation of the BAFO submission, the ranking
+       of the Offerors remained the same as it was after the initial evaluation. . . .
+
+(AR Ex. 19, BCM, at 22). The contracting officer summarized the TEP’s BAFO evaluation for each
+offeror, noting that Hawk One’s technical score increased by one point and its adjectival rating
+remained “good.” For Watkins, the summary provided as follows:
+
+       One panel member noted that the Watkins . . . BAFO did not adequately describe its
+       supervisory curriculum and that it was confusing. Two additional references were
+       submitted that rated the firm as outstanding. Past performance evaluation form from
+       [customer] did not include the contract cost and period of performance. The panel
+       increased the Offeror’s technical score by five (5) points which raised the rating from
+       “acceptable” to “good.”
+
+(AR Ex. 19, BCM, at 22-23).
+
+       In her independent assessment of the BAFO submissions, the contracting officer indicated that
+Hawk One’s weaknesses in its initial proposal were addressed in the BAFO and that she agreed with the
+TEP assessment that the proposal was “good.” The contracting officer similarly indicated that
+Watkins’s BAFO had “addressed all questions raised by the District” and that she agreed with the
+TEP’s rating of Watkins’ proposal as “good.” (AR Ex. 19, BCM, at 23-24).
+
+       The contracting officer received the price analysis report in early January 2005. Based upon the
+technical evaluations, price evaluations, and preference points awarded, the contracting officer
+concluded in her source selection decision to award all four aggregate groups to Hawk One because
+Hawk One was the highest ranked offeror under each award group. In a table listing the scoring data,
+for aggregate group 1, Hawk One had a technical score of 53.5, a price score of 39, and preference
+points of 9, for a total of 101.5 points. Watkins had a technical score of 50, a price score of 38.9,
+preference points of 6, for a total of 94.9 points. The other three aggregate groups had nearly identical
+scoring differentials. (AR Ex. 19, BCM, at 25). The contracting officer determined that Hawk One was
+a responsible contractor, with the resources, experience and financial capability to perform the
+requirements of all groups and to comply with the proposed performance schedules for the four groups,
+considering all existing commercial and governmental business. (AR Ex. 21 ¶ 12; AR Ex. 19, BCM, at
+26; AR Ex. 19(g)).
+
+       From February 7, 2005, when the contracting officer issued the recommendation for award to
+Hawk One, until award of the contract to Hawk One on May 16, 2005, OCP was awaiting approval of
+the award recommendation by the District of Columbia Council. OCP prepared a recommendation for
+award for review by the Council, forwarded the recommendation, and awaited action by the Council
+and other officials that were involved in the recommended-approval action prior to its submission to the
+Council. By letter on May 13, 2005, the Council informed OCP that it was authorized to award the
+contract to Hawk One, because, on May 9, 2005, the award had been “deemed approved by virtue of the
+                                              -8-                 Watkins Security, CAB Nos. P-0711, P-0712
+
+
+Council having taken no action to disapprove it.” During this extended pre-award period, OCP did not
+reopen discussions or negotiations with Hawk One or any other offeror after the source selection was
+made. (AR Ex. 13; AR Ex. 21, ¶¶ 13, 14).
+
+         The contracting officer conducted a debriefing for Watkins on August 3, 2005, having received
+notice from OCP’s general counsel on July 25, 2005, of Watkins’ request for debriefing. Watkins states
+that it requested the debriefing on May 18, 2005, a day after it received notice of the award to Hawk
+One. During the debriefing, Watkins was advised that it was the second-highest ranked offeror, that
+Hawk One’s price was slightly less than Watkins, and that the point totals were “very close.” (Protest,
+CAB No. P-0711, at 5). There was a lengthy discussion of attempts by the contracting officer’s staff to
+verify the past performance evaluation of Watkins work on the then-continuing D.C. Public Schools
+(“DCPS”) security contract though the parties disagree as to what was said.
+
+        On August 17, 2005, Watkins filed its first protest, docketed as CAB No. P-0711. In its protest,
+Watkins alleges that (1) the technical evaluation of Watkins’ and Hawk One’s proposals was irrational
+and inconsistent with the solicitation’s evaluation criteria, and (2) Hawk One was not financially
+responsible and was ineligible for award. Watkins later withdrew its second count. Regarding the
+technical evaluation, Watkins contends that it was improperly downgraded due to the inability of the
+evaluators to obtain telephone confirmation from the author of the DCPS past performance evaluation
+of Watkins. In addition, Watkins states that it was wrongly downgraded for an allegedly deficient
+supervisory curriculum. In its protest, Watkins states that it received a redacted copy of the contracting
+officer’s Business Clearance Memorandum on August 13, 2005. On August 26, 2005, Watkins filed its
+second protest, docketed as CAB No. P-0712, developing in more detail its attack on the technical
+evaluation of Hawk One and Watkins, and raising a third count challenging the award of 9 preference
+points to Hawk One.
+
+        The District filed its Agency Report on September 20, 2005, including a motion to dismiss
+certain grounds. Watkins filed comments on the Agency Report on September 29, 2005. The District
+responded to the comments on October 17, 2005, including an attachment with supplementary exhibits
+to the Agency Report. Watkins filed supplemental comments, including a motion styled as one for
+summary judgment, on October 26, 2005. In this submission, Watkins alleges that the drop of about 7.7
+points in the Experience and Past Performance factor from the individual evaluations to the TEP
+consensus evaluation is unsupported in the record and this point differential carried through to the final
+BAFO evaluations. The District responded on November 9, 2005, and Watkins filed a reply on
+November 10, 2005.
+
+                                            DISCUSSION
+
+       We exercise jurisdiction pursuant to D.C. Code § 2-309.03(a)(1).
+
+       Experience and Past Performance Evaluation
+
+         Watkins’ main challenge to the technical evaluation focuses on the Experience and Past
+Performance evaluation factor scoring. During evaluation of the initial proposals, the three technical
+evaluation panel members gave Watkins individual past performance scores each of 34, 34, and 30 out
+of a total possible score of 40 but during their consensus evaluation meeting, they came up with a score
+                                             -9-                  Watkins Security, CAB Nos. P-0711, P-0712
+
+
+of 25 for Watkins, reflecting a drop of about 7.7 points. Based on our review of the record, we see no
+basis for finding that the initial consensus evaluation was irrational or unsupported. The TEP members
+noted deficiencies in Watkins failure to provide two of the required five references. Although four
+references were included, one was so incomplete that it was discounted entirely. One reference gave an
+“outstanding” rating, another had an overall rating of “good” but with over half of the individual rating
+factors being only “satisfactory”, and the third valid performance form gave Watkins a “very good”
+overall rating. Hawk One’s four written past performance references were uniformly “very good” or
+“outstanding.” Although Chief Bracy should have completed his written evaluation of Hawk One so
+that it could have been submitted with Hawk One’s proposal, we do not find under the circumstances
+that it was improper for him to provide an oral assessment of Hawk One’s performance to the other
+TEP members during the initial proposal consensus meeting. The contracting officer provided her own
+independent evaluation of the initial proposals which concisely described the strengths and weaknesses
+of each proposal. It is clear from the record that the subsequent BAFOs and re-evaluation of the
+proposals in light of the BAFOs led the TEP members to increase their rating of Watkins experience
+and past performance from 25 to 30 points, which no doubt took into account the newly submitted
+reference with an overall rating of “outstanding.” While Watkins total score for this evaluation factor
+was still a few points below the final evaluation score of Hawk One, we find adequate support in the
+record for the conclusion of the TEP that Hawk One’s experience and past performance was rated
+higher than Watkins’. Beyond simply one incomplete reference for Watkins (having an overall rating
+of “satisfactory”), there is support that the references, experience, and past performance of Hawk One
+were rated better than Watkins’. The contracting officer properly conducted her own independent
+evaluation of the proposals in light of the BAFOs and came to the same conclusion as the TEP with
+regard to the final technical evaluations.
+
+        Watkins contends that it learned of a downscoring of its past performance at the debriefing
+conducted by the contracting officer on August 3, 2005. The District responds that Watkins
+misunderstood the debriefing information and denies that such downscoring occurred. Watkins claims
+that the score for its proposal had been downgraded because of the contracting officer’s inability to
+contact the cognizant DCPS representative by telephone. The contracting officer states that OCP
+personnel had already received emailed confirmation of the DCPS rating, signed March 8, 2004, for
+performance prior to that date which Watkins had submitted with its proposal. (AR Ex. 5, pages 28-
+29). The contracting officer states that she did not reduce Watkins’ numerical score awarded by the
+TEP based upon this issue. Further, the TEP chairman states that he did not downgrade the Watkins
+score based upon lack of telephone confirmation of the DCPS reference and, from his recollection of
+TEP discussions, does not believe that the other TEP members had done so. None of the TEP members
+noted deficiencies for the DCPS rating, although two did mention that another of the required
+performance evaluations submitted by Watkins (AR Ex. 5, page 27) was incomplete, because it omitted
+information required on the form by solicitation section L.3.1.2. (AR Ex. 21, ¶ 15; AR Ex. 22, ¶ 7; AR
+Exs. 11, 12). We find no basis for concluding in the evaluation record that Watkins was downgraded
+for lack of telephone confirmation of the DCPS reference.
+
+        Watkins also argues that it has greater experience than Hawk One in performing large and
+complex security contracts and that Hawk One should have been scored lower than Watkins, not higher.
+We agree with the District that the record shows Hawk One had experience with large and complex
+security contracts. The work for the District government is reflected in the record and the contracting
+officer concluded that the past performance of a predecessor company, Eastern Shield, did not detract
+                                             - 10 -               Watkins Security, CAB Nos. P-0711, P-0712
+
+
+from this experience.
+
+       Management Capability Evaluation
+
+        Watkins argues that the District did not fairly evaluate Watkins’ and Hawk One’s proposals
+regarding the supervisory curriculum component of the management capability factor. Watkins had
+received 20 points under Management Capability covering all elements of this factor, both at the initial
+proposal stage as well as after BAFO evaluation. Watkins complains, however, that Hawk One should
+not have been as highly rated as Watkins because Hawk One’s supervisory curriculum consisted of only
+one paragraph in its proposal compared to the multi-page lesson plan summaries found in Watkins’
+BAFO. Although some of the evaluation materials seem to cite deficiencies in Watkins’ initial proposal
+and BAFO on this point, Watkins nonetheless was not downgraded in any way. Hawk One’s initial
+proposal submission, though far less detailed than Watkins’ BAFO materials, was apparently
+sufficiently stated to meet the specification requirement and receive appropriate credit for this one
+element of the overall management capability factor from the TEP and the contracting officer. We are
+not persuaded that the evaluation on this element of the management capability factor was unreasonable
+or demonstrated unequal treatment of the offerors.
+
+        Watkins also contends that Hawk One had a deficiency in its management section of the
+proposal after BAFO, namely that Hawk One had not submitted required resumes as part of its
+management plan. The requirement in solicitation section L.3.2.1 is for “resumes of personnel to be
+assigned and the percentage of time that each will devote to the contract.” The District agrees that the
+biographical data that Hawk One submitted with its proposal were not literally traditional resumes.
+(AR Ex. 6, at 92-99 of 104). The District contends that the Hawk One submission met the requirement
+for resumes and that the TEP and contracting officer properly so found. Hawk One did not cure this
+issue in its BAFO submission, but relied upon its original proposal biographies. The contracting officer
+did not consider the lack of resumes to be a deficiency that would require downgrading of the
+management section of Hawk One’s proposal from the good rating by the TEP. She determined that the
+biographies submitted by Hawk One contained the necessary information and thus served the same
+purpose as resumes. We conclude that the contracting officer did not violate the terms of the
+solicitation in concluding that the biographies submitted by Hawk One were the functional equivalent
+of the resumes required by the solicitation.
+
+       Documentation of the Technical Evaluation
+
+        Watkins argues that the technical evaluation was not adequately documented. Clearly, the
+October 15, 2004 consensus report for the initial proposals should have contained detailed narrative
+explaining the consensus evaluation of the TEP according to the evaluation factors set forth in the
+solicitation. Although the rather lean one-page consensus report fails to document the consensus
+evaluation including strengths and weaknesses, we find that the contracting officer’s detailed evaluation
+in the Business Clearance Memorandum, when considered with the evaluation rating sheets of the TEP,
+provide adequate documentation of the technical evaluation, both at the initial proposal evaluation stage
+as well as at the BAFO evaluation phase. Regarding the BAFO evaluation, we think the contracting
+officer should have recorded in her Business Clearance Memorandum more detail concerning her
+independent BAFO technical evaluation, including strengths and weaknesses, according to the
+evaluation factors. Nevertheless, when viewing the totality of the record, we conclude that the
+                                             - 11 -               Watkins Security, CAB Nos. P-0711, P-0712
+
+
+technical evaluation was adequately documented.
+
+        Watkins’ citation to the lack of documentation relating to the November 15, 2004 memorandum
+from Bracy is of little relevance. The memorandum does not, in our view, reflect a significant event in
+the evaluation of the proposals. In sum, we believe the evaluation documentation found in the record
+adequately documents the basis for the evaluations conducted by the TEP and the contracting officer.
+
+       LSDBE Preference Points awarded to Hawk One
+
+       The District has moved to dismiss this protest ground as untimely because Watkins knew of the
+underlying facts long before it filed this protest count on August 26, 2005. We agree with Watkins that
+the ground was timely filed because Watkins did not know that this issue prejudiced it until it received
+the Business Clearance Memorandum of the contracting officer.
+
+        On the merits, we conclude that the contracting officer did not err in awarding 9 points to Hawk
+One. There is no question that Hawk One was properly certified as of the date it submitted its proposal
+and therefore met the certification requirements for all of the LSDBE preferences, including the DEZ
+preference. It continued to be certified through the date of contract award. The fact that Hawk One’s
+certification was to expire approximately a month after award does not form a basis for negating the
+application of the preference points here.
+
+                                           CONCLUSION
+
+         Watkins has not demonstrated that the technical evaluation of Hawk One and itself violated law
+or the terms of the solicitation. We find that the record adequately supports the findings of the TEP and
+the contracting officer. The contracting officer properly made an independent and thorough evaluation
+of the proposals as supplemented by the BAFOs, and we find no error in either her ultimate rankings or
+in the source selection. We have carefully considered each of Watkins’ arguments, but conclude that
+the award should be sustained. Accordingly, for the reasons discussed above, Watkins’ consolidated
+protests are denied.
+
+       SO ORDERED.
+
+DATED: December 21, 2005                              /s/ Jonathan D. Zischkau
+                                                      JONATHAN D. ZISCHKAU
+                                                      Chief Administrative Judge
+
+CONCURRING:
+
+
+/s/ Warren J. Nash
+WARREN J. NASH
+Administrative Judge
+
