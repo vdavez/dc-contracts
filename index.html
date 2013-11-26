@@ -15,7 +15,7 @@
       var rdatestring = d[i].response_due_date;
       var rdate = new Date(rdatestring);
 	var vendor = d[i].vendor.replace("Determination & Findings ", "");
-        if (rdate > date) {
+        if (rdate >= date) {
           out += '<li><div class\="pending"><b>' + vendor + '-- </b><a href="http://app.ocp.dc.gov/intent_award/' + d[i].determinations_and_findings_link + '">' + d[i].description + '</a></div></li><p>';
       } else {
          out += '<li><div class\="past"><b>' + vendor + '-- </b><a href="http://app.ocp.dc.gov/intent_award/' + d[i].determinations_and_findings_link + '">' + d[i].description + '</a></div></li><p>';
