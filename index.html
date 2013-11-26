@@ -9,7 +9,7 @@
   $.getJSON('scrapers/solesource.json', function (d) {
     var out = "<ul>";
     var j = 1;
-    var date = new Date().format("mm/dd/yyyy");
+    var date = new Date().setHours(0,0,0,0);
 
     for (var i in d) {
       var rdatestring = d[i].response_due_date;
