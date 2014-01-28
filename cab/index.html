@@ -22,7 +22,7 @@ function get_results () {
 		fname = 'raw/' + row + '.json';
 		case_info = get_file_info (fname);
 		out = out + "<li>";
-		out = out + '<a href="' + case_info[1] + '" target="_blank">' + case_info[0] + '</a>';
+		out = out + case_info[0] + ' (<a href="' + case_info[1] + '" target="_blank">TXT</a>) (<a href="' + case_info[2] + '" target="_blank">PDF</a>)';
 		out = out + "</li>";
 	}
 	out = out + "</ul>";
@@ -40,6 +40,8 @@ function get_file_info (filename) {
   		f.push(data.description);
   		opinion_text = 'opinions/txt/' + data.case_number + '_' + data.date_filed.replace(/\//g,"-") + '.txt';
   		f.push(opinion_text);
+  		opinion_pdf = 'opinions/' + data.case_number + '_' + data.date_filed.replace(/\//g,"-") + '.pdf';
+  		f.push(opinion_pdf);
   	}
   });
   return f;
