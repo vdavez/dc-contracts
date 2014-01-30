@@ -1,5 +1,23 @@
 [
   {
+    "vendor": "Children\u0092s Alliance of Kansas  Determination & Findings ", 
+    "description": "The Government of the District of Columbia, Child and Family Services Agency (CFSA) is seeking a contractor to conduct PS-MAPP Certification Training.", 
+    "agency": "CFSA", 
+    "notice_date": " 1/29/2014", 
+    "contact": "cheryl.anderson@dc.gov nais.info@dc.gov", 
+    "response_due_date": "2/8/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_ChildrensAllianceofKansas.pdf"
+  }, 
+  {
+    "vendor": "Unity Health Care Inc  Determination & Findings ", 
+    "description": "The Government of the District of Columbia, Department of ", 
+    "agency": "Department of Corrections", 
+    "notice_date": " 1/29/2014", 
+    "contact": "Grace.alao@dc.gov nias.info@dc.gov", 
+    "response_due_date": "2/8/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_UnityHealthCare.pdf"
+  }, 
+  {
     "vendor": "MTS Medication Technologies  Determination & Findings ", 
     "description": "DOH is seeking a vendor to provide high-volume medication repackaging, dispensing, and inventory maintenance support. ", 
     "agency": "DOH", 
@@ -450,7 +468,6 @@
     "determinations_and_findings_link": ".\\D_F\\DF_RQ836750N.pdf"
   }, 
   {
->>>>>>> 3b9068ca6e0546267061a979f766d363ee811ee8
     "vendor": "Xerox State and Local Solutions, Inc.  Determination & Findings ", 
     "description": "The District of Columbia, on behalf of the Department of Motor Vehicles has a need to continue services awarded under the Ticket Processing contract for the period from January 3, 2014 through January 2, 2015.  These services are currently provided under contract number POKV-2006-C-0064. ", 
     "agency": "Department of Motor Vehicles ", 
