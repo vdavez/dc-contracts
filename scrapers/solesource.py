@@ -16,7 +16,7 @@ content = ss('div').filter('.contentContainer')
 # The table has a first row with headers. The second row and all subsequent rows are the contents.
 
 data =[]
-json_data = open('/scrapers/solesource.json','r+')
+json_data = open('scrapers/solesource.json','r+')
 d0 = json.load(json_data)
 
 # Loop through the rows
