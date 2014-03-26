@@ -57,7 +57,8 @@ for row in content.find('tr'):
 output = data + d0
 out = json.dumps(output, indent=2)
 
-mailhelper.maildata(out)
+if (data != []):
+  mailhelper.maildata(data)
 
 # And this will replace the existing JSON file with the modified one
 json_data.seek(0,0)
