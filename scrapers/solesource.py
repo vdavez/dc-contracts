@@ -59,6 +59,8 @@ out = json.dumps(output, indent=2)
 
 if (data != []):
   mailhelper.maildata(data)
+else:
+  mailhelper.maildata('test')
 
 # And this will replace the existing JSON file with the modified one
 json_data.seek(0,0)
