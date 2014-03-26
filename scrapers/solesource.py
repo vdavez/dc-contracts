@@ -5,6 +5,7 @@
 from pyquery import PyQuery as pq
 import json
 import re
+import mailhelper
 import os
 
 ss = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
@@ -55,6 +56,8 @@ for row in content.find('tr'):
 
 output = data + d0
 out = json.dumps(output, indent=2)
+
+mailhelper.maildata(out)
 
 # And this will replace the existing JSON file with the modified one
 json_data.seek(0,0)
