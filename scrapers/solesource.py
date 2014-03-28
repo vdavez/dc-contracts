@@ -7,6 +7,7 @@ import json
 import re
 import mailhelper
 import os
+from dftotext import dftotext as dft
 
 ss = pq(url="http://app.ocp.dc.gov/intent_award/intent_award.asp")
 
@@ -57,8 +58,14 @@ for row in content.find('tr'):
 output = data + d0
 out = json.dumps(output, indent=2)
 
+# Get the D&Fs 
+dfinfo = []
+for df in data:
+  dftext = dft("http://app.ocp.dc.gov/intent_award/" + str(df["determinations_and_findings_link"]))
+  dfinfo.append(dftext)
+
 if (data != []):
-  mailhelper.maildata(data)
+  mailhelper.maildata([data, dfinfo])
 
 # And this will replace the existing JSON file with the modified one
 json_data.seek(0,0)
