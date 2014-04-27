@@ -1,14 +1,10 @@
 from pyquery import PyQuery as pq
 import re
 import csv
-import time
 
 base_url=r'http://dclibrary.org/about/contractawards?page='
 
-out_file='dcps_contract_award'
-#OK to comment out next line. Appends num seconds since 1970 for unique file name
-out_file+=str(time.time()).split('.')[0]
-out_file+='.csv'
+out_file='dcps_contract_award.csv'
 
 page_num=0
 rows=[]
@@ -54,10 +50,26 @@ while True:
 		processPage(url)
 		page_num+=1
 
+#Find out which contracts we already have data for
+prev_scraped=[]
+#open in universal newline mode. Fixes problem with editing
+#in Excel and then saving
+with open(out_file, 'rU') as f:
+	reader=csv.reader(f)
+	for row in reader:
+		prev_scraped.append(row[0])
+
+
 #output rows to csv
-with open(out_file,'w') as f:
+with open(out_file,'a') as f:
 	row_writer=csv.writer(f).writerows
+	#Write headers
 	row_writer([['contract_award_data', 'published_date', 
 'department', 'cotr', 'amount', 'period', 'period_start', 'period_end', 'caption', 'more_info_pdf']])
-	row_writer(rows)
+	#write rows one at a time, checking to see if already scraped
+	for row in rows:
+		if row[0] not in prev_scraped:
+			row_writer([row])		
+
+	
 
