@@ -1,0 +1,83 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <!-- Bootstrap -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">
+  #solesourcebox {background: #F8F8F8}
+  .PENDING a {color:green}
+  .PAST a {color:red}
+</style>
+
+  </head>
+  <body>
+</head>
+<body>
+  <div class="container">
+<h1>Open Sourcing DC</h1>
+<h2>Sole Source Awards</h2>
+<p>Pursuant <a href="http://dccode.org/simple/sections/2-354.04.html">D.C. Code § 2-534.04</a>, the DC Government must publish a notice of intent to enter into a sole-source contract "at least 10 days prior to award" on the internet. The <a href="http://ocp.dc.gov">Office of Contracting and Procurement</a> makes the information available at the following link: <a href="http://app.ocp.dc.gov/intent_award/intent_award.asp">http://app.ocp.dc.gov/intent_award/intent_award.asp</a>.</p>
+<p>
+The following information is available on the site:</p>
+<ul>
+<li>Notice Date</li>
+<li>Response Due Date</li>
+<li>Caption and Description</li>
+<li>Vendor Name</li>
+<li>Agency</li>
+<li>Point of Contact</li>
+<li>Link to Determination and Findings</li>
+</ul>
+
+<p>But, it is not a permanent site, so once the contract is awarded, the info went away... But not anymore (since October 4, 2013 anyway)!</p>
+
+<p><a href="scrapers/solesource.json" target="_blank">Click here to download the JSON file</a></p>
+<p>Pending awards = Green; Past awards = Red</p>
+<hr/>
+<div id="solesourcebox">
+</div>
+</div>
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+   <!--Google Analytics until i figure something better out -->   
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46841105-2', 'vzvenyach.github.io');
+  ga('send', 'pageview');
+
+</script>
+<script>
+  $.getJSON('./data/ocp.json', function (d) {
+    var out = "<h2>Awards</h2><dl>";
+    var j = 1;
+    var date = new Date().setHours(0,0,0,0);
+
+    for (var i in d) {
+      var rdatestring = d[i].response_due_date;
+      var rdate = new Date(rdatestring);
+  var vendor = d[i].vendor.replace("Determination & Findings ", "");
+        if (rdate >= date) {
+          out += '<div class="pending"><dt>' + vendor + '</dt><dd><a href="http://app.ocp.dc.gov/intent_award/' + d[i].determinations_and_findings_link + '">' + d[i].description + '</a></dd></div><p>';
+      } else {
+         out += '<div class="past"><dt>' + vendor + '</dt><dd><a href="http://app.ocp.dc.gov/intent_award/' + d[i].determinations_and_findings_link + '">' + d[i].description + '</a></dd></div><p>';
+      }
+    }
+    out += '</dl>';
+    document.getElementById("solesourcebox").innerHTML=out;
+})
+</script>
+</body>
+</html>
