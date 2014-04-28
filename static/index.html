@@ -39,7 +39,7 @@ The following information is available on the site:</p>
 
 <p>But, it is not a permanent site, so once the contract is awarded, the info went away... But not anymore (since October 4, 2013 anyway)!</p>
 
-<p><a href="scrapers/solesource.json" target="_blank">Click here to download the JSON file</a></p>
+<p><a href="./data/solesource.json" target="_blank">Click here to download the JSON file</a></p>
 <p>Pending awards = Green; Past awards = Red</p>
 <hr/>
 <div id="solesourcebox">
@@ -60,7 +60,7 @@ The following information is available on the site:</p>
 
 </script>
 <script>
-  $.getJSON('./data/ocp.json', function (d) {
+  $.getJSON('./data/solesource.json', function (d) {
     var out = "<h2>Awards</h2><dl>";
     var j = 1;
     var date = new Date().setHours(0,0,0,0);

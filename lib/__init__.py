@@ -1,1 +1,1 @@
-__all__ = ['dftotext']
+__all__ = ['dftotext','mailhelper']
