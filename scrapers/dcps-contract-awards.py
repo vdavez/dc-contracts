@@ -25,11 +25,13 @@ def process_elem(elem):
 				textToAdd=mightMatch.group(1).replace('More Information','').rstrip()
 				textToAdd=re.sub('^\s*:\s*','',textToAdd)
 			cols.append(textToAdd)
-		link=s(elem).find('a[title*="More Information"]')
+		link=s(s(elem).find('a')[1])
 		if link:
 			href=link.attr('href')
 			if href[0]=='/':
 				href=u'http://dclibrary.org'+href
+			if len(href)==0:
+				href=u'null'
 			cols.append(href)
 		else:
 			cols.append(u'null')
