@@ -18,11 +18,12 @@ def process_elem(elem):
 	cols=[]
 	text=s(elem).text()
 	if 'Department' in text and 'Caption' in text:
-		for matcher in [r'\s+([^\s]+)\s+Published', r'Published\s+on\s+(.+)Department:',r'Department:\s+(.+)COTR', r'COTR:\s+(.+)Amount:',r'Amount:\s+(.+)Period',r'Period:\s+(.+)Caption:',r'Period:\s+(.+)\s+through',r'through(.+)Caption:',r'Caption:\s+(.+)']:
-			mightMatch=re.search(matcher,text)
+		for matcher in [r'(.*?)Published', r'.*?Published(.*?)Department',r'.*?Department(.*?)COTR', r'.*?COTR(.*?)Amount',r'.*?Amount(.*?)Period',r'.*?Period(.*?)Caption',r'.*?Caption(.*)']:
+			mightMatch=re.search(matcher,text,flags=re.DOTALL)
 			textToAdd=u'null'
 			if mightMatch and mightMatch.group(1):
-				textToAdd=mightMatch.group(1).replace('More Information','').strip().encode('utf-8')
+				textToAdd=mightMatch.group(1).replace('More Information','').rstrip()
+				textToAdd=re.sub('^\s*:\s*','',textToAdd)
 			cols.append(textToAdd)
 		link=s(elem).find('a[title*="More Information"]')
 		if link:
@@ -32,6 +33,11 @@ def process_elem(elem):
 			cols.append(href)
 		else:
 			cols.append(u'null')
+		#Simplify first column
+		cols[0]=re.sub('^.*?Number:?\s*?|^.*?Data:?\s*?','',cols[0])
+		#get rid of day of week in published date
+		cols[1]=re.sub('^.*?, ','',cols[1],flags=re.DOTALL)
+		cols=[col.encode('utf-8') for col in cols]
 		return cols
 
 def process_page(url):
@@ -73,7 +79,7 @@ with open(out_file,'a') as f:
 	row_writer=csv.writer(f).writerows
 	#Write headers
 	row_writer([['contract_award_data', 'published_date', 
-'department', 'cotr', 'amount', 'period', 'period_start', 'period_end', 'caption', 'more_info_pdf']])
+'department', 'cotr', 'amount', 'period', 'caption', 'more_info_pdf']])
 	#Write previously-scraped rows
 	if len(prev_out_rows)>0:
 		row_writer(prev_out_rows)
