@@ -11,32 +11,38 @@ page_num=0
 rows=[]
 
 #For testing the mechanism for looping through pages
-def fakeProcessPage(url):
+def fake_process_page(url):
 	print pq(url=url)('body').html()
 
-def processPage(url):
+def process_elem(elem):
+	cols=[]
+	text=s(elem).text()
+	if 'Department' in text and 'Caption' in text:
+		for matcher in [r'\s+([^\s]+)\s+Published', r'Published\s+on\s+(.+)Department:',r'Department:\s+(.+)COTR', r'COTR:\s+(.+)Amount:',r'Amount:\s+(.+)Period',r'Period:\s+(.+)Caption:',r'Period:\s+(.+)\s+through',r'through(.+)Caption:',r'Caption:\s+(.+)']:
+			mightMatch=re.search(matcher,text)
+			textToAdd=u'null'
+			if mightMatch and mightMatch.group(1):
+				textToAdd=mightMatch.group(1).replace('More Information','').strip().encode('utf-8')
+			cols.append(textToAdd)
+		link=s(elem).find('a[title*="More Information"]')
+		if link:
+			href=link.attr('href')
+			if href[0]=='/':
+				href=u'http://dclibrary.org'+href
+			cols.append(href)
+		else:
+			cols.append(u'null')
+		return cols
 
+def process_page(url):
 		#s=pq(file='file:// ....') for testing on a local html file 
 		s=pq(url=url)
 		for elem in s('.views-row'):
-			cols=[]
-			text=s(elem).text()
-			if 'Department' in text and 'Caption' in text:
-				for matcher in [r'\s([^\s]+)\s+Published', r'Published\son\s(.+)Department:',r'Department:\s(.+)COTR', r'COTR:\s(.+)Amount:',r'Amount:\s(.+)Period',r'Period:\s(.+)Caption:',r'Period:\s(.+)\sthrough',r'through(.+)Caption:',r'Caption:\s(.+)']:
-					mightMatch=re.search(matcher,text)
-					textToAdd=u'null'
-					if mightMatch and mightMatch.group(1):
-						textToAdd=mightMatch.group(1).replace('More Information','').strip().encode('utf-8')
-					cols.append(textToAdd)
-				link=s(elem).find('a[title*="More Information"]')
-				if link:
-					href=link.attr('href')
-					if href[0]=='/':
-						href=u'http://dclibrary.org'+href
-					cols.append(href)
-				else:
-					cols.append(u'null')
+			cols=process_elem(elem)
+			if(cols):
 				rows.append(cols)
+
+
 
 #Process pages until get to one without any contract data
 while True:
@@ -48,7 +54,7 @@ while True:
 		print 'not found'
 		break
 	else:
-		processPage(url)
+		process_page(url)
 		page_num+=1
 
 #Find out which contracts we already have data for
