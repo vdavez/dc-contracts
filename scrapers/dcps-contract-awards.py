@@ -57,16 +57,16 @@ while True:
 		process_page(url)
 		page_num+=1
 
-#Find out which contracts we already have data for
-prev_scraped=[]
-#open in universal newline mode. Fixes problem with editing
-#in Excel and then saving
+contract_ids=[rows[0] for row in rows]
+#Will contain previously-scraped records that don't exist in newly-scraped records
+prev_out_rows=[]
+#Append to out_file if it exists
 if os.path.isfile(out_file):
 	with open(out_file, 'rU') as f:
 		reader=csv.reader(f)
 		for row in reader:
-			prev_scraped.append(row[0])
-
+			if row[0] not in contract_ids:
+				prev_out_rows.append(row)
 
 #output rows to csv
 with open(out_file,'a') as f:
@@ -74,10 +74,11 @@ with open(out_file,'a') as f:
 	#Write headers
 	row_writer([['contract_award_data', 'published_date', 
 'department', 'cotr', 'amount', 'period', 'period_start', 'period_end', 'caption', 'more_info_pdf']])
-	#write rows one at a time, checking to see if already scraped
+	#Write previously-scraped rows
+	if len(prev_out_rows)>0:
+		row_writer(prev_out_rows)
 	for row in rows:
-		if row[0] not in prev_scraped:
-			row_writer([row])		
+		row_writer([row])		
 
 	
 
