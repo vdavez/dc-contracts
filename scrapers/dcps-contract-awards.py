@@ -10,6 +10,9 @@ out_file='dcps_contract_award.csv'
 page_num=0
 rows=[]
 
+column_headers=['contract_award_data', 'published_date', 
+'department', 'cotr', 'amount', 'period', 'caption', 'more_info_pdf']
+
 #For testing the mechanism for looping through pages
 def fake_process_page(url):
 	print pq(url=url)('body').html()
@@ -65,7 +68,7 @@ while True:
 		process_page(url)
 		page_num+=1
 
-contract_ids=[rows[0] for row in rows]
+contract_ids=[row[0] for row in rows]
 #Will contain previously-scraped records that don't exist in newly-scraped records
 prev_out_rows=[]
 #Append to out_file if it exists
@@ -73,15 +76,16 @@ if os.path.isfile(out_file):
 	with open(out_file, 'rU') as f:
 		reader=csv.reader(f)
 		for row in reader:
-			if row[0] not in contract_ids:
+			if row[0] not in contract_ids and row[0] not in column_headers[0]:
 				prev_out_rows.append(row)
+	with open(out_file,'w') as f:
+		f.truncate()
 
 #output rows to csv
 with open(out_file,'a') as f:
 	row_writer=csv.writer(f).writerows
 	#Write headers
-	row_writer([['contract_award_data', 'published_date', 
-'department', 'cotr', 'amount', 'period', 'caption', 'more_info_pdf']])
+	row_writer([column_headers])
 	#Write previously-scraped rows
 	if len(prev_out_rows)>0:
 		row_writer(prev_out_rows)
