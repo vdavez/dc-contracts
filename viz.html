@@ -1,0 +1,36 @@
+<!doctype html>
+<meta charset="utf-8">
+ 
+<!-- load D3js -->
+<script src="js/d3.js"></script>
+ 
+<!-- load D3plus after D3js -->
+<script src="js/d3plus.min.js"></script>
+ 
+<!-- create container element for visualization -->
+<div id="viz"></div>
+<script src='js/jquery-1.11.1.min.js'></script> 
+<script src='js/underscore-min.js'></script>
+<script>
+// sample data array
+var agency_data = []
+$.getJSON('scrapers/solesource.json', function (d) {
+  var agencylist = _.groupBy(d, function (agency) {
+    return agency.agency.trim()
+  })
+  agency_data = _.map(agencylist, function (list, agency) {
+    return {name:agency, value:list.length}
+  })
+
+var visualization = d3plus.viz()
+.container("#viz") // container DIV to hold the visualization
+.data(agency_data) // data to use with the visualization
+.type("tree_map") // visualization type
+.id("name") // key for which our data is unique on
+.size("value") // sizing of blocks
+.draw() // finally, draw the visualization!
+})
+ 
+// instantiate d3plus
+ 
+</script>
