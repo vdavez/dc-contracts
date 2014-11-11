@@ -1,5 +1,59 @@
 [
   {
+    "vendor": "Agilent Technologies  Determination & Findings ", 
+    "description": "The Office of Contracting and Procurement (OCP) on behalf of the Office of the Chief Medical Examiner (OCME) requires annual services on Agilent instrumentation for its Toxicology Department to maintain toxicology testing and currently has two (2) instruments which require immediate repair.  At this time, OCME can no longer complete heroin or fentanyl positive cases, which impacts the completion of Drug Facilitate Sexual assault (DFSA) casework.", 
+    "agency": "Office of Chief Medical Examiner (OCME)", 
+    "notice_date": " 11/7/2014", 
+    "contact": "Ruby.nelson@dc.gov    NIAS.info@dc.gov ", 
+    "response_due_date": "11/17/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_Doc183509.pdf"
+  }, 
+  {
+    "vendor": "Pierce Manufacturing Inc.        Determination & Findings ", 
+    "description": "Fire and Emergency Medical Services has a need for repair and refurbishment of a Pierce Arrow XT Fire Pump Truck numbers 181 (E19).  This unit was involved in a major accident, causing significant cosmetic, operational, and structural damage to the unit rendering it unfit for service. ", 
+    "agency": "Fire and Emergency Medical Services  ", 
+    "notice_date": " 11/7/2014", 
+    "contact": " joann.garnett@dc.gov    NIAS.info@dc.gov ", 
+    "response_due_date": "11/17/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_E19_Pierce_Manufacturing.pdf"
+  }, 
+  {
+    "vendor": "Laake Enterprises, Inc. dba FESCO Emergency Sales  Determination & Findings ", 
+    "description": "Refurbishment of Horton Ambulances", 
+    "agency": "Fire and Emergency Medical Services  ", 
+    "notice_date": " 11/7/2014", 
+    "contact": "Sherman.Squire@dc.gov   NIAS.info@dc.gov      ", 
+    "response_due_date": "11/17/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_20141107101558988DPW.pdf"
+  }, 
+  {
+    "vendor": "ProActive School, Inc.  Determination & Findings ", 
+    "description": "Since 2010, ProActive School has provided PCSB with the online educational management application, ProActive School Suite. The application allows PCSB to collect student enrollment, demographic, attendance, and discipline data from the public charter schools under its purview. To fulfill its oversight responsibilities, PCSB must continue to collect these data using the same business rules, methodology, technology, and software. In addition to maintaining support for data reporting tools, PCSB must continue its contract with ProActive School because the data systems and procedures of the public charter schools and the Office of the State Superintendent of Education are configured to share data", 
+    "agency": "DC Public Charter School Board", 
+    "notice_date": " 11/7/2014", 
+    "contact": " mlytton@dcpcsb.org   NIAS.info@dc.gov      ", 
+    "response_due_date": "11/17/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_PCSB.pdf"
+  }, 
+  {
+    "vendor": "Travelers Aid International Inc.  Determination & Findings ", 
+    "description": "The ESA is seeking a vendor to identify and assess the needs for single individuals and families who have found themselves indigent and/or homeless within the District of Columbia after arriving from other cities all across the country. ", 
+    "agency": "Department of Human Services", 
+    "notice_date": " 11/7/2014", 
+    "contact": "Georgette.Johnson@dc.Gov    NIAS.info@dc.gov      ", 
+    "response_due_date": "11/17/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_JG.pdf"
+  }, 
+  {
+    "vendor": "Coordinated Care Services, Inc.  Determination & Findings ", 
+    "description": "System Evaluation Services:  CFSA requires the immediate services of a third party familiar with the District\u0092s Trauma System and system of Care Grant.  The third party is required to evaluate a federal \u0093demonstration project\u0094 involving the use of federal title IV-4 funds to implement and expand community-and-home based services for children and families that CFSA serves.", 
+    "agency": "Children and Family Services Agency", 
+    "notice_date": " 11/6/2014", 
+    "contact": "Calvinl.mcfadden@dc.gov   NIAS.info@dc.gov      ", 
+    "response_due_date": "11/16/2014", 
+    "determinations_and_findings_link": ".\\D_F\\DF_CCSI.pdf"
+  }, 
+  {
     "vendor": "Enghouse Interactive  Determination & Findings ", 
     "description": "The Department of Employment Services (DOES) intends to issue a sole source award to Enghouse Interactive for the continued maintenance and support for the Interactive Voice Response System supporting the Districts Unemployment Insurance Department.", 
     "agency": "Department of Employment Services, Office of the Chief Information Office", 
